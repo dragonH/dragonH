@@ -57,8 +57,8 @@
 
 ### 📺 Latest AWS News
 
-<!-- AWS:START -->
-<!-- AWS:END -->
+<!-- AWS-NEWS:START -->
+<!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
 

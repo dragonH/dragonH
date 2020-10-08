@@ -1,5 +1,4 @@
-name: GitHub - Activity - Readme
-
+name: Latest Github Activity Workflow
 on:
   schedule:
     - cron: "0 * * * *"

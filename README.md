@@ -58,6 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service (Amazon IVS) 簡介](https://aws.amazon.com/tw/about-aws/whats-new/2020/07/introducing-amazon-ivs/)
+- [AWS CodePipeline 可支援以 AWS AppConfig 作為新的部署操作類型](https://aws.amazon.com/tw/about-aws/whats-new/2020/06/aws-codepipeline-supports-aws-appconfig-as-a-new-deploy-action-type/)
+- [AWS Direct Connect 在以色列啟用首座服務地點](https://aws.amazon.com/tw/about-aws/whats-new/2020/07/aws-direct-connect-launches-first-location-israel/)
+- [AWS 宣佈儲存的遷移加速計劃](https://aws.amazon.com/tw/about-aws/whats-new/2020/07/aws-announces-migration-acceleration-program-storage/)
+- [Amazon FSx for Lustre 現在支援 AWS Graviton2 型執行個體](https://aws.amazon.com/tw/about-aws/whats-new/2020/07/amazon-fsx-lustre-now-supports-aws-graviton2-based-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

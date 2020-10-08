@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [New AWS Public Datasets Available from Massachusetts Institute of Technology, the First Street Foundation, Ookla, and others](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-public-datasets-available/)
-- [AWS Compute Optimizer enhances EC2 instance type recommendations with Amazon EBS metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-compute-optimizer-enhances-ec2-instance-type-recommendations-with-amazon-ebs-metrics/)
-- [Amazon Connect chat now provides automation and personalization capabilities with whisper flows](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-chat-now-provides-automation-and-personalization-capabilities-with-whisper-flows/)
-- [Amazon SageMaker Studio is now available in the Europe (Frankfurt) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-studio-available-europe-frankfurt-region/)
-- [AWS Lambda Extensions: a new way to integrate Lambda with operational tools (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-extensions-integrate-operational-tools/)
+- [Amazon EMR now supports placing your EMR master nodes in distinct racks to reduce risk of simultaneous failure](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-now-supports-placing-your-emr-master-nodes-in-distinct-acks-to-reduce-risk-of-simultaneous-failure/)
+- [AWS Glue Streaming ETL jobs support schema detection and evolution](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-support-schema-detection-and-evolution/)
+- [Amazon Kinesis Data Analytics now supports Force Stop and a new Autoscaling status](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kinesis-data-analytics-supports-force-stop-and-new-autoscaling-status/)
+- [Amazon Inspector has expanded operating system support for Red Hat Enterprise Linux (RHEL) 8, Ubuntu 20.04 LTS, Debian 10, and Windows Server 2019](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-inspector-has-expanded-operating-system-support/)
+- [AWS Cost Categories now supports hierarchies and status tracking](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cost-categories-now-supports-hierarchies-and-status-tracking/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

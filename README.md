@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache on Outposts is now available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticache-outposts-now-available/)
+- [Amazon EventBridge announces support for Dead Letter Queues](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eventbridge-announces-support-dead-letter-queues/)
+- [AWS Lake Formation now supports cross account database sharing](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lake-formation-supports-cross-account-database-sharing/)
 - [Amazon EMR now supports placing your EMR master nodes in distinct racks to reduce risk of simultaneous failure](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-now-supports-placing-your-emr-master-nodes-in-distinct-acks-to-reduce-risk-of-simultaneous-failure/)
 - [AWS Glue Streaming ETL jobs support schema detection and evolution](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-support-schema-detection-and-evolution/)
-- [Amazon Kinesis Data Analytics now supports Force Stop and a new Autoscaling status](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kinesis-data-analytics-supports-force-stop-and-new-autoscaling-status/)
-- [Amazon Inspector has expanded operating system support for Red Hat Enterprise Linux (RHEL) 8, Ubuntu 20.04 LTS, Debian 10, and Windows Server 2019](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-inspector-has-expanded-operating-system-support/)
-- [AWS Cost Categories now supports hierarchies and status tracking](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cost-categories-now-supports-hierarchies-and-status-tracking/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

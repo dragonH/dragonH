@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Public Datasets Available from Massachusetts Institute of Technology, the First Street Foundation, Ookla, and others](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-public-datasets-available/)
 - [AWS Compute Optimizer enhances EC2 instance type recommendations with Amazon EBS metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-compute-optimizer-enhances-ec2-instance-type-recommendations-with-amazon-ebs-metrics/)
 - [Amazon Connect chat now provides automation and personalization capabilities with whisper flows](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-chat-now-provides-automation-and-personalization-capabilities-with-whisper-flows/)
 - [Amazon SageMaker Studio is now available in the Europe (Frankfurt) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-studio-available-europe-frankfurt-region/)
 - [AWS Lambda Extensions: a new way to integrate Lambda with operational tools (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-extensions-integrate-operational-tools/)
-- [Amazon WorkDocs now supports Dark Mode on iOS](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-workdocs-now-supports-dark-mode-on-ios/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

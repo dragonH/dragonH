@@ -13,4 +13,4 @@ jobs:
         with:
           comment_tag_name: "AWS-NEWS"
           commit_message: "Updated readme with the latest aws news"
-          feed_list: "https://aws.amazon.com/tw/about-aws/whats-new/recent/feed/"
+          feed_list: "https://aws.amazon.com/about-aws/whats-new/recent/feed/"

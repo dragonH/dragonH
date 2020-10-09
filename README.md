@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe announces support for AWS PrivateLink for Batch APIs](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-transcribe-announces-support-for-aws-privatelink-for-batch-apis/)
+- [Easily restore an Amazon RDS for MySQL database from your MySQL 8.0 backup](https://aws.amazon.com/about-aws/whats-new/2020/10/easily-restore-amazon-rds-for-mysql-database-from-mysql-8-backup/)
+- [AWS Lake Formation now supports cross account database sharing](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lake-formation-supports-cross-account-database-sharing/)
 - [Amazon EMR integration with AWS Lake Formation is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-integration-with-aws-lake-formation-is-now-generally-available/)
 - [AWS IoT SiteWise is now available in Asia Pacific (Singapore) and Asia Pacific (Sydney) AWS regions](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iot-sitewise-available-singapore-sydney/)
-- [AWS CodeArtifact now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-code-artifact-supports-aws-cloudformation/)
-- [Amazon ElastiCache on Outposts is now available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticache-outposts-now-available/)
-- [Amazon EventBridge announces support for Dead Letter Queues](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eventbridge-announces-support-dead-letter-queues/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

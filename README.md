@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect supports Amazon Lex bots with US Spanish](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-amazon-lex-bots-with-us-spanish/)
 - [Amazon Rekognition Custom Labels now guides customers to fix dataset related errors, enabling faster creation of a high quality custom inference API](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-custom-labels-now-guides-customers-to-fix-dataset-related-errors-enabling-faster-creation-of-a-high-quality-custom-inference-api/)
 - [Amazon Personalize announces improvements that reduce model training time by up to 40% and latency for generating recommendations by up to 30%](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-personalize-announces-improvements-that-reduce-model-training-time-by-up-to-40-percent-and-latency-for-generating-recommendations-by-up-to-30-percent/)
 - [AWS Cloud Map simplifies service discovery with optional parameters](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cloud-map-simplifies-service-discovery-optional-parameters/)
 - [Amazon Transcribe announces support for AWS PrivateLink for Batch APIs](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-transcribe-announces-support-for-aws-privatelink-for-batch-apis/)
-- [Easily restore an Amazon RDS for MySQL database from your MySQL 8.0 backup](https://aws.amazon.com/about-aws/whats-new/2020/10/easily-restore-amazon-rds-for-mysql-database-from-mysql-8-backup/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

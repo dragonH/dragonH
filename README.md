@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map simplifies service discovery with optional parameters](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cloud-map-simplifies-service-discovery-optional-parameters/)
 - [Amazon Transcribe announces support for AWS PrivateLink for Batch APIs](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-transcribe-announces-support-for-aws-privatelink-for-batch-apis/)
 - [Easily restore an Amazon RDS for MySQL database from your MySQL 8.0 backup](https://aws.amazon.com/about-aws/whats-new/2020/10/easily-restore-amazon-rds-for-mysql-database-from-mysql-8-backup/)
 - [AWS Lake Formation now supports cross account database sharing](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lake-formation-supports-cross-account-database-sharing/)
 - [Amazon EMR integration with AWS Lake Formation is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-integration-with-aws-lake-formation-is-now-generally-available/)
-- [AWS IoT SiteWise is now available in Asia Pacific (Singapore) and Asia Pacific (Sydney) AWS regions](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iot-sitewise-available-singapore-sydney/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

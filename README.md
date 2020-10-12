@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition adds support for six new content moderation categories](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/)
+- [CloudWatch Application Insights offers new, improved user interface](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudwatch-application-insights-offers-new-improved-user-interface/)
 - [Announcing Amazon CloudWatch Lambda Insights (preview)](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudwatch-lambda-insights-preview/)
 - [Amazon Connect supports Amazon Lex bots with US Spanish](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-amazon-lex-bots-with-us-spanish/)
 - [Amazon Rekognition Custom Labels now guides customers to fix dataset related errors, enabling faster creation of a high quality custom inference API](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-custom-labels-now-guides-customers-to-fix-dataset-related-errors-enabling-faster-creation-of-a-high-quality-custom-inference-api/)
-- [Amazon Personalize announces improvements that reduce model training time by up to 40% and latency for generating recommendations by up to 30%](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-personalize-announces-improvements-that-reduce-model-training-time-by-up-to-40-percent-and-latency-for-generating-recommendations-by-up-to-30-percent/)
-- [AWS Cloud Map simplifies service discovery with optional parameters](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cloud-map-simplifies-service-discovery-optional-parameters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

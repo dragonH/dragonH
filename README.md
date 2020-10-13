@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Database Activity Streams for Amazon Aurora is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/database-activity-streams-amazon-aurora-available-four-additional-regions/)
+- [AWS Elemental MediaLive Statmux adds MPEG2 support and other features](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-elemental-medialive-statmux-adds-mpeg2-support-other-features/)
+- [Announcing new digital curriculum: Moving to Managed Databases on AWS](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-new-digital-curriculum-moving-to-managed-databases-on-aws/)
 - [Amazon Rekognition adds support for six new content moderation categories](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/)
 - [CloudWatch Application Insights offers new, improved user interface](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudwatch-application-insights-offers-new-improved-user-interface/)
-- [Announcing Amazon CloudWatch Lambda Insights (preview)](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudwatch-lambda-insights-preview/)
-- [Amazon Connect supports Amazon Lex bots with US Spanish](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-amazon-lex-bots-with-us-spanish/)
-- [Amazon Rekognition Custom Labels now guides customers to fix dataset related errors, enabling faster creation of a high quality custom inference API](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-custom-labels-now-guides-customers-to-fix-dataset-related-errors-enabling-faster-creation-of-a-high-quality-custom-inference-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

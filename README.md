@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue supports reading from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-supports-reading-self-managed-apache-kafka/)
 - [Database Activity Streams for Amazon Aurora is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/database-activity-streams-amazon-aurora-available-four-additional-regions/)
 - [AWS Elemental MediaLive Statmux adds MPEG2 support and other features](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-elemental-medialive-statmux-adds-mpeg2-support-other-features/)
 - [Announcing new digital curriculum: Moving to Managed Databases on AWS](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-new-digital-curriculum-moving-to-managed-databases-on-aws/)
 - [Amazon Rekognition adds support for six new content moderation categories](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-adds-support-for-six-new-content-moderation-categories/)
-- [CloudWatch Application Insights offers new, improved user interface](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudwatch-application-insights-offers-new-improved-user-interface/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -3,7 +3,7 @@
 [![ITHelp](https://img.shields.io/website?label=ithelp&style=for-the-badge&url=https%3A%2F%2Fithelp.ithome.com.tw/users/20117259)](https://ithelp.ithome.com.tw/users/20117259)
 [![Codepen](https://img.shields.io/website?label=codepen&style=for-the-badge&url=https%3A%2F%2Fcodepen.io/dragonH)](https://codepen.io/dragonH)
 
-[![Codewars Badge](https://camo.githubusercontent.com/edb84f3d2f0df3ab60c9ff31766c0796e5a67cec/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f647261676f6e482f6261646765732f6c61726765)](www.codewars.com/users/dragonH/badges)
+[![Codewars Badge](https://camo.githubusercontent.com/edb84f3d2f0df3ab60c9ff31766c0796e5a67cec/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f647261676f6e482f6261646765732f6c61726765)](https://www.codewars.com/users/dragonH/badges)
 
 ## I'm a Front-End, Back-End and Data engineer
 

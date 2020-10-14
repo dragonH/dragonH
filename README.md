@@ -72,6 +72,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [jquery於兩個視窗間傳值的問題](http://dragonh.github.io/2020/09/22/jquery%E6%96%BC%E5%85%A9%E5%80%8B%E8%A6%96%E7%AA%97%E9%96%93%E5%82%B3%E5%80%BC%E7%9A%84%E5%95%8F%E9%A1%8C/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dragonH.github.io)

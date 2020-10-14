@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Fluent Bit supports Amazon S3 as a destination to route container logs](https://aws.amazon.com/about-aws/whats-new/2020/10/fluent-bit-supports-amazon-s3-destination-route-container-logs/)
 - [Amazon EKS now supports Kubernetes version 1.18](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eks-supports-kubernetes-version-1-18/)
 - [AWS Glue supports reading from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-supports-reading-self-managed-apache-kafka/)
 - [Announcing new digital curriculum: Moving to Managed Databases on AWS](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-new-digital-curriculum-moving-to-managed-databases-on-aws/)
 - [Database Activity Streams for Amazon Aurora is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/database-activity-streams-amazon-aurora-available-four-additional-regions/)
-- [AWS Elemental MediaLive Statmux adds MPEG2 support and other features](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-elemental-medialive-statmux-adds-mpeg2-support-other-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

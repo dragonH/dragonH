@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon WorkDocs now supports Dark Mode on iOS](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-workdocs-now-supports-dark-mode-on-ios/)
-- [AWS Security Hub launches a new user interface for security standards](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-security-hub-launches-new-user-interface-security-standards/)
-- [Apache Flink Kinesis Consumer supports EFO and HTTP/2 data retrieval](https://aws.amazon.com/about-aws/whats-new/2020/10/apache-flink-kinesis-consumer-supports-efo-http-2-data-retrieval/)
-- [Amazon ElastiCache for Redis adds support for Redis 6 with managed Role-Based Access Control (RBAC)](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticache-redis-support-managed-role-based-access-control/)
-- [CodeGuru Profiler now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/10/codeguru-profiler-supports-resource-tagging/)
+- [Amazon EKS now supports Kubernetes version 1.18](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eks-supports-kubernetes-version-1-18/)
+- [AWS Glue supports reading from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-supports-reading-self-managed-apache-kafka/)
+- [Announcing new digital curriculum: Moving to Managed Databases on AWS](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-new-digital-curriculum-moving-to-managed-databases-on-aws/)
+- [Database Activity Streams for Amazon Aurora is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/database-activity-streams-amazon-aurora-available-four-additional-regions/)
+- [AWS Elemental MediaLive Statmux adds MPEG2 support and other features](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-elemental-medialive-statmux-adds-mpeg2-support-other-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
@@ -82,6 +82,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/dragonH/movie-api/pull/3) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
+2. 🎉 Merged PR [#6](https://github.com/dragonH/shopping-site-practice/pull/6) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+3. 🎉 Merged PR [#3](https://github.com/dragonH/shopping-site-practice/pull/3) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+4. 🎉 Merged PR [#2](https://github.com/dragonH/movie-api/pull/2) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
+5. 🎉 Merged PR [#7](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/7) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
 <!--END_SECTION:activity-->
 
 </details>

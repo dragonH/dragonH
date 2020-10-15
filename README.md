@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics launches Recorder to generate user flow scripts for canaries](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-synthetics-launches-recorder-to-generate-user-flow-scripts-for-canaries/)
+- [New course for Amazon Elastic Kubernetes Service (Amazon EKS)](https://aws.amazon.com/about-aws/whats-new/2020/10/new-course-for-amazon-elastic-kubernetes-service-amazon-eks/)
 - [New AWS Solutions Consulting Offer - Jira Service Desk Data Center Implementation](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-jira-service-desk-data-center-implementation/)
 - [AWS End of Support Migration Program for Windows Server now available as a self-serve solution for customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-end-of-support-migration-program-for-windows-server-now-available-as-a-self-serve-solution-for-customers/)
 - [AWS Purchase Order Management is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-purchase-order-management-now-generally-available/)
-- [New AWS Solutions Consulting Offer - Infosys Data Testing Workbench](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-infosys-data-testing-workbench/)
-- [Fluent Bit supports Amazon S3 as a destination to route container logs](https://aws.amazon.com/about-aws/whats-new/2020/10/fluent-bit-supports-amazon-s3-destination-route-container-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

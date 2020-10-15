@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue crawlers now support Amazon DocumentDB (with MongoDB compatibility) and MongoDB collections](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-crawlers-support-amazon-documentdb-mongodb-compatibility-mongodb-collections/)
 - [Announcing AWS Budgets Actions](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-actions/)
 - [Amazon RDS for PostgreSQL supports concurrent major version upgrades of read replicas](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-postgresql-supports-concurrent-major-version-upgrades-of-read-replicas/)
 - [Amazon Connect now supports one click drill downs for real-time metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-one-click-drill-downs-for-real-time-metrics/)
 - [Achieve up to 52% better price/performance with Amazon RDS using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2020/10/achieve-up-to-52-percent-better-price-performance-with-amazon-rds-using-new-graviton2-instances/)
-- [Announcing AWS Budgets price reduction](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-price-reduction/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

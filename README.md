@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora enables dynamic resizing for database storage space](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-enables-dynamic-resizing-database-storage-space/)
+- [AWS IAM Access Analyzer now supports archive rules for existing findings](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iam-access-analyzer-now-supports-archive-rules-for-existing-findings/)
+- [AWS Glue Streaming ETL jobs support reading records in the Apache Avro format](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-support-reading-records-in-apache-avro-format/)
 - [Amazon CloudWatch Synthetics launches Recorder to generate user flow scripts for canaries](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-synthetics-launches-recorder-to-generate-user-flow-scripts-for-canaries/)
 - [New course for Amazon Elastic Kubernetes Service (Amazon EKS)](https://aws.amazon.com/about-aws/whats-new/2020/10/new-course-for-amazon-elastic-kubernetes-service-amazon-eks/)
-- [New AWS Solutions Consulting Offer - Jira Service Desk Data Center Implementation](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-jira-service-desk-data-center-implementation/)
-- [AWS End of Support Migration Program for Windows Server now available as a self-serve solution for customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-end-of-support-migration-program-for-windows-server-now-available-as-a-self-serve-solution-for-customers/)
-- [AWS Purchase Order Management is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-purchase-order-management-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

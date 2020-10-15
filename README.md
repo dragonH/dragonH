@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Aurora enables dynamic resizing for database storage space](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-enables-dynamic-resizing-database-storage-space/)
-- [AWS IAM Access Analyzer now supports archive rules for existing findings](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iam-access-analyzer-now-supports-archive-rules-for-existing-findings/)
-- [AWS Glue Streaming ETL jobs support reading records in the Apache Avro format](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-support-reading-records-in-apache-avro-format/)
-- [Amazon CloudWatch Synthetics launches Recorder to generate user flow scripts for canaries](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-synthetics-launches-recorder-to-generate-user-flow-scripts-for-canaries/)
-- [New course for Amazon Elastic Kubernetes Service (Amazon EKS)](https://aws.amazon.com/about-aws/whats-new/2020/10/new-course-for-amazon-elastic-kubernetes-service-amazon-eks/)
+- [Announcing AWS Budgets Actions](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-actions/)
+- [Amazon RDS for PostgreSQL supports concurrent major version upgrades of read replicas](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-postgresql-supports-concurrent-major-version-upgrades-of-read-replicas/)
+- [Amazon Connect now supports one click drill downs for real-time metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-one-click-drill-downs-for-real-time-metrics/)
+- [Achieve up to 52% better price/performance with Amazon RDS using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2020/10/achieve-up-to-52-percent-better-price-performance-with-amazon-rds-using-new-graviton2-instances/)
+- [Announcing AWS Budgets price reduction](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-price-reduction/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

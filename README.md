@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Jira Service Desk Data Center Implementation](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-jira-service-desk-data-center-implementation/)
+- [AWS End of Support Migration Program for Windows Server now available as a self-serve solution for customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-end-of-support-migration-program-for-windows-server-now-available-as-a-self-serve-solution-for-customers/)
 - [AWS Purchase Order Management is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-purchase-order-management-now-generally-available/)
 - [New AWS Solutions Consulting Offer - Infosys Data Testing Workbench](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-infosys-data-testing-workbench/)
 - [Fluent Bit supports Amazon S3 as a destination to route container logs](https://aws.amazon.com/about-aws/whats-new/2020/10/fluent-bit-supports-amazon-s3-destination-route-container-logs/)
-- [Amazon EKS now supports Kubernetes version 1.18](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eks-supports-kubernetes-version-1-18/)
-- [AWS Glue supports reading from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-supports-reading-self-managed-apache-kafka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

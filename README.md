@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition now detects Personal Protective Equipment (PPE) such as face covers, head covers, and hand covers on persons in images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-now-detects-personal-protective-equipment-ppe-such-as-face-covers-head-covers-and-hand-covers-on-persons-in-images/)
+- [Amazon QuickSight adds support for on-sheet filter controls](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-quicksight-adds-support-for-on-sheet-filter-controls/)
 - [AWS Systems Manager Patch Manager now provides a catalog of all patches for Amazon Linux](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-patch-manager-provides-catalog-all-patches-amazon-linux/)
 - [Amazon CloudWatch Synthetics launches Recorder to generate user flow scripts for canaries](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-synthetics-launches-recorder-to-generate-user-flow-scripts-for-canaries/)
-- [Amazon EMR now provides up to 76% lower cost and 3.6X improved performance](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-provides-lower-cost-improved-performance/)
+- [Amazon EMR now provides up to 35% lower cost and up to 15% improved performance for Spark workloads on Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-provides-lower-cost-improved-performance/)
 - [Resource Access Manager Support is now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2020/10/resource-access-manager-support-available-aws-outposts/)
 - [AWS Systems Manager now supports free-text search of runbooks](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-now-supports-free-text-search-of-runbooks/)
 - [AWS Launch Wizard now supports SAP HANA backups with AWS Backint Agent](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-launch-wizard-supports-sap-hana-backups-aws-backint-agent/)
 - [Announcing cross-database queries for Amazon Redshift (preview)](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-cross-database-queries-for-amazon-redshift-preview/)
 - [AWS Glue crawlers now support Amazon DocumentDB (with MongoDB compatibility) and MongoDB collections](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-crawlers-support-amazon-documentdb-mongodb-compatibility-mongodb-collections/)
-- [Announcing AWS Budgets Actions](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-actions/)
-- [Amazon RDS for PostgreSQL supports concurrent major version upgrades of read replicas](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-postgresql-supports-concurrent-major-version-upgrades-of-read-replicas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

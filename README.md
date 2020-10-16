@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics launches Recorder to generate user flow scripts for canaries](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-synthetics-launches-recorder-to-generate-user-flow-scripts-for-canaries/)
 - [Amazon EMR now provides up to 76% lower cost and 3.6X improved performance](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-provides-lower-cost-improved-performance/)
 - [Resource Access Manager Support is now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2020/10/resource-access-manager-support-available-aws-outposts/)
 - [AWS Systems Manager now supports free-text search of runbooks](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-now-supports-free-text-search-of-runbooks/)
@@ -67,7 +68,6 @@
 - [Announcing AWS Budgets Actions](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-actions/)
 - [Amazon RDS for PostgreSQL supports concurrent major version upgrades of read replicas](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-postgresql-supports-concurrent-major-version-upgrades-of-read-replicas/)
 - [Amazon Connect now supports one click drill downs for real-time metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-one-click-drill-downs-for-real-time-metrics/)
-- [Achieve up to 52% better price/performance with Amazon RDS using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2020/10/achieve-up-to-52-percent-better-price-performance-with-amazon-rds-using-new-graviton2-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

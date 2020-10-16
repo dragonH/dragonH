@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now supports SAP HANA backups with AWS Backint Agent](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-launch-wizard-supports-sap-hana-backups-aws-backint-agent/)
 - [Announcing cross-database queries for Amazon Redshift (preview)](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-cross-database-queries-for-amazon-redshift-preview/)
 - [AWS Glue crawlers now support Amazon DocumentDB (with MongoDB compatibility) and MongoDB collections](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-crawlers-support-amazon-documentdb-mongodb-compatibility-mongodb-collections/)
 - [Announcing AWS Budgets Actions](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-actions/)
@@ -67,7 +68,6 @@
 - [Announcing AWS Budgets price reduction](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-budgets-price-reduction/)
 - [Amazon Aurora enables dynamic resizing for database storage space](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-enables-dynamic-resizing-database-storage-space/)
 - [AWS IAM Access Analyzer now supports archive rules for existing findings](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iam-access-analyzer-now-supports-archive-rules-for-existing-findings/)
-- [AWS Glue Streaming ETL jobs support reading records in the Apache Avro format](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-streaming-etl-jobs-support-reading-records-in-apache-avro-format/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

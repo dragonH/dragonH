@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract is now available in the Asia Pacific (Seoul) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-textract-is-now-available-in-the-asia-pacific-seoul-and-canada-central-regions/)
 - [Amazon Rekognition now detects Personal Protective Equipment (PPE) such as face covers, head covers, and hand covers on persons in images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-now-detects-personal-protective-equipment-ppe-such-as-face-covers-head-covers-and-hand-covers-on-persons-in-images/)
 - [Amazon QuickSight adds support for on-sheet filter controls](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-quicksight-adds-support-for-on-sheet-filter-controls/)
 - [AWS Systems Manager Patch Manager now provides a catalog of all patches for Amazon Linux](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-patch-manager-provides-catalog-all-patches-amazon-linux/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager now supports free-text search of runbooks](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-now-supports-free-text-search-of-runbooks/)
 - [AWS Launch Wizard now supports SAP HANA backups with AWS Backint Agent](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-launch-wizard-supports-sap-hana-backups-aws-backint-agent/)
 - [Announcing cross-database queries for Amazon Redshift (preview)](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-cross-database-queries-for-amazon-redshift-preview/)
-- [AWS Glue crawlers now support Amazon DocumentDB (with MongoDB compatibility) and MongoDB collections](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-glue-crawlers-support-amazon-documentdb-mongodb-compatibility-mongodb-collections/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync simplifies initial setup for online data transfers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-datasync-simplifies-initial-setup-for-online-data-transfers/)
+- [AWS IQ now provides integrated access logs for expert activity](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iq-now-provides-integrated-access-logs-for-expert-activity/)
 - [Porting Assistant for .NET is now open source](https://aws.amazon.com/about-aws/whats-new/2020/10/porting-assistant-for-dot-net-is-now-open-source/)
 - [Amazon Textract is now available in the Asia Pacific (Seoul) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-textract-is-now-available-in-the-asia-pacific-seoul-and-canada-central-regions/)
 - [Amazon Rekognition now detects Personal Protective Equipment (PPE) such as face covers, head covers, and hand covers on persons in images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-now-detects-personal-protective-equipment-ppe-such-as-face-covers-head-covers-and-hand-covers-on-persons-in-images/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch Synthetics launches Recorder to generate user flow scripts for canaries](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-synthetics-launches-recorder-to-generate-user-flow-scripts-for-canaries/)
 - [Amazon EMR now provides up to 35% lower cost and up to 15% improved performance for Spark workloads on Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-provides-lower-cost-improved-performance/)
 - [Resource Access Manager Support is now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2020/10/resource-access-manager-support-available-aws-outposts/)
-- [AWS Systems Manager now supports free-text search of runbooks](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-now-supports-free-text-search-of-runbooks/)
-- [AWS Launch Wizard now supports SAP HANA backups with AWS Backint Agent](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-launch-wizard-supports-sap-hana-backups-aws-backint-agent/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

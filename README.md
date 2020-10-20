@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Kinesis Client Library now enables multi-stream processing](https://aws.amazon.com/about-aws/whats-new/2020/10/kinesis-client-library-enables-multi-stream-processing/)
+- [Announcing Amazon CloudFront Origin Shield](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudfront-origin-shield/)
 - [AWS Systems Manager now allows filtering automation executions by applications or environments](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-allows-filtering-automation-executions-applications-environments/)
 - [Port forwarding sessions created using Session Manager now support multiple simultaneous connections](https://aws.amazon.com/about-aws/whats-new/2020/10/port-forwarding-sessions-created-sessions-manager-support-multiple-simultaneous-connections/)
 - [You now can manage access to Amazon Keyspaces by using temporary security credentials for the Python, Go, and Node.js Cassandra drivers](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-keyspaces-security-credentials-for-python-go-and-node-js-cassandra-drivers/)
@@ -66,8 +68,6 @@
 - [AWS IQ now provides integrated access logs for expert activity](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iq-now-provides-integrated-access-logs-for-expert-activity/)
 - [Porting Assistant for .NET is now open source](https://aws.amazon.com/about-aws/whats-new/2020/10/porting-assistant-for-dot-net-is-now-open-source/)
 - [Amazon Textract is now available in the Asia Pacific (Seoul) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-textract-is-now-available-in-the-asia-pacific-seoul-and-canada-central-regions/)
-- [Amazon Rekognition now detects Personal Protective Equipment (PPE) such as face covers, head covers, and hand covers on persons in images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-now-detects-personal-protective-equipment-ppe-such-as-face-covers-head-covers-and-hand-covers-on-persons-in-images/)
-- [Amazon QuickSight adds support for on-sheet filter controls](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-quicksight-adds-support-for-on-sheet-filter-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

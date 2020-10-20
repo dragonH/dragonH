@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [You now can manage access to Amazon Keyspaces by using temporary security credentials for the Python, Go, and Node.js Cassandra drivers](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-keyspaces-security-credentials-for-python-go-and-node-js-cassandra-drivers/)
 - [Amazon Connect supports “neural” Text-to-Speech voices in the London, Frankfurt, Singapore, and Tokyo regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-neural-text-to-speech-voices-in-london-frankfurt-singapore-tokyo/)
 - [AWS DataSync simplifies initial setup for online data transfers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-datasync-simplifies-initial-setup-for-online-data-transfers/)
 - [AWS IQ now provides integrated access logs for expert activity](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iq-now-provides-integrated-access-logs-for-expert-activity/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight adds support for on-sheet filter controls](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-quicksight-adds-support-for-on-sheet-filter-controls/)
 - [AWS Systems Manager Patch Manager now provides a catalog of all patches for Amazon Linux](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-patch-manager-provides-catalog-all-patches-amazon-linux/)
 - [Amazon CloudWatch Synthetics launches Recorder to generate user flow scripts for canaries](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-synthetics-launches-recorder-to-generate-user-flow-scripts-for-canaries/)
-- [Amazon EMR now provides up to 35% lower cost and up to 15% improved performance for Spark workloads on Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-emr-provides-lower-cost-improved-performance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

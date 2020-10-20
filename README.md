@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now allows filtering automation executions by applications or environments](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-allows-filtering-automation-executions-applications-environments/)
 - [Port forwarding sessions created using Session Manager now support multiple simultaneous connections](https://aws.amazon.com/about-aws/whats-new/2020/10/port-forwarding-sessions-created-sessions-manager-support-multiple-simultaneous-connections/)
 - [You now can manage access to Amazon Keyspaces by using temporary security credentials for the Python, Go, and Node.js Cassandra drivers](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-keyspaces-security-credentials-for-python-go-and-node-js-cassandra-drivers/)
 - [Amazon Connect supports “neural” Text-to-Speech voices in the London, Frankfurt, Singapore, and Tokyo regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-neural-text-to-speech-voices-in-london-frankfurt-singapore-tokyo/)
@@ -67,7 +68,6 @@
 - [Amazon Textract is now available in the Asia Pacific (Seoul) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-textract-is-now-available-in-the-asia-pacific-seoul-and-canada-central-regions/)
 - [Amazon Rekognition now detects Personal Protective Equipment (PPE) such as face covers, head covers, and hand covers on persons in images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-now-detects-personal-protective-equipment-ppe-such-as-face-covers-head-covers-and-hand-covers-on-persons-in-images/)
 - [Amazon QuickSight adds support for on-sheet filter controls](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-quicksight-adds-support-for-on-sheet-filter-controls/)
-- [AWS Systems Manager Patch Manager now provides a catalog of all patches for Amazon Linux](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-patch-manager-provides-catalog-all-patches-amazon-linux/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

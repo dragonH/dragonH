@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch now supports Configurable Job Retries](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-batch-supports-configurable-job-retries/)
+- [Amazon Redshift now supports modifying column compression encodings to optimize storage utilization and query performance](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-modifying-column-comprression-encodings-to-optimize-storage-utilization-query-performance/)
 - [AWS Lambda now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/)
 - [Kinesis Client Library now enables multi-stream processing](https://aws.amazon.com/about-aws/whats-new/2020/10/kinesis-client-library-enables-multi-stream-processing/)
 - [Announcing Amazon CloudFront Origin Shield](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudfront-origin-shield/)
@@ -66,8 +68,6 @@
 - [You now can manage access to Amazon Keyspaces by using temporary security credentials for the Python, Go, and Node.js Cassandra drivers](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-keyspaces-security-credentials-for-python-go-and-node-js-cassandra-drivers/)
 - [Amazon Connect supports “neural” Text-to-Speech voices in the London, Frankfurt, Singapore, and Tokyo regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-neural-text-to-speech-voices-in-london-frankfurt-singapore-tokyo/)
 - [AWS DataSync simplifies initial setup for online data transfers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-datasync-simplifies-initial-setup-for-online-data-transfers/)
-- [AWS IQ now provides integrated access logs for expert activity](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iq-now-provides-integrated-access-logs-for-expert-activity/)
-- [Porting Assistant for .NET is now open source](https://aws.amazon.com/about-aws/whats-new/2020/10/porting-assistant-for-dot-net-is-now-open-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

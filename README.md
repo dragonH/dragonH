@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/)
 - [Kinesis Client Library now enables multi-stream processing](https://aws.amazon.com/about-aws/whats-new/2020/10/kinesis-client-library-enables-multi-stream-processing/)
 - [Announcing Amazon CloudFront Origin Shield](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudfront-origin-shield/)
 - [AWS Systems Manager now allows filtering automation executions by applications or environments](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-allows-filtering-automation-executions-applications-environments/)
@@ -67,7 +68,6 @@
 - [AWS DataSync simplifies initial setup for online data transfers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-datasync-simplifies-initial-setup-for-online-data-transfers/)
 - [AWS IQ now provides integrated access logs for expert activity](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iq-now-provides-integrated-access-logs-for-expert-activity/)
 - [Porting Assistant for .NET is now open source](https://aws.amazon.com/about-aws/whats-new/2020/10/porting-assistant-for-dot-net-is-now-open-source/)
-- [Amazon Textract is now available in the Asia Pacific (Seoul) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-textract-is-now-available-in-the-asia-pacific-seoul-and-canada-central-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

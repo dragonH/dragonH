@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup is now available in Cape Town and Milan](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-backup-is-now-available-in-cape-town-and-milan/)
+- [New AWS Solutions Consulting Offer - Jira Software Data Center Implementation](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-jira-software-data-center-implementation/)
+- [CloudWatch Application Insights adds EBS volume and API Gateway metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudwatch-application-insights-adds-ebs-volume-and-api-gateway-metrics/)
 - [Amazon CloudWatch Logs Insights is now available in the Asia Pacific (Osaka-Local) Region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-logs-insights-is-now-available-in-the-asia-pacific-osaka-local-region/)
 - [AWS Batch now supports Configurable Job Retries](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-batch-supports-configurable-job-retries/)
 - [Amazon Redshift now supports modifying column compression encodings to optimize storage utilization and query performance](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-modifying-column-comprression-encodings-to-optimize-storage-utilization-query-performance/)
@@ -65,9 +68,6 @@
 - [Kinesis Client Library now enables multi-stream processing](https://aws.amazon.com/about-aws/whats-new/2020/10/kinesis-client-library-enables-multi-stream-processing/)
 - [Announcing Amazon CloudFront Origin Shield](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-amazon-cloudfront-origin-shield/)
 - [AWS Systems Manager now allows filtering automation executions by applications or environments](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-systems-manager-allows-filtering-automation-executions-applications-environments/)
-- [Port forwarding sessions created using Session Manager now support multiple simultaneous connections](https://aws.amazon.com/about-aws/whats-new/2020/10/port-forwarding-sessions-created-sessions-manager-support-multiple-simultaneous-connections/)
-- [You now can manage access to Amazon Keyspaces by using temporary security credentials for the Python, Go, and Node.js Cassandra drivers](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-keyspaces-security-credentials-for-python-go-and-node-js-cassandra-drivers/)
-- [Amazon Connect supports “neural” Text-to-Speech voices in the London, Frankfurt, Singapore, and Tokyo regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-neural-text-to-speech-voices-in-london-frankfurt-singapore-tokyo/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

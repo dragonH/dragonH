@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Simple Email Service is now available in the US West (N. California), Europe (Paris), and Europe (Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-simple-email-service-available-california-europe-paris-stockholm-regions/)
+- [AWS App Mesh is now available in Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-available-europe-milan-region/)
+- [Amazon Kinesis Data Analytics is now available in the US West (California) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kinesis-data-analytics-is-now-available-in-the-us-west-california-aws-region/)
+- [Amazon MSK adds support for Apache Kafka version 2.6.0](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-msk-adds-support-for-apache-kafka-version-2-6-0/)
 - [Pause and Resume Workloads on I3, M5ad, and R5ad Instances with Amazon EC2 Hibernation](https://aws.amazon.com/about-aws/whats-new/2020/10/pause-resume-workloads-instances-amazon-ec2-hibernation/)
 - [AWS Global Accelerator launches port overrides](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-global-accelerator-launches-port-overrides/)
 - [AWS Security Hub is now available in the AWS China (Beijing) Region operated by Sinnet and in the AWS China (Ningxia) Region operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-security-hub-available-beijing-sinnet-ningxia-nwcd/)
 - [Use existing Cognito User Pools & Identity Pools for your Amplify project](https://aws.amazon.com/about-aws/whats-new/2020/10/use-existing-cognito-user-pools-identity-pools-for-amplify-project/)
 - [Announcing AWS Distro for OpenTelemetry in Preview](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-distro-for-opentelemetry-in-preview/)
 - [Now customize your Session Manager shell environment with configurable shell profiles](https://aws.amazon.com/about-aws/whats-new/2020/10/now-customize-your-session-manager-shell-environment-with-configurable-shell-profiles/)
-- [Amazon QLDB Go Driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-qldb-go-driver-now-generally-available/)
-- [AWS Backup is now available in Cape Town and Milan](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-backup-is-now-available-in-cape-town-and-milan/)
-- [New AWS Solutions Consulting Offer - Jira Software Data Center Implementation](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-jira-software-data-center-implementation/)
-- [CloudWatch Application Insights adds EBS volume and API Gateway metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudwatch-application-insights-adds-ebs-volume-and-api-gateway-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

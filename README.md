@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches agent connection time metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-launches-agent-connection-time-metrics/)
 - [Amazon Simple Email Service is now available in the US West (N. California), Europe (Paris), and Europe (Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-simple-email-service-available-california-europe-paris-stockholm-regions/)
 - [AWS App Mesh is now available in Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-available-europe-milan-region/)
 - [Amazon Kinesis Data Analytics is now available in the US West (California) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kinesis-data-analytics-is-now-available-in-the-us-west-california-aws-region/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub is now available in the AWS China (Beijing) Region operated by Sinnet and in the AWS China (Ningxia) Region operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-security-hub-available-beijing-sinnet-ningxia-nwcd/)
 - [Use existing Cognito User Pools & Identity Pools for your Amplify project](https://aws.amazon.com/about-aws/whats-new/2020/10/use-existing-cognito-user-pools-identity-pools-for-amplify-project/)
 - [Announcing AWS Distro for OpenTelemetry in Preview](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-distro-for-opentelemetry-in-preview/)
-- [Now customize your Session Manager shell environment with configurable shell profiles](https://aws.amazon.com/about-aws/whats-new/2020/10/now-customize-your-session-manager-shell-environment-with-configurable-shell-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

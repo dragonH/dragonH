@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs Insights is now available in the Asia Pacific (Osaka-Local) Region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cloudwatch-logs-insights-is-now-available-in-the-asia-pacific-osaka-local-region/)
 - [AWS Batch now supports Configurable Job Retries](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-batch-supports-configurable-job-retries/)
 - [Amazon Redshift now supports modifying column compression encodings to optimize storage utilization and query performance](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-modifying-column-comprression-encodings-to-optimize-storage-utilization-query-performance/)
 - [AWS Lambda now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-lambda-now-supports-aws-privatelink/)
@@ -67,7 +68,6 @@
 - [Port forwarding sessions created using Session Manager now support multiple simultaneous connections](https://aws.amazon.com/about-aws/whats-new/2020/10/port-forwarding-sessions-created-sessions-manager-support-multiple-simultaneous-connections/)
 - [You now can manage access to Amazon Keyspaces by using temporary security credentials for the Python, Go, and Node.js Cassandra drivers](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-keyspaces-security-credentials-for-python-go-and-node-js-cassandra-drivers/)
 - [Amazon Connect supports “neural” Text-to-Speech voices in the London, Frankfurt, Singapore, and Tokyo regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-supports-neural-text-to-speech-voices-in-london-frankfurt-singapore-tokyo/)
-- [AWS DataSync simplifies initial setup for online data transfers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-datasync-simplifies-initial-setup-for-online-data-transfers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

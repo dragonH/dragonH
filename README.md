@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/)
+- [Amazon SNS introduces First-in-First-out (FIFO) topics with strict ordering and deduplication of messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-introduces-fifo-topics-with-strict-ordering-and-deduplication-of-messages/)
+- [AWS App Mesh supports cross account sharing of ACM Private Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-supports-cross-account-sharing-of-acm-private-certificate-authority/)
+- [AWS App Mesh increases default limits on several resources](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-increases-default-limits-on-several-resources/)
 - [Amazon RDS for Oracle supports managed disaster recovery (DR) with Oracle Data Guard physical standby database](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-oracle-supports-managed-disaster-recovery-with-oracle-guard-physical-standby-database/)
 - [AWS CloudFormation now supports increased limits on five service quotas](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cloudformation-now-supports-increased-limits-on-five-service-quotas/)
 - [Amazon AppStream 2.0 adds a smaller instance size to the General Purpose instance family](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appstream-2-0-adds-smaller-instance-size-general-purpose-instance-family/)
 - [AWS Step Functions now supports Amazon Athena service integration](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/)
 - [Amazon MQ now supports ActiveMQ version 5.15.13](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-mq-now-supports-activemq-version-5-15-13/)
 - [Amazon Kendra now supports custom data sources](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-now-supports-custom-data-sources/)
-- [Amazon SageMaker is now available in the Africa (Cape Town) and Europe (Milan) AWS regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-is-now-available-in-the-africa-cape-town-and-europe-milan-aws-regions/)
-- [Amazon Connect launches agent connection time metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-launches-agent-connection-time-metrics/)
-- [Amazon Simple Email Service is now available in the US West (N. California), Europe (Paris), and Europe (Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-simple-email-service-available-california-europe-paris-stockholm-regions/)
-- [AWS App Mesh is now available in Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-available-europe-milan-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

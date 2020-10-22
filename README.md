@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports ActiveMQ version 5.15.13](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-mq-now-supports-activemq-version-5-15-13/)
+- [Amazon Kendra now supports custom data sources](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-now-supports-custom-data-sources/)
+- [Amazon SageMaker is now available in the Africa (Cape Town) and Europe (Milan) AWS regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-is-now-available-in-the-africa-cape-town-and-europe-milan-aws-regions/)
 - [Amazon Connect launches agent connection time metrics](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-connect-launches-agent-connection-time-metrics/)
 - [Amazon Simple Email Service is now available in the US West (N. California), Europe (Paris), and Europe (Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-simple-email-service-available-california-europe-paris-stockholm-regions/)
 - [AWS App Mesh is now available in Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-available-europe-milan-region/)
@@ -65,9 +68,6 @@
 - [Amazon MSK adds support for Apache Kafka version 2.6.0](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-msk-adds-support-for-apache-kafka-version-2-6-0/)
 - [Pause and Resume Workloads on I3, M5ad, and R5ad Instances with Amazon EC2 Hibernation](https://aws.amazon.com/about-aws/whats-new/2020/10/pause-resume-workloads-instances-amazon-ec2-hibernation/)
 - [AWS Global Accelerator launches port overrides](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-global-accelerator-launches-port-overrides/)
-- [AWS Security Hub is now available in the AWS China (Beijing) Region operated by Sinnet and in the AWS China (Ningxia) Region operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-security-hub-available-beijing-sinnet-ningxia-nwcd/)
-- [Use existing Cognito User Pools & Identity Pools for your Amplify project](https://aws.amazon.com/about-aws/whats-new/2020/10/use-existing-cognito-user-pools-identity-pools-for-amplify-project/)
-- [Announcing AWS Distro for OpenTelemetry in Preview](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-distro-for-opentelemetry-in-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

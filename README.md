@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront announces support for public key management through IAM user permissions for signed URLs and signed cookies](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudfront-iam-signed-url/)
 - [Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/)
 - [Amazon SNS introduces First-in-First-out (FIFO) topics with strict ordering and deduplication of messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-introduces-fifo-topics-with-strict-ordering-and-deduplication-of-messages/)
 - [AWS App Mesh supports cross account sharing of ACM Private Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-supports-cross-account-sharing-of-acm-private-certificate-authority/)
@@ -67,7 +68,6 @@
 - [Amazon AppStream 2.0 adds a smaller instance size to the General Purpose instance family](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appstream-2-0-adds-smaller-instance-size-general-purpose-instance-family/)
 - [AWS Step Functions now supports Amazon Athena service integration](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/)
 - [Amazon MQ now supports ActiveMQ version 5.15.13](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-mq-now-supports-activemq-version-5-15-13/)
-- [Amazon Kendra now supports custom data sources](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-now-supports-custom-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

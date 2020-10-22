@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions now supports Amazon Athena service integration](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/)
 - [Amazon MQ now supports ActiveMQ version 5.15.13](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-mq-now-supports-activemq-version-5-15-13/)
 - [Amazon Kendra now supports custom data sources](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-now-supports-custom-data-sources/)
 - [Amazon SageMaker is now available in the Africa (Cape Town) and Europe (Milan) AWS regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-is-now-available-in-the-africa-cape-town-and-europe-milan-aws-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Analytics is now available in the US West (California) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kinesis-data-analytics-is-now-available-in-the-us-west-california-aws-region/)
 - [Amazon MSK adds support for Apache Kafka version 2.6.0](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-msk-adds-support-for-apache-kafka-version-2-6-0/)
 - [Pause and Resume Workloads on I3, M5ad, and R5ad Instances with Amazon EC2 Hibernation](https://aws.amazon.com/about-aws/whats-new/2020/10/pause-resume-workloads-instances-amazon-ec2-hibernation/)
-- [AWS Global Accelerator launches port overrides](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-global-accelerator-launches-port-overrides/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

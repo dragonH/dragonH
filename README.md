@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL Supports Minor Version 8.0.21](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-mysql-supports-minor-version-8-0-21/)
+- [Introducing the AWS Load Balancer Controller](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-aws-load-balancer-controller/)
+- [Amazon EKS is now FedRAMP-Moderate compliant](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eks-now-fedramp-moderate-compliant/)
 - [Amazon Relational Database Service (RDS) Snapshot Export to S3 available in additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-relational-database-service-snapshot-export-s3-available-additional-regions/)
 - [Amazon CloudFront announces support for public key management through IAM user permissions for signed URLs and signed cookies](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudfront-iam-signed-url/)
 - [Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/)
@@ -65,9 +68,6 @@
 - [AWS App Mesh supports cross account sharing of ACM Private Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-supports-cross-account-sharing-of-acm-private-certificate-authority/)
 - [AWS App Mesh increases default limits on several resources](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-increases-default-limits-on-several-resources/)
 - [Amazon RDS for Oracle supports managed disaster recovery (DR) with Oracle Data Guard physical standby database](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-oracle-supports-managed-disaster-recovery-with-oracle-guard-physical-standby-database/)
-- [AWS CloudFormation now supports increased limits on five service quotas](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-cloudformation-now-supports-increased-limits-on-five-service-quotas/)
-- [Amazon AppStream 2.0 adds a smaller instance size to the General Purpose instance family](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appstream-2-0-adds-smaller-instance-size-general-purpose-instance-family/)
-- [AWS Step Functions now supports Amazon Athena service integration](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-step-functions-now-supports-amazon-athena-service-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

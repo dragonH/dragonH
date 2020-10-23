@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS now supports selecting the origination number when sending SMS messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-now-supports-selecting-the-origination-number-when-sending-sms-messages/)
+- [Amazon SNS now supports selecting the origination number when sending SMS messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-supports-selecting-origination-number-sending-sns-messages/)
+- [AWS Copilot CLI launches v0.5 to let users deploy scheduled jobs and more](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-copilot-cli-launches-v0-5-to-let-users-deploy-scheduled-jobs-and-more/)
 - [Amazon RDS for MySQL Supports Minor Version 8.0.21](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-mysql-supports-minor-version-8-0-21/)
 - [Introducing the AWS Load Balancer Controller](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-aws-load-balancer-controller/)
 - [Amazon EKS is now FedRAMP-Moderate compliant](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eks-now-fedramp-moderate-compliant/)
@@ -65,9 +68,6 @@
 - [Amazon CloudFront announces support for public key management through IAM user permissions for signed URLs and signed cookies](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudfront-iam-signed-url/)
 - [Amazon Redshift now supports the scheduling of SQL queries by integrating with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-supports-scheduling-sql-queries-by-integrating-with-amazon-eventbridge/)
 - [Amazon SNS introduces First-in-First-out (FIFO) topics with strict ordering and deduplication of messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-introduces-fifo-topics-with-strict-ordering-and-deduplication-of-messages/)
-- [AWS App Mesh supports cross account sharing of ACM Private Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-supports-cross-account-sharing-of-acm-private-certificate-authority/)
-- [AWS App Mesh increases default limits on several resources](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-app-mesh-increases-default-limits-on-several-resources/)
-- [Amazon RDS for Oracle supports managed disaster recovery (DR) with Oracle Data Guard physical standby database](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-oracle-supports-managed-disaster-recovery-with-oracle-guard-physical-standby-database/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

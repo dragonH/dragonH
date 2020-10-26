@@ -58,9 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fargate Spot for Amazon ECS is now supported in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/)
 - [Amazon Corretto 8u262, 11.0.8, 15.0.1 quarterly updates are now available.](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-corretto-quarterly-updates-now-available/)
 - [AWS Shield now provides global and per-account event summaries to all AWS customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-shield-provides-global-and-per-account-event-summaries-to-all-aws-customers/)
-- [AWS Fargate Spot for Amazon ECS is now supported in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ec2-now-supported-in-aws-cloudformation/)
 - [Amazon SNS now supports selecting the origination number when sending SMS messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-now-supports-selecting-the-origination-number-when-sending-sms-messages/)
 - [AWS Copilot CLI launches v0.5 to let users deploy scheduled jobs and more](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-copilot-cli-launches-v0-5-to-let-users-deploy-scheduled-jobs-and-more/)
 - [Amazon RDS for MySQL Supports Minor Version 8.0.21](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-mysql-supports-minor-version-8-0-21/)

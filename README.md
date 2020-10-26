@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for Lambda UDFs and enables tokenization](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-announces-support-for-lambda-udfs-and-enables-tokenization/)
+- [Amazon AppFlow supports importing custom dimensions and metrics from Google Analytics to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-importing-custom-dimensions-metrics-google-analytics-amazon-s3/)
 - [AWS Fargate Spot for Amazon ECS is now supported in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/)
 - [Amazon Corretto 8u262, 11.0.8, 15.0.1 quarterly updates are now available.](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-corretto-quarterly-updates-now-available/)
 - [AWS Shield now provides global and per-account event summaries to all AWS customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-shield-provides-global-and-per-account-event-summaries-to-all-aws-customers/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for MySQL Supports Minor Version 8.0.21](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-mysql-supports-minor-version-8-0-21/)
 - [Introducing the AWS Load Balancer Controller](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-aws-load-balancer-controller/)
 - [Amazon EKS is now FedRAMP-Moderate compliant](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eks-now-fedramp-moderate-compliant/)
-- [Amazon Relational Database Service (RDS) Snapshot Export to S3 available in additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-relational-database-service-snapshot-export-s3-available-additional-regions/)
-- [Amazon CloudFront announces support for public key management through IAM user permissions for signed URLs and signed cookies](https://aws.amazon.com/about-aws/whats-new/2020/10/cloudfront-iam-signed-url/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

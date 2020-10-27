@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition Custom Labels makes it easier to import, search, and filter dataset label lists](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-custom-labels-makes-it-easier-to-import-search-filter-dataset-label-lists/)
 - [AWS IoT SiteWise launches support for VPC private links](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iot-sitewise-launches-support-for-vpc-private-links/)
 - [Amazon ElastiCache for Redis Global Datastore now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticache-for-redis-global-datastore-available-6-additional-regions/)
 - [AWS Elemental MediaPackage expands Monitoring and Deployment Automation capabilities](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-elemental-mediapackage-expands-monitoring-and-deployment-automation-capabilities/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora for PostgreSQL now supports Read Replicas for Amazon RDS for PostgreSQL in AWS GovCloud (US) Regions to simplify database migrations](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-for-postgresql-now-supports-read-replicas-for-amazon-rds-for-postgresql-in-aws-govcloud-us-regions-to-simplify-database-migrations/)
 - [New digital course: Advanced Testing Practices using AWS DevOps Tools](https://aws.amazon.com/about-aws/whats-new/2020/10/new-digital-course-advanced-testing-practices-using-aws-devops-tools/)
 - [Announcing two new on-demand digital courses for Game Tech](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-two-new-on-demand-digital-courses-for-game-tech/)
-- [Amazon Redshift announces support for Lambda UDFs and enables tokenization](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-announces-support-for-lambda-udfs-and-enables-tokenization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

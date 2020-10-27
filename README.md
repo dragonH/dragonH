@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio Notebooks now support custom images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-studio-notebooks-now-support-custom-images/)
+- [Amazon Aurora for PostgreSQL now supports Read Replicas for Amazon RDS for PostgreSQL in AWS GovCloud (US) Regions to simplify database migrations](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-for-postgresql-now-supports-read-replicas-for-amazon-rds-for-postgresql-in-aws-govcloud-us-regions-to-simplify-database-migrations/)
 - [New digital course: Advanced Testing Practices using AWS DevOps Tools](https://aws.amazon.com/about-aws/whats-new/2020/10/new-digital-course-advanced-testing-practices-using-aws-devops-tools/)
 - [Announcing two new on-demand digital courses for Game Tech](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-two-new-on-demand-digital-courses-for-game-tech/)
 - [Amazon Redshift announces support for Lambda UDFs and enables tokenization](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-announces-support-for-lambda-udfs-and-enables-tokenization/)
@@ -66,8 +68,6 @@
 - [Amazon Corretto 8u272, 11.0.9, 15.0.1 quarterly updates are now available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-corretto-quarterly-updates-now-available/)
 - [AWS Shield now provides global and per-account event summaries to all AWS customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-shield-provides-global-and-per-account-event-summaries-to-all-aws-customers/)
 - [Amazon SNS now supports selecting the origination number when sending SMS messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-now-supports-selecting-the-origination-number-when-sending-sms-messages/)
-- [AWS Copilot CLI launches v0.5 to let users deploy scheduled jobs and more](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-copilot-cli-launches-v0-5-to-let-users-deploy-scheduled-jobs-and-more/)
-- [Amazon RDS for MySQL Supports Minor Version 8.0.21](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-mysql-supports-minor-version-8-0-21/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

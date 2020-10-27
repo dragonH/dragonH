@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New digital course: Advanced Testing Practices using AWS DevOps Tools](https://aws.amazon.com/about-aws/whats-new/2020/10/new-digital-course-advanced-testing-practices-using-aws-devops-tools/)
+- [Announcing two new on-demand digital courses for Game Tech](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-two-new-on-demand-digital-courses-for-game-tech/)
 - [Amazon Redshift announces support for Lambda UDFs and enables tokenization](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-announces-support-for-lambda-udfs-and-enables-tokenization/)
 - [Amazon AppFlow supports importing custom dimensions and metrics from Google Analytics to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-importing-custom-dimensions-metrics-google-analytics-amazon-s3/)
 - [AWS Fargate Spot for Amazon ECS is now supported in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/)
-- [Amazon Corretto 8u262, 11.0.8, 15.0.1 quarterly updates are now available.](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-corretto-quarterly-updates-now-available/)
+- [Amazon Corretto 8u272, 11.0.9, 15.0.1 quarterly updates are now available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-corretto-quarterly-updates-now-available/)
 - [AWS Shield now provides global and per-account event summaries to all AWS customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-shield-provides-global-and-per-account-event-summaries-to-all-aws-customers/)
 - [Amazon SNS now supports selecting the origination number when sending SMS messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-now-supports-selecting-the-origination-number-when-sending-sms-messages/)
 - [AWS Copilot CLI launches v0.5 to let users deploy scheduled jobs and more](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-copilot-cli-launches-v0-5-to-let-users-deploy-scheduled-jobs-and-more/)
 - [Amazon RDS for MySQL Supports Minor Version 8.0.21](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rds-for-mysql-supports-minor-version-8-0-21/)
-- [Introducing the AWS Load Balancer Controller](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-aws-load-balancer-controller/)
-- [Amazon EKS is now FedRAMP-Moderate compliant](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-eks-now-fedramp-moderate-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

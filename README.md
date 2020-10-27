@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaPackage expands Monitoring and Deployment Automation capabilities](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-elemental-mediapackage-expands-monitoring-and-deployment-automation-capabilities/)
+- [Now use AWS Systems Manager to view vulnerability identifiers for missing patches on your Linux instances](https://aws.amazon.com/about-aws/whats-new/2020/10/now-use-aws-systems-manager-to-view-vulnerability-identifiers-for-missing-patches-on-your-linux-instances/)
 - [AWS Auto Scaling is now generally available in the AWS Africa (Cape Town) and AWS Europe (Milan) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-auto-scaling-is-now-generally-available-in-the-aws-africa-cape-town-and-aws-europe-milan-regions/)
 - [Amazon SageMaker Studio Notebooks now support custom images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-studio-notebooks-now-support-custom-images/)
 - [Amazon Aurora for PostgreSQL now supports Read Replicas for Amazon RDS for PostgreSQL in AWS GovCloud (US) Regions to simplify database migrations](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-for-postgresql-now-supports-read-replicas-for-amazon-rds-for-postgresql-in-aws-govcloud-us-regions-to-simplify-database-migrations/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift announces support for Lambda UDFs and enables tokenization](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-announces-support-for-lambda-udfs-and-enables-tokenization/)
 - [Amazon AppFlow supports importing custom dimensions and metrics from Google Analytics to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-importing-custom-dimensions-metrics-google-analytics-amazon-s3/)
 - [AWS Fargate Spot for Amazon ECS is now supported in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/)
-- [Amazon Corretto 8u272, 11.0.9, 15.0.1 quarterly updates are now available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-corretto-quarterly-updates-now-available/)
-- [AWS Shield now provides global and per-account event summaries to all AWS customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-shield-provides-global-and-per-account-event-summaries-to-all-aws-customers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

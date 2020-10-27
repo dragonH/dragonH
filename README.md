@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache for Redis Global Datastore now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticache-for-redis-global-datastore-available-6-additional-regions/)
 - [AWS Elemental MediaPackage expands Monitoring and Deployment Automation capabilities](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-elemental-mediapackage-expands-monitoring-and-deployment-automation-capabilities/)
 - [Now use AWS Systems Manager to view vulnerability identifiers for missing patches on your Linux instances](https://aws.amazon.com/about-aws/whats-new/2020/10/now-use-aws-systems-manager-to-view-vulnerability-identifiers-for-missing-patches-on-your-linux-instances/)
 - [AWS Auto Scaling is now generally available in the AWS Africa (Cape Town) and AWS Europe (Milan) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-auto-scaling-is-now-generally-available-in-the-aws-africa-cape-town-and-aws-europe-milan-regions/)
@@ -67,7 +68,6 @@
 - [Announcing two new on-demand digital courses for Game Tech](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-two-new-on-demand-digital-courses-for-game-tech/)
 - [Amazon Redshift announces support for Lambda UDFs and enables tokenization](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-redshift-announces-support-for-lambda-udfs-and-enables-tokenization/)
 - [Amazon AppFlow supports importing custom dimensions and metrics from Google Analytics to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-appflow-supports-importing-custom-dimensions-metrics-google-analytics-amazon-s3/)
-- [AWS Fargate Spot for Amazon ECS is now supported in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

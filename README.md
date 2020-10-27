@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Auto Scaling is now generally available in the AWS Africa (Cape Town) and AWS Europe (Milan) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-auto-scaling-is-now-generally-available-in-the-aws-africa-cape-town-and-aws-europe-milan-regions/)
 - [Amazon SageMaker Studio Notebooks now support custom images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-studio-notebooks-now-support-custom-images/)
 - [Amazon Aurora for PostgreSQL now supports Read Replicas for Amazon RDS for PostgreSQL in AWS GovCloud (US) Regions to simplify database migrations](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-for-postgresql-now-supports-read-replicas-for-amazon-rds-for-postgresql-in-aws-govcloud-us-regions-to-simplify-database-migrations/)
 - [New digital course: Advanced Testing Practices using AWS DevOps Tools](https://aws.amazon.com/about-aws/whats-new/2020/10/new-digital-course-advanced-testing-practices-using-aws-devops-tools/)
@@ -67,7 +68,6 @@
 - [AWS Fargate Spot for Amazon ECS is now supported in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-fargate-spot-for-amazon-ecs-now-supported-in-aws-cloudformation/)
 - [Amazon Corretto 8u272, 11.0.9, 15.0.1 quarterly updates are now available](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-corretto-quarterly-updates-now-available/)
 - [AWS Shield now provides global and per-account event summaries to all AWS customers](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-shield-provides-global-and-per-account-event-summaries-to-all-aws-customers/)
-- [Amazon SNS now supports selecting the origination number when sending SMS messages](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sns-now-supports-selecting-the-origination-number-when-sending-sms-messages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

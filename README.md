@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing General Availability of AWS Nitro Enclaves](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-general-availability-of-aws-nitro-enclaves/)
+- [Announcing SSL/TLS certificates for Amazon EC2 instances with AWS Certificate Manager (ACM) for Nitro Enclaves](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/)
+- [Amazon Kendra adds Confluence Server connector](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-adds-confluence-server-connector/)
+- [Introducing the AWS Activate Console - helping startups accelerate their growth and development](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-the-aws-activate-console/)
+- [Amazon QuickSight now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-quicksight-available-govcloud-region/)
 - [Now generally available – design and visualize Amazon Keyspaces data models more easily by using NoSQL Workbench](https://aws.amazon.com/about-aws/whats-new/2020/10/nosql-workbench-support-for-amazon-keyspaces-for-apache-cassandra-is-now-generally-available/)
 - [Amazon Pinpoint is now available in Singapore (SIN) region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-pinpoint-is-now-available-in-singapore-sin-region/)
 - [Announcing the first technical course just for APN Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-the-first-technical-course-just-for-apn-technology-partners/)
 - [Amazon Elasticsearch Service adds native SAML Authentication for Kibana](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticsearch-service-adds-native-saml-authentication-kibana/)
 - [Amazon FSx is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-fsx-available-beijing-sinnet-ningxia-nwcd/)
-- [EC2 Image Builder now supports AMI distribution across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2020/10/ec2-image-builder-now-supports-ami-distribution-across-aws-accounts/)
-- [Amazon Elasticsearch Service announces support for Elasticsearch version 7.8](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-8/)
-- [Amazon Textract announces improvements to reduce average API processing times by up to 20%](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-textract-announces-improvements-to-reduce-average-api-processing-times/)
-- [Amazon Rekognition Custom Labels makes it easier to import, search, and filter dataset label lists](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-custom-labels-makes-it-easier-to-import-search-filter-dataset-label-lists/)
-- [AWS IoT SiteWise launches support for VPC private links](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iot-sitewise-launches-support-for-vpc-private-links/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

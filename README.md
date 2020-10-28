@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elasticsearch Service announces support for Elasticsearch version 7.8](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-8/)
 - [Amazon Textract announces improvements to reduce average API processing times by up to 20%](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-textract-announces-improvements-to-reduce-average-api-processing-times/)
 - [Amazon Rekognition Custom Labels makes it easier to import, search, and filter dataset label lists](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-rekognition-custom-labels-makes-it-easier-to-import-search-filter-dataset-label-lists/)
 - [AWS IoT SiteWise launches support for VPC private links](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iot-sitewise-launches-support-for-vpc-private-links/)
@@ -67,7 +68,6 @@
 - [AWS Auto Scaling is now generally available in the AWS Africa (Cape Town) and AWS Europe (Milan) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-auto-scaling-is-now-generally-available-in-the-aws-africa-cape-town-and-aws-europe-milan-regions/)
 - [Amazon SageMaker Studio Notebooks now support custom images](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-sagemaker-studio-notebooks-now-support-custom-images/)
 - [Amazon Aurora for PostgreSQL now supports Read Replicas for Amazon RDS for PostgreSQL in AWS GovCloud (US) Regions to simplify database migrations](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-aurora-for-postgresql-now-supports-read-replicas-for-amazon-rds-for-postgresql-in-aws-govcloud-us-regions-to-simplify-database-migrations/)
-- [New digital course: Advanced Testing Practices using AWS DevOps Tools](https://aws.amazon.com/about-aws/whats-new/2020/10/new-digital-course-advanced-testing-practices-using-aws-devops-tools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

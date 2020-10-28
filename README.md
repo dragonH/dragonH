@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the first technical course just for APN Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-the-first-technical-course-just-for-apn-technology-partners/)
+- [Amazon Elasticsearch Service adds native SAML Authentication for Kibana](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticsearch-service-adds-native-saml-authentication-kibana/)
 - [Amazon FSx is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-fsx-available-beijing-sinnet-ningxia-nwcd/)
 - [EC2 Image Builder now supports AMI distribution across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2020/10/ec2-image-builder-now-supports-ami-distribution-across-aws-accounts/)
 - [Amazon Elasticsearch Service announces support for Elasticsearch version 7.8](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-8/)
@@ -66,8 +68,6 @@
 - [AWS IoT SiteWise launches support for VPC private links](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-iot-sitewise-launches-support-for-vpc-private-links/)
 - [Amazon ElastiCache for Redis Global Datastore now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticache-for-redis-global-datastore-available-6-additional-regions/)
 - [AWS Elemental MediaPackage expands Monitoring and Deployment Automation capabilities](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-elemental-mediapackage-expands-monitoring-and-deployment-automation-capabilities/)
-- [Now use AWS Systems Manager to view vulnerability identifiers for missing patches on your Linux instances](https://aws.amazon.com/about-aws/whats-new/2020/10/now-use-aws-systems-manager-to-view-vulnerability-identifiers-for-missing-patches-on-your-linux-instances/)
-- [AWS Auto Scaling is now generally available in the AWS Africa (Cape Town) and AWS Europe (Milan) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-auto-scaling-is-now-generally-available-in-the-aws-africa-cape-town-and-aws-europe-milan-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports Apache TinkerPop 3.4.8 in the latest engine release](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon_neptune_now_supports_apache_tinkerpop_3_4_8_in_the_latest_engine_release/)
+- [New Amazon Neptune engine release now enforces a minimum version of TLS 1.2 and SSL client connections](https://aws.amazon.com/about-aws/whats-new/2020/10/new_amazon_neptune_engine_release_now_enforces_a_minimum_version_of_tls_1_2_and_ssl_client_connections/)
 - [Announcing General Availability of AWS Nitro Enclaves](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-general-availability-of-aws-nitro-enclaves/)
 - [Announcing SSL/TLS certificates for Amazon EC2 instances with AWS Certificate Manager (ACM) for Nitro Enclaves](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/)
 - [Amazon Kendra adds Confluence Server connector](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-adds-confluence-server-connector/)
@@ -66,8 +68,6 @@
 - [Now generally available – design and visualize Amazon Keyspaces data models more easily by using NoSQL Workbench](https://aws.amazon.com/about-aws/whats-new/2020/10/nosql-workbench-support-for-amazon-keyspaces-for-apache-cassandra-is-now-generally-available/)
 - [Amazon Pinpoint is now available in Singapore (SIN) region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-pinpoint-is-now-available-in-singapore-sin-region/)
 - [Announcing the first technical course just for APN Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-the-first-technical-course-just-for-apn-technology-partners/)
-- [Amazon Elasticsearch Service adds native SAML Authentication for Kibana](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-elasticsearch-service-adds-native-saml-authentication-kibana/)
-- [Amazon FSx is now available in AWS China (Beijing) Region, operated by Sinnet and AWS China (Ningxia) Region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-fsx-available-beijing-sinnet-ningxia-nwcd/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

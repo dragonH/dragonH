@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra achieves HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-achieves-hipaa-eligibility/)
+- [Application Load Balancers enables gRPC workloads with end to end HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
 - [Amazon API Gateway now supports disabling the default REST API endpoint](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-api-gateway-now-supports-disabling-the-default-rest-api-endpoint/)
 - [Amazon SES now offers list and subscription management capabilities](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ses-now-offers-list-and-subscription-management-capabilities/)
 - [AWS Service Catalog now provides One-Page Provisioning with a new console experience](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-service-catalog-now-provides-one-page-provisioning-with-a-new-console-experience/)
@@ -66,8 +68,6 @@
 - [Customers can now use Jira Service Desk to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2020/10/customers-can-now-use-jira-service-desk-to-track-operational-items-related-to-aws-resources/)
 - [Introducing new sizes for C5d instance in Asia Pacific (Mumbai), and for M5, M5d, R5, R5d instances in Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-new-sizes-mumbai-and-hong-kong/)
 - [Simplify provisioning of compute resources with version 1.7 of the AWS Service Management Connector for Jira Service Desk](https://aws.amazon.com/about-aws/whats-new/2020/10/simplify-provisioning-of-compute-resources-with-version-1-7-of-the-aws-service-management-connector-for-jira-service-desk/)
-- [AWS Site-to-Site VPN now supports health notifications](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-site-to-site-vpn-now-supports-health-notifications/)
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for increased change stream retention and ability to watch change stream events on a database or the entire cluster](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-documentdb-mongodb-compatibility-support-increased-change-stream-retention/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

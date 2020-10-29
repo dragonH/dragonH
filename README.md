@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Catalog now provides One-Page Provisioning with a new console experience](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-service-catalog-now-provides-one-page-provisioning-with-a-new-console-experience/)
+- [New AWS Solutions Consulting Offer - Virtusa Desktop-as-a-Service (vDaaS)](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-virtusa-desktop-as-a-service/)
 - [AWS Server Migration Service now adds support for application monitoring using Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-server-migration-service-adds-support-for-application-monitoring-using-amazon-cloudwatch-application-insights/)
 - [Customers can now use Jira Service Desk to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2020/10/customers-can-now-use-jira-service-desk-to-track-operational-items-related-to-aws-resources/)
 - [Introducing new sizes for C5d instance in Asia Pacific (Mumbai), and for M5, M5d, R5, R5d instances in Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-new-sizes-mumbai-and-hong-kong/)
@@ -66,8 +68,6 @@
 - [Amazon DocumentDB (with MongoDB compatibility) adds support for increased change stream retention and ability to watch change stream events on a database or the entire cluster](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-documentdb-mongodb-compatibility-support-increased-change-stream-retention/)
 - [Amazon Neptune now supports Apache TinkerPop 3.4.8 in the latest engine release](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon_neptune_now_supports_apache_tinkerpop_3_4_8_in_the_latest_engine_release/)
 - [New Amazon Neptune engine release now enforces a minimum version of TLS 1.2 and SSL client connections](https://aws.amazon.com/about-aws/whats-new/2020/10/new_amazon_neptune_engine_release_now_enforces_a_minimum_version_of_tls_1_2_and_ssl_client_connections/)
-- [Announcing General Availability of AWS Nitro Enclaves](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-general-availability-of-aws-nitro-enclaves/)
-- [Announcing SSL/TLS certificates for Amazon EC2 instances with AWS Certificate Manager (ACM) for Nitro Enclaves](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

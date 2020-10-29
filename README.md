@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Server Migration Service now adds support for application monitoring using Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-server-migration-service-adds-support-for-application-monitoring-using-amazon-cloudwatch-application-insights/)
+- [Customers can now use Jira Service Desk to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2020/10/customers-can-now-use-jira-service-desk-to-track-operational-items-related-to-aws-resources/)
+- [Introducing new sizes for C5d instance in Asia Pacific (Mumbai), and for M5, M5d, R5, R5d instances in Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-new-sizes-mumbai-and-hong-kong/)
+- [Simplify provisioning of compute resources with version 1.7 of the AWS Service Management Connector for Jira Service Desk](https://aws.amazon.com/about-aws/whats-new/2020/10/simplify-provisioning-of-compute-resources-with-version-1-7-of-the-aws-service-management-connector-for-jira-service-desk/)
 - [AWS Site-to-Site VPN now supports health notifications](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-site-to-site-vpn-now-supports-health-notifications/)
 - [Amazon DocumentDB (with MongoDB compatibility) adds support for increased change stream retention and ability to watch change stream events on a database or the entire cluster](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-documentdb-mongodb-compatibility-support-increased-change-stream-retention/)
 - [Amazon Neptune now supports Apache TinkerPop 3.4.8 in the latest engine release](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon_neptune_now_supports_apache_tinkerpop_3_4_8_in_the_latest_engine_release/)
 - [New Amazon Neptune engine release now enforces a minimum version of TLS 1.2 and SSL client connections](https://aws.amazon.com/about-aws/whats-new/2020/10/new_amazon_neptune_engine_release_now_enforces_a_minimum_version_of_tls_1_2_and_ssl_client_connections/)
 - [Announcing General Availability of AWS Nitro Enclaves](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-general-availability-of-aws-nitro-enclaves/)
 - [Announcing SSL/TLS certificates for Amazon EC2 instances with AWS Certificate Manager (ACM) for Nitro Enclaves](https://aws.amazon.com/about-aws/whats-new/2020/10/announcing-aws-certificate-manager-for-nitro-enclaves/)
-- [Amazon Kendra adds Confluence Server connector](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-adds-confluence-server-connector/)
-- [Introducing the AWS Activate Console - helping startups accelerate their growth and development](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-the-aws-activate-console/)
-- [Amazon QuickSight now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-quicksight-available-govcloud-region/)
-- [Now generally available – design and visualize Amazon Keyspaces data models more easily by using NoSQL Workbench](https://aws.amazon.com/about-aws/whats-new/2020/10/nosql-workbench-support-for-amazon-keyspaces-for-apache-cassandra-is-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

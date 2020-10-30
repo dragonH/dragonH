@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK for JavaScript now enables meeting health monitoring and troubleshooting](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-chime-sdk-for-javascript-now-enables-meeting-health-monitoring-and-troubleshooting/)
 - [Amazon Cognito User Pools enables easy quota management and usage tracking](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cognito-user-pools-enables-easy-quota-management-usage-tracking/)
 - [Amazon Kendra achieves HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-achieves-hipaa-eligibility/)
 - [Application Load Balancers enables gRPC workloads with end to end HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
@@ -67,7 +68,6 @@
 - [New AWS Solutions Consulting Offer - Virtusa Desktop-as-a-Service (vDaaS)](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-virtusa-desktop-as-a-service/)
 - [AWS Server Migration Service now adds support for application monitoring using Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-server-migration-service-adds-support-for-application-monitoring-using-amazon-cloudwatch-application-insights/)
 - [Customers can now use Jira Service Desk to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2020/10/customers-can-now-use-jira-service-desk-to-track-operational-items-related-to-aws-resources/)
-- [Introducing new sizes for C5d instance in Asia Pacific (Mumbai), and for M5, M5d, R5, R5d instances in Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-new-sizes-mumbai-and-hong-kong/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

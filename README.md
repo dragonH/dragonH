@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito User Pools enables easy quota management and usage tracking](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cognito-user-pools-enables-easy-quota-management-usage-tracking/)
 - [Amazon Kendra achieves HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-achieves-hipaa-eligibility/)
 - [Application Load Balancers enables gRPC workloads with end to end HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
 - [Amazon API Gateway now supports disabling the default REST API endpoint](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-api-gateway-now-supports-disabling-the-default-rest-api-endpoint/)
@@ -67,7 +68,6 @@
 - [AWS Server Migration Service now adds support for application monitoring using Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-server-migration-service-adds-support-for-application-monitoring-using-amazon-cloudwatch-application-insights/)
 - [Customers can now use Jira Service Desk to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2020/10/customers-can-now-use-jira-service-desk-to-track-operational-items-related-to-aws-resources/)
 - [Introducing new sizes for C5d instance in Asia Pacific (Mumbai), and for M5, M5d, R5, R5d instances in Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/10/introducing-new-sizes-mumbai-and-hong-kong/)
-- [Simplify provisioning of compute resources with version 1.7 of the AWS Service Management Connector for Jira Service Desk](https://aws.amazon.com/about-aws/whats-new/2020/10/simplify-provisioning-of-compute-resources-with-version-1-7-of-the-aws-service-management-connector-for-jira-service-desk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

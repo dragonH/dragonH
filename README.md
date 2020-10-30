@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service Now Supports Parallel Full Load for Amazon DocumentDB (with MongoDB compatibility) and MongoDB](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-database-migration-service-supports-parallel-full-load-amazon-documentdb-mongodb-compatibility-mongodb/)
 - [Amazon Chime SDK for JavaScript now enables meeting health monitoring and troubleshooting](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-chime-sdk-for-javascript-now-enables-meeting-health-monitoring-and-troubleshooting/)
 - [Amazon Cognito User Pools enables easy quota management and usage tracking](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cognito-user-pools-enables-easy-quota-management-usage-tracking/)
 - [Amazon Kendra achieves HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-achieves-hipaa-eligibility/)
@@ -67,7 +68,6 @@
 - [AWS Service Catalog now provides One-Page Provisioning with a new console experience](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-service-catalog-now-provides-one-page-provisioning-with-a-new-console-experience/)
 - [New AWS Solutions Consulting Offer - Virtusa Desktop-as-a-Service (vDaaS)](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-virtusa-desktop-as-a-service/)
 - [AWS Server Migration Service now adds support for application monitoring using Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-server-migration-service-adds-support-for-application-monitoring-using-amazon-cloudwatch-application-insights/)
-- [Customers can now use Jira Service Desk to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2020/10/customers-can-now-use-jira-service-desk-to-track-operational-items-related-to-aws-resources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

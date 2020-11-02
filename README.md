@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new Amazon EC2 P4d instances deployed in EC2 UltraClusters for highest performance ML training and HPC applications in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-amazon-ec2-p4d-instances/)
+- [EFA Now Supports NVIDIA GPUDirect RDMA](https://aws.amazon.com/about-aws/whats-new/2020/11/efa-supports-nvidia-gpudirect-rdma/)
 - [Amazon Honeycode releases three new app templates that help teams manage work](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-honeycode-releases-three-new-app-templates-that-help-teams-manage-work/)
 - [AWS CodeArtifact now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-now-supports-resource-tagging/)
 - [Announcing AWS PrivateLink support for Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-privatelink-support-amazon-braket/)
@@ -66,8 +68,6 @@
 - [AWS Database Migration Service Now Supports Parallel Full Load for Amazon DocumentDB (with MongoDB compatibility) and MongoDB](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-database-migration-service-supports-parallel-full-load-amazon-documentdb-mongodb-compatibility-mongodb/)
 - [Amazon Chime SDK for JavaScript now enables meeting health monitoring and troubleshooting](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-chime-sdk-for-javascript-now-enables-meeting-health-monitoring-and-troubleshooting/)
 - [Amazon Cognito User Pools enables easy quota management and usage tracking](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cognito-user-pools-enables-easy-quota-management-usage-tracking/)
-- [Amazon Kendra achieves HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-achieves-hipaa-eligibility/)
-- [Application Load Balancers enables gRPC workloads with end to end HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

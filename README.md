@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS PrivateLink support for Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-privatelink-support-amazon-braket/)
+- [Amazon Braket now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-braket-supports-resource-tagging/)
 - [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-database-migration-service-supports-amazon-documentdb-with-mongodb-compatability/)
 - [AWS Database Migration Service Now Supports Parallel Full Load for Amazon DocumentDB (with MongoDB compatibility) and MongoDB](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-database-migration-service-supports-parallel-full-load-amazon-documentdb-mongodb-compatibility-mongodb/)
 - [Amazon Chime SDK for JavaScript now enables meeting health monitoring and troubleshooting](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-chime-sdk-for-javascript-now-enables-meeting-health-monitoring-and-troubleshooting/)
@@ -66,8 +68,6 @@
 - [Application Load Balancers enables gRPC workloads with end to end HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
 - [Amazon API Gateway now supports disabling the default REST API endpoint](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-api-gateway-now-supports-disabling-the-default-rest-api-endpoint/)
 - [Amazon SES now offers list and subscription management capabilities](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ses-now-offers-list-and-subscription-management-capabilities/)
-- [AWS Service Catalog now provides One-Page Provisioning with a new console experience](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-service-catalog-now-provides-one-page-provisioning-with-a-new-console-experience/)
-- [New AWS Solutions Consulting Offer - Virtusa Desktop-as-a-Service (vDaaS)](https://aws.amazon.com/about-aws/whats-new/2020/10/new-aws-solutions-consulting-offer-virtusa-desktop-as-a-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

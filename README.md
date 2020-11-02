@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Honeycode releases three new app templates that help teams manage work](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-honeycode-releases-three-new-app-templates-that-help-teams-manage-work/)
 - [AWS CodeArtifact now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-now-supports-resource-tagging/)
 - [Announcing AWS PrivateLink support for Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-privatelink-support-amazon-braket/)
 - [Amazon Braket now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-braket-supports-resource-tagging/)
@@ -67,7 +68,6 @@
 - [Amazon Cognito User Pools enables easy quota management and usage tracking](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-cognito-user-pools-enables-easy-quota-management-usage-tracking/)
 - [Amazon Kendra achieves HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-achieves-hipaa-eligibility/)
 - [Application Load Balancers enables gRPC workloads with end to end HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
-- [Amazon API Gateway now supports disabling the default REST API endpoint](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-api-gateway-now-supports-disabling-the-default-rest-api-endpoint/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

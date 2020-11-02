@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeArtifact now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-now-supports-resource-tagging/)
 - [Announcing AWS PrivateLink support for Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-privatelink-support-amazon-braket/)
 - [Amazon Braket now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-braket-supports-resource-tagging/)
 - [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-database-migration-service-supports-amazon-documentdb-with-mongodb-compatability/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra achieves HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-kendra-achieves-hipaa-eligibility/)
 - [Application Load Balancers enables gRPC workloads with end to end HTTP/2 support](https://aws.amazon.com/about-aws/whats-new/2020/10/application-load-balancers-enable-grpc-workloads-end-to-end-http-2-support/)
 - [Amazon API Gateway now supports disabling the default REST API endpoint](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-api-gateway-now-supports-disabling-the-default-rest-api-endpoint/)
-- [Amazon SES now offers list and subscription management capabilities](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ses-now-offers-list-and-subscription-management-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

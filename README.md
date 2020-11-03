@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra now available in Asia-Pacific (Sydney) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-now-available-in-asia-pacific-sydney-aws-region/)
+- [AWS IoT SiteWise now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-supports-aws-cloudformation/)
 - [Amazon GuardDuty now available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-guardduty-now-available-in-aws-govcloud-us-east-region/)
 - [Introducing new visualization features in AWS IoT SiteWise: Status Charts, Scatter Plot and Trend lines](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-new-visualization-features-in-aws-iot-sitewise-status-charts-scatter-plot-and-trend-lines/)
 - [Announcing new Amazon EC2 P4d instances deployed in EC2 UltraClusters for highest performance ML training and HPC applications in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-amazon-ec2-p4d-instances/)
@@ -66,8 +68,6 @@
 - [AWS CodeArtifact now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-now-supports-resource-tagging/)
 - [Announcing AWS PrivateLink support for Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-privatelink-support-amazon-braket/)
 - [Amazon Braket now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-braket-supports-resource-tagging/)
-- [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-database-migration-service-supports-amazon-documentdb-with-mongodb-compatability/)
-- [AWS Database Migration Service Now Supports Parallel Full Load for Amazon DocumentDB (with MongoDB compatibility) and MongoDB](https://aws.amazon.com/about-aws/whats-new/2020/10/aws-database-migration-service-supports-parallel-full-load-amazon-documentdb-mongodb-compatibility-mongodb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

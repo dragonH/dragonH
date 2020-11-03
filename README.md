@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Antares Cloud Management](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-claranet-antares-cloud-management/)
 - [Amazon Kendra now available in Asia-Pacific (Sydney) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-now-available-in-asia-pacific-sydney-aws-region/)
 - [AWS IoT SiteWise now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-supports-aws-cloudformation/)
 - [Amazon GuardDuty now available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-guardduty-now-available-in-aws-govcloud-us-east-region/)
@@ -67,7 +68,6 @@
 - [Amazon Honeycode releases three new app templates that help teams manage work](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-honeycode-releases-three-new-app-templates-that-help-teams-manage-work/)
 - [AWS CodeArtifact now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-now-supports-resource-tagging/)
 - [Announcing AWS PrivateLink support for Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-privatelink-support-amazon-braket/)
-- [Amazon Braket now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-braket-supports-resource-tagging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

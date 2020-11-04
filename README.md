@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe now supports German, Italian and 2 more AWS regions for streaming audio](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-supports-german-italian-and-2-more-aws-regions-for-streaming-audio/)
+- [Amazon CloudWatch launches Metrics Explorer](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-launches-metrics-explorer/)
 - [AWS Security Hub adds five new integrations and a new consulting partner](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-adds-five-new-integrations-new-consulting-partner/)
 - [AWS Launch Wizard now supports single-instance deployments of SQL Server on Windows and Linux](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-launch-wizard-supports-single-instance-deployments-sql-server-windows-linux/)
 - [Amazon RDS Data API supports tag-based authorization](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-data-api-supports-tag-based-authorization/)
@@ -66,8 +68,6 @@
 - [AWS Client VPN announces self service portal to download VPN profiles and desktop applications](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-announces-self-service-portal/)
 - [Introducing Document Understanding Solution](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-document-understanding-solution/)
 - [New AWS Solutions Consulting Offer - Antares Cloud Management](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-claranet-antares-cloud-management/)
-- [Amazon Kendra now available in Asia-Pacific (Sydney) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-now-available-in-asia-pacific-sydney-aws-region/)
-- [AWS IoT SiteWise now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-supports-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

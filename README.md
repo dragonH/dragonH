@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds five new integrations and a new consulting partner](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-adds-five-new-integrations-new-consulting-partner/)
+- [AWS Launch Wizard now supports single-instance deployments of SQL Server on Windows and Linux](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-launch-wizard-supports-single-instance-deployments-sql-server-windows-linux/)
 - [Amazon RDS Data API supports tag-based authorization](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-data-api-supports-tag-based-authorization/)
 - [Amazon RDS for SQL Server now supports Database Mail](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-sql-server-supports-database-mail/)
 - [Announcing Amazon MQ for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-mq-rabbitmq/)
@@ -66,8 +68,6 @@
 - [New AWS Solutions Consulting Offer - Antares Cloud Management](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-claranet-antares-cloud-management/)
 - [Amazon Kendra now available in Asia-Pacific (Sydney) AWS region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-now-available-in-asia-pacific-sydney-aws-region/)
 - [AWS IoT SiteWise now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-supports-aws-cloudformation/)
-- [Amazon GuardDuty now available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-guardduty-now-available-in-aws-govcloud-us-east-region/)
-- [Introducing new visualization features in AWS IoT SiteWise: Status Charts, Scatter Plot and Trend lines](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-new-visualization-features-in-aws-iot-sitewise-status-charts-scatter-plot-and-trend-lines/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

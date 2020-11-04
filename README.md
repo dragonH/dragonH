@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Data API supports tag-based authorization](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-data-api-supports-tag-based-authorization/)
 - [Amazon RDS for SQL Server now supports Database Mail](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-sql-server-supports-database-mail/)
 - [Announcing Amazon MQ for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-mq-rabbitmq/)
 - [AWS Client VPN announces self service portal to download VPN profiles and desktop applications](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-announces-self-service-portal/)
@@ -67,7 +68,6 @@
 - [AWS IoT SiteWise now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-supports-aws-cloudformation/)
 - [Amazon GuardDuty now available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-guardduty-now-available-in-aws-govcloud-us-east-region/)
 - [Introducing new visualization features in AWS IoT SiteWise: Status Charts, Scatter Plot and Trend lines](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-new-visualization-features-in-aws-iot-sitewise-status-charts-scatter-plot-and-trend-lines/)
-- [Announcing new Amazon EC2 P4d instances deployed in EC2 UltraClusters for highest performance ML training and HPC applications in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-amazon-ec2-p4d-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

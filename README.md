@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Client VPN now supports Client Connect Handler](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-supports-client-connect-handler/)
+- [Amazon EBS Fast Snapshot Restore (FSR) is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ebs-fast-snapshot-restore-now-available-us-govcloud-regions/)
 - [Amazon Redshift announces Open Source JDBC and Python drivers](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-open-source-jdbc-python-drivers/)
 - [Amazon Connect has just reduced its 44th telephony rate this year](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-reduced-44th-telephony-rate-this-year/)
 - [Amazon Elasticsearch Service now supports defining a custom name for your domain endpoint](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-now-supports-defining-a-custom-name-for-your-domain-endpoint/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 Auto Scaling, EC2 Fleet, and Spot Fleet announce Capacity Rebalancing for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-ec2-fleet-and-spot-fleet-announce-capacity-rebalancing-for-ec2-spot-instances/)
 - [Amazon Kinesis Data Streams enables data stream retention up to one year](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/)
 - [Introducing EC2 Instance rebalance recommendation for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-ec2-instance-rebalance-recommendation-for-ec2-spot-instances/)
-- [Amazon EC2 On-Demand Capacity Reservations now supports AWS Wavelength Zones](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-on-demand-capacity-reservations-supports-aws-wavelength-zones/)
-- [AWS Marketplace enables vendor-provided cost allocation tags, enhancing visibility into software costs for analysis, allocation, and optimization](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-marketplace-enables-vendor-provided-cost-allocation-tags/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

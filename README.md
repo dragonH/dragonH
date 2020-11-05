@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager OpsCenter now integrates with Amazon CloudWatch for easier diagnosis and remediation of alarms](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-opscenter-integrates-amazon-cloudwatch/)
+- [AWS IoT SDK for Embedded C version 202011.00 now includes refactored coreHTTP, AWS IoT Device Defender, and AWS IoT Jobs libraries](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sdk-embedded-c-version-includes-refactored-corehttp-aws-iot-device-defender-aws-iot-jobs-libraries/)
 - [Amazon EC2 Auto Scaling, EC2 Fleet, and Spot Fleet announce Capacity Rebalancing for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-ec2-fleet-and-spot-fleet-announce-capacity-rebalancing-for-ec2-spot-instances/)
 - [Amazon Kinesis Data Streams enables data stream retention up to one year](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/)
 - [Introducing EC2 Instance rebalance recommendation for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-ec2-instance-rebalance-recommendation-for-ec2-spot-instances/)
@@ -66,8 +68,6 @@
 - [AWS Service Catalog now supports StackSet instance operations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-service-catalog-supports-stackset-instance-operations/)
 - [Amazon EventBridge is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-event-bridge-is-now-available-in-aws-govcloud-us-regions/)
 - [Amazon Transcribe now supports German, Italian and 2 more AWS regions for streaming audio](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-supports-german-italian-and-2-more-aws-regions-for-streaming-audio/)
-- [Amazon CloudWatch launches Metrics Explorer](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-launches-metrics-explorer/)
-- [AWS Security Hub adds five new integrations and a new consulting partner](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-adds-five-new-integrations-new-consulting-partner/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

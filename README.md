@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling, EC2 Fleet, and Spot Fleet announce Capacity Rebalancing for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-ec2-fleet-and-spot-fleet-announce-capacity-rebalancing-for-ec2-spot-instances/)
 - [Amazon Kinesis Data Streams enables data stream retention up to one year](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/)
 - [Introducing EC2 Instance rebalance recommendation for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-ec2-instance-rebalance-recommendation-for-ec2-spot-instances/)
 - [Amazon EC2 On-Demand Capacity Reservations now supports AWS Wavelength Zones](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-on-demand-capacity-reservations-supports-aws-wavelength-zones/)
@@ -67,7 +68,6 @@
 - [Amazon Transcribe now supports German, Italian and 2 more AWS regions for streaming audio](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-supports-german-italian-and-2-more-aws-regions-for-streaming-audio/)
 - [Amazon CloudWatch launches Metrics Explorer](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-launches-metrics-explorer/)
 - [AWS Security Hub adds five new integrations and a new consulting partner](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-adds-five-new-integrations-new-consulting-partner/)
-- [AWS Launch Wizard now supports single-instance deployments of SQL Server on Windows and Linux](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-launch-wizard-supports-single-instance-deployments-sql-server-windows-linux/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

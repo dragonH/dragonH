@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fargate for Amazon ECS launches features focused on configuration and metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-fargate-for-amazon-ecs-launches-features-focused-on-configuration-and-metrics/)
+- [Savings Plans Alerts now available in AWS Cost Management](https://aws.amazon.com/about-aws/whats-new/2020/11/savings-plans-alerts-now-available-in-aws-cost-management/)
+- [Amazon Kendra adds Confluence Cloud connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-confluence-cloud-connector/)
+- [Amazon SQS introduces new console experience in AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sqs-introduces-new-console-experience-in-aws-govcloud-us-regions/)
+- [Amazon EMR service limits can now be managed through AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-emr-service-limits-can-now-be-managed-through-aws-service-quotas/)
+- [AWS Systems Manager Quick Setup now supports targeting a resource group](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-quick-setup-supports-targeting-resource-group/)
+- [AWS Lambda now supports Amazon MQ for Apache ActiveMQ as an event source](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-amazon-mq-apache-activemq-event-source/)
 - [AWS Client VPN now supports Client Connect Handler](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-supports-client-connect-handler/)
 - [Amazon EBS Fast Snapshot Restore (FSR) is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ebs-fast-snapshot-restore-now-available-us-govcloud-regions/)
 - [Amazon Redshift announces Open Source JDBC and Python drivers](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-open-source-jdbc-python-drivers/)
-- [Amazon Connect has just reduced its 44th telephony rate this year](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-reduced-44th-telephony-rate-this-year/)
-- [Amazon Elasticsearch Service now supports defining a custom name for your domain endpoint](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-now-supports-defining-a-custom-name-for-your-domain-endpoint/)
-- [AWS Systems Manager OpsCenter now integrates with Amazon CloudWatch for easier diagnosis and remediation of alarms](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-opscenter-integrates-amazon-cloudwatch/)
-- [AWS IoT SDK for Embedded C version 202011.00 now includes refactored coreHTTP, AWS IoT Device Defender, and AWS IoT Jobs libraries](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sdk-embedded-c-version-includes-refactored-corehttp-aws-iot-device-defender-aws-iot-jobs-libraries/)
-- [Amazon EC2 Auto Scaling, EC2 Fleet, and Spot Fleet announce Capacity Rebalancing for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-ec2-fleet-and-spot-fleet-announce-capacity-rebalancing-for-ec2-spot-instances/)
-- [Amazon Kinesis Data Streams enables data stream retention up to one year](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/)
-- [Introducing EC2 Instance rebalance recommendation for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-ec2-instance-rebalance-recommendation-for-ec2-spot-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

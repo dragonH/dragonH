@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Streams enables data stream retention up to one year](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-streams-enables-data-stream-retention/)
+- [Introducing EC2 Instance rebalance recommendation for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-ec2-instance-rebalance-recommendation-for-ec2-spot-instances/)
+- [Amazon EC2 On-Demand Capacity Reservations now supports AWS Wavelength Zones](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-on-demand-capacity-reservations-supports-aws-wavelength-zones/)
+- [AWS Marketplace enables vendor-provided cost allocation tags, enhancing visibility into software costs for analysis, allocation, and optimization](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-marketplace-enables-vendor-provided-cost-allocation-tags/)
+- [AWS Service Catalog now supports StackSet instance operations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-service-catalog-supports-stackset-instance-operations/)
 - [Amazon EventBridge is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-event-bridge-is-now-available-in-aws-govcloud-us-regions/)
 - [Amazon Transcribe now supports German, Italian and 2 more AWS regions for streaming audio](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-supports-german-italian-and-2-more-aws-regions-for-streaming-audio/)
 - [Amazon CloudWatch launches Metrics Explorer](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-launches-metrics-explorer/)
 - [AWS Security Hub adds five new integrations and a new consulting partner](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-adds-five-new-integrations-new-consulting-partner/)
 - [AWS Launch Wizard now supports single-instance deployments of SQL Server on Windows and Linux](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-launch-wizard-supports-single-instance-deployments-sql-server-windows-linux/)
-- [Amazon RDS Data API supports tag-based authorization](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-data-api-supports-tag-based-authorization/)
-- [Amazon RDS for SQL Server now supports Database Mail](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-sql-server-supports-database-mail/)
-- [Announcing Amazon MQ for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-mq-rabbitmq/)
-- [AWS Client VPN announces self service portal to download VPN profiles and desktop applications](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-announces-self-service-portal/)
-- [Introducing Document Understanding Solution](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-document-understanding-solution/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

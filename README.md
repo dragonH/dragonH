@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces Open Source JDBC and Python drivers](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-open-source-jdbc-python-drivers/)
 - [Amazon Connect has just reduced its 44th telephony rate this year](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-reduced-44th-telephony-rate-this-year/)
 - [Amazon Elasticsearch Service now supports defining a custom name for your domain endpoint](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-now-supports-defining-a-custom-name-for-your-domain-endpoint/)
 - [AWS Systems Manager OpsCenter now integrates with Amazon CloudWatch for easier diagnosis and remediation of alarms](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-opscenter-integrates-amazon-cloudwatch/)
@@ -67,7 +68,6 @@
 - [Introducing EC2 Instance rebalance recommendation for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-ec2-instance-rebalance-recommendation-for-ec2-spot-instances/)
 - [Amazon EC2 On-Demand Capacity Reservations now supports AWS Wavelength Zones](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-on-demand-capacity-reservations-supports-aws-wavelength-zones/)
 - [AWS Marketplace enables vendor-provided cost allocation tags, enhancing visibility into software costs for analysis, allocation, and optimization](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-marketplace-enables-vendor-provided-cost-allocation-tags/)
-- [AWS Service Catalog now supports StackSet instance operations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-service-catalog-supports-stackset-instance-operations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

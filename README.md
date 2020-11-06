@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Fraud Detector launches ability to delete additional resource types in AWS Console and SDK](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fraud-detector-launches-ability-to-delete-additional-resource-types-in-aws-console-and-sdk/)
+- [Amazon Translate allows user to specify a part of the text to not be translated – Do Not Translate](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-allows-user-to-specify-a-part-of-the-text-to-not-be-translated-do-not-translate/)
+- [IP Multicast on AWS Transit Gateway is now available in major AWS regions world wide](https://aws.amazon.com/about-aws/whats-new/2020/11/ip-multicast-on-aws-transit-gateway-now-available-in-major-aws-regions-world-wide/)
+- [Amazon EventBridge introduces support for Event Replay](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventplay-introduces-support-for-event-replay/)
+- [Encrypt your Amazon DynamoDB global tables by using your own encryption keys](https://aws.amazon.com/about-aws/whats-new/2020/11/encrypt-your-amazon-dynamodb-global-tables-by-using-your-own-encryption-keys/)
 - [AWS Fargate for Amazon ECS launches features focused on configuration and metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-fargate-for-amazon-ecs-launches-features-focused-on-configuration-and-metrics/)
 - [Savings Plans Alerts now available in AWS Cost Management](https://aws.amazon.com/about-aws/whats-new/2020/11/savings-plans-alerts-now-available-in-aws-cost-management/)
 - [Amazon Kendra adds Confluence Cloud connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-confluence-cloud-connector/)
 - [Amazon SQS introduces new console experience in AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sqs-introduces-new-console-experience-in-aws-govcloud-us-regions/)
 - [Amazon EMR service limits can now be managed through AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-emr-service-limits-can-now-be-managed-through-aws-service-quotas/)
-- [AWS Systems Manager Quick Setup now supports targeting a resource group](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-quick-setup-supports-targeting-resource-group/)
-- [AWS Lambda now supports Amazon MQ for Apache ActiveMQ as an event source](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-amazon-mq-apache-activemq-event-source/)
-- [AWS Client VPN now supports Client Connect Handler](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-supports-client-connect-handler/)
-- [Amazon EBS Fast Snapshot Restore (FSR) is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ebs-fast-snapshot-restore-now-available-us-govcloud-regions/)
-- [Amazon Redshift announces Open Source JDBC and Python drivers](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-open-source-jdbc-python-drivers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

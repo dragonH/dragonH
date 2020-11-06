@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS now supports Internet Protocol Version 6 (IPv6) in awsvpc networking mode](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-supports-ipv6-in-awsvpc-networking-mode/)
 - [Amazon Fraud Detector launches ability to delete additional resource types in AWS Console and SDK](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fraud-detector-launches-ability-to-delete-additional-resource-types-in-aws-console-and-sdk/)
 - [Amazon Translate allows user to specify a part of the text to not be translated – Do Not Translate](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-allows-user-to-specify-a-part-of-the-text-to-not-be-translated-do-not-translate/)
 - [IP Multicast on AWS Transit Gateway is now available in major AWS regions world wide](https://aws.amazon.com/about-aws/whats-new/2020/11/ip-multicast-on-aws-transit-gateway-now-available-in-major-aws-regions-world-wide/)
@@ -67,7 +68,6 @@
 - [Savings Plans Alerts now available in AWS Cost Management](https://aws.amazon.com/about-aws/whats-new/2020/11/savings-plans-alerts-now-available-in-aws-cost-management/)
 - [Amazon Kendra adds Confluence Cloud connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-confluence-cloud-connector/)
 - [Amazon SQS introduces new console experience in AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sqs-introduces-new-console-experience-in-aws-govcloud-us-regions/)
-- [Amazon EMR service limits can now be managed through AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-emr-service-limits-can-now-be-managed-through-aws-service-quotas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

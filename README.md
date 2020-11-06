@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkDocs adds support for managing the color theme in-app on iOS](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-support-managing-color-theme-in-app-ios/)
 - [Amazon ECS now supports Internet Protocol Version 6 (IPv6) in awsvpc networking mode](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-supports-ipv6-in-awsvpc-networking-mode/)
 - [Amazon Fraud Detector launches ability to delete additional resource types in AWS Console and SDK](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fraud-detector-launches-ability-to-delete-additional-resource-types-in-aws-console-and-sdk/)
 - [Amazon Translate allows user to specify a part of the text to not be translated – Do Not Translate](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-allows-user-to-specify-a-part-of-the-text-to-not-be-translated-do-not-translate/)
@@ -67,7 +68,6 @@
 - [AWS Fargate for Amazon ECS launches features focused on configuration and metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-fargate-for-amazon-ecs-launches-features-focused-on-configuration-and-metrics/)
 - [Savings Plans Alerts now available in AWS Cost Management](https://aws.amazon.com/about-aws/whats-new/2020/11/savings-plans-alerts-now-available-in-aws-cost-management/)
 - [Amazon Kendra adds Confluence Cloud connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-confluence-cloud-connector/)
-- [Amazon SQS introduces new console experience in AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sqs-introduces-new-console-experience-in-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Discounts Toll-Free Phone Number Pricing for the United States](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-discounts-toll-free-phone-number-pricing-united-states/)
+- [Amazon Aurora now supports PostgreSQL versions 10.12 and 9.6.17 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-supports-postgresql-versions-10-12-and-9-6-17-in-govcloud-regions/)
+- [Amazon Connect CTI Adapter for Salesforce now supports nine new languages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-cti-adapter-for-salesforce-supports-nine-new-languages/)
 - [Amazon EventBridge introduces support for Event Replay](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-introduces-support-for-event-replay/)
 - [Amazon WorkDocs adds support for managing the color theme in-app on iOS](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-support-managing-color-theme-in-app-ios/)
 - [Amazon ECS now supports Internet Protocol Version 6 (IPv6) in awsvpc networking mode](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-supports-ipv6-in-awsvpc-networking-mode/)
@@ -65,9 +68,6 @@
 - [Amazon Translate allows user to specify a part of the text to not be translated – Do Not Translate](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-allows-user-to-specify-a-part-of-the-text-to-not-be-translated-do-not-translate/)
 - [IP Multicast on AWS Transit Gateway is now available in major AWS regions world wide](https://aws.amazon.com/about-aws/whats-new/2020/11/ip-multicast-on-aws-transit-gateway-now-available-in-major-aws-regions-world-wide/)
 - [Encrypt your Amazon DynamoDB global tables by using your own encryption keys](https://aws.amazon.com/about-aws/whats-new/2020/11/encrypt-your-amazon-dynamodb-global-tables-by-using-your-own-encryption-keys/)
-- [AWS Fargate for Amazon ECS launches features focused on configuration and metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-fargate-for-amazon-ecs-launches-features-focused-on-configuration-and-metrics/)
-- [Savings Plans Alerts now available in AWS Cost Management](https://aws.amazon.com/about-aws/whats-new/2020/11/savings-plans-alerts-now-available-in-aws-cost-management/)
-- [Amazon Kendra adds Confluence Cloud connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-confluence-cloud-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

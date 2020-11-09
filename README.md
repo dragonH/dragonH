@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
+- [Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-deepcomposers-next-chartbusters-challenge/)
+- [Now you can export your Amazon DynamoDB table data to your data lake in Amazon S3 to perform analytics at any scale](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-export-your-amazon-dynamodb-table-data-to-your-data-lake-in-amazon-s3-to-perform-analytics-at-any-scale/)
 - [AWS DeepComposer adds new Transformers algorithm that allows developers to extend an input melody](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-adds-new-transformers-algorithm/)
 - [Announcing AWS App Mesh Controller for Kubernetes Version 1.2.0](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-app-mesh-controller-for-kubernetes-version-1-2-0/)
 - [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB 4.0 compatibility) as a target](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-database-migration-service-now-supports-amazon-documentdb-with-mongodb-4-0-compatibility-as-a-target/)
@@ -65,9 +68,6 @@
 - [AWS Data Exchange introduces Private Products](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-introduces-private-products/)
 - [AWS Data Exchange now supports private offer auto-renewals](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-now-supports-private-offer-auto-renewals/)
 - [AWS Transfer Family now supports shared services VPC environments](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-now-supports-shared-services-vpc-environments/)
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for MongoDB 4.0 and transactions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-adds-support-for-mongodb-4-and-transactions/)
-- [Amazon S3 Replication adds support for metrics and notifications](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-s3-replication-adds-support-for-metrics-and-notifications/)
-- [Amazon CodeGuru Profiler simplifies profiling for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database Expands Manageability Capabilities](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-global-database-expands-manageability-capabilities/)
 - [AWS DeepComposer launches new learning capsule on sequence modeling and Transformers](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-launches-learning-capsule-sequence-modeling-transformers/)
 - [Amazon Aurora with PostgreSQL Compatibility supports data import from Amazon S3 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/)
 - [New AWS Solutions Consulting Offer - Next-Generation Landing Zone](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-allcloud-nextgeneration-landingzone/)
@@ -67,7 +68,6 @@
 - [Amazon EventBridge introduces support for Event Replay](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-introduces-support-for-event-replay/)
 - [Amazon WorkDocs adds support for managing the color theme in-app on iOS](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-support-managing-color-theme-in-app-ios/)
 - [Amazon ECS now supports Internet Protocol Version 6 (IPv6) in awsvpc networking mode](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-supports-ipv6-in-awsvpc-networking-mode/)
-- [Amazon Fraud Detector launches ability to delete additional resource types in AWS Console and SDK](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fraud-detector-launches-ability-to-delete-additional-resource-types-in-aws-console-and-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

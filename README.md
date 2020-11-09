@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Aurora Global Database Expands Manageability Capabilities](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-global-database-expands-manageability-capabilities/)
-- [AWS DeepComposer launches new learning capsule on sequence modeling and Transformers](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-launches-learning-capsule-sequence-modeling-transformers/)
-- [Amazon Aurora with PostgreSQL Compatibility supports data import from Amazon S3 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-with-postgresql-compatibility-supports-data-import/)
-- [New AWS Solutions Consulting Offer - Next-Generation Landing Zone](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-allcloud-nextgeneration-landingzone/)
-- [Amazon Connect Discounts Toll-Free Phone Number Pricing for the United States](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-discounts-toll-free-phone-number-pricing-united-states/)
-- [Amazon Aurora now supports PostgreSQL versions 10.12 and 9.6.17 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-supports-postgresql-versions-10-12-and-9-6-17-in-govcloud-regions/)
-- [Amazon Connect CTI Adapter for Salesforce now supports nine new languages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-cti-adapter-for-salesforce-supports-nine-new-languages/)
-- [Amazon EventBridge introduces support for Event Replay](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-introduces-support-for-event-replay/)
-- [Amazon WorkDocs adds support for managing the color theme in-app on iOS](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-support-managing-color-theme-in-app-ios/)
-- [Amazon ECS now supports Internet Protocol Version 6 (IPv6) in awsvpc networking mode](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-supports-ipv6-in-awsvpc-networking-mode/)
+- [AWS Snowball Edge now supports importing virtual machine images to your deployed Snow devices](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-edge-supports-importing-virtual-machine-images-to-deployed-snow-devices/)
+- [AWS Snowball Edge now supports Windows operating systems](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-edge-supports-windows-operating-systems/)
+- [AWS DataSync announces fully automated transfers between AWS Storage services](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-datasync-announces-fully-automated-transfers-between-aws-storage-services/)
+- [AWS Transfer Family now supports shared services VPC environments](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-now-supports-shared-services-vpc-environments/)
+- [AWS Storage Gateway increases local storage cache by 4x for Tape and Volume Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-increases-local-storage-cache-for-tape-and-file-gateway/)
+- [AWS Storage Gateway simplifies in-cloud processing by adding file-level upload notifications for File Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-simplifies-in-cloud-processing-by-adding-file-level-upload-notifications-for-file-gateway/)
+- [AWS announces 40% price reduction for Amazon Elastic Block Store (EBS) Cold HDD (sc1) volumes](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announces-price-reduction-for-amazon-ebs-sc1-volumes/)
+- [AWS Storage Gateway adds schedule-based network bandwidth throttling for Tape and Volume Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-adds-schedule-based-network-bandwidth-throttling-tape-volume-gateway/)
+- [AWS Storage Gateway enhances security by introducing access-based enumeration for File Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-enhances-security-by-introducing-access-based-enumeration-for-file-gateway/)
+- [AMI Lifecycle Management now available with Data Lifecycle Manager](https://aws.amazon.com/about-aws/whats-new/2020/11/ami-lifecycle-management-available-data-lifecycle-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

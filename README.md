@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS App Mesh introduces circuit breaker capabilities](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app-mesh-introduces-circuit-breaker-capabilities/)
+- [Amazon DocumentDB (with MongoDB compatibility) adds support for MongoDB 4.0 and transactions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-adds-support-for-mongodb-4-and-transactions/)
 - [Amazon S3 Replication adds support for metrics and notifications](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-s3-replication-adds-support-for-metrics-and-notifications/)
+- [AWS Transfer Family now supports shared services VPC environments](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-now-supports-shared-services-vpc-environments/)
+- [Amazon CodeGuru Profiler simplifies profiling for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-profiler-simplifies-profiling-for-aws-lambda-functions/)
+- [AWS App Mesh introduces circuit breaker capabilities](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app-mesh-introduces-circuit-breaker-capabilities/)
 - [Amazon FSx for Lustre now supports storage quotas](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fsx-lustre-supports-storage-quotas/)
 - [You can now adjust the network bandwidth used by a running AWS DataSync task](https://aws.amazon.com/about-aws/whats-new/2020/11/you-can-now-adjust-network-bandwidth-used-by-running-aws-datasync-task/)
 - [AWS Snowball Edge now supports importing virtual machine images to your deployed Snow devices](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-edge-supports-importing-virtual-machine-images-to-deployed-snow-devices/)
 - [AWS Snowball Edge now supports Windows operating systems](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-edge-supports-windows-operating-systems/)
 - [AWS DataSync announces fully automated transfers between AWS Storage services](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-datasync-announces-fully-automated-transfers-between-aws-storage-services/)
-- [AWS Transfer Family now supports shared services VPC environments](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-now-supports-shared-services-vpc-environments/)
-- [AWS Storage Gateway increases local storage cache by 4x for Tape and Volume Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-increases-local-storage-cache-for-tape-and-file-gateway/)
-- [AWS Storage Gateway simplifies in-cloud processing by adding file-level upload notifications for File Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-simplifies-in-cloud-processing-by-adding-file-level-upload-notifications-for-file-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

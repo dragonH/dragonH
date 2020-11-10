@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
 - [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
 - [Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-deepcomposers-next-chartbusters-challenge/)
 - [Now you can export your Amazon DynamoDB table data to your data lake in Amazon S3 to perform analytics at any scale](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-export-your-amazon-dynamodb-table-data-to-your-data-lake-in-amazon-s3-to-perform-analytics-at-any-scale/)
@@ -67,7 +68,6 @@
 - [AWS Data Exchange now supports provider-controlled auto-renewal terms](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-supports-provider-controlled-auto-renewal-terms/)
 - [AWS Data Exchange introduces Private Products](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-introduces-private-products/)
 - [AWS Data Exchange now supports private offer auto-renewals](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-now-supports-private-offer-auto-renewals/)
-- [AWS Transfer Family now supports shared services VPC environments](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-now-supports-shared-services-vpc-environments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches a British English Newscaster speaking Style](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-british-english-newscaster-speaking-style/)
+- [AWS Managed Services (AMS) now offers Infrastructure Auto-Tagging functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-offers-infrastructure-auto-tagging-functionality/)
 - [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
 - [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
 - [Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-deepcomposers-next-chartbusters-challenge/)
@@ -66,8 +68,6 @@
 - [Announcing AWS App Mesh Controller for Kubernetes Version 1.2.0](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-app-mesh-controller-for-kubernetes-version-1-2-0/)
 - [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB 4.0 compatibility) as a target](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-database-migration-service-now-supports-amazon-documentdb-with-mongodb-4-0-compatibility-as-a-target/)
 - [AWS Data Exchange now supports provider-controlled auto-renewal terms](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-supports-provider-controlled-auto-renewal-terms/)
-- [AWS Data Exchange introduces Private Products](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-introduces-private-products/)
-- [AWS Data Exchange now supports private offer auto-renewals](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-now-supports-private-offer-auto-renewals/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

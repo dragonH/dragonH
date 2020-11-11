@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation is now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lake-formation-is-now-available-in-aws-govcloud-us-west-region/)
+- [AWS Systems Manager Explorer now provides a multi-account, multi-region summary of AWS Config compliance](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-explorer-provides-multi-account-multi-region-summary-aws-config-compliance/)
 - [AWS CodePipeline Source Action for AWS CodeCommit Supports git clone](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/)
 - [Memcached 1.6.6 now available on Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2020/11/memcached-1-6-6-now-available-on-amazon-elasticache/)
 - [Automatic backups for Amazon Elastic File System using AWS Backup is now available in AWS Europe (Milan) and AWS Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/automatic-backups-amazon-elastic-file-system-aws-backup-aws-europe-regions/)
@@ -66,8 +68,6 @@
 - [Introducing AWS Glue DataBrew: Visual data preparation tool to clean and normalize data up to 80% faster](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-glue-databrew-visual-data-preparation-tool-to-clean-and-normalize-data-up-to-80-percent-faster/)
 - [New Amazon S3 console improves upload speed, simplifies common tasks, and makes it even easier to manage storage](https://aws.amazon.com/about-aws/whats-new/2020/11/new-amazon-s3-console-improves-upload-speed-common-tasks-easier-manage-storage/)
 - [Amazon Redshift announces support for TIME and TIMETZ data types](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-support-time-timetz-data-types/)
-- [FreeRTOS now includes IoT and AWS libraries optimized for memory usage and modularity](https://aws.amazon.com/about-aws/whats-new/2020/11/freertos-includes-iot-aws-libraries-optimized-memory-usage-modularity/)
-- [Amazon Aurora increases maximum storage size to 128TB  in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-increases-maximum-storage-size-to-128tb-in-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

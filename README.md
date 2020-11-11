@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon S3 console improves upload speed, simplifies common tasks, and makes it even easier to manage storage](https://aws.amazon.com/about-aws/whats-new/2020/11/new-amazon-s3-console-improves-upload-speed-common-tasks-easier-manage-storage/)
 - [Amazon Redshift announces support for TIME and TIMETZ data types](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-support-time-timetz-data-types/)
 - [FreeRTOS now includes IoT and AWS libraries optimized for memory usage and modularity](https://aws.amazon.com/about-aws/whats-new/2020/11/freertos-includes-iot-aws-libraries-optimized-memory-usage-modularity/)
 - [Amazon Aurora increases maximum storage size to 128TB  in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-increases-maximum-storage-size-to-128tb-in-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Polly launches a British English Newscaster speaking Style](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-british-english-newscaster-speaking-style/)
 - [AWS Managed Services (AMS) now offers Infrastructure Auto-Tagging functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-offers-infrastructure-auto-tagging-functionality/)
 - [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
-- [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

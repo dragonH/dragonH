@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline Source Action for AWS CodeCommit Supports git clone](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/)
+- [Memcached 1.6.6 now available on Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2020/11/memcached-1-6-6-now-available-on-amazon-elasticache/)
+- [Automatic backups for Amazon Elastic File System using AWS Backup is now available in AWS Europe (Milan) and AWS Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/automatic-backups-amazon-elastic-file-system-aws-backup-aws-europe-regions/)
+- [AWS AppSync Now Available in Asia Pacific (Hong Kong), Middle East (Bahrain) and China (Ningxia)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-appsync-now-available-in-asia-pacific-hong-kong-middle-east-bahrain-and-china-ningxia/)
+- [Simplified Amazon Elastic File System management console now available in AWS Europe (Milan), AWS Africa (Cape Town) and AWS China regions](https://aws.amazon.com/about-aws/whats-new/2020/11/simplified-amazon-elastic-file-system-management-console-available-milan-cape-town-china-regions/)
+- [Introducing AWS Glue DataBrew: Visual data preparation tool to clean and normalize data up to 80% faster](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-glue-databrew-visual-data-preparation-tool-to-clean-and-normalize-data-up-to-80-percent-faster/)
 - [New Amazon S3 console improves upload speed, simplifies common tasks, and makes it even easier to manage storage](https://aws.amazon.com/about-aws/whats-new/2020/11/new-amazon-s3-console-improves-upload-speed-common-tasks-easier-manage-storage/)
 - [Amazon Redshift announces support for TIME and TIMETZ data types](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-support-time-timetz-data-types/)
 - [FreeRTOS now includes IoT and AWS libraries optimized for memory usage and modularity](https://aws.amazon.com/about-aws/whats-new/2020/11/freertos-includes-iot-aws-libraries-optimized-memory-usage-modularity/)
 - [Amazon Aurora increases maximum storage size to 128TB  in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-increases-maximum-storage-size-to-128tb-in-aws-govcloud-us-regions/)
-- [New self-paced courses for security and IoT on edX and Coursera](https://aws.amazon.com/about-aws/whats-new/2020/11/new-self-paced-courses-for-security-and-iot-on-edx-and-coursera/)
-- [Announcing a new digital curriculum: Break Free of Legacy Databases](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-a-new-digital-curriculum-break-free-of-legacy-databases/)
-- [Now privately connect to AWS Database Migration Service from Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/now-privately-connect-to-aws-database-migration-service-from-amazon-virtual-private-cloud/)
-- [Amazon Polly launches a British English Newscaster speaking Style](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-british-english-newscaster-speaking-style/)
-- [AWS Managed Services (AMS) now offers Infrastructure Auto-Tagging functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-offers-infrastructure-auto-tagging-functionality/)
-- [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

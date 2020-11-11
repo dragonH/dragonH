@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for TIME and TIMETZ data types](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-support-time-timetz-data-types/)
 - [FreeRTOS now includes IoT and AWS libraries optimized for memory usage and modularity](https://aws.amazon.com/about-aws/whats-new/2020/11/freertos-includes-iot-aws-libraries-optimized-memory-usage-modularity/)
 - [Amazon Aurora increases maximum storage size to 128TB  in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-increases-maximum-storage-size-to-128tb-in-aws-govcloud-us-regions/)
 - [New self-paced courses for security and IoT on edX and Coursera](https://aws.amazon.com/about-aws/whats-new/2020/11/new-self-paced-courses-for-security-and-iot-on-edx-and-coursera/)
@@ -67,7 +68,6 @@
 - [AWS Managed Services (AMS) now offers Infrastructure Auto-Tagging functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-offers-infrastructure-auto-tagging-functionality/)
 - [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
 - [Amazon Keyspaces now helps you update and store common data between multiple rows efficiently by using static columns](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-keyspaces-support-for-static-columns/)
-- [Announcing AWS DeepComposer’s next Chartbusters challenge, Keep Calm and Model On](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-deepcomposers-next-chartbusters-challenge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

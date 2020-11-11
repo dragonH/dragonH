@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now privately connect to AWS Database Migration Service from Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/now-privately-connect-to-aws-database-migration-service-from-amazon-virtual-private-cloud/)
 - [Amazon Polly launches a British English Newscaster speaking Style](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-british-english-newscaster-speaking-style/)
 - [AWS Managed Services (AMS) now offers Infrastructure Auto-Tagging functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-offers-infrastructure-auto-tagging-functionality/)
 - [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-managemen-iam/)
@@ -67,7 +68,6 @@
 - [AWS DeepComposer adds new Transformers algorithm that allows developers to extend an input melody](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-deepcomposer-adds-new-transformers-algorithm/)
 - [Announcing AWS App Mesh Controller for Kubernetes Version 1.2.0](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-aws-app-mesh-controller-for-kubernetes-version-1-2-0/)
 - [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB 4.0 compatibility) as a target](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-database-migration-service-now-supports-amazon-documentdb-with-mongodb-4-0-compatibility-as-a-target/)
-- [AWS Data Exchange now supports provider-controlled auto-renewal terms](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-data-exchange-supports-provider-controlled-auto-renewal-terms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

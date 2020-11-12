@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports Event notifications](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-event-notifications/)
 - [Amazon Redshift announces automatic refresh and query rewrite for materialized views](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-automatic-refresh-and-query-rewrite-for-materialized-views/)
 - [AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-amplify-hosting-generally-available-milan-bahrain-hong-kong-regions/)
 - [AWS Elemental Link adds features and service regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-elemental-link-adds-features-service-regions/)
@@ -67,7 +68,6 @@
 - [AWS Lake Formation is now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lake-formation-is-now-available-in-aws-govcloud-us-west-region/)
 - [AWS Systems Manager Explorer now provides a multi-account, multi-region summary of AWS Config compliance](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-explorer-provides-multi-account-multi-region-summary-aws-config-compliance/)
 - [AWS CodePipeline Source Action for AWS CodeCommit Supports git clone](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/)
-- [Memcached 1.6.6 now available on Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2020/11/memcached-1-6-6-now-available-on-amazon-elasticache/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

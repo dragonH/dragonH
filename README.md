@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces automatic refresh and query rewrite for materialized views](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-automatic-refresh-and-query-rewrite-for-materialized-views/)
 - [AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-amplify-hosting-generally-available-milan-bahrain-hong-kong-regions/)
 - [AWS Elemental Link adds features and service regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-elemental-link-adds-features-service-regions/)
 - [Introducing AWS Gateway Load Balancer](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-gateway-load-balancer/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager Explorer now provides a multi-account, multi-region summary of AWS Config compliance](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-explorer-provides-multi-account-multi-region-summary-aws-config-compliance/)
 - [AWS CodePipeline Source Action for AWS CodeCommit Supports git clone](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codepipeline-source-action-aws-codecommit-supports-git-clone/)
 - [Memcached 1.6.6 now available on Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2020/11/memcached-1-6-6-now-available-on-amazon-elasticache/)
-- [Automatic backups for Amazon Elastic File System using AWS Backup is now available in AWS Europe (Milan) and AWS Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/automatic-backups-amazon-elastic-file-system-aws-backup-aws-europe-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

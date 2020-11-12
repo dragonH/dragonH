@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex adds language support for French, Spanish, Italian and Canadian French](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-lex-adds-language-support-for-french-spanish-italian-and-canadian-french/)
+- [Updated digital course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2020/11/updated-digital-course-aws-cloud-practitioner-essentials/)
+- [Amazon VPC CNI plugin version 1.7 now default for Amazon EKS clusters](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-vpc-cni-plugin-version-1-7-now-default-for-amazon-eks-clusters/)
+- [AWS RoboMaker now supports tag-on-create for 3D simulation worlds](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-robomaker-supports-tag-on-create-3d-simulation-worlds/)
 - [Amazon Connect now supports Olivia, Amazon Polly’s latest conversational text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-supports-olivia-amazon-pollys-latest-conversational-text-to-speech-voice/)
 - [Automated ABR (Adaptive Bit Rate) Configuration now available in AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2020/11/automated-abr-configuration-now-available-in-aws-elemental-mediaconvert/)
 - [AWS Managed Services (AMS) is now available in the AWS Europe (Paris) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-available-in-europe-paris-region/)
 - [Amazon Polly launches a new Australian English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-new-australian-english-neural-text-to-speech-voice/)
 - [AWS Lambda now makes it easier to send logs to custom destinations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-send-logs-custom-destinations/)
 - [Amazon Aurora now supports T3 and R5 instance types in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-supports-t3-r5-instance-types-aws-govcloud-regions/)
-- [Amazon Neptune now supports Event notifications](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-event-notifications/)
-- [Amazon Redshift announces automatic refresh and query rewrite for materialized views](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-automatic-refresh-and-query-rewrite-for-materialized-views/)
-- [AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-amplify-hosting-generally-available-milan-bahrain-hong-kong-regions/)
-- [AWS Elemental Link adds features and service regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-elemental-link-adds-features-service-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

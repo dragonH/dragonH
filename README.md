@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports Olivia, Amazon Polly’s latest conversational text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-supports-olivia-amazon-pollys-latest-conversational-text-to-speech-voice/)
 - [Automated ABR (Adaptive Bit Rate) Configuration now available in AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2020/11/automated-abr-configuration-now-available-in-aws-elemental-mediaconvert/)
 - [AWS Managed Services (AMS) is now available in the AWS Europe (Paris) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-services-ams-now-available-in-europe-paris-region/)
 - [Amazon Polly launches a new Australian English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-new-australian-english-neural-text-to-speech-voice/)
@@ -67,7 +68,6 @@
 - [Amazon Redshift announces automatic refresh and query rewrite for materialized views](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-automatic-refresh-and-query-rewrite-for-materialized-views/)
 - [AWS Amplify Hosting is now generally available in the Europe (Milan), Middle East (Bahrain), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-amplify-hosting-generally-available-milan-bahrain-hong-kong-regions/)
 - [AWS Elemental Link adds features and service regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-elemental-link-adds-features-service-regions/)
-- [Introducing AWS Gateway Load Balancer](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-gateway-load-balancer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

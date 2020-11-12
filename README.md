@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches a new Australian English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-launches-new-australian-english-neural-text-to-speech-voice/)
+- [AWS Lambda now makes it easier to send logs to custom destinations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-send-logs-custom-destinations/)
 - [Amazon Aurora now supports T3 and R5 instance types in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-supports-t3-r5-instance-types-aws-govcloud-regions/)
 - [Amazon Neptune now supports Event notifications](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-event-notifications/)
 - [Amazon Redshift announces automatic refresh and query rewrite for materialized views](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-redshift-announces-automatic-refresh-and-query-rewrite-for-materialized-views/)
@@ -66,8 +68,6 @@
 - [Introducing AWS Gateway Load Balancer](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-gateway-load-balancer/)
 - [NICE DCV releases version 2020.2 with new session manager and performance enhancements for high frame rate interactive workloads](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-dcv-releases-version-2020-2/)
 - [Announcing new AWS Wavelength Zones in Dallas and Miami](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-aws-wavelength-zones-in-dallas-and-miami/)
-- [AWS Lake Formation is now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lake-formation-is-now-available-in-aws-govcloud-us-west-region/)
-- [AWS Systems Manager Explorer now provides a multi-account, multi-region summary of AWS Config compliance](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-explorer-provides-multi-account-multi-region-summary-aws-config-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

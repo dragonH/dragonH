@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches new Chart Types, Table Improvements and more](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-launches-new-chart-types-table-improvements-and-more/)
 - [Amazon Athena adds support for running SQL queries across relational, non-relational, object, and custom data sources.](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-what-s-new-for-athena-federated-query/)
 - [Network Load Balancer now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2020/11/network-load-balancer-supports-ipv6/)
 - [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
@@ -67,7 +68,6 @@
 - [Announcing Amazon Lightsail Containers, an easy way to run containerized applications on the cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-lightsail-containers/)
 - [Amazon Neptune now supports custom endpoints to access your workload](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-custom-endpoints-to-access-your-workload/)
 - [Amazon EBS direct APIs for Snapshots now supports FIPS 140-2 compliant endpoints in the US Commercial and Canada (Central) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ebs-direct-apis-for-snapshots-supports-fips-140-2-compliant-endpoints-us-commercial-canada-regions/)
-- [Amazon Lex adds language support for French, Spanish, Italian and Canadian French](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-lex-adds-language-support-for-french-spanish-italian-and-canadian-french/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

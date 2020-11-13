@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena adds support for running SQL queries across relational, non-relational, object, and custom data sources.](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-what-s-new-for-athena-federated-query/)
+- [Network Load Balancer now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2020/11/network-load-balancer-supports-ipv6/)
 - [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
 - [Amazon Kinesis Video Streams WebRTC SDK in C now supports client metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/)
 - [Amazon QuickSight now supports Column Level Security, Column Descriptions, and a new Oracle Connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-supports-column-level-security-column-descriptions-new-oracle-connector/)
@@ -66,8 +68,6 @@
 - [Amazon Neptune now supports custom endpoints to access your workload](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-now-supports-custom-endpoints-to-access-your-workload/)
 - [Amazon EBS direct APIs for Snapshots now supports FIPS 140-2 compliant endpoints in the US Commercial and Canada (Central) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ebs-direct-apis-for-snapshots-supports-fips-140-2-compliant-endpoints-us-commercial-canada-regions/)
 - [Amazon Lex adds language support for French, Spanish, Italian and Canadian French](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-lex-adds-language-support-for-french-spanish-italian-and-canadian-french/)
-- [Updated digital course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2020/11/updated-digital-course-aws-cloud-practitioner-essentials/)
-- [Amazon VPC CNI plugin version 1.7 now default for Amazon EKS clusters](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-vpc-cni-plugin-version-1-7-now-default-for-amazon-eks-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

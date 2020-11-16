@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL Patches 1.7.6 / 2.5.6 / 3.2.6 now available](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-postgresql-patches-generally-available/)
 - [Amazon Kendra adds user tokens for secure search](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-user-tokens-for-secure-search/)
 - [Amazon Textract supports handwriting and five new languages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-textract-supports-handwriting-and-five-new-langauges/)
 - [New AWS Solutions Consulting Offer - Atlassian Managed Hosting](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-kreuzwerker-atlassian-managed-hosting/)
@@ -67,7 +68,6 @@
 - [Network Load Balancer now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2020/11/network-load-balancer-supports-ipv6/)
 - [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
 - [Amazon Kinesis Video Streams WebRTC SDK in C now supports client metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/)
-- [Amazon QuickSight now supports Column Level Security, Column Descriptions, and a new Oracle Connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-supports-column-level-security-column-descriptions-new-oracle-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

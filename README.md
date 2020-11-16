@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra adds user tokens for secure search](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-user-tokens-for-secure-search/)
+- [Amazon Textract supports handwriting and five new languages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-textract-supports-handwriting-and-five-new-langauges/)
 - [New AWS Solutions Consulting Offer - Atlassian Managed Hosting](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-kreuzwerker-atlassian-managed-hosting/)
 - [New AWS Solutions Consulting Offer - Open Banking Enablement Service](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-capgemini-open-banking-enablement-service/)
 - [Amazon QuickSight launches new Chart Types, Table Improvements and more](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-launches-new-chart-types-table-improvements-and-more/)
@@ -66,8 +68,6 @@
 - [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
 - [Amazon Kinesis Video Streams WebRTC SDK in C now supports client metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/)
 - [Amazon QuickSight now supports Column Level Security, Column Descriptions, and a new Oracle Connector](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-supports-column-level-security-column-descriptions-new-oracle-connector/)
-- [Apply your business rules to Amazon Personalize recommendations on the fly](https://aws.amazon.com/about-aws/whats-new/2020/11/apply-business-rules-amazon-personalize-recommendations-on-the-fly/)
-- [Announcing Amazon Lightsail Containers, an easy way to run containerized applications on the cloud](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-lightsail-containers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

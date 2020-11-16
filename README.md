@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020](https://aws.amazon.com/about-aws/whats-new/2020/11/join-final-lap-deepracer-league-aws-reinvent-2020/)
+- [The AWS CDK EKS Construct Library is Now Available as a Developer Preview and Adds Support for cdk8s](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cdk-eks-construct-library-available-developer-preview/)
 - [Amazon Aurora PostgreSQL Patches 1.7.6 / 2.5.6 / 3.2.6 now available](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-postgresql-patches-generally-available/)
 - [Amazon Kendra adds user tokens for secure search](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kendra-adds-user-tokens-for-secure-search/)
 - [Amazon Textract supports handwriting and five new languages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-textract-supports-handwriting-and-five-new-langauges/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight launches new Chart Types, Table Improvements and more](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-launches-new-chart-types-table-improvements-and-more/)
 - [Amazon Athena adds support for running SQL queries across relational, non-relational, object, and custom data sources.](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-what-s-new-for-athena-federated-query/)
 - [Network Load Balancer now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2020/11/network-load-balancer-supports-ipv6/)
-- [Amazon Athena announces availability of engine version 2](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-announces-availability-of-engine-version-2/)
-- [Amazon Kinesis Video Streams WebRTC SDK in C now supports client metrics](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-video-streams-webrtc-sdk-in-c-supports-client-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

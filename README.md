@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront launches in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/cloudfront-thailand/)
 - [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-management-iam/)
 - [Amazon CloudWatch Synthetics now supports Environment Variables](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-environment-variables/)
 - [Introducing Machine to Cloud Connectivity Framework v1.2](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-machine-cloud-connectivity-framework-v1-2/)
@@ -67,7 +68,6 @@
 - [AWS Step Functions now supports Amazon EKS service integration](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-amazon-eks-service-integration/)
 - [Announcing protection groups for AWS Shield Advanced](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-protection-groups-aws-shield-advanced/)
 - [Amazon Augmented AI is now a HIPAA eligible service](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-augmented-ai-now-hipaa-eligible-service/)
-- [Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020](https://aws.amazon.com/about-aws/whats-new/2020/11/join-final-lap-deepracer-league-aws-reinvent-2020/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

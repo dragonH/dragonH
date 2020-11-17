@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now enables customers to further automate SAP deployments with pre and post-deployment configuration scripts](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-launch-wizard-enables-customers-further-automate-sap-deployments-with-pre-post-deployment-configuration-scripts/)
 - [Amazon ECS extensions for AWS CDK is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-extensions-for-aws-cdk-is-now-generally-available/)
 - [Move database migration tasks from one replication instance to another](https://aws.amazon.com/about-aws/whats-new/2020/11/move-database-migration-tasks-from-one-instance-to-another/)
 - [AWS Migration Hub now includes network visualization to simplify and accelerate migration planning](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-migration-hub-includes-network-visualization/)
 - [Introducing Video On Demand on AWS Foundation](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-video-on-demand-aws-foundation/)
 - [AWS Global Accelerator launches a new Edge location in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-global-accelerator-launches-new-edge-location-thailand/)
-- [AWS KM - based Encryption is Now Available in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-kms-based-encryption-available-amazon-sagemaker-studio/)
+- [AWS KMS - based Encryption is Now Available in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-kms-based-encryption-available-amazon-sagemaker-studio/)
 - [Pause and Resume Workloads on T3 and T3a Instances with Amazon EC2 Hibernation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-hibernation-on-t3-and-t3a/)
 - [AWS Step Functions now supports Amazon API Gateway service integration](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/)
 - [Announcing new features for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-features-aws-iot-sitewise/)
-- [AWS Trusted Advisor enables multi-account reporting of best practice recommendations with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-trusted-advisor-enables-multi-account-reporting-of-best-practice-recommendations-with-aws-organizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics now supports Environment Variables](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-environment-variables/)
 - [Introducing Machine to Cloud Connectivity Framework v1.2](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-machine-cloud-connectivity-framework-v1-2/)
 - [AWS X-Ray now supports trace context propagation for Amazon Simple Storage Service (S3)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/)
 - [AWS IoT Device Management enhances Secure Tunneling with new multiplexing capability, supporting multiple connections to a single device over a secure tunnel](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-device-management-enhances-secure-tunneling-with-new-multiplexing-capability-supporting-multiple-connections-to-a-single-device-over-a-secure-tunnel/)
@@ -67,7 +68,6 @@
 - [Amazon Augmented AI is now a HIPAA eligible service](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-augmented-ai-now-hipaa-eligible-service/)
 - [Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020](https://aws.amazon.com/about-aws/whats-new/2020/11/join-final-lap-deepracer-league-aws-reinvent-2020/)
 - [The AWS CDK EKS Construct Library is Now Available as a Developer Preview and Adds Support for cdk8s](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cdk-eks-construct-library-available-developer-preview/)
-- [Amazon Aurora PostgreSQL Patches 1.7.6 / 2.5.6 / 3.2.6 now available](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-aurora-postgresql-patches-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Partners: Learn how to engage customers in ML and AI opportunities!](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-partners-learn-how-to-engage-customers-in-ml-and-ai-opportunities/)
 - [Amazon CloudFront launches in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/cloudfront-thailand/)
 - [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-management-iam/)
 - [Amazon CloudWatch Synthetics now supports Environment Variables](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-environment-variables/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Studio now supports multi-GPU instances](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sagemaker-studio-supports-multi-gpu-instances/)
 - [AWS Step Functions now supports Amazon EKS service integration](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-amazon-eks-service-integration/)
 - [Announcing protection groups for AWS Shield Advanced](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-protection-groups-aws-shield-advanced/)
-- [Amazon Augmented AI is now a HIPAA eligible service](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-augmented-ai-now-hipaa-eligible-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

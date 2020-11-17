@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator launches a new Edge location in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-global-accelerator-launches-new-edge-location-thailand/)
+- [AWS KM - based Encryption is Now Available in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-kms-based-encryption-available-amazon-sagemaker-studio/)
+- [Pause and Resume Workloads on T3 and T3a Instances with Amazon EC2 Hibernation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-hibernation-on-t3-and-t3a/)
 - [AWS Step Functions now supports Amazon API Gateway service integration](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-supports-amazon-api-gateway-service-integration/)
 - [Announcing new features for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-new-features-aws-iot-sitewise/)
 - [AWS Trusted Advisor enables multi-account reporting of best practice recommendations with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-trusted-advisor-enables-multi-account-reporting-of-best-practice-recommendations-with-aws-organizations/)
@@ -65,9 +68,6 @@
 - [Amazon CloudFront launches in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/cloudfront-thailand/)
 - [New – Deep Dive with Security: AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2020/11/new-deep-dive-with-security-aws-identity-and-access-management-iam/)
 - [Amazon CloudWatch Synthetics now supports Environment Variables](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-environment-variables/)
-- [Introducing Machine to Cloud Connectivity Framework v1.2](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-machine-cloud-connectivity-framework-v1-2/)
-- [AWS X-Ray now supports trace context propagation for Amazon Simple Storage Service (S3)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-x-ray-supports-trace-context-propagation-amazon-simple-storage-service-s3/)
-- [AWS IoT Device Management enhances Secure Tunneling with new multiplexing capability, supporting multiple connections to a single device over a secure tunnel](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-device-management-enhances-secure-tunneling-with-new-multiplexing-capability-supporting-multiple-connections-to-a-single-device-over-a-secure-tunnel/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

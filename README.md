@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports centralized management of AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-firewall-manager-supports-centralized-management-aws-network-firewall/)
+- [AWS Snowcone is now available in the AWS Europe (Frankfurt) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowcone-available-in-frankfurt-region/)
+- [Amazon RDS on VMware Adds Support for Cross-Custom-Availability-Zone Read Replicas](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-vmware-adds-support-for-cross-custom-availability-zone-read-replicas/)
+- [Amazon Connect launches API to configure user hierarchies programmatically](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-launches-api-to-configure-user-hierarchies-programmatically/)
 - [Amazon MSK customers can now use Cruise Control to more easily scale and balance resource utilization within clusters](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-customers-can-now-use-cruise-control-to-more-easily-scale-and-balance-resource-utilization-within-clusters/)
 - [Amazon Elasticsearch Service adds support for hot reload of dictionary files](https://aws.amazon.com/about-aws/whats-new/2020/11/-amazon-elasticsearch-service-adds-support-for-hot-reload-of-dictionary-files/)
 - [Customers can now use AWS Service Catalog stack import to add governance to their existing AWS CloudFormation stacks](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-customer-can-now-use-aws-service-catalog-stack-import-to-add-governance/)
 - [AWS Launch Wizard now enables customers to further automate SAP deployments with pre and post-deployment configuration scripts](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-launch-wizard-enables-customers-further-automate-sap-deployments-with-pre-post-deployment-configuration-scripts/)
 - [Amazon ECS extensions for AWS CDK is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-extensions-for-aws-cdk-is-now-generally-available/)
 - [Move database migration tasks from one replication instance to another](https://aws.amazon.com/about-aws/whats-new/2020/11/move-database-migration-tasks-from-one-instance-to-another/)
-- [AWS Migration Hub now includes network visualization to simplify and accelerate migration planning](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-migration-hub-includes-network-visualization/)
-- [Introducing Video On Demand on AWS Foundation](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-video-on-demand-aws-foundation/)
-- [AWS Global Accelerator launches a new Edge location in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-global-accelerator-launches-new-edge-location-thailand/)
-- [AWS KMS - based Encryption is Now Available in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-kms-based-encryption-available-amazon-sagemaker-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

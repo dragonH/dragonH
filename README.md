@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK customers can now use Cruise Control to more easily scale and balance resource utilization within clusters](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-customers-can-now-use-cruise-control-to-more-easily-scale-and-balance-resource-utilization-within-clusters/)
 - [Amazon Elasticsearch Service adds support for hot reload of dictionary files](https://aws.amazon.com/about-aws/whats-new/2020/11/-amazon-elasticsearch-service-adds-support-for-hot-reload-of-dictionary-files/)
 - [Customers can now use AWS Service Catalog stack import to add governance to their existing AWS CloudFormation stacks](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-customer-can-now-use-aws-service-catalog-stack-import-to-add-governance/)
 - [AWS Launch Wizard now enables customers to further automate SAP deployments with pre and post-deployment configuration scripts](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-launch-wizard-enables-customers-further-automate-sap-deployments-with-pre-post-deployment-configuration-scripts/)
@@ -67,7 +68,6 @@
 - [Introducing Video On Demand on AWS Foundation](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-video-on-demand-aws-foundation/)
 - [AWS Global Accelerator launches a new Edge location in Thailand](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-global-accelerator-launches-new-edge-location-thailand/)
 - [AWS KMS - based Encryption is Now Available in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-kms-based-encryption-available-amazon-sagemaker-studio/)
-- [Pause and Resume Workloads on T3 and T3a Instances with Amazon EC2 Hibernation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-hibernation-on-t3-and-t3a/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

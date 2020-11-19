@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling announces support for multiple launch templates for Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ec2-auto-scaling-announces-support-for-multiple-launch-templates-for-auto-scaling-groups/)
 - [Introducing the AWS Network Firewall - a new managed service to deploy network security across your Amazon VPCs with just a few clicks](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-network-firewall/)
 - [Amazon EC2 Fleet now supports deleting instant type fleets](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-fleet-now-supports-deleting-instant-type-fleets/)
 - [Amazon Connect now supports Amazon Lex chatbots for French, Spanish, Italian and Canadian French](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-now-supports-amazon-lex-chatbots-for-french-spanish-italian-and-canadian-french/)
@@ -67,7 +68,6 @@
 - [Introducing Real-Time Live Sports Updates Using AWS AppSync](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-real-time-live-sports-updates-using-aws-appsync/)
 - [AWS ParallelCluster 2.10](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-parallelcluster-now-supports-NVIDIA-GPUDirect-RDMA/)
 - [Amazon RDS Performance Insights Supports SQL-level Metrics on Amazon RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-sql-level-metrics-amazon-rds-postgresql/)
-- [Amazon S3 Storage Lens delivers organization-wide visibility into object storage usage and activity trends](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-s3-storage-lens-delivers-organization-wide-visibility-into-object-storage-usage-and-activity-trends/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

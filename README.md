@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena is now available in the AWS Africa (Cape Town) region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-is-now-available-in-the-aws-africa--cape-town--region/)
+- [AWS Backup and AWS Organizations bring cross-account backup feature](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-backup-enables-aws-organizations-bring-cross-account-backup-feature/)
+- [Amazon EC2 M6g, C6g and R6g instances powered by AWS Graviton2 processors are now available in Europe(London) and Canada(Central) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-m6g--c6g-and-r6g-instances-powered-by-aws-graviton2-processors/)
+- [AWS Identity and Access Management introduces new policy defaults for IAM user passwords](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-identity-and-access-management-introduces-new-policy-defaults-for-iam-user-passwords/)
+- [Amazon Textract now supports AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-textract-supports-aws-kms/)
 - [Amazon EC2 Auto Scaling announces support for multiple launch templates for Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2020/10/amazon-ec2-auto-scaling-announces-support-for-multiple-launch-templates-for-auto-scaling-groups/)
 - [Introducing the AWS Network Firewall - a new managed service to deploy network security across your Amazon VPCs with just a few clicks](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-aws-network-firewall/)
 - [Amazon EC2 Fleet now supports deleting instant type fleets](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-fleet-now-supports-deleting-instant-type-fleets/)
 - [Amazon Connect now supports Amazon Lex chatbots for French, Spanish, Italian and Canadian French](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-now-supports-amazon-lex-chatbots-for-french-spanish-italian-and-canadian-french/)
 - [Amazon Honeycode supports single sign-on with popular identity providers](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-honeycode-supports-single-sign-on-with-popular-identity-providers/)
-- [AWS IoT Greengrass is now available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-greengrass-available-aws-govcloud-us-east-region/)
-- [Amazon Chime SDK now supports enhanced audio and video features including Amazon Voice Focus](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-chime-sdk-supports-enhanced-audio-video-features-including-amazon-voice-focus/)
-- [Introducing Real-Time Live Sports Updates Using AWS AppSync](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-real-time-live-sports-updates-using-aws-appsync/)
-- [AWS ParallelCluster 2.10](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-parallelcluster-now-supports-NVIDIA-GPUDirect-RDMA/)
-- [Amazon RDS Performance Insights Supports SQL-level Metrics on Amazon RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-sql-level-metrics-amazon-rds-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE EnginFrame releases version 2020.0 with refreshed UI and support for DCV session manager](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-enginframe-releases-version-2020-0-refreshed-ui-support-for-dcv-session-manager/)
+- [Amazon Kinesis Data Analytics now supports the Apache Flink Dashboard](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-the-apache-flink-dashboard/)
+- [Amazon Kinesis Data Analytics now supports Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-apache-flink/)
 - [AWS Announcing Windows Server version 20H2 AMIs for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announcing-windows-server-version-20h2-amis-for-amazon-ec2/)
 - [Amazon QuickSight launches persistence and cross dataset filters](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-launches-cross-dataset-filters-persistence-more/)
 - [Announcing context management on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-context-management-on-amazon-lex/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 Inf1 instances based on AWS Inferentia now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-inf1-instances-based-on-aws-inferentia-available-6-additional-regions/)
 - [AWS Managed Microsoft AD adds automated multi-region replication](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-microsoft-ad-adds-automated-multi-region-replication/)
 - [Amazon Cognito is now available in the Europe (Stockholm) and Europe (Paris) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cognito-available-stockholm-paris/)
-- [Amazon EC2 M6g, C6g and R6g instances powered by AWS Graviton2 processors are now available in Europe(London) and Canada(Central) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-m6g--c6g-and-r6g-instances-powered-by-aws-graviton2-processors/)
-- [Amazon Athena is now available in the AWS Africa (Cape Town) region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-is-now-available-in-the-aws-africa--cape-town--region/)
-- [AWS Backup and AWS Organizations bring cross-account backup feature](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-backup-enables-aws-organizations-bring-cross-account-backup-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

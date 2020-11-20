@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Announcing Windows Server version 20H2 AMIs for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announcing-windows-server-version-20h2-amis-for-amazon-ec2/)
 - [Amazon QuickSight launches persistence and cross dataset filters](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-quicksight-launches-cross-dataset-filters-persistence-more/)
 - [Announcing context management on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-context-management-on-amazon-lex/)
 - [Control the evolution of data streams using the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2020/11/control-evolution-data-streams-using-aws-glue-schema-registry/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M6g, C6g and R6g instances powered by AWS Graviton2 processors are now available in Europe(London) and Canada(Central) regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-m6g--c6g-and-r6g-instances-powered-by-aws-graviton2-processors/)
 - [Amazon Athena is now available in the AWS Africa (Cape Town) region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-athena-is-now-available-in-the-aws-africa--cape-town--region/)
 - [AWS Backup and AWS Organizations bring cross-account backup feature](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-backup-enables-aws-organizations-bring-cross-account-backup-feature/)
-- [AWS Identity and Access Management introduces new policy defaults for IAM user passwords](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-identity-and-access-management-introduces-new-policy-defaults-for-iam-user-passwords/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkDocs now supports Dark Mode on Android](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-now-supports-dark-mode-on-android/)
+- [Amazon EventBridge announces improved resource policies for event buses](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-announces-improved-resource-policies-for-event-buses/)
 - [NICE EnginFrame releases version 2020.0 with refreshed UI and support for DCV session manager](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-enginframe-releases-version-2020-0-refreshed-ui-support-for-dcv-session-manager/)
 - [Amazon Kinesis Data Analytics now supports the Apache Flink Dashboard](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-the-apache-flink-dashboard/)
 - [Amazon Kinesis Data Analytics now supports Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-apache-flink/)
@@ -66,8 +68,6 @@
 - [Announcing context management on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-context-management-on-amazon-lex/)
 - [Control the evolution of data streams using the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2020/11/control-evolution-data-streams-using-aws-glue-schema-registry/)
 - [Amazon EC2 Inf1 instances based on AWS Inferentia now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-inf1-instances-based-on-aws-inferentia-available-6-additional-regions/)
-- [AWS Managed Microsoft AD adds automated multi-region replication](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-managed-microsoft-ad-adds-automated-multi-region-replication/)
-- [Amazon Cognito is now available in the Europe (Stockholm) and Europe (Paris) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cognito-available-stockholm-paris/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

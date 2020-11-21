@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Single Sign-On adds Web Authentication (WebAuthn) support for user authentication with security keys and built-in biometric authenticators](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-adds-web-authentication-webauthn-support-for-user-authentication-with-security-keys-and-built-in-biometric-authenticators/)
 - [Amazon CloudWatch Application Insights adds Java Application Monitoring](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-application-insights-adds-java-application-monitoring/)
 - [Amazon Connect adds additional call attributes to improve fraud detection and routing](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-adds-additional-call-attributes-to-improve-fraud-/)
 - [Amazon CodeGuru Reviewer announces tag support to better organize resources](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-tag-support/)
@@ -67,7 +68,6 @@
 - [Amazon WorkDocs now supports Dark Mode on Android](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-now-supports-dark-mode-on-android/)
 - [Amazon EventBridge announces improved resource policies for event buses](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-announces-improved-resource-policies-for-event-buses/)
 - [NICE EnginFrame releases version 2020.0 with refreshed UI and support for DCV session manager](https://aws.amazon.com/about-aws/whats-new/2020/11/nice-enginframe-releases-version-2020-0-refreshed-ui-support-for-dcv-session-manager/)
-- [Amazon Kinesis Data Analytics now supports the Apache Flink Dashboard](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-kinesis-data-analytics-now-supports-the-apache-flink-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

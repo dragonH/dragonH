@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports Amazon Virtual Private Cloud (Amazon VPC) endpoint policies](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-supports-vpc-endpoint-policies/)
 - [Amazon MSK now offers consumer lag metrics and select topic-level metrics for free](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-offers-consumer-lag-metrics-select-topic-level-metrics-free/)
 - [AWS Client VPN adds support in additional Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-adds-support-in-additional-regions/)
 - [AWS Single Sign-On adds Web Authentication (WebAuthn) support for user authentication with security keys and built-in biometric authenticators](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-adds-web-authentication-webauthn-support-for-user-authentication-with-security-keys-and-built-in-biometric-authenticators/)
@@ -67,7 +68,6 @@
 - [Amazon DocumentDB (with MongoDB compatibility) is now available in the South America (Sao Paulo) region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-available-in-south-america-sao-paulo-region/)
 - [AWS Cloud Map now supports FIPS 140-2 compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloud-map-supports-fips-140-2-compliant-endpoints/)
 - [AWS IoT SiteWise now allows ingestion of data that is up to 7 days old](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-allows-ingestion-of-data-up-to-7-days-in-past/)
-- [Amazon WorkDocs now supports Dark Mode on Android](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-workdocs-now-supports-dark-mode-on-android/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now you can use Amazon Kinesis Data Streams to capture item-level changes in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-use-amazon-kinesis-data-streams-to-capture-item-level-changes-in-your-amazon-dynamodb-table/)
+- [You now can use a SQL-compatible query language to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-use-a-sql-compatible-query-language-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
+- [AWS Pricing Calculator now supports Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-pricing-calculator-now-supports-amazon-dynamodb/)
+- [Amazon SageMaker Studio is now expanded to AWS regions worldwide](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-sagemaker-studio-is-expanded-to-aws-regions-worldwide/)
+- [Amazon CloudWatch Synthetics launches enhancements for API monitoring](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-launches-enhancements-for-api-monitoring/)
+- [Amazon AppFlow expands integrations with ServiceNow](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-appflow-expands-integration-with-servicenow/)
+- [AWS Security Hub integrates with AWS Organizations for simplified security posture management](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-security-hub-integrates-with-aws-organizations-for-simplified-security-posture-management/)
 - [AWS Copilot CLI is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-copilot-cli-now-generally-available/)
 - [You now can restore Amazon DynamoDB tables even faster when recovering from data loss or corruption](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-restore-amazon-dynamodb-tables-even-faster-when-recovering-from-data-loss-or-corruption/)
 - [AWS Systems Manager now supports Amazon Virtual Private Cloud (Amazon VPC) endpoint policies](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-supports-vpc-endpoint-policies/)
-- [Amazon MSK now offers consumer lag metrics and select topic-level metrics for free](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-offers-consumer-lag-metrics-select-topic-level-metrics-free/)
-- [AWS Client VPN adds support in additional Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-adds-support-in-additional-regions/)
-- [AWS Single Sign-On adds Web Authentication (WebAuthn) support for user authentication with security keys and built-in biometric authenticators](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-adds-web-authentication-webauthn-support-for-user-authentication-with-security-keys-and-built-in-biometric-authenticators/)
-- [Amazon CloudWatch Application Insights adds Java Application Monitoring](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-application-insights-adds-java-application-monitoring/)
-- [Amazon Connect adds additional call attributes to improve fraud detection and routing](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-adds-additional-call-attributes-to-improve-fraud-/)
-- [Amazon CodeGuru Reviewer announces tag support to better organize resources](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-tag-support/)
-- [Amazon DocumentDB (with MongoDB compatibility) is now available in the South America (Sao Paulo) region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-available-in-south-america-sao-paulo-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

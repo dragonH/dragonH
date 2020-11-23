@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Copilot CLI is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-copilot-cli-now-generally-available/)
+- [You now can restore Amazon DynamoDB tables even faster when recovering from data loss or corruption](https://aws.amazon.com/about-aws/whats-new/2020/11/you-now-can-restore-amazon-dynamodb-tables-even-faster-when-recovering-from-data-loss-or-corruption/)
 - [AWS Systems Manager now supports Amazon Virtual Private Cloud (Amazon VPC) endpoint policies](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-supports-vpc-endpoint-policies/)
 - [Amazon MSK now offers consumer lag metrics and select topic-level metrics for free](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-msk-offers-consumer-lag-metrics-select-topic-level-metrics-free/)
 - [AWS Client VPN adds support in additional Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-client-vpn-adds-support-in-additional-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Connect adds additional call attributes to improve fraud detection and routing](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-adds-additional-call-attributes-to-improve-fraud-/)
 - [Amazon CodeGuru Reviewer announces tag support to better organize resources](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-tag-support/)
 - [Amazon DocumentDB (with MongoDB compatibility) is now available in the South America (Sao Paulo) region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-available-in-south-america-sao-paulo-region/)
-- [AWS Cloud Map now supports FIPS 140-2 compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloud-map-supports-fips-140-2-compliant-endpoints/)
-- [AWS IoT SiteWise now allows ingestion of data that is up to 7 days old](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-sitewise-now-allows-ingestion-of-data-up-to-7-days-in-past/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

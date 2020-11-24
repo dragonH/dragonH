@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate announces the General Availability of Active Custom Translation - ACT](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-announces-the-general-availability-of-active-custom-translation-act/)
+- [Amazon EC2 Auto Scaling now supports attaching multiple network interfaces at launch](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/)
+- [Amazon DocumentDB (with MongoDB compatibility) is now available in AWS China (Ningxia) Region, Operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-is-now-available-in-the-aws-china-region/)
+- [AWS Single Sign-On enables administrators to require users to set up MFA devices during sign-in](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-enforced-mfa-device-enrollment-during-sign-in/)
 - [AWS Snowball is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-now-available-in-aws-africa-cape-town-region/)
 - [AWS CodeArtifact now supports NuGet](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-supports-nuget/)
 - [AWS License Manager allows enforcing licensing rules with shared AMIs across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-license-manager-allows-enforcing-licensing-rules-shared-amis-across-multiple-aws-accounts/)
 - [Amazon CloudWatch Container Insights now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-container-insights-now-available-in-aws-govcloud-us-regions/)
 - [Third-party software built for Amazon S3 is now available in the Amazon S3 Management Console, powered by AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2020/11/third-party-software-for-amazon-s3-available-in-amazon-s3-management-console-powered-by-aws-marketplace/)
 - [Amazon EC2 Fleet and Spot Fleet now integrate with Amazon EventBridge for easier operations and monitoring](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-fleet-and-spot-fleet-integrate-with-amazon-eventbridge-easier-operations-monitoring/)
-- [Announcing Code Signing, a trust and integrity control for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-code-signing-a-trust-and-integrity-control-for-aws-lambda/)
-- [Amazon Polly NTTS voices now available in AWS GovCloud (US-West)](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-polly-ntts-voices-now-available-in-aws-govcloud-us-west/)
-- [AWS Database Migration Service now supports Aurora PostgreSQL Serverless as a target](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-database-migration-service-now-supports-aurora-postgresql-serverless/)
-- [Now you can use Amazon Kinesis Data Streams to capture item-level changes in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2020/11/now-you-can-use-amazon-kinesis-data-streams-to-capture-item-level-changes-in-your-amazon-dynamodb-table/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

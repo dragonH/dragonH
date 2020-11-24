@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for SQL Server now supports the Business Intelligence Suite on SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-for-sql-server-now-supports-the-business-intelligence/)
-- [AWS Lambda now supports Advanced Vector Extensions 2 (AVX2)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-advance-vector-extensions-2/)
-- [Amazon Simple Email Service is now available in the Middle East (Bahrain) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-simple-email-service-available-in-middle-east-bahrain-region/)
-- [AWS Marketplace launches self-service tool for sellers to update their AMI products](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-marketplace-launches-self-service-tools/)
-- [Amazon CloudWatch Application Insights adds Automatic Application Discovery](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-application-insights-adds-automatic-applications/)
-- [Amazon Translate announces the General Availability of Active Custom Translation - ACT](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-announces-the-general-availability-of-active-custom-translation-act/)
-- [Amazon EC2 Auto Scaling now supports attaching multiple network interfaces at launch](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/)
-- [Amazon DocumentDB (with MongoDB compatibility) is now available in AWS China (Ningxia) Region, Operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-is-now-available-in-the-aws-china-region/)
-- [AWS Single Sign-On enables administrators to require users to set up MFA devices during sign-in](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-enforced-mfa-device-enrollment-during-sign-in/)
-- [AWS Snowball is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-now-available-in-aws-africa-cape-town-region/)
+- [Amazon RDS for Oracle now supports October 2020 Oracle Patch Set Updates (PSU) and Release Updates (RU), and allows setting database system events](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-for-oracle-now-supports-october-2020-oracle-patch-set-updates/)
+- [Amazon Elasticsearch Service announces support for Elasticsearch version 7.9](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-9/)
+- [Introducing Amazon Managed Workflows for Apache Airflow (MWAA)](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-amazon-managed-workflows-for-apache-airflow-mwaa/)
+- [AWS Storage Gateway now supports IBM Spectrum Protect 8.1.10 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-now-supports-ibm-spectrum-protect-8-1-10-on-tape-gateway/)
+- [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interface/)
+- [Amazon FSx for Lustre now enables you to grow storage on your file systems with the click of a button](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fsx-for-lustre-now-enables-you-to-grow-storage-on-your-file-system/)
+- [AWS Lambda now supports batch windows of up to 5 minutes for functions with Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-now-supports-batch-windows-of-up-to-5-minutes-for-functions/)
+- [AWS Storage Gateway now supports IBM Spectrum Protect 8.1.10 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-now-supports-ibm-spectrum-protect-8-1-10-on-tape-gateway-/)
+- [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interf/)
+- [AWS Glue now supports workload partitioning to further improve the reliability of Spark applications](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-glue-now-supports-workload-partitioning-to-further-improve-the-reliability-of-spark-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

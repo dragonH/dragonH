@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports the Business Intelligence Suite on SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-for-sql-server-now-supports-the-business-intelligence/)
+- [AWS Lambda now supports Advanced Vector Extensions 2 (AVX2)](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-supports-advance-vector-extensions-2/)
+- [Amazon Simple Email Service is now available in the Middle East (Bahrain) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-simple-email-service-available-in-middle-east-bahrain-region/)
+- [AWS Marketplace launches self-service tool for sellers to update their AMI products](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-marketplace-launches-self-service-tools/)
 - [Amazon CloudWatch Application Insights adds Automatic Application Discovery](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-application-insights-adds-automatic-applications/)
 - [Amazon Translate announces the General Availability of Active Custom Translation - ACT](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-announces-the-general-availability-of-active-custom-translation-act/)
 - [Amazon EC2 Auto Scaling now supports attaching multiple network interfaces at launch](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ec2-auto-scaling-supports-attaching-multiple-network-interfaces-at-launch/)
 - [Amazon DocumentDB (with MongoDB compatibility) is now available in AWS China (Ningxia) Region, Operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-documentdb-with-mongodb-compatibility-is-now-available-in-the-aws-china-region/)
 - [AWS Single Sign-On enables administrators to require users to set up MFA devices during sign-in](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-enforced-mfa-device-enrollment-during-sign-in/)
 - [AWS Snowball is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-snowball-now-available-in-aws-africa-cape-town-region/)
-- [AWS CodeArtifact now supports NuGet](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-codeartifact-supports-nuget/)
-- [AWS License Manager allows enforcing licensing rules with shared AMIs across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-license-manager-allows-enforcing-licensing-rules-shared-amis-across-multiple-aws-accounts/)
-- [Amazon CloudWatch Container Insights now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-container-insights-now-available-in-aws-govcloud-us-regions/)
-- [Third-party software built for Amazon S3 is now available in the Amazon S3 Management Console, powered by AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2020/11/third-party-software-for-amazon-s3-available-in-amazon-s3-management-console-powered-by-aws-marketplace/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

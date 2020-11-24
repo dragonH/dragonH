@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Toolkit for JetBrains IDEs Announces new features for SQS and CloudWatch Logs Insights](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-toolkit-for-jetbrains-ides-announces-new-features-for-sqs-and-cloudwatch/)
+- [AWS Step Functions now supports Synchronous Express Workflows](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-synchronous-express-workflows-/)
+- [Amazon EventBridge adds Server-Side Encryption (SSE) and increases default quotas](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-adds-server-side-encryption-sse-and-increases-default-quotas/)
+- [Amazon Cognito is now available in the South America (Sao Paulo) and US West (N. California) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cognito-is-now-available-in-the-south-america-and-us-west-regions/)
+- [Introducing Location-Based Notifications Using Amazon Pinpoint](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-location-based-notifications-using-amazon-pinpoint/)
+- [Amazon Transcribe now supports Brazilian Portuguese, Japanese and Korean and 3 corresponding AWS regions for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-now-supports-brazilian-portuguese--japanese-and-korean/)
 - [Amazon CloudWatch Synthetics now supports canary scripts in Python with Selenium framework](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-canary-scripts-python-with-selenium-framework/)
 - [AWS announces the launch of Amazon Comprehend Events](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announces-launch-of-amazon-comprehend-events/)
 - [Amazon ECS Cluster Auto Scaling now offers more responsive scaling](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-offers-more-responsive-scaling/)
 - [Amazon Elasticsearch Service now supports anomaly detection for high cardinality datasets](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-supports-anomaly-detection-high-cardinality-datasets/)
-- [Amazon Elasticsearch Service introduces Piped Processing Language (PPL)](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-introduces-piped-processing-language-ppl/)
-- [Amazon Braket now supports manual qubit allocation](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-braket-supports-manual-qubit-allocation/)
-- [AWS Secrets Manager now supports 5000 requests per second for the GetSecretValue API operation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-secrets-manager-supports-5000-requests-per-second-for-getsecretvalue-api-operation/)
-- [Amazon Elasticsearch Service announces support for Remote Reindex](https://aws.amazon.com/about-aws/whats-new/2020/11/elasticsearch-service-announces-support-for-remote-reindex/)
-- [Amazon RDS for Oracle now supports October 2020 Oracle Patch Set Updates (PSU) and Release Updates (RU), and allows setting database system events](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-for-oracle-now-supports-october-2020-oracle-patch-set-updates/)
-- [Amazon Elasticsearch Service announces support for Elasticsearch version 7.9](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-9/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

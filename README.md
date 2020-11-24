@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics now supports canary scripts in Python with Selenium framework](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cloudwatch-synthetics-supports-canary-scripts-python-with-selenium-framework/)
+- [AWS announces the launch of Amazon Comprehend Events](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-announces-launch-of-amazon-comprehend-events/)
+- [Amazon ECS Cluster Auto Scaling now offers more responsive scaling](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-offers-more-responsive-scaling/)
+- [Amazon Elasticsearch Service now supports anomaly detection for high cardinality datasets](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-supports-anomaly-detection-high-cardinality-datasets/)
+- [Amazon Elasticsearch Service introduces Piped Processing Language (PPL)](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-introduces-piped-processing-language-ppl/)
+- [Amazon Braket now supports manual qubit allocation](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-braket-supports-manual-qubit-allocation/)
+- [AWS Secrets Manager now supports 5000 requests per second for the GetSecretValue API operation](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-secrets-manager-supports-5000-requests-per-second-for-getsecretvalue-api-operation/)
+- [Amazon Elasticsearch Service announces support for Remote Reindex](https://aws.amazon.com/about-aws/whats-new/2020/11/elasticsearch-service-announces-support-for-remote-reindex/)
 - [Amazon RDS for Oracle now supports October 2020 Oracle Patch Set Updates (PSU) and Release Updates (RU), and allows setting database system events](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-for-oracle-now-supports-october-2020-oracle-patch-set-updates/)
 - [Amazon Elasticsearch Service announces support for Elasticsearch version 7.9](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-9/)
-- [Introducing Amazon Managed Workflows for Apache Airflow (MWAA)](https://aws.amazon.com/about-aws/whats-new/2020/11/introducing-amazon-managed-workflows-for-apache-airflow-mwaa/)
-- [AWS Storage Gateway now supports IBM Spectrum Protect 8.1.10 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-now-supports-ibm-spectrum-protect-8-1-10-on-tape-gateway/)
-- [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interface/)
-- [Amazon FSx for Lustre now enables you to grow storage on your file systems with the click of a button](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-fsx-for-lustre-now-enables-you-to-grow-storage-on-your-file-system/)
-- [AWS Lambda now supports batch windows of up to 5 minutes for functions with Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-lambda-now-supports-batch-windows-of-up-to-5-minutes-for-functions/)
-- [AWS Storage Gateway now supports IBM Spectrum Protect 8.1.10 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-storage-gateway-now-supports-ibm-spectrum-protect-8-1-10-on-tape-gateway-/)
-- [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interf/)
-- [AWS Glue now supports workload partitioning to further improve the reliability of Spark applications](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-glue-now-supports-workload-partitioning-to-further-improve-the-reliability-of-spark-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

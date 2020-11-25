@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe announces support for Ogg opus and FLAC encoded audio for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-supports-ogg-opus-and-flag-encoding-audio-for-streaming-transcription/)
 - [Managed Backup Retention for AWS CloudHSM](https://aws.amazon.com/about-aws/whats-new/2020/11/managed-backup-retention-for-aws-cloudhsm/)
 - [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interface/)
 - [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)
@@ -67,7 +68,6 @@
 - [Amazon Lex adds language support for German and Latin American Spanish](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-lex-adds-language-support-for-german-and-latin-american/)
 - [Announcing Modules for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-modules-for-aws-cloudformation/)
 - [Amazon Translate now adds support for sixteen more languages and variants](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-adds-support-for-sixteen-more-languages-and-variants/)
-- [Amazon Transcribe now supports Brazilian Portuguese, Japanese and Korean and 3 corresponding AWS regions for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-now-supports-brazilian-portuguese--japanese-and-korean/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

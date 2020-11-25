@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)
+- [Amazon Transcribe Medical adds streaming transcription support for medical specialties: cardiology, oncology, neurology, radiology, and urology](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-medical-streaming-transcription-support-medical-specialties/)
+- [AWS Single Sign-On enables attribute-based access control for workforce users to simplify permissions in AWS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-attribute-based-access-control-simplify-permissions/)
+- [Amazon Connect Chat now supports interactive messages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-chat-supports-interactive-messages/)
+- [Amazon Lex adds language support for German and Latin American Spanish](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-lex-adds-language-support-for-german-and-latin-american/)
+- [Announcing Modules for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-modules-for-aws-cloudformation/)
+- [Amazon Translate now adds support for sixteen more languages and variants](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-adds-support-for-sixteen-more-languages-and-variants/)
 - [Amazon RDS Performance Insights supports an additional dimension to segment performance data on Amazon RDS for MySQL, Amazon Aurora with MySQL compatibility, and Amazon RDS for MariaDB](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-dimensions-segment-performance-data-rds-mysql/)
 - [Amazon RDS Performance Insights supports additional dimensions to segment performance data on Amazon RDS for PostgreSQL and Amazon Aurora with PostgreSQL compatibility](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-additional-dimensions-segment-performance-data/)
 - [Amazon Transcribe now supports Brazilian Portuguese, Japanese and Korean and 3 corresponding AWS regions for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-now-supports-brazilian-portuguese--japanese-and-korean/)
-- [Amazon ECS adds support for P4d instance types](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-adds-support-p4d-instance-types/)
-- [AWS App2Container now supports authenticated Windows applications deployment to EKS and Custom AWS Profiles](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-app2container-now-supports-authenticated-windows-application/)
-- [Encrypt your data in AWS IoT SiteWise with your own encryption key](https://aws.amazon.com/about-aws/whats-new/2020/11/encrypt-your-data-in-aws-iot-sitewise-with-your-own-encryption-key/)
-- [AWS Toolkit for JetBrains IDEs Announces new features for SQS and CloudWatch Logs Insights](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-toolkit-for-jetbrains-ides-announces-new-features-for-sqs-and-cloudwatch/)
-- [AWS Step Functions now supports Synchronous Express Workflows](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-step-functions-now-supports-synchronous-express-workflows-/)
-- [Amazon EventBridge adds Server-Side Encryption (SSE) and increases default quotas](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-eventbridge-adds-server-side-encryption-sse-and-increases-default-quotas/)
-- [Amazon Cognito is now available in the South America (Sao Paulo) and US West (N. California) Regions](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-cognito-is-now-available-in-the-south-america-and-us-west-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

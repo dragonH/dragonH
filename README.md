@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interface/)
 - [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)
 - [Amazon Transcribe Medical adds streaming transcription support for medical specialties: cardiology, oncology, neurology, radiology, and urology](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-medical-streaming-transcription-support-medical-specialties/)
 - [AWS Single Sign-On enables attribute-based access control for workforce users to simplify permissions in AWS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-attribute-based-access-control-simplify-permissions/)
@@ -67,7 +68,6 @@
 - [Amazon Translate now adds support for sixteen more languages and variants](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-translate-adds-support-for-sixteen-more-languages-and-variants/)
 - [Amazon RDS Performance Insights supports an additional dimension to segment performance data on Amazon RDS for MySQL, Amazon Aurora with MySQL compatibility, and Amazon RDS for MariaDB](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-dimensions-segment-performance-data-rds-mysql/)
 - [Amazon RDS Performance Insights supports additional dimensions to segment performance data on Amazon RDS for PostgreSQL and Amazon Aurora with PostgreSQL compatibility](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-rds-performance-insights-supports-additional-dimensions-segment-performance-data/)
-- [Amazon Transcribe now supports Brazilian Portuguese, Japanese and Korean and 3 corresponding AWS regions for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-now-supports-brazilian-portuguese--japanese-and-korean/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

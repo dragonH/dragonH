@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe announces support for Ogg opus and FLAC encoded audio for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-supports-ogg-opus-and-flac-encoding-audio-for-streaming-transcription/)
 - [Amazon Neptune releases graph notebook as an open-source project](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-releases-graph-notebook-as-an-open-source-project/)
-- [Amazon Transcribe announces support for Ogg opus and FLAC encoded audio for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-supports-ogg-opus-and-flag-encoding-audio-for-streaming-transcription/)
 - [Managed Backup Retention for AWS CloudHSM](https://aws.amazon.com/about-aws/whats-new/2020/11/managed-backup-retention-for-aws-cloudhsm/)
 - [Amazon Elasticsearch Service revamps Kibana security user interface while integrating with other features](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-elasticsearch-service-revamps-kibana-security-user-interface/)
 - [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)

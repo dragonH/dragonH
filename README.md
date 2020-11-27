@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru Reviewer announces CodeQuality Detector to help manage technical debt and codebase maintainability](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-codequality-detector/)
+- [The Amazon Chime SDK now supports messaging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-chime-sdk-supports-messaging/)
+- [AWS Systems Manager Change Calendar integrates with Amazon EventBridge to enable automated actions based on calendar state changes](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-change-calendar-integrates-with-amazon-eventbright/)
 - [AWS Ground Station launches new antenna location in Hawaii, USA](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-ground-station-launches-new-antenna-location-in-hawaii-usa/)
 - [Amazon ECS Cluster Auto Scaling now supports specifying a custom instance warm-up time](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-supports-specifying-a-custom-instance-warm-up-time/)
 - [Amazon ECS Capacity Providers Now Support Update Functionality](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-capacity-providers-now-support-update-functionality/)
@@ -65,9 +68,6 @@
 - [AWS IoT Analytics now supports notifications for and reprocessing of late data](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-analytics-now-supports-notifications-for-and-reprocessing-of-late-data/)
 - [Porting Assistant for .NET adds support for .NET 5](https://aws.amazon.com/about-aws/whats-new/2020/11/porting-assistant-net-adds-support-net-5/)
 - [AWS Batch now has integrated Amazon Linux 2 support](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-batch-now-has-integrated-amazon-linux-2-support/)
-- [Amazon Forecast now supports accuracy measurements for individual items](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-forecast-supports-accuracy-measurements-individual-items/)
-- [PostgreSQL 13 now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2020/11/postgresql-13-now-available-in-amazon-rds-database-preview-environment/)
-- [New AWS Solutions Consulting Offer - Ubertas Consulting Foundations for AWS Well-Architected](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-ubertas-consulting-foundations-for-aws-well-architected/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

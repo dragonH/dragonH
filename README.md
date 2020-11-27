@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [PostgreSQL 13 now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2020/11/postgresql-13-now-available-in-amazon-rds-database-preview-environment/)
+- [New AWS Solutions Consulting Offer - Ubertas Consulting Foundations for AWS Well-Architected](https://aws.amazon.com/about-aws/whats-new/2020/11/new-aws-solutions-consulting-offer-ubertas-consulting-foundations-for-aws-well-architected/)
+- [New AWS Solutions Consulting Offer - Centricity Secure Workplace for Government](https://aws.amazon.com/about-aws/whats-new/2020/11/New-AWS-Solutions-Consulting-Offer-Centricity-Secure-Workplace-for-Government/)
 - [Amazon Transcribe announces support for Ogg opus and FLAC encoded audio for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-supports-ogg-opus-and-flac-encoding-audio-for-streaming-transcription/)
 - [Amazon Neptune releases graph notebook as an open-source project](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-neptune-releases-graph-notebook-as-an-open-source-project/)
 - [Managed Backup Retention for AWS CloudHSM](https://aws.amazon.com/about-aws/whats-new/2020/11/managed-backup-retention-for-aws-cloudhsm/)
@@ -65,9 +68,6 @@
 - [AWS Config now supports organization-wide resource data aggregation in a delegated administrator account](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-config-supports-organization-wide-resource-data-aggregation-delegated-administrator-account/)
 - [Amazon Transcribe Medical adds streaming transcription support for medical specialties: cardiology, oncology, neurology, radiology, and urology](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-transcribe-medical-streaming-transcription-support-medical-specialties/)
 - [AWS Single Sign-On enables attribute-based access control for workforce users to simplify permissions in AWS](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-single-sign-on-enables-attribute-based-access-control-simplify-permissions/)
-- [Amazon Connect Chat now supports interactive messages](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-connect-chat-supports-interactive-messages/)
-- [Amazon Lex adds language support for German and Latin American Spanish](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-lex-adds-language-support-for-german-and-latin-american/)
-- [Announcing Modules for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-modules-for-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CodeGuru Reviewer announces CodeQuality Detector to help manage technical debt and codebase maintainability](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-codequality-detector/)
 - [The Amazon Chime SDK now supports messaging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-chime-sdk-supports-messaging/)
+- [Amazon CodeGuru Reviewer announces CodeQuality Detector to help manage technical debt and codebase maintainability](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-codequality-detector/)
 - [AWS Systems Manager Change Calendar integrates with Amazon EventBridge to enable automated actions based on calendar state changes](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-change-calendar-integrates-with-amazon-eventbright/)
 - [AWS Ground Station launches new antenna location in Hawaii, USA](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-ground-station-launches-new-antenna-location-in-hawaii-usa/)
 - [Amazon ECS Cluster Auto Scaling now supports specifying a custom instance warm-up time](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-ecs-cluster-auto-scaling-now-supports-specifying-a-custom-instance-warm-up-time/)

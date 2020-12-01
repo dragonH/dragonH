@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-amazon-ec2-mac-instances-for-macos/)
 - [The Amazon Chime SDK now supports messaging](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-chime-sdk-supports-messaging/)
 - [Amazon CodeGuru Reviewer announces CodeQuality Detector to help manage technical debt and codebase maintainability](https://aws.amazon.com/about-aws/whats-new/2020/11/amazon-codeguru-reviewer-announces-codequality-detector/)
 - [AWS Systems Manager Change Calendar integrates with Amazon EventBridge to enable automated actions based on calendar state changes](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-systems-manager-change-calendar-integrates-with-amazon-eventbright/)
@@ -67,7 +68,6 @@
 - [AWS Transfer Family supports AWS WAF for identity provider integrations](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-transfer-family-supports-aws-waf-identity-provider-integrations/)
 - [AWS IoT Analytics now supports notifications for and reprocessing of late data](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-iot-analytics-now-supports-notifications-for-and-reprocessing-of-late-data/)
 - [Porting Assistant for .NET adds support for .NET 5](https://aws.amazon.com/about-aws/whats-new/2020/11/porting-assistant-net-adds-support-net-5/)
-- [AWS Batch now has integrated Amazon Linux 2 support](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-batch-now-has-integrated-amazon-linux-2-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

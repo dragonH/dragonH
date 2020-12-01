@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom provides contact center agents the information they need to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-wisdom-provides-contact-center-agents-information-solve-customer-issues-preview/)
+- [Amazon Connect Voice ID provides real-time caller authentication for more secure calls](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-voice-id-provides-real-time-caller-authentication-for-more-secure-calls/)
+- [AWS announces Amazon DevOps Guru in Preview, an ML-powered cloud operations service to improve application availability for AWS workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-devops-guru-in-preview-an-ml-powered-cloud-operations-service-to-improve-application-availability-for-aws-workloads/)
+- [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores for Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-supports-10gb-memory-6-vcpu-cores-lambda-functions/)
 - [AWS announces AQUA for Amazon Redshift (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-aqua-for-amazon-redshift-preview/)
 - [AWS Lambda changes duration billing granularity from 100ms down to 1ms](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-changes-duration-billing-granularity-from-100ms-to-1ms/)
-- [Amazon Connect Wisdom provides contact center agents the information they need to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-wisdom-provides-contact-center-agents-information-solve-customer-issues-preview/)
 - [Amazon CodeGuru Reviewer announces Security Detectors to help improve code security](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-codeguru-reviewer-announces-security-detectors-improve-code-security/)
-- [AWS announces Amazon DevOps Guru in Preview, an ML-powered cloud operations service to improve application availability for AWS workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-devops-guru-in-preview-an-ml-powered-cloud-operations-service-to-improve-application-availability-for-aws-workloads/)
 - [Amazon Connect Customer Profiles for a unified view of your customers to provide more personalized service](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-customer-profiles-for-unified-view-of-your-customers/)
 - [Introducing Amazon QuickSight Q: ask questions about your data and get answers in seconds](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-quicksight-q/)
-- [Announcing Preview of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-preview-of-aws-local-zones-in-boston-houston-and-miami/)
-- [Introducing Amazon Monitron - an end-to-end system to detect abnormal equipment behavior](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-monitron/)
-- [AWS announces Amazon Lookout for Vision to automate quality inspection](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-lookout-for-vision-to-automate-quality-inspection/)
+- [Introducing Amazon Monitron, an end-to-end system to detect abnormal equipment behavior](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-monitron/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

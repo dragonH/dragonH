@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Elasticsearch Service support for AWS Glue Elastic Views](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-elasticsearch-service-support-aws-glue-elastic-views/)
 - [Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-for-multiple-destinations-in-the-same-or-different-aws-regions/)
 - [Amazon WorkSpaces Streaming Protocol now Generally Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workspaces-streaming-protocol-generally-available/)
 - [Integrate Amazon Honeycode with popular SaaS applications, AWS services, and more](https://aws.amazon.com/about-aws/whats-new/2020/12/integrate-amazon-honeycode-with-popular-saas-applications-aws-services-and-more/)
@@ -67,7 +68,6 @@
 - [Amazon AppFlow now provides Amazon Honeycode connectivity to several cloud applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-provides-amazon-honeycode-connectivity-cloud-applications/)
 - [Amazon S3 Replication adds support for two-way replication](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-two-way-replication/)
 - [AWS Amplify announces new Admin UI](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-amplify-announces-new-admin-ui/)
-- [Amazon S3 Bucket Keys reduce the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-bucket-keys-reduce-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

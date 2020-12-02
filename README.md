@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight launches new session capacity pricing options, embedding without user management and a developer portal for embedded analytics](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-launches-session-capacity-pricing-options-embedding-without-user-management-embedded-developer-portal/)
-- [Amazon Connect Wisdom provides contact center agents the information they need to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-wisdom-provides-contact-center-agents-information-solve-customer-issues-preview/)
-- [Introducing AWS Panorama for computer vision at the edge](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-panorama-for-computer-vision-at-the-edge/)
-- [Amazon Connect Voice ID provides real-time caller authentication for more secure calls](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-voice-id-provides-real-time-caller-authentication-for-more-secure-calls/)
-- [AWS announces Amazon DevOps Guru in Preview, an ML-powered cloud operations service to improve application availability for AWS workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-devops-guru-in-preview-an-ml-powered-cloud-operations-service-to-improve-application-availability-for-aws-workloads/)
-- [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores for Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-supports-10gb-memory-6-vcpu-cores-lambda-functions/)
-- [AWS announces AQUA for Amazon Redshift (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-aqua-for-amazon-redshift-preview/)
-- [AWS Lambda changes duration billing granularity from 100ms down to 1ms](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-changes-duration-billing-granularity-from-100ms-to-1ms/)
-- [Amazon CodeGuru Reviewer announces Security Detectors to help improve code security](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-codeguru-reviewer-announces-security-detectors-improve-code-security/)
-- [Amazon Connect Customer Profiles for a unified view of your customers to provide more personalized service](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-customer-profiles-for-unified-view-of-your-customers/)
+- [Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-for-multiple-destinations-in-the-same-or-different-aws-regions/)
+- [Amazon WorkSpaces Streaming Protocol now Generally Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workspaces-streaming-protocol-generally-available/)
+- [Integrate Amazon Honeycode with popular SaaS applications, AWS services, and more](https://aws.amazon.com/about-aws/whats-new/2020/12/integrate-amazon-honeycode-with-popular-saas-applications-aws-services-and-more/)
+- [Amazon EKS adds built-in logging support for AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-adds-built-in-logging-support-for-aws-fargate/)
+- [Amazon AppFlow now provides Amazon Connect Customer Profiles connectivity to several cloud applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-now-provides-amazon-connect-customer-profiles-connectivity-to-several-cloud-applications/)
+- [What’s around the turn in 2021? AWS DeepRacer League announces new divisions, rewards, and community leagues](https://aws.amazon.com/about-aws/whats-new/2020/12/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/)
+- [Amazon AppFlow now provides Amazon Honeycode connectivity to several cloud applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-provides-amazon-honeycode-connectivity-cloud-applications/)
+- [Amazon S3 Replication adds support for two-way replication](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-two-way-replication/)
+- [AWS Amplify announces new Admin UI](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-amplify-announces-new-admin-ui/)
+- [Amazon S3 Bucket Keys reduce the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-bucket-keys-reduce-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

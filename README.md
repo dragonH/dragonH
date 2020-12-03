@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v1 with PostgreSQL compatibility now available in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-serverless-v1-with-postgresql-compatibility-now-available-in-eight-additional-regions/)
 - [Introducing the New AWS Travel and Hospitality Competency](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-new-aws-travel-and-hospitality-competency/)
 - [Introducing Amazon RDS Service Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-rds-service-delivery-partners/)
 - [Introducing AWS SaaS Factory Insights Hub](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-factory-insights-hub/)
@@ -67,7 +68,6 @@
 - [AWS ISV Accelerate, a co-sell program for AWS Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/isv-accelerate/)
 - [Customers can now use AWS Service Catalog AppRegistry to define and describe their AWS applications](https://aws.amazon.com/about-aws/whats-new/2020/12/customers-use-aws-service-catalog-appregistry-define-describe-aws-applications/)
 - [AWS Foundational Technical Review Lens now available in the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-foundational-technical-review-lens-available-aws-well-architected-tool/)
-- [AWS License Manager enhances automated discovery with tag-based search and detection of software uninstalls](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-license-manager-enhances-automated-discovery-with-tag-based-search-and-detection-of-software-uninstalls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

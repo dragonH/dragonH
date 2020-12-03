@@ -58,9 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing the New AWS Travel and Hospitality Competency](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-new-aws-travel-and-hospitality-competency/)
 - [Introducing Amazon RDS Service Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-rds-service-delivery-partners/)
 - [Introducing AWS SaaS Factory Insights Hub](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-factory-insights-hub/)
-- [Introducing the New AWS Travel and Hospitality Competency](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-new-aws-travel-and-hospitality-competency/)
 - [Announcing the APN Travel & Hospitality Navigate track](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-apn-travel-and-hospitality-navigate-track/)
 - [Announcing AWS Public Safely and Disaster Response Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-public-safely-and-disaster-response-technology-partners/)
 - [Introducing AWS SaaS Boost](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-boost/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon DevOps Guru in Preview, an ML-powered cloud operations service to improve application availability for AWS workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-devops-guru-in-preview-an-ml-powered-cloud-operations-service-to-improve-application-availability-for-aws-workloads/)
 - [Announcing Three New Digital Courses for AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-three-new-digital-courses-for-aws-snowcone/)
 - [AWS Managed Services (AMS) supports AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-managed-services-ams-supports-aws-outposts/)
 - [AWS quadruples per-volume maximum capacity and performance on io2 volumes (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quadruples-per-volume-maximum-capacity-and-performance-on-io2-volumes-in-preview/)
@@ -67,7 +68,6 @@
 - [Amazon WorkSpaces Streaming Protocol now Generally Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workspaces-streaming-protocol-generally-available/)
 - [Integrate Amazon Honeycode with popular SaaS applications, AWS services, and more](https://aws.amazon.com/about-aws/whats-new/2020/12/integrate-amazon-honeycode-with-popular-saas-applications-aws-services-and-more/)
 - [Amazon EKS adds built-in logging support for AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-adds-built-in-logging-support-for-aws-fargate/)
-- [Amazon AppFlow now provides Amazon Connect Customer Profiles connectivity to several cloud applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-now-provides-amazon-connect-customer-profiles-connectivity-to-several-cloud-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

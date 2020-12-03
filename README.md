@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon DevOps Guru in Preview, an ML-powered cloud operations service to improve application availability for AWS workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-devops-guru-in-preview-an-ml-powered-cloud-operations-service-to-improve-application-availability-for-aws-workloads/)
-- [Announcing Three New Digital Courses for AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2020/11/announcing-three-new-digital-courses-for-aws-snowcone/)
-- [AWS Managed Services (AMS) supports AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-managed-services-ams-supports-aws-outposts/)
-- [AWS quadruples per-volume maximum capacity and performance on io2 volumes (in preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quadruples-per-volume-maximum-capacity-and-performance-on-io2-volumes-in-preview/)
-- [Amazon EKS simplifies installation and management for Kubernetes cluster add-ons](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-simplifies-installation-and-management-for-kubernetes-cluster-add-ons/)
-- [Announcing Amazon Elasticsearch Service support for AWS Glue Elastic Views](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-elasticsearch-service-support-aws-glue-elastic-views/)
-- [Amazon S3 Replication adds support for multiple destinations in the same, or different AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-s3-replication-adds-support-for-multiple-destinations-in-the-same-or-different-aws-regions/)
-- [Amazon WorkSpaces Streaming Protocol now Generally Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workspaces-streaming-protocol-generally-available/)
-- [Integrate Amazon Honeycode with popular SaaS applications, AWS services, and more](https://aws.amazon.com/about-aws/whats-new/2020/12/integrate-amazon-honeycode-with-popular-saas-applications-aws-services-and-more/)
-- [Amazon EKS adds built-in logging support for AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-eks-adds-built-in-logging-support-for-aws-fargate/)
+- [Introducing Amazon RDS Service Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-rds-service-delivery-partners/)
+- [Introducing AWS SaaS Factory Insights Hub](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-factory-insights-hub/)
+- [Introducing the New AWS Travel and Hospitality Competency](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-new-aws-travel-and-hospitality-competency/)
+- [Announcing the APN Travel & Hospitality Navigate track](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-apn-travel-and-hospitality-navigate-track/)
+- [Announcing AWS Public Safely and Disaster Response Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-public-safely-and-disaster-response-technology-partners/)
+- [Introducing AWS SaaS Boost](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-boost/)
+- [AWS ISV Accelerate, a co-sell program for AWS Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/isv-accelerate/)
+- [Customers can now use AWS Service Catalog AppRegistry to define and describe their AWS applications](https://aws.amazon.com/about-aws/whats-new/2020/12/customers-use-aws-service-catalog-appregistry-define-describe-aws-applications/)
+- [AWS Foundational Technical Review Lens now available in the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-foundational-technical-review-lens-available-aws-well-architected-tool/)
+- [AWS License Manager enhances automated discovery with tag-based search and detection of software uninstalls](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-license-manager-enhances-automated-discovery-with-tag-based-search-and-detection-of-software-uninstalls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

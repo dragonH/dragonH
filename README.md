@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Chat now supports Apple Business Chat (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-chat-now-supports-apple-business-chat-preview/)
+- [Announcing Amazon CloudWatch Lambda Insights (General Availability)](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-cloudwatch-lambda-insights-general-availability/)
+- [Serverless Batch Scheduling with AWS Batch and AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/severless-batch-scheduling-with-aws-batch-and-aws-fargate/)
+- [AWS Compute Optimizer now supports Amazon EBS volume recommendations](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-supports-amazon-ebs-volume-recommendations/)
 - [Amazon Aurora Serverless v1 with PostgreSQL compatibility now available in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-serverless-v1-with-postgresql-compatibility-now-available-in-eight-additional-regions/)
 - [Introducing the New AWS Travel and Hospitality Competency](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-new-aws-travel-and-hospitality-competency/)
 - [Introducing Amazon RDS Service Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-rds-service-delivery-partners/)
 - [Introducing AWS SaaS Factory Insights Hub](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-factory-insights-hub/)
 - [Announcing the APN Travel & Hospitality Navigate track](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-apn-travel-and-hospitality-navigate-track/)
 - [Announcing AWS Public Safely and Disaster Response Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-public-safely-and-disaster-response-technology-partners/)
-- [Introducing AWS SaaS Boost](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-boost/)
-- [AWS ISV Accelerate, a co-sell program for AWS Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/isv-accelerate/)
-- [Customers can now use AWS Service Catalog AppRegistry to define and describe their AWS applications](https://aws.amazon.com/about-aws/whats-new/2020/12/customers-use-aws-service-catalog-appregistry-define-describe-aws-applications/)
-- [AWS Foundational Technical Review Lens now available in the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-foundational-technical-review-lens-available-aws-well-architected-tool/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

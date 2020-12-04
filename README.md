@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing table charts for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-table-charts-for-aws-iot-sitewise/)
+- [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-with-step-functions-startsyncexecution-http-apis/)
+- [Amazon EMR now provides up to 30% lower cost and up to 15% improved performance for Spark workloads on Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-now-provides-up-to-30-lower-cost-and-up-to-15-improved-performance/)
 - [Amazon Connect adds inbound telephony for four Latin America countries](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-inbound-telephony-four-latin-america-countries/)
 - [AWS announces General Availability of Amazon GameLift Feature Update](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-general-availability-of-amazon-gamelift-feature-update/)
 - [Amazon ECS Announces the Preview of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-preview-of-ecs-deployment-circuit-breaker/)
@@ -65,9 +68,6 @@
 - [AWS Data Exchange introduces flexible revision access controls for new products](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-introduces-flexible-revision-access-controls-for-new-products/)
 - [Amazon Connect Chat now supports Apple Business Chat (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-chat-now-supports-apple-business-chat-preview/)
 - [Announcing Amazon CloudWatch Lambda Insights (General Availability)](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-cloudwatch-lambda-insights-general-availability/)
-- [Serverless Batch Scheduling with AWS Batch and AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/severless-batch-scheduling-with-aws-batch-and-aws-fargate/)
-- [AWS Compute Optimizer now supports Amazon EBS volume recommendations](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-supports-amazon-ebs-volume-recommendations/)
-- [Amazon Aurora Serverless v1 with PostgreSQL compatibility now available in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-serverless-v1-with-postgresql-compatibility-now-available-in-eight-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

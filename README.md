@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Announces the Preview of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-preview-of-ecs-deployment-circuit-breaker/)
+- [Python Support for Amazon CodeGuru is available in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/python-support-for-amazon-codeguru-is-available-in-preview/)
 - [AWS Data Exchange introduces flexible revision access controls for new products](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-introduces-flexible-revision-access-controls-for-new-products/)
 - [Amazon Connect Chat now supports Apple Business Chat (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-chat-now-supports-apple-business-chat-preview/)
 - [Announcing Amazon CloudWatch Lambda Insights (General Availability)](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-cloudwatch-lambda-insights-general-availability/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora Serverless v1 with PostgreSQL compatibility now available in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-serverless-v1-with-postgresql-compatibility-now-available-in-eight-additional-regions/)
 - [Introducing the New AWS Travel and Hospitality Competency](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-new-aws-travel-and-hospitality-competency/)
 - [Introducing Amazon RDS Service Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-rds-service-delivery-partners/)
-- [Introducing AWS SaaS Factory Insights Hub](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-factory-insights-hub/)
-- [Announcing the APN Travel & Hospitality Navigate track](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-apn-travel-and-hospitality-navigate-track/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

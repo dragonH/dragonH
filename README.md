@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect adds inbound telephony for four Latin America countries](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-inbound-telephony-four-latin-america-countries/)
+- [AWS announces General Availability of Amazon GameLift Feature Update](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-general-availability-of-amazon-gamelift-feature-update/)
 - [Amazon ECS Announces the Preview of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-preview-of-ecs-deployment-circuit-breaker/)
 - [Python Support for Amazon CodeGuru is available in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/python-support-for-amazon-codeguru-is-available-in-preview/)
 - [AWS Data Exchange introduces flexible revision access controls for new products](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-introduces-flexible-revision-access-controls-for-new-products/)
@@ -66,8 +68,6 @@
 - [Serverless Batch Scheduling with AWS Batch and AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/severless-batch-scheduling-with-aws-batch-and-aws-fargate/)
 - [AWS Compute Optimizer now supports Amazon EBS volume recommendations](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-supports-amazon-ebs-volume-recommendations/)
 - [Amazon Aurora Serverless v1 with PostgreSQL compatibility now available in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-serverless-v1-with-postgresql-compatibility-now-available-in-eight-additional-regions/)
-- [Introducing the New AWS Travel and Hospitality Competency](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-the-new-aws-travel-and-hospitality-competency/)
-- [Introducing Amazon RDS Service Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-rds-service-delivery-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

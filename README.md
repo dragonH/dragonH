@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Data Exchange introduces flexible revision access controls for new products](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-introduces-flexible-revision-access-controls-for-new-products/)
 - [Amazon Connect Chat now supports Apple Business Chat (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-chat-now-supports-apple-business-chat-preview/)
 - [Announcing Amazon CloudWatch Lambda Insights (General Availability)](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-cloudwatch-lambda-insights-general-availability/)
 - [Serverless Batch Scheduling with AWS Batch and AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/severless-batch-scheduling-with-aws-batch-and-aws-fargate/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon RDS Service Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-rds-service-delivery-partners/)
 - [Introducing AWS SaaS Factory Insights Hub](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-saas-factory-insights-hub/)
 - [Announcing the APN Travel & Hospitality Navigate track](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-apn-travel-and-hospitality-navigate-track/)
-- [Announcing AWS Public Safely and Disaster Response Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-public-safely-and-disaster-response-technology-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

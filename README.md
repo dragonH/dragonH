@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle supports managed disaster recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-supports-managed-dr-with-cross-region-automated-backups/)
+- [Amazon Machine Images (AMIs) now support tag-on-create and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-images-support-tag-on-create-tag-based-access-control/)
 - [Amazon Connect reduces 10 Latin America telephony rates](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-reduces-10-latin-america-telephony-rates/)
 - [Amazon EBS io2 volumes now support SAP workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ebs-io2-volumes-support-sap-workloads/)
 - [AWS Security Hub adds open source tool integrations with Kube-bench and Cloud Custodian](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-adds-open-source-tool-integration-with-kube-bench-and-cloud-custodian/)
@@ -66,8 +68,6 @@
 - [Announcing table charts for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-table-charts-for-aws-iot-sitewise/)
 - [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-with-step-functions-startsyncexecution-http-apis/)
 - [Amazon EMR now provides up to 30% lower cost and up to 15% improved performance for Spark workloads on Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-now-provides-up-to-30-lower-cost-and-up-to-15-improved-performance/)
-- [Amazon Connect adds inbound telephony for four Latin America countries](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-inbound-telephony-four-latin-america-countries/)
-- [AWS announces General Availability of Amazon GameLift Feature Update](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-general-availability-of-amazon-gamelift-feature-update/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

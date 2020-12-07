@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Three New Digital Courses for AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-three-new-digital-courses-for-aws-snowcone/)
+- [AWS CloudTrail provides more granular control of data event logging through advanced event selectors](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudtrail-provides-more-granular-control-of-data-event-logging/)
 - [AWS Transit Gateway Inter-region Peering is Now Available in Middle East (Bahrain), Africa (Cape Town), Asia Pacific (Hong Kong), and Europe (Milan) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-transit-gateway-inter-region-peering-available-additional-regions/)
 - [Amazon RDS for Oracle supports managed disaster recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-supports-managed-dr-with-cross-region-automated-backups/)
 - [Amazon Machine Images (AMIs) now support tag-on-create and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-images-support-tag-on-create-tag-based-access-control/)
@@ -66,8 +68,6 @@
 - [AWS Security Hub adds open source tool integrations with Kube-bench and Cloud Custodian](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-adds-open-source-tool-integration-with-kube-bench-and-cloud-custodian/)
 - [Amazon RDS for Oracle and Amazon RDS for SQL Server now support R5b instance types in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-amazon-rds-sql-server-support-r5b-instance-types-in-additional-aws-regions/)
 - [AWS CloudTrail provides more granular control of data event logging through advanced event selectors](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloudtrail-provides-more-granular-control-of-data-event-logging/)
-- [Announcing table charts for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-table-charts-for-aws-iot-sitewise/)
-- [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-with-step-functions-startsyncexecution-http-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

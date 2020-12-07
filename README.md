@@ -67,7 +67,7 @@
 - [Amazon EBS io2 volumes now support SAP workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ebs-io2-volumes-support-sap-workloads/)
 - [AWS Security Hub adds open source tool integrations with Kube-bench and Cloud Custodian](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-adds-open-source-tool-integration-with-kube-bench-and-cloud-custodian/)
 - [Amazon RDS for Oracle and Amazon RDS for SQL Server now support R5b instance types in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-amazon-rds-sql-server-support-r5b-instance-types-in-additional-aws-regions/)
-- [AWS CloudTrail provides more granular control of data event logging through advanced event selectors](https://aws.amazon.com/about-aws/whats-new/2020/11/aws-cloudtrail-provides-more-granular-control-of-data-event-logging/)
+- [Announcing table charts for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-table-charts-for-aws-iot-sitewise/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

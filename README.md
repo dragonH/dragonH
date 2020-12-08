@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Detect bias in ML models and explain model behavior with Amazon SageMaker Clarify](https://aws.amazon.com/about-aws/whats-new/2020/12/detect-bias-in-ml-models-and-explain-model-behavior-with-amazon-sagemaker-clarify/)
+- [Introducing Amazon HealthLake to make sense of health data](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-healthlake-to-make-sense-of-health-data/)
 - [Introducing Amazon SageMaker Data Wrangler – The fastest and easiest way to prepare data for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-data-wrangler-the-fastest-and-easiest-way-to-prepare-data-for-machine-learning/)
 - [Introducing Amazon SageMaker Feature Store - a fully managed repository to store, discover, share and serve machine learning features](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-feature-store/)
 - [Introducing Amazon SageMaker Pipelines, first purpose built CI/CD service for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-pipelines-first-purpose-built-ci-cd-service-machine-learning/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra adds Google Drive connector](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-kendra-adds-google-drive-connector/)
 - [Amazon SageMaker Model Monitor now supports new capabilities to maintain model quality in production](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sagemaker-model-monitor-supports-capabilities-to-maintain-model-quality-production/)
 - [Announcing Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-forecast-weather-index-include-local-weather-increase-forecasting-model-accuracy/)
-- [AWS announces AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-aws-audit-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

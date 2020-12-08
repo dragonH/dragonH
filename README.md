@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EBS io2 volumes now support SAP workloads](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ebs-io2-volumes-support-sap-workloads/)
-- [Announcing Three New Digital Courses for AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-three-new-digital-courses-for-aws-snowcone/)
-- [AWS CloudTrail provides more granular control of data event logging through advanced event selectors](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudtrail-provides-more-granular-control-of-data-event-logging/)
-- [AWS Transit Gateway Inter-region Peering is Now Available in Middle East (Bahrain), Africa (Cape Town), Asia Pacific (Hong Kong), and Europe (Milan) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-transit-gateway-inter-region-peering-available-additional-regions/)
-- [Amazon RDS for Oracle supports managed disaster recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-supports-managed-dr-with-cross-region-automated-backups/)
-- [Amazon Machine Images (AMIs) now support tag-on-create and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-images-support-tag-on-create-tag-based-access-control/)
-- [Amazon Connect reduces 10 Latin America telephony rates](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-reduces-10-latin-america-telephony-rates/)
-- [AWS Security Hub adds open source tool integrations with Kube-bench and Cloud Custodian](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-adds-open-source-tool-integration-with-kube-bench-and-cloud-custodian/)
-- [Amazon RDS for Oracle and Amazon RDS for SQL Server now support R5b instance types in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-rds-for-oracle-amazon-rds-sql-server-support-r5b-instance-types-in-additional-aws-regions/)
-- [Announcing table charts for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-table-charts-for-aws-iot-sitewise/)
+- [Introducing Amazon SageMaker Data Wrangler – The fastest and easiest way to prepare data for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-data-wrangler-the-fastest-and-easiest-way-to-prepare-data-for-machine-learning/)
+- [Introducing Amazon SageMaker Feature Store - a fully managed repository to store, discover, share and serve machine learning features](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-feature-store/)
+- [Introducing Amazon SageMaker Pipelines, first purpose built CI/CD service for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-pipelines-first-purpose-built-ci-cd-service-machine-learning/)
+- [AWS Security Hub integrates with AWS Audit Manager for simplified security posture management](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-integrates-with-aws-audit-manager-for-simplified-security-posture-management/)
+- [Amazon AppFlow now provides Amazon Lookout for Metrics connectivity to several cloud applications](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-now-provides-amazon-lookout-for-metrics-connectivity-to-several-cloud-applications/)
+- [Amazon Kendra adds Google Drive connector](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-kendra-adds-google-drive-connector/)
+- [Amazon SageMaker Model Monitor now supports new capabilities to maintain model quality in production](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sagemaker-model-monitor-supports-capabilities-to-maintain-model-quality-production/)
+- [Announcing Amazon Forecast Weather Index – automatically include local weather to increase your forecasting model accuracy](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-forecast-weather-index-include-local-weather-increase-forecasting-model-accuracy/)
+- [AWS announces AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-aws-audit-manager/)
+- [Introducing Amazon SageMaker JumpStart – Easily and quickly bring machine learning applications to market](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-jumpstart-easily-and-quickly-bring-machine-learning-applications-to-market/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

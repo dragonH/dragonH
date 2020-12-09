@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CodeGuru Profiler adds Memory Profiling and Heap Summary](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-codeguru-profiler-adds-memory-profiling-heap-summary/)
-- [Amazon Braket now supports PennyLane](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-braket-now-supports-pennylane/)
-- [Amazon Braket tensor network simulator supports 50-qubit quantum circuits](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-braket-tensor-network-simulator-supports-50-qubit-quantum-circuits/)
-- [Amazon ECR announces cross region replication of images](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecr-announces-cross-region-replication-of-images/)
-- [Detect bias in ML models and explain model behavior with Amazon SageMaker Clarify](https://aws.amazon.com/about-aws/whats-new/2020/12/detect-bias-in-ml-models-and-explain-model-behavior-with-amazon-sagemaker-clarify/)
-- [Introducing Amazon HealthLake to make sense of health data](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-healthlake-to-make-sense-of-health-data/)
-- [Introducing Amazon SageMaker Data Wrangler – The fastest and easiest way to prepare data for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-data-wrangler-the-fastest-and-easiest-way-to-prepare-data-for-machine-learning/)
-- [Introducing Amazon SageMaker Feature Store - a fully managed repository to store, discover, share and serve machine learning features](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-feature-store/)
-- [Introducing Amazon SageMaker Pipelines, first purpose built CI/CD service for machine learning](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-pipelines-first-purpose-built-ci-cd-service-machine-learning/)
-- [AWS Security Hub integrates with AWS Audit Manager for simplified security posture management](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-integrates-with-aws-audit-manager-for-simplified-security-posture-management/)
+- [Amazon Redshift announces native console integration with partners (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-native-console-integration-with-partners-preview/)
+- [Announcing new Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, with the best price performance for graphics intensive applications in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-g4ad-instances-powered-by-amd-radeon-pro-v520-gpus/)
+- [Announcing preview of AWS Lake Formation features: Transactions, Row-level Security, and Acceleration](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-preview-aws-lake-formation-features/)
+- [Amazon EMR Studio makes it easier for data scientists to build and deploy code](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-introduces-amazon-emr-studio-makes-it-easier-for-data-scientists-to-build-and-depoy-code/)
+- [Amazon Redshift announces Automatic Table Optimization](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-automatic-table-optimization/)
+- [Simplify running Apache Spark jobs with Amazon EMR on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/12/simplify-running-apache-spark-jobs-amazon-emr-amazon-eks/)
+- [Amazon Redshift introduces data sharing (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-introduces-data-sharing-preview/)
+- [AWS Global Accelerator launches custom routing](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-global-accelerator-launches-custom-routing/)
+- [Amazon Redshift announces support for native JSON and semi-structured data processing (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-support-native-json-semi-structured-data-processing/)
+- [Amazon Redshift now includes Amazon RDS for MySQL and Amazon Aurora MySQL databases as new data sources for federated querying (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-now-includes-amazon-rds-for-mysql-and-amazon-aurora-mysql-databases-as-new-data-sources-for-federated-querying-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

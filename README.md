@@ -58,8 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EMR Studio makes it easier for data scientists to build and deploy code](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-introduces-amazon-emr-studio-makes-it-easier-for-data-scientists-to-build-and-deploy-code/)
 - [AWS Global Accelerator launches custom routing](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-global-accelerator-launches-custom-routing/)
+- [Python Support for Amazon CodeGuru is available in Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/python-support-for-amazon-codeguru-is-available-in-preview/)
+- [Amazon EMR Studio makes it easier for data scientists to build and deploy code](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-introduces-amazon-emr-studio-makes-it-easier-for-data-scientists-to-build-and-deploy-code/)
 - [Amazon Redshift announces native console integration with partners (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-native-console-integration-with-partners-preview/)
 - [Announcing new Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, with the best price performance for graphics intensive applications in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-g4ad-instances-powered-by-amd-radeon-pro-v520-gpus/)
 - [Announcing preview of AWS Lake Formation features: Transactions, Row-level Security, and Acceleration](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-preview-aws-lake-formation-features/)
@@ -67,7 +68,6 @@
 - [Simplify running Apache Spark jobs with Amazon EMR on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2020/12/simplify-running-apache-spark-jobs-amazon-emr-amazon-eks/)
 - [Amazon Redshift introduces data sharing (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-introduces-data-sharing-preview/)
 - [Amazon Redshift announces support for native JSON and semi-structured data processing (preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-support-native-json-semi-structured-data-processing/)
-- [Amazon Redshift now includes Amazon RDS for MySQL and Amazon Aurora MySQL databases as new data sources for federated querying (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-now-includes-amazon-rds-for-mysql-and-amazon-aurora-mysql-databases-as-new-data-sources-for-federated-querying-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

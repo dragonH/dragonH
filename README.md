@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing AWS Transit Gateway Connect to simplify SD-WAN branch connectivity](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-transit-gateway-connect-to-simplify-sd-wan-branch-connectivity/)
 - [Amazon Kendra adds support for custom synonyms](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-kendra-adds-support-for-custom-synonyms/)
+- [Introducing AWS Transit Gateway Connect to simplify SD-WAN branch connectivity](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-transit-gateway-connect-to-simplify-sd-wan-branch-connectivity/)
 - [Amazon EC2 announces new network performance metrics for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-new-network-performance-metrics-for-ec2-instances/)
 - [Amplify CLI enables serverless container deployments using AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/amplify-cli-enables-serverless-container-deployments-using-aws-fargate/)
 - [AWS customers can now use industry standard Internet Group Management Protocol (IGMP) to easily deploy, manage and scale their multicast applications in AWS cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-customers-use-industry-standard-internet-group-management-protocol/)

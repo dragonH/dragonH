@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports Amazon Elasticsearch Service, and adds new box plot and filled map visuals](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quicksight-launches-now-supports-amazon-elasticsearch-service-and-adds-new-box-plot-and-filled-map-visuals/)
 - [Amazon Kendra adds support for custom synonyms](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-kendra-adds-support-for-custom-synonyms/)
 - [Introducing AWS Transit Gateway Connect to simplify SD-WAN branch connectivity](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-transit-gateway-connect-to-simplify-sd-wan-branch-connectivity/)
 - [Amazon EC2 announces new network performance metrics for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-new-network-performance-metrics-for-ec2-instances/)
@@ -67,7 +68,6 @@
 - [AWS Global Accelerator launches custom routing](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-global-accelerator-launches-custom-routing/)
 - [Python Support for Amazon CodeGuru is available in Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/python-support-for-amazon-codeguru-is-available-in-preview/)
 - [Amazon EMR Studio makes it easier for data scientists to build and deploy code](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-introduces-amazon-emr-studio-makes-it-easier-for-data-scientists-to-build-and-deploy-code/)
-- [Amazon Redshift announces native console integration with partners (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-redshift-announces-native-console-integration-with-partners-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

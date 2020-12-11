@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lumberyard Beta 1.27 Now Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-lumberyard-beta-1-27-now-available-/)
+- [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-step-functions-startsyncexecution-http-apis/)
 - [Amazon EBS reduces the minimum volume size of Throughput Optimized HDD and Cold HDD Volumes by 75%](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ebs-reduces-minimum-volume-size-throughput-optimized-hdd-cold-hdd-volumes/)
 - [Amazon QuickSight now supports Amazon Elasticsearch Service, and adds new box plot and filled map visuals](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-quicksight-launches-now-supports-amazon-elasticsearch-service-and-adds-new-box-plot-and-filled-map-visuals/)
 - [Amazon Kendra adds support for custom synonyms](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-kendra-adds-support-for-custom-synonyms/)
@@ -66,8 +68,6 @@
 - [Amplify CLI enables serverless container deployments using AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/amplify-cli-enables-serverless-container-deployments-using-aws-fargate/)
 - [AWS customers can now use industry standard Internet Group Management Protocol (IGMP) to easily deploy, manage and scale their multicast applications in AWS cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-customers-use-industry-standard-internet-group-management-protocol/)
 - [Amazon Virtual Private Cloud (VPC) announces Reachability Analyzer to simplify connectivity testing and troubleshooting](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-vpc-announces-reachability-analyzer-to-simplify-connectivity-testing-and-troubleshooting/)
-- [AWS Global Accelerator launches custom routing](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-global-accelerator-launches-custom-routing/)
-- [Python Support for Amazon CodeGuru is available in Preview](https://aws.amazon.com/about-aws/whats-new/2020/12/python-support-for-amazon-codeguru-is-available-in-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

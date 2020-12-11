@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IDE Toolkit now available for AWS Cloud9](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloud9-support-aws-ide-toolkit/)
+- [Simplify EC2 provisioning and viewing cloud resources in the ServiceNow CMDB with AWS Service Management Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2020/12/simplify-provisioning-compute-resources-version3-5-aws-service-management-connector-servicenow/)
+- [Amazon Aurora Supports PostgreSQL 11.9, 10.14, and 9.6.19](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-supports-postgresql-11-9-10-14-9-6-19/)
 - [Amazon Lumberyard Beta 1.27 Now Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-lumberyard-beta-1-27-now-available-/)
 - [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-step-functions-startsyncexecution-http-apis/)
 - [Amazon EBS reduces the minimum volume size of Throughput Optimized HDD and Cold HDD Volumes by 75%](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ebs-reduces-minimum-volume-size-throughput-optimized-hdd-cold-hdd-volumes/)
@@ -65,9 +68,6 @@
 - [Amazon Virtual Private Cloud (VPC) announces Reachability Analyzer to simplify connectivity testing and troubleshooting](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-vpc-announces-reachability-analyzer-to-simplify-connectivity-testing-and-troubleshooting/)
 - [Amazon Kendra adds support for custom synonyms](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-kendra-adds-support-for-custom-synonyms/)
 - [Introducing AWS Transit Gateway Connect to simplify SD-WAN branch connectivity](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-transit-gateway-connect-to-simplify-sd-wan-branch-connectivity/)
-- [Amazon EC2 announces new network performance metrics for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-new-network-performance-metrics-for-ec2-instances/)
-- [Amplify CLI enables serverless container deployments using AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2020/12/amplify-cli-enables-serverless-container-deployments-using-aws-fargate/)
-- [AWS customers can now use industry standard Internet Group Management Protocol (IGMP) to easily deploy, manage and scale their multicast applications in AWS cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-customers-use-industry-standard-internet-group-management-protocol/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Public Safety and Disaster Response Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-public-safety-and-disaster-response-technology-partners/)
 - [Amazon EC2 announces Spot Blueprints, an infrastructure code template generator to get started with EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-spot-blueprints-an-infrastructure-code-template-generator-to-get-started-with-ec2-spot-instances/)
 - [AWS Security Hub now supports bidirectional integration with ServiceNow ITSM](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-now-supports-bidirectional-integration-with-service-now-itsm/)
 - [Introducing Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, in preview](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-aurora-r6g-instance-types-powered-by-aws-graviton-2-processors-in-preview/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora Supports PostgreSQL 11.9, 10.14, and 9.6.19](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-supports-postgresql-11-9-10-14-9-6-19/)
 - [Amazon Lumberyard Beta 1.27 Now Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-lumberyard-beta-1-27-now-available-/)
 - [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-step-functions-startsyncexecution-http-apis/)
-- [Amazon EBS reduces the minimum volume size of Throughput Optimized HDD and Cold HDD Volumes by 75%](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ebs-reduces-minimum-volume-size-throughput-optimized-hdd-cold-hdd-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

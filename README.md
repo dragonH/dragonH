@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 announces new network performance metrics for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-new-network-performance-metrics-for-ec2-instances/)
 - [Announcing AWS Public Safety and Disaster Response Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-public-safety-and-disaster-response-technology-partners/)
 - [Amazon EC2 announces Spot Blueprints, an infrastructure code template generator to get started with EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-spot-blueprints-an-infrastructure-code-template-generator-to-get-started-with-ec2-spot-instances/)
 - [AWS Security Hub now supports bidirectional integration with ServiceNow ITSM](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-security-hub-now-supports-bidirectional-integration-with-service-now-itsm/)
@@ -67,7 +68,6 @@
 - [Simplify EC2 provisioning and viewing cloud resources in the ServiceNow CMDB with AWS Service Management Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2020/12/simplify-provisioning-compute-resources-version3-5-aws-service-management-connector-servicenow/)
 - [Amazon Aurora Supports PostgreSQL 11.9, 10.14, and 9.6.19](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-aurora-supports-postgresql-11-9-10-14-9-6-19/)
 - [Amazon Lumberyard Beta 1.27 Now Available](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-lumberyard-beta-1-27-now-available-/)
-- [Amazon API Gateway now supports integration with Step Functions StartSyncExecution for HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-api-gateway-supports-integration-step-functions-startsyncexecution-http-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

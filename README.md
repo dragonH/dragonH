@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Personal Health Dashboard now supports organization-wide event aggregation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-personal-health-dashboard-supports-organization-wide-event-aggregation/)
+- [Announcing AWS IoT SiteWise Edge (Preview), a new capability of AWS IoT SiteWise to collect, process, and monitor industrial equipment data on-premises](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/)
 - [Introducing AWS IoT Core for LoRaWAN: connect and manage LoRaWAN devices at scale easily and cost-effectively](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-core-lorawan/)
 - [Manage Microsoft SQL Server workloads on Amazon EC2 using Application Manager capability in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/manage-microsoft-sql-server-workloads-amazon-ec2-application-manager-capability-aws-systems-manager/)
 - [Deploy Microsoft Active Directory Infrastructure on Amazon EC2 using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2020/12/deploy-microsoft-active-directory-infrastructure-on-amazon-ec2-using-aws-launch-wizard/)
 - [Announcing AWS IoT Device Defender ML Detect public preview](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-device-defender-ml-detect-public-preview/)
-- [Announcing AWS IoT SiteWise Edge (Preview), a new capability of AWS IoT SiteWise to collect, process, and monitor industrial equipment data on-premises](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/)
 - [Introducing AWS IoT EduKit](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-edukit/)
 - [AWS IoT SiteWise launches support for Modbus TCP and EtherNet/IP protocols with enhancements to OPC-UA data ingestion](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-launches-support-for-modbus-tcp-ethernet-ip-protocols/)
 - [Introducing AWS IoT SiteWise plugin for Grafana](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-sitewise-plugin-for-grafana/)
 - [AWS IoT Core adds the ability to deliver data to Apache Kafka clusters](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-core-adds-the-ability-to-deliver-data-to-apache-kafka-clusters/)
-- [FreeRTOS adds cellular LTE-M interface library to support cellular IoT based applications](https://aws.amazon.com/about-aws/whats-new/2020/12/freertos-adds-cellular-lte-m-library-support-cellular-iot-based-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

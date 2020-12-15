@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing AWS Systems Manager Fleet Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-fleet-manager/)
-- [Introducing AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/)
-- [Introducing AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
-- [Introducing AWS Systems Manager Application Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-application-manager/)
-- [AWS Single Sign-On now supports Microsoft Active Directory (AD) synchronization](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-single-sign-on-supports-microsoft-ad-synchronization/)
-- [AWS IoT SDK for Embedded C version 202012.00 includes over-the-air update (OTA) library and PKCS #11 implementation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sdk-for-embedded-c-version-202012-00-includes-over-the-air-update-ota-library-and-pkcs-number-11-implementation/)
-- [Announcing Unified Search in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-unified-search-aws-management-console/)
-- [Now Secure Your SageMaker Studio Access Using AWS PrivateLink and AWS IAM SourceIP Restrictions](https://aws.amazon.com/about-aws/whats-new/2020/12/secure-sagemaker-studio-access-using-aws-privatelink-aws-iam-sourceip-restrictions/)
-- [Amazon EC2 announces new network performance metrics for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-announces-new-network-performance-metrics-for-ec2-instances/)
-- [Announcing AWS Public Safety and Disaster Response Technology Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-public-safety-and-disaster-response-technology-partners/)
+- [Introducing AWS IoT Core for LoRaWAN: connect and manage LoRaWAN devices at scale easily and cost-effectively](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-core-lorawan/)
+- [Manage Microsoft SQL Server workloads on Amazon EC2 using Application Manager capability in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/manage-microsoft-sql-server-workloads-amazon-ec2-application-manager-capability-aws-systems-manager/)
+- [Deploy Microsoft Active Directory Infrastructure on Amazon EC2 using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2020/12/deploy-microsoft-active-directory-infrastructure-on-amazon-ec2-using-aws-launch-wizard/)
+- [Announcing AWS IoT Device Defender ML Detect public preview](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-device-defender-ml-detect-public-preview/)
+- [Announcing AWS IoT SiteWise Edge (Preview), a new capability of AWS IoT SiteWise to collect, process, and monitor industrial equipment data on-premises](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/)
+- [Introducing AWS IoT EduKit](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-edukit/)
+- [AWS IoT SiteWise launches support for Modbus TCP and EtherNet/IP protocols with enhancements to OPC-UA data ingestion](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-launches-support-for-modbus-tcp-ethernet-ip-protocols/)
+- [Introducing AWS IoT SiteWise plugin for Grafana](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-sitewise-plugin-for-grafana/)
+- [AWS IoT Core adds the ability to deliver data to Apache Kafka clusters](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-core-adds-the-ability-to-deliver-data-to-apache-kafka-clusters/)
+- [FreeRTOS adds cellular LTE-M interface library to support cellular IoT based applications](https://aws.amazon.com/about-aws/whats-new/2020/12/freertos-adds-cellular-lte-m-library-support-cellular-iot-based-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

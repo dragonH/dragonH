@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/)
 - [Introducing AWS Systems Manager Fleet Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-fleet-manager/)
+- [Introducing AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-change-manager/)
 - [Introducing AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-cloudshell/)
 - [Introducing AWS Systems Manager Application Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-systems-manager-application-manager/)
 - [AWS Single Sign-On now supports Microsoft Active Directory (AD) synchronization](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-single-sign-on-supports-microsoft-ad-synchronization/)

@@ -58,9 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Anomaly Detection is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cost-anomaly-detection-now-generally-available/)
 - [AWS announces Amazon Location Service (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-location-service-preview/)
 - [AWS Launch Wizard now supports SAP application software installation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-launch-wizard-now-supports-sap-netweaver-software-installation/)
-- [AWS Cost Anomaly Detection is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cost-anomaly-detection-now-generally-available/)
 - [Cost & Usage Report Now Available to Member (Linked) Accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/cost-and-usage-report-now-available-to-member-linked-accounts/)
 - [APIs now available for the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2020/12/apis-now-available-for-aws-well-architected-tool/)
 - [AWS Lambda launches checkpointing for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/)

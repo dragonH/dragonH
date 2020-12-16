@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda launches checkpointing for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/)
 - [AWS SDK for JavaScript version 3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-sdk-javascript-version-3-generally-available/)
 - [AWS Lambda now supports self-managed Apache Kafka as an event source](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-self-managed-apache-kafka-as-an-event-source/)
 - [Announcing the first AWS Wavelength Zone in Tokyo, Japan](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-first-aws-wavelength-zone-tokyo-japan/)
 - [AWS Lambda now makes it easier to build analytics for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/)
-- [AWS Lambda launches checkpointing for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-launches-checkpointing-for-amazon-kinesis-and-amazon-dynamodb-streams/)
 - [AWS Personal Health Dashboard now supports organization-wide event aggregation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-personal-health-dashboard-supports-organization-wide-event-aggregation/)
 - [Announcing AWS IoT SiteWise Edge (Preview), a new capability of AWS IoT SiteWise to collect, process, and monitor industrial equipment data on-premises](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-aws-iot-sitewise-edge-preview/)
 - [Introducing AWS IoT Core for LoRaWAN: connect and manage LoRaWAN devices at scale easily and cost-effectively](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-iot-core-lorawan/)

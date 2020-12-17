@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map is now available in the AWS Africa (Cape Town) and Europe (Milan) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloud-map-is-now-available-in-the-aws-africa-cape-town-and-europe-milan-aws-regions/)
+- [Announcing Amazon Route 53 support for DNSSEC](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/)
+- [Amazon SQS Now Supports a High Throughput Mode for FIFO Queues (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sqs-supports-high-throughput-fifo-queues-preview/)
+- [Amazon Connect supports Amazon Lex chatbots with Latin American Spanish and German](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connet-supports-amazon-lex-chatbots-latin-american-spanish-german/)
 - [Attribute-Based Access Control (ABAC) for the AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2020/12/attribute-based-access-control-abac-aws-key-management-service/)
 - [EC2 Image Builder now supports container images](https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-image-builder-supports-container-images/)
 - [Three new digital courses for AWS Partners](https://aws.amazon.com/about-aws/whats-new/2020/12/three-new-digital-courses-for-aws-partners/)
 - [AWS Lambda now makes it easier to build analytics for Amazon Kinesis and Amazon DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-easier-build-analytics-amazon-kinesis-amazon-dynamodb-streams/)
 - [Amazon FSx is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-fsx-available-govcloud-regions/)
 - [AWS Cost Anomaly Detection is now generally available](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cost-anomaly-detection-now-generally-available/)
-- [AWS announces Amazon Location Service (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-location-service-preview/)
-- [AWS Launch Wizard now supports SAP application software installation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-launch-wizard-now-supports-sap-netweaver-software-installation/)
-- [Cost & Usage Report Now Available to Member (Linked) Accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/cost-and-usage-report-now-available-to-member-linked-accounts/)
-- [APIs now available for the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2020/12/apis-now-available-for-aws-well-architected-tool/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

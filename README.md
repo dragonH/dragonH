@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Data Lifecycle Manager now automates copying EBS snapshots across accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-data-lifecycle-manager-now-automates-copying-ebs-snapshots-across-accounts/)
 - [AWS Nitro Enclaves is now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-nitro-enclaves-is-now-available-in-6-additional-regions/)
 - [Amazon FSx now supports on-premises access from additional IP address ranges](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-fsx-now-supports-on-premises-access-from-additional-ip-address-ranges/)
 - [AWS Well-Architected Guidance Engine now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-well-architected-guidance-engine-now-available-in-aws-control-tower/)
@@ -67,7 +68,6 @@
 - [Amazon SQS Now Supports a High Throughput Mode for FIFO Queues (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sqs-supports-high-throughput-fifo-queues-preview/)
 - [Amazon Connect supports Amazon Lex chatbots with Latin American Spanish and German](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connet-supports-amazon-lex-chatbots-latin-american-spanish-german/)
 - [Attribute-Based Access Control (ABAC) for the AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2020/12/attribute-based-access-control-abac-aws-key-management-service/)
-- [EC2 Image Builder now supports container images](https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-image-builder-supports-container-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

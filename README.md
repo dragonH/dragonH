@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Data Exchange data sets now easily available for visual transformation using AWS Glue DataBrew via console integration](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-data-sets-available-visual-transformation-aws-glue-databrew-console-integration/)
+- [Introducing Distributed Load Testing v1.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
+- [Announcing new Amazon EC2 C6gn instances powered by AWS Graviton2 processors with 100 Gbps networking](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/)
 - [AWS CloudFormation StackSets is now available in Africa (Cape Town), EU (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudformation-stacksets-available-additional-regions/)
 - [Amazon Chime now supports joining meetings from Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-chime-supports-joining-meetings-from-echo-show-8/)
 - [Join Zoom meetings with Alexa on Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/join-zoom-meetings-with-alexa-on-echo-show-8/)
@@ -65,9 +68,6 @@
 - [AWS Nitro Enclaves is now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-nitro-enclaves-is-now-available-in-6-additional-regions/)
 - [Amazon FSx now supports on-premises access from additional IP address ranges](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-fsx-now-supports-on-premises-access-from-additional-ip-address-ranges/)
 - [AWS Well-Architected Guidance Engine now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-well-architected-guidance-engine-now-available-in-aws-control-tower/)
-- [Introducing Amazon SageMaker ml.P4d instances for highest performance ML training in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-ml-p4d-instances-for-highest-performance-ml-training-in-the-cloud/)
-- [AWS Cloud Map is now available in the AWS Africa (Cape Town) and Europe (Milan) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloud-map-is-now-available-in-the-aws-africa-cape-town-and-europe-milan-aws-regions/)
-- [Announcing Amazon Route 53 support for DNSSEC](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

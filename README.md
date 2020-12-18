@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports SASL/SCRAM authentication for functions triggered from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-sasl-scram-authentication-for-functions-triggered-from-amazon-msk/)
 - [AWS Data Exchange data sets now easily available for visual transformation using AWS Glue DataBrew via console integration](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-data-sets-available-visual-transformation-aws-glue-databrew-console-integration/)
 - [Introducing Distributed Load Testing v1.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
 - [Announcing new Amazon EC2 C6gn instances powered by AWS Graviton2 processors with 100 Gbps networking](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/)
@@ -67,7 +68,6 @@
 - [Amazon Data Lifecycle Manager now automates copying EBS snapshots across accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-data-lifecycle-manager-now-automates-copying-ebs-snapshots-across-accounts/)
 - [AWS Nitro Enclaves is now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-nitro-enclaves-is-now-available-in-6-additional-regions/)
 - [Amazon FSx now supports on-premises access from additional IP address ranges](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-fsx-now-supports-on-premises-access-from-additional-ip-address-ranges/)
-- [AWS Well-Architected Guidance Engine now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-well-architected-guidance-engine-now-available-in-aws-control-tower/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

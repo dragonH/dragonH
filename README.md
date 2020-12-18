@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Autopilot adds Deep Learning Models](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sagemaker-autopilot-adds-deep-learning-models/)
+- [AWS Data Exchange now supports filtered views for provider products and data sets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-supports-filtered-views-provider-products-data-sets/)
 - [Amazon AppFlow now stores credentials in customers’ AWS Secrets Manager account](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/)
 - [AWS Lambda now supports SASL/SCRAM authentication for functions triggered from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-sasl-scram-authentication-for-functions-triggered-from-amazon-msk/)
 - [AWS Data Exchange data sets now easily available for visual transformation using AWS Glue DataBrew via console integration](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-data-sets-available-visual-transformation-aws-glue-databrew-console-integration/)
@@ -66,8 +68,6 @@
 - [AWS CloudFormation StackSets is now available in Africa (Cape Town), EU (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudformation-stacksets-available-additional-regions/)
 - [Amazon Chime now supports joining meetings from Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-chime-supports-joining-meetings-from-echo-show-8/)
 - [Join Zoom meetings with Alexa on Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/join-zoom-meetings-with-alexa-on-echo-show-8/)
-- [Amazon Data Lifecycle Manager now automates copying EBS snapshots across accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-data-lifecycle-manager-now-automates-copying-ebs-snapshots-across-accounts/)
-- [AWS Nitro Enclaves is now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-nitro-enclaves-is-now-available-in-6-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation StackSets is now available in Africa (Cape Town), EU (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudformation-stacksets-available-additional-regions/)
 - [Amazon Chime now supports joining meetings from Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-chime-supports-joining-meetings-from-echo-show-8/)
 - [Join Zoom meetings with Alexa on Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/join-zoom-meetings-with-alexa-on-echo-show-8/)
 - [Amazon Data Lifecycle Manager now automates copying EBS snapshots across accounts](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-data-lifecycle-manager-now-automates-copying-ebs-snapshots-across-accounts/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon SageMaker ml.P4d instances for highest performance ML training in the cloud](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-amazon-sagemaker-ml-p4d-instances-for-highest-performance-ml-training-in-the-cloud/)
 - [AWS Cloud Map is now available in the AWS Africa (Cape Town) and Europe (Milan) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloud-map-is-now-available-in-the-aws-africa-cape-town-and-europe-milan-aws-regions/)
 - [Announcing Amazon Route 53 support for DNSSEC](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-amazon-route-53-support-dnssec/)
-- [Amazon SQS Now Supports a High Throughput Mode for FIFO Queues (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sqs-supports-high-throughput-fifo-queues-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

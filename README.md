@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Software providers on AWS Marketplace can now use the self-service management portal to update their Container products](https://aws.amazon.com/about-aws/whats-new/2020/12/software-providers-on-aws-marketplace-can-useself-service-management-portal-to-update-container-products/)
+- [Amazon Machine Image copy limits increased to 100 images per destination Region](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-image-copy-limits-increased/)
 - [Amazon SageMaker Autopilot adds Deep Learning Models](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sagemaker-autopilot-adds-deep-learning-models/)
 - [AWS Data Exchange now supports filtered views for provider products and data sets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-supports-filtered-views-provider-products-data-sets/)
 - [Amazon AppFlow now stores credentials in customers’ AWS Secrets Manager account](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/)
@@ -66,8 +68,6 @@
 - [Introducing Distributed Load Testing v1.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
 - [Announcing new Amazon EC2 C6gn instances powered by AWS Graviton2 processors with 100 Gbps networking](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/)
 - [AWS CloudFormation StackSets is now available in Africa (Cape Town), EU (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudformation-stacksets-available-additional-regions/)
-- [Amazon Chime now supports joining meetings from Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-chime-supports-joining-meetings-from-echo-show-8/)
-- [Join Zoom meetings with Alexa on Echo Show 8](https://aws.amazon.com/about-aws/whats-new/2020/12/join-zoom-meetings-with-alexa-on-echo-show-8/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

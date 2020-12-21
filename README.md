@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Apache Kafka client resiliency testing made easier with an Amazon MSK reboot broker API](https://aws.amazon.com/about-aws/whats-new/2020/12/apache-kafka-client-resiliency-testing-easier-with-amazon-msk-reboot-broker-api/)
+- [AWS Systems Manager now enables advanced flow control for Automation runbook executions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-systems-manager-now-enables-advanced-flow-control-for-automation-runbook-executions/)
+- [AWS DeepComposer launches new learning capsule that dives deep into Transformer models](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-deepcomposer-launches-learning-capsule-dives-deep-transformer-models/)
+- [Amazon MQ now supports ActiveMQ version 5.15.14](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-mq-now-supports-activemq-version-5-15-14/)
+- [Porting Assistant for .NET supports automated code translation](https://aws.amazon.com/about-aws/whats-new/2020/12/porting-assistant-for-net-supports-automated-code-translation/)
+- [Multi-Attach support now available on Amazon EBS Provisioned IOPS volume type, io2](https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-available-on-amazon-ebs-provisioned-iops-volume-type-io2/)
+- [Announcing the availability of AWS Outposts Private Connectivity](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-availability-of-aws-outposts-private-connectivity/)
 - [Software providers on AWS Marketplace can now use the self-service management portal to update their Container products](https://aws.amazon.com/about-aws/whats-new/2020/12/software-providers-on-aws-marketplace-can-useself-service-management-portal-to-update-container-products/)
 - [Amazon Machine Image copy limits increased to 100 images per destination Region](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-image-copy-limits-increased/)
 - [Amazon SageMaker Autopilot adds Deep Learning Models](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sagemaker-autopilot-adds-deep-learning-models/)
-- [AWS Data Exchange now supports filtered views for provider products and data sets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-supports-filtered-views-provider-products-data-sets/)
-- [Amazon AppFlow now stores credentials in customers’ AWS Secrets Manager account](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-stores-credentials-customers-aws-secrets-manager-account/)
-- [AWS Lambda now supports SASL/SCRAM authentication for functions triggered from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-lambda-now-supports-sasl-scram-authentication-for-functions-triggered-from-amazon-msk/)
-- [AWS Data Exchange data sets now easily available for visual transformation using AWS Glue DataBrew via console integration](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-data-exchange-data-sets-available-visual-transformation-aws-glue-databrew-console-integration/)
-- [Introducing Distributed Load Testing v1.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-distributed-load-testing-v1-2/)
-- [Announcing new Amazon EC2 C6gn instances powered by AWS Graviton2 processors with 100 Gbps networking](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-amazon-ec2-c6gn-instances-powered-by-aws-graviton2-processors-with-100-gbps-networking/)
-- [AWS CloudFormation StackSets is now available in Africa (Cape Town), EU (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-cloudformation-stacksets-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

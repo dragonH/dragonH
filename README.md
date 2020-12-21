@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Hibernation feature is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-hibernation-feature-is-now-available-in-aws-govcloud-us-regions/)
 - [AWS Load Balancer Controller version 2.1 now available with support for additional ELB configurations](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-load-balancer-controller-version-2-1-available-support-additional-elb-configurations/)
 - [Amazon AppFlow now provides data integration with Upsolver](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-provides-data-integration-upsolver/)
 - [Amazon Managed Blockchain now supports Ethereum (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-managed-blockchain-supports-ethereum/)
@@ -67,7 +68,6 @@
 - [Amazon MQ now supports ActiveMQ version 5.15.14](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-mq-now-supports-activemq-version-5-15-14/)
 - [Porting Assistant for .NET supports automated code translation](https://aws.amazon.com/about-aws/whats-new/2020/12/porting-assistant-for-net-supports-automated-code-translation/)
 - [Multi-Attach support now available on Amazon EBS Provisioned IOPS volume type, io2](https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-available-on-amazon-ebs-provisioned-iops-volume-type-io2/)
-- [Announcing the availability of AWS Outposts Private Connectivity](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-availability-of-aws-outposts-private-connectivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

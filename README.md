@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Load Balancer Controller version 2.1 now available with support for additional ELB configurations](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-load-balancer-controller-version-2-1-available-support-additional-elb-configurations/)
+- [Amazon AppFlow now provides data integration with Upsolver](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-provides-data-integration-upsolver/)
+- [Amazon Managed Blockchain now supports Ethereum (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-managed-blockchain-supports-ethereum/)
 - [Apache Kafka client resiliency testing made easier with an Amazon MSK reboot broker API](https://aws.amazon.com/about-aws/whats-new/2020/12/apache-kafka-client-resiliency-testing-easier-with-amazon-msk-reboot-broker-api/)
 - [AWS Systems Manager now enables advanced flow control for Automation runbook executions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-systems-manager-now-enables-advanced-flow-control-for-automation-runbook-executions/)
 - [AWS DeepComposer launches new learning capsule that dives deep into Transformer models](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-deepcomposer-launches-learning-capsule-dives-deep-transformer-models/)
@@ -65,9 +68,6 @@
 - [Porting Assistant for .NET supports automated code translation](https://aws.amazon.com/about-aws/whats-new/2020/12/porting-assistant-for-net-supports-automated-code-translation/)
 - [Multi-Attach support now available on Amazon EBS Provisioned IOPS volume type, io2](https://aws.amazon.com/about-aws/whats-new/2020/12/multi-attach-support-now-available-on-amazon-ebs-provisioned-iops-volume-type-io2/)
 - [Announcing the availability of AWS Outposts Private Connectivity](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-availability-of-aws-outposts-private-connectivity/)
-- [Software providers on AWS Marketplace can now use the self-service management portal to update their Container products](https://aws.amazon.com/about-aws/whats-new/2020/12/software-providers-on-aws-marketplace-can-useself-service-management-portal-to-update-container-products/)
-- [Amazon Machine Image copy limits increased to 100 images per destination Region](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-machine-image-copy-limits-increased/)
-- [Amazon SageMaker Autopilot adds Deep Learning Models](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-sagemaker-autopilot-adds-deep-learning-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

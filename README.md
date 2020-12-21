@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-pricing-calculator-supports-windows-server-sql-server-workload-cost-estimates/)
+- [Now launch Amazon SageMaker Studio Notebooks backed by Spark in Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2020/12/now-launch-amazon-sagemaker-studio-notebooks-backed-spark-amazon-emr/)
+- [You now can use PartiQL with NoSQL Workbench to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/12/you-now-can-use-partiql-with-nosql-workbench-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
+- [Amazon Virtual Private Cloud (VPC) Now supports Tag on Create for Elastic IP addresses](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-virtual-private-cloud-vpc-supports-tag-on-create-elastic-ips-eip/)
+- [PartiQL for DynamoDB now is supported in 23 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/partiql-for-dynamodb-now-is-supported-in-23-aws-regions/)
+- [New IAM condition keys for Amazon S3 limit requests to buckets owned by specific AWS accounts, and to specific TLS versions](https://aws.amazon.com/about-aws/whats-new/2020/12/new-iam-condition-keys-amazon-s3-limit-requests-buckets-owned-specific-aws-accounts-specific-tls-versions/)
+- [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-database-migration-service-now-supports-amazon-documentdb-as-a-source/)
+- [AWS CodeBuild is now available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codebuild-is-now-available-in-the-africa-cape-town-region/)
+- [Amazon Macie now available in AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-macie-available-aws-cape-town-milan-bahrain-regions/)
 - [Amazon Transcribe Medical now supports both streaming and batch transcription of multi-channel audio](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-transcribe-medical-now-supports-both-streaming-and-batch-transcription-of-multi-channel-audio/)
-- [EC2 Hibernation feature is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/ec2-hibernation-feature-is-now-available-in-aws-govcloud-us-regions/)
-- [AWS Load Balancer Controller version 2.1 now available with support for additional ELB configurations](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-load-balancer-controller-version-2-1-available-support-additional-elb-configurations/)
-- [Amazon AppFlow now provides data integration with Upsolver](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-appflow-provides-data-integration-upsolver/)
-- [Amazon Managed Blockchain now supports Ethereum (Preview)](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-managed-blockchain-supports-ethereum/)
-- [Apache Kafka client resiliency testing made easier with an Amazon MSK reboot broker API](https://aws.amazon.com/about-aws/whats-new/2020/12/apache-kafka-client-resiliency-testing-easier-with-amazon-msk-reboot-broker-api/)
-- [AWS Systems Manager now enables advanced flow control for Automation runbook executions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-systems-manager-now-enables-advanced-flow-control-for-automation-runbook-executions/)
-- [AWS DeepComposer launches new learning capsule that dives deep into Transformer models](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-deepcomposer-launches-learning-capsule-dives-deep-transformer-models/)
-- [Amazon MQ now supports ActiveMQ version 5.15.14](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-mq-now-supports-activemq-version-5-15-14/)
-- [Porting Assistant for .NET supports automated code translation](https://aws.amazon.com/about-aws/whats-new/2020/12/porting-assistant-for-net-supports-automated-code-translation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

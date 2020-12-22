@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Artifact makes compliance documents easy to  download and share](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-artifact-compliance-documents-easy-download-share/)
+- [Introducing Compliant Framework for Federal and DoD Workloads in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-compliant-framework-federal-dod-workloads-aws-govcloud-us/)
+- [AWS App2Container now supports remote execution of containerization workflows](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-app2container-supports-remote-execution-containerization-workflows/)
 - [Amazon EMR Release 6.2 now supports improved Apache HBase performance on Amazon S3, and Apache Hive ACID Transactions on HDFS and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-emr-release-6-2-supports-apache-hbase-on-amazon-s3-apache-hive-acid-transactions-on-hfds-and-amazon-s3/)
 - [AWS Glue launches AWS Glue Custom Connectors](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-glue-launches-aws-glue-custom-connectors/)
 - [AWS Config launches ability to save advanced queries](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-config-advanced-query-feature-adds-support-saving-queries/)
@@ -65,9 +68,6 @@
 - [Now compare different versions of your runbooks with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-systems-manager-lets-you-compare-different-versions-runbook/)
 - [AWS Snow Family now supports the Amazon Linux 2 operating system](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/)
 - [Announcing the General Availability of Amazon Corretto 11 for Linux on ARM32 and for Windows on x86 (32-bit)](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-general-availability-of-amazon-corretto-11-for-arm32-linux-on-arm32-and-for-windows-on-x86-32bit/)
-- [Amazon Connect now supports sharing attachments in chat](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-now-supports-sharing-attachments-in-chat/)
-- [Amazon Connect CTI Adapter for Salesforce now supports Contact Lens](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-cti-adapter-for-salesforce-now-supports-contact-lens/)
-- [AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-pricing-calculator-supports-windows-server-sql-server-workload-cost-estimates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

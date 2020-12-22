@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports MariaDB version 10.4](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-database-migration-service-now-supports-mariadb-version-10-4/)
 - [Amazon ECS announces the general availability of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-general-availability-of-ecs-deployment-circuit-breaker/)
 - [AWS Artifact makes compliance documents easy to  download and share](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-artifact-compliance-documents-easy-download-share/)
 - [Introducing Compliant Framework for Federal and DoD Workloads in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-compliant-framework-federal-dod-workloads-aws-govcloud-us/)
@@ -67,7 +68,6 @@
 - [AWS Config launches ability to save advanced queries](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-config-advanced-query-feature-adds-support-saving-queries/)
 - [Use AWS Secrets Manager to rotate your AWS Data Migration Service source and target database credentials](https://aws.amazon.com/about-aws/whats-new/2020/12/use-aws-secrets-manager-rotate-aws-data-migration-service-source-target-database-credentials/)
 - [Now compare different versions of your runbooks with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-systems-manager-lets-you-compare-different-versions-runbook/)
-- [AWS Snow Family now supports the Amazon Linux 2 operating system](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

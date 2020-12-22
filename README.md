@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS announces the general availability of ECS Deployment Circuit Breaker](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ecs-announces-the-general-availability-of-ecs-deployment-circuit-breaker/)
 - [AWS Artifact makes compliance documents easy to  download and share](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-artifact-compliance-documents-easy-download-share/)
 - [Introducing Compliant Framework for Federal and DoD Workloads in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-compliant-framework-federal-dod-workloads-aws-govcloud-us/)
 - [AWS App2Container now supports remote execution of containerization workflows](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-app2container-supports-remote-execution-containerization-workflows/)
@@ -67,7 +68,6 @@
 - [Use AWS Secrets Manager to rotate your AWS Data Migration Service source and target database credentials](https://aws.amazon.com/about-aws/whats-new/2020/12/use-aws-secrets-manager-rotate-aws-data-migration-service-source-target-database-credentials/)
 - [Now compare different versions of your runbooks with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-systems-manager-lets-you-compare-different-versions-runbook/)
 - [AWS Snow Family now supports the Amazon Linux 2 operating system](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/)
-- [Announcing the General Availability of Amazon Corretto 11 for Linux on ARM32 and for Windows on x86 (32-bit)](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-the-general-availability-of-amazon-corretto-11-for-arm32-linux-on-arm32-and-for-windows-on-x86-32bit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

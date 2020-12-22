@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports sharing attachments in chat](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-now-supports-sharing-attachments-in-chat/)
 - [Amazon Connect CTI Adapter for Salesforce now supports Contact Lens](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-cti-adapter-for-salesforce-now-supports-contact-lens/)
 - [AWS Snow Family now supports the Amazon Linux 2 operating system](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/)
 - [AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-pricing-calculator-supports-windows-server-sql-server-workload-cost-estimates/)
@@ -67,7 +68,6 @@
 - [PartiQL for DynamoDB now is supported in 23 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/partiql-for-dynamodb-now-is-supported-in-23-aws-regions/)
 - [New IAM condition keys for Amazon S3 limit requests to buckets owned by specific AWS accounts, and to specific TLS versions](https://aws.amazon.com/about-aws/whats-new/2020/12/new-iam-condition-keys-amazon-s3-limit-requests-buckets-owned-specific-aws-accounts-specific-tls-versions/)
 - [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-database-migration-service-now-supports-amazon-documentdb-as-a-source/)
-- [AWS CodeBuild is now available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codebuild-is-now-available-in-the-africa-cape-town-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

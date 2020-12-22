@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect CTI Adapter for Salesforce now supports Contact Lens](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-connect-cti-adapter-for-salesforce-now-supports-contact-lens/)
+- [AWS Snow Family now supports the Amazon Linux 2 operating system](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-snowball-edge-supports-amazon-linux-2-operating-systems/)
 - [AWS Pricing Calculator now supports Windows Server and SQL Server workload cost estimates](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-pricing-calculator-supports-windows-server-sql-server-workload-cost-estimates/)
 - [Now launch Amazon SageMaker Studio Notebooks backed by Spark in Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2020/12/now-launch-amazon-sagemaker-studio-notebooks-backed-spark-amazon-emr/)
 - [You now can use PartiQL with NoSQL Workbench to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2020/12/you-now-can-use-partiql-with-nosql-workbench-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
@@ -66,8 +68,6 @@
 - [New IAM condition keys for Amazon S3 limit requests to buckets owned by specific AWS accounts, and to specific TLS versions](https://aws.amazon.com/about-aws/whats-new/2020/12/new-iam-condition-keys-amazon-s3-limit-requests-buckets-owned-specific-aws-accounts-specific-tls-versions/)
 - [AWS Database Migration Service now supports Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-database-migration-service-now-supports-amazon-documentdb-as-a-source/)
 - [AWS CodeBuild is now available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codebuild-is-now-available-in-the-africa-cape-town-region/)
-- [Amazon Macie now available in AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-macie-available-aws-cape-town-milan-bahrain-regions/)
-- [Amazon Transcribe Medical now supports both streaming and batch transcription of multi-channel audio](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-transcribe-medical-now-supports-both-streaming-and-batch-transcription-of-multi-channel-audio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

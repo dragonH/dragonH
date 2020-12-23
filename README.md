@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New versions of MySQL and PostgreSQL now available on Amazon RDS for Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/new-versions-mysql-postgresql-available-amazon-rds-outposts/)
+- [AWS CodePipeline now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-available-hong-kong/)
 - [Service Quotas now supports tagging and Attribute-Based Access Control (ABAC)](https://aws.amazon.com/about-aws/whats-new/2020/12/service-quotas-now-supports-tagging-and-attribute-based-access-control-abac/)
 - [Introducing Service Workbench on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-service-workbench-on-aws/)
 - [Introducing Video on Demand on AWS v5.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-video-on-demand-on-aws-v5-2/)
@@ -66,8 +68,6 @@
 - [FreeRTOS now supports over-the-air update (OTA) for multiple file types](https://aws.amazon.com/about-aws/whats-new/2020/12/freertos-now-supports-over-the-air-update-ota-for-multiple-file-types/)
 - [Amazon GameLift Updates Server SDK Supporting Unity 2020 and Unreal 4.25](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-gamelift-updates-server-sdk-supporting-unity-2020-unreal/)
 - [Amazon QuickSight enhances dashboard performance with Dynamic Querying and other dataset optimizations](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-enhances-dashboard-performance-with-dynamic-querying-and-other-dataset-optimizations/)
-- [Introducing process check rules with AWS Config conformance packs](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-process-checks-aws-config-conformance-packs/)
-- [Updated AWS IoT Device Tester for FreeRTOS and AWS IoT Device Tester for AWS IoT Greengrass are now available](https://aws.amazon.com/about-aws/whats-new/2020/12/updated-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-now-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

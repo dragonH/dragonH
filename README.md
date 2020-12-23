@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Service Quotas now supports tagging and Attribute-Based Access Control (ABAC)](https://aws.amazon.com/about-aws/whats-new/2020/12/service-quotas-now-supports-tagging-and-attribute-based-access-control-abac/)
+- [Introducing Service Workbench on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-service-workbench-on-aws/)
 - [Introducing Video on Demand on AWS v5.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-video-on-demand-on-aws-v5-2/)
 - [Customer Owned IP generally available for Amazon RDS on Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/customer-owned-ip-generally-available-amazon-rds-outposts/)
 - [Introducing FHIR Works on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-fhir-works-on-aws/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight enhances dashboard performance with Dynamic Querying and other dataset optimizations](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-enhances-dashboard-performance-with-dynamic-querying-and-other-dataset-optimizations/)
 - [Introducing process check rules with AWS Config conformance packs](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-process-checks-aws-config-conformance-packs/)
 - [Updated AWS IoT Device Tester for FreeRTOS and AWS IoT Device Tester for AWS IoT Greengrass are now available](https://aws.amazon.com/about-aws/whats-new/2020/12/updated-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-now-available/)
-- [AWS WAF Now Available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-waf-now-available-in-aws-govcloud-us-east-region/)
-- [Amazon EC2 M6g, C6g and R6g instances powered by AWS Graviton2 processors are now available in South America (Sao Paulo) and AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-m6g-c6g-and-r6g-instances-powered-by-aws-graviton2-processors-are-now-available-in-south-america-and-aws-gov-cloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

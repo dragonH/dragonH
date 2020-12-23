@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Video on Demand on AWS v5.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-video-on-demand-on-aws-v5-2/)
+- [Customer Owned IP generally available for Amazon RDS on Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/customer-owned-ip-generally-available-amazon-rds-outposts/)
 - [Introducing FHIR Works on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-fhir-works-on-aws/)
 - [FreeRTOS now supports over-the-air update (OTA) for multiple file types](https://aws.amazon.com/about-aws/whats-new/2020/12/freertos-now-supports-over-the-air-update-ota-for-multiple-file-types/)
 - [Amazon GameLift Updates Server SDK Supporting Unity 2020 and Unreal 4.25](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-gamelift-updates-server-sdk-supporting-unity-2020-unreal/)
@@ -66,8 +68,6 @@
 - [Updated AWS IoT Device Tester for FreeRTOS and AWS IoT Device Tester for AWS IoT Greengrass are now available](https://aws.amazon.com/about-aws/whats-new/2020/12/updated-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-now-available/)
 - [AWS WAF Now Available in AWS GovCloud (US-East) Region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-waf-now-available-in-aws-govcloud-us-east-region/)
 - [Amazon EC2 M6g, C6g and R6g instances powered by AWS Graviton2 processors are now available in South America (Sao Paulo) and AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-ec2-m6g-c6g-and-r6g-instances-powered-by-aws-graviton2-processors-are-now-available-in-south-america-and-aws-gov-cloud-regions/)
-- [AWS OpsHub for AWS Snow Family is now available for Linux](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-opshub-for-aws-snow-family-is-now-available-for-linux/)
-- [AWS Database Migration Service now supports parallel apply when using Redshift as a target during on-going replications](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-database-migration-service-supports-parallel-apply-cdc-mode-using-redshift-target/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

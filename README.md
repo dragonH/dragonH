@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports the db.r5.24xlarge instance type](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-neptune-now-supports-the-db-r5-24xlarge-instance-type/)
 - [Host resource groups now provides APIs along with the ability to add existing Dedicated Hosts to further simplify your BYOL experience](https://aws.amazon.com/about-aws/whats-new/2020/12/host-resource-groups-now-provides-apis-ability-to-add-existing-dedicated-hosts/)
 - [Provisioned product referencing is now available in AWS Service Catalog](https://aws.amazon.com/about-aws/whats-new/2020/12/provisioned-product-referencing-available-aws-service-catalog/)
 - [Announcing the first AWS Wavelength Zone in South Korea](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-first-aws-wavelength-zone-in-south-korea/)
@@ -67,7 +68,6 @@
 - [AWS CodePipeline now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-available-hong-kong/)
 - [Service Quotas now supports tagging and Attribute-Based Access Control (ABAC)](https://aws.amazon.com/about-aws/whats-new/2020/12/service-quotas-now-supports-tagging-and-attribute-based-access-control-abac/)
 - [Introducing Service Workbench on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-service-workbench-on-aws/)
-- [Introducing Video on Demand on AWS v5.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-video-on-demand-on-aws-v5-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

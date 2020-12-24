@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Host resource groups now provides APIs along with the ability to add existing Dedicated Hosts to further simplify your BYOL experience](https://aws.amazon.com/about-aws/whats-new/2020/12/host-resource-groups-now-provides-apis-ability-to-add-existing-dedicated-hosts/)
+- [Provisioned product referencing is now available in AWS Service Catalog](https://aws.amazon.com/about-aws/whats-new/2020/12/provisioned-product-referencing-available-aws-service-catalog/)
+- [Announcing the first AWS Wavelength Zone in South Korea](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-first-aws-wavelength-zone-in-south-korea/)
 - [Microsoft SQL Server point-in-time recovery is now generally available for Amazon RDS on VMware](https://aws.amazon.com/about-aws/whats-new/2020/12/microsoft-sql-server-point-in-time-recovery-is-now-generally-available-for-amazon-rds-on-vmware/)
 - [AWS Compute Optimizer Now Delivers Recommendations For AWS Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/)
 - [New versions of MySQL and PostgreSQL now available on Amazon RDS for Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/new-versions-mysql-postgresql-available-amazon-rds-outposts/)
@@ -65,9 +68,6 @@
 - [Service Quotas now supports tagging and Attribute-Based Access Control (ABAC)](https://aws.amazon.com/about-aws/whats-new/2020/12/service-quotas-now-supports-tagging-and-attribute-based-access-control-abac/)
 - [Introducing Service Workbench on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-service-workbench-on-aws/)
 - [Introducing Video on Demand on AWS v5.2](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-video-on-demand-on-aws-v5-2/)
-- [Customer Owned IP generally available for Amazon RDS on Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/customer-owned-ip-generally-available-amazon-rds-outposts/)
-- [Introducing FHIR Works on AWS](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-fhir-works-on-aws/)
-- [FreeRTOS now supports over-the-air update (OTA) for multiple file types](https://aws.amazon.com/about-aws/whats-new/2020/12/freertos-now-supports-over-the-air-update-ota-for-multiple-file-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

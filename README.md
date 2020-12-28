@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-available-canada-sao-paulo-regions/)
 - [Announcing new AWS Wavelength Zones in Denver and Seattle](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zones-denver-seattle/)
 - [AWS Service Catalog now supports TagOption Sharing](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-service-catalog-now-supports-tagoption-sharing/)
 - [Amazon Neptune now supports the db.r5.24xlarge instance type](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-neptune-now-supports-the-db-r5-24xlarge-instance-type/)
@@ -67,7 +68,6 @@
 - [Microsoft SQL Server point-in-time recovery is now generally available for Amazon RDS on VMware](https://aws.amazon.com/about-aws/whats-new/2020/12/microsoft-sql-server-point-in-time-recovery-is-now-generally-available-for-amazon-rds-on-vmware/)
 - [AWS Compute Optimizer Now Delivers Recommendations For AWS Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/)
 - [New versions of MySQL and PostgreSQL now available on Amazon RDS for Outposts](https://aws.amazon.com/about-aws/whats-new/2020/12/new-versions-mysql-postgresql-available-amazon-rds-outposts/)
-- [AWS CodePipeline now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-available-hong-kong/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

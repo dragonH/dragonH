@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkDocs offers additional collaboration controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workdocs-offers-collaboration-controls-throughout-android-app/)
 - [Amazon AppStream 2.0 adds support for real-time audio-video](https://aws.amazon.com/about-aws/whats-new/2020/12/appstream-2-0-adds-support-for-realtime-audio-video/)
 - [Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-available-canada-sao-paulo-regions/)
 - [Announcing new AWS Wavelength Zones in Denver and Seattle](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zones-denver-seattle/)
@@ -67,7 +68,6 @@
 - [Provisioned product referencing is now available in AWS Service Catalog](https://aws.amazon.com/about-aws/whats-new/2020/12/provisioned-product-referencing-available-aws-service-catalog/)
 - [Announcing the first AWS Wavelength Zone in South Korea](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-first-aws-wavelength-zone-in-south-korea/)
 - [Microsoft SQL Server point-in-time recovery is now generally available for Amazon RDS on VMware](https://aws.amazon.com/about-aws/whats-new/2020/12/microsoft-sql-server-point-in-time-recovery-is-now-generally-available-for-amazon-rds-on-vmware/)
-- [AWS Compute Optimizer Now Delivers Recommendations For AWS Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-compute-optimizer-delivers-recommendations-aws-lambda-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds support for Apache Kafka version 2.7.0](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-msk-adds-support-for-apache-kafka-version-2-7-0/)
 - [Publish Oracle Management Agent logs from Amazon RDS for Oracle to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2020/12/publish-oracle-management-agent-logs-from-amazon-rds-for-oracle-to-amazon-cloudwatch-logs/)
 - [Amazon WorkDocs offers additional collaboration controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workdocs-offers-collaboration-controls-throughout-android-app/)
 - [Amazon AppStream 2.0 adds support for real-time audio-video](https://aws.amazon.com/about-aws/whats-new/2020/12/appstream-2-0-adds-support-for-realtime-audio-video/)
@@ -67,7 +68,6 @@
 - [Amazon Neptune now supports the db.r5.24xlarge instance type](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-neptune-now-supports-the-db-r5-24xlarge-instance-type/)
 - [Host resource groups now provides APIs along with the ability to add existing Dedicated Hosts to further simplify your BYOL experience](https://aws.amazon.com/about-aws/whats-new/2020/12/host-resource-groups-now-provides-apis-ability-to-add-existing-dedicated-hosts/)
 - [Provisioned product referencing is now available in AWS Service Catalog](https://aws.amazon.com/about-aws/whats-new/2020/12/provisioned-product-referencing-available-aws-service-catalog/)
-- [Announcing the first AWS Wavelength Zone in South Korea](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-first-aws-wavelength-zone-in-south-korea/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline supports deployments with CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-supports-deployments-with-cloudformation-stacksets/)
+- [AWS IoT SiteWise Monitor now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/)
 - [Amazon Elastic Container Service launches new management console](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-elastic-container-service-launches-new-management-console/)
 - [Introducing AWS Data Exchange Publisher Coordinator and Subscriber Coordinator](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-data-exchange-publisher-coordinator-and-subscribcriber-coordinator/)
 - [Amazon AppStream 2.0 adds support for real-time audio-video](https://aws.amazon.com/about-aws/whats-new/2020/12/appstream-2-0-adds-support-for-realtime-audio-video/)
@@ -66,8 +68,6 @@
 - [Amazon WorkDocs offers additional collaboration controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workdocs-offers-collaboration-controls-throughout-android-app/)
 - [Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-available-canada-sao-paulo-regions/)
 - [Announcing new AWS Wavelength Zones in Denver and Seattle](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zones-denver-seattle/)
-- [AWS Service Catalog now supports TagOption Sharing](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-service-catalog-now-supports-tagoption-sharing/)
-- [Amazon Neptune now supports the db.r5.24xlarge instance type](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-neptune-now-supports-the-db-r5-24xlarge-instance-type/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

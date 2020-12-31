@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower console shows more detail about external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-control-tower-console-shows-more-detail-about-external-aws-config-rules/)
 - [AWS CodePipeline supports deployments with CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-supports-deployments-with-cloudformation-stacksets/)
 - [AWS IoT SiteWise Monitor now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/)
 - [Amazon Elastic Container Service launches new management console](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-elastic-container-service-launches-new-management-console/)
@@ -67,7 +68,6 @@
 - [Publish Oracle Management Agent logs from Amazon RDS for Oracle to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2020/12/publish-oracle-management-agent-logs-from-amazon-rds-for-oracle-to-amazon-cloudwatch-logs/)
 - [Amazon WorkDocs offers additional collaboration controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workdocs-offers-collaboration-controls-throughout-android-app/)
 - [Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-available-canada-sao-paulo-regions/)
-- [Announcing new AWS Wavelength Zones in Denver and Seattle](https://aws.amazon.com/about-aws/whats-new/2020/12/announcing-new-aws-wavelength-zones-denver-seattle/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

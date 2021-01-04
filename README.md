@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the APN Foundations ISV Partner Path Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-isv-partner-path-navigate-track/)
+- [Announcing the APN Foundations Advanced Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-advanced-navigate-track/)
 - [New AWS Solutions Consulting Offer - Accelerated Cloud Engineering FedRAMP Launchpad](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-accelerated-cloud-engineering-fedramp-launchpad/)
 - [New AWS Solutions Consulting Offer - Voicemail Queues for Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-voicemail-queues-for-amazon-connect/)
 - [Amazon RDS for Oracle now supports October 2020 Oracle Patch Set Updates (PSU) for 11.2.0.4 Enterprise Edition, and allows setting database system events](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-oracle-supports-october-2020-oracle-patch-set-updates/)
@@ -66,8 +68,6 @@
 - [AWS IoT SiteWise Monitor now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/)
 - [Amazon Elastic Container Service launches new management console](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-elastic-container-service-launches-new-management-console/)
 - [Introducing AWS Data Exchange Publisher Coordinator and Subscriber Coordinator](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-data-exchange-publisher-coordinator-and-subscribcriber-coordinator/)
-- [Amazon AppStream 2.0 adds support for real-time audio-video](https://aws.amazon.com/about-aws/whats-new/2020/12/appstream-2-0-adds-support-for-realtime-audio-video/)
-- [Amazon MSK adds support for Apache Kafka version 2.7.0](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-msk-adds-support-for-apache-kafka-version-2-7-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

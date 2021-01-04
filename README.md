@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Accelerated Cloud Engineering FedRAMP Launchpad](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-accelerated-cloud-engineering-fedramp-launchpad/)
+- [New AWS Solutions Consulting Offer - Voicemail Queues for Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-voicemail-queues-for-amazon-connect/)
+- [Amazon RDS for Oracle now supports October 2020 Oracle Patch Set Updates (PSU) for 11.2.0.4 Enterprise Edition, and allows setting database system events](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-oracle-supports-october-2020-oracle-patch-set-updates/)
 - [AWS Control Tower console shows more detail about external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-control-tower-console-shows-more-detail-about-external-aws-config-rules/)
 - [AWS CodePipeline supports deployments with CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-supports-deployments-with-cloudformation-stacksets/)
 - [AWS IoT SiteWise Monitor now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/)
@@ -65,9 +68,6 @@
 - [Introducing AWS Data Exchange Publisher Coordinator and Subscriber Coordinator](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-data-exchange-publisher-coordinator-and-subscribcriber-coordinator/)
 - [Amazon AppStream 2.0 adds support for real-time audio-video](https://aws.amazon.com/about-aws/whats-new/2020/12/appstream-2-0-adds-support-for-realtime-audio-video/)
 - [Amazon MSK adds support for Apache Kafka version 2.7.0](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-msk-adds-support-for-apache-kafka-version-2-7-0/)
-- [Publish Oracle Management Agent logs from Amazon RDS for Oracle to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2020/12/publish-oracle-management-agent-logs-from-amazon-rds-for-oracle-to-amazon-cloudwatch-logs/)
-- [Amazon WorkDocs offers additional collaboration controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-workdocs-offers-collaboration-controls-throughout-android-app/)
-- [Amazon QuickSight is now Available in Canada (Central) and South America (Sao Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-quicksight-available-canada-sao-paulo-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

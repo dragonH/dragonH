@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Certificate Manager is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-certificate-manager-is-now-fedramp-compliant/)
 - [Announcing the APN Foundations ISV Partner Path Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-isv-partner-path-navigate-track/)
 - [Announcing the APN Foundations Advanced Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-advanced-navigate-track/)
 - [New AWS Solutions Consulting Offer - Accelerated Cloud Engineering FedRAMP Launchpad](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-accelerated-cloud-engineering-fedramp-launchpad/)
@@ -67,7 +68,6 @@
 - [AWS CodePipeline supports deployments with CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-supports-deployments-with-cloudformation-stacksets/)
 - [AWS IoT SiteWise Monitor now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/)
 - [Amazon Elastic Container Service launches new management console](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-elastic-container-service-launches-new-management-console/)
-- [Introducing AWS Data Exchange Publisher Coordinator and Subscriber Coordinator](https://aws.amazon.com/about-aws/whats-new/2020/12/introducing-aws-data-exchange-publisher-coordinator-and-subscribcriber-coordinator/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

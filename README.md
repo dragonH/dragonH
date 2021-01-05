@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R5B Instances now certified for SAP workloads](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-r5b-instances-now-certified-for-sap-workloads/)
 - [AWS Certificate Manager is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-certificate-manager-is-now-fedramp-compliant/)
 - [Announcing the APN Foundations ISV Partner Path Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-isv-partner-path-navigate-track/)
 - [Announcing the APN Foundations Advanced Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-advanced-navigate-track/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower console shows more detail about external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-control-tower-console-shows-more-detail-about-external-aws-config-rules/)
 - [AWS CodePipeline supports deployments with CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-codepipeline-supports-deployments-with-cloudformation-stacksets/)
 - [AWS IoT SiteWise Monitor now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2020/12/aws-iot-sitewise-monitor-supports-aws-cloudformation/)
-- [Amazon Elastic Container Service launches new management console](https://aws.amazon.com/about-aws/whats-new/2020/12/amazon-elastic-container-service-launches-new-management-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

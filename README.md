@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling now allows to define 40 instance types when defining Mixed Instances Policy](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-auto-scaling-allows-define-40-instance-types-defining-mixed-instances-policy/)
+- [Amazon CloudSearch announces updates to its search instances](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudsearch-announces-updates-search-instances/)
+- [FreeRTOS includes pre-configured projects for software emulations of microcontroller cores using QEMU open source emulator](https://aws.amazon.com/about-aws/whats-new/2021/01/freertos-includes-pre-configured-projects-for-software-emulations-of-microcontroller-cores-using-qemu-open-source-emulator/)
 - [Amazon AppFlow now supports Salesforce Pardot](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appflow-supports-salesforce-pardot/)
 - [Amazon SQS announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-announces-tiered-pricing/)
 - [New beta exam for AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/about-aws/whats-new/2021/01/new-beta-exam-for-aws-certified-sysops-administrator-associate/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 R5B Instances now certified for SAP workloads](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-r5b-instances-now-certified-for-sap-workloads/)
 - [AWS Certificate Manager is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-certificate-manager-is-now-fedramp-compliant/)
 - [Announcing the APN Foundations ISV Partner Path Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-isv-partner-path-navigate-track/)
-- [Announcing the APN Foundations Advanced Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-advanced-navigate-track/)
-- [New AWS Solutions Consulting Offer - Accelerated Cloud Engineering FedRAMP Launchpad](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-accelerated-cloud-engineering-fedramp-launchpad/)
-- [New AWS Solutions Consulting Offer - Voicemail Queues for Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-voicemail-queues-for-amazon-connect/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

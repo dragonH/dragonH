@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now supports Salesforce Pardot](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appflow-supports-salesforce-pardot/)
 - [Amazon SQS announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-announces-tiered-pricing/)
 - [New beta exam for AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/about-aws/whats-new/2021/01/new-beta-exam-for-aws-certified-sysops-administrator-associate/)
 - [Amazon Connect launches new contact search page with an enhanced user experience](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-connect-launches-new-contact-search-page-with-an-enhanced-user-experience/)
@@ -67,7 +68,6 @@
 - [Announcing the APN Foundations Advanced Navigate track](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-the-apn-foundations-advanced-navigate-track/)
 - [New AWS Solutions Consulting Offer - Accelerated Cloud Engineering FedRAMP Launchpad](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-accelerated-cloud-engineering-fedramp-launchpad/)
 - [New AWS Solutions Consulting Offer - Voicemail Queues for Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-solutions-consulting-offer-voicemail-queues-for-amazon-connect/)
-- [Amazon RDS for Oracle now supports October 2020 Oracle Patch Set Updates (PSU) for 11.2.0.4 Enterprise Edition, and allows setting database system events](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-oracle-supports-october-2020-oracle-patch-set-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

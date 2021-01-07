@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Transfer Family support for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-aws-transfer-family-support-for-amazon-efs/)
+- [Achieve faster database failover with Amazon Web Services MySQL JDBC Driver - now in preview](https://aws.amazon.com/about-aws/whats-new/2021/01/achieve-faster-database-failover-with-amazon-web-services-mysql-jdbc-driver-now-in-preview/)
 - [AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/)
 - [Amazon EC2 Auto Scaling now allows to define 40 instance types when defining Mixed Instances Policy](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-auto-scaling-allows-define-40-instance-types-defining-mixed-instances-policy/)
 - [Amazon CloudSearch announces updates to its search instances](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudsearch-announces-updates-search-instances/)
@@ -66,8 +68,6 @@
 - [Amazon SQS announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-announces-tiered-pricing/)
 - [New beta exam for AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/about-aws/whats-new/2021/01/new-beta-exam-for-aws-certified-sysops-administrator-associate/)
 - [Amazon Connect launches new contact search page with an enhanced user experience](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-connect-launches-new-contact-search-page-with-an-enhanced-user-experience/)
-- [Amazon EC2 R5B Instances now certified for SAP workloads](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-r5b-instances-now-certified-for-sap-workloads/)
-- [AWS Certificate Manager is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-certificate-manager-is-now-fedramp-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon API Gateway now supports data mapping in HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-api-gateway-supports-data-mapping-http-apis/)
+- [AWS Network Firewall is now available in the Asia Pacific (Sydney) Region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-network-firewall-is-now-available-in-the-asia-pacific-sydney-region/)
+- [New AWS Config console streamlines resource configuration and compliance management](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-config-console-streamlines-resource-configuration-compliance-management/)
 - [Introducing AWS Transfer Family support for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-aws-transfer-family-support-for-amazon-efs/)
 - [Achieve faster database failover with Amazon Web Services MySQL JDBC Driver - now in preview](https://aws.amazon.com/about-aws/whats-new/2021/01/achieve-faster-database-failover-with-amazon-web-services-mysql-jdbc-driver-now-in-preview/)
 - [AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/)
@@ -65,9 +68,6 @@
 - [Amazon CloudSearch announces updates to its search instances](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudsearch-announces-updates-search-instances/)
 - [FreeRTOS includes pre-configured projects for software emulations of microcontroller cores using QEMU open source emulator](https://aws.amazon.com/about-aws/whats-new/2021/01/freertos-includes-pre-configured-projects-for-software-emulations-of-microcontroller-cores-using-qemu-open-source-emulator/)
 - [Amazon AppFlow now supports Salesforce Pardot](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appflow-supports-salesforce-pardot/)
-- [Amazon SQS announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-announces-tiered-pricing/)
-- [New beta exam for AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/about-aws/whats-new/2021/01/new-beta-exam-for-aws-certified-sysops-administrator-associate/)
-- [Amazon Connect launches new contact search page with an enhanced user experience](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-connect-launches-new-contact-search-page-with-an-enhanced-user-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

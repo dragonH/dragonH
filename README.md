@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-achieves-pci-dss-certification/)
+- [AWS App Mesh achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-app-mesh-achieves-pci-dss-certification/)
+- [AWS CloudFormation now supports AWS DataSync](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloudformation-supports-aws-datasync/)
 - [Amazon API Gateway now supports data mapping in HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-api-gateway-supports-data-mapping-http-apis/)
 - [AWS Network Firewall is now available in the Asia Pacific (Sydney) Region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-network-firewall-is-now-available-in-the-asia-pacific-sydney-region/)
 - [New AWS Config console streamlines resource configuration and compliance management](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-config-console-streamlines-resource-configuration-compliance-management/)
@@ -65,9 +68,6 @@
 - [Achieve faster database failover with Amazon Web Services MySQL JDBC Driver - now in preview](https://aws.amazon.com/about-aws/whats-new/2021/01/achieve-faster-database-failover-with-amazon-web-services-mysql-jdbc-driver-now-in-preview/)
 - [AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/)
 - [Amazon EC2 Auto Scaling now allows to define 40 instance types when defining Mixed Instances Policy](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-auto-scaling-allows-define-40-instance-types-defining-mixed-instances-policy/)
-- [Amazon CloudSearch announces updates to its search instances](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudsearch-announces-updates-search-instances/)
-- [FreeRTOS includes pre-configured projects for software emulations of microcontroller cores using QEMU open source emulator](https://aws.amazon.com/about-aws/whats-new/2021/01/freertos-includes-pre-configured-projects-for-software-emulations-of-microcontroller-cores-using-qemu-open-source-emulator/)
-- [Amazon AppFlow now supports Salesforce Pardot](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appflow-supports-salesforce-pardot/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

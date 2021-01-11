@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/)
+- [Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-mysql-5-6-to-5-7/)
 - [Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-api-supports-internet-protocol-version-6/)
 - [Amazon EMR now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-now-supports-apache-ranger-for-fine-grained-data-access-control/)
 - [AWS Cloud Map achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-achieves-pci-dss-certification/)
@@ -66,8 +68,6 @@
 - [Amazon API Gateway now supports data mapping in HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-api-gateway-supports-data-mapping-http-apis/)
 - [AWS Network Firewall is now available in the Asia Pacific (Sydney) Region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-network-firewall-is-now-available-in-the-asia-pacific-sydney-region/)
 - [New AWS Config console streamlines resource configuration and compliance management](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-config-console-streamlines-resource-configuration-compliance-management/)
-- [Introducing AWS Transfer Family support for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-aws-transfer-family-support-for-amazon-efs/)
-- [Achieve faster database failover with Amazon Web Services MySQL JDBC Driver - now in preview](https://aws.amazon.com/about-aws/whats-new/2021/01/achieve-faster-database-failover-with-amazon-web-services-mysql-jdbc-driver-now-in-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

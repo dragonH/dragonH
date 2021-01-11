@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-api-supports-internet-protocol-version-6/)
 - [Amazon EMR now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-now-supports-apache-ranger-for-fine-grained-data-access-control/)
 - [AWS Cloud Map achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-achieves-pci-dss-certification/)
 - [AWS App Mesh achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-app-mesh-achieves-pci-dss-certification/)
@@ -67,7 +68,6 @@
 - [New AWS Config console streamlines resource configuration and compliance management](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-config-console-streamlines-resource-configuration-compliance-management/)
 - [Introducing AWS Transfer Family support for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-aws-transfer-family-support-for-amazon-efs/)
 - [Achieve faster database failover with Amazon Web Services MySQL JDBC Driver - now in preview](https://aws.amazon.com/about-aws/whats-new/2021/01/achieve-faster-database-failover-with-amazon-web-services-mysql-jdbc-driver-now-in-preview/)
-- [AWS Step Functions adds support for AWS Glue DataBrew jobs to prepare data in analytics and machine learning workflows](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-step-functions-support-aws-glue-databrew-jobs-data-analytics-machine-learning-workflows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

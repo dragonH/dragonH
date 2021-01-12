@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
+- [Amazon Lightsail now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-lightsail-supports-ipv6/)
 - [Announcing  support for Methods via Uniform Function Call syntax in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing--support-for-methods-via-uniform-function-call-syntax/)
 - [Amazon Redshift now supports fine-grained access control on COPY and UNLOAD commands](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-supports-fine-grained-access-control-copy-unload-commands/)
 - [Announcing the global expansion of AWS Contact Center Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-global-expansion-aws-contact-center-intelligence-solutions/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-mysql-5-6-to-5-7/)
 - [Amazon EC2 API now supports Internet Protocol Version 6 (IPv6)](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-api-supports-internet-protocol-version-6/)
 - [Amazon EMR now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-now-supports-apache-ranger-for-fine-grained-data-access-control/)
-- [AWS Cloud Map achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-achieves-pci-dss-certification/)
-- [AWS App Mesh achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-app-mesh-achieves-pci-dss-certification/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift now supports fine-grained access control on COPY and UNLOAD commands](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-supports-fine-grained-access-control-copy-unload-commands/)
+- [Announcing the global expansion of AWS Contact Center Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-global-expansion-aws-contact-center-intelligence-solutions/)
 - [Customers can now tag resources in the Amazon Braket console](https://aws.amazon.com/about-aws/whats-new/2021/01/customers-can-now-tag-resources-in-the-amazon-braket-console-/)
 - [Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/)
 - [Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-mysql-5-6-to-5-7/)
@@ -66,8 +68,6 @@
 - [AWS Cloud Map achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-achieves-pci-dss-certification/)
 - [AWS App Mesh achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-app-mesh-achieves-pci-dss-certification/)
 - [AWS CloudFormation now supports AWS DataSync](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloudformation-supports-aws-datasync/)
-- [Amazon API Gateway now supports data mapping in HTTP APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-api-gateway-supports-data-mapping-http-apis/)
-- [AWS Network Firewall is now available in the Asia Pacific (Sydney) Region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-network-firewall-is-now-available-in-the-asia-pacific-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snow Family console further simplifies Snow data transfer and compute job creation and management](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snow-family-console-simplifies-snow-data-transfer-compute-job-creation-management/)
 - [Amazon EMR Release 5.32 now supports Amazon EMR on EKS, and EMR Studio Preview](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-release-5-32-supports-emr-eks-emr-studio-preview/)
 - [Amazon AppStream 2.0 now supports using smart cards for Active Directory domain login and streaming applications](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appstream-2-0-now-supports-using-smart-cards-for-active-directory-domain-login-and-streaming-applications/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 12.5, 11.10, 10.15, 9.6.20, and 9.5.24](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-postgresql-supports-new-minor-versions/)
@@ -67,7 +68,6 @@
 - [Announcing  support for Methods via Uniform Function Call syntax in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing--support-for-methods-via-uniform-function-call-syntax/)
 - [Amazon Redshift now supports fine-grained access control on COPY and UNLOAD commands](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-supports-fine-grained-access-control-copy-unload-commands/)
 - [Announcing the global expansion of AWS Contact Center Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-global-expansion-aws-contact-center-intelligence-solutions/)
-- [Customers can now tag resources in the Amazon Braket console](https://aws.amazon.com/about-aws/whats-new/2021/01/customers-can-now-tag-resources-in-the-amazon-braket-console-/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

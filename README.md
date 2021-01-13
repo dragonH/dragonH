@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 now supports using smart cards for Active Directory domain login and streaming applications](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appstream-2-0-now-supports-using-smart-cards-for-active-directory-domain-login-and-streaming-applications/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 12.5, 11.10, 10.15, 9.6.20, and 9.5.24](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-postgresql-supports-new-minor-versions/)
 - [Amazon SNS adds support for message archiving and analytics via Kinesis Data Firehose subscriptions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-adds-support-for-message-archiving-and-analytics-via-kineses-data-firehose-subscriptions/)
 - [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
@@ -67,7 +68,6 @@
 - [Announcing the global expansion of AWS Contact Center Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-global-expansion-aws-contact-center-intelligence-solutions/)
 - [Customers can now tag resources in the Amazon Braket console](https://aws.amazon.com/about-aws/whats-new/2021/01/customers-can-now-tag-resources-in-the-amazon-braket-console-/)
 - [Monitor your Amazon Elastic File System (Amazon EFS) storage usage with Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/01/monitor-your-amazon-efs-storage-usage-with-amazon-cloudwatch/)
-- [Amazon Aurora supports in-place upgrades from MySQL 5.6 to 5.7](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-mysql-5-6-to-5-7/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

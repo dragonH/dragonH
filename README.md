@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amplify DataStore launches support for sorting and selectively syncing app data](https://aws.amazon.com/about-aws/whats-new/2021/01/amplify-datastore-launches-support-sorting-selectively-syncing-app-data/)
+- [New digital course: Configuring and Deploying VPCs with Multiple Subnets](https://aws.amazon.com/about-aws/whats-new/2021/01/new-digital-course-configuring-and-deploying-vpcs-with-multiple-subnets/)
+- [New digital course and lab: AWS Cloud Development Kit (CDK) Primer](https://aws.amazon.com/about-aws/whats-new/2021/01/new-digital-course-and-lab-aws-cloud-development-kit-cdk-primer/)
+- [New AWS Public Datasets available from the Allen Institute for Brain Science, the University of Alaska Fairbanks, IntelinAir, and others](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-public-datasets-available/)
 - [Announcing New Segmentation Capabilities for Amazon Pinpoint](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-segmentation-capabilities-amazon-pinpoint/)
 - [Amazon Fraud Detector launches ability to cancel in-progress model trainings](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fraud-detector-launches-ability-to-cancel-in-progress-model-trainings/)
 - [AWS Snow Family console further simplifies Snow data transfer and compute job creation and management](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snow-family-console-simplifies-snow-data-transfer-compute-job-creation-management/)
 - [Amazon EMR Release 5.32 now supports Amazon EMR on EKS, and EMR Studio Preview](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-release-5-32-supports-emr-eks-emr-studio-preview/)
 - [Amazon AppStream 2.0 now supports using smart cards for Active Directory domain login and streaming applications](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-appstream-2-0-now-supports-using-smart-cards-for-active-directory-domain-login-and-streaming-applications/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 12.5, 11.10, 10.15, 9.6.20, and 9.5.24](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-postgresql-supports-new-minor-versions/)
-- [Amazon SNS adds support for message archiving and analytics via Kinesis Data Firehose subscriptions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-adds-support-for-message-archiving-and-analytics-via-kineses-data-firehose-subscriptions/)
-- [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
-- [Amazon Lightsail now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-lightsail-supports-ipv6/)
-- [Announcing  support for Methods via Uniform Function Call syntax in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing--support-for-methods-via-uniform-function-call-syntax/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

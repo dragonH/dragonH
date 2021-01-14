@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing New Segmentation Capabilities for Amazon Pinpoint](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-segmentation-capabilities-amazon-pinpoint/)
 - [Amazon Fraud Detector launches ability to cancel in-progress model trainings](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fraud-detector-launches-ability-to-cancel-in-progress-model-trainings/)
 - [AWS Snow Family console further simplifies Snow data transfer and compute job creation and management](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snow-family-console-simplifies-snow-data-transfer-compute-job-creation-management/)
 - [Amazon EMR Release 5.32 now supports Amazon EMR on EKS, and EMR Studio Preview](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-emr-release-5-32-supports-emr-eks-emr-studio-preview/)
@@ -67,7 +68,6 @@
 - [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
 - [Amazon Lightsail now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-lightsail-supports-ipv6/)
 - [Announcing  support for Methods via Uniform Function Call syntax in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing--support-for-methods-via-uniform-function-call-syntax/)
-- [Amazon Redshift now supports fine-grained access control on COPY and UNLOAD commands](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-supports-fine-grained-access-control-copy-unload-commands/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

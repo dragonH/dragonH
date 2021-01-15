@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The graphical user interface of Porting Assistant for .NET is now open source](https://aws.amazon.com/about-aws/whats-new/2021/01/graphical-user-interface-of-porting-assistant-for-dotnet-now-open-source/)
 - [New Amazon Builders’ Library Article: Making retries safe with idempotent APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/new-abl-article-making-retries-safe-with-idempotent-APIs/)
 - [Amazon Rekognition Custom Labels is now available in the Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rekognition-custom-labels-available-additional-regions/)
 - [Amazon CloudWatch Container Insights now available on AWS Graviton2](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-container-insights-available-aws-graviton2/)
@@ -67,7 +68,6 @@
 - [Amplify DataStore launches support for sorting and selectively syncing app data](https://aws.amazon.com/about-aws/whats-new/2021/01/amplify-datastore-launches-support-sorting-selectively-syncing-app-data/)
 - [New digital course: Configuring and Deploying VPCs with Multiple Subnets](https://aws.amazon.com/about-aws/whats-new/2021/01/new-digital-course-configuring-and-deploying-vpcs-with-multiple-subnets/)
 - [New digital course and lab: AWS Cloud Development Kit (CDK) Primer](https://aws.amazon.com/about-aws/whats-new/2021/01/new-digital-course-and-lab-aws-cloud-development-kit-cdk-primer/)
-- [New AWS Public Datasets available from the Illumina, the University of Alaska Fairbanks, IntelinAir, and others](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-public-datasets-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

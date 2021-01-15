@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition Custom Labels is now available in the Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rekognition-custom-labels-available-additional-regions/)
 - [Amazon CloudWatch Container Insights now available on AWS Graviton2](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-container-insights-available-aws-graviton2/)
 - [Amazon EC2 X1 and X1e instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-x1-x1e-instances-now-available-additional-aws-regions/)
 - [Introducing update to Multi-Region Application Architecture](https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-update-to-multi-region-application-architecture/)
@@ -67,7 +68,6 @@
 - [New digital course and lab: AWS Cloud Development Kit (CDK) Primer](https://aws.amazon.com/about-aws/whats-new/2021/01/new-digital-course-and-lab-aws-cloud-development-kit-cdk-primer/)
 - [New AWS Public Datasets available from the Allen Institute for Brain Science, the University of Alaska Fairbanks, IntelinAir, and others](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-public-datasets-available/)
 - [Announcing New Segmentation Capabilities for Amazon Pinpoint](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-segmentation-capabilities-amazon-pinpoint/)
-- [Amazon Fraud Detector launches ability to cancel in-progress model trainings](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fraud-detector-launches-ability-to-cancel-in-progress-model-trainings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

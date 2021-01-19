@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SDK for Go version 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-sdk-for-go-version-2-now-generally-available/)
 - [Amazon ECS now supports VPC Endpoint policies](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ecs-supports-vpc-endpoint-policies/)
 - [Amazon CloudWatch Application Insights supports Oracle database monitoring](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-application-insights-supports-oracle-database-monitoring/)
 - [Introducing Federated Amazon EKS Clusters on AWS](https://aws.amazon.com/about-aws/whats-new/2021/01/introducing-federated-amazon-eks-clusters-aws/)
@@ -67,7 +68,6 @@
 - [The graphical user interface of Porting Assistant for .NET is now open source](https://aws.amazon.com/about-aws/whats-new/2021/01/graphical-user-interface-of-porting-assistant-for-dotnet-now-open-source/)
 - [New Amazon Builders’ Library Article: Making retries safe with idempotent APIs](https://aws.amazon.com/about-aws/whats-new/2021/01/new-abl-article-making-retries-safe-with-idempotent-APIs/)
 - [New AWS Public Datasets available from the Illumina, the University of Alaska Fairbanks, IntelinAir, and others](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-public-datasets-available/)
-- [Amazon Rekognition Custom Labels is now available in the Asia Pacific (Singapore), Asia Pacific (Sydney), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rekognition-custom-labels-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

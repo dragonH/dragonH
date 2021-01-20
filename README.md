@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P4d Instances now available in the Europe (Ireland) region](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-p4d-instances-now-available-in-the-europe-ireland-region/)
 - [New self-paced course about designing data lakes on edX and Coursera](https://aws.amazon.com/about-aws/whats-new/2021/01/new-self-paced-course-about-designing-data-lakes-on-edx-and-coursera/)
 - [AWS Certificate Manager Private Certificate Authority now supports additional certificate customization](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-certificate-manager-private-certificate-authority-additional-certificate-customization/)
 - [AWS SDK for Go version 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-sdk-for-go-version-2-now-generally-available/)
@@ -67,7 +68,6 @@
 - [Announcing three new digital courses for Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-three-new-digital-courses-for-amazon-s3/)
 - [PCI DSS compliance for AWS Wavelength](https://aws.amazon.com/about-aws/whats-new/2021/01/pci-dss-compliance-for-aws-wavelength/)
 - [Amazon RDS for PostgreSQL Supports pg_cron Extension for Scheduling Database Jobs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-postgresql-supports-pg-cron-extension-scheduling-database-jobs/)
-- [The graphical user interface of Porting Assistant for .NET is now open source](https://aws.amazon.com/about-aws/whats-new/2021/01/graphical-user-interface-of-porting-assistant-for-dotnet-now-open-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

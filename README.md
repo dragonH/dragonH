@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New partner training on migration, cloud governance, and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/01/new-partner-training-on-migration-cloud-governance-and-machine-learning/)
+- [Amazon Keyspaces (for Apache Cassandra) now supports JSON syntax to help you read and write data from other systems more easily](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-keyspaces-for-apache-cassandra-now-supports-json-syntax/)
+- [Amazon FSx now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-supports-fips-validated-endpoints/)
 - [Announcing CDK Support for AWS Chalice](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-cdk-support-aws-chalice/)
 - [Resource Groups Tagging API launches ResourceARNList parameter for the GetResources operation](https://aws.amazon.com/about-aws/whats-new/2021/01/resource-groups-tagging-api-launches-resourcearnlist-parameter-getresources-operation/)
 - [Amazon ECS announces increased service quotas for tasks per service and services per cluster](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ecs-increased-service-quotas-tasks-per-service-services-per-cluster/)
@@ -65,9 +68,6 @@
 - [Amazon Chime SDKs for iOS and Android now support screen share](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-chime-sdk-ios-android-support-screen-share/)
 - [Amazon RDS for MariaDB now supports version 10.5.8](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-for-mariadb-supports-version-10-5-8/)
 - [Amazon EC2 P4d Instances now available in the Europe (Ireland) region](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ec2-p4d-instances-now-available-in-the-europe-ireland-region/)
-- [New self-paced course about designing data lakes on edX and Coursera](https://aws.amazon.com/about-aws/whats-new/2021/01/new-self-paced-course-about-designing-data-lakes-on-edx-and-coursera/)
-- [AWS Certificate Manager Private Certificate Authority now supports additional certificate customization](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-certificate-manager-private-certificate-authority-additional-certificate-customization/)
-- [AWS SDK for Go version 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-sdk-for-go-version-2-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

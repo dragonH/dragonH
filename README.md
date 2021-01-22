@@ -63,11 +63,11 @@
 - [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Sydney, Singapore), Europe (London), North Americas (Canada Central, San Francisco), and South Americas (Sao Paulo) regions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-amazon-ec2-t4g-instances-aws-graviton2-processors-additional-regions/)
 - [Amazon EBS direct APIs now enable you to create EBS snapshots in the Asia Pacific (Osaka-Local) Region directly from any block storage](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-direct-apis-enable-you-to-create-snapshots-osaka-directly-from-any-block-storage/)
 - [Announcing date and time functions and timezone support in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-features-for-aws-iot-sitewise/)
+- [Amazon Keyspaces (for Apache Cassandra) now supports JSON syntax to help you read and write data from other systems more easily](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-keyspaces-for-apache-cassandra-now-supports-json-syntax/)
 - [Amazon SQS now supports 1-Minute CloudWatch Metrics in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-supports-1-minute-cloudwatch-metrics-in-aws-govcloud-regions/)
 - [Amazon MSK now supports the ability to change the size or family of your Apache Kafka brokers](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-msk-now-supports-the-ability-to-change-the-size-or-family/)
 - [Amazon Detective enhances IP Address Analytics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-detective-enhances-ip-address-analytics/)
 - [New partner training on migration, cloud governance, and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/01/new-partner-training-on-migration-cloud-governance-and-machine-learning/)
-- [Amazon FSx now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-supports-fips-validated-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

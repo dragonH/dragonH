@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Launching Amazon Lex streaming conversation APIs for improved virtual agent conversational experiences](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-streaming-conversation-apis-virtual-natural-virtual-agent-conversational-experiences/)
+- [Launching Amazon Lex V2 console and APIs for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-v2-console-apis-improved-bot-building-experience/)
+- [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Sydney, Singapore), Europe (London), North Americas (Canada Central, San Francisco), and South Americas (Sao Paulo) regions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-amazon-ec2-t4g-instances-aws-graviton2-processors-additional-regions/)
+- [Amazon EBS direct APIs now enable you to create EBS snapshots in the Asia Pacific (Osaka-Local) Region directly from any block storage](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-direct-apis-enable-you-to-create-snapshots-osaka-directly-from-any-block-storage/)
 - [Announcing date and time functions and timezone support in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-features-for-aws-iot-sitewise/)
 - [Amazon SQS now supports 1-Minute CloudWatch Metrics in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-supports-1-minute-cloudwatch-metrics-in-aws-govcloud-regions/)
 - [Amazon MSK now supports the ability to change the size or family of your Apache Kafka brokers](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-msk-now-supports-the-ability-to-change-the-size-or-family/)
 - [Amazon Detective enhances IP Address Analytics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-detective-enhances-ip-address-analytics/)
 - [New partner training on migration, cloud governance, and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/01/new-partner-training-on-migration-cloud-governance-and-machine-learning/)
 - [Amazon FSx now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-supports-fips-validated-endpoints/)
-- [Announcing CDK Support for AWS Chalice](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-cdk-support-aws-chalice/)
-- [Resource Groups Tagging API launches ResourceARNList parameter for the GetResources operation](https://aws.amazon.com/about-aws/whats-new/2021/01/resource-groups-tagging-api-launches-resourcearnlist-parameter-getresources-operation/)
-- [Amazon ECS announces increased service quotas for tasks per service and services per cluster](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ecs-increased-service-quotas-tasks-per-service-services-per-cluster/)
-- [New AWS IoT Device Client simplifies onboarding to AWS IoT Core, AWS IoT Device Management, and AWS IoT Device Defender](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

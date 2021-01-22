@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing date and time functions and timezone support in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-features-for-aws-iot-sitewise/)
 - [Amazon SQS now supports 1-Minute CloudWatch Metrics in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sqs-supports-1-minute-cloudwatch-metrics-in-aws-govcloud-regions/)
 - [Amazon MSK now supports the ability to change the size or family of your Apache Kafka brokers](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-msk-now-supports-the-ability-to-change-the-size-or-family/)
 - [Amazon Detective enhances IP Address Analytics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-detective-enhances-ip-address-analytics/)
@@ -67,7 +68,6 @@
 - [Resource Groups Tagging API launches ResourceARNList parameter for the GetResources operation](https://aws.amazon.com/about-aws/whats-new/2021/01/resource-groups-tagging-api-launches-resourcearnlist-parameter-getresources-operation/)
 - [Amazon ECS announces increased service quotas for tasks per service and services per cluster](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ecs-increased-service-quotas-tasks-per-service-services-per-cluster/)
 - [New AWS IoT Device Client simplifies onboarding to AWS IoT Core, AWS IoT Device Management, and AWS IoT Device Defender](https://aws.amazon.com/about-aws/whats-new/2021/01/new-aws-iot-device-client-simplifies-onboarding-to-aws-iot-core-aws-iot-device-management-and-aws-iot-device-defender/)
-- [Amazon Chime SDKs for iOS and Android now support screen share](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-chime-sdk-ios-android-support-screen-share/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift doubles managed storage quota to 128 TB per node for RA3.16XL and RA3.4XL node-types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-doubles-managed-storage-quota-128-tb-per-mode/)
 - [AWS Shield Advanced now provides mitigation metrics and network traffic timelines](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-shield-advanced-now-provides-mitigation-metrics-and-network-traffic-timelines/)
 - [Amazon CloudWatch Agent now supports OpenTelemetry APIs and SDKs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-agent-now-supports-opentelemetry-apis-and-sdks/)
 - [AWS App Mesh is now available in Africa (Cape Town) AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-app-mesh-is-now-available-in-the-africa-cape-town-aws-region/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra achieves ISO and PCI compliance](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-kendra-achieves-iso-pci-compliance/)
 - [Launching Amazon Lex streaming conversation APIs for improved virtual agent conversational experiences](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-streaming-conversation-apis-virtual-natural-virtual-agent-conversational-experiences/)
 - [Launching Amazon Lex V2 console and APIs for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-v2-console-apis-improved-bot-building-experience/)
-- [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Sydney, Singapore), Europe (London), North Americas (Canada Central, San Francisco), and South Americas (Sao Paulo) regions](https://aws.amazon.com/about-aws/whats-new/2021/01/announcing-new-amazon-ec2-t4g-instances-aws-graviton2-processors-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

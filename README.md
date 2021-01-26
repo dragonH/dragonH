@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS announces CloudWatch metrics with 1-minute granularity on all EBS volume types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-announces-cloudwatch-metrics-with-1-minute-granularity-on-all-ebs-volume-types/)
 - [Amazon Redshift doubles managed storage quota to 128 TB per node for RA3.16XL and RA3.4XL node-types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-doubles-managed-storage-quota-128-tb-per-mode/)
 - [AWS Shield Advanced now provides mitigation metrics and network traffic timelines](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-shield-advanced-now-provides-mitigation-metrics-and-network-traffic-timelines/)
 - [Amazon CloudWatch Agent now supports OpenTelemetry APIs and SDKs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-agent-now-supports-opentelemetry-apis-and-sdks/)
@@ -67,7 +68,6 @@
 - [AWS Cloud Map Updates Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-updates-service-level-agreement/)
 - [Amazon Kendra achieves ISO and PCI compliance](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-kendra-achieves-iso-pci-compliance/)
 - [Launching Amazon Lex streaming conversation APIs for improved virtual agent conversational experiences](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-streaming-conversation-apis-virtual-natural-virtual-agent-conversational-experiences/)
-- [Launching Amazon Lex V2 console and APIs for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-v2-console-apis-improved-bot-building-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds 1 new integration globally and adds 5 integrations to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-security-hub-adds-new-integration-globally-adds-5-integrations-aws-govcloud-us-regions/)
 - [Amazon RDS for SQL Server now supports tempdb on local instance store with R5d and M5d instance types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-for-sql-server-now-supports-tempdb-on-local-instance-store-with-r5d-and-m5d-instance-types/)
 - [AWS Direct Connect launches second location in Italy](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-direct-connect-launches-second-location-italy/)
 - [Amazon EBS announces CloudWatch metrics with 1-minute granularity on all EBS volume types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-announces-cloudwatch-metrics-with-1-minute-granularity-on-all-ebs-volume-types/)
@@ -67,7 +68,6 @@
 - [AWS App Mesh is now available in Africa (Cape Town) AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-app-mesh-is-now-available-in-the-africa-cape-town-aws-region/)
 - [Amazon GuardDuty enhances security incident investigation workflows through new integration with Amazon Detective](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-guardduty-enhances-security-incident-investigation-workflows-through-new-integration-with-amazon-detective/)
 - [Amazon CloudWatch Agent Now Supports macOS on Amazon EC2 Mac instances](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-agent-now-supports-macos-on-amazon-ec2-mac-instances/)
-- [AWS Cloud Map Updates Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-updates-service-level-agreement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

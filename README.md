@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports tempdb on local instance store with R5d and M5d instance types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-for-sql-server-now-supports-tempdb-on-local-instance-store-with-r5d-and-m5d-instance-types/)
 - [AWS Direct Connect launches second location in Italy](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-direct-connect-launches-second-location-italy/)
 - [Amazon EBS announces CloudWatch metrics with 1-minute granularity on all EBS volume types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-announces-cloudwatch-metrics-with-1-minute-granularity-on-all-ebs-volume-types/)
 - [Amazon Redshift doubles managed storage quota to 128 TB per node for RA3.16XL and RA3.4XL node-types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-doubles-managed-storage-quota-128-tb-per-mode/)
@@ -67,7 +68,6 @@
 - [Amazon GuardDuty enhances security incident investigation workflows through new integration with Amazon Detective](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-guardduty-enhances-security-incident-investigation-workflows-through-new-integration-with-amazon-detective/)
 - [Amazon CloudWatch Agent Now Supports macOS on Amazon EC2 Mac instances](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-agent-now-supports-macos-on-amazon-ec2-mac-instances/)
 - [AWS Cloud Map Updates Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-cloud-map-updates-service-level-agreement/)
-- [Amazon Kendra achieves ISO and PCI compliance](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-kendra-achieves-iso-pci-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-timestream-can-now-be-used-for-workloads-subject-to-hipaa-iso-and-pci-dss/)
+- [Amazon SES now lets you assign a configuration set to an email identity](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ses-now-lets-you-assign-a-configuration-set-to-an-identity/)
 - [Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-available-additional-regions/)
 - [AWS CodePipeline now available in Europe South (Milan) region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-codepipeline-available-europe-south-milan-region/)
 - [Discover, review, and remediate unintended access to Secrets Manager secrets using IAM Access Analyzer](https://aws.amazon.com/about-aws/whats-new/2021/01/discover-review-remediate-unintended-access-secrets-manager-iam-access-analyzer/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for SQL Server now supports tempdb on local instance store with R5d and M5d instance types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-for-sql-server-now-supports-tempdb-on-local-instance-store-with-r5d-and-m5d-instance-types/)
 - [AWS Direct Connect launches second location in Italy](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-direct-connect-launches-second-location-italy/)
 - [Amazon EBS announces CloudWatch metrics with 1-minute granularity on all EBS volume types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-announces-cloudwatch-metrics-with-1-minute-granularity-on-all-ebs-volume-types/)
-- [Amazon Redshift doubles managed storage quota to 128 TB per node for RA3.16XL and RA3.4XL node-types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-doubles-managed-storage-quota-128-tb-per-mode/)
-- [AWS Shield Advanced now provides mitigation metrics and network traffic timelines](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-shield-advanced-now-provides-mitigation-metrics-and-network-traffic-timelines/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

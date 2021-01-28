@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS RoboMaker supports data upload configurations in simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-robomaker-supports-data-upload-configurations-in-simulation-jobs/)
 - [AWS Control Tower now provides bulk account update](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-provides-bulk-account-update/)
 - [AWS Control Tower now extends governance to existing OUs in your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-extends-governance-existing-ous-aws-organizations/)
 - [Amazon CloudWatch now adds Fluent Bit support for container logs from Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-now-adds-fluent-bit-support-for-container-logs-from-amazon-eks-and-kubernetes/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace announces support for multiple Private Marketplace catalogs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-marketplace-announces-support-for-multiple-private-marketplace-catalogs/)
 - [Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-timestream-can-now-be-used-for-workloads-subject-to-hipaa-iso-and-pci-dss/)
 - [Amazon SES now lets you assign a configuration set to an email identity](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ses-now-lets-you-assign-a-configuration-set-to-an-identity/)
-- [Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

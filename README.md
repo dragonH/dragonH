@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace announces support for multiple Private Marketplace catalogs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-marketplace-announces-support-for-multiple-private-marketplace-catalogs/)
 - [Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-timestream-can-now-be-used-for-workloads-subject-to-hipaa-iso-and-pci-dss/)
 - [Amazon SES now lets you assign a configuration set to an email identity](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ses-now-lets-you-assign-a-configuration-set-to-an-identity/)
 - [Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub adds 1 new integration globally and adds 5 integrations to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-security-hub-adds-new-integration-globally-adds-5-integrations-aws-govcloud-us-regions/)
 - [Amazon RDS for SQL Server now supports tempdb on local instance store with R5d and M5d instance types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-rds-for-sql-server-now-supports-tempdb-on-local-instance-store-with-r5d-and-m5d-instance-types/)
 - [AWS Direct Connect launches second location in Italy](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-direct-connect-launches-second-location-italy/)
-- [Amazon EBS announces CloudWatch metrics with 1-minute granularity on all EBS volume types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-announces-cloudwatch-metrics-with-1-minute-granularity-on-all-ebs-volume-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

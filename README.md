@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now adds Fluent Bit support for container logs from Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-now-adds-fluent-bit-support-for-container-logs-from-amazon-eks-and-kubernetes/)
 - [AWS Control Tower now available in Canada, Frankfurt, London, Stockholm and Singapore AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-now-available-in-canada-frankfurt-london-stockholm-and-singapore-aws-regions/)
 - [Amazon Aurora supports in-place upgrades from PostgreSQL 11 to 12](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-postgresql-11-12/)
 - [Amazon Aurora supports PostgreSQL 12](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-postgresql-12/)
@@ -67,7 +68,6 @@
 - [Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-available-additional-regions/)
 - [AWS CodePipeline now available in Europe South (Milan) region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-codepipeline-available-europe-south-milan-region/)
 - [Discover, review, and remediate unintended access to Secrets Manager secrets using IAM Access Analyzer](https://aws.amazon.com/about-aws/whats-new/2021/01/discover-review-remediate-unintended-access-secrets-manager-iam-access-analyzer/)
-- [Amazon Elasticsearch Service extends encryption at rest and node-to-node encryption to existing domains](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elasticsearch-service-extends-data-encryption-rest-node-to-node-encryption-support-existing-domains/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

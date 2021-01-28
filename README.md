@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx is now available in the AWS Africa (Cape Town), Europe (Milan), and Middle East (Bahrain) Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-fsx-available-additional-regions/)
 - [AWS CodePipeline now available in Europe South (Milan) region](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-codepipeline-available-europe-south-milan-region/)
 - [Discover, review, and remediate unintended access to Secrets Manager secrets using IAM Access Analyzer](https://aws.amazon.com/about-aws/whats-new/2021/01/discover-review-remediate-unintended-access-secrets-manager-iam-access-analyzer/)
 - [Amazon Elasticsearch Service extends encryption at rest and node-to-node encryption to existing domains](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elasticsearch-service-extends-data-encryption-rest-node-to-node-encryption-support-existing-domains/)
@@ -67,7 +68,6 @@
 - [Amazon EBS announces CloudWatch metrics with 1-minute granularity on all EBS volume types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ebs-announces-cloudwatch-metrics-with-1-minute-granularity-on-all-ebs-volume-types/)
 - [Amazon Redshift doubles managed storage quota to 128 TB per node for RA3.16XL and RA3.4XL node-types](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-redshift-doubles-managed-storage-quota-128-tb-per-mode/)
 - [AWS Shield Advanced now provides mitigation metrics and network traffic timelines](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-shield-advanced-now-provides-mitigation-metrics-and-network-traffic-timelines/)
-- [Amazon CloudWatch Agent now supports OpenTelemetry APIs and SDKs](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-agent-now-supports-opentelemetry-apis-and-sdks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

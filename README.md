@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GuardDuty introduces machine learning domain reputation model to expand threat detection and improve accuracy](https://aws.amazon.com/about-aws/whats-new/2021/amazon-guardduty-introduces-machine-learning-domain-reputation-model/)
+- [Amazon SNS now supports 1-minute CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-now-supports-1-minute-cloudwatch-metrics/)
 - [Amazon Elastic File System triples read throughput](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elastic-file-system-triples-read-throughput/)
 - [Amazon Managed Blockchain now supports resource tagging and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-managed-blockchain-supports-resource-tagging-tag-based-access-control/)
 - [AWS Glue DataBrew now supports six additional delimiters for its datasets](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-now-supports-six-additional-delimiters-for-its-datasets/)
@@ -66,8 +68,6 @@
 - [AWS Control Tower now provides bulk account update](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-provides-bulk-account-update/)
 - [AWS Control Tower now extends governance to existing OUs in your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-extends-governance-existing-ous-aws-organizations/)
 - [Amazon CloudWatch now adds Fluent Bit support for container logs from Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-now-adds-fluent-bit-support-for-container-logs-from-amazon-eks-and-kubernetes/)
-- [AWS Control Tower now available in Canada, Frankfurt, London, Stockholm and Singapore AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-now-available-in-canada-frankfurt-london-stockholm-and-singapore-aws-regions/)
-- [Amazon Aurora supports in-place upgrades from PostgreSQL 11 to 12](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-postgresql-11-12/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

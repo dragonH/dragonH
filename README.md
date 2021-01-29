@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew now supports six additional delimiters for its datasets](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-now-supports-six-additional-delimiters-for-its-datasets/)
+- [AWS Glue DataBrew is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-available-six-additional-aws-regions/)
 - [AWS RoboMaker supports data upload configurations in simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-robomaker-supports-data-upload-configurations-in-simulation-jobs/)
 - [AWS Control Tower now provides bulk account update](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-provides-bulk-account-update/)
 - [AWS Control Tower now extends governance to existing OUs in your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-extends-governance-existing-ous-aws-organizations/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora supports in-place upgrades from PostgreSQL 11 to 12](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-in-place-upgrades-postgresql-11-12/)
 - [Amazon Aurora supports PostgreSQL 12](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-aurora-supports-postgresql-12/)
 - [AWS Marketplace announces support for multiple Private Marketplace catalogs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-marketplace-announces-support-for-multiple-private-marketplace-catalogs/)
-- [Amazon Timestream can now be used for workloads subject to HIPAA, ISO, and PCI DSS](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-timestream-can-now-be-used-for-workloads-subject-to-hipaa-iso-and-pci-dss/)
-- [Amazon SES now lets you assign a configuration set to an email identity](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-ses-now-lets-you-assign-a-configuration-set-to-an-identity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

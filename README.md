@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-transcribe-medical-now-provides-automatic-protected-health-information-phi-identification/)
 - [Amazon GuardDuty introduces machine learning domain reputation model to expand threat detection and improve accuracy](https://aws.amazon.com/about-aws/whats-new/2021/amazon-guardduty-introduces-machine-learning-domain-reputation-model/)
 - [Amazon SNS now supports 1-minute CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-now-supports-1-minute-cloudwatch-metrics/)
 - [Amazon Elastic File System triples read throughput](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elastic-file-system-triples-read-throughput/)
@@ -67,7 +68,6 @@
 - [AWS RoboMaker supports data upload configurations in simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-robomaker-supports-data-upload-configurations-in-simulation-jobs/)
 - [AWS Control Tower now provides bulk account update](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-provides-bulk-account-update/)
 - [AWS Control Tower now extends governance to existing OUs in your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-extends-governance-existing-ous-aws-organizations/)
-- [Amazon CloudWatch now adds Fluent Bit support for container logs from Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-cloudwatch-now-adds-fluent-bit-support-for-container-logs-from-amazon-eks-and-kubernetes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

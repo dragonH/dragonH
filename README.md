@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now configures RHEL and SLES clustering for SAP application High Availability](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-configures-rhel-sles-clustering-sap-application-high-availability/)
 - [Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-transcribe-medical-now-provides-automatic-protected-health-information-phi-identification/)
 - [Amazon GuardDuty introduces machine learning domain reputation model to expand threat detection and improve accuracy](https://aws.amazon.com/about-aws/whats-new/2021/amazon-guardduty-introduces-machine-learning-domain-reputation-model/)
 - [Amazon SNS now supports 1-minute CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-now-supports-1-minute-cloudwatch-metrics/)
@@ -67,7 +68,6 @@
 - [AWS Glue DataBrew is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-available-six-additional-aws-regions/)
 - [AWS RoboMaker supports data upload configurations in simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-robomaker-supports-data-upload-configurations-in-simulation-jobs/)
 - [AWS Control Tower now provides bulk account update](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-provides-bulk-account-update/)
-- [AWS Control Tower now extends governance to existing OUs in your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-control-tower-extends-governance-existing-ous-aws-organizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

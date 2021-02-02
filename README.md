@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Insights is now generally available for AWS X-Ray](https://aws.amazon.com/about-aws/whats-new/2021/02/insights-is-now-generally-available-for-aws-x-ray/)
+- [Amazon S3 now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-now-supports-aws-privatelink/)
 - [Launching Amazon Lex V2 console and APIs for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-v2-console-apis-improved-bot-building-experience/)
 - [AWS Console Mobile Application adds support for new regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-console-mobile-application-adds-support-new-regions/)
 - [Amazon CloudWatch Synthetics supports Amazon API Gateway in API blueprint](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/)
@@ -66,8 +68,6 @@
 - [Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-transcribe-medical-now-provides-automatic-protected-health-information-phi-identification/)
 - [Amazon GuardDuty introduces machine learning domain reputation model to expand threat detection and improve accuracy](https://aws.amazon.com/about-aws/whats-new/2021/amazon-guardduty-introduces-machine-learning-domain-reputation-model/)
 - [Amazon SNS now supports 1-minute CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-now-supports-1-minute-cloudwatch-metrics/)
-- [Amazon Elastic File System triples read throughput](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elastic-file-system-triples-read-throughput/)
-- [Amazon Managed Blockchain now supports resource tagging and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-managed-blockchain-supports-resource-tagging-tag-based-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

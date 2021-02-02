@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Launching Amazon Lex V2 console and APIs for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-v2-console-apis-improved-bot-building-experience/)
 - [AWS Console Mobile Application adds support for new regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-console-mobile-application-adds-support-new-regions/)
 - [Amazon CloudWatch Synthetics supports Amazon API Gateway in API blueprint](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/)
 - [Amazon Redshift delivers better cold query performance to three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-redshift-delivers-cold-query-performance-additional-aws-regions/)
@@ -67,7 +68,6 @@
 - [Amazon SNS now supports 1-minute CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-sns-now-supports-1-minute-cloudwatch-metrics/)
 - [Amazon Elastic File System triples read throughput](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elastic-file-system-triples-read-throughput/)
 - [Amazon Managed Blockchain now supports resource tagging and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-managed-blockchain-supports-resource-tagging-tag-based-access-control/)
-- [AWS Glue DataBrew now supports six additional delimiters for its datasets](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-now-supports-six-additional-delimiters-for-its-datasets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

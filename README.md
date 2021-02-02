@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Console Mobile Application adds support for new regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-console-mobile-application-adds-support-new-regions/)
+- [Amazon CloudWatch Synthetics supports Amazon API Gateway in API blueprint](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/)
 - [Amazon Redshift delivers better cold query performance to three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-redshift-delivers-cold-query-performance-additional-aws-regions/)
 - [AWS Launch Wizard now configures RHEL and SLES clustering for SAP application High Availability](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-configures-rhel-sles-clustering-sap-application-high-availability/)
 - [Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-transcribe-medical-now-provides-automatic-protected-health-information-phi-identification/)
@@ -66,8 +68,6 @@
 - [Amazon Elastic File System triples read throughput](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-elastic-file-system-triples-read-throughput/)
 - [Amazon Managed Blockchain now supports resource tagging and tag-based access control](https://aws.amazon.com/about-aws/whats-new/2021/01/amazon-managed-blockchain-supports-resource-tagging-tag-based-access-control/)
 - [AWS Glue DataBrew now supports six additional delimiters for its datasets](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-now-supports-six-additional-delimiters-for-its-datasets/)
-- [AWS Glue DataBrew is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-glue-databrew-available-six-additional-aws-regions/)
-- [AWS RoboMaker supports data upload configurations in simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/01/aws-robomaker-supports-data-upload-configurations-in-simulation-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

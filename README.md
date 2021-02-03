@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Take actions before and after patching to improve safety during patch installation](https://aws.amazon.com/about-aws/whats-new/2021/02/take-actions-before-after-patching-improve-safety-patch-installation/)
 - [Amazon RDS for Oracle supports Oracle Application Express (APEX) Version 20.2](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-supports-oracle-apex-version-20-2/)
 - [Amazon S3 Batch Operations adds support for Delete Object Tagging](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-batch-operations-adds-support-for-delete-object-tagging/)
 - [Amazon Macie announces a slew of new capabilities including support for cross-account sensitive data discovery, scanning by Amazon S3 object prefix, improved pre-scan cost estimation, and added location detail in findings](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-macie-announces-new-capabilities/)
@@ -67,7 +68,6 @@
 - [AWS Console Mobile Application adds support for new regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-console-mobile-application-adds-support-new-regions/)
 - [Amazon CloudWatch Synthetics supports Amazon API Gateway in API blueprint](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/)
 - [Amazon Redshift delivers better cold query performance to three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-redshift-delivers-cold-query-performance-additional-aws-regions/)
-- [AWS Launch Wizard now configures RHEL and SLES clustering for SAP application High Availability](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-configures-rhel-sles-clustering-sap-application-high-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

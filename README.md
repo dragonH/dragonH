@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive adds support for VPC outputs](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-adds-support-for-vpc-outputs/)
 - [Take actions before and after patching to improve safety during patch installation](https://aws.amazon.com/about-aws/whats-new/2021/02/take-actions-before-after-patching-improve-safety-patch-installation/)
 - [Amazon RDS for Oracle supports Oracle Application Express (APEX) Version 20.2](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-supports-oracle-apex-version-20-2/)
 - [Amazon S3 Batch Operations adds support for Delete Object Tagging](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-batch-operations-adds-support-for-delete-object-tagging/)
@@ -67,7 +68,6 @@
 - [Launching Amazon Lex V2 console and APIs for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/01/launching-amazon-lex-v2-console-apis-improved-bot-building-experience/)
 - [AWS Console Mobile Application adds support for new regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-console-mobile-application-adds-support-new-regions/)
 - [Amazon CloudWatch Synthetics supports Amazon API Gateway in API blueprint](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-amazon-api-gateway-api-blueprint/)
-- [Amazon Redshift delivers better cold query performance to three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-redshift-delivers-cold-query-performance-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -88,8 +88,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#546](https://github.com/awslabs/aws-data-wrangler/issues/546) in [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
-2. 🎉 Merged PR [#6](https://github.com/dragonH/shopping-site-practice/pull/6) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+1. 🗣 Commented on [#546](https://github.com/awslabs/aws-data-wrangler/issues/546) in [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
+2. ❗️ Opened issue [#546](https://github.com/awslabs/aws-data-wrangler/issues/546) in [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
 3. 🎉 Merged PR [#3](https://github.com/dragonH/shopping-site-practice/pull/3) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
 4. 🎉 Merged PR [#2](https://github.com/dragonH/movie-api/pull/2) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
 5. 🎉 Merged PR [#7](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/7) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)

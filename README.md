@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Mesh now supports mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-app-mesh-supports-mutual-tls-authentication/)
+- [Announcing AWS App Mesh Controller for Kubernetes version 1.3.0 with mTLS support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-app-mesh-controller-for-kubernetes-version-1-3-0-with-mtls-support/)
 - [AWS Amplify Hosting adds monitoring capabilities with Amazon CloudWatch integration](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-amplify-hosting-adds-monitoring-capabilities-with-amazon-cloudwatch-integration/)
 - [AWS Copilot launches v1.2 providing more deployment capabilities](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-copilot-launches-v1-2-providing-more-deployment-capabilities/)
 - [Announcing new AWS Wavelength Zone in Osaka, Japan](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-wavelength-zones-osaka-Japan/)
@@ -66,8 +68,6 @@
 - [AWS Lambda now supports Node.js 14](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-lambda-now-supports-node-js-14/)
 - [AWS Backup Events and Metrics now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-backup-events-metrics-available-amazon-cloudwatch/)
 - [AWS Elemental MediaLive adds support for VPC outputs](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-adds-support-for-vpc-outputs/)
-- [Take actions before and after patching to improve safety during patch installation](https://aws.amazon.com/about-aws/whats-new/2021/02/take-actions-before-after-patching-improve-safety-patch-installation/)
-- [Amazon RDS for Oracle supports Oracle Application Express (APEX) Version 20.2](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-supports-oracle-apex-version-20-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

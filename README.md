@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify Hosting adds monitoring capabilities with Amazon CloudWatch integration](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-amplify-hosting-adds-monitoring-capabilities-with-amazon-cloudwatch-integration/)
+- [AWS Copilot launches v1.2 providing more deployment capabilities](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-copilot-launches-v1-2-providing-more-deployment-capabilities/)
 - [Announcing new AWS Wavelength Zone in Osaka, Japan](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-wavelength-zones-osaka-Japan/)
 - [Amazon Connect is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-available-aws-govcloud-us-west-region/)
 - [Amazon Virtual Private Cloud (VPC) customers can now customize reverse DNS for their Elastic IP addresses](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-virtual-private-cloud-vpc-customers-customize-reverse-dns-elastic-ips-eip/)
@@ -66,8 +68,6 @@
 - [AWS Elemental MediaLive adds support for VPC outputs](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-adds-support-for-vpc-outputs/)
 - [Take actions before and after patching to improve safety during patch installation](https://aws.amazon.com/about-aws/whats-new/2021/02/take-actions-before-after-patching-improve-safety-patch-installation/)
 - [Amazon RDS for Oracle supports Oracle Application Express (APEX) Version 20.2](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-supports-oracle-apex-version-20-2/)
-- [Amazon S3 Batch Operations adds support for Delete Object Tagging](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-batch-operations-adds-support-for-delete-object-tagging/)
-- [Amazon Macie announces a slew of new capabilities including support for cross-account sensitive data discovery, scanning by Amazon S3 object prefix, improved pre-scan cost estimation, and added location detail in findings](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-macie-announces-new-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

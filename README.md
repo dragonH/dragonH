@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dragonH/movie-api/pull/3) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
+1. ❗️ Opened issue [#546](https://github.com/awslabs/aws-data-wrangler/issues/546) in [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
 2. 🎉 Merged PR [#6](https://github.com/dragonH/shopping-site-practice/pull/6) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
 3. 🎉 Merged PR [#3](https://github.com/dragonH/shopping-site-practice/pull/3) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
 4. 🎉 Merged PR [#2](https://github.com/dragonH/movie-api/pull/2) in [dragonH/movie-api](https://github.com/dragonH/movie-api)

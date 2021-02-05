@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Solutions Implementation - AWS MLOps Framework adds a model monitoring pipeline for customers to take remedial action when there are deviations in model quality](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-mlops-framework-adds-model-monitoring-pipeline/)
 - [Introducing Amazon EBS Local Snapshots on Outposts](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ebs-local-snapshots-on-outposts/)
 - [AWS App Mesh now supports mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-app-mesh-supports-mutual-tls-authentication/)
 - [Announcing AWS App Mesh Controller for Kubernetes version 1.3.0 with mTLS support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-app-mesh-controller-for-kubernetes-version-1-3-0-with-mtls-support/)
@@ -67,7 +68,6 @@
 - [Amazon Connect is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-available-aws-govcloud-us-west-region/)
 - [Amazon Virtual Private Cloud (VPC) customers can now customize reverse DNS for their Elastic IP addresses](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-virtual-private-cloud-vpc-customers-customize-reverse-dns-elastic-ips-eip/)
 - [AWS Lambda now supports Node.js 14](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-lambda-now-supports-node-js-14/)
-- [AWS Backup Events and Metrics now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-backup-events-metrics-available-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Solutions Implementation - AWS Data Streaming Solution for Amazon MSK adds a template for you to read events and store data to Amazon S3 from a streaming application](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-data-streaming-solution/)
 - [AWS Graviton2 M6g, C6g, and R6g instances now available in Asia Pacific (Seoul, Hong Kong) regions, and M6gd, C6gd, and R6gd instances now available in EU (Frankfurt), and Asia Pacific (Singapore, Sydney) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-graviton2-m6g-c6g-r6g-instances-available-additional-regions/)
 - [AWS Solutions Implementation - AWS MLOps Framework adds a model monitoring pipeline for customers to take remedial action when there are deviations in model quality](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-mlops-framework-adds-model-monitoring-pipeline/)
 - [Introducing Amazon EBS Local Snapshots on Outposts](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ebs-local-snapshots-on-outposts/)
@@ -67,7 +68,6 @@
 - [AWS Copilot launches v1.2 providing more deployment capabilities](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-copilot-launches-v1-2-providing-more-deployment-capabilities/)
 - [Announcing new AWS Wavelength Zone in Osaka, Japan](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-wavelength-zones-osaka-Japan/)
 - [Amazon Connect is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-available-aws-govcloud-us-west-region/)
-- [Amazon Virtual Private Cloud (VPC) customers can now customize reverse DNS for their Elastic IP addresses](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-virtual-private-cloud-vpc-customers-customize-reverse-dns-elastic-ips-eip/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Application Load Balancer now supports Application Cookie Stickiness](https://aws.amazon.com/about-aws/whats-new/2021/02/application-load-balancer-supports-application-cookie-stickiness/)
+- [You now can use PartiQL with DynamoDB local to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/02/you-now-can-use-partiql-with-dynamodb-local-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
+- [Amazon ECS Service Discovery Now Available in Africa (Cape Town) and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ecs-service-discovery-available-africa-cape-town-europe-milan/)
 - [AWS Cloud Map now supports resource tagging in AWS Console](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloud-map-supports-resource-tagging-aws-console/)
 - [New AWS Solutions Consulting Offer - Digital Banking Engagement Platform](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-digital-banking-engagement-platform/)
 - [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-managemet/)
@@ -65,9 +68,6 @@
 - [AWS CloudHSM Adds New Availability Zones](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloudhsm-adds-new-availability-zones/)
 - [Introducing Amazon CloudFront Security Savings Bundle](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-cloudfront-security-savings-bundle/)
 - [Introducing Amazon EC2 M5n, M5dn, R5n, and R5dn Bare Metal Instances](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-bare-metal-instances/)
-- [AWS Solutions Implementation - AWS Data Streaming Solution for Amazon MSK adds a template for you to read events and store data to Amazon S3 from a streaming application](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-data-streaming-solution/)
-- [AWS Graviton2 M6g, C6g, and R6g instances now available in Asia Pacific (Seoul, Hong Kong) regions, and M6gd, C6gd, and R6gd instances now available in EU (Frankfurt), and Asia Pacific (Singapore, Sydney) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-graviton2-m6g-c6g-r6g-instances-available-additional-regions/)
-- [AWS Solutions Implementation - AWS MLOps Framework adds a model monitoring pipeline for customers to take remedial action when there are deviations in model quality](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-solutions-implementation-aws-mlops-framework-adds-model-monitoring-pipeline/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

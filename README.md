@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Persistent Digital Bank and Credit Union Solution](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-persistent-digital-bank-credit-union-solution/)
 - [AWS CloudHSM Adds New Availability Zones](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloudhsm-adds-new-availability-zones/)
 - [Introducing Amazon CloudFront Security Savings Bundle](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-cloudfront-security-savings-bundle/)
 - [Introducing Amazon EC2 M5n, M5dn, R5n, and R5dn Bare Metal Instances](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-bare-metal-instances/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon EBS Local Snapshots on Outposts](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ebs-local-snapshots-on-outposts/)
 - [AWS App Mesh now supports mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-app-mesh-supports-mutual-tls-authentication/)
 - [Announcing AWS App Mesh Controller for Kubernetes version 1.3.0 with mTLS support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-aws-app-mesh-controller-for-kubernetes-version-1-3-0-with-mtls-support/)
-- [AWS Amplify Hosting adds monitoring capabilities with Amazon CloudWatch integration](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-amplify-hosting-adds-monitoring-capabilities-with-amazon-cloudwatch-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

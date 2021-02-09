@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DeepComposer launches Transformer Notebook on GitHub](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-deepcomposer-launches-transformer-notebook-github/)
+- [AWS Glue is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-is-now-available-in-the-aws-africa-cape-town-region/)
 - [AWS Data Exchange enables subscribers to export full revisions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-data-exchange-enables-subscribers-to-export-full-revisions/)
 - [New digital curriculum: Managing Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-managing-amazon-s3/)
 - [Application Load Balancer now supports Application Cookie Stickiness](https://aws.amazon.com/about-aws/whats-new/2021/02/application-load-balancer-supports-application-cookie-stickiness/)
@@ -66,8 +68,6 @@
 - [AWS Cloud Map now supports resource tagging in AWS Console](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloud-map-supports-resource-tagging-aws-console/)
 - [New AWS Solutions Consulting Offer - Digital Banking Engagement Platform](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-digital-banking-engagement-platform/)
 - [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-managemet/)
-- [New AWS Solutions Consulting Offer - Persistent Digital Bank and Credit Union Solution](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-persistent-digital-bank-credit-union-solution/)
-- [AWS CloudHSM Adds New Availability Zones](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloudhsm-adds-new-availability-zones/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

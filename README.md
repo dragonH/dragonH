@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation is now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-lake-formation-is-now-available-in-asia-pacific-hong-kong-region/)
 - [AWS DeepComposer launches Transformer Notebook on GitHub](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-deepcomposer-launches-transformer-notebook-github/)
 - [AWS Glue is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-is-now-available-in-the-aws-africa-cape-town-region/)
 - [AWS Data Exchange enables subscribers to export full revisions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-data-exchange-enables-subscribers-to-export-full-revisions/)
@@ -67,7 +68,6 @@
 - [Amazon ECS Service Discovery Now Available in Africa (Cape Town) and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ecs-service-discovery-available-africa-cape-town-europe-milan/)
 - [AWS Cloud Map now supports resource tagging in AWS Console](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloud-map-supports-resource-tagging-aws-console/)
 - [New AWS Solutions Consulting Offer - Digital Banking Engagement Platform](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-digital-banking-engagement-platform/)
-- [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-managemet/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

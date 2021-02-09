@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces (for Apache Cassandra) now helps you automate table creation by supporting point-in-time recovery and tag settings in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-supporting-point-in-time-recovery-tag-settings-aws-cloudformation/)
 - [AWS Lake Formation is now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-lake-formation-is-now-available-in-asia-pacific-hong-kong-region/)
 - [AWS DeepComposer launches Transformer Notebook on GitHub](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-deepcomposer-launches-transformer-notebook-github/)
 - [AWS Glue is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-is-now-available-in-the-aws-africa-cape-town-region/)
@@ -67,7 +68,6 @@
 - [You now can use PartiQL with DynamoDB local to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/02/you-now-can-use-partiql-with-dynamodb-local-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
 - [Amazon ECS Service Discovery Now Available in Africa (Cape Town) and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ecs-service-discovery-available-africa-cape-town-europe-milan/)
 - [AWS Cloud Map now supports resource tagging in AWS Console](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloud-map-supports-resource-tagging-aws-console/)
-- [New AWS Solutions Consulting Offer - Digital Banking Engagement Platform](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-digital-banking-engagement-platform/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New digital curriculum: Managing Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-managing-amazon-s3/)
 - [Application Load Balancer now supports Application Cookie Stickiness](https://aws.amazon.com/about-aws/whats-new/2021/02/application-load-balancer-supports-application-cookie-stickiness/)
 - [You now can use PartiQL with DynamoDB local to query, insert, update, and delete table data in Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/02/you-now-can-use-partiql-with-dynamodb-local-to-query-insert-update-and-delete-table-data-in-amazon-dynamodb/)
 - [Amazon ECS Service Discovery Now Available in Africa (Cape Town) and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ecs-service-discovery-available-africa-cape-town-europe-milan/)
@@ -67,7 +68,6 @@
 - [New AWS Solutions Consulting Offer - Persistent Digital Bank and Credit Union Solution](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-persistent-digital-bank-credit-union-solution/)
 - [AWS CloudHSM Adds New Availability Zones](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloudhsm-adds-new-availability-zones/)
 - [Introducing Amazon CloudFront Security Savings Bundle](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-cloudfront-security-savings-bundle/)
-- [Introducing Amazon EC2 M5n, M5dn, R5n, and R5dn Bare Metal Instances](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-ec2-m5n-m5dn-r5n-and-r5dn-bare-metal-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

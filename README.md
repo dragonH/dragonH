@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Serverless Image Handler v5.2](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-serverless-image-handler-v5-2/)
+- [Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-vpc-traffic-mirroring-supported-select-non-nitro-instance-types/)
 - [AWS Glue now provides column importance metrics in the FindMatches machine learning transform](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-provides-column-importance-metrics-findmatches-machine-learning-transform/)
 - [Announcing AMD instance support for Amazon GameLift FleetIQ](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amd-instance-support-amazon-gamelift-fleetiq/)
 - [AWS Cloud9 launches visual source control integration for Git](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloud9-launches-visual-source-control-integration-for-git/)
@@ -66,8 +68,6 @@
 - [AWS DeepComposer launches Transformer Notebook on GitHub](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-deepcomposer-launches-transformer-notebook-github/)
 - [AWS Glue is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-is-now-available-in-the-aws-africa-cape-town-region/)
 - [AWS Data Exchange enables subscribers to export full revisions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-data-exchange-enables-subscribers-to-export-full-revisions/)
-- [New digital curriculum: Managing Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-managing-amazon-s3/)
-- [Application Load Balancer now supports Application Cookie Stickiness](https://aws.amazon.com/about-aws/whats-new/2021/02/application-load-balancer-supports-application-cookie-stickiness/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

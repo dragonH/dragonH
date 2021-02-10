@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-lex-available-aws-govcloud-us-west-region/)
+- [Amazon Timestream now offers cross table queries, query execution statistics, and more](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-timestream-offers-cross-table-queries-query-execution-statistics-more/)
 - [Introducing Serverless Image Handler v5.2](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-serverless-image-handler-v5-2/)
 - [Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-vpc-traffic-mirroring-supported-select-non-nitro-instance-types/)
 - [AWS Glue now provides column importance metrics in the FindMatches machine learning transform](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-provides-column-importance-metrics-findmatches-machine-learning-transform/)
@@ -66,8 +68,6 @@
 - [Amazon Keyspaces (for Apache Cassandra) now helps you automate table creation by supporting point-in-time recovery and tag settings in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-supporting-point-in-time-recovery-tag-settings-aws-cloudformation/)
 - [AWS Lake Formation is now available in Asia Pacific (Hong Kong) region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-lake-formation-is-now-available-in-asia-pacific-hong-kong-region/)
 - [AWS DeepComposer launches Transformer Notebook on GitHub](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-deepcomposer-launches-transformer-notebook-github/)
-- [AWS Glue is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-is-now-available-in-the-aws-africa-cape-town-region/)
-- [AWS Data Exchange enables subscribers to export full revisions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-data-exchange-enables-subscribers-to-export-full-revisions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

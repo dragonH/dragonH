@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew now allows you to configure the size of the dataset when auto-generating data quality statistics](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-allows-configure-size-dataset-auto-generating-data-quality-statistics/)
+- [AWS Glue DataBrew supports transformations for seven additional datatypes](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-supports-transformations-seven-additional-datatypes/)
 - [Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Singapore and Sydney)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-m5zn-instances-with-high-frequency-processors-and-100-gbps-networking-are-now-available-in-asia-pacific-singapore-and-sydney/)
 - [Introducing Amazon VPC Endpoints for AWS CloudHSM](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-vpc-endpoints-aws-cloudhsm/)
 - [Amazon Lex is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-lex-available-aws-govcloud-us-west-region/)
@@ -66,8 +68,6 @@
 - [Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-vpc-traffic-mirroring-supported-select-non-nitro-instance-types/)
 - [AWS Glue now provides column importance metrics in the FindMatches machine learning transform](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-provides-column-importance-metrics-findmatches-machine-learning-transform/)
 - [Announcing AMD instance support for Amazon GameLift FleetIQ](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amd-instance-support-amazon-gamelift-fleetiq/)
-- [AWS Cloud9 launches visual source control integration for Git](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloud9-launches-visual-source-control-integration-for-git/)
-- [Amazon Keyspaces (for Apache Cassandra) now helps you automate table creation by supporting point-in-time recovery and tag settings in AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-supporting-point-in-time-recovery-tag-settings-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

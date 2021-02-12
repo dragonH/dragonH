@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database supports managed planned failover](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-global-database-supports-managed-planned-failover/)
 - [AWS Identity and Access Management now supports tags on additional resources](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-identity-and-access-management-now-supports-tags-on-additional-resources/)
 - [AWS Glue DataBrew now allows you to configure the size of the dataset when auto-generating data quality statistics](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-allows-configure-size-dataset-auto-generating-data-quality-statistics/)
 - [AWS Glue DataBrew supports transformations for seven additional datatypes](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-supports-transformations-seven-additional-datatypes/)
@@ -67,7 +68,6 @@
 - [Amazon Timestream now offers cross table queries, query execution statistics, and more](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-timestream-offers-cross-table-queries-query-execution-statistics-more/)
 - [Introducing Serverless Image Handler v5.2](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-serverless-image-handler-v5-2/)
 - [Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-vpc-traffic-mirroring-supported-select-non-nitro-instance-types/)
-- [AWS Glue now provides column importance metrics in the FindMatches machine learning transform](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-provides-column-importance-metrics-findmatches-machine-learning-transform/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

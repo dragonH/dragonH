@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS clusters now support user authentication with OIDC compatible identity providers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-clusters-support-user-authentication-oidc-compatible-identity-providers/)
 - [AWS WAF adds support for JSON parsing and inspection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-waf-support-json-body-inspection/)
 - [Amazon Simple Email Service launches a redesigned service console experience](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-simple-email-service-launches-a-redesigned-service-console-experience/)
 - [AWS CloudFormation StackSets is now available in Japan (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloudformation-stacksets-is-now-available-in-japan-osaka-region/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora Global Database supports managed planned failover](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-global-database-supports-managed-planned-failover/)
 - [AWS Identity and Access Management now supports tags on additional resources](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-identity-and-access-management-now-supports-tags-on-additional-resources/)
 - [AWS Glue DataBrew now allows you to configure the size of the dataset when auto-generating data quality statistics](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-allows-configure-size-dataset-auto-generating-data-quality-statistics/)
-- [AWS Glue DataBrew supports transformations for seven additional datatypes](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-supports-transformations-seven-additional-datatypes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

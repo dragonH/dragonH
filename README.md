@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Scheduled Actions of Application Auto Scaling now support Local Time Zone](https://aws.amazon.com/about-aws/whats-new/2021/02/scheduled-actions-application-auto-scaling-support-local-time-zone/)
+- [Now Launch Amazon SageMaker Studio using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/now-launch-amazon-sagemaker-studio-aws-cloudformation/)
 - [Amazon Aurora Global Database supports managed planned failover](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-global-database-supports-managed-planned-failover/)
 - [AWS Identity and Access Management now supports tags on additional resources](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-identity-and-access-management-now-supports-tags-on-additional-resources/)
 - [AWS Glue DataBrew now allows you to configure the size of the dataset when auto-generating data quality statistics](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-allows-configure-size-dataset-auto-generating-data-quality-statistics/)
@@ -66,8 +68,6 @@
 - [Introducing Amazon VPC Endpoints for AWS CloudHSM](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-amazon-vpc-endpoints-aws-cloudhsm/)
 - [Amazon Lex is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-lex-available-aws-govcloud-us-west-region/)
 - [Amazon Timestream now offers cross table queries, query execution statistics, and more](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-timestream-offers-cross-table-queries-query-execution-statistics-more/)
-- [Introducing Serverless Image Handler v5.2](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-serverless-image-handler-v5-2/)
-- [Amazon VPC Traffic Mirroring is now supported on select non-Nitro instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-vpc-traffic-mirroring-supported-select-non-nitro-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

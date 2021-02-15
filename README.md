@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect Announces Native 100 Gbps Dedicated Connections at Select Locations](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-direct-connect-announces-native-100-gbps-connections-select-locations/)
 - [Amazon EKS clusters now support user authentication with OIDC compatible identity providers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-clusters-support-user-authentication-oidc-compatible-identity-providers/)
 - [AWS WAF adds support for JSON parsing and inspection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-waf-support-json-body-inspection/)
 - [Amazon Simple Email Service launches a redesigned service console experience](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-simple-email-service-launches-a-redesigned-service-console-experience/)
@@ -67,7 +68,6 @@
 - [Now Launch Amazon SageMaker Studio using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/now-launch-amazon-sagemaker-studio-aws-cloudformation/)
 - [Amazon Aurora Global Database supports managed planned failover](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-global-database-supports-managed-planned-failover/)
 - [AWS Identity and Access Management now supports tags on additional resources](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-identity-and-access-management-now-supports-tags-on-additional-resources/)
-- [AWS Glue DataBrew now allows you to configure the size of the dataset when auto-generating data quality statistics](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-databrew-allows-configure-size-dataset-auto-generating-data-quality-statistics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

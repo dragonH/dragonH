@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces (for Apache Cassandra) now supports PCI DSS compliance to help you run payment processing workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-now-supports-pci-dss-compliance/)
+- [AWS Elemental MediaLive expands its automatic input failover capabilities](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-expands-its-automatic-input-failover-capabilities/)
+- [Amazon S3 on Outposts adds a smaller storage tier](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-on-outposts-adds-a-smaller-storage-tier/)
 - [AWS Direct Connect Announces Native 100 Gbps Dedicated Connections at Select Locations](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-direct-connect-announces-native-100-gbps-connections-select-locations/)
 - [Amazon EKS clusters now support user authentication with OIDC compatible identity providers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-clusters-support-user-authentication-oidc-compatible-identity-providers/)
 - [AWS WAF adds support for JSON parsing and inspection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-waf-support-json-body-inspection/)
@@ -65,9 +68,6 @@
 - [AWS CloudFormation StackSets is now available in Japan (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloudformation-stacksets-is-now-available-in-japan-osaka-region/)
 - [Amazon RDS for MySQL and MariaDB support replication filtering](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-mysql-mariadb-support-replication-filtering/)
 - [Scheduled Actions of Application Auto Scaling now support Local Time Zone](https://aws.amazon.com/about-aws/whats-new/2021/02/scheduled-actions-application-auto-scaling-support-local-time-zone/)
-- [Now Launch Amazon SageMaker Studio using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/02/now-launch-amazon-sagemaker-studio-aws-cloudformation/)
-- [Amazon Aurora Global Database supports managed planned failover](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-global-database-supports-managed-planned-failover/)
-- [AWS Identity and Access Management now supports tags on additional resources](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-identity-and-access-management-now-supports-tags-on-additional-resources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

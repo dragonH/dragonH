@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB Accelerator (DAX) now supports next generation, burstable general-purpose Amazon EC2 T3 instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-dynamodb-accelerator-dax-now-supports-amazon-ec2-t3-instance-types/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports PCI DSS compliance to help you run payment processing workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-now-supports-pci-dss-compliance/)
 - [AWS Elemental MediaLive expands its automatic input failover capabilities](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-expands-its-automatic-input-failover-capabilities/)
 - [Amazon S3 on Outposts adds a smaller storage tier](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-on-outposts-adds-a-smaller-storage-tier/)
@@ -67,7 +68,6 @@
 - [Amazon Simple Email Service launches a redesigned service console experience](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-simple-email-service-launches-a-redesigned-service-console-experience/)
 - [AWS CloudFormation StackSets is now available in Japan (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloudformation-stacksets-is-now-available-in-japan-osaka-region/)
 - [Amazon RDS for MySQL and MariaDB support replication filtering](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-mysql-mariadb-support-replication-filtering/)
-- [Scheduled Actions of Application Auto Scaling now support Local Time Zone](https://aws.amazon.com/about-aws/whats-new/2021/02/scheduled-actions-application-auto-scaling-support-local-time-zone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

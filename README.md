@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Update content of inbound and outbound emails using AWS Lambda in Amazon WorkMail](https://aws.amazon.com/about-aws/whats-new/2021/02/update-content-inbound-outbound-emails-using-aws-lambda-amazon-workmail/)
 - [Announcing General Availability of Amplify Flutter, with new data and authentication support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-general-availability-amplify-flutter-data-authentication-support/)
 - [Amazon DynamoDB Accelerator (DAX) now supports next generation, burstable general-purpose Amazon EC2 T3 instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-dynamodb-accelerator-dax-now-supports-amazon-ec2-t3-instance-types/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports PCI DSS compliance to help you run payment processing workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-now-supports-pci-dss-compliance/)
@@ -67,7 +68,6 @@
 - [Amazon EKS clusters now support user authentication with OIDC compatible identity providers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-clusters-support-user-authentication-oidc-compatible-identity-providers/)
 - [AWS WAF adds support for JSON parsing and inspection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-waf-support-json-body-inspection/)
 - [Amazon Simple Email Service launches a redesigned service console experience](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-simple-email-service-launches-a-redesigned-service-console-experience/)
-- [AWS CloudFormation StackSets is now available in Japan (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-cloudformation-stacksets-is-now-available-in-japan-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

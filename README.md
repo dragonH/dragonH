@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now supports Kubernetes version 1.19](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-supports-kubernetes-version-1-19/)
 - [Update content of inbound and outbound emails using AWS Lambda in Amazon WorkMail](https://aws.amazon.com/about-aws/whats-new/2021/02/update-content-inbound-outbound-emails-using-aws-lambda-amazon-workmail/)
 - [Announcing General Availability of Amplify Flutter, with new data and authentication support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-general-availability-amplify-flutter-data-authentication-support/)
 - [Amazon DynamoDB Accelerator (DAX) now supports next generation, burstable general-purpose Amazon EC2 T3 instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-dynamodb-accelerator-dax-now-supports-amazon-ec2-t3-instance-types/)
@@ -67,7 +68,6 @@
 - [AWS Direct Connect Announces Native 100 Gbps Dedicated Connections at Select Locations](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-direct-connect-announces-native-100-gbps-connections-select-locations/)
 - [Amazon EKS clusters now support user authentication with OIDC compatible identity providers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-clusters-support-user-authentication-oidc-compatible-identity-providers/)
 - [AWS WAF adds support for JSON parsing and inspection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-waf-support-json-body-inspection/)
-- [Amazon Simple Email Service launches a redesigned service console experience](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-simple-email-service-launches-a-redesigned-service-console-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

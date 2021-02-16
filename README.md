@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Graviton2 based M6g, C6g, and R6g instances are now available in EU (Stockholm) region, and M6gd, C6gd, and R6gd instances are now available in US West (Northern California), and Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-graviton2-based-m6g-c6g-r6g-instances-available-additional-regions/)
+- [AWS Config now supports the ability to save advanced queries in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-ability-to-save-advanced-queries-in-aws-govcloud/)
+- [AWS Elemental MediaLive now supports region transfer for AWS Elemental Link](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-supports-region-transfer-aws-elemental-link/)
+- [AWS Elemental Link now available in Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-link-available-europe-paris-region/)
+- [AWS Fargate increases default resource count service quotas to 1000](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-fargate-increases-default-resource-count-service-quotas-to-1000/)
 - [Amazon EKS now supports Kubernetes version 1.19](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-supports-kubernetes-version-1-19/)
 - [Update content of inbound and outbound emails using AWS Lambda in Amazon WorkMail](https://aws.amazon.com/about-aws/whats-new/2021/02/update-content-inbound-outbound-emails-using-aws-lambda-amazon-workmail/)
 - [Announcing General Availability of Amplify Flutter, with new data and authentication support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-general-availability-amplify-flutter-data-authentication-support/)
 - [Amazon DynamoDB Accelerator (DAX) now supports next generation, burstable general-purpose Amazon EC2 T3 instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-dynamodb-accelerator-dax-now-supports-amazon-ec2-t3-instance-types/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports PCI DSS compliance to help you run payment processing workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-now-supports-pci-dss-compliance/)
-- [AWS Elemental MediaLive expands its automatic input failover capabilities](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-expands-its-automatic-input-failover-capabilities/)
-- [Amazon S3 on Outposts adds a smaller storage tier](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-s3-on-outposts-adds-a-smaller-storage-tier/)
-- [AWS Direct Connect Announces Native 100 Gbps Dedicated Connections at Select Locations](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-direct-connect-announces-native-100-gbps-connections-select-locations/)
-- [Amazon EKS clusters now support user authentication with OIDC compatible identity providers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-clusters-support-user-authentication-oidc-compatible-identity-providers/)
-- [AWS WAF adds support for JSON parsing and inspection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-waf-support-json-body-inspection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-inf1-instances-available-amazon-sagemaker-14-additional-aws-regions/)
 - [AWS Glue Studio now supports reading uncatalogued data from Amazon S3 and inferring its schema](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/)
 - [Amazon Pinpoint now supports 10DLC and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-pinpoint-now-supports-10dlc-and-toll-free-numbers/)
 - [Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-sns-now-supports-sending-sms-messages-to-us-destinations-using-ten-digit-long-codes-and-toll-free-numbers/)
@@ -67,7 +68,6 @@
 - [AWS Config now supports the ability to save advanced queries in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-ability-to-save-advanced-queries-in-aws-govcloud/)
 - [AWS Elemental MediaLive now supports region transfer for AWS Elemental Link](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-supports-region-transfer-aws-elemental-link/)
 - [AWS Elemental Link now available in Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-link-available-europe-paris-region/)
-- [AWS Fargate increases default resource count service quotas to 1000](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-fargate-increases-default-resource-count-service-quotas-to-1000/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

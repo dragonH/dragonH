@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/simplified-amazon-elastic-file-system-management-console-available-aws-govcloud-regions/)
+- [Amazon Elasticsearch Service adds Trace Analytics, a new feature for distributed tracing](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-adds-trace-analysis-new-feature-distributed-tracing/)
 - [AWS Graviton2 based M6g, C6g, and R6g instances are now available in EU (Stockholm) region, and M6gd, C6gd, and R6gd instances are now available in US West (Northern California), and Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-graviton2-based-m6g-c6g-r6g-instances-available-additional-regions/)
 - [AWS Config now supports the ability to save advanced queries in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-ability-to-save-advanced-queries-in-aws-govcloud/)
 - [AWS Elemental MediaLive now supports region transfer for AWS Elemental Link](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-supports-region-transfer-aws-elemental-link/)
@@ -66,8 +68,6 @@
 - [Amazon EKS now supports Kubernetes version 1.19](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-supports-kubernetes-version-1-19/)
 - [Update content of inbound and outbound emails using AWS Lambda in Amazon WorkMail](https://aws.amazon.com/about-aws/whats-new/2021/02/update-content-inbound-outbound-emails-using-aws-lambda-amazon-workmail/)
 - [Announcing General Availability of Amplify Flutter, with new data and authentication support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-general-availability-amplify-flutter-data-authentication-support/)
-- [Amazon DynamoDB Accelerator (DAX) now supports next generation, burstable general-purpose Amazon EC2 T3 instance types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-dynamodb-accelerator-dax-now-supports-amazon-ec2-t3-instance-types/)
-- [Amazon Keyspaces (for Apache Cassandra) now supports PCI DSS compliance to help you run payment processing workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-keyspaces-for-apache-cassandra-now-supports-pci-dss-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

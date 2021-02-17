@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio now supports reading uncatalogued data from Amazon S3 and inferring its schema](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/)
+- [Amazon Pinpoint now supports 10DLC and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-pinpoint-now-supports-10dlc-and-toll-free-numbers/)
+- [Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-sns-now-supports-sending-sms-messages-to-us-destinations-using-ten-digit-long-codes-and-toll-free-numbers/)
 - [Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/simplified-amazon-elastic-file-system-management-console-available-aws-govcloud-regions/)
 - [Amazon Elasticsearch Service adds Trace Analytics, a new feature for distributed tracing](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-adds-trace-analysis-new-feature-distributed-tracing/)
 - [AWS Graviton2 based M6g, C6g, and R6g instances are now available in EU (Stockholm) region, and M6gd, C6gd, and R6gd instances are now available in US West (Northern California), and Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-graviton2-based-m6g-c6g-r6g-instances-available-additional-regions/)
@@ -65,9 +68,6 @@
 - [AWS Elemental MediaLive now supports region transfer for AWS Elemental Link](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-medialive-supports-region-transfer-aws-elemental-link/)
 - [AWS Elemental Link now available in Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-link-available-europe-paris-region/)
 - [AWS Fargate increases default resource count service quotas to 1000](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-fargate-increases-default-resource-count-service-quotas-to-1000/)
-- [Amazon EKS now supports Kubernetes version 1.19](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-eks-supports-kubernetes-version-1-19/)
-- [Update content of inbound and outbound emails using AWS Lambda in Amazon WorkMail](https://aws.amazon.com/about-aws/whats-new/2021/02/update-content-inbound-outbound-emails-using-aws-lambda-amazon-workmail/)
-- [Announcing General Availability of Amplify Flutter, with new data and authentication support](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-general-availability-amplify-flutter-data-authentication-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

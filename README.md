@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics supports canary events with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/)
 - [Updated digital training for AWS Partners on End User Computing and Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-training-for-aws-partners-on-end-user-computing-and-machine-learning/)
 - [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ml-inf1-instances-are-now-available-on-amazon-sagemaker-in-14-additional-aws-regions/)
 - [AWS Glue Studio jobs can now update AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-jobs-update-aws-glue-data-catalog-tables/)
@@ -67,7 +68,6 @@
 - [Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-sns-now-supports-sending-sms-messages-to-us-destinations-using-ten-digit-long-codes-and-toll-free-numbers/)
 - [Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/simplified-amazon-elastic-file-system-management-console-available-aws-govcloud-regions/)
 - [Amazon Elasticsearch Service adds Trace Analytics, a new feature for distributed tracing](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-adds-trace-analysis-new-feature-distributed-tracing/)
-- [AWS Graviton2 based M6g, C6g, and R6g instances are now available in EU (Stockholm) region, and M6gd, C6gd, and R6gd instances are now available in US West (Northern California), and Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-graviton2-based-m6g-c6g-r6g-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

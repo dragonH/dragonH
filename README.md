@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2021/02/assign-delegated-administrator-manage-aws-cloudformation-stacksets-across-aws-organization/)
 - [Amazon CloudWatch Synthetics supports canary events with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/)
 - [Updated digital training for AWS Partners on End User Computing and Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-training-for-aws-partners-on-end-user-computing-and-machine-learning/)
 - [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ml-inf1-instances-are-now-available-on-amazon-sagemaker-in-14-additional-aws-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Pinpoint now supports 10DLC and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-pinpoint-now-supports-10dlc-and-toll-free-numbers/)
 - [Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-sns-now-supports-sending-sms-messages-to-us-destinations-using-ten-digit-long-codes-and-toll-free-numbers/)
 - [Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/simplified-amazon-elastic-file-system-management-console-available-aws-govcloud-regions/)
-- [Amazon Elasticsearch Service adds Trace Analytics, a new feature for distributed tracing](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-adds-trace-analysis-new-feature-distributed-tracing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-management/)
 - [Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2021/02/assign-delegated-administrator-manage-aws-cloudformation-stacksets-across-aws-organization/)
 - [Amazon CloudWatch Synthetics supports canary events with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/)
 - [Updated digital training for AWS Partners on End User Computing and Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-training-for-aws-partners-on-end-user-computing-and-machine-learning/)
@@ -67,7 +68,6 @@
 - [AWS Glue Studio now supports reading uncatalogued data from Amazon S3 and inferring its schema](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/)
 - [Amazon Pinpoint now supports 10DLC and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-pinpoint-now-supports-10dlc-and-toll-free-numbers/)
 - [Amazon SNS now supports sending SMS messages to US destinations using ten-digit long codes and toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-sns-now-supports-sending-sms-messages-to-us-destinations-using-ten-digit-long-codes-and-toll-free-numbers/)
-- [Simplified Amazon Elastic File System management console now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/simplified-amazon-elastic-file-system-management-console-available-aws-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

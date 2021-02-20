@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Support for KMS encryption on S3 buckets used by AWS Config](https://aws.amazon.com/about-aws/whats-new/2021/02/support-for-kms-encryption-on-s3-buckets-used-by-aws-config/)
 - [Now create Amazon SageMaker Studio presigned URL with custom expiration time](https://aws.amazon.com/about-aws/whats-new/2021/02/now-create-amazon-sagemaker-studio-presigned-url-custom-expiration-time/)
 - [Amazon RDS Publishes New Events for Multi-AZ Deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-publishes-new-events-multi-az-deployments/)
 - [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-management/)
@@ -67,7 +68,6 @@
 - [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ml-inf1-instances-are-now-available-on-amazon-sagemaker-in-14-additional-aws-regions/)
 - [AWS Glue Studio jobs can now update AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-jobs-update-aws-glue-data-catalog-tables/)
 - [Amazon Redshift Query Editor now supports clusters with enhanced VPC routing, longer query run times, and all node types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-redshift-query-editor-supports-clusters-with-enhanced-vpc-routing-query-run-times-node-types/)
-- [AWS Glue Studio now supports reading uncatalogued data from Amazon S3 and inferring its schema](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-supports-reading-uncatalogued-data-s3-inferring-schema/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

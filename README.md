@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports January 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-now-supports-january-2021-release-updates-ru/)
+- [AWS Control Tower now provides region selection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-control-tower-now-provides-region-selection/)
+- [AWS CodeBuild supports Arm-based workloads using AWS Graviton2](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-codebuild-supports-arm-based-workloads-using-aws-graviton2/)
 - [Support for KMS encryption on S3 buckets used by AWS Config](https://aws.amazon.com/about-aws/whats-new/2021/02/support-for-kms-encryption-on-s3-buckets-used-by-aws-config/)
 - [Now create Amazon SageMaker Studio presigned URL with custom expiration time](https://aws.amazon.com/about-aws/whats-new/2021/02/now-create-amazon-sagemaker-studio-presigned-url-custom-expiration-time/)
 - [Amazon RDS Publishes New Events for Multi-AZ Deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-publishes-new-events-multi-az-deployments/)
@@ -65,9 +68,6 @@
 - [Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2021/02/assign-delegated-administrator-manage-aws-cloudformation-stacksets-across-aws-organization/)
 - [Amazon CloudWatch Synthetics supports canary events with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/)
 - [Updated digital training for AWS Partners on End User Computing and Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-training-for-aws-partners-on-end-user-computing-and-machine-learning/)
-- [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 14 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ml-inf1-instances-are-now-available-on-amazon-sagemaker-in-14-additional-aws-regions/)
-- [AWS Glue Studio jobs can now update AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-glue-studio-jobs-update-aws-glue-data-catalog-tables/)
-- [Amazon Redshift Query Editor now supports clusters with enhanced VPC routing, longer query run times, and all node types](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-redshift-query-editor-supports-clusters-with-enhanced-vpc-routing-query-run-times-node-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Seoul) region](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-t4g-free-trial-asia-pacific-seoul-region/)
+- [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors in Asia Pacific (Hong Kong), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-asia-pacific-europe-regions/)
 - [Amazon Connect now provides disconnect reason for Voice Calls & Tasks](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-now-provides-disconnect-reason-voice-calls-tasks/)
 - [Amazon RDS for Oracle now supports January 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-now-supports-january-2021-release-updates-ru/)
 - [AWS Control Tower now provides region selection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-control-tower-now-provides-region-selection/)
@@ -66,8 +68,6 @@
 - [Now create Amazon SageMaker Studio presigned URL with custom expiration time](https://aws.amazon.com/about-aws/whats-new/2021/02/now-create-amazon-sagemaker-studio-presigned-url-custom-expiration-time/)
 - [Amazon RDS Publishes New Events for Multi-AZ Deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-publishes-new-events-multi-az-deployments/)
 - [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-management/)
-- [Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2021/02/assign-delegated-administrator-manage-aws-cloudformation-stacksets-across-aws-organization/)
-- [Amazon CloudWatch Synthetics supports canary events with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

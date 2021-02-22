@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now provides disconnect reason for Voice Calls & Tasks](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-now-provides-disconnect-reason-voice-calls-tasks/)
 - [Amazon RDS for Oracle now supports January 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-now-supports-january-2021-release-updates-ru/)
 - [AWS Control Tower now provides region selection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-control-tower-now-provides-region-selection/)
 - [AWS CodeBuild supports Arm-based workloads using AWS Graviton2](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-codebuild-supports-arm-based-workloads-using-aws-graviton2/)
@@ -67,7 +68,6 @@
 - [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-management/)
 - [Assign a Delegated Administrator to manage AWS CloudFormation StackSets across your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2021/02/assign-delegated-administrator-manage-aws-cloudformation-stacksets-across-aws-organization/)
 - [Amazon CloudWatch Synthetics supports canary events with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-cloudwatch-synthetics-supports-canary-events-with-amazon-eventbridge/)
-- [Updated digital training for AWS Partners on End User Computing and Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-training-for-aws-partners-on-end-user-computing-and-machine-learning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

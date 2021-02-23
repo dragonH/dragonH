@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/access-amazon-efs-file-systems-from-ec2-mac-instances-running-macos-big-sur/)
 - [Amazon Aurora PostgreSQL Patches 1.8.1 / 2.6.2 / 3.3.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-postgresql-patches-now-available/)
 - [New AWS Solutions Implementation: IoT Static IP Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-implementation-iot-static-ip-endpoints/)
 - [Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-sql-server-now-supports-always-on-availability-groups-for-standard-edition/)
@@ -67,7 +68,6 @@
 - [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Seoul) region](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-t4g-free-trial-asia-pacific-seoul-region/)
 - [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors in Asia Pacific (Hong Kong), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-asia-pacific-europe-regions/)
 - [Amazon Connect now provides disconnect reason for Voice Calls & Tasks](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-now-provides-disconnect-reason-voice-calls-tasks/)
-- [Amazon RDS for Oracle now supports January 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-now-supports-january-2021-release-updates-ru/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

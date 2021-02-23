@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing our new Solutions Training for Partners: Sales Best Practices courses](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-our-new-solutions-training-for-partners-sales-best-practices-courses/)
 - [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Seoul) region](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-t4g-free-trial-asia-pacific-seoul-region/)
 - [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors in Asia Pacific (Hong Kong), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-asia-pacific-europe-regions/)
 - [Amazon Connect now provides disconnect reason for Voice Calls & Tasks](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-now-provides-disconnect-reason-voice-calls-tasks/)
@@ -67,7 +68,6 @@
 - [Support for KMS encryption on S3 buckets used by AWS Config](https://aws.amazon.com/about-aws/whats-new/2021/02/support-for-kms-encryption-on-s3-buckets-used-by-aws-config/)
 - [Now create Amazon SageMaker Studio presigned URL with custom expiration time](https://aws.amazon.com/about-aws/whats-new/2021/02/now-create-amazon-sagemaker-studio-presigned-url-custom-expiration-time/)
 - [Amazon RDS Publishes New Events for Multi-AZ Deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-publishes-new-events-multi-az-deployments/)
-- [New AWS Solutions Consulting Offer - AI-Powered Inventory Management](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-ai-powered-inventory-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

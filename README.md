@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: IoT Static IP Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-implementation-iot-static-ip-endpoints/)
+- [Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-sql-server-now-supports-always-on-availability-groups-for-standard-edition/)
+- [AWS Database Migration Service now supports MariaDB version 10.5](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-database-migration-service-supports-mariadb-version-10-5/)
+- [Amazon Elasticsearch Service add support for Reporting in Kibana](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-support-reporting-kibana/)
 - [Introducing our new Solutions Training for Partners: Sales Best Practices courses](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-our-new-solutions-training-for-partners-sales-best-practices-courses/)
 - [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Seoul) region](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-t4g-free-trial-asia-pacific-seoul-region/)
 - [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors in Asia Pacific (Hong Kong), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-asia-pacific-europe-regions/)
 - [Amazon Connect now provides disconnect reason for Voice Calls & Tasks](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-connect-now-provides-disconnect-reason-voice-calls-tasks/)
 - [Amazon RDS for Oracle now supports January 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-oracle-now-supports-january-2021-release-updates-ru/)
 - [AWS Control Tower now provides region selection](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-control-tower-now-provides-region-selection/)
-- [AWS CodeBuild supports Arm-based workloads using AWS Graviton2](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-codebuild-supports-arm-based-workloads-using-aws-graviton2/)
-- [Support for KMS encryption on S3 buckets used by AWS Config](https://aws.amazon.com/about-aws/whats-new/2021/02/support-for-kms-encryption-on-s3-buckets-used-by-aws-config/)
-- [Now create Amazon SageMaker Studio presigned URL with custom expiration time](https://aws.amazon.com/about-aws/whats-new/2021/02/now-create-amazon-sagemaker-studio-presigned-url-custom-expiration-time/)
-- [Amazon RDS Publishes New Events for Multi-AZ Deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-publishes-new-events-multi-az-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

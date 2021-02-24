@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Automate quality inspection with Amazon Lookout for Vision — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/02/automate-quality-inspection-amazon-lookout-vision-generally-available/)
 - [Amazon Elasticsearch Service now supports rollups, reducing storage costs for extended retention](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-supports-rollups-reducing-storage-costs-extended-retention/)
 - [AWS Network Firewall Deployment Automations for AWS Transit Gateway is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-network-firewall-solution-aws-transit-gateway-generally-available/)
 - [Announcing two new on-demand digital courses for Media Services](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-two-new-on-demand-digital-courses-for-media-services/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Mac Instances now support macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-mac-instances-now-support-macos-big-sur/)
 - [Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/access-amazon-efs-file-systems-from-ec2-mac-instances-running-macos-big-sur/)
 - [Amazon Aurora PostgreSQL Patches 1.8.1 / 2.6.2 / 3.3.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-postgresql-patches-now-available/)
-- [New AWS Solutions Implementation: IoT Static IP Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-implementation-iot-static-ip-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

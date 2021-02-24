@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elasticsearch Service now supports rollups, reducing storage costs for extended retention](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-supports-rollups-reducing-storage-costs-extended-retention/)
 - [AWS Network Firewall Deployment Automations for AWS Transit Gateway is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-network-firewall-solution-aws-transit-gateway-generally-available/)
 - [Announcing two new on-demand digital courses for Media Services](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-two-new-on-demand-digital-courses-for-media-services/)
 - [New digital curriculum: Build Modern Apps with Purpose-Built Databases](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-build-modern-apps-with-purpose-built-databases/)
@@ -67,7 +68,6 @@
 - [Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/access-amazon-efs-file-systems-from-ec2-mac-instances-running-macos-big-sur/)
 - [Amazon Aurora PostgreSQL Patches 1.8.1 / 2.6.2 / 3.3.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-postgresql-patches-now-available/)
 - [New AWS Solutions Implementation: IoT Static IP Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-implementation-iot-static-ip-endpoints/)
-- [Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-for-sql-server-now-supports-always-on-availability-groups-for-standard-edition/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

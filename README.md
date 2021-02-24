@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling now shows scaling history for deleted groups](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-auto-scaling-shows-scaling-history-deleted-groups/)
+- [New troubleshooting feature now generally available for AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/02/new-troubleshooting-feature-generally-available-aws-iot-events/)
 - [Amazon EC2 Mac Instances now support macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-mac-instances-now-support-macos-big-sur/)
 - [Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/access-amazon-efs-file-systems-from-ec2-mac-instances-running-macos-big-sur/)
 - [Amazon Aurora PostgreSQL Patches 1.8.1 / 2.6.2 / 3.3.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-postgresql-patches-now-available/)
@@ -66,8 +68,6 @@
 - [AWS Database Migration Service now supports MariaDB version 10.5](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-database-migration-service-supports-mariadb-version-10-5/)
 - [Amazon Elasticsearch Service add support for Reporting in Kibana](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-support-reporting-kibana/)
 - [Introducing our new Solutions Training for Partners: Sales Best Practices courses](https://aws.amazon.com/about-aws/whats-new/2021/02/introducing-our-new-solutions-training-for-partners-sales-best-practices-courses/)
-- [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors along with a T4g free trial in Asia Pacific (Seoul) region](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-t4g-free-trial-asia-pacific-seoul-region/)
-- [Announcing new Amazon EC2 T4g instances powered by AWS Graviton2 processors in Asia Pacific (Hong Kong), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-amazon-ec2-t4g-instances-powered-aws-graviton2-processors-asia-pacific-europe-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

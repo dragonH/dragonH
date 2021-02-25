@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New digital class and lab on DevOps on AWS](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-class-and-lab-on-devops-on-aws/)
+- [Updated digital course on Coursera and edX - AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-course-on-coursera-and-edx-aws-cloud-practitioner-essentials/)
 - [Amazon RDS now supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-now-supports-postgresql-13/)
 - [AWS Transfer Family is now available in AWS Middle East (Bahrain), AWS Asia Pacific (Hong Kong), and AWS Africa (Cape Town) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-transfer-family-is-now-available-in-aws-middle-east-bahrain-aws-asia-pacific-hong-kong-and-aws-africa-cape-town-regions/)
 - [Automate quality inspection with Amazon Lookout for Vision — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/02/automate-quality-inspection-amazon-lookout-vision-generally-available/)
@@ -66,8 +68,6 @@
 - [Announcing two new on-demand digital courses for Media Services](https://aws.amazon.com/about-aws/whats-new/2021/02/announcing-two-new-on-demand-digital-courses-for-media-services/)
 - [New digital curriculum: Build Modern Apps with Purpose-Built Databases](https://aws.amazon.com/about-aws/whats-new/2021/02/new-digital-curriculum-build-modern-apps-with-purpose-built-databases/)
 - [Amazon EC2 Auto Scaling now shows scaling history for deleted groups](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-auto-scaling-shows-scaling-history-deleted-groups/)
-- [New troubleshooting feature now generally available for AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/02/new-troubleshooting-feature-generally-available-aws-iot-events/)
-- [Amazon EC2 Mac Instances now support macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-mac-instances-now-support-macos-big-sur/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

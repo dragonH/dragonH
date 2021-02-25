@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-now-supports-postgresql-13/)
+- [AWS Transfer Family is now available in AWS Middle East (Bahrain), AWS Asia Pacific (Hong Kong), and AWS Africa (Cape Town) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-transfer-family-is-now-available-in-aws-middle-east-bahrain-aws-asia-pacific-hong-kong-and-aws-africa-cape-town-regions/)
 - [Automate quality inspection with Amazon Lookout for Vision — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/02/automate-quality-inspection-amazon-lookout-vision-generally-available/)
 - [Amazon Elasticsearch Service now supports rollups, reducing storage costs for extended retention](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-supports-rollups-reducing-storage-costs-extended-retention/)
 - [AWS Network Firewall Deployment Automations for AWS Transit Gateway is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-network-firewall-solution-aws-transit-gateway-generally-available/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 Auto Scaling now shows scaling history for deleted groups](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-auto-scaling-shows-scaling-history-deleted-groups/)
 - [New troubleshooting feature now generally available for AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/02/new-troubleshooting-feature-generally-available-aws-iot-events/)
 - [Amazon EC2 Mac Instances now support macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-ec2-mac-instances-now-support-macos-big-sur/)
-- [Access Amazon EFS file systems from EC2 Mac instances running macOS Big Sur](https://aws.amazon.com/about-aws/whats-new/2021/02/access-amazon-efs-file-systems-from-ec2-mac-instances-running-macos-big-sur/)
-- [Amazon Aurora PostgreSQL Patches 1.8.1 / 2.6.2 / 3.3.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-aurora-postgresql-patches-now-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

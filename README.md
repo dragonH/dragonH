@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now allows you to specify IP addresses for SAP deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-now-allows-you-to-specify-ip-addresses-for-sap-deployments/)
 - [AWS Config now supports Amazon container services](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-amazon-container-services/)
 - [AWS Elemental MediaTailor now supports many media origins and paths within a single configuration with Configuration Aliases](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-mediatailor-supports-media-origins-paths-with-configuration-allases/)
 - [New AWS Solutions Consulting Offer - JumpStart for Amazon Textract](https://aws.amazon.com/about-aws/whats-new/2021/02/new-aws-solutions-consulting-offer-jumpstart-amazon-textract/)
@@ -67,7 +68,6 @@
 - [AWS Transfer Family is now available in AWS Middle East (Bahrain), AWS Asia Pacific (Hong Kong), and AWS Africa (Cape Town) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-transfer-family-is-now-available-in-aws-middle-east-bahrain-aws-asia-pacific-hong-kong-and-aws-africa-cape-town-regions/)
 - [Automate quality inspection with Amazon Lookout for Vision — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/02/automate-quality-inspection-amazon-lookout-vision-generally-available/)
 - [Amazon Elasticsearch Service now supports rollups, reducing storage costs for extended retention](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-supports-rollups-reducing-storage-costs-extended-retention/)
-- [AWS Network Firewall Deployment Automations for AWS Transit Gateway is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-network-firewall-solution-aws-transit-gateway-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Support for AS923-1 frequency band is now generally available for AWS IoT Core for LoRaWAN](https://aws.amazon.com/about-aws/whats-new/2021/02/support-as923-1-frequency-band-generally-available-aws-iot-core-lorawan/)
 - [AWS Launch Wizard now allows you to specify IP addresses for SAP deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-now-allows-you-to-specify-ip-addresses-for-sap-deployments/)
 - [AWS Config now supports Amazon container services](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-amazon-container-services/)
 - [AWS Elemental MediaTailor now supports many media origins and paths within a single configuration with Configuration Aliases](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-elemental-mediatailor-supports-media-origins-paths-with-configuration-allases/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-now-supports-postgresql-13/)
 - [AWS Transfer Family is now available in AWS Middle East (Bahrain), AWS Asia Pacific (Hong Kong), and AWS Africa (Cape Town) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-transfer-family-is-now-available-in-aws-middle-east-bahrain-aws-asia-pacific-hong-kong-and-aws-africa-cape-town-regions/)
 - [Automate quality inspection with Amazon Lookout for Vision — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/02/automate-quality-inspection-amazon-lookout-vision-generally-available/)
-- [Amazon Elasticsearch Service now supports rollups, reducing storage costs for extended retention](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-elasticsearch-service-supports-rollups-reducing-storage-costs-extended-retention/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

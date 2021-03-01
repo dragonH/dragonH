@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now supports adding KMS envelope encryption to existing clusters to enhance security for secrets](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-adding-kms-envelope-encryption-to-existing-clusters/)
 - [Support for AS923-1 frequency band is now generally available for AWS IoT Core for LoRaWAN](https://aws.amazon.com/about-aws/whats-new/2021/02/support-as923-1-frequency-band-generally-available-aws-iot-core-lorawan/)
 - [AWS Launch Wizard now allows you to specify IP addresses for SAP deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-now-allows-you-to-specify-ip-addresses-for-sap-deployments/)
 - [AWS Config now supports Amazon container services](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-amazon-container-services/)
@@ -67,7 +68,6 @@
 - [Updated digital course on Coursera and edX - AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/02/updated-digital-course-on-coursera-and-edx-aws-cloud-practitioner-essentials/)
 - [Amazon RDS now supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/02/amazon-rds-now-supports-postgresql-13/)
 - [AWS Transfer Family is now available in AWS Middle East (Bahrain), AWS Asia Pacific (Hong Kong), and AWS Africa (Cape Town) Regions](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-transfer-family-is-now-available-in-aws-middle-east-bahrain-aws-asia-pacific-hong-kong-and-aws-africa-cape-town-regions/)
-- [Automate quality inspection with Amazon Lookout for Vision — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/02/automate-quality-inspection-amazon-lookout-vision-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

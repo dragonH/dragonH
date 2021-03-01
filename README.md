@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Get ready to roll! 2021 AWS DeepRacer League Season is now underway](https://aws.amazon.com/about-aws/whats-new/2021/03/2021-aws-deepracer-league-season-underway/)
+- [AWS AppConfig is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-appconfig-available-govcloud-regions/)
 - [Real-Time Contact Lens for Amazon Connect is now available in the Europe (London), Europe (Frankfurt), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/real-time-contact-lens-for-amazon-connect-available-additional-regions/)
 - [Amazon Connect now supports 15 minute intervals for historical metric reporting](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-supports-15-minute-intervals-for-historical-metric-reporting/)
 - [AWS CodePipeline now supports 1000 pipelines per account](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-codepipeline-supports-1000-pipelines-per-account/)
@@ -66,8 +68,6 @@
 - [Amazon Connect Customer Profiles now supports data sources from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-customer-profiles-now-supports-data-sources-from-amazon-s3/)
 - [Amazon EKS now supports adding KMS envelope encryption to existing clusters to enhance security for secrets](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-adding-kms-envelope-encryption-to-existing-clusters/)
 - [Support for AS923-1 frequency band is now generally available for AWS IoT Core for LoRaWAN](https://aws.amazon.com/about-aws/whats-new/2021/02/support-as923-1-frequency-band-generally-available-aws-iot-core-lorawan/)
-- [AWS Launch Wizard now allows you to specify IP addresses for SAP deployments](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-launch-wizard-now-allows-you-to-specify-ip-addresses-for-sap-deployments/)
-- [AWS Config now supports Amazon container services](https://aws.amazon.com/about-aws/whats-new/2021/02/aws-config-supports-amazon-container-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

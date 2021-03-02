@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The AWS Lambda console now features a new navigation design](https://aws.amazon.com/about-aws/whats-new/2021/03/the-aws-lambda-console-now-features-a-new-navigation-design/)
+- [FreeRTOS Long Term Support now includes AWS IoT over-the-air update, AWS IoT Device Defender, and AWS IoT Jobs libraries](https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-long-term-support-includes-aws-iot-over-the-air-update-iot-device-defender-iot-jobs-libraries/)
+- [Amazon Elasticsearch Service now supports tag-based authorization for configuration APIs](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-now-supports-tag-based-authorization-for-configuration-apis/)
 - [New AWS Solutions Consulting Offer - Intelligent SAP Migration and Management on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-intelligent-sap-migration-management-aws/)
 - [Amazon Aurora Supports PostgreSQL 11.9, 10.14, and 9.6.19 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-supports-postgresql-aws-govcloud-us-regions/)
 - [Announcing General Availability of Ethereum on Amazon Managed Blockchain](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-ethereum-on-amazon-managed-blockchain/)
@@ -65,9 +68,6 @@
 - [Four new digital training offerings for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/03/four-new-digital-training-offerings-for-aws-end-user-computing/)
 - [Announcing the newly expanded AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-the-newly-expanded-aws-asia-pacific-osaka-region/)
 - [Get ready to roll! 2021 AWS DeepRacer League Season is now underway](https://aws.amazon.com/about-aws/whats-new/2021/03/2021-aws-deepracer-league-season-underway/)
-- [AWS AppConfig is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-appconfig-available-govcloud-regions/)
-- [Real-Time Contact Lens for Amazon Connect is now available in the Europe (London), Europe (Frankfurt), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/real-time-contact-lens-for-amazon-connect-available-additional-regions/)
-- [Amazon Connect now supports 15 minute intervals for historical metric reporting](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-supports-15-minute-intervals-for-historical-metric-reporting/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing General Availability of Ethereum on Amazon Managed Blockchain](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-ethereum-on-amazon-managed-blockchain/)
+- [AWS Glue DataBrew extends its datasets to support files without an explicit file extension or a header row](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-extends-its-dataset/)
 - [Four new digital training offerings for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/03/four-new-digital-training-offerings-for-aws-end-user-computing/)
 - [Announcing the newly expanded AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-the-newly-expanded-aws-asia-pacific-osaka-region/)
 - [Get ready to roll! 2021 AWS DeepRacer League Season is now underway](https://aws.amazon.com/about-aws/whats-new/2021/03/2021-aws-deepracer-league-season-underway/)
@@ -66,8 +68,6 @@
 - [Amazon Connect now supports 15 minute intervals for historical metric reporting](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-supports-15-minute-intervals-for-historical-metric-reporting/)
 - [AWS CodePipeline now supports 1000 pipelines per account](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-codepipeline-supports-1000-pipelines-per-account/)
 - [Amazon CloudWatch Synthetics now supports cross region bucket access and upgraded dependencies](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-cloudwatch-synthetics-now-supports-cross-region-bucket-access-and-upgraded-dependencies/)
-- [AWS Gateway Load Balancer is now available in the US East (Ohio), Asia Pacific (Tokyo), and EU (Frankfurt and Stockholm) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-gateway-load-balancer-is-now-available-in-the-us-east-ohio-asia-pacific-tokyo-and-eu-frankfurt-and-stockholm-regions/)
-- [Amazon Connect Customer Profiles now supports data sources from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-customer-profiles-now-supports-data-sources-from-amazon-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

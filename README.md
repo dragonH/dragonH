@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Intelligent SAP Migration and Management on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-intelligent-sap-migration-management-aws/)
+- [Amazon Aurora Supports PostgreSQL 11.9, 10.14, and 9.6.19 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-supports-postgresql-aws-govcloud-us-regions/)
 - [Announcing General Availability of Ethereum on Amazon Managed Blockchain](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-ethereum-on-amazon-managed-blockchain/)
 - [AWS Glue DataBrew extends its datasets to support files without an explicit file extension or a header row](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-extends-its-dataset/)
 - [Four new digital training offerings for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/03/four-new-digital-training-offerings-for-aws-end-user-computing/)
@@ -66,8 +68,6 @@
 - [AWS AppConfig is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-appconfig-available-govcloud-regions/)
 - [Real-Time Contact Lens for Amazon Connect is now available in the Europe (London), Europe (Frankfurt), and Asia Pacific (Tokyo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/real-time-contact-lens-for-amazon-connect-available-additional-regions/)
 - [Amazon Connect now supports 15 minute intervals for historical metric reporting](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-supports-15-minute-intervals-for-historical-metric-reporting/)
-- [AWS CodePipeline now supports 1000 pipelines per account](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-codepipeline-supports-1000-pipelines-per-account/)
-- [Amazon CloudWatch Synthetics now supports cross region bucket access and upgraded dependencies](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-cloudwatch-synthetics-now-supports-cross-region-bucket-access-and-upgraded-dependencies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

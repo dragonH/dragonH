@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge now supports propagation of X-Ray trace context](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-now-supports-propagation-of-x-ray-trace-context/)
 - [The AWS Lambda console now features a new navigation design](https://aws.amazon.com/about-aws/whats-new/2021/03/the-aws-lambda-console-now-features-a-new-navigation-design/)
 - [FreeRTOS Long Term Support now includes AWS IoT over-the-air update, AWS IoT Device Defender, and AWS IoT Jobs libraries](https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-long-term-support-includes-aws-iot-over-the-air-update-iot-device-defender-iot-jobs-libraries/)
 - [Amazon Elasticsearch Service now supports tag-based authorization for configuration APIs](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-now-supports-tag-based-authorization-for-configuration-apis/)
@@ -67,7 +68,6 @@
 - [AWS Glue DataBrew extends its datasets to support files without an explicit file extension or a header row](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-extends-its-dataset/)
 - [Four new digital training offerings for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/03/four-new-digital-training-offerings-for-aws-end-user-computing/)
 - [Announcing the newly expanded AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-the-newly-expanded-aws-asia-pacific-osaka-region/)
-- [Get ready to roll! 2021 AWS DeepRacer League Season is now underway](https://aws.amazon.com/about-aws/whats-new/2021/03/2021-aws-deepracer-league-season-underway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

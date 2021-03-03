@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic File System (Amazon EFS) is now available in the AWS Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elastic-file-system-available-aws-osaka-region/)
 - [AWS Systems Manager OpsCenter now displays an aggregated view of all operational issues for a specified resource](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-systems-manager-opscenter-now-displays-an-aggregated-view-of-all-operational-issues-for-a-specified-resource/)
 - [New AWS Solutions Consulting Offer - Driving Digital Transformation with Sitecore](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-driving-digital-transformation-with-sitecore/)
 - [FreeRTOS demonstrates meeting a set of security criteria for IoT platforms](https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-demonstrates-meeting-a-set-of-security-criteria-for-iot-platforms/)
@@ -67,7 +68,6 @@
 - [FreeRTOS Long Term Support now includes AWS IoT over-the-air update, AWS IoT Device Defender, and AWS IoT Jobs libraries](https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-long-term-support-includes-aws-iot-over-the-air-update-iot-device-defender-iot-jobs-libraries/)
 - [Amazon Elasticsearch Service now supports tag-based authorization for configuration APIs](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-now-supports-tag-based-authorization-for-configuration-apis/)
 - [New AWS Solutions Consulting Offer - Intelligent SAP Migration and Management on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-intelligent-sap-migration-management-aws/)
-- [Amazon Aurora Supports PostgreSQL 11.9, 10.14, and 9.6.19 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-supports-postgresql-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

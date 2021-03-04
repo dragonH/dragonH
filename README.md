@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Certificate Manager now provides certificate expiry monitoring through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-certificate-manager-provides-certificate-expiry-monitoring-through-amazon-cloudwatch/)
 - [Amazon VPC Flow Logs now reflects AWS Service name, Traffic Path and Flow Direction](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-flow-logs-now-reflects-aws-service-name-traffic-path-and-flow-direction/)
 - [Amazon Elastic File System (Amazon EFS) is now available in the AWS Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elastic-file-system-available-aws-osaka-region/)
 - [AWS Systems Manager OpsCenter now displays an aggregated view of all operational issues for a specified resource](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-systems-manager-opscenter-now-displays-an-aggregated-view-of-all-operational-issues-for-a-specified-resource/)
@@ -67,7 +68,6 @@
 - [Amazon EventBridge now supports propagation of X-Ray trace context](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-now-supports-propagation-of-x-ray-trace-context/)
 - [The AWS Lambda console now features a new navigation design](https://aws.amazon.com/about-aws/whats-new/2021/03/the-aws-lambda-console-now-features-a-new-navigation-design/)
 - [FreeRTOS Long Term Support now includes AWS IoT over-the-air update, AWS IoT Device Defender, and AWS IoT Jobs libraries](https://aws.amazon.com/about-aws/whats-new/2021/03/freertos-long-term-support-includes-aws-iot-over-the-air-update-iot-device-defender-iot-jobs-libraries/)
-- [Amazon Elasticsearch Service now supports tag-based authorization for configuration APIs](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-now-supports-tag-based-authorization-for-configuration-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

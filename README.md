@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 D3 instances with dense local HDD storage now available in Asia Pacific (Singapore, Sydney and Tokyo), and Europe (Frankfurt) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-d3-instances-with-dense-local-hdd-storage-now-available-in-asia-pacific-singapore-sydney-and-tokyo-and-europe-frankfurt-regions/)
 - [AWS Proton makes new fields available for Jinja parametrization](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-makes-new-fields-available-for-jinja-parametrization/)
 - [AWS Proton now supports services without pipelines](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-supports-services-without-pipelines/)
 - [AWS Proton now supports tagging capabilities](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-now-supports-tagging-capabilities/)
@@ -67,7 +68,6 @@
 - [AWS IoT Device Defender now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-device-defender-supports-cloudformation/)
 - [Amazon EMR introduces instance fleets to help lower cost and improve cluster provisioning in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-introduces-instance-fleets-lower-cost-improve-cluster-provisioning-aws-govcloud-regions/)
 - [AWS Glue DataBrew adds binning, skewness, binarization, and transpose transformations for pre-processing data for machine learning and analytics](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-adds-binning-skewness-binarization-transformations-pre-processing-data/)
-- [AWS IoT Device SDK for Embedded C now supports over-the-air update, AWS IoT Device Defender custom metrics, and multiple shadows for a single IoT device](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-device-sdk-embedded-c-supports-over-the-air-update-custom-metrics-multiple-shadows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

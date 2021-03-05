@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Proton makes new fields available for Jinja parametrization](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-makes-new-fields-available-for-jinja-parametrization/)
+- [AWS Proton now supports services without pipelines](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-supports-services-without-pipelines/)
+- [AWS Proton now supports tagging capabilities](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-now-supports-tagging-capabilities/)
 - [Amazon Quicksight Launches Sankey Diagram, Field folders and more](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-quicksight-launches-sankey-diagram-field-folders-more/)
 - [AWS Shield Advanced now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-shield-advanced-now-supports-resource-tagging/)
 - [Amazon EKS now supports creation and management of add-ons using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-now-supports-creation-and-management-of-add-ons-using-aws-cloudformation/)
@@ -65,9 +68,6 @@
 - [Amazon EMR introduces instance fleets to help lower cost and improve cluster provisioning in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-introduces-instance-fleets-lower-cost-improve-cluster-provisioning-aws-govcloud-regions/)
 - [AWS Glue DataBrew adds binning, skewness, binarization, and transpose transformations for pre-processing data for machine learning and analytics](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-adds-binning-skewness-binarization-transformations-pre-processing-data/)
 - [AWS IoT Device SDK for Embedded C now supports over-the-air update, AWS IoT Device Defender custom metrics, and multiple shadows for a single IoT device](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-device-sdk-embedded-c-supports-over-the-air-update-custom-metrics-multiple-shadows/)
-- [AWS CloudFormation now supports Amazon S3 on Outposts](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudformation-supports-amazon-s3-on-outposts/)
-- [Amazon EventBridge introduces support for API Destinations](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-introduces-support-for-api-destinations/)
-- [AWS Step Functions adds tooling support for YAML](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-step-functions-adds-tooling-support-for-yaml/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

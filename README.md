@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew adds binning, skewness, binarization, and transpose transformations for pre-processing data for machine learning and analytics](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-adds-binning-skewness-binarization-transformations-pre-processing-data/)
+- [AWS IoT Device SDK for Embedded C now supports over-the-air update, AWS IoT Device Defender custom metrics, and multiple shadows for a single IoT device](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-device-sdk-embedded-c-supports-over-the-air-update-custom-metrics-multiple-shadows/)
 - [AWS CloudFormation now supports Amazon S3 on Outposts](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudformation-supports-amazon-s3-on-outposts/)
 - [Amazon EventBridge introduces support for API Destinations](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-introduces-support-for-api-destinations/)
 - [AWS Step Functions adds tooling support for YAML](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-step-functions-adds-tooling-support-for-yaml/)
@@ -66,8 +68,6 @@
 - [AWS Network Firewall is now available in the US East (Ohio), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (Stockholm) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-network-firewall-available-additional-regions/)
 - [Amazon EC2 P4d Instances now available in the US East (Ohio) and Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-p4d-instances-available-additional-regions/)
 - [Amazon Redshift launches RA3.16xlarge and RA3.4xlarge in AWS GovCloud (US) Regions and RA3.xlplus in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-redshift-launches-ra3-16xlarge-and-ra3-xlplus-in-aws-govcloud-us-regions/)
-- [AWS Solutions: Serverless Bot Framework adds Amazon Lex V2 Console and API integration for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-serverless-bot-framework-adds-amazon-lex-v2-console-api-integration/)
-- [Amazon EMR on EKS is now available in US West (N. California), US East (Ohio), Canada (Central), EU (Frankfurt and London), Asia Pacific (Mumbai, Seoul, Singapore, Sydney, and Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-on-eks-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

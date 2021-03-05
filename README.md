@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge introduces support for API Destinations](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eventbridge-introduces-support-for-api-destinations/)
 - [AWS Step Functions adds tooling support for YAML](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-step-functions-adds-tooling-support-for-yaml/)
 - [AWS Systems Manager Change Manager now supports multi-level approvals](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-systems-manager-change-manager-supports-multi-level-approvals/)
 - [AWS Network Firewall is now available in the US East (Ohio), Asia Pacific (Tokyo), Europe (Frankfurt), and Europe (Stockholm) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-network-firewall-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [AWS Solutions: Serverless Bot Framework adds Amazon Lex V2 Console and API integration for an improved bot building experience](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-serverless-bot-framework-adds-amazon-lex-v2-console-api-integration/)
 - [Amazon EMR on EKS is now available in US West (N. California), US East (Ohio), Canada (Central), EU (Frankfurt and London), Asia Pacific (Mumbai, Seoul, Singapore, Sydney, and Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-on-eks-available-additional-regions/)
 - [AWS Certificate Manager now provides certificate expiry monitoring through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-certificate-manager-provides-certificate-expiry-monitoring-through-amazon-cloudwatch/)
-- [Amazon VPC Flow Logs now reflects AWS Service name, Traffic Path and Flow Direction](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-flow-logs-now-reflects-aws-service-name-traffic-path-and-flow-direction/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Kotlin-centric developer experience in Amplify Android](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-kotlin-centric-developer-experience-in-amplify-android/)
+- [AWS Security Hub adds 25 new controls to its Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-adds-25-new-controls-to-foundational-security-best-practices-standard/)
 - [Amazon Connect now provides an out-of-the-box chat user interface for your website](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-provides-out-of-box-chat-user-interface-website/)
 - [AWS Elemental MediaLive launches Workflow Wizard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-medialive-launches-workflow-wizard/)
 - [Amazon EC2 D3 instances with dense local HDD storage now available in Asia Pacific (Singapore, Sydney and Tokyo), and Europe (Frankfurt) regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-d3-instances-with-dense-local-hdd-storage-now-available-in-asia-pacific-singapore-sydney-and-tokyo-and-europe-frankfurt-regions/)
@@ -66,8 +68,6 @@
 - [AWS Proton now supports tagging capabilities](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-now-supports-tagging-capabilities/)
 - [Amazon Quicksight Launches Sankey Diagram, Field folders and more](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-quicksight-launches-sankey-diagram-field-folders-more/)
 - [AWS Shield Advanced now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-shield-advanced-now-supports-resource-tagging/)
-- [Amazon EKS now supports creation and management of add-ons using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-now-supports-creation-and-management-of-add-ons-using-aws-cloudformation/)
-- [AWS IoT Device Defender now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-device-defender-supports-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

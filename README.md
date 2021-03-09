@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-lower-cost-storage-classes-for-amazon-elastic-file-system/)
 - [CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudendure-migration-cloudendure-disaster-recoverysupports-ebs-local-snapshots-on-aws-outposts/)
 - [Introducing a new API allowing you to stop in-progress workflows in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-new-api-allowing-you-to-stop-in-progress-workflows-in-amazon-forecast/)
 - [AWS Glue DataBrew enhances its data quality dashboard with a visual comparison matrix](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-enhances-its-data-quality-dashboard-with-a-visual-comparison-matrix/)
@@ -67,7 +68,6 @@
 - [Amazon WorkSpaces is available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workspaces-available-mumbai/)
 - [Announcing Kotlin-centric developer experience in Amplify Android](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-kotlin-centric-developer-experience-in-amplify-android/)
 - [AWS Security Hub adds 25 new controls to its Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-adds-25-new-controls-to-foundational-security-best-practices-standard/)
-- [Amazon Connect now provides an out-of-the-box chat user interface for your website](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-provides-out-of-box-chat-user-interface-website/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

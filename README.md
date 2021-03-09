@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudendure-migration-cloudendure-disaster-recoverysupports-ebs-local-snapshots-on-aws-outposts/)
 - [Introducing a new API allowing you to stop in-progress workflows in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-new-api-allowing-you-to-stop-in-progress-workflows-in-amazon-forecast/)
 - [AWS Glue DataBrew enhances its data quality dashboard with a visual comparison matrix](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-enhances-its-data-quality-dashboard-with-a-visual-comparison-matrix/)
 - [Amazon RDS for PostgreSQL M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-postgresql-m6g-r6g-instances-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [Announcing Kotlin-centric developer experience in Amplify Android](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-kotlin-centric-developer-experience-in-amplify-android/)
 - [AWS Security Hub adds 25 new controls to its Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-adds-25-new-controls-to-foundational-security-best-practices-standard/)
 - [Amazon Connect now provides an out-of-the-box chat user interface for your website](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-provides-out-of-box-chat-user-interface-website/)
-- [AWS Elemental MediaLive launches Workflow Wizard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-medialive-launches-workflow-wizard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Access Analyzer now enables you to validate public and cross-account access before deploying permissions changes](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-validate-access-before-deploying-permissions-changes/)
+- [AWS Backup adds support for continuous backup and point-in-time recovery of Amazon RDS instances](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-continuous-backup-and-point-in-time-recovery-of-amazon-rds-instances/)
 - [Amazon Kinesis Video Streams updates media playback API service quotas to enable up to 10x more simultaneous consumers](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/)
 - [Announcing General Availability of Amazon Redshift Cross-database queries](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-cross-database-queries/)
 - [Announcing General Availability of Amazon Redshift Data Sharing](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-data-sharing/)
@@ -66,8 +68,6 @@
 - [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-lower-cost-storage-classes-for-amazon-elastic-file-system/)
 - [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-amazon-elastic-file-system-lower-cost-one-zone-storage-classes/)
 - [CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudendure-migration-cloudendure-disaster-recoverysupports-ebs-local-snapshots-on-aws-outposts/)
-- [Introducing a new API allowing you to stop in-progress workflows in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-new-api-allowing-you-to-stop-in-progress-workflows-in-amazon-forecast/)
-- [AWS Glue DataBrew enhances its data quality dashboard with a visual comparison matrix](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-enhances-its-data-quality-dashboard-with-a-visual-comparison-matrix/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

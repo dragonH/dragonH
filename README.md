@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Video Streams updates media playback API service quotas to enable up to 10x more simultaneous consumers](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/)
 - [Announcing General Availability of Amazon Redshift Cross-database queries](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-cross-database-queries/)
 - [Announcing General Availability of Amazon Redshift Data Sharing](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-data-sharing/)
 - [Amazon Aurora Global Database Expands Availability to São Paulo and Stockholm](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-global-database-expands-availability-sao-paulo-stockholm/)
@@ -67,7 +68,6 @@
 - [CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudendure-migration-cloudendure-disaster-recoverysupports-ebs-local-snapshots-on-aws-outposts/)
 - [Introducing a new API allowing you to stop in-progress workflows in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-new-api-allowing-you-to-stop-in-progress-workflows-in-amazon-forecast/)
 - [AWS Glue DataBrew enhances its data quality dashboard with a visual comparison matrix](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-enhances-its-data-quality-dashboard-with-a-visual-comparison-matrix/)
-- [Amazon RDS for PostgreSQL M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-postgresql-m6g-r6g-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

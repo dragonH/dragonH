@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database Expands Availability to São Paulo and Stockholm](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-global-database-expands-availability-sao-paulo-stockholm/)
+- [Amazon Aurora PostgreSQL-Compatible edition supports simultaneous authentication with both Microsoft Active Directory (AD) and AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-postgresql-compatible-edition-supports-simultaneous-authentication/)
 - [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-lower-cost-storage-classes-for-amazon-elastic-file-system/)
 - [CloudEndure Migration and CloudEndure Disaster Recovery now support EBS Local Snapshots on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudendure-migration-cloudendure-disaster-recoverysupports-ebs-local-snapshots-on-aws-outposts/)
 - [Introducing a new API allowing you to stop in-progress workflows in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-new-api-allowing-you-to-stop-in-progress-workflows-in-amazon-forecast/)
@@ -66,8 +68,6 @@
 - [AWS Lambda adds four Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-lambda-adds-four-trusted-advisor-checks/)
 - [Amazon RDS for PostgreSQL supports managed disaster recovery (DR) with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-postgresql-supports-managed-disaster-recovery-dr-with-cross-region-automated-backups/)
 - [Amazon WorkSpaces is available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workspaces-available-mumbai/)
-- [Announcing Kotlin-centric developer experience in Amplify Android](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-kotlin-centric-developer-experience-in-amplify-android/)
-- [AWS Security Hub adds 25 new controls to its Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-adds-25-new-controls-to-foundational-security-best-practices-standard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

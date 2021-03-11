@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/11) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-2. 🎉 Merged PR [#10](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/10) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-3. 🎉 Merged PR [#9](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/9) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-4. 🗣 Commented on [#546](https://github.com/awslabs/aws-data-wrangler/issues/546) in [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
-5. ❗️ Opened issue [#546](https://github.com/awslabs/aws-data-wrangler/issues/546) in [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
+1. ❗️ Opened issue [#118744](https://github.com/microsoft/vscode/issues/118744) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🎉 Merged PR [#11](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/11) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+3. 🎉 Merged PR [#10](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/10) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+4. 🎉 Merged PR [#9](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/9) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+5. 🗣 Commented on [#546](https://github.com/awslabs/aws-data-wrangler/issues/546) in [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
 <!--END_SECTION:activity-->
 
 </details>

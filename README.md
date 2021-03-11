@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor introduces Channel Assembly for creating virtual linear OTT channels](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-mediatailor-introduces-channel-assembly-for-creating-virtual-linear-ott-channels/)
 - [Amazon Elasticsearch Service now publishes events to Amazon CloudWatch and Amazon EventBridge for service software updates](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-publishes-events-to-amazon-cloudwatch-amazon-eventbridge/)
 - [Amazon Transcribe supports word-level confidence scores for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-transcribe-supports-word-level-confidence-scores-for-streaming-transcription/)
 - [Amazon RDS for Oracle supports Oracle Management Agent (OMA) version 13.4 for Oracle Enterprise Manager Cloud Control 13cR4](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-oracle-supports-oma-version-13-4-for-oracle-manager-cloud-control-13cr4/)
@@ -67,7 +68,6 @@
 - [Announcing General Availability of Amazon Redshift Cross-database queries](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-cross-database-queries/)
 - [Announcing General Availability of Amazon Redshift Data Sharing](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-data-sharing/)
 - [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-amazon-elastic-file-system-lower-cost-one-zone-storage-classes/)
-- [Amazon Aurora Global Database Expands Availability to São Paulo and Stockholm](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-global-database-expands-availability-sao-paulo-stockholm/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

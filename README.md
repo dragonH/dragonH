@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe supports word-level confidence scores for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-transcribe-supports-word-level-confidence-scores-for-streaming-transcription/)
 - [Amazon RDS for Oracle supports Oracle Management Agent (OMA) version 13.4 for Oracle Enterprise Manager Cloud Control 13cR4](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-oracle-supports-oma-version-13-4-for-oracle-manager-cloud-control-13cr4/)
 - [IAM Access Analyzer now enables you to validate public and cross-account access before deploying permissions changes](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-validate-access-before-deploying-permissions-changes/)
 - [AWS Backup adds support for continuous backup and point-in-time recovery of Amazon RDS instances](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-continuous-backup-and-point-in-time-recovery-of-amazon-rds-instances/)
@@ -67,7 +68,6 @@
 - [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-amazon-elastic-file-system-lower-cost-one-zone-storage-classes/)
 - [Amazon Aurora Global Database Expands Availability to São Paulo and Stockholm](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-global-database-expands-availability-sao-paulo-stockholm/)
 - [Amazon Aurora PostgreSQL-Compatible edition supports simultaneous authentication with both Microsoft Active Directory (AD) and AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-postgresql-compatible-edition-supports-simultaneous-authentication/)
-- [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-lower-cost-storage-classes-for-amazon-elastic-file-system/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

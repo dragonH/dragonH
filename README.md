@@ -64,10 +64,10 @@
 - [Amazon Kinesis Video Streams updates media playback API service quotas to enable up to 10x more simultaneous consumers](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-video-streams-updates-media-playback-api-service-quotas-to-enable-up-to-10x-more-simultaneous-consumers/)
 - [Announcing General Availability of Amazon Redshift Cross-database queries](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-cross-database-queries/)
 - [Announcing General Availability of Amazon Redshift Data Sharing](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-amazon-redshift-data-sharing/)
+- [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-amazon-elastic-file-system-lower-cost-one-zone-storage-classes/)
 - [Amazon Aurora Global Database Expands Availability to São Paulo and Stockholm](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-global-database-expands-availability-sao-paulo-stockholm/)
 - [Amazon Aurora PostgreSQL-Compatible edition supports simultaneous authentication with both Microsoft Active Directory (AD) and AWS Identity and Access Management (IAM)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-aurora-postgresql-compatible-edition-supports-simultaneous-authentication/)
 - [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-lower-cost-storage-classes-for-amazon-elastic-file-system/)
-- [Introducing Lower Cost Storage Classes for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2021/03/introducing-amazon-elastic-file-system-lower-cost-one-zone-storage-classes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

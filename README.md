@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Wavelength is now ISO 9001, 27001, 27017 and 27018 compliant](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-wavelength-iso-9001-27001-27107-27108-compliant/)
 - [New AWS Solutions Consulting Offer - Conversational AI Platform](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-conversational-ai-platform/)
 - [Amazon EC2 Auto Scaling adds support for local time zones for scheduled scaling](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-adds-support-for-local-time-zones-for-scheduled-scaling/)
 - [New AWS Solutions Consulting Offer - Design and Implementation for Druva Data Protection Solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-design-and-implementation-for-druva-data-protection-solutions/)
@@ -67,7 +68,6 @@
 - [Amazon Transcribe supports word-level confidence scores for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-transcribe-supports-word-level-confidence-scores-for-streaming-transcription/)
 - [Amazon RDS for Oracle supports Oracle Management Agent (OMA) version 13.4 for Oracle Enterprise Manager Cloud Control 13cR4](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-oracle-supports-oma-version-13-4-for-oracle-manager-cloud-control-13cr4/)
 - [IAM Access Analyzer now enables you to validate public and cross-account access before deploying permissions changes](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-validate-access-before-deploying-permissions-changes/)
-- [AWS Backup adds support for continuous backup and point-in-time recovery of Amazon RDS instances](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-continuous-backup-and-point-in-time-recovery-of-amazon-rds-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

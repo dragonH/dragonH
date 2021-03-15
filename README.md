@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config Adds 3 New Config Rules for Amazon Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-3-new-config-rules-for-amazon-secrets-manager/)
+- [AWS Cost Anomaly Detection now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-anomaly-detection-supports-aws-cloudformation/)
 - [AWS Glue DataBrew is now available in Asia Pacific (Seoul), North America (Montreal), and South America (Sao Paulo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-is-now-available-in-asia-pacific-seoul-north-america-montreal-and-south-america-sao-paulo-aws-regions/)
 - [Bundle Management APIs now generally available for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workspaces-introduces-bundle-management-apis/)
 - [Amazon S3 Glacier announces a 40% price reduction for PUT and Lifecycle requests](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-s3-glacier-announces-price-reduction-for-put-and-lifecycle-requests/)
@@ -66,8 +68,6 @@
 - [New AWS Solutions Consulting Offer - Conversational AI Platform](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-conversational-ai-platform/)
 - [Amazon EC2 Auto Scaling adds support for local time zones for scheduled scaling](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-adds-support-for-local-time-zones-for-scheduled-scaling/)
 - [New AWS Solutions Consulting Offer - Design and Implementation for Druva Data Protection Solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-design-and-implementation-for-druva-data-protection-solutions/)
-- [New AWS Solutions Consulting Offer - Virtual Desktop Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-virtual-desktop-accelerator/)
-- [AWS Elemental MediaTailor introduces Channel Assembly for creating virtual linear OTT channels](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-mediatailor-introduces-channel-assembly-for-creating-virtual-linear-ott-channels/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

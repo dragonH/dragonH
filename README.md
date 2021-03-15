@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Glacier announces a 40% price reduction for PUT and Lifecycle requests](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-s3-glacier-announces-price-reduction-for-put-and-lifecycle-requests/)
 - [Achieve up to 35% better price/performance with Amazon Aurora using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2021/03/achieve-up-to-35-percent-better-price-performance-with-amazon-aurora-using-new-graviton2-instances/)
 - [AWS Wavelength is now ISO 9001, 27001, 27017 and 27018 compliant](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-wavelength-iso-9001-27001-27107-27108-compliant/)
 - [New AWS Solutions Consulting Offer - Conversational AI Platform](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-conversational-ai-platform/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaTailor introduces Channel Assembly for creating virtual linear OTT channels](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-mediatailor-introduces-channel-assembly-for-creating-virtual-linear-ott-channels/)
 - [Amazon Elasticsearch Service now publishes events to Amazon CloudWatch and Amazon EventBridge for service software updates](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-publishes-events-to-amazon-cloudwatch-amazon-eventbridge/)
 - [Amazon Transcribe supports word-level confidence scores for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-transcribe-supports-word-level-confidence-scores-for-streaming-transcription/)
-- [Amazon RDS for Oracle supports Oracle Management Agent (OMA) version 13.4 for Oracle Enterprise Manager Cloud Control 13cR4](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-oracle-supports-oma-version-13-4-for-oracle-manager-cloud-control-13cr4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,7 +58,6 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon ECS now allows you to execute commands in a container running on Amazon EC2 or AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ecs-now-allows-you-to-execute-commands-in-a-container-running-on-amazon-ec2-or-aws-fargate/)
 - [AWS Config Adds 3 New Config Rules for Amazon Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-3-new-config-rules-for-amazon-secrets-manager/)
 - [AWS Cost Anomaly Detection now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-anomaly-detection-supports-aws-cloudformation/)
 - [AWS Glue DataBrew is now available in Asia Pacific (Seoul), North America (Montreal), and South America (Sao Paulo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-is-now-available-in-asia-pacific-seoul-north-america-montreal-and-south-america-sao-paulo-aws-regions/)
@@ -68,6 +67,7 @@
 - [AWS Wavelength is now ISO 9001, 27001, 27017 and 27018 compliant](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-wavelength-iso-9001-27001-27107-27108-compliant/)
 - [New AWS Solutions Consulting Offer - Conversational AI Platform](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-conversational-ai-platform/)
 - [Amazon EC2 Auto Scaling adds support for local time zones for scheduled scaling](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-adds-support-for-local-time-zones-for-scheduled-scaling/)
+- [New AWS Solutions Consulting Offer - Design and Implementation for Druva Data Protection Solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-design-and-implementation-for-druva-data-protection-solutions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

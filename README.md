@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing support for multiple containers on Amazon SageMaker Inference endpoints, leading to cost savings of up to 80%](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-support-for-multiple-containers-on-amazon-sageamker-inference-endpoints/)
+- [Announcing new operations plan AWS Managed Services Accelerate](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-operations-plan-aws-managed-services-accelerate/)
 - [Lower Cost Storage Classes for Amazon Elastic File System are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-additional-regions/)
 - [New AWS Solutions Consulting Offer - Build Cloud Foundations](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-build-cloud-foundations/)
 - [New AWS Solutions Consulting Offer - Deploy Containers on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-deploy-containers-on-aws/)
@@ -66,8 +68,6 @@
 - [Announcing General Availability of AWS Fault Injection Simulator, a fully managed service to run controlled experiments](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-service-aws-fault-injection-simulator/)
 - [New digital course: Amazon S3 Cost Optimization](https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-amazon-s3-cost-optimization/)
 - [Amazon ECS now allows you to execute commands in a container running on Amazon EC2 or AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ecs-now-allows-you-to-execute-commands-in-a-container-running-on-amazon-ec2-or-aws-fargate/)
-- [AWS Config Adds 3 New Config Rules for Amazon Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-3-new-config-rules-for-amazon-secrets-manager/)
-- [AWS Cost Anomaly Detection now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-anomaly-detection-supports-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

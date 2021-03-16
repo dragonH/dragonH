@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Build Cloud Foundations](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-build-cloud-foundations/)
+- [New AWS Solutions Consulting Offer - Deploy Containers on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-consulting-offer-deploy-containers-on-aws/)
+- [Amazon RDS Proxy now supports database connectivity from multiple Amazon VPCs](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-proxy-supports-database-connectivity-from-multiple-amazon-vpcs/)
+- [Amazon RDS Proxy adds read-only endpoints for Amazon Aurora Replicas](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-proxy-adds-read-only-endpoints-for-amazon-aurora-replicas/)
+- [Announcing General Availability of AWS Fault Injection Simulator, a fully managed service to run controlled experiments](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-service-aws-fault-injection-simulator/)
+- [New digital course: Amazon S3 Cost Optimization](https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-amazon-s3-cost-optimization/)
 - [Amazon ECS now allows you to execute commands in a container running on Amazon EC2 or AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ecs-now-allows-you-to-execute-commands-in-a-container-running-on-amazon-ec2-or-aws-fargate/)
 - [AWS Config Adds 3 New Config Rules for Amazon Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-3-new-config-rules-for-amazon-secrets-manager/)
 - [AWS Cost Anomaly Detection now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-anomaly-detection-supports-aws-cloudformation/)
 - [AWS Glue DataBrew is now available in Asia Pacific (Seoul), North America (Montreal), and South America (Sao Paulo) AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-databrew-is-now-available-in-asia-pacific-seoul-north-america-montreal-and-south-america-sao-paulo-aws-regions/)
-- [Bundle Management APIs now generally available for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workspaces-introduces-bundle-management-apis/)
-- [Amazon S3 Glacier announces a 40% price reduction for PUT and Lifecycle requests](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-s3-glacier-announces-price-reduction-for-put-and-lifecycle-requests/)
-- [Achieve up to 35% better price/performance with Amazon Aurora using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2021/03/achieve-up-to-35-percent-better-price-performance-with-amazon-aurora-using-new-graviton2-instances/)
-- [AWS Wavelength is now ISO 9001, 27001, 27017 and 27018 compliant](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-wavelength-iso-9001-27001-27107-27108-compliant/)
-- [New AWS Solutions Consulting Offer - Conversational AI Platform](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-conversational-ai-platform/)
-- [Amazon EC2 Auto Scaling adds support for local time zones for scheduled scaling](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-adds-support-for-local-time-zones-for-scheduled-scaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

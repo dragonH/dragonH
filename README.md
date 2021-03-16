@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Copilot launches v1.4 with support for ECS exec and more](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-copilot-launches-v1-4/)
 - [Announcing support for multiple containers on Amazon SageMaker Inference endpoints, leading to cost savings of up to 80%](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-support-for-multiple-containers-on-amazon-sageamker-inference-endpoints/)
 - [Announcing new operations plan AWS Managed Services Accelerate](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-operations-plan-aws-managed-services-accelerate/)
 - [Lower Cost Storage Classes for Amazon Elastic File System are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon RDS Proxy adds read-only endpoints for Amazon Aurora Replicas](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-proxy-adds-read-only-endpoints-for-amazon-aurora-replicas/)
 - [Announcing General Availability of AWS Fault Injection Simulator, a fully managed service to run controlled experiments](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-service-aws-fault-injection-simulator/)
 - [New digital course: Amazon S3 Cost Optimization](https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-amazon-s3-cost-optimization/)
-- [Amazon ECS now allows you to execute commands in a container running on Amazon EC2 or AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ecs-now-allows-you-to-execute-commands-in-a-container-running-on-amazon-ec2-or-aws-fargate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Support for SRT protocol added to AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/03/support-for-srt-protocol-added-to-aws-elemental-mediaconnect/)
+- [Amazon Connect launches new metric capabilities for measuring queue service levels](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-launches-new-metric-capabilities-for-measuring-queue-service-levels/)
 - [Amazon Comprehend now identifies documents that contain personally identifiable information (PII)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-comprehend-identifies-documents-that-contain-pii/)
 - [IAM Access Analyzer now supports over 100 policy checks with actionable recommendations to help you author secure and functional policies](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-supports-over-100-policy-checks-with-actionable-recommendations/)
 - [AWS IoT SiteWise Monitor adds support for accessing Monitor portals using AWS Identity and Access Management (IAM) users and roles](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-sitewise-monitor-adds-support-for-accessing-monitor-portals-using-aws-iam-users-and-roles/)
@@ -66,8 +68,6 @@
 - [AWS Batch now available in the Africa (Cape Town) and the Asia-Pacific (Osaka) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-batch-now-available-in-the-africa-cape-town-and-the-asia-pacific-osaka-regions/)
 - [AWS Copilot launches v1.4 with support for ECS exec and more](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-copilot-launches-v1-4/)
 - [Announcing support for multiple containers on Amazon SageMaker Inference endpoints, leading to cost savings of up to 80%](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-support-for-multiple-containers-on-amazon-sageamker-inference-endpoints/)
-- [Announcing new operations plan AWS Managed Services Accelerate](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-operations-plan-aws-managed-services-accelerate/)
-- [Lower Cost Storage Classes for Amazon Elastic File System are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

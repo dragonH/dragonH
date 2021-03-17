@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS X-Ray Insights is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-x-ray-insights-available-govcloud/)
+- [AWS announces Developer Preview release of opinionated deployment tool for .NET CLI](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-developer-preview-release-opinionated-deployment-tool-net-cli/)
+- [AWS announces General Availability of Six New Regions for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-general-availability-of-six-new-regions-for-amazon-gamelift/)
 - [New AWS SSO gallery app simplifies Azure AD set-up with AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-sso-gallery-app-simplifies-azure-ad-set-up-with-aws/)
 - [Support for SRT protocol added to AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/03/support-for-srt-protocol-added-to-aws-elemental-mediaconnect/)
 - [Amazon Connect launches new metric capabilities for measuring queue service levels](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-launches-new-metric-capabilities-for-measuring-queue-service-levels/)
@@ -65,9 +68,6 @@
 - [IAM Access Analyzer now supports over 100 policy checks with actionable recommendations to help you author secure and functional policies](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-supports-over-100-policy-checks-with-actionable-recommendations/)
 - [AWS IoT SiteWise Monitor adds support for accessing Monitor portals using AWS Identity and Access Management (IAM) users and roles](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-sitewise-monitor-adds-support-for-accessing-monitor-portals-using-aws-iam-users-and-roles/)
 - [Announcing new Amazon EC2 X2gd instances powered by AWS Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-new-amazon-ec2-x2gd-instances-powered-by-aws-graviton2-processors/)
-- [Announcing the General Availability of Amazon Corretto 16](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-amazon-corretto-16/)
-- [AWS Batch now available in the Africa (Cape Town) and the Asia-Pacific (Osaka) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-batch-now-available-in-the-africa-cape-town-and-the-asia-pacific-osaka-regions/)
-- [AWS Copilot launches v1.4 with support for ECS exec and more](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-copilot-launches-v1-4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

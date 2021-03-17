@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS SSO gallery app simplifies Azure AD set-up with AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-sso-gallery-app-simplifies-azure-ad-set-up-with-aws/)
 - [Support for SRT protocol added to AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/03/support-for-srt-protocol-added-to-aws-elemental-mediaconnect/)
 - [Amazon Connect launches new metric capabilities for measuring queue service levels](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-launches-new-metric-capabilities-for-measuring-queue-service-levels/)
 - [Amazon Comprehend now identifies documents that contain personally identifiable information (PII)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-comprehend-identifies-documents-that-contain-pii/)
@@ -67,7 +68,6 @@
 - [Announcing the General Availability of Amazon Corretto 16](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-amazon-corretto-16/)
 - [AWS Batch now available in the Africa (Cape Town) and the Asia-Pacific (Osaka) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-batch-now-available-in-the-africa-cape-town-and-the-asia-pacific-osaka-regions/)
 - [AWS Copilot launches v1.4 with support for ECS exec and more](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-copilot-launches-v1-4/)
-- [Announcing support for multiple containers on Amazon SageMaker Inference endpoints, leading to cost savings of up to 80%](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-support-for-multiple-containers-on-amazon-sageamker-inference-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now supports ‘No Rollback on Failure’](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-launch-wizard-now-supports-no-rollback-on-failure/)
 - [Amazon QLDB Increases Verification APIs Throughput by an Order of Magnitude](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-qldb-increases-verification-apis-throughput-order-of-magnitude/)
 - [S3 Object Lambda allows you to add your own code to S3 GET requests to modify and process data as it is returned to an application](https://aws.amazon.com/about-aws/whats-new/2021/03/s3-object-lambda-allows-you-to-add-your-own-code-to-s3-get-requests-to-modify-and-process-data-as-it-is-returned-to-an-application/)
 - [AWS X-Ray Insights is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-x-ray-insights-available-govcloud/)
@@ -67,7 +68,6 @@
 - [Support for SRT protocol added to AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/03/support-for-srt-protocol-added-to-aws-elemental-mediaconnect/)
 - [Amazon Connect launches new metric capabilities for measuring queue service levels](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-connect-launches-new-metric-capabilities-for-measuring-queue-service-levels/)
 - [Amazon Comprehend now identifies documents that contain personally identifiable information (PII)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-comprehend-identifies-documents-that-contain-pii/)
-- [IAM Access Analyzer now supports over 100 policy checks with actionable recommendations to help you author secure and functional policies](https://aws.amazon.com/about-aws/whats-new/2021/03/iam-access-analyzer-supports-over-100-policy-checks-with-actionable-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

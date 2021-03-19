@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Proton introduces deletion protection for in-use templates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-introduces-deletion-protectionfor-in-use-templates/)
 - [Amazon EKS reduces cluster creation time by 40%](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-reduces-cluster-creation-time-40-percent/)
 - [AWS Gateway Load Balancer is now available in additional 9 regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-gateway-load-balancer-is-now-available-in-additional-9-regions/)
 - [Amazon RDS for Oracle now supports January 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-oracle-supports-january-2021-patch-set-update/)
@@ -67,7 +68,6 @@
 - [New digital course: AWS Cloud Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-aws-cloud-technical-essentials/)
 - [AWS Launch Wizard now supports ‘No Rollback on Failure’](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-launch-wizard-now-supports-no-rollback-on-failure/)
 - [Amazon QLDB Increases Verification APIs Throughput by an Order of Magnitude](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-qldb-increases-verification-apis-throughput-order-of-magnitude/)
-- [S3 Object Lambda allows you to add your own code to S3 GET requests to modify and process data as it is returned to an application](https://aws.amazon.com/about-aws/whats-new/2021/03/s3-object-lambda-allows-you-to-add-your-own-code-to-s3-get-requests-to-modify-and-process-data-as-it-is-returned-to-an-application/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

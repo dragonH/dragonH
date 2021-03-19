@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS reduces cluster creation time by 40%](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-reduces-cluster-creation-time-40-percent/)
+- [AWS Gateway Load Balancer is now available in additional 9 regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-gateway-load-balancer-is-now-available-in-additional-9-regions/)
 - [Amazon RDS for Oracle now supports January 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-oracle-supports-january-2021-patch-set-update/)
 - [AWS Solutions Implementation - The Discovering Hot Topics Using Machine Learning solution adds the capability to filter and visualize Twitter topics based on geographical coordinates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-implementation-discovering-topics-using-machine-learning-solution-adds-filter-visualize-twitter-topics/)
 - [Amazon EC2 Auto Scaling Instance Refresh now supports phased deployments](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-instance-refresh-supports-phased-deployments/)
@@ -66,8 +68,6 @@
 - [AWS Launch Wizard now supports ‘No Rollback on Failure’](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-launch-wizard-now-supports-no-rollback-on-failure/)
 - [Amazon QLDB Increases Verification APIs Throughput by an Order of Magnitude](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-qldb-increases-verification-apis-throughput-order-of-magnitude/)
 - [S3 Object Lambda allows you to add your own code to S3 GET requests to modify and process data as it is returned to an application](https://aws.amazon.com/about-aws/whats-new/2021/03/s3-object-lambda-allows-you-to-add-your-own-code-to-s3-get-requests-to-modify-and-process-data-as-it-is-returned-to-an-application/)
-- [AWS X-Ray Insights is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-x-ray-insights-available-govcloud/)
-- [AWS announces Developer Preview release of opinionated deployment tool for .NET CLI](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-developer-preview-release-opinionated-deployment-tool-net-cli/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

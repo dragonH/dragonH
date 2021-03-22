@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Audit Manager now supports CIS AWS Foundations Benchmark v1.3.0, Level 1 and 2 as a new standard framework](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-audit-manager-now-supports-cis-aws-foundations-benchmark-v1-3-0-level-1/)
 - [AWS Fargate updates platform version 1.4.0 to be the LATEST version](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-fargate-updates-platform-version-1-4-0-to-be-the-latest-version/)
 - [AWS Proton introduces deletion protection for in-use templates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-introduces-deletion-protectionfor-in-use-templates/)
 - [Amazon EKS reduces cluster creation time by 40%](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-reduces-cluster-creation-time-40-percent/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Auto Scaling Instance Refresh now supports phased deployments](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-instance-refresh-supports-phased-deployments/)
 - [Amazon RDS for MySQL now supports rollback protection for database major version upgrades](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mysql-supports-rollback-protection/)
 - [New digital course: AWS Cloud Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-aws-cloud-technical-essentials/)
-- [AWS Launch Wizard now supports ‘No Rollback on Failure’](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-launch-wizard-now-supports-no-rollback-on-failure/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Sellers can now manage versions and update information of their AMI and Container products through the AWS Marketplace Catalog API](https://aws.amazon.com/about-aws/whats-new/2021/03/sellers-manage-versions-update-information-ami-container-products-aws-marketplace-catalog-api/)
 - [AWS Client VPN announces expanded presence inside six AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-client-vpn-announces-expanded-presence-inside-six-aws-regions/)
 - [AWS Database Migration Service now supports Db2 LUW version 11.5 as a source](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-database-migration-service-supports-db2-luw-version-11-5-as-source/)
 - [AWS IoT Core’s Apache Kafka action now supports username and password authentication for Amazon Managed Streaming for Apache Kafka (Amazon MSK)](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-core-apache-kafka-action-supports-username-password-authentication-for-amazon-msk/)
@@ -67,7 +68,6 @@
 - [Amazon EKS reduces cluster creation time by 40%](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-reduces-cluster-creation-time-40-percent/)
 - [AWS Gateway Load Balancer is now available in additional 9 regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-gateway-load-balancer-is-now-available-in-additional-9-regions/)
 - [Amazon RDS for Oracle now supports January 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-oracle-supports-january-2021-patch-set-update/)
-- [AWS Solutions Implementation - The Discovering Hot Topics Using Machine Learning solution adds the capability to filter and visualize Twitter topics based on geographical coordinates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-implementation-discovering-topics-using-machine-learning-solution-adds-filter-visualize-twitter-topics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

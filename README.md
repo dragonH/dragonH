@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports Db2 LUW version 11.5 as a source](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-database-migration-service-supports-db2-luw-version-11-5-as-source/)
+- [AWS IoT Core’s Apache Kafka action now supports username and password authentication for Amazon Managed Streaming for Apache Kafka (Amazon MSK)](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-iot-core-apache-kafka-action-supports-username-password-authentication-for-amazon-msk/)
 - [AWS Audit Manager now supports CIS AWS Foundations Benchmark v1.3.0, Level 1 and 2 as a new standard framework](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-audit-manager-now-supports-cis-aws-foundations-benchmark-v1-3-0-level-1/)
 - [AWS Fargate updates platform version 1.4.0 to be the LATEST version](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-fargate-updates-platform-version-1-4-0-to-be-the-latest-version/)
 - [AWS Proton introduces deletion protection for in-use templates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-introduces-deletion-protectionfor-in-use-templates/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Oracle now supports January 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-oracle-supports-january-2021-patch-set-update/)
 - [AWS Solutions Implementation - The Discovering Hot Topics Using Machine Learning solution adds the capability to filter and visualize Twitter topics based on geographical coordinates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-solutions-implementation-discovering-topics-using-machine-learning-solution-adds-filter-visualize-twitter-topics/)
 - [Amazon EC2 Auto Scaling Instance Refresh now supports phased deployments](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-auto-scaling-instance-refresh-supports-phased-deployments/)
-- [Amazon RDS for MySQL now supports rollback protection for database major version upgrades](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mysql-supports-rollback-protection/)
-- [New digital course: AWS Cloud Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/03/new-digital-course-aws-cloud-technical-essentials/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

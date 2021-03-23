@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC Endpoints For Amazon EC2 Are Now Available In Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-endpoints-amazon-ec2-available-osaka-region/)
 - [Announcing AWS Media Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-aws-media-intelligence-solutions/)
 - [Amazon EC2 now supports UEFI boot when migrating virtual machines to EC2](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-now-supports-uefi-boot-when-migrating-virtual-machines-to-ec2/)
 - [Sellers can now manage versions and update information of their AMI and Container products through the AWS Marketplace Catalog API](https://aws.amazon.com/about-aws/whats-new/2021/03/sellers-manage-versions-update-information-ami-container-products-aws-marketplace-catalog-api/)
@@ -67,7 +68,6 @@
 - [AWS Audit Manager now supports CIS AWS Foundations Benchmark v1.3.0, Level 1 and 2 as a new standard framework](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-audit-manager-now-supports-cis-aws-foundations-benchmark-v1-3-0-level-1/)
 - [AWS Fargate updates platform version 1.4.0 to be the LATEST version](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-fargate-updates-platform-version-1-4-0-to-be-the-latest-version/)
 - [AWS Proton introduces deletion protection for in-use templates](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-proton-introduces-deletion-protectionfor-in-use-templates/)
-- [Amazon EKS reduces cluster creation time by 40%](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-reduces-cluster-creation-time-40-percent/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

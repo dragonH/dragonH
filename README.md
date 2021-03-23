@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Inf1 instances based on AWS Inferentia now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-inf1-instances-aws-inferentia-available-additional-regions/)
 - [Amazon QuickSight launches Custom Tooltips, Updates to Anomaly Detection, and More](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-quicksight-launches-custom-tooltips-updates-to-anomaly-detection-and-more/)
 - [Amazon EFS CSI driver now supports dynamic provisioning](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-efs-csi-driver-supports-dynamic-provisioning/)
 - [Amazon RDS for MariaDB M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mariadb-m6g-r6g-instances-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon VPC Endpoints For Amazon EC2 Are Now Available In Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-vpc-endpoints-amazon-ec2-available-osaka-region/)
 - [Announcing AWS Media Intelligence solutions](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-aws-media-intelligence-solutions/)
 - [Amazon EC2 now supports UEFI boot when migrating virtual machines to EC2](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-now-supports-uefi-boot-when-migrating-virtual-machines-to-ec2/)
-- [Sellers can now manage versions and update information of their AMI and Container products through the AWS Marketplace Catalog API](https://aws.amazon.com/about-aws/whats-new/2021/03/sellers-manage-versions-update-information-ami-container-products-aws-marketplace-catalog-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon and Red Hat announce the General Availability of Red Hat OpenShift Service on AWS (ROSA)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-and-red-hat-announce-general-availability-rosa/)
+- [AWS Snowcone is now available in the AWS Asia Pacific (Sydney) Region in Australia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-snowcone-available-sydney-region/)
+- [Announcing General Availability of AWS IoT Device Defender ML Detect](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-aws-iot-device-defender-ml-detect/)
 - [Amazon Timestream now supports Amazon VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-timestream-now-supports-amazon-vpc-endpoints/)
 - [AWS Elemental MediaTailor now supports Enhanced Debug Logs and other enhancements *](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-mediatailor-supports-enhanced-debug-logs-other-enhacements/)
-- [AWS Lambda Launches Function States, improved VPC networking, and the Python 3.8 Runtime in the AWS Secret and Top Secret Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-lambda-launches-function-states-improved-vpc-networking-python-3-8-runtime/)
 - [AWS Cloud Map now supports API-only services in namespaces configured with DNS resolution](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloud-map-now-supports-api-only-services-in-namespaces-configured-with-dns-resolution/)
 - [Amazon Detective launches in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-detective-launches-in-aws-govcloud-us-regions/)
 - [NICE DCV releases web client SDK for building customized web applications](https://aws.amazon.com/about-aws/whats-new/2021/03/nice-dcv-releases-web-client-sdk-for-building-customized-web-applications/)
 - [AWS CloudTrail Adds Logging of Data Events for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudtrail-adds-logging-of-data-events-for-amazon-dynamoDB/)
 - [Amazon Elasticsearch Service announces Auto-Tune feature for improved performance and application availability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-announces-auto-tune-feature-improved-performance-application-availability/)
-- [Create forecasting systems faster with automated workflows and notifications in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast/)
-- [AWS Backup adds support for bulk deletion of recovery points](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-bulk-deletion-of-recovery-points/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

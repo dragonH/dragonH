@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE DCV releases web client SDK for building customized web applications](https://aws.amazon.com/about-aws/whats-new/2021/03/nice-dcv-releases-web-client-sdk-for-building-customized-web-applications/)
+- [AWS CloudTrail Adds Logging of Data Events for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudtrail-adds-logging-of-data-events-for-amazon-dynamoDB/)
+- [Amazon Elasticsearch Service announces Auto-Tune feature for improved performance and application availability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-announces-auto-tune-feature-improved-performance-application-availability/)
+- [Create forecasting systems faster with automated workflows and notifications in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2021/03/create-forecasting-systems-faster-with-automated-workflows-and-notifications-in-amazon-forecast/)
+- [AWS Backup adds support for bulk deletion of recovery points](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-adds-support-for-bulk-deletion-of-recovery-points/)
+- [Amazon AppFlow now supports Zendesk as a destination](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-appflow-supports-zendesk-as-destination/)
+- [Amazon Kendra adds new partner search connectors from Perficient](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kendra-adds-new-partner-search-connectors-from-perficient/)
 - [Now available AWS SSO credential profile support in the AWS Toolkit for VS Code](https://aws.amazon.com/about-aws/whats-new/2021/03/now-available-aws-sso-credential-profile-support-aws-toolkit-vs-code/)
 - [Now you can use AWS CloudTrail to log data-plane API activity to monitor, alarm, and archive item-level activity in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2021/03/now-you-can-use-aws-cloudtrail-to-log-data-plane-api-activity-in-your-amazon-dynamodb-tables/)
 - [Updated classroom course: Advanced Architecting on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/updated-classroom-course-advanced-architecting-on-aws/)
-- [AWS Cost Categories now supports inherited and default values](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-categories-now-supports-inherited-and-default-values/)
-- [AWS Glue Studio now supports transforms defined in SQL](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-studio-now-supports-transforms-defined-in-sql/)
-- [Amazon EC2 Inf1 instances based on AWS Inferentia now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-inf1-instances-aws-inferentia-available-additional-regions/)
-- [Amazon QuickSight launches Custom Tooltips, Updates to Anomaly Detection, and More](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-quicksight-launches-custom-tooltips-updates-to-anomaly-detection-and-more/)
-- [Amazon EFS CSI driver now supports dynamic provisioning](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-efs-csi-driver-supports-dynamic-provisioning/)
-- [Amazon RDS for MariaDB M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mariadb-m6g-r6g-instances-available-additional-regions/)
-- [Amazon Redshift Spectrum launches in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-redshift-spectrum-launches-in-4-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

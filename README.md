@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now available AWS SSO credential profile support in the AWS Toolkit for VS Code](https://aws.amazon.com/about-aws/whats-new/2021/03/now-available-aws-sso-credential-profile-support-aws-toolkit-vs-code/)
+- [Now you can use AWS CloudTrail to log data-plane API activity to monitor, alarm, and archive item-level activity in your Amazon DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2021/03/now-you-can-use-aws-cloudtrail-to-log-data-plane-api-activity-in-your-amazon-dynamodb-tables/)
 - [Updated classroom course: Advanced Architecting on AWS](https://aws.amazon.com/about-aws/whats-new/2021/03/updated-classroom-course-advanced-architecting-on-aws/)
 - [AWS Cost Categories now supports inherited and default values](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cost-categories-now-supports-inherited-and-default-values/)
 - [AWS Glue Studio now supports transforms defined in SQL](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-glue-studio-now-supports-transforms-defined-in-sql/)
@@ -66,8 +68,6 @@
 - [Amazon EFS CSI driver now supports dynamic provisioning](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-efs-csi-driver-supports-dynamic-provisioning/)
 - [Amazon RDS for MariaDB M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-rds-for-mariadb-m6g-r6g-instances-available-additional-regions/)
 - [Amazon Redshift Spectrum launches in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-redshift-spectrum-launches-in-4-additional-aws-regions/)
-- [Leverage state of the art Natural Language Processing with Hugging Face and Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/03/leverage-state-of-the-art-natural-language-processing-with-hugging-face-and-amazon-sagemaker/)
-- [Amazon EC2 M5n, M5dn, R5n, and R5dn instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-ec2-m5n-m5dn-r5n-r5dn-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

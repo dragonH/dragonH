@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics now supports Python with Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-data-analytics-now-supports-python-with-apache-flink-v1-11/)
 - [Amazon and Red Hat announce the General Availability of Red Hat OpenShift Service on AWS (ROSA)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-and-red-hat-announce-general-availability-rosa/)
 - [AWS Snowcone is now available in the AWS Asia Pacific (Sydney) Region in Australia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-snowcone-available-sydney-region/)
 - [Announcing General Availability of AWS IoT Device Defender ML Detect](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-aws-iot-device-defender-ml-detect/)
@@ -67,7 +68,6 @@
 - [Amazon Detective launches in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-detective-launches-in-aws-govcloud-us-regions/)
 - [NICE DCV releases web client SDK for building customized web applications](https://aws.amazon.com/about-aws/whats-new/2021/03/nice-dcv-releases-web-client-sdk-for-building-customized-web-applications/)
 - [AWS CloudTrail Adds Logging of Data Events for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloudtrail-adds-logging-of-data-events-for-amazon-dynamoDB/)
-- [Amazon Elasticsearch Service announces Auto-Tune feature for improved performance and application availability](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticsearch-service-announces-auto-tune-feature-improved-performance-application-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

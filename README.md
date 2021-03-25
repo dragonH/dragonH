@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager adds ability to set up exclusion rules for automated discovery](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-license-manager-adds-ability-to-set-up-exclusion-rules-automated-discovery/)
 - [Amazon Polly NTTS voices now available in Canada (Central), and Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-polly-ntts-voices-available-canada-seoul/)
 - [Amazon ElastiCache for Redis now supports highly available clusters on AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticache-for-redis-supports-highly-available-clusters-aws-local-zones/)
 - [Amazon Kinesis Data Analytics now supports Python with Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-data-analytics-now-supports-python-with-apache-flink-v1-11/)
@@ -67,7 +68,6 @@
 - [Amazon Timestream now supports Amazon VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-timestream-now-supports-amazon-vpc-endpoints/)
 - [AWS Elemental MediaTailor now supports Enhanced Debug Logs and other enhancements *](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-mediatailor-supports-enhanced-debug-logs-other-enhacements/)
 - [AWS Cloud Map now supports API-only services in namespaces configured with DNS resolution](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloud-map-now-supports-api-only-services-in-namespaces-configured-with-dns-resolution/)
-- [Amazon Detective launches in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-detective-launches-in-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

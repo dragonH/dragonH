@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Lower Cost Storage Classes for Amazon Elastic File System are now available in Asia (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-asia-osaka-region/)
 - [AWS Security Hub integrates with Amazon Macie to automatically ingest sensitive data findings for improved centralized security posture management](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-integrates-amazon-macie-automatically-ingest-sensitive-data-findings/)
 - [Detect anomalies in your metrics, and diagnose issues quickly with Amazon Lookout for Metrics – now generally available](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-lookout-for-metrics-generally-available/)
 - [AWS Backup is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-available-osaka/)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache for Redis now supports highly available clusters on AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticache-for-redis-supports-highly-available-clusters-aws-local-zones/)
 - [Amazon Kinesis Data Analytics now supports Python with Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-data-analytics-now-supports-python-with-apache-flink-v1-11/)
 - [Amazon and Red Hat announce the General Availability of Red Hat OpenShift Service on AWS (ROSA)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-and-red-hat-announce-general-availability-rosa/)
-- [AWS Snowcone is now available in the AWS Asia Pacific (Sydney) Region in Australia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-snowcone-available-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

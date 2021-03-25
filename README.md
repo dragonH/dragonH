@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Detect anomalies in your metrics, and diagnose issues quickly with Amazon Lookout for Metrics – now generally available](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-lookout-for-metrics-generally-available/)
+- [AWS Backup is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-available-osaka/)
+- [Configurable Endpoints with Custom Domains now generally available for AWS IoT Core](https://aws.amazon.com/about-aws/whats-new/2021/03/configurable-endpoints-with-custom-domains-now-generally-available/)
 - [AWS License Manager adds ability to set up exclusion rules for automated discovery](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-license-manager-adds-ability-to-set-up-exclusion-rules-automated-discovery/)
 - [Amazon Polly NTTS voices now available in Canada (Central), and Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-polly-ntts-voices-available-canada-seoul/)
 - [Amazon ElastiCache for Redis now supports highly available clusters on AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticache-for-redis-supports-highly-available-clusters-aws-local-zones/)
@@ -65,9 +68,6 @@
 - [Amazon and Red Hat announce the General Availability of Red Hat OpenShift Service on AWS (ROSA)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-and-red-hat-announce-general-availability-rosa/)
 - [AWS Snowcone is now available in the AWS Asia Pacific (Sydney) Region in Australia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-snowcone-available-sydney-region/)
 - [Announcing General Availability of AWS IoT Device Defender ML Detect](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-aws-iot-device-defender-ml-detect/)
-- [Amazon Timestream now supports Amazon VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-timestream-now-supports-amazon-vpc-endpoints/)
-- [AWS Elemental MediaTailor now supports Enhanced Debug Logs and other enhancements *](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-elemental-mediatailor-supports-enhanced-debug-logs-other-enhacements/)
-- [AWS Cloud Map now supports API-only services in namespaces configured with DNS resolution](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-cloud-map-now-supports-api-only-services-in-namespaces-configured-with-dns-resolution/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

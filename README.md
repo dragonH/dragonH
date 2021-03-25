@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub integrates with Amazon Macie to automatically ingest sensitive data findings for improved centralized security posture management](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-integrates-amazon-macie-automatically-ingest-sensitive-data-findings/)
 - [Detect anomalies in your metrics, and diagnose issues quickly with Amazon Lookout for Metrics – now generally available](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-lookout-for-metrics-generally-available/)
 - [AWS Backup is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-available-osaka/)
 - [Configurable Endpoints with Custom Domains now generally available for AWS IoT Core](https://aws.amazon.com/about-aws/whats-new/2021/03/configurable-endpoints-with-custom-domains-now-generally-available/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Analytics now supports Python with Apache Flink v1.11](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-kinesis-data-analytics-now-supports-python-with-apache-flink-v1-11/)
 - [Amazon and Red Hat announce the General Availability of Red Hat OpenShift Service on AWS (ROSA)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-and-red-hat-announce-general-availability-rosa/)
 - [AWS Snowcone is now available in the AWS Asia Pacific (Sydney) Region in Australia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-snowcone-available-sydney-region/)
-- [Announcing General Availability of AWS IoT Device Defender ML Detect](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-general-availability-of-aws-iot-device-defender-ml-detect/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

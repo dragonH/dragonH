@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports private Docker registry authentication](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-now-supports-private-docker-registry-authentication/)
+- [Amazon Forecast enables AWS Resource Groups](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-forecast-enables-aws-resource-groups/)
 - [New AWS Solutions Consulting Offer - WorkSpaces Manager for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-workspaces-manager-for-amazon-workspaces/)
 - [AWS DevOps Monitoring Dashboard solution is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-devops-monitoring-dashboard-solution-is-generally-available/)
 - [Lower Cost Storage Classes for Amazon Elastic File System are now available in Asia (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-asia-osaka-region/)
@@ -66,8 +68,6 @@
 - [AWS Backup is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-available-osaka/)
 - [Configurable Endpoints with Custom Domains now generally available for AWS IoT Core](https://aws.amazon.com/about-aws/whats-new/2021/03/configurable-endpoints-with-custom-domains-now-generally-available/)
 - [AWS License Manager adds ability to set up exclusion rules for automated discovery](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-license-manager-adds-ability-to-set-up-exclusion-rules-automated-discovery/)
-- [Amazon Polly NTTS voices now available in Canada (Central), and Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-polly-ntts-voices-available-canada-seoul/)
-- [Amazon ElastiCache for Redis now supports highly available clusters on AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-elasticache-for-redis-supports-highly-available-clusters-aws-local-zones/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

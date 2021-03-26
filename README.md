@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now supports P4d instances](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-p4d-instances/)
+- [Amazon WorkDocs offers additional sharing controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workdocs-additional-sharing-controls-throughout-android-app/)
 - [Amazon API Gateway now provides IAM condition keys for governing endpoint, authorization, and logging configurations](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-api-gateway-provides-iam-condition-keys-governing-endpoint-authorization-logging-configurations/)
 - [Amazon SageMaker now supports private Docker registry authentication](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-now-supports-private-docker-registry-authentication/)
 - [Amazon Forecast enables AWS Resource Groups](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-forecast-enables-aws-resource-groups/)
@@ -66,8 +68,6 @@
 - [Lower Cost Storage Classes for Amazon Elastic File System are now available in Asia (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-asia-osaka-region/)
 - [AWS Security Hub integrates with Amazon Macie to automatically ingest sensitive data findings for improved centralized security posture management](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-integrates-amazon-macie-automatically-ingest-sensitive-data-findings/)
 - [Detect anomalies in your metrics, and diagnose issues quickly with Amazon Lookout for Metrics – now generally available](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-lookout-for-metrics-generally-available/)
-- [AWS Backup is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-backup-available-osaka/)
-- [Configurable Endpoints with Custom Domains now generally available for AWS IoT Core](https://aws.amazon.com/about-aws/whats-new/2021/03/configurable-endpoints-with-custom-domains-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

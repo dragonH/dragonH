@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Pipeline Factory](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-pipeline-factory/)
+- [CloudWatch Container Insights for Amazon ECS now available in the AWS Africa (Cape Town) region](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudwatch-container-insights-amazon-ecs-available-aws-africa-cape-town-region/)
 - [Amazon EKS now supports Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-elastic-fabric-adapter/)
 - [Amazon EKS now supports P4d instances](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-p4d-instances/)
 - [Amazon WorkDocs offers additional sharing controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workdocs-additional-sharing-controls-throughout-android-app/)
@@ -66,8 +68,6 @@
 - [Amazon Forecast enables AWS Resource Groups](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-forecast-enables-aws-resource-groups/)
 - [New AWS Solutions Consulting Offer - WorkSpaces Manager for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-workspaces-manager-for-amazon-workspaces/)
 - [AWS DevOps Monitoring Dashboard solution is Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-devops-monitoring-dashboard-solution-is-generally-available/)
-- [Lower Cost Storage Classes for Amazon Elastic File System are now available in Asia (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/03/lower-cost-storage-classes-for-amazon-elastic-file-system-are-now-available-in-asia-osaka-region/)
-- [AWS Security Hub integrates with Amazon Macie to automatically ingest sensitive data findings for improved centralized security posture management](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-integrates-amazon-macie-automatically-ingest-sensitive-data-findings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

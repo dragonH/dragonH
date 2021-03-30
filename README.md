@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR now supports Amazon EC2 Instance Metadata Service v2](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-emr-now-supports-amazon-ec2-instance-metadata-service-v2/)
+- [New AWS Solutions Consulting Offer - AMI Factory](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-ami-factory/)
 - [AWS Global Accelerator launches a new Edge location in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-global-accelerator-launches-a-new-edge-location-in-indonesia/)
 - [AWS announces General Availability of Amazon GameLift Queue notifications](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-general-availability-of-amazon-gamelift-queue-notifications/)
 - [AWS Config adds pagination support for advanced queries that contain aggregate functions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-pagination-support-for-advanced-queries/)
@@ -66,8 +68,6 @@
 - [AWS WAF adds support for Request Header Insertion](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-waf-adds-support-request-header-insertion/)
 - [Amazon DocumentDB (with MongoDB compatibility) now supports Event Subscriptions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-documentdb-with-mongodb-compatibility-now-supports-event-subscriptions/)
 - [Announcing AWS Step Functions’ integration with Amazon EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-aws-step-functions-integration-amazon-emr-eks/)
-- [New AWS Solutions Consulting Offer - Pipeline Factory](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-pipeline-factory/)
-- [CloudWatch Container Insights for Amazon ECS now available in the AWS Africa (Cape Town) region](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudwatch-container-insights-amazon-ecs-available-aws-africa-cape-town-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

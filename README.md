@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces General Availability of Amazon GameLift Queue notifications](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-announces-general-availability-of-amazon-gamelift-queue-notifications/)
 - [AWS Config adds pagination support for advanced queries that contain aggregate functions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-pagination-support-for-advanced-queries/)
 - [AWS Security Hub now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-now-available-in-aws-asia-pacific-osaka-region/)
 - [AWS WAF adds support for Custom Responses](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-waf-adds-support-custom-responses/)
 - [AWS WAF adds support for Request Header Insertion](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-waf-adds-support-request-header-insertion/)
-- [AWS Global Accelerator launches a new Edge location in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-global-accelerator-launches-a-new-edge-location-in-Indonesia/)
 - [Amazon DocumentDB (with MongoDB compatibility) now supports Event Subscriptions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-documentdb-with-mongodb-compatibility-now-supports-event-subscriptions/)
 - [Announcing AWS Step Functions’ integration with Amazon EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-aws-step-functions-integration-amazon-emr-eks/)
 - [New AWS Solutions Consulting Offer - Pipeline Factory](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-pipeline-factory/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config adds pagination support for advanced queries that contain aggregate functions](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-config-adds-pagination-support-for-advanced-queries/)
+- [AWS Security Hub now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-security-hub-now-available-in-aws-asia-pacific-osaka-region/)
+- [AWS WAF adds support for Custom Responses](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-waf-adds-support-custom-responses/)
+- [AWS WAF adds support for Request Header Insertion](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-waf-adds-support-request-header-insertion/)
+- [AWS Global Accelerator launches a new Edge location in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/03/aws-global-accelerator-launches-a-new-edge-location-in-Indonesia/)
+- [Amazon DocumentDB (with MongoDB compatibility) now supports Event Subscriptions](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-documentdb-with-mongodb-compatibility-now-supports-event-subscriptions/)
 - [Announcing AWS Step Functions’ integration with Amazon EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2021/03/announcing-aws-step-functions-integration-amazon-emr-eks/)
 - [New AWS Solutions Consulting Offer - Pipeline Factory](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-pipeline-factory/)
 - [CloudWatch Container Insights for Amazon ECS now available in the AWS Africa (Cape Town) region](https://aws.amazon.com/about-aws/whats-new/2021/03/cloudwatch-container-insights-amazon-ecs-available-aws-africa-cape-town-region/)
 - [Amazon EKS now supports Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-elastic-fabric-adapter/)
-- [Amazon EKS now supports P4d instances](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-eks-supports-p4d-instances/)
-- [Amazon WorkDocs offers additional sharing controls throughout its Android app](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-workdocs-additional-sharing-controls-throughout-android-app/)
-- [Amazon API Gateway now provides IAM condition keys for governing endpoint, authorization, and logging configurations](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-api-gateway-provides-iam-condition-keys-governing-endpoint-authorization-logging-configurations/)
-- [Amazon SageMaker now supports private Docker registry authentication](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-sagemaker-now-supports-private-docker-registry-authentication/)
-- [Amazon Forecast enables AWS Resource Groups](https://aws.amazon.com/about-aws/whats-new/2021/03/amazon-forecast-enables-aws-resource-groups/)
-- [New AWS Solutions Consulting Offer - WorkSpaces Manager for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/03/new-aws-solutions-consulting-offer-workspaces-manager-for-amazon-workspaces/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces now supports smart cards with the WorkSpaces macOS client application](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-now-supports-smart-cards-with-the-workspaces-macos-client-application/)
 - [Amazon WorkSpaces webcam support now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-webcam-support-generally-available/)
 - [Amazon MQ is now available in the Japan (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-available-japan-osaka-region/)
 - [New options to trigger Amazon SageMaker Pipeline executions](https://aws.amazon.com/about-aws/whats-new/2021/04/new-options-trigger-amazon-sagemaker-pipeline-executions/)
@@ -67,7 +68,6 @@
 - [Announcing support for IAM Condition Keys and CMK for custom models for Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-iam-condition-keys-cmk-custom-models-amazon-comprehend/)
 - [AWS WAF now supports Labels to improve rule customization and reporting](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-waf-supports-labels-to-improve-rule-customiazation-and-reporting/)
 - [AWS Firewall Manager now supports centralized deployment of the new AWS WAF Bot Control across your organization](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-firewall-manager-supports-centralized-deployment-new-aws-waf-bot-control/)
-- [Amazon EKS is now FedRAMP-High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-eks-is-now-fedramp-high-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

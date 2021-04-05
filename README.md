@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Run Command now displays more logs and enables log download from the console](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-run-command-now-displays-more-logs-enables-log-downloads-from-console/)
 - [New AWS Solutions Consulting Offer - Design and Build Applications at Speed with DAPx](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-design-build-applications-speed-dapx/)
 - [Amazon WorkSpaces now supports smart cards with the WorkSpaces macOS client application](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-now-supports-smart-cards-with-the-workspaces-macos-client-application/)
 - [Amazon WorkSpaces webcam support now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-webcam-support-generally-available/)
@@ -67,7 +68,6 @@
 - [Bring Your Own IP for Amazon Virtual Private Cloud is Now Available in Four Additional Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/bring-your-own-ip-amazon-virtual-private-cloud-available-additional-regions/)
 - [Prepare data from Amazon Redshift and other JDBC-supported databases/data warehouses in AWS Glue DataBrew through native connectors](https://aws.amazon.com/about-aws/whats-new/2021/04/prepare-data-from-amazon-redshift-other-databases-in-aws-glue-databrew/)
 - [Announcing support for IAM Condition Keys and CMK for custom models for Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-iam-condition-keys-cmk-custom-models-amazon-comprehend/)
-- [AWS WAF now supports Labels to improve rule customization and reporting](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-waf-supports-labels-to-improve-rule-customiazation-and-reporting/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

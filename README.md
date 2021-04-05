@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces webcam support now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-webcam-support-generally-available/)
+- [Amazon MQ is now available in the Japan (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-available-japan-osaka-region/)
+- [New options to trigger Amazon SageMaker Pipeline executions](https://aws.amazon.com/about-aws/whats-new/2021/04/new-options-trigger-amazon-sagemaker-pipeline-executions/)
+- [Amazon VPC Flow Logs announces out-of-the-box integration with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-vpc-flow-logs-announces-out-of-box-integration-with-amazon-athena/)
 - [Bring Your Own IP for Amazon Virtual Private Cloud is Now Available in Four Additional Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/bring-your-own-ip-amazon-virtual-private-cloud-available-additional-regions/)
 - [Prepare data from Amazon Redshift and other JDBC-supported databases/data warehouses in AWS Glue DataBrew through native connectors](https://aws.amazon.com/about-aws/whats-new/2021/04/prepare-data-from-amazon-redshift-other-databases-in-aws-glue-databrew/)
 - [Announcing support for IAM Condition Keys and CMK for custom models for Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-iam-condition-keys-cmk-custom-models-amazon-comprehend/)
 - [AWS WAF now supports Labels to improve rule customization and reporting](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-waf-supports-labels-to-improve-rule-customiazation-and-reporting/)
 - [AWS Firewall Manager now supports centralized deployment of the new AWS WAF Bot Control across your organization](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-firewall-manager-supports-centralized-deployment-new-aws-waf-bot-control/)
 - [Amazon EKS is now FedRAMP-High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-eks-is-now-fedramp-high-compliant/)
-- [Amazon Aurora PostgreSQL Patches 1.9.1 / 2.7.1 / 3.4.1 / 4.0.1 now available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-aurora-postgresql-patches-now-available/)
-- [AWS Budgets announces CloudFormation support for budget actions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-budgets-announces-cloudformation-support-for-budget-actions/)
-- [Amazon VPC Flow Logs announces out-of-the-box integration with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-vpc-flow-logs-accounces-out-of-box-integration-with-amazon-athena/)
-- [Amazon EMR now supported on Amazon EC2 Graviton2-based instances in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-supported-on-amazon-ec2-graviton-2-based-instances-in-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

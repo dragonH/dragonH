@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New instructor-led course: Developing Serverless Solutions on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-instructor-led-course-developing-serverless-solutions-on-aws/)
 - [AWS Elemental MediaLive now supports HTML 5 motion graphics overlay](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-elemental-medialive-now-supports-html-5-motion-graphics-overlay/)
 - [Amazon Macie now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-now-available-in-aws-asia-pacific-osaka-region/)
 - [AWS Systems Manager Run Command now displays more logs and enables log download from the console](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-run-command-now-displays-more-logs-enables-log-downloads-from-console/)
@@ -67,7 +68,6 @@
 - [Amazon MQ is now available in the Japan (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-available-japan-osaka-region/)
 - [New options to trigger Amazon SageMaker Pipeline executions](https://aws.amazon.com/about-aws/whats-new/2021/04/new-options-trigger-amazon-sagemaker-pipeline-executions/)
 - [Amazon VPC Flow Logs announces out-of-the-box integration with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-vpc-flow-logs-announces-out-of-box-integration-with-amazon-athena/)
-- [Bring Your Own IP for Amazon Virtual Private Cloud is Now Available in Four Additional Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/bring-your-own-ip-amazon-virtual-private-cloud-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

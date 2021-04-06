@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Macie now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-now-available-in-aws-asia-pacific-osaka-region/)
 - [AWS Systems Manager Run Command now displays more logs and enables log download from the console](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-run-command-now-displays-more-logs-enables-log-downloads-from-console/)
 - [New AWS Solutions Consulting Offer - Design and Build Applications at Speed with DAPx](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-design-build-applications-speed-dapx/)
 - [Amazon WorkSpaces now supports smart cards with the WorkSpaces macOS client application](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-now-supports-smart-cards-with-the-workspaces-macos-client-application/)
@@ -67,7 +68,6 @@
 - [Amazon VPC Flow Logs announces out-of-the-box integration with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-vpc-flow-logs-announces-out-of-box-integration-with-amazon-athena/)
 - [Bring Your Own IP for Amazon Virtual Private Cloud is Now Available in Four Additional Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/bring-your-own-ip-amazon-virtual-private-cloud-available-additional-regions/)
 - [Prepare data from Amazon Redshift and other JDBC-supported databases/data warehouses in AWS Glue DataBrew through native connectors](https://aws.amazon.com/about-aws/whats-new/2021/04/prepare-data-from-amazon-redshift-other-databases-in-aws-glue-databrew/)
-- [Announcing support for IAM Condition Keys and CMK for custom models for Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-iam-condition-keys-cmk-custom-models-amazon-comprehend/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

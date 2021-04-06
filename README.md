@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru announces a new, lower and predictable Pricing Model for CodeGuru Reviewer](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-codeguru-announces-new-lower-predictable-pricing-model-codeguru-reviewer/)
+- [Python Support for Amazon CodeGuru Reviewer is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/python-support-amazon-codeguru-reviewer-now-generally-available/)
+- [AWS Glue now supports cross-account reads from Amazon Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-cross-account-reads-from-amazon-kinesis-data-streams/)
 - [New instructor-led course: Developing Serverless Solutions on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-instructor-led-course-developing-serverless-solutions-on-aws/)
 - [AWS Elemental MediaLive now supports HTML 5 motion graphics overlay](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-elemental-medialive-now-supports-html-5-motion-graphics-overlay/)
 - [Amazon Macie now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-now-available-in-aws-asia-pacific-osaka-region/)
@@ -65,9 +68,6 @@
 - [New AWS Solutions Consulting Offer - Design and Build Applications at Speed with DAPx](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-design-build-applications-speed-dapx/)
 - [Amazon WorkSpaces now supports smart cards with the WorkSpaces macOS client application](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-now-supports-smart-cards-with-the-workspaces-macos-client-application/)
 - [Amazon WorkSpaces webcam support now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-workspaces-webcam-support-generally-available/)
-- [Amazon MQ is now available in the Japan (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-available-japan-osaka-region/)
-- [New options to trigger Amazon SageMaker Pipeline executions](https://aws.amazon.com/about-aws/whats-new/2021/04/new-options-trigger-amazon-sagemaker-pipeline-executions/)
-- [Amazon VPC Flow Logs announces out-of-the-box integration with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-vpc-flow-logs-announces-out-of-box-integration-with-amazon-athena/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

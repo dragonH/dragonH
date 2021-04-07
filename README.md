@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Audit Manager now offers a new standard framework for NIST 800-53 (Rev. 5) Low-Moderate-High](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-now-offers-a-new-standard-framework-for-nist-800-53-rev-5-low-moderate-high/)
+- [Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-g4ad-instances-available-in-additional-regions/)
+- [AWS Glue now supports missing value imputation based on machine learning](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-missing-value-imputation-based-on-machine-learning/)
 - [Amazon Route 53 Resolver DNS Firewall Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-route-53-resolver-dns-firewall-generally-available/)
 - [IAM Access Analyzer makes it easier to implement least privilege permissions by generating IAM policies based on access activity](https://aws.amazon.com/about-aws/whats-new/2021/04/iam-access-analyzer-easier-implement-least-privilege-permissions-generating-iam-policies-access-activity/)
 - [Amazon Interactive Video Service adds support for recording live streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-support-recording-live-streams-amazon-s3/)
@@ -65,9 +68,6 @@
 - [Amplify iOS now available via Swift Package Manager (SPM)](https://aws.amazon.com/about-aws/whats-new/2021/04/amplify-ios-now-available-via-swift-package-manager-spm/)
 - [Amazon MQ now supports RabbitMQ version 3.8.11](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-now-supports-rabbitmq-version-3-8-11/)
 - [You can now deploy CloudFormation Stacks concurrently across multiple AWS regions using AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/deploy-cloudformation-stacks-concurrently-across-multiple-aws-regions-using-aws-cloudformation-stacksets/)
-- [AWS Backup now supports cost allocation tags for Amazon EFS Backups](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-now-supports-cost-allocation-tags-for-amazon-efs-backups/)
-- [Data management is now generally available in the AWS Amplify Admin UI](https://aws.amazon.com/about-aws/whats-new/2021/04/data-management-is-now-generally-available-in-the-aws-amplify-admin-ui/)
-- [AWS Systems Manager Parameter Store now supports removal of parameter labels](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-parameter-store-now-supports-removal-of-parameter-labels/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

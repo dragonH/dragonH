@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports cost allocation tags for Amazon EFS Backups](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-now-supports-cost-allocation-tags-for-amazon-efs-backups/)
 - [Data management is now generally available in the AWS Amplify Admin UI](https://aws.amazon.com/about-aws/whats-new/2021/04/data-management-is-now-generally-available-in-the-aws-amplify-admin-ui/)
 - [AWS Systems Manager Parameter Store now supports removal of parameter labels](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-parameter-store-now-supports-removal-of-parameter-labels/)
 - [AWS Batch simplifies permissions by introducing Service-Linked Roles](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-batch-simplifies-permissions-introducing-service-linked-roles/)
@@ -67,7 +68,6 @@
 - [AWS Glue now supports cross-account reads from Amazon Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-cross-account-reads-from-amazon-kinesis-data-streams/)
 - [New instructor-led course: Developing Serverless Solutions on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-instructor-led-course-developing-serverless-solutions-on-aws/)
 - [AWS Elemental MediaLive now supports HTML 5 motion graphics overlay](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-elemental-medialive-now-supports-html-5-motion-graphics-overlay/)
-- [Amazon Macie now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-now-available-in-aws-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Access Analyzer makes it easier to implement least privilege permissions by generating IAM policies based on access activity](https://aws.amazon.com/about-aws/whats-new/2021/04/iam-access-analyzer-easier-implement-least-privilege-permissions-generating-iam-policies-access-activity/)
+- [Amazon Interactive Video Service adds support for recording live streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-support-recording-live-streams-amazon-s3/)
+- [Amazon ElastiCache now supports Tag-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticache-supports-tag-based-access-control/)
 - [Amplify iOS now available via Swift Package Manager (SPM)](https://aws.amazon.com/about-aws/whats-new/2021/04/amplify-ios-now-available-via-swift-package-manager-spm/)
 - [Amazon MQ now supports RabbitMQ version 3.8.11](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-now-supports-rabbitmq-version-3-8-11/)
 - [You can now deploy CloudFormation Stacks concurrently across multiple AWS regions using AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/deploy-cloudformation-stacks-concurrently-across-multiple-aws-regions-using-aws-cloudformation-stacksets/)
@@ -65,9 +68,6 @@
 - [Data management is now generally available in the AWS Amplify Admin UI](https://aws.amazon.com/about-aws/whats-new/2021/04/data-management-is-now-generally-available-in-the-aws-amplify-admin-ui/)
 - [AWS Systems Manager Parameter Store now supports removal of parameter labels](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-parameter-store-now-supports-removal-of-parameter-labels/)
 - [AWS Batch simplifies permissions by introducing Service-Linked Roles](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-batch-simplifies-permissions-introducing-service-linked-roles/)
-- [Amazon EC2 now allows you to copy Amazon Machine Images across AWS GovCloud, AWS China and other AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-allows-copy-amazon-machine-images-across-aws-govcloud-aws-china-other-regions/)
-- [Amazon CodeGuru announces a new, lower and predictable Pricing Model for CodeGuru Reviewer](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-codeguru-announces-new-lower-predictable-pricing-model-codeguru-reviewer/)
-- [Python Support for Amazon CodeGuru Reviewer is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/python-support-amazon-codeguru-reviewer-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

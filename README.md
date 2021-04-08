@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces quality updates to its tables extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-announces-quality-update-table-extraction-feature/)
+- [AWS Control Tower introduces changes to preventive S3 guardrails and updates to S3 bucket encryption protocols](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-introduces-changes-to-preventive-s3-guardrails-and-updates-to-s3-bucket-encryption-protocols/)
+- [Amazon GuardDuty Now Available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-guardduty-now-available-in-aws-asia-pacific-osaka-region/)
 - [New AWS Solutions Consulting Offer - Application Modernization and Migration to AWS Cloud](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-application-modernization-migration-aws/)
 - [Amazon EC2 Auto Scaling introduces Warm Pools to accelerate scale out while saving money](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/)
 - [AWS Control Tower now available in Mumbai, Seoul and Tokyo AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-available-in-mumbai-seoul-and-tokyo-aws-regions/)
@@ -65,9 +68,6 @@
 - [AWS Step Functions adds new data flow simulator for modelling input and output processing](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-step-functions-adds-new-data-flow-simulator-for-modelling-input-and-output-processing/)
 - [Amazon Connect Customer Profiles now includes support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-privatelink/)
 - [Amazon Connect Customer Profiles now includes support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-cloudformation/)
-- [AWS RoboMaker now supports the ability to configure tools for simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-robomaker-now-supports-the-ability-to-configure-tools-for-simulation-jobs/)
-- [Amazon RDS for SQL Server now supports Extended Events](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-sql-server-supports-extended-events/)
-- [Updated classroom course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-aws-cloud-practitioner-essentials/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

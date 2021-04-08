@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Multi-Attach for Provisioned IOPS io2 Now Available in Thirteen Additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/multi-attach-for-provisioned-iops-io2-now-available-in-additional-regions/)
 - [AWS Audit Manager now offers a new standard framework for NIST 800-53 (Rev. 5) Low-Moderate-High](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-now-offers-a-new-standard-framework-for-nist-800-53-rev-5-low-moderate-high/)
 - [Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-g4ad-instances-available-in-additional-regions/)
 - [AWS Glue now supports missing value imputation based on machine learning](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-missing-value-imputation-based-on-machine-learning/)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache now supports Tag-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticache-supports-tag-based-access-control/)
 - [Amplify iOS now available via Swift Package Manager (SPM)](https://aws.amazon.com/about-aws/whats-new/2021/04/amplify-ios-now-available-via-swift-package-manager-spm/)
 - [Amazon MQ now supports RabbitMQ version 3.8.11](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-now-supports-rabbitmq-version-3-8-11/)
-- [You can now deploy CloudFormation Stacks concurrently across multiple AWS regions using AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/deploy-cloudformation-stacks-concurrently-across-multiple-aws-regions-using-aws-cloudformation-stacksets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

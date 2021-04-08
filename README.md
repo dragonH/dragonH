@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Application Modernization and Migration to AWS Cloud](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-application-modernization-migration-aws/)
+- [Amazon EC2 Auto Scaling introduces Warm Pools to accelerate scale out while saving money](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/)
+- [AWS Control Tower now available in Mumbai, Seoul and Tokyo AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-available-in-mumbai-seoul-and-tokyo-aws-regions/)
 - [AWS IoT Analytics adds schema inference support for Apache Parquet based data stores](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-iot-analytics-adds-schema-inference-support-for-apache-parquet-based-data-stores/)
 - [AWS Step Functions adds new data flow simulator for modelling input and output processing](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-step-functions-adds-new-data-flow-simulator-for-modelling-input-and-output-processing/)
-- [Amazon Customer Profiles now includes support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-privatelink/)
-- [Amazon Customer Profiles now includes support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-cloudformation/)
+- [Amazon Connect Customer Profiles now includes support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-privatelink/)
+- [Amazon Connect Customer Profiles now includes support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-cloudformation/)
 - [AWS RoboMaker now supports the ability to configure tools for simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-robomaker-now-supports-the-ability-to-configure-tools-for-simulation-jobs/)
 - [Amazon RDS for SQL Server now supports Extended Events](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-sql-server-supports-extended-events/)
 - [Updated classroom course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-aws-cloud-practitioner-essentials/)
-- [Amazon Keyspaces (for Apache Cassandra) now offers FIPS 140-2 compliant endpoints to help you run highly regulated workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-keyspaces-for-apache-cassandra-now-offers-fips-140-2-compliant-endpoints/)
-- [Amazon Athena now presents query execution plans to aid tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-athena-now-presents-query-execution-plans-to-aid-tuning/)
-- [New AWS Solutions Consulting Offer - RegCloud: ControllerView® on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-regcloud-controllerview-on-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

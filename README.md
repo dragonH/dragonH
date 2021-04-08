@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Updated classroom course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-aws-cloud-practitioner-essentials/)
+- [Amazon Keyspaces (for Apache Cassandra) now offers FIPS 140-2 compliant endpoints to help you run highly regulated workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-keyspaces-for-apache-cassandra-now-offers-fips-140-2-compliant-endpoints/)
 - [Amazon Athena now presents query execution plans to aid tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-athena-now-presents-query-execution-plans-to-aid-tuning/)
 - [New AWS Solutions Consulting Offer - RegCloud: ControllerView® on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-regcloud-controllerview-on-aws/)
 - [Detect abnormal equipment behavior with Amazon Lookout for Equipment — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/detect-abnormal-equipment-behavior-amazon-lookout-equipment-generally-available/)
@@ -66,8 +68,6 @@
 - [Amazon Fraud Detector automates sampling for imbalanced model training datasets](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fraud-detector-automates-sampling-for-imbalanced-model-training-datasets/)
 - [eksctl now supports creating node groups using resource specifications and dry run mode](https://aws.amazon.com/about-aws/whats-new/2021/04/eksctl-supports-creating-node-groups-resource-specifications-dry-run-mode/)
 - [Multi-Attach for Provisioned IOPS io2 Now Available in Thirteen Additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/multi-attach-for-provisioned-iops-io2-now-available-in-additional-regions/)
-- [AWS Audit Manager now offers a new standard framework for NIST 800-53 (Rev. 5) Low-Moderate-High](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-now-offers-a-new-standard-framework-for-nist-800-53-rev-5-low-moderate-high/)
-- [Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-g4ad-instances-available-in-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

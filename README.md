@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS RoboMaker now supports the ability to configure tools for simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-robomaker-now-supports-the-ability-to-configure-tools-for-simulation-jobs/)
+- [Amazon RDS for SQL Server now supports Extended Events](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-sql-server-supports-extended-events/)
 - [Updated classroom course: AWS Cloud Practitioner Essentials](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-aws-cloud-practitioner-essentials/)
 - [Amazon Keyspaces (for Apache Cassandra) now offers FIPS 140-2 compliant endpoints to help you run highly regulated workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-keyspaces-for-apache-cassandra-now-offers-fips-140-2-compliant-endpoints/)
 - [Amazon Athena now presents query execution plans to aid tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-athena-now-presents-query-execution-plans-to-aid-tuning/)
@@ -66,8 +68,6 @@
 - [Customers can now use ServiceNow to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2021/04/customers-can-now-use-servicenow-to-track-operational-items-related-to-aws-resources/)
 - [Amazon EC2 instances featuring AMD EPYC processors are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-instances-featuring-amd-epyc-processors-are-now-available-in-additional-regions/)
 - [Amazon Fraud Detector automates sampling for imbalanced model training datasets](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fraud-detector-automates-sampling-for-imbalanced-model-training-datasets/)
-- [eksctl now supports creating node groups using resource specifications and dry run mode](https://aws.amazon.com/about-aws/whats-new/2021/04/eksctl-supports-creating-node-groups-resource-specifications-dry-run-mode/)
-- [Multi-Attach for Provisioned IOPS io2 Now Available in Thirteen Additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/multi-attach-for-provisioned-iops-io2-now-available-in-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

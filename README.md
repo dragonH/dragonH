@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena now presents query execution plans to aid tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-athena-now-presents-query-execution-plans-to-aid-tuning/)
+- [New AWS Solutions Consulting Offer - RegCloud: ControllerView® on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-regcloud-controllerview-on-aws/)
+- [Detect abnormal equipment behavior with Amazon Lookout for Equipment — now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/detect-abnormal-equipment-behavior-amazon-lookout-equipment-generally-available/)
+- [Customers can now use ServiceNow to track operational items related to AWS resources](https://aws.amazon.com/about-aws/whats-new/2021/04/customers-can-now-use-servicenow-to-track-operational-items-related-to-aws-resources/)
+- [Amazon EC2 instances featuring AMD EPYC processors are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-instances-featuring-amd-epyc-processors-are-now-available-in-additional-regions/)
+- [Amazon Fraud Detector automates sampling for imbalanced model training datasets](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fraud-detector-automates-sampling-for-imbalanced-model-training-datasets/)
+- [eksctl now supports creating node groups using resource specifications and dry run mode](https://aws.amazon.com/about-aws/whats-new/2021/04/eksctl-supports-creating-node-groups-resource-specifications-dry-run-mode/)
 - [Multi-Attach for Provisioned IOPS io2 Now Available in Thirteen Additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/multi-attach-for-provisioned-iops-io2-now-available-in-additional-regions/)
 - [AWS Audit Manager now offers a new standard framework for NIST 800-53 (Rev. 5) Low-Moderate-High](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-now-offers-a-new-standard-framework-for-nist-800-53-rev-5-low-moderate-high/)
 - [Amazon EC2 G4ad instances, powered by AMD Radeon Pro V520 GPUs, are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-g4ad-instances-available-in-additional-regions/)
-- [AWS Glue now supports missing value imputation based on machine learning](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-missing-value-imputation-based-on-machine-learning/)
-- [Amazon Route 53 Resolver DNS Firewall Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-route-53-resolver-dns-firewall-generally-available/)
-- [IAM Access Analyzer makes it easier to implement least privilege permissions by generating IAM policies based on access activity](https://aws.amazon.com/about-aws/whats-new/2021/04/iam-access-analyzer-easier-implement-least-privilege-permissions-generating-iam-policies-access-activity/)
-- [Amazon Interactive Video Service adds support for recording live streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-support-recording-live-streams-amazon-s3/)
-- [Amazon ElastiCache now supports Tag-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticache-supports-tag-based-access-control/)
-- [Amplify iOS now available via Swift Package Manager (SPM)](https://aws.amazon.com/about-aws/whats-new/2021/04/amplify-ios-now-available-via-swift-package-manager-spm/)
-- [Amazon MQ now supports RabbitMQ version 3.8.11](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-now-supports-rabbitmq-version-3-8-11/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

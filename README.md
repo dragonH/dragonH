@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Service Quotas is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/service-quotas-available-aws-govcloud-us-regions/)
+- [Amazon AppStream 2.0 adds support for fully managed image updates](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-appstream-2-0-adds-support-fully-managed-image-updates/)
+- [AWS Firewall Manager Now Available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-firewall-manager-available-aws-govcloud-regions/)
 - [Amazon Textract announces quality updates to its tables extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-announces-quality-update-table-extraction-feature/)
 - [AWS Control Tower introduces changes to preventive S3 guardrails and updates to S3 bucket encryption protocols](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-introduces-changes-to-preventive-s3-guardrails-and-updates-to-s3-bucket-encryption-protocols/)
 - [Amazon GuardDuty Now Available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-guardduty-now-available-in-aws-asia-pacific-osaka-region/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 Auto Scaling introduces Warm Pools to accelerate scale out while saving money](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/)
 - [AWS Control Tower now available in Mumbai, Seoul and Tokyo AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-available-in-mumbai-seoul-and-tokyo-aws-regions/)
 - [AWS IoT Analytics adds schema inference support for Apache Parquet based data stores](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-iot-analytics-adds-schema-inference-support-for-apache-parquet-based-data-stores/)
-- [AWS Step Functions adds new data flow simulator for modelling input and output processing](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-step-functions-adds-new-data-flow-simulator-for-modelling-input-and-output-processing/)
-- [Amazon Connect Customer Profiles now includes support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-privatelink/)
-- [Amazon Connect Customer Profiles now includes support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-customer-profiles-includes-support-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

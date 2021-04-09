@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation Command Line Interface (CFN-CLI) now supports TypeScript](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-command-line-interface-now-supports-typescript/)
+- [New AWS Solutions Implementation: Amazon S3 Glacier Re:Freezer](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-implementation-amazon-s3-glacier-re-freezer/)
 - [Service Quotas is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/service-quotas-available-aws-govcloud-us-regions/)
 - [Amazon AppStream 2.0 adds support for fully managed image updates](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-appstream-2-0-adds-support-fully-managed-image-updates/)
 - [AWS Firewall Manager Now Available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-firewall-manager-available-aws-govcloud-regions/)
@@ -66,8 +68,6 @@
 - [Amazon GuardDuty Now Available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-guardduty-now-available-in-aws-asia-pacific-osaka-region/)
 - [New AWS Solutions Consulting Offer - Application Modernization and Migration to AWS Cloud](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-application-modernization-migration-aws/)
 - [Amazon EC2 Auto Scaling introduces Warm Pools to accelerate scale out while saving money](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/)
-- [AWS Control Tower now available in Mumbai, Seoul and Tokyo AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-available-in-mumbai-seoul-and-tokyo-aws-regions/)
-- [AWS IoT Analytics adds schema inference support for Apache Parquet based data stores](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-iot-analytics-adds-schema-inference-support-for-apache-parquet-based-data-stores/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-mysql-m6g-and-r6g-instances-now-available-in-n-california-canada-sao-paulo-and-london-regions/)
 - [Internet Group Management Protocol (IGMP) Multicast on AWS Transit Gateway is now available in major AWS regions worldwide](https://aws.amazon.com/about-aws/whats-new/2021/04/internet-group-management-protocol-igmp-multicast-on-aws-transit-gateway-is-now-available-in-major-aws-regions-worldwide/)
 - [Amazon RDS Data API now available in Asia Pacific (Seoul) and Canada (Central) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rsd-data-api-now-available-in-asia-pacific-seoul-and-canada-central-aws-regions/)
 - [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-connect-available-additional-aws-regions/)
@@ -67,7 +68,6 @@
 - [Service Quotas is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/service-quotas-available-aws-govcloud-us-regions/)
 - [Amazon AppStream 2.0 adds support for fully managed image updates](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-appstream-2-0-adds-support-fully-managed-image-updates/)
 - [AWS Firewall Manager Now Available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-firewall-manager-available-aws-govcloud-regions/)
-- [Amazon Textract announces quality updates to its tables extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-announces-quality-update-table-extraction-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

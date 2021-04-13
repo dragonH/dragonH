@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service adds new Cloudwatch Metrics](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-new-cloudwatch-metrics/)
 - [Updated classroom course: Systems Operations on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-systems-operations-on-aws/)
 - [AWS CloudFormation Modules now Provides YAML and Delimiter Support](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-modules-provides-yaml-delimiter-support/)
 - [New digital rewards and racer profile personalization features on the AWS DeepRacer console](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-rewards-racer-profile-personalization-features-aws-deepracer-console/)
@@ -67,7 +68,6 @@
 - [AWS Console Mobile Application adds support for Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-console-mobile-application-adds-support-for-asia-pacific-osaka-region/)
 - [Amazon RDS for MySQL M6g and R6g instances now available in N. California, Canada, São Paulo, and London regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-mysql-m6g-and-r6g-instances-now-available-in-n-california-canada-sao-paulo-and-london-regions/)
 - [Internet Group Management Protocol (IGMP) Multicast on AWS Transit Gateway is now available in major AWS regions worldwide](https://aws.amazon.com/about-aws/whats-new/2021/04/internet-group-management-protocol-igmp-multicast-on-aws-transit-gateway-is-now-available-in-major-aws-regions-worldwide/)
-- [Amazon RDS Data API now available in Asia Pacific (Seoul) and Canada (Central) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rsd-data-api-now-available-in-asia-pacific-seoul-and-canada-central-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

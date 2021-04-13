@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation Modules now Provides YAML and Delimiter Support](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-modules-provides-yaml-delimiter-support/)
 - [New digital rewards and racer profile personalization features on the AWS DeepRacer console](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-rewards-racer-profile-personalization-features-aws-deepracer-console/)
 - [Amazon FSx and AWS Backup announce support for copying file system backups across AWS Regions and AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/)
 - [Amazon Redshift now supports data sharing when producer clusters are paused](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-supports-data-sharing-producer-clusters-paused/)
@@ -67,7 +68,6 @@
 - [Internet Group Management Protocol (IGMP) Multicast on AWS Transit Gateway is now available in major AWS regions worldwide](https://aws.amazon.com/about-aws/whats-new/2021/04/internet-group-management-protocol-igmp-multicast-on-aws-transit-gateway-is-now-available-in-major-aws-regions-worldwide/)
 - [Amazon RDS Data API now available in Asia Pacific (Seoul) and Canada (Central) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rsd-data-api-now-available-in-asia-pacific-seoul-and-canada-central-aws-regions/)
 - [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-connect-available-additional-aws-regions/)
-- [Amazon CloudWatch Lambda Insights Now Supports AWS Lambda Container Images (General Availability)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-cloudwatch-lambda-insights-now-supports-aws-lambda-container-images-general-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

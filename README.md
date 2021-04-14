@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New digital course: Getting Started with Data Analytics on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-getting-started-with-data-analytics-on-aws/)
+- [Amazon Connect launches audio device settings for the custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-launches-audio-device-setting-custom-contact-control-panels/)
+- [Amazon Connect allows contact center managers to configure agent settings in a custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-manage-agent-settings-custom-contact-control-panel/)
+- [AWS announces general availability of AQUA for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-general-availability-of-aqua-for-amazon-redshift/)
 - [AWS CodeCommit is Now Available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-codecommit-now-available-asia-pacific-osaka-region/)
 - [AWS CloudShell is now available in the Asia Pacific (Mumbai), Asia Pacific (Sydney), and Europe (Frankfurt) regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudshell-is-now-available-in-the-asia-pacific-mumbai-asia-pacific-sydney-and-europe-frankfurt-regions/)
 - [AWS Identity and Access Management now makes it easier to relate a user's IAM role activity to their corporate identity](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-identity-and-access-management-now-makes-it-easier-to-relate-a-users-iam-role-activity-to-their-corporate-identity/)
 - [Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-new-minor-versions/)
 - [AWS Batch increases job scheduling and EC2 instance scaling performance](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-batch-increases-job-scheduling-and-ec2-instance-scaling-performance/)
 - [Amazon Interactive Video Service adds new Cloudwatch Metrics](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-new-cloudwatch-metrics/)
-- [Updated classroom course: Systems Operations on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/updated-classroom-course-systems-operations-on-aws/)
-- [AWS CloudFormation Modules now Provides YAML and Delimiter Support](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-modules-provides-yaml-delimiter-support/)
-- [New digital rewards and racer profile personalization features on the AWS DeepRacer console](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-rewards-racer-profile-personalization-features-aws-deepracer-console/)
-- [Amazon FSx and AWS Backup announce support for copying file system backups across AWS Regions and AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

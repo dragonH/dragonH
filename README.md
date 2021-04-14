@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeCommit is Now Available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-codecommit-now-available-asia-pacific-osaka-region/)
 - [AWS CloudShell is now available in the Asia Pacific (Mumbai), Asia Pacific (Sydney), and Europe (Frankfurt) regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudshell-is-now-available-in-the-asia-pacific-mumbai-asia-pacific-sydney-and-europe-frankfurt-regions/)
 - [AWS Identity and Access Management now makes it easier to relate a user's IAM role activity to their corporate identity](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-identity-and-access-management-now-makes-it-easier-to-relate-a-users-iam-role-activity-to-their-corporate-identity/)
 - [Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-new-minor-versions/)
@@ -67,7 +68,6 @@
 - [AWS CloudFormation Modules now Provides YAML and Delimiter Support](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloudformation-modules-provides-yaml-delimiter-support/)
 - [New digital rewards and racer profile personalization features on the AWS DeepRacer console](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-rewards-racer-profile-personalization-features-aws-deepracer-console/)
 - [Amazon FSx and AWS Backup announce support for copying file system backups across AWS Regions and AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-aws-backup-announce-support-copying-file-system-backups-across-regions-accounts/)
-- [Amazon Redshift now supports data sharing when producer clusters are paused](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-supports-data-sharing-producer-clusters-paused/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

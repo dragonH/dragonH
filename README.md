@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL Integrates with AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-postgresql-integrates-aws-lambda/)
 - [New digital course: Getting Started with Data Analytics on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-getting-started-with-data-analytics-on-aws/)
 - [Amazon Connect launches audio device settings for the custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-launches-audio-device-setting-custom-contact-control-panels/)
 - [Amazon Connect allows contact center managers to configure agent settings in a custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-manage-agent-settings-custom-contact-control-panel/)
@@ -67,7 +68,6 @@
 - [AWS Identity and Access Management now makes it easier to relate a user's IAM role activity to their corporate identity](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-identity-and-access-management-now-makes-it-easier-to-relate-a-users-iam-role-activity-to-their-corporate-identity/)
 - [Amazon RDS for PostgreSQL supports new minor versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-new-minor-versions/)
 - [AWS Batch increases job scheduling and EC2 instance scaling performance](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-batch-increases-job-scheduling-and-ec2-instance-scaling-performance/)
-- [Amazon Interactive Video Service adds new Cloudwatch Metrics](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-interactive-video-service-adds-new-cloudwatch-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

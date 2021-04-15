@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL Supports pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
+- [Amazon EventBridge introduces support for cross-Region event bus targets](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-eventbridge-introduces-support-cross-region-event-bus-targets/)
+- [New free ML training for business and technical leaders](https://aws.amazon.com/about-aws/whats-new/2021/04/new-free-ml-training-for-business-and-technical-leaders/)
 - [AWS Network Firewall is now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and EU (London)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-asia-pacific-mumbai-asia-pacific-singapore-and-eu-london/)
 - [Amazon MQ for Active MQ is now available in AWS China (Beijing) region, operated by Sinnet and AWS China (Ningxia) region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-for-active-mq-now-available-aws-china-regions/)
 - [Amazon Macie adds CloudWatch logging for job status and health monitoring of sensitive data discovery jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-adds-cloudwatch-logging-for-job-status-and-health-monitoring-of-sensitive-data-discovery-jobs/)
@@ -65,9 +68,6 @@
 - [AWS Security Hub Automated Response & Remediation Solution adds support for AWS Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-security-hub-automated-response-remediation-solution-support-aws-foundational-security-best-practices-standard/)
 - [AWS Ground Station is now available in US East (N. Virginia) and EU (Frankfurt) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-ground-station-is-now-available-in-us-east-n-virginia-and-eu-frankfurt-regions/)
 - [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-connect-is-now-available-in-additional-aws-regions/)
-- [AWS CodeArtifact is now available in Paris, London, and Milan](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-codeartifact-is-now-available-in-paris-london-and-milan/)
-- [Now reference latest AWS Systems Manager parameter values in AWS CloudFormation templates without specifying parameter versions](https://aws.amazon.com/about-aws/whats-new/2021/04/now-reference-latest-aws-systems-manager-parameter-values-in-aws-cloudformation-templates-without-specifying-parameter-versions/)
-- [Now Use Tags to Track and Allocate Amazon SageMaker Studio Notebooks Costs](https://aws.amazon.com/about-aws/whats-new/2021/04/now-use-tags-track-allocate-amazon-sagemaker-studio-notebooks-costs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Ground Station is now available in US East (N. Virginia) and EU (Frankfurt) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-ground-station-is-now-available-in-us-east-n-virginia-and-eu-frankfurt-regions/)
 - [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-connect-is-now-available-in-additional-aws-regions/)
 - [AWS CodeArtifact is now available in Paris, London, and Milan](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-codeartifact-is-now-available-in-paris-london-and-milan/)
 - [Now reference latest AWS Systems Manager parameter values in AWS CloudFormation templates without specifying parameter versions](https://aws.amazon.com/about-aws/whats-new/2021/04/now-reference-latest-aws-systems-manager-parameter-values-in-aws-cloudformation-templates-without-specifying-parameter-versions/)
@@ -67,7 +68,6 @@
 - [New digital course: Getting Started with Data Analytics on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-getting-started-with-data-analytics-on-aws/)
 - [Amazon Connect launches audio device settings for the custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-launches-audio-device-setting-custom-contact-control-panels/)
 - [Amazon Connect allows contact center managers to configure agent settings in a custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-manage-agent-settings-custom-contact-control-panel/)
-- [AWS announces general availability of AQUA for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-general-availability-of-aqua-for-amazon-redshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New datasets available in the Registry of Open Data on AWS from United States Geological Survey (USGS), the Swiss Institute of Bioinformatics, iNaturalist.org, and others](https://aws.amazon.com/about-aws/whats-new/2021/04/new-datasets-available-in-the-registry-of-open-data-on-aws/)
+- [AWS Security Hub Automated Response & Remediation Solution adds support for AWS Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-security-hub-automated-response-remediation-solution-support-aws-foundational-security-best-practices-standard/)
 - [AWS Ground Station is now available in US East (N. Virginia) and EU (Frankfurt) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-ground-station-is-now-available-in-us-east-n-virginia-and-eu-frankfurt-regions/)
 - [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-connect-is-now-available-in-additional-aws-regions/)
 - [AWS CodeArtifact is now available in Paris, London, and Milan](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-codeartifact-is-now-available-in-paris-london-and-milan/)
@@ -66,8 +68,6 @@
 - [AWS Storage Gateway achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-storage-gateway-achieves-fedramp-moderate-compliance/)
 - [Amazon RDS for PostgreSQL Integrates with AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-postgresql-integrates-aws-lambda/)
 - [New digital course: Getting Started with Data Analytics on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-getting-started-with-data-analytics-on-aws/)
-- [Amazon Connect launches audio device settings for the custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-launches-audio-device-setting-custom-contact-control-panels/)
-- [Amazon Connect allows contact center managers to configure agent settings in a custom Contact Control Panel (CCP)](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-manage-agent-settings-custom-contact-control-panel/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

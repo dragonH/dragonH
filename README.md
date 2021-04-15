@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall is now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and EU (London)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-asia-pacific-mumbai-asia-pacific-singapore-and-eu-london/)
+- [Amazon MQ for Active MQ is now available in AWS China (Beijing) region, operated by Sinnet and AWS China (Ningxia) region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-for-active-mq-now-available-aws-china-regions/)
+- [Amazon Macie adds CloudWatch logging for job status and health monitoring of sensitive data discovery jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-adds-cloudwatch-logging-for-job-status-and-health-monitoring-of-sensitive-data-discovery-jobs/)
 - [New datasets available in the Registry of Open Data on AWS from United States Geological Survey (USGS), the Swiss Institute of Bioinformatics, iNaturalist.org, and others](https://aws.amazon.com/about-aws/whats-new/2021/04/new-datasets-available-in-the-registry-of-open-data-on-aws/)
 - [AWS Security Hub Automated Response & Remediation Solution adds support for AWS Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-security-hub-automated-response-remediation-solution-support-aws-foundational-security-best-practices-standard/)
 - [AWS Ground Station is now available in US East (N. Virginia) and EU (Frankfurt) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-ground-station-is-now-available-in-us-east-n-virginia-and-eu-frankfurt-regions/)
@@ -65,9 +68,6 @@
 - [AWS CodeArtifact is now available in Paris, London, and Milan](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-codeartifact-is-now-available-in-paris-london-and-milan/)
 - [Now reference latest AWS Systems Manager parameter values in AWS CloudFormation templates without specifying parameter versions](https://aws.amazon.com/about-aws/whats-new/2021/04/now-reference-latest-aws-systems-manager-parameter-values-in-aws-cloudformation-templates-without-specifying-parameter-versions/)
 - [Now Use Tags to Track and Allocate Amazon SageMaker Studio Notebooks Costs](https://aws.amazon.com/about-aws/whats-new/2021/04/now-use-tags-track-allocate-amazon-sagemaker-studio-notebooks-costs/)
-- [AWS Storage Gateway achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-storage-gateway-achieves-fedramp-moderate-compliance/)
-- [Amazon RDS for PostgreSQL Integrates with AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-postgresql-integrates-aws-lambda/)
-- [New digital course: Getting Started with Data Analytics on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-getting-started-with-data-analytics-on-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

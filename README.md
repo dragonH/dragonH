@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [You can now use macros and transforms in CloudFormation templates to create AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/you-can-now-use-macros-and-transforms-in-cloudformation-templates-to-create-aws-cloudformation-stacksets/)
 - [Amazon Elasticsearch Service now supports integration with Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-now-supports-integration-with-microsoft-power-bi/)
 - [AWS Data Exchange launches post-subscription wizard to configure revision exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-data-exchange-launches-post-subscription-wizard-to-configure-revision-exports-to-amazon-s3/)
 - [Amazon RDS for PostgreSQL Supports pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
@@ -67,7 +68,6 @@
 - [Amazon MQ for Active MQ is now available in AWS China (Beijing) region, operated by Sinnet and AWS China (Ningxia) region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-for-active-mq-now-available-aws-china-regions/)
 - [Amazon Macie adds CloudWatch logging for job status and health monitoring of sensitive data discovery jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-adds-cloudwatch-logging-for-job-status-and-health-monitoring-of-sensitive-data-discovery-jobs/)
 - [New datasets available in the Registry of Open Data on AWS from United States Geological Survey (USGS), the Swiss Institute of Bioinformatics, iNaturalist.org, and others](https://aws.amazon.com/about-aws/whats-new/2021/04/new-datasets-available-in-the-registry-of-open-data-on-aws/)
-- [AWS Security Hub Automated Response & Remediation Solution adds support for AWS Foundational Security Best Practices standard](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-security-hub-automated-response-remediation-solution-support-aws-foundational-security-best-practices-standard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

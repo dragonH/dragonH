@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Grafana now supports Grafana Enterprise upgrade, Grafana version 7.5, Open Distro for Elasticsearch integration, and AWS Billing reports](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-managed-service-for-grafana-now-supports-grafana-enterprise-upgrade-grafana-version-7-5-open-distro-for-elasticsearch-integration-and-aws-billing-reports/)
 - [User Defined Functions (UDF) are now generally available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/user-defined-functions-udf-are-now-generally-available-for-amazon-athena/)
 - [AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-extends-centralized-backup-management-support-for-amazon-fsx-to-additional-aws-regions/)
 - [Amazon Pinpoint is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-pinpoint-is-now-fedramp-high-compliant/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for PostgreSQL Supports pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
 - [Amazon EventBridge introduces support for cross-Region event bus targets](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-eventbridge-introduces-support-cross-region-event-bus-targets/)
 - [New free ML training for business and technical leaders](https://aws.amazon.com/about-aws/whats-new/2021/04/new-free-ml-training-for-business-and-technical-leaders/)
-- [AWS Network Firewall is now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and EU (London)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-asia-pacific-mumbai-asia-pacific-singapore-and-eu-london/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

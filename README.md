@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-extends-centralized-backup-management-support-for-amazon-fsx-to-additional-aws-regions/)
+- [Amazon Pinpoint is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-pinpoint-is-now-fedramp-high-compliant/)
 - [You can now use macros and transforms in CloudFormation templates to create AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/you-can-now-use-macros-and-transforms-in-cloudformation-templates-to-create-aws-cloudformation-stacksets/)
 - [Amazon Elasticsearch Service now supports integration with Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-now-supports-integration-with-microsoft-power-bi/)
 - [AWS Data Exchange launches post-subscription wizard to configure revision exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-data-exchange-launches-post-subscription-wizard-to-configure-revision-exports-to-amazon-s3/)
@@ -66,8 +68,6 @@
 - [New free ML training for business and technical leaders](https://aws.amazon.com/about-aws/whats-new/2021/04/new-free-ml-training-for-business-and-technical-leaders/)
 - [AWS Network Firewall is now available in Asia Pacific (Mumbai), Asia Pacific (Singapore), and EU (London)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-asia-pacific-mumbai-asia-pacific-singapore-and-eu-london/)
 - [Amazon MQ for Active MQ is now available in AWS China (Beijing) region, operated by Sinnet and AWS China (Ningxia) region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-mq-for-active-mq-now-available-aws-china-regions/)
-- [Amazon Macie adds CloudWatch logging for job status and health monitoring of sensitive data discovery jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-macie-adds-cloudwatch-logging-for-job-status-and-health-monitoring-of-sensitive-data-discovery-jobs/)
-- [New datasets available in the Registry of Open Data on AWS from United States Geological Survey (USGS), the Swiss Institute of Bioinformatics, iNaturalist.org, and others](https://aws.amazon.com/about-aws/whats-new/2021/04/new-datasets-available-in-the-registry-of-open-data-on-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

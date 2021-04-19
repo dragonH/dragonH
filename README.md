@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - IoT Resource Monitoring Framework](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-iot-resource-monitoring-framework/)
+- [AWS Control Tower now provides configurable naming during Landing Zone setup](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-provides-configurable-naming-during-landing-zone-setup/)
 - [Amazon Managed Service for Grafana now supports Grafana Enterprise upgrade, Grafana version 7.5, Open Distro for Elasticsearch integration, and AWS Billing reports](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-managed-service-for-grafana-now-supports-grafana-enterprise-upgrade-grafana-version-7-5-open-distro-for-elasticsearch-integration-and-aws-billing-reports/)
 - [User Defined Functions (UDF) are now generally available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/user-defined-functions-udf-are-now-generally-available-for-amazon-athena/)
 - [AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-extends-centralized-backup-management-support-for-amazon-fsx-to-additional-aws-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Elasticsearch Service now supports integration with Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-now-supports-integration-with-microsoft-power-bi/)
 - [AWS Data Exchange launches post-subscription wizard to configure revision exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-data-exchange-launches-post-subscription-wizard-to-configure-revision-exports-to-amazon-s3/)
 - [Amazon RDS for PostgreSQL Supports pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
-- [Amazon EventBridge introduces support for cross-Region event bus targets](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-eventbridge-introduces-support-cross-region-event-bus-targets/)
-- [New free ML training for business and technical leaders](https://aws.amazon.com/about-aws/whats-new/2021/04/new-free-ml-training-for-business-and-technical-leaders/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

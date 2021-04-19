@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Machine to Cloud Connectivity Framework v2.2](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-machine-to-cloud-connectivity-framework-v-2-2/)
 - [New AWS Solutions Consulting Offer - IoT Resource Monitoring Framework](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-iot-resource-monitoring-framework/)
 - [AWS Control Tower now provides configurable naming during Landing Zone setup](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-provides-configurable-naming-during-landing-zone-setup/)
 - [Amazon Managed Service for Grafana now supports Grafana Enterprise upgrade, Grafana version 7.5, Open Distro for Elasticsearch integration, and AWS Billing reports](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-managed-service-for-grafana-now-supports-grafana-enterprise-upgrade-grafana-version-7-5-open-distro-for-elasticsearch-integration-and-aws-billing-reports/)
@@ -67,7 +68,6 @@
 - [You can now use macros and transforms in CloudFormation templates to create AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/you-can-now-use-macros-and-transforms-in-cloudformation-templates-to-create-aws-cloudformation-stacksets/)
 - [Amazon Elasticsearch Service now supports integration with Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-now-supports-integration-with-microsoft-power-bi/)
 - [AWS Data Exchange launches post-subscription wizard to configure revision exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-data-exchange-launches-post-subscription-wizard-to-configure-revision-exports-to-amazon-s3/)
-- [Amazon RDS for PostgreSQL Supports pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

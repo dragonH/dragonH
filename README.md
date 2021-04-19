@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify now orchestrates multiple Amazon DynamoDB GSI updates in a single deployment](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-amplify-orchestrates-multiple-amazon-dynamodb-gsi-updates-single-deployment/)
 - [Review last accessed information to identify unused EC2, IAM, and Lambda permissions and tighten access for your IAM roles](https://aws.amazon.com/about-aws/whats-new/2021/04/review-last-accessed-information-identify-unused-ec2-iam-lambda-permissions-tighten-access-iam-roles/)
 - [Introducing Machine to Cloud Connectivity Framework v2.2](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-machine-to-cloud-connectivity-framework-v-2-2/)
 - [New AWS Solutions Consulting Offer - IoT Resource Monitoring Framework](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-iot-resource-monitoring-framework/)
@@ -67,7 +68,6 @@
 - [AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-extends-centralized-backup-management-support-for-amazon-fsx-to-additional-aws-regions/)
 - [Amazon Pinpoint is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-pinpoint-is-now-fedramp-high-compliant/)
 - [You can now use macros and transforms in CloudFormation templates to create AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/04/you-can-now-use-macros-and-transforms-in-cloudformation-templates-to-create-aws-cloudformation-stacksets/)
-- [Amazon Elasticsearch Service now supports integration with Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-now-supports-integration-with-microsoft-power-bi/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

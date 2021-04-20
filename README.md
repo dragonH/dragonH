@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now visualize and report patch compliance using AWS Systems Manager Patch Manager](https://aws.amazon.com/about-aws/whats-new/2021/04/now-visualize-report-patch-compliance-aws-systems-manager-patch-manager/)
+- [Amazon Rekognition launches tagging support for collections, stream processors, and Custom Labels](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rekognition-launches-tagging-support-for-collections-stream-processors-and-custom-labels/)
 - [AWS Chatbot now expands coverage of AWS Services monitored through Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-chatbot-now-expands-coverage-of-aws-services-monitored-through-amazon-eventbridge/)
 - [Amazon S3 on Outposts Events now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-s3-on-outposts-events-now-available-in-amazon-cloudwatch/)
 - [AWS Amplify now orchestrates multiple Amazon DynamoDB GSI updates in a single deployment](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-amplify-orchestrates-multiple-amazon-dynamodb-gsi-updates-single-deployment/)
@@ -66,8 +68,6 @@
 - [New AWS Solutions Consulting Offer - IoT Resource Monitoring Framework](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-iot-resource-monitoring-framework/)
 - [AWS Control Tower now provides configurable naming during Landing Zone setup](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-provides-configurable-naming-during-landing-zone-setup/)
 - [Amazon Managed Service for Grafana now supports Grafana Enterprise upgrade, Grafana version 7.5, Open Distro for Elasticsearch integration, and AWS Billing reports](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-managed-service-for-grafana-now-supports-grafana-enterprise-upgrade-grafana-version-7-5-open-distro-for-elasticsearch-integration-and-aws-billing-reports/)
-- [User Defined Functions (UDF) are now generally available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/user-defined-functions-udf-are-now-generally-available-for-amazon-athena/)
-- [AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-extends-centralized-backup-management-support-for-amazon-fsx-to-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

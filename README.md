@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Release 5.33 now supports 10 new instance types](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-release-5-33-now-supports-new-instance-types/)
+- [Amazon Textract achieves FedRAMP compliance](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-achieves-fedramp-compliance/)
 - [You now can use AWS CloudTrail to log Amazon DynamoDB Streams data-plane API activity](https://aws.amazon.com/about-aws/whats-new/2021/04/you-now-can-use-aws-cloudtrail-to-log-amazon-dynamodb-streams-da/)
 - [Now visualize and report patch compliance using AWS Systems Manager Patch Manager](https://aws.amazon.com/about-aws/whats-new/2021/04/now-visualize-report-patch-compliance-aws-systems-manager-patch-manager/)
 - [Amazon Rekognition launches tagging support for collections, stream processors, and Custom Labels](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rekognition-launches-tagging-support-for-collections-stream-processors-and-custom-labels/)
@@ -66,8 +68,6 @@
 - [AWS Amplify now orchestrates multiple Amazon DynamoDB GSI updates in a single deployment](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-amplify-orchestrates-multiple-amazon-dynamodb-gsi-updates-single-deployment/)
 - [Review last accessed information to identify unused EC2, IAM, and Lambda permissions and tighten access for your IAM roles](https://aws.amazon.com/about-aws/whats-new/2021/04/review-last-accessed-information-identify-unused-ec2-iam-lambda-permissions-tighten-access-iam-roles/)
 - [Introducing Machine to Cloud Connectivity Framework v2.2](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-machine-to-cloud-connectivity-framework-v-2-2/)
-- [New AWS Solutions Consulting Offer - IoT Resource Monitoring Framework](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-consulting-offer-iot-resource-monitoring-framework/)
-- [AWS Control Tower now provides configurable naming during Landing Zone setup](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-control-tower-now-provides-configurable-naming-during-landing-zone-setup/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

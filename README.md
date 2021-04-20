@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Chatbot now expands coverage of AWS Services monitored through Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-chatbot-now-expands-coverage-of-aws-services-monitored-through-amazon-eventbridge/)
 - [Amazon S3 on Outposts Events now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-s3-on-outposts-events-now-available-in-amazon-cloudwatch/)
 - [AWS Amplify now orchestrates multiple Amazon DynamoDB GSI updates in a single deployment](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-amplify-orchestrates-multiple-amazon-dynamodb-gsi-updates-single-deployment/)
 - [Review last accessed information to identify unused EC2, IAM, and Lambda permissions and tighten access for your IAM roles](https://aws.amazon.com/about-aws/whats-new/2021/04/review-last-accessed-information-identify-unused-ec2-iam-lambda-permissions-tighten-access-iam-roles/)
@@ -67,7 +68,6 @@
 - [Amazon Managed Service for Grafana now supports Grafana Enterprise upgrade, Grafana version 7.5, Open Distro for Elasticsearch integration, and AWS Billing reports](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-managed-service-for-grafana-now-supports-grafana-enterprise-upgrade-grafana-version-7-5-open-distro-for-elasticsearch-integration-and-aws-billing-reports/)
 - [User Defined Functions (UDF) are now generally available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2021/04/user-defined-functions-udf-are-now-generally-available-for-amazon-athena/)
 - [AWS Backup extends centralized backup management support for Amazon FSx to five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-backup-extends-centralized-backup-management-support-for-amazon-fsx-to-additional-aws-regions/)
-- [Amazon Pinpoint is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-pinpoint-is-now-fedramp-high-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

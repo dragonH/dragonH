@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Studio is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-studio-is-now-generally-available/)
+- [Announcing General Availability of Amazon Athena ML powered by Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-athena-ml-powered-by-amazon-sagemaker/)
+- [Amazon SageMaker announces a price reduction by up to 14% on instances and SageMaker Savings Plans with up to 64% cost saving](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sagemaker-announces-a-price-reduction-in-instances-and-sagemaker-savings-plan/)
 - [Amazon EMR Release 5.33 now supports 10 new instance types](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-release-5-33-now-supports-new-instance-types/)
 - [Amazon Textract achieves FedRAMP compliance](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-achieves-fedramp-compliance/)
 - [You now can use AWS CloudTrail to log Amazon DynamoDB Streams data-plane API activity](https://aws.amazon.com/about-aws/whats-new/2021/04/you-now-can-use-aws-cloudtrail-to-log-amazon-dynamodb-streams-da/)
@@ -65,9 +68,6 @@
 - [Amazon Rekognition launches tagging support for collections, stream processors, and Custom Labels](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rekognition-launches-tagging-support-for-collections-stream-processors-and-custom-labels/)
 - [AWS Chatbot now expands coverage of AWS Services monitored through Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-chatbot-now-expands-coverage-of-aws-services-monitored-through-amazon-eventbridge/)
 - [Amazon S3 on Outposts Events now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-s3-on-outposts-events-now-available-in-amazon-cloudwatch/)
-- [AWS Amplify now orchestrates multiple Amazon DynamoDB GSI updates in a single deployment](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-amplify-orchestrates-multiple-amazon-dynamodb-gsi-updates-single-deployment/)
-- [Review last accessed information to identify unused EC2, IAM, and Lambda permissions and tighten access for your IAM roles](https://aws.amazon.com/about-aws/whats-new/2021/04/review-last-accessed-information-identify-unused-ec2-iam-lambda-permissions-tighten-access-iam-roles/)
-- [Introducing Machine to Cloud Connectivity Framework v2.2](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-machine-to-cloud-connectivity-framework-v-2-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

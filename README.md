@@ -60,7 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Elasticsearch Service announces support for Elasticsearch version 7.10](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-10/)
 - [Announcing general availability of Amazon Redshift native console integration with partners](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-redshift-native-console-integration-with-partners/)
-- [Amazon Elasticsearch Service announces support for Asynchronous Support](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-announces-support-asynchronous-support/)
+- [Amazon Elasticsearch Service announces support for Asynchronous Search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-announces-support-asynchronous-support/)
 - [Announcing availability of AWS Outposts in the Philippines and Brunei](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-of-aws-outposts-in-the-philippines-and-brunei/)
 - [AWS Cloud9 now supports Amazon Linux 2 environments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloud9-now-supports-amazon-linux-2-environments/)
 - [AWS Glue Studio is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-studio-now-available-aws-africa-cape-town-region/)

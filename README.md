@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of AWS Outposts in the Philippines and Brunei](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-of-aws-outposts-in-the-philippines-and-brunei/)
+- [AWS Cloud9 now supports Amazon Linux 2 environments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloud9-now-supports-amazon-linux-2-environments/)
 - [AWS Glue Studio is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-studio-now-available-aws-africa-cape-town-region/)
 - [Amazon EMR Studio is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-studio-is-now-generally-available/)
 - [Announcing General Availability of Amazon Athena ML powered by Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-athena-ml-powered-by-amazon-sagemaker/)
@@ -66,8 +68,6 @@
 - [Amazon Textract achieves FedRAMP compliance](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-textract-achieves-fedramp-compliance/)
 - [You now can use AWS CloudTrail to log Amazon DynamoDB Streams data-plane API activity](https://aws.amazon.com/about-aws/whats-new/2021/04/you-now-can-use-aws-cloudtrail-to-log-amazon-dynamodb-streams-da/)
 - [Now visualize and report patch compliance using AWS Systems Manager Patch Manager](https://aws.amazon.com/about-aws/whats-new/2021/04/now-visualize-report-patch-compliance-aws-systems-manager-patch-manager/)
-- [Amazon Rekognition launches tagging support for collections, stream processors, and Custom Labels](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rekognition-launches-tagging-support-for-collections-stream-processors-and-custom-labels/)
-- [AWS Chatbot now expands coverage of AWS Services monitored through Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-chatbot-now-expands-coverage-of-aws-services-monitored-through-amazon-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

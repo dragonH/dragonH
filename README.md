@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS on VMware networking now simplified and more secure](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-vmware-networking-simplified-secure/)
+- [Now available credential profile support for AWS SSO and Assume Role with MFA in the AWS Toolkit for Visual Studio](https://aws.amazon.com/about-aws/whats-new/2021/04/now-available-credential-profile-support-aws-sso-assume-role-mfa-aws-toolkit-visual-studio/)
 - [Amazon Elasticsearch Service announces support for Elasticsearch version 7.10](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-10/)
 - [Announcing general availability of Amazon Redshift native console integration with partners](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-redshift-native-console-integration-with-partners/)
 - [Amazon Elasticsearch Service announces support for Asynchronous Search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-announces-support-asynchronous-support/)
@@ -66,8 +68,6 @@
 - [AWS Glue Studio is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-studio-now-available-aws-africa-cape-town-region/)
 - [Amazon EMR Studio is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-studio-is-now-generally-available/)
 - [Announcing general availability of Amazon Athena ML powered by Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-athena-ml-powered-by-amazon-sagemaker/)
-- [Amazon SageMaker announces a price reduction by up to 14% on instances and SageMaker Savings Plans with up to 64% cost saving](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sagemaker-announces-a-price-reduction-in-instances-and-sagemaker-savings-plan/)
-- [Amazon EMR Release 5.33 now supports 10 new instance types](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-release-5-33-now-supports-new-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS on VMware networking now simplified and more secure](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-vmware-networking-simplified-secure/)
-- [Now available credential profile support for AWS SSO and Assume Role with MFA in the AWS Toolkit for Visual Studio](https://aws.amazon.com/about-aws/whats-new/2021/04/now-available-credential-profile-support-aws-sso-assume-role-mfa-aws-toolkit-visual-studio/)
-- [Amazon Elasticsearch Service announces support for Elasticsearch version 7.10](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-announces-support-for-elasticsearch-version-7-10/)
-- [Announcing general availability of Amazon Redshift native console integration with partners](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-redshift-native-console-integration-with-partners/)
-- [Amazon Elasticsearch Service announces support for Asynchronous Search](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-elasticsearch-service-announces-support-asynchronous-support/)
-- [Announcing availability of AWS Outposts in the Philippines and Brunei](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-of-aws-outposts-in-the-philippines-and-brunei/)
-- [AWS Cloud9 now supports Amazon Linux 2 environments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloud9-now-supports-amazon-linux-2-environments/)
-- [AWS Glue Studio is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-studio-now-available-aws-africa-cape-town-region/)
-- [Amazon EMR Studio is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-emr-studio-is-now-generally-available/)
-- [Announcing general availability of Amazon Athena ML powered by Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-athena-ml-powered-by-amazon-sagemaker/)
+- [Amazon Translate increases the size limit of Parallel data from 1GB to 5GB](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-translate-increases-the-size-limit-of-parallel-datafrom-1gb-to-5gb/)
+- [Amazon SNS grows the set of message filtering operators](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-grows-the-set-of-message-filtering-operators/)
+- [Amazon RDS Now Supports PostgreSQL 13 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-now-supports-postgresql-13-aws-govcloud-regions/)
+- [AWS announces data sink capability for the Glue connectors](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-data-sink-capability-for-the-glue-connectors/)
+- [AWS Transit Gateway is Now Available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-transit-gateway-available-aws-asia-pacific-osaka-region/)
+- [Amazon Rekognition Custom Labels is now available in the Europe (Frankfurt), Europe (London), and Asia Pacific (Mumbai) AWS Regions.](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rekognition-custom-labels-is-now-available-in-the-europe-frankfurt-europe-london-and-asia-pacific-mumbai-aws-regions/)
+- [Amazon Aurora PostgreSQL Patches 1.9.2 / 2.7.2 / 3.4.2 / 4.0.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-aurora-postgresql-new-patches-available/)
+- [Third-party software built for AWS Control Tower is now available in the AWS Control Tower Console, powered by AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2021/04/third-party-software-built-aws-control-tower-available-aws-control-tower-console-powered-aws-marketplace/)
+- [AWS Secrets Manager Delivers Provider for Kubernetes Secrets Store CSI Driver](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-secrets-manager-delivers-provider-kubernetes-secrets-store-csi-driver/)
+- [AWS Resource Access Manager is Now Available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-resource-access-manager-available-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

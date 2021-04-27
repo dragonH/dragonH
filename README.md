@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of Red Hat Enterprise Linux with High availability for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-red-hat-enterprise-linux-high-availability-amazon-ec2/)
 - [Announcing open source robotics projects for AWS DeepRacer](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-open-source-robotics-projects-aws-deepracer/)
 - [AWS Proton allows adding and removing instances from an existing service](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-allows-adding-and-removing-instances-from-an-existing-service/)
 - [AWS Proton adds an API to cancel deployments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-adds-an-api-to-cancel-deployments/)
@@ -67,7 +68,6 @@
 - [Alexa for Business now available on Zoom Rooms appliances](https://aws.amazon.com/about-aws/whats-new/2021/04/alexa-for-business-now-available-on-zoom-rooms-appliances/)
 - [Amazon Kendra launches dynamic relevance tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kendra-launches-dynamic-relevance-tuning/)
 - [Amazon Translate increases the size limit of Parallel data from 1GB to 5GB](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-translate-increases-the-size-limit-of-parallel-datafrom-1gb-to-5gb/)
-- [Amazon SNS grows the set of message filtering operators](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-grows-the-set-of-message-filtering-operators/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

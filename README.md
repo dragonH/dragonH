@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx File Gateway delivers faster and more efficient on-premises access to fully managed file storage in the cloud](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-file-gateway-delivers-faster-more-efficient-on-premises-access/)
 - [Announcing Moving Graphs for CloudWatch Dashboards](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-moving-graphs-for-cloudwatch-dashboards/)
 - [Announcing availability of Red Hat Enterprise Linux with High availability for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-red-hat-enterprise-linux-high-availability-amazon-ec2/)
 - [Announcing open source robotics projects for AWS DeepRacer](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-open-source-robotics-projects-aws-deepracer/)
@@ -67,7 +68,6 @@
 - [Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL, now in preview](https://aws.amazon.com/about-aws/whats-new/2021/04/achieve-faster-database-failover-with-amazon-web-services-jdbc-driver-for-postgresql-now-in-preview/)
 - [Introducing Performance Dashboard on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-performance-dashboard-aws/)
 - [Alexa for Business now available on Zoom Rooms appliances](https://aws.amazon.com/about-aws/whats-new/2021/04/alexa-for-business-now-available-on-zoom-rooms-appliances/)
-- [Amazon Kendra launches dynamic relevance tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kendra-launches-dynamic-relevance-tuning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

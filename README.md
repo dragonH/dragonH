@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Nitro Enclaves now supports Windows operating system](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-nitro-enclaves-supports-windows-operating-system/)
+- [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
 - [Amazon FSx File Gateway delivers faster and more efficient on-premises access to fully managed file storage in the cloud](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-file-gateway-delivers-faster-more-efficient-on-premises-access/)
 - [Announcing Moving Graphs for CloudWatch Dashboards](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-moving-graphs-for-cloudwatch-dashboards/)
 - [Announcing availability of Red Hat Enterprise Linux with High availability for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-red-hat-enterprise-linux-high-availability-amazon-ec2/)
@@ -66,8 +68,6 @@
 - [AWS Proton adds an API to cancel deployments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-adds-an-api-to-cancel-deployments/)
 - [AWS Proton introduces customer-managed environments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-introduces-customer-managed-environments/)
 - [Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL, now in preview](https://aws.amazon.com/about-aws/whats-new/2021/04/achieve-faster-database-failover-with-amazon-web-services-jdbc-driver-for-postgresql-now-in-preview/)
-- [Introducing Performance Dashboard on AWS](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-performance-dashboard-aws/)
-- [Alexa for Business now available on Zoom Rooms appliances](https://aws.amazon.com/about-aws/whats-new/2021/04/alexa-for-business-now-available-on-zoom-rooms-appliances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

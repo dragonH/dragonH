@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Alexa for Business now available on Zoom Rooms appliances](https://aws.amazon.com/about-aws/whats-new/2021/04/alexa-for-business-now-available-on-zoom-rooms-appliances/)
+- [Amazon Kendra launches dynamic relevance tuning](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kendra-launches-dynamic-relevance-tuning/)
 - [Amazon Translate increases the size limit of Parallel data from 1GB to 5GB](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-translate-increases-the-size-limit-of-parallel-datafrom-1gb-to-5gb/)
 - [Amazon SNS grows the set of message filtering operators](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-grows-the-set-of-message-filtering-operators/)
 - [Amazon RDS Now Supports PostgreSQL 13 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-now-supports-postgresql-13-aws-govcloud-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Rekognition Custom Labels is now available in the Europe (Frankfurt), Europe (London), and Asia Pacific (Mumbai) AWS Regions.](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rekognition-custom-labels-is-now-available-in-the-europe-frankfurt-europe-london-and-asia-pacific-mumbai-aws-regions/)
 - [Amazon Aurora PostgreSQL Patches 1.9.2 / 2.7.2 / 3.4.2 / 4.0.2 now available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-aurora-postgresql-new-patches-available/)
 - [Third-party software built for AWS Control Tower is now available in the AWS Control Tower Console, powered by AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2021/04/third-party-software-built-aws-control-tower-available-aws-control-tower-console-powered-aws-marketplace/)
-- [AWS Secrets Manager Delivers Provider for Kubernetes Secrets Store CSI Driver](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-secrets-manager-delivers-provider-kubernetes-secrets-store-csi-driver/)
-- [AWS Resource Access Manager is Now Available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-resource-access-manager-available-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

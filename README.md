@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of Amazon Redshift native JSON and semi-structured data support](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-redshift-native-json-and-semi-structured-data-support/)
 - [New digital course: AWS Network Connectivity Options](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-aws-network-connectivity-options/)
 - [AWS Nitro Enclaves now supports Windows operating system](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-nitro-enclaves-supports-windows-operating-system/)
 - [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
@@ -67,7 +68,6 @@
 - [Announcing open source robotics projects for AWS DeepRacer](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-open-source-robotics-projects-aws-deepracer/)
 - [AWS Proton allows adding and removing instances from an existing service](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-allows-adding-and-removing-instances-from-an-existing-service/)
 - [AWS Proton adds an API to cancel deployments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-adds-an-api-to-cancel-deployments/)
-- [AWS Proton introduces customer-managed environments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-introduces-customer-managed-environments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

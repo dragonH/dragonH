@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Audit Manager now offers a new standard framework for GxP EU Annex 11](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-offers-new-standard-framework-gxp-eu-annex-11/)
+- [Database Activity Streams now available for Amazon Aurora in Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/database-activity-streams-now-available-for-amazon-aurora-in-asia-pacific-osaka-region/)
 - [AWS Snowcone is now available in the AWS Canada (Central) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snowcone-is-now-available-in-the-aws-canada-central-region/)
 - [Amazon MSK adds support for Apache Kafka version 2.8.0](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-apache-kafka-version-2-8-0/)
 - [Announcing general availability of Amazon Redshift native JSON and semi-structured data support](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-redshift-native-json-and-semi-structured-data-support/)
@@ -66,8 +68,6 @@
 - [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
 - [Amazon FSx File Gateway delivers faster and more efficient on-premises access to fully managed file storage in the cloud](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-file-gateway-delivers-faster-more-efficient-on-premises-access/)
 - [Announcing Moving Graphs for CloudWatch Dashboards](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-moving-graphs-for-cloudwatch-dashboards/)
-- [Announcing availability of Red Hat Enterprise Linux with High availability for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-red-hat-enterprise-linux-high-availability-amazon-ec2/)
-- [Announcing open source robotics projects for AWS DeepRacer](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-open-source-robotics-projects-aws-deepracer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

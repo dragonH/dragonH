@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds support for Apache Kafka version 2.8.0](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-apache-kafka-version-2-8-0/)
 - [Announcing general availability of Amazon Redshift native JSON and semi-structured data support](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-general-availability-of-amazon-redshift-native-json-and-semi-structured-data-support/)
 - [New digital course: AWS Network Connectivity Options](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-aws-network-connectivity-options/)
 - [AWS Nitro Enclaves now supports Windows operating system](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-nitro-enclaves-supports-windows-operating-system/)
@@ -67,7 +68,6 @@
 - [Announcing availability of Red Hat Enterprise Linux with High availability for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-availability-red-hat-enterprise-linux-high-availability-amazon-ec2/)
 - [Announcing open source robotics projects for AWS DeepRacer](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-open-source-robotics-projects-aws-deepracer/)
 - [AWS Proton allows adding and removing instances from an existing service](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-allows-adding-and-removing-instances-from-an-existing-service/)
-- [AWS Proton adds an API to cancel deployments](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-proton-adds-an-api-to-cancel-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

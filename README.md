@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue now supports client authentication for Apache Kafka streams](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-client-authentication-for-apache-kafka-streams/)
 - [AWS Audit Manager now offers a new standard framework for GxP EU Annex 11](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-offers-new-standard-framework-gxp-eu-annex-11/)
 - [Database Activity Streams now available for Amazon Aurora in Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/database-activity-streams-now-available-for-amazon-aurora-in-asia-pacific-osaka-region/)
 - [AWS Snowcone is now available in the AWS Canada (Central) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snowcone-is-now-available-in-the-aws-canada-central-region/)
@@ -67,7 +68,6 @@
 - [AWS Nitro Enclaves now supports Windows operating system](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-nitro-enclaves-supports-windows-operating-system/)
 - [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
 - [Amazon FSx File Gateway delivers faster and more efficient on-premises access to fully managed file storage in the cloud](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-fsx-file-gateway-delivers-faster-more-efficient-on-premises-access/)
-- [Announcing Moving Graphs for CloudWatch Dashboards](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-moving-graphs-for-cloudwatch-dashboards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Managed Services (AMS) now offers a new feature enabling customers to purchase AMS separate from infrastructure services through their preferred Solution Provider](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-managed-services-ams-offers-new-feature-enabling-customers-to-purchase-ams-separate-from-infrastructure-services-through-their-preferred-solution-provider/)
+- [AWS SAM CLI now supports AWS CDK applications - public preview](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-sam-cli-supports-aws-sdk-applications-public-preview/)
 - [Amazon CloudWatch Monitoring Framework for Apache is generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-cloudwatch-monitoring-framework-for-apache-is-generally-available/)
 - [Amazon Connect reduces telephony rates in Cyprus, Belgium, and Portugal](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-reduces-telephony-rates-cyprus-belgium-portugal/)
 - [AWS Network Firewall is now available in ten more regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-more-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-heirarchical-data-queries-with-recursive-cte/)
 - [AWS Instance Scheduler v1.4 adds support for multiple stack deployments and GovCloud US Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-instance-scheduler-adds-support-for-multiple-stack-deployments-and-govcloud-us-regions/)
 - [New digital course: Amazon Elastic Block Store Primer](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-amazon-elastic-block-store-primer/)
-- [AWS Distro for OpenTelemetry adds support for AWS managed Lambda Layer and other features](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-distro-opentelemetry-adds-support-aws-managed-lambda-layer-other-features/)
-- [Amazon MSK adds support for Apache Kafka version 2.6.2](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-for-apache-kafka-version-2-6-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

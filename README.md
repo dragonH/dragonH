@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/12) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-2. ❗️ Opened issue [#118744](https://github.com/microsoft/vscode/issues/118744) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🎉 Merged PR [#11](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/11) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-4. 🎉 Merged PR [#10](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/10) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-5. 🎉 Merged PR [#9](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/9) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+1. 🎉 Merged PR [#1](https://github.com/dragonH/happy-6-pm/pull/1) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+2. 💪 Opened PR [#1](https://github.com/dragonH/happy-6-pm/pull/1) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+3. 🎉 Merged PR [#12](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/12) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+4. ❗️ Opened issue [#118744](https://github.com/microsoft/vscode/issues/118744) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#11](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/11) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
 <!--END_SECTION:activity-->
 
 </details>

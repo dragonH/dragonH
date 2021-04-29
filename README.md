@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/dragonH/shopping-site-practice/pull/10) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-2. 🎉 Merged PR [#1](https://github.com/dragonH/happy-6-pm/pull/1) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-3. 💪 Opened PR [#1](https://github.com/dragonH/happy-6-pm/pull/1) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-4. 🎉 Merged PR [#12](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/12) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-5. ❗️ Opened issue [#118744](https://github.com/microsoft/vscode/issues/118744) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🎉 Merged PR [#1](https://github.com/dragonH/random-number/pull/1) in [dragonH/random-number](https://github.com/dragonH/random-number)
+2. 🎉 Merged PR [#10](https://github.com/dragonH/shopping-site-practice/pull/10) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+3. 🎉 Merged PR [#1](https://github.com/dragonH/happy-6-pm/pull/1) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+4. 💪 Opened PR [#1](https://github.com/dragonH/happy-6-pm/pull/1) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+5. 🎉 Merged PR [#12](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/12) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
 <!--END_SECTION:activity-->
 
 </details>

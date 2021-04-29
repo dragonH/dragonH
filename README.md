@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server Now Supports High Availability in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-sql-server-now-supports-high-availability-in-aws-asia-pacific-osaka-region/)
 - [AWS Snow Family now enables you to order, track, and manage long-term pricing Snow jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snow-family-enables-order-track-manage-long-term-pricing-snow-jobs/)
 - [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-heirarchical-data-queries-with-recursive-cte/)
 - [AWS Instance Scheduler v1.4 adds support for multiple stack deployments and GovCloud US Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-instance-scheduler-adds-support-for-multiple-stack-deployments-and-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Amazon SNS now supports setting attributes required for India DLT requirements when sending SMS using local routes in India](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-now-supports-setting-attributes-required-for-india-dlt-requirements-when-sending-sms-using-local-routes-in-india/)
 - [AWS Glue DataBrew announces native console integration with Amazon AppFlow to connect to data from SaaS (Software as a Service) applications and AWS services (in Preview)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-databrew-announces-native-console-integration-with-amazon-appflow-to-connect-to-data-from-saas-applications-and-aws-services-in-preview/)
 - [Introducing AWS for Media and Entertainment](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-aws-for-media-and-entertainment/)
-- [AWS announces general availability of Amazon Nimble Studio](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-general-availability-amazon-nimble-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Monitoring Framework for Apache is generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-cloudwatch-monitoring-framework-for-apache-is-generally-available/)
 - [Amazon Connect reduces telephony rates in Cyprus, Belgium, and Portugal](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-reduces-telephony-rates-cyprus-belgium-portugal/)
 - [AWS Network Firewall is now available in ten more regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-more-regions/)
 - [Amazon RDS for SQL Server Now Supports High Availability in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-sql-server-now-supports-high-availability-in-aws-asia-pacific-osaka-region/)
@@ -67,7 +68,6 @@
 - [New digital course: Amazon Elastic Block Store Primer](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-amazon-elastic-block-store-primer/)
 - [AWS Distro for OpenTelemetry adds support for AWS managed Lambda Layer and other features](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-distro-opentelemetry-adds-support-aws-managed-lambda-layer-other-features/)
 - [Amazon MSK adds support for Apache Kafka version 2.6.2](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-for-apache-kafka-version-2-6-2/)
-- [Amazon SNS now supports setting attributes required for India DLT requirements when sending SMS using local routes in India](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-now-supports-setting-attributes-required-for-india-dlt-requirements-when-sending-sms-using-local-routes-in-india/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

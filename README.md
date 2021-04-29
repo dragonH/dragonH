@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snow Family now enables you to order, track, and manage long-term pricing Snow jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snow-family-enables-order-track-manage-long-term-pricing-snow-jobs/)
+- [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-heirarchical-data-queries-with-recursive-cte/)
+- [AWS Instance Scheduler v1.4 adds support for multiple stack deployments and GovCloud US Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-instance-scheduler-adds-support-for-multiple-stack-deployments-and-govcloud-us-regions/)
+- [New digital course: Amazon Elastic Block Store Primer](https://aws.amazon.com/about-aws/whats-new/2021/04/new-digital-course-amazon-elastic-block-store-primer/)
+- [AWS Distro for OpenTelemetry adds support for AWS managed Lambda Layer and other features](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-distro-opentelemetry-adds-support-aws-managed-lambda-layer-other-features/)
 - [Amazon MSK adds support for Apache Kafka version 2.6.2](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-for-apache-kafka-version-2-6-2/)
 - [Amazon SNS now supports setting attributes required for India DLT requirements when sending SMS using local routes in India](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-sns-now-supports-setting-attributes-required-for-india-dlt-requirements-when-sending-sms-using-local-routes-in-india/)
 - [AWS Glue DataBrew announces native console integration with Amazon AppFlow to connect to data from SaaS (Software as a Service) applications and AWS services (in Preview)](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-databrew-announces-native-console-integration-with-amazon-appflow-to-connect-to-data-from-saas-applications-and-aws-services-in-preview/)
 - [Introducing AWS for Media and Entertainment](https://aws.amazon.com/about-aws/whats-new/2021/04/introducing-aws-for-media-and-entertainment/)
 - [AWS announces general availability of Amazon Nimble Studio](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-announces-general-availability-amazon-nimble-studio/)
-- [AWS Glue now supports client authentication for Apache Kafka streams](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-glue-now-supports-client-authentication-for-apache-kafka-streams/)
-- [AWS Audit Manager now offers a new standard framework for GxP EU Annex 11](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-audit-manager-offers-new-standard-framework-gxp-eu-annex-11/)
-- [Database Activity Streams now available for Amazon Aurora in Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/database-activity-streams-now-available-for-amazon-aurora-in-asia-pacific-osaka-region/)
-- [AWS Snowcone is now available in the AWS Canada (Central) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snowcone-is-now-available-in-the-aws-canada-central-region/)
-- [Amazon MSK adds support for Apache Kafka version 2.8.0](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-msk-adds-support-apache-kafka-version-2-8-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

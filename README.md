@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS RoboMaker announces support for Robot Operating System (ROS) 2 Foxy and Gazebo 11](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-robomaker-announces-support-for-robot-operating-system-ros-2-foxy-and-gazebo-11/)
+- [New Developer Desktop Feature in AWS RoboMaker Integrated Development Environment (IDE)](https://aws.amazon.com/about-aws/whats-new/2021/04/new-developer-desktop-feature-in-aws-robomaker-integrated-development-environment-ide/)
+- [New AWS Solutions Implementation: AWS Blueprints](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-implementation-aws-blueprints/)
+- [Amazon Monitron Service is Now Available in the Europe (Ireland) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-monitron-service-is-now-available-in-the-europe-ireland-region/)
 - [Amazon Connect reduces 26 rates in Latin America](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-reduces-26-rates-latin-america/)
 - [AWS Launch Wizard now supports SAP deployments with SUSE Linux Enterprise Server 15 SP2 and RHEL 8.2](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-launch-wizard-supports-sap-deployments-suse-linux-enterprise-server-15-sp2-rhel-8-2/)
 - [Amazon ECS on AWS Fargate now allows you to configure the size of ephemeral storage for your Tasks](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ecs-aws-fargate-configure-size-ephemeral-storage-tasks/)
 - [EC2 Image Builder supports Auto Scaling launch template](https://aws.amazon.com/about-aws/whats-new/2021/04/ec2-image-builder-supports-auto-scaling-launch-template/)
 - [AWS Systems Manager Fleet Manager is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-fleet-manager-available-aws-govcloud-us-regions/)
 - [Announcing support for linear interpolation in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-interpolation-aws-iot-sitewise/)
-- [Amazon Chime SDK now supports video prioritization policies](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-chime-sdk-now-supports-video-prioritization-policies/)
-- [AWS Cloud Development Kit (AWS CDK) v2 and Go CDK is now available for Developer Preview](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloud-development-kit-aws-cdk--v2-and-go-cdk-is-now-available-for-developer-preview/)
-- [Amazon Redshift announces preview of cross-account data sharing](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-preview-of-cross-account-data-sharing/)
-- [AWS Lambda@Edge now supports Node 14.x](https://aws.amazon.com/about-aws/whats-new/2021/04/lambda-edge-support-node14/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

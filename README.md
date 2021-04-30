@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics for Apache Flink introduces custom maintenance windows in preview](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kinesis-data-analytics-for-apache-flink-introduces-custom-maintenance-windows-in-preview/)
 - [AWS RoboMaker announces support for Robot Operating System (ROS) 2 Foxy and Gazebo 11](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-robomaker-announces-support-for-robot-operating-system-ros-2-foxy-and-gazebo-11/)
 - [New Developer Desktop Feature in AWS RoboMaker Integrated Development Environment (IDE)](https://aws.amazon.com/about-aws/whats-new/2021/04/new-developer-desktop-feature-in-aws-robomaker-integrated-development-environment-ide/)
 - [New AWS Solutions Implementation: AWS Blueprints](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-implementation-aws-blueprints/)
@@ -67,7 +68,6 @@
 - [Amazon ECS on AWS Fargate now allows you to configure the size of ephemeral storage for your Tasks](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ecs-aws-fargate-configure-size-ephemeral-storage-tasks/)
 - [EC2 Image Builder supports Auto Scaling launch template](https://aws.amazon.com/about-aws/whats-new/2021/04/ec2-image-builder-supports-auto-scaling-launch-template/)
 - [AWS Systems Manager Fleet Manager is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-fleet-manager-available-aws-govcloud-us-regions/)
-- [Announcing support for linear interpolation in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-interpolation-aws-iot-sitewise/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder supports Auto Scaling launch template](https://aws.amazon.com/about-aws/whats-new/2021/04/ec2-image-builder-supports-auto-scaling-launch-template/)
+- [AWS Systems Manager Fleet Manager is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-fleet-manager-available-aws-govcloud-us-regions/)
 - [Announcing support for linear interpolation in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2021/04/announcing-support-interpolation-aws-iot-sitewise/)
 - [Amazon Chime SDK now supports video prioritization policies](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-chime-sdk-now-supports-video-prioritization-policies/)
 - [AWS Cloud Development Kit (AWS CDK) v2 and Go CDK is now available for Developer Preview](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloud-development-kit-aws-cdk--v2-and-go-cdk-is-now-available-for-developer-preview/)
@@ -66,8 +68,6 @@
 - [AWS Managed Services (AMS) now offers a new feature enabling customers to purchase AMS separate from infrastructure services through their preferred Solution Provider](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-managed-services-ams-offers-new-feature-enabling-customers-to-purchase-ams-separate-from-infrastructure-services-through-their-preferred-solution-provider/)
 - [AWS SAM CLI now supports AWS CDK applications - public preview](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-sam-cli-supports-aws-sdk-applications-public-preview/)
 - [Amazon CloudWatch Monitoring Framework for Apache is generally available](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-cloudwatch-monitoring-framework-for-apache-is-generally-available/)
-- [Amazon Connect reduces telephony rates in Cyprus, Belgium, and Portugal](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-reduces-telephony-rates-cyprus-belgium-portugal/)
-- [AWS Network Firewall is now available in ten more regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-more-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

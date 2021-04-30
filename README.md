@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Development Kit (AWS CDK) v2 and Go CDK is now available for Developer Preview](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-cloud-development-kit-aws-cdk--v2-and-go-cdk-is-now-available-for-developer-preview/)
+- [Amazon Redshift announces preview of cross-account data sharing](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-preview-of-cross-account-data-sharing/)
 - [AWS Lambda@Edge now supports Node 14.x](https://aws.amazon.com/about-aws/whats-new/2021/04/lambda-edge-support-node14/)
 - [AWS Managed Services (AMS) now offers a new feature enabling customers to purchase AMS separate from infrastructure services through their preferred Solution Provider](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-managed-services-ams-offers-new-feature-enabling-customers-to-purchase-ams-separate-from-infrastructure-services-through-their-preferred-solution-provider/)
 - [AWS SAM CLI now supports AWS CDK applications - public preview](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-sam-cli-supports-aws-sdk-applications-public-preview/)
@@ -66,8 +68,6 @@
 - [AWS Network Firewall is now available in ten more regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-network-firewall-is-now-available-in-more-regions/)
 - [Amazon RDS for SQL Server Now Supports High Availability in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-rds-for-sql-server-now-supports-high-availability-in-aws-asia-pacific-osaka-region/)
 - [AWS Snow Family now enables you to order, track, and manage long-term pricing Snow jobs](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-snow-family-enables-order-track-manage-long-term-pricing-snow-jobs/)
-- [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-heirarchical-data-queries-with-recursive-cte/)
-- [AWS Instance Scheduler v1.4 adds support for multiple stack deployments and GovCloud US Regions](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-instance-scheduler-adds-support-for-multiple-stack-deployments-and-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

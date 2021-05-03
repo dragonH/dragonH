@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [S3 Object Lambda is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/s3-object-lambda-available-aws-govcloud-us-regions/)
+- [Amazon Connect CTI Adapter for Salesforce adds programmable buttons with CTI Actions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-cti-adapter-for-salesforce-adds-programmable-buttons-with-cti-actions/)
 - [Amazon Connect Customer Profiles launches Identity Resolution in Preview to detect and merge duplicate customer profiles](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-customer-profiles-launches-identity-resolution-in-preview-to-detect-and-merge-duplicate-customer-profiles/)
 - [New AWS Solutions Consulting Offer - Cloud Assessment and Design](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-cloud-assessment-design/)
 - [Amazon Kinesis Data Analytics for Apache Flink introduces custom maintenance windows in preview](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kinesis-data-analytics-for-apache-flink-introduces-custom-maintenance-windows-in-preview/)
@@ -66,8 +68,6 @@
 - [New AWS Solutions Implementation: AWS Blueprints](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-implementation-aws-blueprints/)
 - [Amazon Monitron Service is Now Available in the Europe (Ireland) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-monitron-service-is-now-available-in-the-europe-ireland-region/)
 - [Amazon Connect reduces 26 rates in Latin America](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-reduces-26-rates-latin-america/)
-- [AWS Launch Wizard now supports SAP deployments with SUSE Linux Enterprise Server 15 SP2 and RHEL 8.2](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-launch-wizard-supports-sap-deployments-suse-linux-enterprise-server-15-sp2-rhel-8-2/)
-- [Amazon ECS on AWS Fargate now allows you to configure the size of ephemeral storage for your Tasks](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-ecs-aws-fargate-configure-size-ephemeral-storage-tasks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

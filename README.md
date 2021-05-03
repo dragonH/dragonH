@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Easily clean up unused resources in Amazon Forecast using hierarchical deletion](https://aws.amazon.com/about-aws/whats-new/2021/05/easily-clean-up-unused-resources-in-amazon-forecast-using-hierarchical-deletion/)
+- [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-hierarchical-data-queries-with-recursive-cte/)
+- [Amazon CloudFront announces CloudFront Functions, a lightweight edge compute capability](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-functions/)
 - [S3 Object Lambda is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/s3-object-lambda-available-aws-govcloud-us-regions/)
 - [Amazon Connect CTI Adapter for Salesforce adds programmable buttons with CTI Actions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-cti-adapter-for-salesforce-adds-programmable-buttons-with-cti-actions/)
 - [Amazon Connect Customer Profiles launches Identity Resolution in Preview to detect and merge duplicate customer profiles](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-customer-profiles-launches-identity-resolution-in-preview-to-detect-and-merge-duplicate-customer-profiles/)
@@ -65,9 +68,6 @@
 - [Amazon Kinesis Data Analytics for Apache Flink introduces custom maintenance windows in preview](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-kinesis-data-analytics-for-apache-flink-introduces-custom-maintenance-windows-in-preview/)
 - [AWS RoboMaker announces support for Robot Operating System (ROS) 2 Foxy and Gazebo 11](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-robomaker-announces-support-for-robot-operating-system-ros-2-foxy-and-gazebo-11/)
 - [New Developer Desktop Feature in AWS RoboMaker Integrated Development Environment (IDE)](https://aws.amazon.com/about-aws/whats-new/2021/04/new-developer-desktop-feature-in-aws-robomaker-integrated-development-environment-ide/)
-- [New AWS Solutions Implementation: AWS Blueprints](https://aws.amazon.com/about-aws/whats-new/2021/04/new-aws-solutions-implementation-aws-blueprints/)
-- [Amazon Monitron Service is Now Available in the Europe (Ireland) region](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-monitron-service-is-now-available-in-the-europe-ireland-region/)
-- [Amazon Connect reduces 26 rates in Latin America](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-connect-reduces-26-rates-latin-america/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

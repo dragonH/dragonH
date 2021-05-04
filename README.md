@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon FinSpace, a fully managed service to store, prepare, and analyze data for the financial services industry (FSI)](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-amazon-finspace-a-fully-managed-service-to-store-prepare-and-analyze-data-for-the-financial-services-industry-fsi/)
 - [Amazon RDS for Oracle and Amazon RDS for PostgreSQL now support Amazon RDS Encrypted Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-and-amazon-rds-for-postgresql-now-support-amazon-rds-encrypted-cross-region-automated-backups/)
 - [AWS Transit Gateway Network Manager is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-now-available-aws-asia-pacific-osaka-region/)
 - [Amazon DynamoDB local now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-dynamodb-local-now-supports-the-aws-sdk-for-java-2-x/)
@@ -67,7 +68,6 @@
 - [S3 Object Lambda is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/s3-object-lambda-available-aws-govcloud-us-regions/)
 - [Amazon Connect CTI Adapter for Salesforce adds programmable buttons with CTI Actions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-cti-adapter-for-salesforce-adds-programmable-buttons-with-cti-actions/)
 - [Amazon Connect Customer Profiles launches Identity Resolution in Preview to detect and merge duplicate customer profiles](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-customer-profiles-launches-identity-resolution-in-preview-to-detect-and-merge-duplicate-customer-profiles/)
-- [New AWS Solutions Consulting Offer - Cloud Assessment and Design](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-cloud-assessment-design/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

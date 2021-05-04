@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Identity and Access Management (IAM) now makes it easier for you to manage permissions for AWS services accessing your resources](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-identity-and-access-management-now-makes-it-easier-for-you-to-manage-permissions-for-aws-services-accessing-your-resources/)
 - [Introducing Amazon FinSpace, a fully managed service to store, prepare, and analyze data for the financial services industry (FSI)](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-amazon-finspace-a-fully-managed-service-to-store-prepare-and-analyze-data-for-the-financial-services-industry-fsi/)
 - [Amazon RDS for Oracle and Amazon RDS for PostgreSQL now support Amazon RDS Encrypted Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-and-amazon-rds-for-postgresql-now-support-amazon-rds-encrypted-cross-region-automated-backups/)
 - [AWS Transit Gateway Network Manager is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-now-available-aws-asia-pacific-osaka-region/)
@@ -67,7 +68,6 @@
 - [Amazon CloudFront announces CloudFront Functions, a lightweight edge compute capability](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-functions/)
 - [S3 Object Lambda is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/s3-object-lambda-available-aws-govcloud-us-regions/)
 - [Amazon Connect CTI Adapter for Salesforce adds programmable buttons with CTI Actions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-cti-adapter-for-salesforce-adds-programmable-buttons-with-cti-actions/)
-- [Amazon Connect Customer Profiles launches Identity Resolution in Preview to detect and merge duplicate customer profiles](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-customer-profiles-launches-identity-resolution-in-preview-to-detect-and-merge-duplicate-customer-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

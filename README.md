@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Nitro Enclaves is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-nitro-enclaves-available-aws-govcloud-us-regions/)
+- [Amazon CodeGuru Reviewer now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-codeguru-reviewer-now-supports-customer-managed-customer-master-keys/)
+- [Host Resource Groups for EC2 Dedicated Hosts now support AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/host-resource-groups-for-ec2-dedicated-hosts-now-support-aws-cloudformation/)
+- [AWS Data Provider for SAP Version 4.0 now available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-provider-sap-version-4-0-now-available/)
+- [AWS Ground Station is now available in the Asia Pacific (Seoul) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-ground-station-available-asia-pacific-seoul-region/)
 - [AWS Identity and Access Management (IAM) now makes it easier for you to manage permissions for AWS services accessing your resources](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-identity-and-access-management-now-makes-it-easier-for-you-to-manage-permissions-for-aws-services-accessing-your-resources/)
-- [Introducing Amazon FinSpace, a fully managed service to store, prepare, and analyze data for the financial services industry (FSI)](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-amazon-finspace-a-fully-managed-service-to-store-prepare-and-analyze-data-for-the-financial-services-industry-fsi/)
-- [Amazon RDS for Oracle and Amazon RDS for PostgreSQL now support Amazon RDS Encrypted Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-and-amazon-rds-for-postgresql-now-support-amazon-rds-encrypted-cross-region-automated-backups/)
-- [AWS Transit Gateway Network Manager is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-now-available-aws-asia-pacific-osaka-region/)
-- [Amazon DynamoDB local now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-dynamodb-local-now-supports-the-aws-sdk-for-java-2-x/)
-- [Easily clean up unused resources in Amazon Forecast using hierarchical deletion](https://aws.amazon.com/about-aws/whats-new/2021/05/easily-clean-up-unused-resources-in-amazon-forecast-using-hierarchical-deletion/)
-- [Amazon Redshift announces support for hierarchical data queries with Recursive CTE](https://aws.amazon.com/about-aws/whats-new/2021/04/amazon-redshift-announces-support-for-hierarchical-data-queries-with-recursive-cte/)
-- [Amazon CloudFront announces CloudFront Functions, a lightweight edge compute capability](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-functions/)
-- [S3 Object Lambda is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/s3-object-lambda-available-aws-govcloud-us-regions/)
-- [Amazon Connect CTI Adapter for Salesforce adds programmable buttons with CTI Actions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-cti-adapter-for-salesforce-adds-programmable-buttons-with-cti-actions/)
+- [New AWS Solutions Consulting Offer - DevOps Automation Springboard](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-devops-automation-springboard/)
+- [Announcing availability of AWS Outposts in Colombia, Macao, and Puerto Rico](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-availability-aws-outposts-colombia-macao-puerto-rico/)
+- [Amazon Pinpoint Announces Journey Pause and Resume](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-pinpoint-announces-journey-pause-resume/)
+- [Amazon VPC Announces Pricing Change for VPC Peering](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-vpc-announces-pricing-change-for-vpc-peering/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

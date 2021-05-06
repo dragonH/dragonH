@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Audit Manager now offers three new frameworks - NIST Cybersecurity Framework version 1.1, AWS Foundational Security Best Practices, and AWS Well-Architected framework](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-audit-manager-now-offers-three-new-frameworks/)
+- [Updated AWS IoT Device Tester for AWS IoT Greengrass is now available](https://aws.amazon.com/about-aws/whats-new/2021/05/updated-aws-Iot-device-tester-for-aws-Iot-greengrass-is-now-available/)
 - [AWS Nitro Enclaves is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-nitro-enclaves-available-aws-govcloud-us-regions/)
 - [Amazon CodeGuru Reviewer now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-codeguru-reviewer-now-supports-customer-managed-customer-master-keys/)
 - [Host Resource Groups for EC2 Dedicated Hosts now support AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/host-resource-groups-for-ec2-dedicated-hosts-now-support-aws-cloudformation/)
@@ -66,8 +68,6 @@
 - [AWS Identity and Access Management (IAM) now makes it easier for you to manage permissions for AWS services accessing your resources](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-identity-and-access-management-now-makes-it-easier-for-you-to-manage-permissions-for-aws-services-accessing-your-resources/)
 - [New AWS Solutions Consulting Offer - DevOps Automation Springboard](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-devops-automation-springboard/)
 - [Announcing availability of AWS Outposts in Colombia, Macao, and Puerto Rico](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-availability-aws-outposts-colombia-macao-puerto-rico/)
-- [Amazon Pinpoint Announces Journey Pause and Resume](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-pinpoint-announces-journey-pause-resume/)
-- [Amazon VPC Announces Pricing Change for VPC Peering](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-vpc-announces-pricing-change-for-vpc-peering/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

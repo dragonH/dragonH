@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-additional-aws-regions/)
 - [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
 - [AWS Audit Manager now offers three new frameworks - NIST Cybersecurity Framework version 1.1, AWS Foundational Security Best Practices, and AWS Well-Architected framework](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-audit-manager-now-offers-three-new-frameworks/)
 - [Updated AWS IoT Device Tester for AWS IoT Greengrass is now available](https://aws.amazon.com/about-aws/whats-new/2021/05/updated-aws-Iot-device-tester-for-aws-Iot-greengrass-is-now-available/)
@@ -67,7 +68,6 @@
 - [AWS Data Provider for SAP Version 4.0 now available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-provider-sap-version-4-0-now-available/)
 - [AWS Ground Station is now available in the Asia Pacific (Seoul) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-ground-station-available-asia-pacific-seoul-region/)
 - [AWS Identity and Access Management (IAM) now makes it easier for you to manage permissions for AWS services accessing your resources](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-identity-and-access-management-now-makes-it-easier-for-you-to-manage-permissions-for-aws-services-accessing-your-resources/)
-- [New AWS Solutions Consulting Offer - DevOps Automation Springboard](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-devops-automation-springboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

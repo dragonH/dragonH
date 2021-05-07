@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports ActiveMQ version 5.15.15](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-mq-supports-activemq-version-5-15-15/)
 - [Amazon CloudWatch Synthetics supports cron expression for scheduling](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-supports-cron-expression-for-scheduling/)
 - [Introducing IAM Access Control for Apache Kafka on Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-iam-access-control-amazon-msk/)
 - [Amazon CloudFront announces price cuts in India and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-price-cut-india-apac/)
@@ -67,7 +68,6 @@
 - [Updated AWS IoT Device Tester for AWS IoT Greengrass is now available](https://aws.amazon.com/about-aws/whats-new/2021/05/updated-aws-Iot-device-tester-for-aws-Iot-greengrass-is-now-available/)
 - [AWS Nitro Enclaves is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-nitro-enclaves-available-aws-govcloud-us-regions/)
 - [Amazon CodeGuru Reviewer now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-codeguru-reviewer-now-supports-customer-managed-customer-master-keys/)
-- [Host Resource Groups for EC2 Dedicated Hosts now support AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/host-resource-groups-for-ec2-dedicated-hosts-now-support-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS Container Storage Interface (CSI) driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ebs-container-storage-interface-driver-is-now-generally-available/)
 - [Prepare data for machine learning faster and easier on Amazon SageMaker Data Wrangler with support for more data sources and distributed jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/prepare-data-machine-learning-faster-easier-amazon-sagemaker-data-wrangler-support-more-data-sources-distributed-jobs/)
 - [Amazon MQ now supports ActiveMQ version 5.15.15](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-mq-supports-activemq-version-5-15-15/)
 - [Amazon CloudWatch Synthetics supports cron expression for scheduling](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-supports-cron-expression-for-scheduling/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager OpsCenter and Explorer now integrate with AWS Security Hub for diagnosis and remediation of security findings](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-systems-manager-opscenter-explorer-integrate-aws-security-hub-diagnosis-remediation-security-findings/)
 - [AWS Audit Manager now offers three new frameworks - NIST Cybersecurity Framework version 1.1, AWS Foundational Security Best Practices, and AWS Well-Architected framework](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-audit-manager-now-offers-three-new-frameworks/)
 - [Updated AWS IoT Device Tester for AWS IoT Greengrass is now available](https://aws.amazon.com/about-aws/whats-new/2021/05/updated-aws-Iot-device-tester-for-aws-Iot-greengrass-is-now-available/)
-- [AWS Nitro Enclaves is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-nitro-enclaves-available-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

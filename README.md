@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/15) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-2. 🎉 Merged PR [#12](https://github.com/dragonH/shopping-site-practice/pull/12) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-3. 🎉 Merged PR [#16](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/16) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-4. 🎉 Merged PR [#14](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/14) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-5. 🎉 Merged PR [#8](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/8) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+1. 🎉 Merged PR [#4](https://github.com/dragonH/movie-api/pull/4) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
+2. 🎉 Merged PR [#17](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/17) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+3. ❌ Reopened PR [#17](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/17) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+4. ❌ Closed PR [#17](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/17) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+5. 🎉 Merged PR [#15](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/15) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
 <!--END_SECTION:activity-->
 
 </details>

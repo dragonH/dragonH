@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-sql-server-supports-managed-disaster-recovery-with-amazon-rds-cross-region-automated-backups/)
 - [Use Kubernetes Pod Templates with Amazon EMR on Amazon EKS to simplify running Spark workloads and control costs](https://aws.amazon.com/about-aws/whats-new/2021/05/use-kubernetes-pod-templates-emr-eks-simplify-running-spark-workloads-control-costs/)
 - [Amazon SageMaker Automatic Model Tuning now supports up to 10x faster tuning and enables exploring up to 20X more models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-automatic-model-tuning-supports-up-to-10x-faster-tuning-and-exploring-up-to-20x-more-models/)
 - [AWS Organizations launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-organizations-launches-new-console-experience/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Synthetics supports cron expression for scheduling](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-supports-cron-expression-for-scheduling/)
 - [Introducing IAM Access Control for Apache Kafka on Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-iam-access-control-amazon-msk/)
 - [Amazon CloudFront announces price cuts in India and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2021/05/cloudfront-price-cut-india-apac/)
-- [AWS Transit Gateway Connect is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

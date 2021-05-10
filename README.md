@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Migration Evaluator announces a faster way to project AWS cloud costs with Quick Insights](https://aws.amazon.com/about-aws/whats-new/2021/05/migration-evaluator-announces-faster-way-project-aws-cloud-costs-quick-insights/)
+- [Amazon Athena drivers now support Azure AD and PingFederate authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-drivers-now-support-azure-ad-and-pingfederate-authentication/)
 - [Amazon SageMaker now supports Elastic Fabric Adapter for distributed training](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-supports-elastic-fabric-adapter-distributed-training/)
 - [Support for Kantar watermarking is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/05/support-kantar-watermarking-available-aws-elemental-mediaconvert/)
 - [Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-sql-server-supports-managed-disaster-recovery-with-amazon-rds-cross-region-automated-backups/)
@@ -66,8 +68,6 @@
 - [AWS Organizations launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-organizations-launches-new-console-experience/)
 - [Amazon EBS Container Storage Interface (CSI) driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ebs-container-storage-interface-driver-is-now-generally-available/)
 - [Prepare data for machine learning faster and easier on Amazon SageMaker Data Wrangler with support for more data sources and distributed jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/prepare-data-machine-learning-faster-easier-amazon-sagemaker-data-wrangler-support-more-data-sources-distributed-jobs/)
-- [Amazon MQ now supports ActiveMQ version 5.15.15](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-mq-supports-activemq-version-5-15-15/)
-- [Amazon CloudWatch Synthetics supports cron expression for scheduling](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-supports-cron-expression-for-scheduling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

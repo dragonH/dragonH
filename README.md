@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Certificate Manager Private Certificate Authority is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-is-now-available-in-the-asia-pacific-osaka-region/)
 - [Amazon EMR on EKS is now available in the EU (Paris and Stockholm) region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-on-eks-is-now-available-in-the-eu-paris-and-stockholm-region/)
 - [New digital training and AWS Certification Guide for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/05/new-digital-training-and-aws-certification-guide-for-aws-end-user-computing/)
 - [Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-local-zones-boston-houston-miami/)
@@ -67,7 +68,6 @@
 - [Amazon Athena drivers now support Azure AD and PingFederate authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-drivers-now-support-azure-ad-and-pingfederate-authentication/)
 - [Amazon SageMaker now supports Elastic Fabric Adapter for distributed training](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-supports-elastic-fabric-adapter-distributed-training/)
 - [Support for Kantar watermarking is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/05/support-kantar-watermarking-available-aws-elemental-mediaconvert/)
-- [Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-sql-server-supports-managed-disaster-recovery-with-amazon-rds-cross-region-automated-backups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

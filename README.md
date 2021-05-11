@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS is now available in the EU (Paris and Stockholm) region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-on-eks-is-now-available-in-the-eu-paris-and-stockholm-region/)
 - [New digital training and AWS Certification Guide for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/05/new-digital-training-and-aws-certification-guide-for-aws-end-user-computing/)
 - [Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-local-zones-boston-houston-miami/)
 - [Amazon Fraud Detector now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fraud-detector-supports-aws-cloudformation/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker now supports Elastic Fabric Adapter for distributed training](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-supports-elastic-fabric-adapter-distributed-training/)
 - [Support for Kantar watermarking is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/05/support-kantar-watermarking-available-aws-elemental-mediaconvert/)
 - [Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-sql-server-supports-managed-disaster-recovery-with-amazon-rds-cross-region-automated-backups/)
-- [Use Kubernetes Pod Templates with Amazon EMR on Amazon EKS to simplify running Spark workloads and control costs](https://aws.amazon.com/about-aws/whats-new/2021/05/use-kubernetes-pod-templates-emr-eks-simplify-running-spark-workloads-control-costs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-local-zones-boston-houston-miami/)
+- [Amazon Fraud Detector now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fraud-detector-supports-aws-cloudformation/)
 - [Introducing Incident Manager from AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-incident-manager-aws-systems-manager/)
 - [Migration Evaluator announces a faster way to project AWS cloud costs with Quick Insights](https://aws.amazon.com/about-aws/whats-new/2021/05/migration-evaluator-announces-faster-way-project-aws-cloud-costs-quick-insights/)
 - [Amazon Athena drivers now support Azure AD and PingFederate authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-drivers-now-support-azure-ad-and-pingfederate-authentication/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for SQL Server supports Managed Disaster Recovery (DR) with Amazon RDS Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-sql-server-supports-managed-disaster-recovery-with-amazon-rds-cross-region-automated-backups/)
 - [Use Kubernetes Pod Templates with Amazon EMR on Amazon EKS to simplify running Spark workloads and control costs](https://aws.amazon.com/about-aws/whats-new/2021/05/use-kubernetes-pod-templates-emr-eks-simplify-running-spark-workloads-control-costs/)
 - [Amazon SageMaker Automatic Model Tuning now supports up to 10x faster tuning and enables exploring up to 20X more models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-automatic-model-tuning-supports-up-to-10x-faster-tuning-and-exploring-up-to-20x-more-models/)
-- [AWS Organizations launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-organizations-launches-new-console-experience/)
-- [Amazon EBS Container Storage Interface (CSI) driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ebs-container-storage-interface-driver-is-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

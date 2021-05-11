@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P4d instances now available in Europe (Frankfurt) and Asia Pacific (Seoul) regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-p4d-instances-now-available-in-europe-frankfurt-and-asia-pacific-seoul-regions/)
 - [AWS Lake Formation now supports Tag-based access control (TBAC)](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lake-formation-now-supports-tag-based-access-control/)
 - [Amazon Kinesis Data Analytics now supports RollbackApplication, ListApplicationVersions, and DescribeApplicationVersion APIs in preview](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kinesis-data-analytics-supports-rollbackapplication-listapplicationversions-describeapplicationversion-apis/)
 - [Amazon EKS managed node groups adds support for Kubernetes node taints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-managed-node-groups-adds-support-kubernetes-node-taints/)
@@ -67,7 +68,6 @@
 - [New digital training and AWS Certification Guide for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/05/new-digital-training-and-aws-certification-guide-for-aws-end-user-computing/)
 - [Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-local-zones-boston-houston-miami/)
 - [Amazon Fraud Detector now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fraud-detector-supports-aws-cloudformation/)
-- [Introducing Incident Manager from AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-incident-manager-aws-systems-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

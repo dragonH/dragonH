@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now use AWS Systems Manager Change Calendar to prevent desired-state updates during critical events](https://aws.amazon.com/about-aws/whats-new/2021/05/now-use-aws-systems-manager-change-calendar-to-prevent-desired-state-updates-during-critical-events/)
+- [Amazon CloudWatch Now Supports Composite Alarms in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-now-supports-composite-alarms-in-aws-govcloud-us-regions/)
+- [Amazon Athena adds built-in support for cross-account AWS Glue Data Catalogs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-adds-built-in-support-for-cross-account-aws-glue-data-catalogs/)
+- [Learn how to develop applications with Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb/)
 - [AWS Solutions Implementation - The Improving Forecast Accuracy with Machine Learning solution adds contextual featurizations and visualization functionalities to enrich forecast insight](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-solutions-implementation-forecast-accuracy-machine-learning-solution-adds-contextual-featurizations-visualization-functionalities/)
 - [New patch releases for Amazon Aurora PostgreSQL are now available](https://aws.amazon.com/about-aws/whats-new/2021/05/new-patch-releases-for-amazon-aurora-postgresql-are-now-available/)
 - [AWS announces that all AWS Federal Information Processing Standard (FIPS) endpoints now only accept a minimum of Transport Layer Security (TLS) 1.2 connections](https://aws.amazon.com/about-aws/whats-new/2021/05/all-aws-federal-information-processing-standard-endpoints-only-accept-minimum-transport-layer-security-1-2-connections/)
 - [Introducing the new Machine Downtime Monitor on AWS solution](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-the-new-machine-downtime-monitor-on-aws-solution/)
 - [Introducing Distributed Load Testing v1.3](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-distributed-load-testing-v1-3/)
 - [Four new EC2 High Memory instances with up to 12TB of memory are now available with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2021/05/four-ec2-high-memory-instances-with-up-to-12tb-memory-available-with-on-demand-and-savings-plan-purchase-options/)
-- [AWS SaaS Boost released as an open source project](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-saas-boost-released-as-an-open-source-project/)
-- [Amazon Transcribe improves live subtitling with partial results stabilization](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-improves-live-subtitling-partial-results-stabilization/)
-- [Amazon EC2 P4d instances now available in Europe (Frankfurt) and Asia Pacific (Seoul) regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-p4d-instances-now-available-in-europe-frankfurt-and-asia-pacific-seoul-regions/)
-- [AWS Lake Formation now supports Tag-based access control (TBAC)](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lake-formation-now-supports-tag-based-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

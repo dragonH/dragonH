@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing the new Machine Downtime Monitor on AWS solution](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-the-new-machine-downtime-monitor-on-aws-solution/)
+- [Introducing Distributed Load Testing v1.3](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-distributed-load-testing-v1-3/)
+- [Four new EC2 High Memory instances with up to 12TB of memory are now available with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2021/05/four-ec2-high-memory-instances-with-up-to-12tb-memory-available-with-on-demand-and-savings-plan-purchase-options/)
 - [AWS SaaS Boost released as an open source project](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-saas-boost-released-as-an-open-source-project/)
 - [Amazon Transcribe improves live subtitling with partial results stabilization](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-improves-live-subtitling-partial-results-stabilization/)
 - [Amazon EC2 P4d instances now available in Europe (Frankfurt) and Asia Pacific (Seoul) regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-p4d-instances-now-available-in-europe-frankfurt-and-asia-pacific-seoul-regions/)
@@ -65,9 +68,6 @@
 - [Amazon Kinesis Data Analytics now supports RollbackApplication, ListApplicationVersions, and DescribeApplicationVersion APIs in preview](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kinesis-data-analytics-supports-rollbackapplication-listapplicationversions-describeapplicationversion-apis/)
 - [Amazon EKS managed node groups adds support for Kubernetes node taints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-managed-node-groups-adds-support-kubernetes-node-taints/)
 - [Announcing Amazon RDS for SQL Server on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-rds-for-sql-server-on-aws-outposts/)
-- [AWS Certificate Manager Private Certificate Authority is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-is-now-available-in-the-asia-pacific-osaka-region/)
-- [Amazon EMR on EKS is now available in the EU (Paris and Stockholm) region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-on-eks-is-now-available-in-the-eu-paris-and-stockholm-region/)
-- [New digital training and AWS Certification Guide for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/05/new-digital-training-and-aws-certification-guide-for-aws-end-user-computing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

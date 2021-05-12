@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SaaS Boost released as an open source project](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-saas-boost-released-as-an-open-source-project/)
 - [Amazon Transcribe improves live subtitling with partial results stabilization](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-improves-live-subtitling-partial-results-stabilization/)
 - [Amazon EC2 P4d instances now available in Europe (Frankfurt) and Asia Pacific (Seoul) regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-p4d-instances-now-available-in-europe-frankfurt-and-asia-pacific-seoul-regions/)
 - [AWS Lake Formation now supports Tag-based access control (TBAC)](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lake-formation-now-supports-tag-based-access-control/)
@@ -67,7 +68,6 @@
 - [AWS Certificate Manager Private Certificate Authority is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-is-now-available-in-the-asia-pacific-osaka-region/)
 - [Amazon EMR on EKS is now available in the EU (Paris and Stockholm) region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-on-eks-is-now-available-in-the-eu-paris-and-stockholm-region/)
 - [New digital training and AWS Certification Guide for AWS End User Computing](https://aws.amazon.com/about-aws/whats-new/2021/05/new-digital-training-and-aws-certification-guide-for-aws-end-user-computing/)
-- [Announcing the General Availability of AWS Local Zones in Boston, Houston, and Miami](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-local-zones-boston-houston-miami/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

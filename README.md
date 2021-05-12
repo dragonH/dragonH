@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect adds near real-time insights into voice call, chat, and task activity](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-adds-near-real-time-insights-into-voice-call-chat-and-task-activity/)
 - [Now use AWS Systems Manager Change Calendar to prevent desired-state updates during critical events](https://aws.amazon.com/about-aws/whats-new/2021/05/now-use-aws-systems-manager-change-calendar-to-prevent-desired-state-updates-during-critical-events/)
 - [Amazon CloudWatch Now Supports Composite Alarms in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-now-supports-composite-alarms-in-aws-govcloud-us-regions/)
 - [Amazon Athena adds built-in support for cross-account AWS Glue Data Catalogs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-adds-built-in-support-for-cross-account-aws-glue-data-catalogs/)
@@ -67,7 +68,6 @@
 - [AWS announces that all AWS Federal Information Processing Standard (FIPS) endpoints now only accept a minimum of Transport Layer Security (TLS) 1.2 connections](https://aws.amazon.com/about-aws/whats-new/2021/05/all-aws-federal-information-processing-standard-endpoints-only-accept-minimum-transport-layer-security-1-2-connections/)
 - [Introducing the new Machine Downtime Monitor on AWS solution](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-the-new-machine-downtime-monitor-on-aws-solution/)
 - [Introducing Distributed Load Testing v1.3](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-distributed-load-testing-v1-3/)
-- [Four new EC2 High Memory instances with up to 12TB of memory are now available with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2021/05/four-ec2-high-memory-instances-with-up-to-12tb-memory-available-with-on-demand-and-savings-plan-purchase-options/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

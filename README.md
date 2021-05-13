@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR 6.3 now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-6-3-now-supports-apache-ranger-for-fine-grained-data-access-control/)
 - [AWS WAF adds support for log filtering](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-waf-adds-support-for-log-filtering/)
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-adds-near-real-time-insights-into-voice-call-chat-and-task-activity/)
 - [Now use AWS Systems Manager Change Calendar to prevent desired-state updates during critical events](https://aws.amazon.com/about-aws/whats-new/2021/05/now-use-aws-systems-manager-change-calendar-to-prevent-desired-state-updates-during-critical-events/)
@@ -67,7 +68,6 @@
 - [AWS Solutions Implementation - The Improving Forecast Accuracy with Machine Learning solution adds contextual featurizations and visualization functionalities to enrich forecast insight](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-solutions-implementation-forecast-accuracy-machine-learning-solution-adds-contextual-featurizations-visualization-functionalities/)
 - [New patch releases for Amazon Aurora PostgreSQL are now available](https://aws.amazon.com/about-aws/whats-new/2021/05/new-patch-releases-for-amazon-aurora-postgresql-are-now-available/)
 - [AWS announces that all AWS Federal Information Processing Standard (FIPS) endpoints now only accept a minimum of Transport Layer Security (TLS) 1.2 connections](https://aws.amazon.com/about-aws/whats-new/2021/05/all-aws-federal-information-processing-standard-endpoints-only-accept-minimum-transport-layer-security-1-2-connections/)
-- [Introducing the new Machine Downtime Monitor on AWS solution](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-the-new-machine-downtime-monitor-on-aws-solution/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

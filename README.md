@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing PostgreSQL 12.5 support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-postgresql-12-5-support-for-amazon-rds-on-aws-outposts/)
 - [Amazon Kendra now available in Asia-Pacific (Singapore) AWS region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kendra-now-available-in-asia-pacific-singapore-aws-region/)
 - [Amazon Elasticsearch Service announces a new lower cost storage tier](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elasticsearch-service-announces-a-new-lower-cost-storage-tier/)
 - [Amazon EMR 6.3 now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-6-3-now-supports-apache-ranger-for-fine-grained-data-access-control/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Now Supports Composite Alarms in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-now-supports-composite-alarms-in-aws-govcloud-us-regions/)
 - [Amazon Athena adds built-in support for cross-account AWS Glue Data Catalogs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-adds-built-in-support-for-cross-account-aws-glue-data-catalogs/)
 - [Learn how to develop applications with Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb/)
-- [AWS Solutions Implementation - The Improving Forecast Accuracy with Machine Learning solution adds contextual featurizations and visualization functionalities to enrich forecast insight](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-solutions-implementation-forecast-accuracy-machine-learning-solution-adds-contextual-featurizations-visualization-functionalities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

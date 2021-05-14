@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Data API now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-data-api-now-supports-fips-140-2-validated-endpoints/)
+- [AWS Premium Support launches Support Automation Workflow (SAW) runbooks for self-service diagnosis and remediation](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-premium-support-launches-support-automation-workflow-runbooks-for-self-service-diagnosis-remediation/)
+- [Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification for batch processing](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-medical-provides-automatic-protected-health-information-identification-batch-processing/)
 - [Announcing PostgreSQL 12.5 support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-postgresql-12-5-support-for-amazon-rds-on-aws-outposts/)
 - [Amazon Kendra now available in Asia-Pacific (Singapore) AWS region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kendra-now-available-in-asia-pacific-singapore-aws-region/)
 - [Amazon Elasticsearch Service announces a new lower cost storage tier](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elasticsearch-service-announces-a-new-lower-cost-storage-tier/)
@@ -65,9 +68,6 @@
 - [AWS WAF adds support for log filtering](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-waf-adds-support-for-log-filtering/)
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-adds-near-real-time-insights-into-voice-call-chat-and-task-activity/)
 - [Now use AWS Systems Manager Change Calendar to prevent desired-state updates during critical events](https://aws.amazon.com/about-aws/whats-new/2021/05/now-use-aws-systems-manager-change-calendar-to-prevent-desired-state-updates-during-critical-events/)
-- [Amazon CloudWatch Now Supports Composite Alarms in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-now-supports-composite-alarms-in-aws-govcloud-us-regions/)
-- [Amazon Athena adds built-in support for cross-account AWS Glue Data Catalogs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-athena-adds-built-in-support-for-cross-account-aws-glue-data-catalogs/)
-- [Learn how to develop applications with Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2021/05/learn-how-to-develop-applications-with-amazon-dynamodb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

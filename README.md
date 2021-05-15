@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions now supports Amazon custom events to EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-step-functions-now-supports-amazon-custom-events-eventbridge/)
 - [Amazon RDS Data API now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-data-api-now-supports-fips-140-2-validated-endpoints/)
 - [AWS Premium Support launches Support Automation Workflow (SAW) runbooks for self-service diagnosis and remediation](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-premium-support-launches-support-automation-workflow-runbooks-for-self-service-diagnosis-remediation/)
 - [Amazon Transcribe Medical now provides automatic Protected Health Information (PHI) identification for batch processing](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-transcribe-medical-provides-automatic-protected-health-information-identification-batch-processing/)
@@ -67,7 +68,6 @@
 - [Amazon EMR 6.3 now supports Apache Ranger for fine-grained data access control](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-6-3-now-supports-apache-ranger-for-fine-grained-data-access-control/)
 - [AWS WAF adds support for log filtering](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-waf-adds-support-for-log-filtering/)
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-connect-adds-near-real-time-insights-into-voice-call-chat-and-task-activity/)
-- [Now use AWS Systems Manager Change Calendar to prevent desired-state updates during critical events](https://aws.amazon.com/about-aws/whats-new/2021/05/now-use-aws-systems-manager-change-calendar-to-prevent-desired-state-updates-during-critical-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

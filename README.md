@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports Apache Kafka TLS and Authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-supports-apache-kafka-tls-authentication/)
+- [Announcing the general availability of AWS IoT Core Device Advisor](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-iot-core-device-advisor/)
+- [AWS Compute Optimizer Now Supports Exporting Amazon EBS and AWS Lambda Recommendations to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-supports-exporting-amazon-ebs-aws-lambda-recommendations-amazon-s3/)
 - [Announcing general availability of AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-of-aws-application-migration-service/)
 - [AWS Amplify Hosting announces server-side rendering (SSR) support for Next.js web apps](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-amplify-hosting-announces-server-side-rendering-support-for-next-js-web-apps/)
 - [AWS Elemental MediaConnect adds CDI and JPEG XS support](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-elemental-mediaconnect-adds-cdi-and-jpeg-xs-support/)
@@ -65,9 +68,6 @@
 - [AWS Transit Gateway Connect is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-aws-govcloud-us-regions/)
 - [Amazon Lex is now available in the AWS Canada (Central) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lex-available-aws-canada-central-region/)
 - [Amazon Macie supports criteria-based bucket selection for sensitive data discovery jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-macie-supports-criteria-based-bucket-selection-sensitive-data-discovery-jobs/)
-- [New AWS Solutions Consulting Offer - Enterprise Cloud Foundation Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-enterprise-cloud-foundation-accelerator/)
-- [Amazon DynamoDB global tables now support AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-dynamodb-global-tables-now-support-aws-cloudformation/)
-- [Amazon WorkDocs adds filtering to the activity feed for both iOS and Android](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-workdocs-adds-filtering-activity-feed-ios-android/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

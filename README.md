@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect adds CDI and JPEG XS support](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-elemental-mediaconnect-adds-cdi-and-jpeg-xs-support/)
 - [AWS CloudFormation Guard 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-cloudformation-guard-2-0-is-now-generally-available/)
 - [AWS Transit Gateway Connect is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-aws-govcloud-us-regions/)
 - [Amazon Lex is now available in the AWS Canada (Central) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lex-available-aws-canada-central-region/)
@@ -67,7 +68,6 @@
 - [Amazon WorkDocs adds filtering to the activity feed for both iOS and Android](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-workdocs-adds-filtering-activity-feed-ios-android/)
 - [AWS Step Functions now supports custom events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-step-functions-now-supports-amazon-custom-events-eventbridge/)
 - [Amazon RDS Data API now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-data-api-now-supports-fips-140-2-validated-endpoints/)
-- [AWS Premium Support launches Support Automation Workflow (SAW) runbooks for self-service diagnosis and remediation](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-premium-support-launches-support-automation-workflow-runbooks-for-self-service-diagnosis-remediation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

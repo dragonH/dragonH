@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-of-aws-application-migration-service/)
+- [AWS Amplify Hosting announces server-side rendering (SSR) support for Next.js web apps](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-amplify-hosting-announces-server-side-rendering-support-for-next-js-web-apps/)
 - [AWS Elemental MediaConnect adds CDI and JPEG XS support](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-elemental-mediaconnect-adds-cdi-and-jpeg-xs-support/)
 - [AWS CloudFormation Guard 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-cloudformation-guard-2-0-is-now-generally-available/)
 - [AWS Transit Gateway Connect is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-aws-govcloud-us-regions/)
@@ -66,8 +68,6 @@
 - [New AWS Solutions Consulting Offer - Enterprise Cloud Foundation Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/05/new-aws-solutions-consulting-offer-enterprise-cloud-foundation-accelerator/)
 - [Amazon DynamoDB global tables now support AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-dynamodb-global-tables-now-support-aws-cloudformation/)
 - [Amazon WorkDocs adds filtering to the activity feed for both iOS and Android](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-workdocs-adds-filtering-activity-feed-ios-android/)
-- [AWS Step Functions now supports custom events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-step-functions-now-supports-amazon-custom-events-eventbridge/)
-- [Amazon RDS Data API now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-data-api-now-supports-fips-140-2-validated-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

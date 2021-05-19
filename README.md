@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge now supports sharing events between event buses in the same account and Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eventbridge-supports-sharing-events-between-event-buses-same-account-region/)
+- [Amazon SageMaker Autopilot adds automatic deployment support for the best trained model](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-autopilot-adds-automatic-deployment-support-for-the-best-trained-model/)
 - [AWS Load Balancer Controller version 2.2 now available with support for NLB instance targeting](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-load-balancer-controller-version-2-2-available-support-nlb-instance/)
 - [AWS Solutions Implementations - Serverless Bot Framework adds new integrations for customers to expand the use of their Amazon Lex chatbots](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-solutions-implementations-serverless-bot-framework-adds-new-integrations-for-customers-to-expand-the-use-of-their-amazon-lex-chatbots/)
 - [AWS Application Cost profiler](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-application-cost-profiler/)
@@ -66,8 +68,6 @@
 - [AWS Announces AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-aws-app-runner/)
 - [AWS License Manager now provides historical license usage reporting](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-license-manager-now-provides-historical-license-usage-reporting/)
 - [Amazon EKS and EKS Distro now support Kubernetes version 1.20](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-eks-distro-supports-kubernetes-version-1-20/)
-- [AWS Database Migration Service now supports Apache Kafka TLS and Authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-supports-apache-kafka-tls-authentication/)
-- [Announcing the general availability of AWS IoT Core Device Advisor](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-aws-iot-core-device-advisor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

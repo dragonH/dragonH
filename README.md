@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Copilot v1.7 with support for AWS App Runner and more](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-copilot-launches-v17-with-support-for-aws-app-runner-and-more/)
 - [AWS Announces AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-aws-app-runner/)
 - [AWS License Manager now provides historical license usage reporting](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-license-manager-now-provides-historical-license-usage-reporting/)
 - [Amazon EKS and EKS Distro now support Kubernetes version 1.20](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-eks-distro-supports-kubernetes-version-1-20/)
@@ -67,7 +68,6 @@
 - [Announcing general availability of AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-of-aws-application-migration-service/)
 - [AWS Amplify Hosting announces server-side rendering (SSR) support for Next.js web apps](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-amplify-hosting-announces-server-side-rendering-support-for-next-js-web-apps/)
 - [AWS Elemental MediaConnect adds CDI and JPEG XS support](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-elemental-mediaconnect-adds-cdi-and-jpeg-xs-support/)
-- [AWS CloudFormation Guard 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-cloudformation-guard-2-0-is-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

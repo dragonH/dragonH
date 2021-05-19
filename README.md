@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Announces AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-aws-app-runner/)
 - [AWS License Manager now provides historical license usage reporting](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-license-manager-now-provides-historical-license-usage-reporting/)
 - [Amazon EKS and EKS Distro now support Kubernetes version 1.20](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eks-eks-distro-supports-kubernetes-version-1-20/)
 - [AWS Database Migration Service now supports Apache Kafka TLS and Authentication](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-supports-apache-kafka-tls-authentication/)
@@ -67,7 +68,6 @@
 - [AWS Amplify Hosting announces server-side rendering (SSR) support for Next.js web apps](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-amplify-hosting-announces-server-side-rendering-support-for-next-js-web-apps/)
 - [AWS Elemental MediaConnect adds CDI and JPEG XS support](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-elemental-mediaconnect-adds-cdi-and-jpeg-xs-support/)
 - [AWS CloudFormation Guard 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-cloudformation-guard-2-0-is-now-generally-available/)
-- [AWS Transit Gateway Connect is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-connect-is-now-available-in-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

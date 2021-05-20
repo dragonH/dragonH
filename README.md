@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Application Insights now supports container monitoring](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-application-insights-now-supports-container-monitoring/)
+- [Amazon Lightsail is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lightsail-is-now-available-in-aws-europe-stockholm-region/)
+- [AWS customers can now self opt-in to AWS Wavelength Zones](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-customers-now-self-opt-in-aws-wavelength-zones/)
 - [EKS Add-Ons Now Supports CoreDNS and kube-proxy](https://aws.amazon.com/about-aws/whats-new/2021/05/eks-add-ons-now-support-coredns-kube-proxy/)
 - [Amazon SageMaker now offers new flexibility in configuring the model building pipelines](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-offers-new-flexibility-configuring-model-building-pipelines/)
 - [Customizations for AWS Control Tower v2.1 adds more scaling optimizations and improves compatibility with AWS CodeBuild](https://aws.amazon.com/about-aws/whats-new/2021/05/customizations-for-aws-control-tower-adds-more-scaling-optimizations-and-improves-compatiblity-with-aws-codebuild/)
@@ -65,9 +68,6 @@
 - [Amazon Route 53 Resolver Endpoints for Hybrid Cloud Are Now Available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-route-53-resolver-endpoints-for-hybrid-cloud-now-available-in-asia-pacific-osaka-region/)
 - [Amazon EC2 Auto Scaling Introduces Predictive Scaling as a Native Scaling Policy](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-auto-scaling-introduces-predictive-scaling-native-scaling-policy/)
 - [Amazon EventBridge now supports sharing events between event buses in the same account and Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eventbridge-supports-sharing-events-between-event-buses-same-account-region/)
-- [Amazon SageMaker Autopilot adds automatic deployment support for the best trained model](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-autopilot-adds-automatic-deployment-support-for-the-best-trained-model/)
-- [AWS Load Balancer Controller version 2.2 now available with support for NLB instance targeting](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-load-balancer-controller-version-2-2-available-support-nlb-instance/)
-- [AWS Solutions Implementations - Serverless Bot Framework adds new integrations for customers to expand the use of their Amazon Lex chatbots](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-solutions-implementations-serverless-bot-framework-adds-new-integrations-for-customers-to-expand-the-use-of-their-amazon-lex-chatbots/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

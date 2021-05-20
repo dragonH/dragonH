@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Toolkit for Visual Studio Code adds Java and Go Support for Serverless Applications](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-toolkit-visual-studio-code-adds-java-go-support/)
 - [Amazon Route 53 Resolver Endpoints for Hybrid Cloud Are Now Available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-route-53-resolver-endpoints-for-hybrid-cloud-now-available-in-asia-pacific-osaka-region/)
 - [Amazon EC2 Auto Scaling Introduces Predictive Scaling as a Native Scaling Policy](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-auto-scaling-introduces-predictive-scaling-native-scaling-policy/)
 - [Amazon EventBridge now supports sharing events between event buses in the same account and Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-eventbridge-supports-sharing-events-between-event-buses-same-account-region/)
@@ -67,7 +68,6 @@
 - [AWS Application Cost profiler](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-application-cost-profiler/)
 - [AWS Solutions Implementation - AWS Data Streaming Solution for Amazon MSK adds support for Apache Kafka versions 2.8.0 and 2.6.2](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-streaming-solution-for-amazon-msk-adds-support-for-apache-kafka-versions-2-8-0-and-2-6-2/)
 - [Introducing AWS Copilot v1.7 with support for AWS App Runner and more](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-copilot-launches-v17-with-support-for-aws-app-runner-and-more/)
-- [AWS Announces AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-aws-app-runner/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

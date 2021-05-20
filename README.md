@@ -65,7 +65,7 @@
 - [Amazon SageMaker Autopilot adds automatic deployment support for the best trained model](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-autopilot-adds-automatic-deployment-support-for-the-best-trained-model/)
 - [AWS Load Balancer Controller version 2.2 now available with support for NLB instance targeting](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-load-balancer-controller-version-2-2-available-support-nlb-instance/)
 - [AWS Solutions Implementations - Serverless Bot Framework adds new integrations for customers to expand the use of their Amazon Lex chatbots](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-solutions-implementations-serverless-bot-framework-adds-new-integrations-for-customers-to-expand-the-use-of-their-amazon-lex-chatbots/)
-- [AWS Application Cost profiler](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-application-cost-profiler/)
+- [AWS Application Cost Profiler](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-application-cost-profiler/)
 - [AWS Solutions Implementation - AWS Data Streaming Solution for Amazon MSK adds support for Apache Kafka versions 2.8.0 and 2.6.2](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-streaming-solution-for-amazon-msk-adds-support-for-apache-kafka-versions-2-8-0-and-2-6-2/)
 - [Introducing AWS Copilot v1.7 with support for AWS App Runner and more](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-copilot-launches-v17-with-support-for-aws-app-runner-and-more/)
 <!-- AWS-NEWS:END -->

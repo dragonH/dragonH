@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports April 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-now-supports-april-2021-release-updates-ru/)
 - [AWS X-Ray now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-x-ray-now-supports-vpc-endpoints/)
 - [Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency](https://aws.amazon.com/about-aws/whats-new/2021/05/enhancements-to-amazon-rekognition-text-detection-support-for-more-words-higher-accuracy-lower-latency/)
 - [Manage Amazon Keyspaces (for Apache Cassandra) service quotas through the Service Quotas console](https://aws.amazon.com/about-aws/whats-new/2021/05/manage-amazon-keyspaces--for-apache-cassandra--service-quotas-th/)
@@ -67,7 +68,6 @@
 - [WkWebView now supported with Amazon Chime SDK for JavaScript](https://aws.amazon.com/about-aws/whats-new/2021/05/wkwebview-now-supported-with-amazon-chime-sdk-for-javascript/)
 - [Amazon CloudWatch Application Insights now supports container monitoring](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-application-insights-now-supports-container-monitoring/)
 - [Amazon Lightsail is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lightsail-is-now-available-in-aws-europe-stockholm-region/)
-- [AWS customers can now self opt-in to AWS Wavelength Zones](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-customers-now-self-opt-in-aws-wavelength-zones/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

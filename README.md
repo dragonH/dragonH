@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Forecast Weather Index for South America](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-forecast-weather-index-for-south-america/)
+- [Amazon Forecast now supports generating predictions for 5X more items using 3X more historic data points](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-forecast-now-supports-generating-predictions-for-more-items-using-more-historic-data-points/)
+- [Amazon Elastic File System now supports longer resource identifiers](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elastic-file-system-supports-longer-resource-identifiers/)
 - [Amazon RDS for Oracle now supports April 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-now-supports-april-2021-release-updates-ru/)
 - [AWS X-Ray now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-x-ray-now-supports-vpc-endpoints/)
 - [Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency](https://aws.amazon.com/about-aws/whats-new/2021/05/enhancements-to-amazon-rekognition-text-detection-support-for-more-words-higher-accuracy-lower-latency/)
@@ -65,9 +68,6 @@
 - [AWS App2Container now supports deployment of containerized applications to AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-app2container-supports-deployment-of-containerized-applications-to-aws-app-runner/)
 - [Amazon Lex now supports resource-based policies for bots and aliases](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lex-now-supports-resource-based-policies-for-bots-and-aliases/)
 - [Amazon EMR on EKS is now available in the South America (São Paulo) region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-eks-available-sao-paulo-region/)
-- [WkWebView now supported with Amazon Chime SDK for JavaScript](https://aws.amazon.com/about-aws/whats-new/2021/05/wkwebview-now-supported-with-amazon-chime-sdk-for-javascript/)
-- [Amazon CloudWatch Application Insights now supports container monitoring](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-application-insights-now-supports-container-monitoring/)
-- [Amazon Lightsail is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lightsail-is-now-available-in-aws-europe-stockholm-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

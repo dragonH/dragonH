@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS X-Ray now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-x-ray-now-supports-vpc-endpoints/)
 - [Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency](https://aws.amazon.com/about-aws/whats-new/2021/05/enhancements-to-amazon-rekognition-text-detection-support-for-more-words-higher-accuracy-lower-latency/)
-- [AWS X-Ray now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/04/aws-x-ray-now-supports-vpc-endpoints/)
 - [Manage Amazon Keyspaces (for Apache Cassandra) service quotas through the Service Quotas console](https://aws.amazon.com/about-aws/whats-new/2021/05/manage-amazon-keyspaces--for-apache-cassandra--service-quotas-th/)
 - [AWS App2Container now supports deployment of containerized applications to AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-app2container-supports-deployment-of-containerized-applications-to-aws-app-runner/)
 - [Amazon Lex now supports resource-based policies for bots and aliases](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lex-now-supports-resource-based-policies-for-bots-and-aliases/)

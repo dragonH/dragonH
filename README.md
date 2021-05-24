@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer enhances EC2 instance type recommendations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-enhances-ec2-instance-type-recommendations/)
+- [AWS Outposts launches support for EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-outposts-launches-support-for-ec2-capacity-reservations/)
+- [Amazon EMR now supports Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-now-supports-amazon-ec2-on-demand-capacity-reservations/)
 - [Amazon Lumberyard Beta 1.28 is Now Available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lumberyard-beta-1-28-is-now-available/)
 - [AWS Lambda Extensions are now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lambda-extensions-now-generally-available/)
 - [Amazon CloudWatch Logs service limits can now be managed with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-logs-service-limits-can-now-be-managed-with-aws-service-quotas/)
@@ -65,9 +68,6 @@
 - [Announcing Amazon Forecast Weather Index for South America](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-forecast-weather-index-for-south-america/)
 - [Amazon Forecast now supports generating predictions for 5X more items using 3X more historic data points](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-forecast-now-supports-generating-predictions-for-more-items-using-more-historic-data-points/)
 - [Amazon Elastic File System now supports longer resource identifiers](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elastic-file-system-supports-longer-resource-identifiers/)
-- [Amazon RDS for Oracle now supports April 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-now-supports-april-2021-release-updates-ru/)
-- [AWS X-Ray now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-x-ray-now-supports-vpc-endpoints/)
-- [Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency](https://aws.amazon.com/about-aws/whats-new/2021/05/enhancements-to-amazon-rekognition-text-detection-support-for-more-words-higher-accuracy-lower-latency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

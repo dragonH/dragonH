@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda Extensions are now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lambda-extensions-now-generally-available/)
+- [Amazon CloudWatch Logs service limits can now be managed with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-logs-service-limits-can-now-be-managed-with-aws-service-quotas/)
 - [Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-m5zn-instances-high-frequency-processors-100-gbps-networking-are-available-in-asia-pacific-seoul/)
 - [Announcing Amazon Forecast Weather Index for South America](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-forecast-weather-index-for-south-america/)
 - [Amazon Forecast now supports generating predictions for 5X more items using 3X more historic data points](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-forecast-now-supports-generating-predictions-for-more-items-using-more-historic-data-points/)
@@ -66,8 +68,6 @@
 - [AWS X-Ray now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-x-ray-now-supports-vpc-endpoints/)
 - [Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency](https://aws.amazon.com/about-aws/whats-new/2021/05/enhancements-to-amazon-rekognition-text-detection-support-for-more-words-higher-accuracy-lower-latency/)
 - [Manage Amazon Keyspaces (for Apache Cassandra) service quotas through the Service Quotas console](https://aws.amazon.com/about-aws/whats-new/2021/05/manage-amazon-keyspaces--for-apache-cassandra--service-quotas-th/)
-- [AWS App2Container now supports deployment of containerized applications to AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-app2container-supports-deployment-of-containerized-applications-to-aws-app-runner/)
-- [Amazon Lex now supports resource-based policies for bots and aliases](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lex-now-supports-resource-based-policies-for-bots-and-aliases/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

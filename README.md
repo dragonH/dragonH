@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lumberyard Beta 1.28 is Now Available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lumberyard-beta-1-28-is-now-available/)
 - [AWS Lambda Extensions are now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lambda-extensions-now-generally-available/)
 - [Amazon CloudWatch Logs service limits can now be managed with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-logs-service-limits-can-now-be-managed-with-aws-service-quotas/)
 - [Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-m5zn-instances-high-frequency-processors-100-gbps-networking-are-available-in-asia-pacific-seoul/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for Oracle now supports April 2021 Release Updates (RU)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-now-supports-april-2021-release-updates-ru/)
 - [AWS X-Ray now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-x-ray-now-supports-vpc-endpoints/)
 - [Announcing enhancements to Amazon Rekognition text detection - support for more words, higher accuracy, and lower latency](https://aws.amazon.com/about-aws/whats-new/2021/05/enhancements-to-amazon-rekognition-text-detection-support-for-more-words-higher-accuracy-lower-latency/)
-- [Manage Amazon Keyspaces (for Apache Cassandra) service quotas through the Service Quotas console](https://aws.amazon.com/about-aws/whats-new/2021/05/manage-amazon-keyspaces--for-apache-cassandra--service-quotas-th/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

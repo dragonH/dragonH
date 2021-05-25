@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Fleet Hub for AWS IoT Device Management, a new, easy way to monitor & interact with IoT device fleets, is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/fleet-hub-monitor-interact-iot-device-fleets-now-generally-available/)
+- [AWS IoT Device Management launches Job Templates in Preview to make deployment of fleet-wide remote operations faster, easier, and more secure](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-iot-device-management-launches-job-templates-in-preview/)
+- [AWS Transfer Family now supports Microsoft Active Directory](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transfer-family-now-supports-microsoft-active-directory/)
 - [Amazon SageMaker Pipelines is now integrated with Amazon SageMaker Experiments](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-pipelines-now-integrated-amazon-sagemaker-experiments/)
 - [Amazon MSK adds support for Apache Kafka version 2.7.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-msk-adds-support-for-apache-kafka-version-2-7-1/)
 - [Updated classroom course: Migrating to AWS](https://aws.amazon.com/about-aws/whats-new/2021/05/updated-classroom-course-migrating-to-aws/)
@@ -65,9 +68,6 @@
 - [AWS Data Exchange now supports custom payment schedules for private offers](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-exchange-now-supports-custom-payment-schedules-for-private-offers/)
 - [AWS Compute Optimizer enhances EC2 instance type recommendations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-enhances-ec2-instance-type-recommendations/)
 - [AWS Outposts launches support for EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-outposts-launches-support-for-ec2-capacity-reservations/)
-- [Amazon EMR now supports Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-now-supports-amazon-ec2-on-demand-capacity-reservations/)
-- [Amazon Lumberyard Beta 1.28 is Now Available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lumberyard-beta-1-28-is-now-available/)
-- [AWS Lambda Extensions are now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lambda-extensions-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

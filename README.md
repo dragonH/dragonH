@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Pipelines is now integrated with Amazon SageMaker Experiments](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-pipelines-now-integrated-amazon-sagemaker-experiments/)
+- [Amazon MSK adds support for Apache Kafka version 2.7.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-msk-adds-support-for-apache-kafka-version-2-7-1/)
 - [Updated classroom course: Migrating to AWS](https://aws.amazon.com/about-aws/whats-new/2021/05/updated-classroom-course-migrating-to-aws/)
 - [Amazon Braket introduces quantum circuit noise simulator, DM1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-braket-introduces-quantum-circuit-noise-simulator-dm1/)
 - [AWS Data Exchange now supports custom payment schedules for private offers](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-exchange-now-supports-custom-payment-schedules-for-private-offers/)
@@ -66,8 +68,6 @@
 - [Amazon EMR now supports Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-now-supports-amazon-ec2-on-demand-capacity-reservations/)
 - [Amazon Lumberyard Beta 1.28 is Now Available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lumberyard-beta-1-28-is-now-available/)
 - [AWS Lambda Extensions are now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-lambda-extensions-now-generally-available/)
-- [Amazon CloudWatch Logs service limits can now be managed with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-logs-service-limits-can-now-be-managed-with-aws-service-quotas/)
-- [Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-m5zn-instances-high-frequency-processors-100-gbps-networking-are-available-in-asia-pacific-seoul/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

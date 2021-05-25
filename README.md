@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Data Exchange now supports custom payment schedules for private offers](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-data-exchange-now-supports-custom-payment-schedules-for-private-offers/)
 - [AWS Compute Optimizer enhances EC2 instance type recommendations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-compute-optimizer-enhances-ec2-instance-type-recommendations/)
 - [AWS Outposts launches support for EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-outposts-launches-support-for-ec2-capacity-reservations/)
 - [Amazon EMR now supports Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-now-supports-amazon-ec2-on-demand-capacity-reservations/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M5zn instances, with high frequency processors and 100 Gbps networking are now available in Asia Pacific (Seoul)](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-ec2-m5zn-instances-high-frequency-processors-100-gbps-networking-are-available-in-asia-pacific-seoul/)
 - [Announcing Amazon Forecast Weather Index for South America](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-forecast-weather-index-for-south-america/)
 - [Amazon Forecast now supports generating predictions for 5X more items using 3X more historic data points](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-forecast-now-supports-generating-predictions-for-more-items-using-more-historic-data-points/)
-- [Amazon Elastic File System now supports longer resource identifiers](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elastic-file-system-supports-longer-resource-identifiers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces (for Apache Cassandra) is now HIPAA eligible to help you run healthcare workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-keyspaces--for-apache-cassandra--is-now-hipaa-eligible-to/)
 - [Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.0](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-managed-workflows-for-apache-airflow-mwaa-now-supports-apache-airflow/)
 - [AWS Certificate Manager Private Certificate Authority now supports storing CRLs in private S3 buckets](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-supports-storing-crls-in-private-s3-buckets/)
 - [Amazon EMR 6.3 release version now supports Apache Spark 3.1.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-6-3-release-version-now-supports-apache-spark-3-1-1/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora MySQL Improves Availability of Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-improves-availability-read-replicas/)
 - [Amazon Aurora with MySQL Compatibility Supports T3.large Instances](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-compatibility-supports-t3-large-instances/)
 - [Amazon AppFlow now expands its features with Marketo](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-appflow-now-expands-its-features-with-marketo/)
-- [AWS Database Migration Service now supports PostgreSQL version 13 in preview mode](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-now-supports-postgresql-version-13-in-preview-mode/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

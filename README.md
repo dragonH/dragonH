@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.0](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-managed-workflows-for-apache-airflow-mwaa-now-supports-apache-airflow/)
+- [AWS Certificate Manager Private Certificate Authority now supports storing CRLs in private S3 buckets](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-supports-storing-crls-in-private-s3-buckets/)
+- [Amazon EMR 6.3 release version now supports Apache Spark 3.1.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-6-3-release-version-now-supports-apache-spark-3-1-1/)
 - [AWS Security Hub now supports bidirectional integration with Atlassian Jira Service Management](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-security-hub-supports-bidirectional-integration-with-atlassian-jira-service-management/)
 - [Amazon MQ for RabbitMQ is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-mq-for-rabbitmq-is-now-available-in-amazon-web-services-china-regions/)
 - [New self-paced courses for cloud procurement, .NET, and Amazon CodeGuru available](https://aws.amazon.com/about-aws/whats-new/2021/05/new-self-paced-courses-for-cloud-procurement-NET-and-amazon-codeguru-available/)
@@ -65,9 +68,6 @@
 - [Amazon Aurora with MySQL Compatibility Supports T3.large Instances](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-compatibility-supports-t3-large-instances/)
 - [Amazon AppFlow now expands its features with Marketo](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-appflow-now-expands-its-features-with-marketo/)
 - [AWS Database Migration Service now supports PostgreSQL version 13 in preview mode](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-database-migration-service-now-supports-postgresql-version-13-in-preview-mode/)
-- [AWS Transit Gateway Network Manager is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-transit-gateway-network-manager-available-aws-govcloud-us-regions/)
-- [Amazon RDS for Oracle supports multitenant container database](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-oracle-supports-multitenant-container-database/)
-- [Announcing general availability of AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-general-availability-of-aws-application-migration-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

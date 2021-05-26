@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 High Memory instances with up to 12TB of memory are now available in two additional regions with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2021/05/ec2-high-memory-instances-to-12tb-memory-available-additional-regions-with-on-demand-savings-plan-purchase-options/)
 - [Amazon Keyspaces (for Apache Cassandra) is now HIPAA eligible to help you run healthcare workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-keyspaces--for-apache-cassandra--is-now-hipaa-eligible-to/)
 - [Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.0](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-managed-workflows-for-apache-airflow-mwaa-now-supports-apache-airflow/)
 - [AWS Certificate Manager Private Certificate Authority now supports storing CRLs in private S3 buckets](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-supports-storing-crls-in-private-s3-buckets/)
@@ -67,7 +68,6 @@
 - [New self-paced courses for cloud procurement, .NET, and Amazon CodeGuru available](https://aws.amazon.com/about-aws/whats-new/2021/05/new-self-paced-courses-for-cloud-procurement-NET-and-amazon-codeguru-available/)
 - [Amazon Aurora MySQL Improves Availability of Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-improves-availability-read-replicas/)
 - [Amazon Aurora with MySQL Compatibility Supports T3.large Instances](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-aurora-mysql-compatibility-supports-t3-large-instances/)
-- [Amazon AppFlow now expands its features with Marketo](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-appflow-now-expands-its-features-with-marketo/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

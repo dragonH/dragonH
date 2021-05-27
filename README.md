@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly Launches a new Korean Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-polly-launches-a-new-korean-neural-text-to-speech-voice/)
 - [Amazon API Gateway REST APIs integrates with Step Functions Synchronous Express Workflows](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-rest-apis-integrates-with-step-funtions-synchronous-express-workflows/)
 - [AWS Wavelength is now System and Organization Controls (SOC) compliant](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-wavelength-is-now-system-and-organization-controls-soc-compliant/)
 - [Amazon Elastic Container Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elastic-container-service-anywhere-is-now-generally-available/)
@@ -67,7 +68,6 @@
 - [Amazon Keyspaces (for Apache Cassandra) is now HIPAA eligible to help you run healthcare workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-keyspaces--for-apache-cassandra--is-now-hipaa-eligible-to/)
 - [Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.0](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-managed-workflows-for-apache-airflow-mwaa-now-supports-apache-airflow/)
 - [AWS Certificate Manager Private Certificate Authority now supports storing CRLs in private S3 buckets](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-certificate-manager-private-certificate-authority-supports-storing-crls-in-private-s3-buckets/)
-- [Amazon EMR 6.3 release version now supports Apache Spark 3.1.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-6-3-release-version-now-supports-apache-spark-3-1-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

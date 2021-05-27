@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SQS Now Supports a High Throughput Mode for FIFO Queues](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sqs-now-supports-a-high-throughput-mode-for-fifo-queues/)
+- [Alarms feature now generally available for AWS IoT SiteWise and AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/05/alarms-feature-now-generally-available-for-aws-iot-sitewise-and-aws-iot-events/)
+- [Amazon CloudWatch Synthetics is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-is-now-available-in-the-aws-asia-pacific-osaka-region/)
+- [Amazon Kendra releases Query Suggestions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kendra-releases-query-suggestions/)
+- [AWS Glue DataBrew adds new nest and unnest transformations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-glue-databrew-adds-new-nest-and-unnest-transformations/)
 - [AWS announces general availability of Amazon Redshift ML](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/)
 - [Amazon Polly Launches a new Korean Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-polly-launches-a-new-korean-neural-text-to-speech-voice/)
 - [Amazon API Gateway REST APIs integrates with Step Functions Synchronous Express Workflows](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-rest-apis-integrates-with-step-funtions-synchronous-express-workflows/)
 - [AWS Wavelength is now System and Organization Controls (SOC) compliant](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-wavelength-is-now-system-and-organization-controls-soc-compliant/)
 - [Amazon Elastic Container Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-elastic-container-service-anywhere-is-now-generally-available/)
-- [Announcing Amazon Kinesis Data Analytics Studio: Interactively query data streams and develop stream processing applications powered by Apache Flink](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kinesis-data-analytics-studio-query-data-streams-develop-stream-processing-applications/)
-- [Amazon Lightsail DNS now supports pointing root domains to Lightsail Container Services](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-lightsail-dns-supports-pointing-root-domains-lightsail-container-services/)
-- [EC2 High Memory instances with up to 12TB of memory are now available in two additional regions with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2021/05/ec2-high-memory-instances-to-12tb-memory-available-additional-regions-with-on-demand-savings-plan-purchase-options/)
-- [Amazon Keyspaces (for Apache Cassandra) is now HIPAA eligible to help you run healthcare workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-keyspaces--for-apache-cassandra--is-now-hipaa-eligible-to/)
-- [Amazon Managed Workflows for Apache Airflow (MWAA) now supports Apache Airflow version 2.0](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-managed-workflows-for-apache-airflow-mwaa-now-supports-apache-airflow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

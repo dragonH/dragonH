@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS App Runner Integration in the AWS Toolkit for JetBrains IDEs](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-aws-app-runner-integration-in-the-aws-toolkit-for-jetbrains-ides/)
 - [Amazon FSx for Lustre now supports data compression](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-fsx-for-lustre-now-supports-data-compression/)
 - [Amazon SQS Now Supports a High Throughput Mode for FIFO Queues](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sqs-now-supports-a-high-throughput-mode-for-fifo-queues/)
 - [Alarms feature now generally available for AWS IoT SiteWise and AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/05/alarms-feature-now-generally-available-for-aws-iot-sitewise-and-aws-iot-events/)
@@ -67,7 +68,6 @@
 - [AWS announces general availability of Amazon Redshift ML](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/)
 - [Amazon Polly Launches a new Korean Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-polly-launches-a-new-korean-neural-text-to-speech-voice/)
 - [Amazon API Gateway REST APIs integrates with Step Functions Synchronous Express Workflows](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-rest-apis-integrates-with-step-funtions-synchronous-express-workflows/)
-- [AWS Wavelength is now System and Organization Controls (SOC) compliant](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-wavelength-is-now-system-and-organization-controls-soc-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

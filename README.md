@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon CloudWatch Resource Health](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-cloudwatch-resource-health/)
+- [Amazon SageMaker Autopilot adds automatic cross validation to improve model quality on smaller datasets by up to 35%](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-autopilot-adds-automatic-cross-validation-to-im/)
 - [AWS Launch Wizard adds support for SQL Server Always On Failover Cluster Instances deployed on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/)
 - [Amazon CloudWatch Logs announces Dimension support for Metric Filters](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-logs-announces-dimension-support-for-metric-filters/)
 - [Introducing AWS App Runner Integration in the AWS Toolkit for JetBrains IDEs](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-aws-app-runner-integration-in-the-aws-toolkit-for-jetbrains-ides/)
@@ -66,8 +68,6 @@
 - [Alarms feature now generally available for AWS IoT SiteWise and AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/05/alarms-feature-now-generally-available-for-aws-iot-sitewise-and-aws-iot-events/)
 - [Amazon CloudWatch Synthetics is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-is-now-available-in-the-aws-asia-pacific-osaka-region/)
 - [Amazon Kendra releases Query Suggestions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kendra-releases-query-suggestions/)
-- [AWS Glue DataBrew adds new nest and unnest transformations](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-glue-databrew-adds-new-nest-and-unnest-transformations/)
-- [AWS announces general availability of Amazon Redshift ML](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

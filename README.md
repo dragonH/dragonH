@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports April 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-supports-april-2021-patch-set-update-for-oracle-database-12-1/)
 - [Announcing Amazon CloudWatch Resource Health](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-cloudwatch-resource-health/)
 - [Amazon SageMaker Autopilot adds automatic cross validation to improve model quality on smaller datasets by up to 35%](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-autopilot-adds-automatic-cross-validation-to-im/)
 - [AWS Launch Wizard adds support for SQL Server Always On Failover Cluster Instances deployed on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/)
@@ -67,7 +68,6 @@
 - [Amazon SQS Now Supports a High Throughput Mode for FIFO Queues](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sqs-now-supports-a-high-throughput-mode-for-fifo-queues/)
 - [Alarms feature now generally available for AWS IoT SiteWise and AWS IoT Events](https://aws.amazon.com/about-aws/whats-new/2021/05/alarms-feature-now-generally-available-for-aws-iot-sitewise-and-aws-iot-events/)
 - [Amazon CloudWatch Synthetics is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-synthetics-is-now-available-in-the-aws-asia-pacific-osaka-region/)
-- [Amazon Kendra releases Query Suggestions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-kendra-releases-query-suggestions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

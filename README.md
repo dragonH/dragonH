@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-now-supports-customer-managed-customer-master-k/)
 - [Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sns-now-supports-sms-sandbox-and-displays-available-origination-ids-in-your-account/)
 - [AWS WAF and AWS Shield Advanced are available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-and-aws-shield-advanced-are-available-in-asia-pacific-osaka/)
 - [Amazon Location Service is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-location-service-is-now-generally-available/)
@@ -67,7 +68,6 @@
 - [New AWS Solutions Implementation: Disaster Recovery for AWS IoT](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation--disaster-recovery-for-aws-iot/)
 - [Amazon QLDB supports IAM-based access policy for PartiQL queries and ledger tables](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-supports-iam-based-access-policy-for-partiql-queries-and-ledger-tables/)
 - [NICE DCV releases version 2021.1 with accurate audio/video synchronization](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-version-2021-1-with-accurate-audio-video-synchronization/)
-- [NICE DCV releases web client SDK 1.0.1](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-web-client-sdk-1-0-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

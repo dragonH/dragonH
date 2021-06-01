@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sns-now-supports-sms-sandbox-and-displays-available-origination-ids-in-your-account/)
+- [AWS WAF and AWS Shield Advanced are available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-and-aws-shield-advanced-are-available-in-asia-pacific-osaka/)
+- [Amazon Location Service is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-location-service-is-now-generally-available/)
+- [Amazon API Gateway now supports synchronous invocations of Express Workflows using REST APIs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-now-supports-synchronous-invocations-of-express-workflows-using-rest-apis/)
+- [Amazon Polly Launches a new Canadian French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-canadian-french-neural-text-to-speech-voice/)
+- [Amazon CloudWatch adds Control Plane API Usage Metrics across AWS Services](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-adds-control-plane-api-usage-metrics-across-aws-services/)
 - [New AWS Solutions Implementation: Disaster Recovery for AWS IoT](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation--disaster-recovery-for-aws-iot/)
 - [Amazon QLDB supports IAM-based access policy for PartiQL queries and ledger tables](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-supports-iam-based-access-policy-for-partiql-queries-and-ledger-tables/)
 - [NICE DCV releases version 2021.1 with accurate audio/video synchronization](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-version-2021-1-with-accurate-audio-video-synchronization/)
 - [NICE DCV releases web client SDK 1.0.1](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-web-client-sdk-1-0-1/)
-- [Amazon RDS for Oracle now supports April 2021 Patch Set Update (PSU) for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-oracle-supports-april-2021-patch-set-update-for-oracle-database-12-1/)
-- [Announcing Amazon CloudWatch Resource Health](https://aws.amazon.com/about-aws/whats-new/2021/05/announcing-amazon-cloudwatch-resource-health/)
-- [Amazon SageMaker Autopilot adds automatic cross validation to improve model quality on smaller datasets by up to 35%](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-autopilot-adds-automatic-cross-validation-to-im/)
-- [AWS Launch Wizard adds support for SQL Server Always On Failover Cluster Instances deployed on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-launch-wizard-adds-support-for-sql-server-always-on-failover-cluster-instances-deployed-on-amazon-fsx-for-windows-file-server/)
-- [Amazon CloudWatch Logs announces Dimension support for Metric Filters](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-logs-announces-dimension-support-for-metric-filters/)
-- [Introducing AWS App Runner Integration in the AWS Toolkit for JetBrains IDEs](https://aws.amazon.com/about-aws/whats-new/2021/05/introducing-aws-app-runner-integration-in-the-aws-toolkit-for-jetbrains-ides/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

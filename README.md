@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New digital course: Improve Code Quality with Amazon CodeGuru Reviewer](https://aws.amazon.com/about-aws/whats-new/2021/06/new-digital-course-improve-code-quality-with-amazon-codeguru-reviewer/)
+- [Amazon WorkSpaces Cost Optimizer v2.3 adds support for existing VPCs and improves billing accuracy and reporting](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-workspaces-cost-optimizer-v2-3-adds-support-for-existing-vpcs-improves-billing-accuracy-reporting/)
 - [Amazon Keyspaces is now in scope for AWS SOC Reports to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-is-now-in-scope-for-aws-soc-reports-to-help-you/)
 - [Amazon EKS pods running on AWS Fargate now support custom security groups](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-eks-pods-running-aws-fargate-support-custom-security-groups/)
 - [Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-now-supports-customer-managed-customer-master-k/)
@@ -66,8 +68,6 @@
 - [Amazon Location Service is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-location-service-is-now-generally-available/)
 - [Amazon API Gateway now supports synchronous invocations of Express Workflows using REST APIs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-now-supports-synchronous-invocations-of-express-workflows-using-rest-apis/)
 - [Amazon Polly Launches a new Canadian French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-canadian-french-neural-text-to-speech-voice/)
-- [Amazon CloudWatch adds Control Plane API Usage Metrics across AWS Services](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-adds-control-plane-api-usage-metrics-across-aws-services/)
-- [New AWS Solutions Implementation: Disaster Recovery for AWS IoT](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation--disaster-recovery-for-aws-iot/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

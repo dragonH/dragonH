@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces is now in scope for AWS SOC Reports to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-is-now-in-scope-for-aws-soc-reports-to-help-you/)
+- [Amazon EKS pods running on AWS Fargate now support custom security groups](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-eks-pods-running-aws-fargate-support-custom-security-groups/)
 - [Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-now-supports-customer-managed-customer-master-k/)
 - [Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sns-now-supports-sms-sandbox-and-displays-available-origination-ids-in-your-account/)
 - [AWS WAF and AWS Shield Advanced are available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-and-aws-shield-advanced-are-available-in-asia-pacific-osaka/)
@@ -66,8 +68,6 @@
 - [Amazon Polly Launches a new Canadian French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-canadian-french-neural-text-to-speech-voice/)
 - [Amazon CloudWatch adds Control Plane API Usage Metrics across AWS Services](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-cloudwatch-adds-control-plane-api-usage-metrics-across-aws-services/)
 - [New AWS Solutions Implementation: Disaster Recovery for AWS IoT](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation--disaster-recovery-for-aws-iot/)
-- [Amazon QLDB supports IAM-based access policy for PartiQL queries and ledger tables](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-supports-iam-based-access-policy-for-partiql-queries-and-ledger-tables/)
-- [NICE DCV releases version 2021.1 with accurate audio/video synchronization](https://aws.amazon.com/about-aws/whats-new/2021/06/nice-dcv-releases-version-2021-1-with-accurate-audio-video-synchronization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

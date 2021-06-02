@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-new-minor-versions-in-aws-govcloud-us-regions/)
+- [Amazon Cognito now supports SMS Sandbox from Amazon SNS](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-now-supports-sms-sandbox-from-amazon-sns/)
 - [New digital course: Improve Code Quality with Amazon CodeGuru Reviewer](https://aws.amazon.com/about-aws/whats-new/2021/06/new-digital-course-improve-code-quality-with-amazon-codeguru-reviewer/)
 - [Amazon WorkSpaces Cost Optimizer v2.3 adds support for existing VPCs and improves billing accuracy and reporting](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-workspaces-cost-optimizer-v2-3-adds-support-for-existing-vpcs-improves-billing-accuracy-reporting/)
 - [Amazon Keyspaces is now in scope for AWS SOC Reports to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-is-now-in-scope-for-aws-soc-reports-to-help-you/)
@@ -66,8 +68,6 @@
 - [Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sns-now-supports-sms-sandbox-and-displays-available-origination-ids-in-your-account/)
 - [AWS WAF and AWS Shield Advanced are available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-and-aws-shield-advanced-are-available-in-asia-pacific-osaka/)
 - [Amazon Location Service is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-location-service-is-now-generally-available/)
-- [Amazon API Gateway now supports synchronous invocations of Express Workflows using REST APIs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-api-gateway-now-supports-synchronous-invocations-of-express-workflows-using-rest-apis/)
-- [Amazon Polly Launches a new Canadian French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-canadian-french-neural-text-to-speech-voice/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

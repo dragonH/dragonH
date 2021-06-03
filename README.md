@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition Custom Labels adds support for deploying models via the Console](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rekognition-custom-labels-adds-support-for-deploying-models-via-the-console/)
 - [Announcing Global Clusters for Amazon DocumentDB (with MongoDB compatibility)](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-global-clusters-for-amazon-documentdb-with-mongodb-compatibility/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-new-minor-versions-in-aws-govcloud-us-regions/)
 - [Amazon Cognito now supports SMS Sandbox from Amazon SNS](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-now-supports-sms-sandbox-from-amazon-sns/)
@@ -67,7 +68,6 @@
 - [Amazon EKS pods running on AWS Fargate now support custom security groups](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-eks-pods-running-aws-fargate-support-custom-security-groups/)
 - [Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-now-supports-customer-managed-customer-master-k/)
 - [Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sns-now-supports-sms-sandbox-and-displays-available-origination-ids-in-your-account/)
-- [AWS WAF and AWS Shield Advanced are available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-and-aws-shield-advanced-are-available-in-asia-pacific-osaka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

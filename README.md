@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway Updates Service Level Agreement to 99.99%](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-transit-gateway-updates-service-level-agreement/)
 - [Identify and Copy existing objects to use S3 Bucket Keys, reducing the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)](https://aws.amazon.com/about-aws/whats-new/2021/06/identify-and-copy-existing-objects-to-use-s3-bucket-keys-reducing-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/)
 - [AWS Lambda Extensions are now Generally Available in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-extensions-are-now-generally-available-in-all-commercial-regions/)
 - [Amazon GameLift Adds SDK Support and Updates for Unreal 4.26](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-adds-sdk-support-and-updates-for-unreal/)
@@ -67,7 +68,6 @@
 - [Amazon Cognito now supports SMS Sandbox from Amazon SNS](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-now-supports-sms-sandbox-from-amazon-sns/)
 - [New digital course: Improve Code Quality with Amazon CodeGuru Reviewer](https://aws.amazon.com/about-aws/whats-new/2021/06/new-digital-course-improve-code-quality-with-amazon-codeguru-reviewer/)
 - [Amazon WorkSpaces Cost Optimizer v2.3 adds support for existing VPCs and improves billing accuracy and reporting](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-workspaces-cost-optimizer-v2-3-adds-support-for-existing-vpcs-improves-billing-accuracy-reporting/)
-- [Amazon Keyspaces is now in scope for AWS SOC Reports to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-is-now-in-scope-for-aws-soc-reports-to-help-you/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

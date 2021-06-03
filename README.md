@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Identify and Copy existing objects to use S3 Bucket Keys, reducing the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)](https://aws.amazon.com/about-aws/whats-new/2021/06/identify-and-copy-existing-objects-to-use-s3-bucket-keys-reducing-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/)
+- [AWS Lambda Extensions are now Generally Available in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-extensions-are-now-generally-available-in-all-commercial-regions/)
+- [Amazon GameLift Adds SDK Support and Updates for Unreal 4.26](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-adds-sdk-support-and-updates-for-unreal/)
 - [Amazon Rekognition Custom Labels adds support for deploying models via the Console](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rekognition-custom-labels-adds-support-for-deploying-models-via-the-console/)
 - [Announcing Global Clusters for Amazon DocumentDB (with MongoDB compatibility)](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-global-clusters-for-amazon-documentdb-with-mongodb-compatibility/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-new-minor-versions-in-aws-govcloud-us-regions/)
@@ -65,9 +68,6 @@
 - [New digital course: Improve Code Quality with Amazon CodeGuru Reviewer](https://aws.amazon.com/about-aws/whats-new/2021/06/new-digital-course-improve-code-quality-with-amazon-codeguru-reviewer/)
 - [Amazon WorkSpaces Cost Optimizer v2.3 adds support for existing VPCs and improves billing accuracy and reporting](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-workspaces-cost-optimizer-v2-3-adds-support-for-existing-vpcs-improves-billing-accuracy-reporting/)
 - [Amazon Keyspaces is now in scope for AWS SOC Reports to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-is-now-in-scope-for-aws-soc-reports-to-help-you/)
-- [Amazon EKS pods running on AWS Fargate now support custom security groups](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-eks-pods-running-aws-fargate-support-custom-security-groups/)
-- [Amazon Keyspaces now supports customer managed customer master keys (CMKs) for encryption of data at rest to help you meet your compliance and regulatory requirements](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces-now-supports-customer-managed-customer-master-k/)
-- [Amazon SNS now supports SMS Sandbox and displays available origination IDs in your account](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sns-now-supports-sms-sandbox-and-displays-available-origination-ids-in-your-account/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

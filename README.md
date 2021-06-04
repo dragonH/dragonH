@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backint Agent version 1.04 now available](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backint-agent-version-1-04-now-available/)
 - [Amazon RDS for SQL Server now supports Business Intelligence Suite in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-sql-server-supports-business-intelligence-suite-in-aws-govcloud-us-regions/)
 - [AWS Security Hub adds 16 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-security-hub-adds-16-new-controls-to-its-foundational-securi/)
 - [Amazon SageMaker model registry now supports rollback of deployed models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-model-registry-now-supports-rollback-of-deployed-models/)
@@ -67,7 +68,6 @@
 - [AWS Transit Gateway Updates Service Level Agreement to 99.99%](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-transit-gateway-updates-service-level-agreement/)
 - [Identify and Copy existing objects to use S3 Bucket Keys, reducing the costs of Server-Side Encryption with AWS Key Management Service (SSE-KMS)](https://aws.amazon.com/about-aws/whats-new/2021/06/identify-and-copy-existing-objects-to-use-s3-bucket-keys-reducing-the-costs-of-server-side-encryption-with-aws-key-management-service-sse-kms/)
 - [AWS Lambda Extensions are now Generally Available in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-extensions-are-now-generally-available-in-all-commercial-regions/)
-- [Amazon GameLift Adds SDK Support and Updates for Unreal 4.26](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-adds-sdk-support-and-updates-for-unreal/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Studio is now available in 13 regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-studio-is-now-available-in-13-regions/)
 - [Amazon CloudWatch releases a C# client library for Embedded Metric Format](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cloudwatch-releases-a-c-client-library-for-embedded-metric-format/)
 - [Announcing R5d instances and lookup cache for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-r5d-instances-and-lookup-cache-for-amazon-neptune/)
 - [AWS Glue Studio now allows you to specify streaming ETL job settings](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-glue-studio-now-allows-you-to-specify-streaming-etl-job-settings/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub adds 16 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-security-hub-adds-16-new-controls-to-its-foundational-securi/)
 - [Amazon SageMaker model registry now supports rollback of deployed models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-model-registry-now-supports-rollback-of-deployed-models/)
 - [AWS Systems Manager Session Manager plugin for the AWS CLI is now open source](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-session-manager-plugin-for-the-aws-cli-is-now-opensource/)
-- [New LoRaWAN gateway management features generally available for AWS IoT Core for LoRaWAN](https://aws.amazon.com/about-aws/whats-new/2021/06/new-lorawan-gateway-management-features-generally-available-for-aws-iot-core-for-lorawan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

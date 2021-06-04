@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds 16 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-security-hub-adds-16-new-controls-to-its-foundational-securi/)
+- [Amazon SageMaker model registry now supports rollback of deployed models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-model-registry-now-supports-rollback-of-deployed-models/)
 - [AWS Systems Manager Session Manager plugin for the AWS CLI is now open source](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-session-manager-plugin-for-the-aws-cli-is-now-opensource/)
 - [New LoRaWAN gateway management features generally available for AWS IoT Core for LoRaWAN](https://aws.amazon.com/about-aws/whats-new/2021/06/new-lorawan-gateway-management-features-generally-available-for-aws-iot-core-for-lorawan/)
 - [AWS Solutions Implementation - AWS MLOps Framework adds multi-account support to help improve governance and security of ML workloads](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-solutions-implementation-aws-mlops-framework-adds-multi-account-support-to-help-improve-governance-and-security-of-ml-workloads/)
@@ -66,8 +68,6 @@
 - [AWS Lambda Extensions are now Generally Available in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-extensions-are-now-generally-available-in-all-commercial-regions/)
 - [Amazon GameLift Adds SDK Support and Updates for Unreal 4.26](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-adds-sdk-support-and-updates-for-unreal/)
 - [Amazon Rekognition Custom Labels adds support for deploying models via the Console](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rekognition-custom-labels-adds-support-for-deploying-models-via-the-console/)
-- [Announcing Global Clusters for Amazon DocumentDB (with MongoDB compatibility)](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-global-clusters-for-amazon-documentdb-with-mongodb-compatibility/)
-- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.2, 12.6, 11.11, 10.16, 9.6.21, and 9.5.25 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-new-minor-versions-in-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/20) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-2. ❗️ Opened issue [#424](https://github.com/awslabs/aws-athena-query-federation/issues/424) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-3. 🎉 Merged PR [#19](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/19) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-4. 🎉 Merged PR [#18](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/18) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-5. 🎉 Merged PR [#3](https://github.com/dragonH/happy-6-pm/pull/3) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+1. 🎉 Merged PR [#1](https://github.com/dragonH/sudoku-auto/pull/1) in [dragonH/sudoku-auto](https://github.com/dragonH/sudoku-auto)
+2. 🎉 Merged PR [#2](https://github.com/dragonH/automation-report/pull/2) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
+3. 🎉 Merged PR [#6](https://github.com/dragonH/Crawlers/pull/6) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+4. 🎉 Merged PR [#5](https://github.com/dragonH/Crawlers/pull/5) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+5. 🎉 Merged PR [#20](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/20) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
 <!--END_SECTION:activity-->
 
 </details>

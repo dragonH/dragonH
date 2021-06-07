@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Consulting Offer - Financial Services Security and Compliance Framework](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-consulting-offer-financial-security-and-compliance-framework/)
+- [AWS Glue Studio now includes a code editor for customizing your job scripts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-studio-now-includes-a-code-editor-for-customizing-your-job-scripts/)
 - [Amazon EMR Studio is now available in 13 regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-studio-is-now-available-in-13-regions/)
 - [Amazon CloudWatch releases a C# client library for Embedded Metric Format](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cloudwatch-releases-a-c-client-library-for-embedded-metric-format/)
 - [Announcing R5d instances and lookup cache for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-r5d-instances-and-lookup-cache-for-amazon-neptune/)
@@ -66,8 +68,6 @@
 - [AWS Backint Agent version 1.04 now available](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backint-agent-version-1-04-now-available/)
 - [Amazon RDS for SQL Server now supports Business Intelligence Suite in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-sql-server-supports-business-intelligence-suite-in-aws-govcloud-us-regions/)
 - [AWS Security Hub adds 16 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-security-hub-adds-16-new-controls-to-its-foundational-securi/)
-- [Amazon SageMaker model registry now supports rollback of deployed models](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-model-registry-now-supports-rollback-of-deployed-models/)
-- [AWS Systems Manager Session Manager plugin for the AWS CLI is now open source](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-session-manager-plugin-for-the-aws-cli-is-now-opensource/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

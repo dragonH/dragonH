@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager is now FedRAMP-High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-is-now-fedramp-high-compliant/)
+- [Amazon FSx for Windows File Server now supports file access auditing](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-fsx-for-windows-file-server-now-supports-file-access-auditing/)
 - [Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-r6g-instance-types-powered-awsgraviton2-processors-available-aws-govcloud-us-regions/)
 - [Amazon SageMaker Data Wrangler now supports Snowflake as a data source](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-data-wrangler-now-supports-snowflake-as-a-data-source/)
 - [Amazon MQ now supports ActiveMQ version 5.16.2](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-now-supports-activemq/)
@@ -66,8 +68,6 @@
 - [AWS Audit Manager is now available in the Asia Pacific (Mumbai) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-audit-manager--is-now-available-in-asia-pacific-mumbai-and-canada-central-regions/)
 - [New AWS Solutions Consulting Offer - Financial Services Security and Compliance Framework](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-consulting-offer-financial-security-and-compliance-framework/)
 - [Announcing new PostgreSQL 13.2, 13.1, and 12.6 version support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-new-postgresql-13-2-13-1-and-12-6-support-amazon-rds-on-aws-outposts/)
-- [AWS Glue Studio now includes a code editor for customizing your job scripts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-studio-now-includes-a-code-editor-for-customizing-your-job-scripts/)
-- [Amazon EMR Studio is now available in 13 regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-studio-is-now-available-in-13-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

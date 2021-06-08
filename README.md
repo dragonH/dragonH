@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS China (Beijing) Region Adds the Third Availability Zone](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-china-beijing-region-adds-the-third-availability-zone/)
 - [AWS Audit Manager is now available in the Asia Pacific (Mumbai) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-audit-manager--is-now-available-in-asia-pacific-mumbai-and-canada-central-regions/)
 - [New AWS Solutions Consulting Offer - Financial Services Security and Compliance Framework](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-consulting-offer-financial-security-and-compliance-framework/)
 - [Announcing new PostgreSQL 13.2, 13.1, and 12.6 version support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-new-postgresql-13-2-13-1-and-12-6-support-amazon-rds-on-aws-outposts/)
@@ -67,7 +68,6 @@
 - [Announcing R5d instances and lookup cache for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-r5d-instances-and-lookup-cache-for-amazon-neptune/)
 - [AWS Glue Studio now allows you to specify streaming ETL job settings](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-glue-studio-now-allows-you-to-specify-streaming-etl-job-settings/)
 - [Amazon Neptune simplifies in-console experience to help customers get started faster](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-neptune-simplifies-in-console-experience-to-help-customers-get-started-faster/)
-- [AWS Backint Agent version 1.04 now available](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backint-agent-version-1-04-now-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports ActiveMQ version 5.16.2](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-now-supports-activemq/)
+- [Amazon RDS M6g and R6g instances now available for MySQL, MariaDB, and PostgreSQL in AWS GovCloud (US), Asia Pacific (Seoul), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-m6g-and-r6g-instances-now-available-for-mysql-mariadb-and-postogresql-in-aws-govcloud-asia-pacific-and-europe-regions/)
 - [AWS China (Beijing) Region Adds the Third Availability Zone](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-china-beijing-region-adds-the-third-availability-zone/)
 - [AWS Audit Manager is now available in the Asia Pacific (Mumbai) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-audit-manager--is-now-available-in-asia-pacific-mumbai-and-canada-central-regions/)
 - [New AWS Solutions Consulting Offer - Financial Services Security and Compliance Framework](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-consulting-offer-financial-security-and-compliance-framework/)
@@ -66,8 +68,6 @@
 - [Amazon EMR Studio is now available in 13 regions](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-emr-studio-is-now-available-in-13-regions/)
 - [Amazon CloudWatch releases a C# client library for Embedded Metric Format](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cloudwatch-releases-a-c-client-library-for-embedded-metric-format/)
 - [Announcing R5d instances and lookup cache for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-r5d-instances-and-lookup-cache-for-amazon-neptune/)
-- [AWS Glue Studio now allows you to specify streaming ETL job settings](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-glue-studio-now-allows-you-to-specify-streaming-etl-job-settings/)
-- [Amazon Neptune simplifies in-console experience to help customers get started faster](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-neptune-simplifies-in-console-experience-to-help-customers-get-started-faster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

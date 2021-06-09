@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces the general availability of AWS Proton](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-the-general-availability-of-aws-proton/)
 - [Amazon Cognito is now available in the Middle East (Bahrain) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-is-now-available-in-the-middle-east-region/)
 - [Easily install and manage Amazon EFS utilities on your instances with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/06/easily-install-and-manage-amazon-efs-utilities-on-your-instances-with-quick-setup/)
 - [AWS Systems Manager is now FedRAMP-High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-is-now-fedramp-high-compliant/)
@@ -67,7 +68,6 @@
 - [Amazon MQ now supports ActiveMQ version 5.16.2](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-now-supports-activemq/)
 - [Amazon RDS M6g and R6g instances now available for MySQL, MariaDB, and PostgreSQL in AWS GovCloud (US), Asia Pacific (Seoul), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-m6g-and-r6g-instances-now-available-for-mysql-mariadb-and-postogresql-in-aws-govcloud-asia-pacific-and-europe-regions/)
 - [AWS China (Beijing) Region Adds the Third Availability Zone](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-china-beijing-region-adds-the-third-availability-zone/)
-- [AWS Audit Manager is now available in the Asia Pacific (Mumbai) and Canada (Central) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-audit-manager--is-now-available-in-asia-pacific-mumbai-and-canada-central-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

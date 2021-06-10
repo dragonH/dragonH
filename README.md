@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Removes NAT Gateway’s Dependence on Internet Gateway for Private Communications](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-removes-nat-gateways-dependence-on-internet-gateway-for-private-communications/)
+- [Amazon SageMaker Pipelines now supports callback capability](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-pipelines-now-supports-callback-capability/)
 - [AWS Transit Gateway adds Internet Group Management Protocol (IGMP) Multicast support in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-transit-gateway-adds-internet-group-management-protocol-igmp-multicast-support-in-additional-aws-regions/)
 - [Amazon Managed Blockchain now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-managed-blockchain-now-supports-customer-managed-customer-master-keys/)
 - [Amazon Athena engine version 2 is generally available in all AWS commercial and GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-athena-engine-version-2-is-generally-available-in-all-aws-commercial-govcloud-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Cognito is now available in the Middle East (Bahrain) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-is-now-available-in-the-middle-east-region/)
 - [Easily install and manage Amazon EFS utilities on your instances with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/06/easily-install-and-manage-amazon-efs-utilities-on-your-instances-with-quick-setup/)
 - [AWS Systems Manager is now FedRAMP-High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-is-now-fedramp-high-compliant/)
-- [Amazon FSx for Windows File Server now supports file access auditing](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-fsx-for-windows-file-server-now-supports-file-access-auditing/)
-- [Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-r6g-instance-types-powered-awsgraviton2-processors-available-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

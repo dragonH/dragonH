@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway adds Internet Group Management Protocol (IGMP) Multicast support in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-transit-gateway-adds-internet-group-management-protocol-igmp-multicast-support-in-additional-aws-regions/)
 - [Amazon Managed Blockchain now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-managed-blockchain-now-supports-customer-managed-customer-master-keys/)
 - [Amazon Athena engine version 2 is generally available in all AWS commercial and GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-athena-engine-version-2-is-generally-available-in-all-aws-commercial-govcloud-regions/)
 - [Amazon AppFlow now supports documents with Veeva](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appflow-now-supports-documents-with-veeva/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager is now FedRAMP-High Compliant](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-is-now-fedramp-high-compliant/)
 - [Amazon FSx for Windows File Server now supports file access auditing](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-fsx-for-windows-file-server-now-supports-file-access-auditing/)
 - [Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-r6g-instance-types-powered-awsgraviton2-processors-available-aws-govcloud-us-regions/)
-- [Amazon SageMaker Data Wrangler now supports Snowflake as a data source](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-data-wrangler-now-supports-snowflake-as-a-data-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

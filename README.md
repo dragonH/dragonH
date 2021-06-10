@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Blockchain now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-managed-blockchain-now-supports-customer-managed-customer-master-keys/)
+- [Amazon Athena engine version 2 is generally available in all AWS commercial and GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-athena-engine-version-2-is-generally-available-in-all-aws-commercial-govcloud-regions/)
 - [Amazon AppFlow now supports documents with Veeva](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appflow-now-supports-documents-with-veeva/)
 - [AWS announces the general availability of AWS Proton](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-the-general-availability-of-aws-proton/)
 - [Amazon Cognito is now available in the Middle East (Bahrain) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-is-now-available-in-the-middle-east-region/)
@@ -66,8 +68,6 @@
 - [Amazon FSx for Windows File Server now supports file access auditing](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-fsx-for-windows-file-server-now-supports-file-access-auditing/)
 - [Amazon Aurora R6g instance types, powered by AWS Graviton2 processors, now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-r6g-instance-types-powered-awsgraviton2-processors-available-aws-govcloud-us-regions/)
 - [Amazon SageMaker Data Wrangler now supports Snowflake as a data source](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-data-wrangler-now-supports-snowflake-as-a-data-source/)
-- [Amazon MQ now supports ActiveMQ version 5.16.2](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-now-supports-activemq/)
-- [Amazon RDS M6g and R6g instances now available for MySQL, MariaDB, and PostgreSQL in AWS GovCloud (US), Asia Pacific (Seoul), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-m6g-and-r6g-instances-now-available-for-mysql-mariadb-and-postogresql-in-aws-govcloud-asia-pacific-and-europe-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

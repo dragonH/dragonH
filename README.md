@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now supports documents with Veeva](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appflow-now-supports-documents-with-veeva/)
 - [AWS announces the general availability of AWS Proton](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-the-general-availability-of-aws-proton/)
 - [Amazon Cognito is now available in the Middle East (Bahrain) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-is-now-available-in-the-middle-east-region/)
 - [Easily install and manage Amazon EFS utilities on your instances with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/06/easily-install-and-manage-amazon-efs-utilities-on-your-instances-with-quick-setup/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Data Wrangler now supports Snowflake as a data source](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-data-wrangler-now-supports-snowflake-as-a-data-source/)
 - [Amazon MQ now supports ActiveMQ version 5.16.2](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-now-supports-activemq/)
 - [Amazon RDS M6g and R6g instances now available for MySQL, MariaDB, and PostgreSQL in AWS GovCloud (US), Asia Pacific (Seoul), and Europe (Stockholm) regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-m6g-and-r6g-instances-now-available-for-mysql-mariadb-and-postogresql-in-aws-govcloud-asia-pacific-and-europe-regions/)
-- [AWS China (Beijing) Region Adds the Third Availability Zone](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-china-beijing-region-adds-the-third-availability-zone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

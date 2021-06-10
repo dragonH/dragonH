@@ -89,10 +89,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#424](https://github.com/awslabs/aws-athena-query-federation/issues/424) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-2. 🎉 Merged PR [#1](https://github.com/dragonH/sudoku-auto/pull/1) in [dragonH/sudoku-auto](https://github.com/dragonH/sudoku-auto)
-3. 🎉 Merged PR [#2](https://github.com/dragonH/automation-report/pull/2) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
-4. 🎉 Merged PR [#6](https://github.com/dragonH/Crawlers/pull/6) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
-5. 🎉 Merged PR [#5](https://github.com/dragonH/Crawlers/pull/5) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+2. 🗣 Commented on [#424](https://github.com/awslabs/aws-athena-query-federation/issues/424) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+3. 🎉 Merged PR [#1](https://github.com/dragonH/sudoku-auto/pull/1) in [dragonH/sudoku-auto](https://github.com/dragonH/sudoku-auto)
+4. 🎉 Merged PR [#2](https://github.com/dragonH/automation-report/pull/2) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
+5. 🎉 Merged PR [#6](https://github.com/dragonH/Crawlers/pull/6) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
 <!--END_SECTION:activity-->
 
 </details>

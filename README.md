@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Read multiple records simultaneously from Amazon SageMaker Feature Store using the new BatchGetRecord API](https://aws.amazon.com/about-aws/whats-new/2021/06/read-multiple-records-simultaneously-amazon-sagemaker-feature-store-using-batchgetrecord-api/)
 - [Amazon Cognito now supports targeted sign out through refresh token revocation](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-now-supports-targeted-sign-out-through-refresh-token-revocation/)
 - [AWS Removes NAT Gateway’s Dependence on Internet Gateway for Private Communications](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-removes-nat-gateways-dependence-on-internet-gateway-for-private-communications/)
 - [Amazon SageMaker Pipelines now supports callback capability](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-pipelines-now-supports-callback-capability/)
@@ -67,7 +68,6 @@
 - [Amazon AppFlow now supports documents with Veeva](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appflow-now-supports-documents-with-veeva/)
 - [AWS announces the general availability of AWS Proton](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-the-general-availability-of-aws-proton/)
 - [Amazon Cognito is now available in the Middle East (Bahrain) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-is-now-available-in-the-middle-east-region/)
-- [Easily install and manage Amazon EFS utilities on your instances with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/06/easily-install-and-manage-amazon-efs-utilities-on-your-instances-with-quick-setup/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

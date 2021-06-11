@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/dragonH/movie-api/pull/7) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
-2. 🗣 Commented on [#424](https://github.com/awslabs/aws-athena-query-federation/issues/424) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+1. 🎉 Merged PR [#5](https://github.com/dragonH/pokecord_selfbot/pull/5) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
+2. 🎉 Merged PR [#7](https://github.com/dragonH/movie-api/pull/7) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
 3. 🗣 Commented on [#424](https://github.com/awslabs/aws-athena-query-federation/issues/424) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
-4. 🎉 Merged PR [#1](https://github.com/dragonH/sudoku-auto/pull/1) in [dragonH/sudoku-auto](https://github.com/dragonH/sudoku-auto)
-5. 🎉 Merged PR [#2](https://github.com/dragonH/automation-report/pull/2) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
+4. 🗣 Commented on [#424](https://github.com/awslabs/aws-athena-query-federation/issues/424) in [awslabs/aws-athena-query-federation](https://github.com/awslabs/aws-athena-query-federation)
+5. 🎉 Merged PR [#1](https://github.com/dragonH/sudoku-auto/pull/1) in [dragonH/sudoku-auto](https://github.com/dragonH/sudoku-auto)
 <!--END_SECTION:activity-->
 
 </details>

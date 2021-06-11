@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect adds support for input source selection and priority](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-mediaconnect-adds-support-for-input-source-selection-priority/)
+- [AWS Client VPN launches in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-in-aws-govcloud-us-regions/)
 - [Amazon Lex increases limits for Intents and Slot Types](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-increases-limits-for-intents-and-slot-types/)
 - [AWS Managed Microsoft Active Directory (AD) and AD Connector now support AD authentication with AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-directory-service-now-supports-active-directory-authentication-with-aws-transfer-family/)
 - [Read multiple records simultaneously from Amazon SageMaker Feature Store using the new BatchGetRecord API](https://aws.amazon.com/about-aws/whats-new/2021/06/read-multiple-records-simultaneously-amazon-sagemaker-feature-store-using-batchgetrecord-api/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Pipelines now supports callback capability](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-pipelines-now-supports-callback-capability/)
 - [AWS Transit Gateway adds Internet Group Management Protocol (IGMP) Multicast support in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-transit-gateway-adds-internet-group-management-protocol-igmp-multicast-support-in-additional-aws-regions/)
 - [Amazon Managed Blockchain now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-managed-blockchain-now-supports-customer-managed-customer-master-keys/)
-- [Amazon Athena engine version 2 is generally available in all AWS commercial and GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-athena-engine-version-2-is-generally-available-in-all-aws-commercial-govcloud-regions/)
-- [Amazon AppFlow now supports documents with Veeva](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appflow-now-supports-documents-with-veeva/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

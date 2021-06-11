@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 adds new AMI property to flag outdated AMIs](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-adds-new-ami-property-to-flag-outdated-amis/)
 - [AWS Elemental MediaConnect adds support for input source selection and priority](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-mediaconnect-adds-support-for-input-source-selection-priority/)
 - [AWS Client VPN launches in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-in-aws-govcloud-us-regions/)
 - [Amazon Lex increases limits for Intents and Slot Types](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-increases-limits-for-intents-and-slot-types/)
@@ -67,7 +68,6 @@
 - [AWS Removes NAT Gateway’s Dependence on Internet Gateway for Private Communications](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-removes-nat-gateways-dependence-on-internet-gateway-for-private-communications/)
 - [Amazon SageMaker Pipelines now supports callback capability](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-sagemaker-pipelines-now-supports-callback-capability/)
 - [AWS Transit Gateway adds Internet Group Management Protocol (IGMP) Multicast support in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-transit-gateway-adds-internet-group-management-protocol-igmp-multicast-support-in-additional-aws-regions/)
-- [Amazon Managed Blockchain now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-managed-blockchain-now-supports-customer-managed-customer-master-keys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

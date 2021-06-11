@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex increases limits for Intents and Slot Types](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-increases-limits-for-intents-and-slot-types/)
 - [AWS Managed Microsoft Active Directory (AD) and AD Connector now support AD authentication with AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-directory-service-now-supports-active-directory-authentication-with-aws-transfer-family/)
 - [Read multiple records simultaneously from Amazon SageMaker Feature Store using the new BatchGetRecord API](https://aws.amazon.com/about-aws/whats-new/2021/06/read-multiple-records-simultaneously-amazon-sagemaker-feature-store-using-batchgetrecord-api/)
 - [Amazon Cognito now supports targeted sign out through refresh token revocation](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-now-supports-targeted-sign-out-through-refresh-token-revocation/)
@@ -67,7 +68,6 @@
 - [Amazon Managed Blockchain now supports customer-managed customer master keys](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-managed-blockchain-now-supports-customer-managed-customer-master-keys/)
 - [Amazon Athena engine version 2 is generally available in all AWS commercial and GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-athena-engine-version-2-is-generally-available-in-all-aws-commercial-govcloud-regions/)
 - [Amazon AppFlow now supports documents with Veeva](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appflow-now-supports-documents-with-veeva/)
-- [AWS announces the general availability of AWS Proton](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-the-general-availability-of-aws-proton/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,7 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-you-to-create-crash-consistent-multi-volume-amis-by-default/)
+- [Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-create-crash-consistent-amis-from-instances-multiple-amazon-ebs-volumes-without-rebooting-instances/)
+- [Announcing per second billing for EC2 Windows Server and SQL Server Instances](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-per-second-billing-for-ec2-windows-server-and-sql-server-instances/)
 - [Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/internet-group-management-protocol-multicast-support-transit-gateway-multicast-available-aws-govcloud-regions/)
 - [Amazon EC2 adds new AMI property to flag outdated AMIs](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-adds-new-ami-property-to-flag-outdated-amis/)
 - [AWS Elemental MediaConnect adds support for input source selection and priority](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-mediaconnect-adds-support-for-input-source-selection-priority/)
@@ -67,7 +68,6 @@
 - [AWS Managed Microsoft Active Directory (AD) and AD Connector now support AD authentication with AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-directory-service-now-supports-active-directory-authentication-with-aws-transfer-family/)
 - [Read multiple records simultaneously from Amazon SageMaker Feature Store using the new BatchGetRecord API](https://aws.amazon.com/about-aws/whats-new/2021/06/read-multiple-records-simultaneously-amazon-sagemaker-feature-store-using-batchgetrecord-api/)
 - [Amazon Cognito now supports targeted sign out through refresh token revocation](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-now-supports-targeted-sign-out-through-refresh-token-revocation/)
-- [AWS Removes NAT Gateway’s Dependence on Internet Gateway for Private Communications](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-removes-nat-gateways-dependence-on-internet-gateway-for-private-communications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

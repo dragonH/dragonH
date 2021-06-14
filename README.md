@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Mesh introduces enhanced ingress traffic management capabilities](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-app-mesh-introduces-enhanced-ingress-traffic-management-capabilities/)
 - [Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-create-crash-consistent-amis-from-instances-multiple-amazon-ebs-volumes-without-rebooting-instances/)
 - [Announcing per second billing for EC2 Windows Server and SQL Server Instances](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-per-second-billing-for-ec2-windows-server-and-sql-server-instances/)
 - [Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/internet-group-management-protocol-multicast-support-transit-gateway-multicast-available-aws-govcloud-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Lex increases limits for Intents and Slot Types](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-increases-limits-for-intents-and-slot-types/)
 - [AWS Managed Microsoft Active Directory (AD) and AD Connector now support AD authentication with AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-directory-service-now-supports-active-directory-authentication-with-aws-transfer-family/)
 - [Read multiple records simultaneously from Amazon SageMaker Feature Store using the new BatchGetRecord API](https://aws.amazon.com/about-aws/whats-new/2021/06/read-multiple-records-simultaneously-amazon-sagemaker-feature-store-using-batchgetrecord-api/)
-- [Amazon Cognito now supports targeted sign out through refresh token revocation](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-cognito-now-supports-targeted-sign-out-through-refresh-token-revocation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

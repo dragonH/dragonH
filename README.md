@@ -65,7 +65,7 @@
 - [Announcing support for custom partitioning in AWS IoT Analytics Data Stores](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-support-for-custom-partioning-in-aws-iot-analytics-data-stores/)
 - [AWS App Mesh introduces enhanced ingress traffic management capabilities](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-app-mesh-introduces-enhanced-ingress-traffic-management-capabilities/)
 - [Announcing per second billing for EC2 Windows Server and SQL Server Instances](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-per-second-billing-for-ec2-windows-server-and-sql-server-instances/)
-- [Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/internet-group-management-protocol-multicast-support-transit-gateway-multicast-available-aws-govcloud-regions/)
+- [Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/internet-group-management-protocol-multicast-support-transit-gateway-multicast-available-aws-govcloud-regions/)
 - [Amazon EC2 adds new AMI property to flag outdated AMIs](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-adds-new-ami-property-to-flag-outdated-amis/)
 - [AWS Elemental MediaConnect adds support for input source selection and priority](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-mediaconnect-adds-support-for-input-source-selection-priority/)
 <!-- AWS-NEWS:END -->

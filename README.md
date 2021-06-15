@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Access Manager enables granular access control with additional managed permissions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-resource-access-manager-enables-granular-access-control-additional-managed-permissions/)
+- [AWS Certificate Manager Private Certificate Authority now supports more flexibility for CAs shared across accounts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-certificate-manager-private-certificate-authority-now-supports-more-flexibility-for-cas-shared-across-accounts/)
 - [Announcing AWS App Mesh Controller for Kubernetes Version 1.4.0 with Ingress Enhancements](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-aws-app-mesh-controller-for-kubernetes-with-ingress-enhancements/)
 - [Amazon Polly Launches a new German Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-german-neural-text-to-speech-voice/)
 - [Amazon Translate is Now Integrated with Amazon CloudWatch Events and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-integrated-with-amazon-cloudwatch-events-amazon-eventbridge/)
@@ -66,8 +68,6 @@
 - [AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/)
 - [Announcing support for custom partitioning in AWS IoT Analytics Data Stores](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-support-for-custom-partioning-in-aws-iot-analytics-data-stores/)
 - [AWS App Mesh introduces enhanced ingress traffic management capabilities](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-app-mesh-introduces-enhanced-ingress-traffic-management-capabilities/)
-- [Announcing per second billing for EC2 Windows Server and SQL Server Instances](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-per-second-billing-for-ec2-windows-server-and-sql-server-instances/)
-- [Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/internet-group-management-protocol-multicast-support-transit-gateway-multicast-available-aws-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly Launches a new German Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-german-neural-text-to-speech-voice/)
 - [Amazon Translate is Now Integrated with Amazon CloudWatch Events and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-integrated-with-amazon-cloudwatch-events-amazon-eventbridge/)
 - [Introducing AWS Elemental Link UHD: a device to send live UHD video to AWS](https://aws.amazon.com/about-aws/whats-new/2021/06/introducing-aws-elemental-link-uhd-device-to-send-live-uhd-video-to-aws/)
 - [Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-create-crash-consistent-amis-from-instances-multiple-amazon-ebs-volumes-without-rebooting-instances/)
@@ -67,7 +68,6 @@
 - [Announcing per second billing for EC2 Windows Server and SQL Server Instances](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-per-second-billing-for-ec2-windows-server-and-sql-server-instances/)
 - [Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/internet-group-management-protocol-multicast-support-transit-gateway-multicast-available-aws-govcloud-regions/)
 - [Amazon EC2 adds new AMI property to flag outdated AMIs](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-adds-new-ami-property-to-flag-outdated-amis/)
-- [AWS Elemental MediaConnect adds support for input source selection and priority](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-mediaconnect-adds-support-for-input-source-selection-priority/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

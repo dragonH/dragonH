@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate is Now Integrated with Amazon CloudWatch Events and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-integrated-with-amazon-cloudwatch-events-amazon-eventbridge/)
+- [Introducing AWS Elemental Link UHD: a device to send live UHD video to AWS](https://aws.amazon.com/about-aws/whats-new/2021/06/introducing-aws-elemental-link-uhd-device-to-send-live-uhd-video-to-aws/)
 - [Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-create-crash-consistent-amis-from-instances-multiple-amazon-ebs-volumes-without-rebooting-instances/)
 - [AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/)
 - [Announcing support for custom partitioning in AWS IoT Analytics Data Stores](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-support-for-custom-partioning-in-aws-iot-analytics-data-stores/)
@@ -66,8 +68,6 @@
 - [Internet Group Management Protocol (IGMP) Multicast support on Transit Gateway multicast is now available in AWS GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/internet-group-management-protocol-multicast-support-transit-gateway-multicast-available-aws-govcloud-regions/)
 - [Amazon EC2 adds new AMI property to flag outdated AMIs](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-adds-new-ami-property-to-flag-outdated-amis/)
 - [AWS Elemental MediaConnect adds support for input source selection and priority](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-mediaconnect-adds-support-for-input-source-selection-priority/)
-- [AWS Client VPN launches in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-in-aws-govcloud-us-regions/)
-- [Amazon Lex increases limits for Intents and Slot Types](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-increases-limits-for-intents-and-slot-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

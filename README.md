@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now unlocks information in unstructured text for recommendations](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-personalize-now-unlocks-information-in-unstructured-text-for-recommendations/)
+- [AWS Copilot launches v1.8 with improved support for load balanced web services and VPCs](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-copilot-launches-v1-8-with-improved-support-for-load-balanced-web-services-and-vpcs/)
+- [Amazon RDS for PostgreSQL Supports Extension Allowlists](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-extension-allowlists/)
 - [Amazon Lex announces support for multi-valued slots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-announces-support-for-multi-valued-slots/)
 - [AWS Announces General Availability of AWS Wavelength in London](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-general-availability-of-aws-wavelength-in-london/)
 - [AWS Resource Access Manager enables granular access control with additional managed permissions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-resource-access-manager-enables-granular-access-control-additional-managed-permissions/)
@@ -65,9 +68,6 @@
 - [Announcing AWS App Mesh Controller for Kubernetes Version 1.4.0 with Ingress Enhancements](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-aws-app-mesh-controller-for-kubernetes-with-ingress-enhancements/)
 - [Amazon Polly Launches a new German Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-german-neural-text-to-speech-voice/)
 - [Amazon Translate is Now Integrated with Amazon CloudWatch Events and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-integrated-with-amazon-cloudwatch-events-amazon-eventbridge/)
-- [Introducing AWS Elemental Link UHD: a device to send live UHD 4k HDR video to AWS](https://aws.amazon.com/about-aws/whats-new/2021/06/introducing-aws-elemental-link-uhd-device-to-send-live-uhd-video-to-aws/)
-- [Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-create-crash-consistent-amis-from-instances-multiple-amazon-ebs-volumes-without-rebooting-instances/)
-- [AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

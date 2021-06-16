@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex announces support for multi-valued slots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-announces-support-for-multi-valued-slots/)
 - [AWS Announces General Availability of AWS Wavelength in London](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-general-availability-of-aws-wavelength-in-london/)
 - [AWS Resource Access Manager enables granular access control with additional managed permissions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-resource-access-manager-enables-granular-access-control-additional-managed-permissions/)
 - [AWS Certificate Manager Private Certificate Authority now supports more flexibility for CAs shared across accounts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-certificate-manager-private-certificate-authority-now-supports-more-flexibility-for-cas-shared-across-accounts/)
@@ -67,7 +68,6 @@
 - [Introducing AWS Elemental Link UHD: a device to send live UHD 4k HDR video to AWS](https://aws.amazon.com/about-aws/whats-new/2021/06/introducing-aws-elemental-link-uhd-device-to-send-live-uhd-video-to-aws/)
 - [Amazon EC2 now allows you to create crash-consistent AMIs from instances with multiple EBS volumes without rebooting instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-allows-create-crash-consistent-amis-from-instances-multiple-amazon-ebs-volumes-without-rebooting-instances/)
 - [AWS Backup now supports crash-consistent backups of Amazon EBS volumes attached to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-backup-supports-crash-consistent-backup-amazon-ebs-volumes-attached-to-amazon-ec2-instance/)
-- [Announcing support for custom partitioning in AWS IoT Analytics Data Stores](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-support-for-custom-partioning-in-aws-iot-analytics-data-stores/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify announces support for IAM permissions boundaries on Amplify-generated IAM roles](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-amplify-announces-support-for-iam-permissions-boundaries-on-amplify-generated-iam-roles/)
 - [Amazon Personalize now unlocks information in unstructured text for recommendations](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-personalize-now-unlocks-information-in-unstructured-text-for-recommendations/)
 - [AWS Copilot launches v1.8 with improved support for load balanced web services and VPCs](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-copilot-launches-v1-8-with-improved-support-for-load-balanced-web-services-and-vpcs/)
 - [Amazon RDS for PostgreSQL Supports Extension Allowlists](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-extension-allowlists/)
@@ -67,7 +68,6 @@
 - [AWS Certificate Manager Private Certificate Authority now supports more flexibility for CAs shared across accounts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-certificate-manager-private-certificate-authority-now-supports-more-flexibility-for-cas-shared-across-accounts/)
 - [Announcing AWS App Mesh Controller for Kubernetes Version 1.4.0 with Ingress Enhancements](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-aws-app-mesh-controller-for-kubernetes-with-ingress-enhancements/)
 - [Amazon Polly Launches a new German Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-polly-launches-a-new-german-neural-text-to-speech-voice/)
-- [Amazon Translate is Now Integrated with Amazon CloudWatch Events and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-integrated-with-amazon-cloudwatch-events-amazon-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

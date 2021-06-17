@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 D3 instances with dense local HDD storage now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-d3-instances-with-dense-local-hdd-storage-now-available-in-aws-govcloud-us-west-region/)
 - [Amazon Kendra adds support for new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-kendra-adds-support-for-new-aws-regions/)
 - [AWS Gateway Load Balancer is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-gateway-load-balancer-is-now-available-in-the-aws-govcloud-us-regions/)
 - [AWS announces a new shell for F1 instances with increased FPGA resources and data transfer speeds](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-a-new-shell-for-f1-instances-with-increased-fpga-resources-and-data-transfer-speeds/)
@@ -67,7 +68,6 @@
 - [Amazon Personalize now unlocks information in unstructured text for recommendations](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-personalize-now-unlocks-information-in-unstructured-text-for-recommendations/)
 - [AWS Copilot launches v1.8 with improved support for load balanced web services and VPCs](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-copilot-launches-v1-8-with-improved-support-for-load-balanced-web-services-and-vpcs/)
 - [Amazon RDS for PostgreSQL Supports Extension Allowlists](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-extension-allowlists/)
-- [Amazon Lex announces support for multi-valued slots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-announces-support-for-multi-valued-slots/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

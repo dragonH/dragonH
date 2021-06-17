@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra adds support for new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-kendra-adds-support-for-new-aws-regions/)
+- [AWS Gateway Load Balancer is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-gateway-load-balancer-is-now-available-in-the-aws-govcloud-us-regions/)
 - [AWS announces a new shell for F1 instances with increased FPGA resources and data transfer speeds](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-a-new-shell-for-f1-instances-with-increased-fpga-resources-and-data-transfer-speeds/)
 - [Amazon MQ is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-mq-is-now-available-in-aws-govcloud-us-regions/)
 - [KMS Multi-Region Keys](https://aws.amazon.com/about-aws/whats-new/2021/06/kms-multi-region-keys/)
@@ -66,8 +68,6 @@
 - [AWS Copilot launches v1.8 with improved support for load balanced web services and VPCs](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-copilot-launches-v1-8-with-improved-support-for-load-balanced-web-services-and-vpcs/)
 - [Amazon RDS for PostgreSQL Supports Extension Allowlists](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-postgresql-supports-extension-allowlists/)
 - [Amazon Lex announces support for multi-valued slots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lex-announces-support-for-multi-valued-slots/)
-- [AWS Announces General Availability of AWS Wavelength in London](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-general-availability-of-aws-wavelength-in-london/)
-- [AWS Resource Access Manager enables granular access control with additional managed permissions](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-resource-access-manager-enables-granular-access-control-additional-managed-permissions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

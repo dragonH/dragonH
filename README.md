@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces (for Apache Cassandra) now helps you monitor and improve application read/write performance and throughput by using new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces--for-apache-cassandra--now-helps-you-monitor-an/)
 - [AWS Elemental MediaLive now converts image-based subtitles to text-based captions for mobile device playback](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-medialive-now-converts-inage-based-subtitles-to-text-based-captions-for-mobile-device-playback/)
 - [Amazon Aurora Serverless v1 supports fast database cloning](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-serverless-v1-supports-fast-database-cloning/)
 - [Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-supports-postgresql-12-6-11-11-10-16-and-9-6-21/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-cron-extension-for-scheduling-database-jobs/)
 - [Announcing Workflow Studio, a new low-code visual workflow designer for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/announcing-workflow-studio-a-new-low-code-visual-workflow-designer-foraws-step-functions/)
 - [Amazon EC2 D3 instances with dense local HDD storage now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-d3-instances-with-dense-local-hdd-storage-now-available-in-aws-govcloud-us-west-region/)
-- [Amazon Kendra adds support for new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-kendra-adds-support-for-new-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

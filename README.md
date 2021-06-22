@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles launches in Canada(Central) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-customer-profiles-launches-in-canada-central-region/)
 - [Announcing a new Public Registry for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-a-new-public-registry-for-aws-cloudformation/)
 - [Amazon RDS supports MariaDB Audit Plugin for MySQL version 8.0](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-supports-mariadb-audit-plugin-for-mysql-version-8-0/)
 - [Amazon Keyspaces (for Apache Cassandra) now helps you monitor and improve application read/write performance and throughput by using new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-keyspaces--for-apache-cassandra--now-helps-you-monitor-an/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
 - [Amazon Aurora PostgreSQL Supports the pg_proctab Extension to access PostgreSQL system stats](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-proctab-extension-access-postgresql-system-stats/)
 - [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgre-sql-supports-pgpartman-extension-managing-time-serial-id-table-partitioning/)
-- [Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-cron-extension-for-scheduling-database-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

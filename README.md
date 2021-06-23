@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Connect to your Amazon CloudWatch data to detect anomalies and diagnose their root causes using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/connect-your-amazon-cloudwatch-data-detect-anomalies-diagnose-their-root-causes-using-amazon-lookout-metrics/)
 - [Amazon Connect Customer Profiles launches in Canada(Central) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-customer-profiles-launches-in-canada-central-region/)
 - [Announcing a new Public Registry for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/06/announcing-a-new-public-registry-for-aws-cloudformation/)
 - [Amazon RDS supports MariaDB Audit Plugin for MySQL version 8.0](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-supports-mariadb-audit-plugin-for-mysql-version-8-0/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-supports-postgresql-12-6-11-11-10-16-and-9-6-21/)
 - [Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
 - [Amazon Aurora PostgreSQL Supports the pg_proctab Extension to access PostgreSQL system stats](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-proctab-extension-access-postgresql-system-stats/)
-- [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgre-sql-supports-pgpartman-extension-managing-time-serial-id-table-partitioning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

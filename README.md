@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate now supports XML Localization Interchange File Format - XLIFF documents](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-supports-xml-localization-interchange-file-format-xliff-documents/)
 - [Updated classroom course and new digital course: AWS Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/06/updated-classroom-course-and-new-digital-course-aws-technical-essentials/)
 - [Connect to your Amazon CloudWatch data to detect anomalies and diagnose their root causes using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/connect-your-amazon-cloudwatch-data-detect-anomalies-diagnose-their-root-causes-using-amazon-lookout-metrics/)
 - [Amazon Connect Customer Profiles launches in Canada(Central) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-customer-profiles-launches-in-canada-central-region/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaLive now converts image-based subtitles to text-based captions for mobile device playback](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-elemental-medialive-now-converts-inage-based-subtitles-to-text-based-captions-for-mobile-device-playback/)
 - [Amazon Aurora Serverless v1 supports fast database cloning](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-serverless-v1-supports-fast-database-cloning/)
 - [Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-supports-postgresql-12-6-11-11-10-16-and-9-6-21/)
-- [Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-aurora-postgresql-supports-pg-bigm-extension-for-faster-full-text-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

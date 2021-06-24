@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS simplifies big data application development with custom image support](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-emr-on-eks-simplifies-big-data-application-development-with-custom-image-support/)
+- [AWS Now Allows Customers To Pay For Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-now-allows-customers-to-pay-for-their-usage-in-advance-/)
+- [Simplify building of serverless applications with AWS-supported container images for continuous integration systems](https://aws.amazon.com/about-aws/whats-new/2021/06/new-tools-to-simplify-continuous-integration-systems/)
 - [AQUA for Amazon Redshift launches in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aqua-for-amazon-redshift-launches-in-three-additional-aws-regions/)
 - [Amazon EMR now supports up to thirty instance type configurations in Instance Fleets](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-emr-now-supports-up-to-thirty-instance-type-configurations-in-instance-fleets/)
 - [AWS Announces AWS BugBust](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/)
@@ -65,9 +68,6 @@
 - [Amazon Redshift now supports case-insensitive collation with column level overrides](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-redshift-now-supports-case-insensitive-collation-with-column-level-overrides/)
 - [Amazon DocumentDB (with MongoDB compatibility) Now Supports r5.8xlarge and r5.16xlarge Instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-documentdb-with-mongodb-compatibility-now-supports-large-instances/)
 - [Amazon CodeGuru Reviewer announces CI/CD Integration with GitHub Actions and new security detectors for Java](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-codeguru-reviewer-announces-ci-cd-integration-github-actions-new-security-detectors-for-java/)
-- [Configure GitHub Actions workflows with a new GitHub Action for building serverless applications](https://aws.amazon.com/about-aws/whats-new/2021/06/configure-github-actions-workflows-with-new-github-action-for-building-serverless-applications/)
-- [Managed Database Auditing with Amazon RDS Database Activity Streams for Amazon RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2021/06/managed-database-auditing-with-amazon-rds-database-activity-streams-for-amazon-rds-for-oracle/)
-- [Amazon Textract announces quality updates to its forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-textract-announces-quality-updates-to-its-forms-extraction-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

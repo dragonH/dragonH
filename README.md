@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Configure GitHub Actions workflows with a new GitHub Action for building serverless applications](https://aws.amazon.com/about-aws/whats-new/2021/06/configure-github-actions-workflows-with-new-github-action-for-building-serverless-applications/)
+- [Managed Database Auditing with Amazon RDS Database Activity Streams for Amazon RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2021/06/managed-database-auditing-with-amazon-rds-database-activity-streams-for-amazon-rds-for-oracle/)
 - [Amazon Textract announces quality updates to its forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-textract-announces-quality-updates-to-its-forms-extraction-feature/)
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
 - [AWS Control Tower announces accessibility, console and performance improvements](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-control-tower-announces-accessibility-console-and-performance-improvements/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Now Supports ml.G4dn instances for Batch Transform and Processing Jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-now-supports-mlg4dn-instances-for-batch-transform-and-processing-jobs/)
 - [Amazon RDS for Oracle now supports additional memory configurations of the r5 instance class](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-oracle-now-supports-additional-memory-configurations-of-the-r5-instance-class/)
 - [AWS Client VPN launches desktop client for Linux](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-desktop-client-for-linux/)
-- [AWS Outposts is now supported in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-outposts-is-now-supported-in-aws-asia-pacific-osaka-region/)
-- [Amazon Translate now supports XML Localization Interchange File Format - XLIFF documents](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-supports-xml-localization-interchange-file-format-xliff-documents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

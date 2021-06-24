@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR now supports up to thirty instance type configurations in Instance Fleets](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-emr-now-supports-up-to-thirty-instance-type-configurations-in-instance-fleets/)
+- [AWS Announces AWS BugBust](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/)
+- [AWS Purchase Order Management now supports a TRN filter for AWS Europe](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-purchase-order-management-now-supports-a-trn-filter-for-aws-europe/)
+- [Amazon Redshift now supports case-insensitive collation with column level overrides](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-redshift-now-supports-case-insensitive-collation-with-column-level-overrides/)
+- [Amazon DocumentDB (with MongoDB compatibility) Now Supports r5.8xlarge and r5.16xlarge Instances](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-documentdb-with-mongodb-compatibility-now-supports-large-instances/)
+- [Amazon CodeGuru Reviewer announces CI/CD Integration with GitHub Actions and new security detectors for Java](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-codeguru-reviewer-announces-ci-cd-integration-github-actions-new-security-detectors-for-java/)
 - [Configure GitHub Actions workflows with a new GitHub Action for building serverless applications](https://aws.amazon.com/about-aws/whats-new/2021/06/configure-github-actions-workflows-with-new-github-action-for-building-serverless-applications/)
 - [Managed Database Auditing with Amazon RDS Database Activity Streams for Amazon RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2021/06/managed-database-auditing-with-amazon-rds-database-activity-streams-for-amazon-rds-for-oracle/)
 - [Amazon Textract announces quality updates to its forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-textract-announces-quality-updates-to-its-forms-extraction-feature/)
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
-- [AWS Control Tower announces accessibility, console and performance improvements](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-control-tower-announces-accessibility-console-and-performance-improvements/)
-- [AWS Managed Services (AMS) now offers self-service operational reporting across all your AMS managed accounts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-managed-services-ams-now-offers-self-service-operational-reporting-across-all-your-ams-managed-accounts/)
-- [AWS Lambda support for Amazon Elastic File System now available in Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-support-for-amazon-elastic-file-system-now-available-in-asia-pacific-osaka-region/)
-- [Amazon SageMaker Now Supports ml.G4dn instances for Batch Transform and Processing Jobs](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-sagemaker-now-supports-mlg4dn-instances-for-batch-transform-and-processing-jobs/)
-- [Amazon RDS for Oracle now supports additional memory configurations of the r5 instance class](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rds-for-oracle-now-supports-additional-memory-configurations-of-the-r5-instance-class/)
-- [AWS Client VPN launches desktop client for Linux](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-desktop-client-for-linux/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

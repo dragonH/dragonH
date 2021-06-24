@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SAM launches machine learning inference templates for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-sam-launches-machine-learning-inference-templates-for-aws-lambda/)
 - [Amazon DynamoDB Accelerator (DAX) now supports encryption in transit of data between your applications and DAX clusters, and between the nodes within a DAX cluster](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-dynamodb-accelerator--dax--now-supports-encryption-in-tra/)
 - [Amazon QLDB is now available in the Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-is-now-available-in-the-europe-london-region/)
 - [AWS Network Firewall is now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-network-firewall-is-now-available-in-aws-govcloud-us/)
 - [AWS DevOps Monitoring Dashboard solution v1.1 adds support for AWS CodeBuild and AWS CodePipeline related metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-devops-monitoring-dashboard-solution-adds-support-for-aws-codebuild-and-asw-codepipeline-related-metrics/)
-- [Amazon EMR on EKS simplifies big data application development with custom image support](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-emr-on-eks-simplifies-big-data-application-development-with-custom-image-support/)
+- [Customize and Package Dependencies With Your Apache Spark Applications on Amazon EMR on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-emr-on-eks-simplifies-big-data-application-development-with-custom-image-support/)
 - [AWS Now Allows Customers To Pay For Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-now-allows-customers-to-pay-for-their-usage-in-advance-/)
 - [Simplify building of serverless applications with AWS-supported container images for continuous integration systems](https://aws.amazon.com/about-aws/whats-new/2021/06/new-tools-to-simplify-continuous-integration-systems/)
 - [AQUA for Amazon Redshift launches in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/06/aqua-for-amazon-redshift-launches-in-three-additional-aws-regions/)
 - [Amazon EMR now supports up to thirty instance type configurations in Instance Fleets](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-emr-now-supports-up-to-thirty-instance-type-configurations-in-instance-fleets/)
-- [AWS Announces AWS BugBust](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

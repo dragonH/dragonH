@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces quality updates to its forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-textract-announces-quality-updates-to-its-forms-extraction-feature/)
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
 - [AWS Control Tower announces accessibility, console and performance improvements](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-control-tower-announces-accessibility-console-and-performance-improvements/)
 - [AWS Managed Services (AMS) now offers self-service operational reporting across all your AMS managed accounts](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-managed-services-ams-now-offers-self-service-operational-reporting-across-all-your-ams-managed-accounts/)
@@ -67,7 +68,6 @@
 - [AWS Client VPN launches desktop client for Linux](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-client-vpn-launches-desktop-client-for-linux/)
 - [AWS Outposts is now supported in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-outposts-is-now-supported-in-aws-asia-pacific-osaka-region/)
 - [Amazon Translate now supports XML Localization Interchange File Format - XLIFF documents](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-translate-now-supports-xml-localization-interchange-file-format-xliff-documents/)
-- [Updated classroom course and new digital course: AWS Technical Essentials](https://aws.amazon.com/about-aws/whats-new/2021/06/updated-classroom-course-and-new-digital-course-aws-technical-essentials/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

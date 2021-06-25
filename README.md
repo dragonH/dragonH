@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports copying DB cluster resources tags to DB snapshots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-neptune-now-supports-copying-db-cluster-resources-tags-to-db-snapshots/)
+- [Amazon Rekognition Custom Labels adds support for KMS encryption of custom model training data](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rekognition-custom-labels-adds-support-for-kms-encryption-of-custom-model-training-data/)
 - [Amazon EC2 Inf1 instances - New features, improved performance and lower prices](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-inf1-instances-new-features-improved-performance-and-lower-prices/)
 - [CloudWatch adds 14 new Metric math functions](https://aws.amazon.com/about-aws/whats-new/2021/06/cloudwatch-adds-new-metric-math-functions/)
 - [Amazon Connect launches API to configure quick connects programmatically](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-launches-api-configure-quick-connects-programmatically/)
@@ -66,8 +68,6 @@
 - [Amazon QLDB is now available in the Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-is-now-available-in-the-europe-london-region/)
 - [AWS Network Firewall is now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-network-firewall-is-now-available-in-aws-govcloud-us/)
 - [AWS DevOps Monitoring Dashboard solution v1.1 adds support for AWS CodeBuild and AWS CodePipeline related metrics](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-devops-monitoring-dashboard-solution-adds-support-for-aws-codebuild-and-asw-codepipeline-related-metrics/)
-- [Customize and Package Dependencies With Your Apache Spark Applications on Amazon EMR on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-emr-on-eks-simplifies-big-data-application-development-with-custom-image-support/)
-- [AWS Now Allows Customers To Pay For Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-now-allows-customers-to-pay-for-their-usage-in-advance-/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

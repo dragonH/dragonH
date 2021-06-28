@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF adds 15 new text transformations](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-adds-15-new-text-transformations/)
 - [Amazon Connect Chat now supports Apple Business Chat (Generally Available)](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-chat-now-supports-apple-business-chat-generally-available/)
 - [Amazon Neptune now supports copying DB cluster resources tags to DB snapshots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-neptune-now-supports-copying-db-cluster-resources-tags-to-db-snapshots/)
 - [Amazon Rekognition Custom Labels adds support for KMS encryption of custom model training data](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-rekognition-custom-labels-adds-support-for-kms-encryption-of-custom-model-training-data/)
@@ -67,7 +68,6 @@
 - [AWS SAM launches machine learning inference templates for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-sam-launches-machine-learning-inference-templates-for-aws-lambda/)
 - [Amazon DynamoDB Accelerator (DAX) now supports encryption in transit of data between your applications and DAX clusters, and between the nodes within a DAX cluster](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-dynamodb-accelerator--dax--now-supports-encryption-in-tra/)
 - [Amazon QLDB is now available in the Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-qldb-is-now-available-in-the-europe-london-region/)
-- [AWS Network Firewall is now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-network-firewall-is-now-available-in-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

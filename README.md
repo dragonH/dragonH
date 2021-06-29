@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Support for HDR10+ for HEVC outputs is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-hdr10plus-for-hevc-outputs-available-with-aws-elemental-mediaconvert/)
+- [AWS Systems Manager now supports free text search for a node in the Session Manager console](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-supports-free-text-search-for-node-in-session-manager-console/)
 - [Support for additional MXF mezzanine output formats now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-additional-mfx-mezzanine-output-formats-available-with-aws-elemental-mediaconvert/)
 - [AWS WAF adds 15 new text transformations](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-adds-15-new-text-transformations/)
 - [Amazon Connect Chat now supports Apple Business Chat (Generally Available)](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-chat-now-supports-apple-business-chat-generally-available/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 Inf1 instances - New features, improved performance and lower prices](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ec2-inf1-instances-new-features-improved-performance-and-lower-prices/)
 - [CloudWatch adds 14 new Metric math functions](https://aws.amazon.com/about-aws/whats-new/2021/06/cloudwatch-adds-new-metric-math-functions/)
 - [Amazon Connect launches API to configure quick connects programmatically](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-launches-api-configure-quick-connects-programmatically/)
-- [AWS SAM launches machine learning inference templates for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-sam-launches-machine-learning-inference-templates-for-aws-lambda/)
-- [Amazon DynamoDB Accelerator (DAX) now supports encryption in transit of data between your applications and DAX clusters, and between the nodes within a DAX cluster](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-dynamodb-accelerator--dax--now-supports-encryption-in-tra/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

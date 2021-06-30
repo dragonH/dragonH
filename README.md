@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift announces BatchDistance rule update to FlexMatch](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-announces-batchdistance-rule-update-to-flexmatch/)
 - [AWS DataSync can now copy system access control lists (SACLs) to Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/)
 - [AWS introduces new framework-specific Deep Learning AMIs and backwards-compatible images](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-introduces-framework-specific-deep-learning-amis-backwards-compatible-images/)
 - [New AWS Solutions Implementation: Tag Tamer](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation-tag-tamer/)
@@ -67,7 +68,6 @@
 - [AWS CloudFormation Modules are now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-modules-are-now-available-in-aws-govcloud-us/)
 - [AWS Lambda now supports SASL/PLAIN authentication for functions triggered from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-now-supports-sasl-plain-authentication-for-functions-triggered-from-self-managed-apache-kafka/)
 - [Support for HDR10+ for HEVC outputs is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-hdr10plus-for-hevc-outputs-available-with-aws-elemental-mediaconvert/)
-- [AWS Systems Manager now supports free text search for a node in the Session Manager console](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-supports-free-text-search-for-node-in-session-manager-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

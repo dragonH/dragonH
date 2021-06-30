@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The Bottlerocket AMI for Amazon ECS is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/06/the-bottlerocket-ami-for-amazon-ecs-is-now-generally-available/)
+- [AWS Storage Gateway is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-storage-gateway-is-now-available-in-the-aws-asia-pacific-osaka-region/)
+- [AWS IQ now supports attachments](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-iq-now-supports-attachments/)
 - [Amazon GameLift announces BatchDistance rule update to FlexMatch](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-announces-batchdistance-rule-update-to-flexmatch/)
 - [AWS DataSync can now copy system access control lists (SACLs) to Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/)
 - [AWS introduces new framework-specific Deep Learning AMIs and backwards-compatible images](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-introduces-framework-specific-deep-learning-amis-backwards-compatible-images/)
@@ -65,9 +68,6 @@
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
 - [AWS Firewall Manager is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-firewall-manager-is-now-available-in-asia-pacific-osaka-region/)
 - [IAM Access Analyzer adds new policy checks to help validate conditions during IAM policy authoring](https://aws.amazon.com/about-aws/whats-new/2021/06/iam-access-analyzer-adds-new-policy-checks-help-validate-conditions-during-iam-policy-authoring/)
-- [AWS CloudFormation Modules are now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-modules-are-now-available-in-aws-govcloud-us/)
-- [AWS Lambda now supports SASL/PLAIN authentication for functions triggered from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-now-supports-sasl-plain-authentication-for-functions-triggered-from-self-managed-apache-kafka/)
-- [Support for HDR10+ for HEVC outputs is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-hdr10plus-for-hevc-outputs-available-with-aws-elemental-mediaconvert/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

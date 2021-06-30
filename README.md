@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
 - [AWS Firewall Manager is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-firewall-manager-is-now-available-in-asia-pacific-osaka-region/)
 - [IAM Access Analyzer adds new policy checks to help validate conditions during IAM policy authoring](https://aws.amazon.com/about-aws/whats-new/2021/06/iam-access-analyzer-adds-new-policy-checks-help-validate-conditions-during-iam-policy-authoring/)
 - [AWS CloudFormation Modules are now available in AWS GovCloud (US)](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-modules-are-now-available-in-aws-govcloud-us/)
@@ -67,7 +68,6 @@
 - [Support for additional MXF mezzanine output formats now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-additional-mfx-mezzanine-output-formats-available-with-aws-elemental-mediaconvert/)
 - [AWS WAF adds 15 new text transformations](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-adds-15-new-text-transformations/)
 - [Amazon Connect Chat now supports Apple Business Chat (Generally Available)](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-connect-chat-now-supports-apple-business-chat-generally-available/)
-- [Amazon Neptune now supports copying DB cluster resources tags to DB snapshots](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-neptune-now-supports-copying-db-cluster-resources-tags-to-db-snapshots/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

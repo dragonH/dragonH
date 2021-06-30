@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync can now copy system access control lists (SACLs) to Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/)
+- [AWS introduces new framework-specific Deep Learning AMIs and backwards-compatible images](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-introduces-framework-specific-deep-learning-amis-backwards-compatible-images/)
 - [New AWS Solutions Implementation: Tag Tamer](https://aws.amazon.com/about-aws/whats-new/2021/06/new-aws-solutions-implementation-tag-tamer/)
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
 - [AWS Firewall Manager is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-firewall-manager-is-now-available-in-asia-pacific-osaka-region/)
@@ -66,8 +68,6 @@
 - [AWS Lambda now supports SASL/PLAIN authentication for functions triggered from self-managed Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-lambda-now-supports-sasl-plain-authentication-for-functions-triggered-from-self-managed-apache-kafka/)
 - [Support for HDR10+ for HEVC outputs is now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-hdr10plus-for-hevc-outputs-available-with-aws-elemental-mediaconvert/)
 - [AWS Systems Manager now supports free text search for a node in the Session Manager console](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-systems-manager-supports-free-text-search-for-node-in-session-manager-console/)
-- [Support for additional MXF mezzanine output formats now available with AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2021/06/support-for-additional-mfx-mezzanine-output-formats-available-with-aws-elemental-mediaconvert/)
-- [AWS WAF adds 15 new text transformations](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-waf-adds-15-new-text-transformations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

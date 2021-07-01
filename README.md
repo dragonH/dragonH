@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew now supports writing datasets from job runs directly into the AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-now-supports-writing-datasets-from-jobs-directly-into-the-aws-glue-data-catalog/)
 - [AWS Amplify launches new full-stack CI/CD capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-launches-new-full-stack-ci-cd-capabilities/)
 - [AWS Amplify CLI adds support for storing environment variables and secrets accessed by AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-cli-adds-support-for-storing-environment-variables-and-secrets-accessed-by-aws-lambda-functions/)
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
@@ -67,7 +68,6 @@
 - [Amazon AppStream 2.0 is now available in the AWS Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appstream-is-now-available-in-the-aws-europe-london-region/)
 - [AWS Glue DataBrew adds support for 14 new advanced data types for data preparation](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-adds-for-support-14-new-advanced-data-types-for-data-preparation/)
 - [Self-service features and trusted device support are now available on the Amazon WorkSpaces Android Client App](https://aws.amazon.com/about-aws/whats-new/2021/06/self-service-features-trusted-device-support-available-on-amazon-workspaces-android-client-app/)
-- [AWS Glue DataBrew adds support for backslash delimiter (\) in .csv datasets](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-adds-support-for-backslash-delimiter-in-csv-datasets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

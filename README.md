@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
+- [Amazon RDS for MariaDB supports new minor versions 10.2.37, 10.3.28, 10.4.18, and 10.5.9.](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-mariadb-supports-new-minor-versions/)
+- [Amazon EBS now supports gp3, st1, and sc1 volume types in the Los Angeles AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ebs-now-supports-gp3-st1-and-sc1-volume-types-in-the-los-angeles-aws-local-zones/)
 - [AWS Glue Schema Registry now supports JSON Schema](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-schema-registry-now-supports-json-schema/)
 - [Amazon AppStream 2.0 is now available in the AWS Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appstream-is-now-available-in-the-aws-europe-london-region/)
 - [AWS Glue DataBrew adds support for 14 new advanced data types for data preparation](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-adds-for-support-14-new-advanced-data-types-for-data-preparation/)
@@ -65,9 +68,6 @@
 - [AWS Glue DataBrew adds support for backslash delimiter (\) in .csv datasets](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-adds-support-for-backslash-delimiter-in-csv-datasets/)
 - [The Bottlerocket AMI for Amazon ECS is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/06/the-bottlerocket-ami-for-amazon-ecs-is-now-generally-available/)
 - [AWS Storage Gateway is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-storage-gateway-is-now-available-in-the-aws-asia-pacific-osaka-region/)
-- [AWS IQ now supports attachments](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-iq-now-supports-attachments/)
-- [Amazon GameLift announces BatchDistance rule update to FlexMatch](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-gamelift-announces-batchdistance-rule-update-to-flexmatch/)
-- [AWS DataSync can now copy system access control lists (SACLs) to Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-datasync-can-now-copy-system-access-control-lists-sacls-to-amazon-fsx-for-windows-file-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

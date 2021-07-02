@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS managed node groups now supports parallel node upgrades](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-managed-node-groups-now-supports-parallel-node-upgrades/)
 - [AWS Glue Studio now provides data previews during visual job authoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-studio-now-provides-data-previews-during-visual-job-authoring/)
 - [Announcing Amazon Kendra Smaller Units and Price Drop](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-amazon-kendra-smaller-units-and-price-drop/)
 - [AWS ParallelCluster now supports Ubuntu 20.04](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-parallelcluster-now-supports-ubuntu/)
@@ -67,7 +68,6 @@
 - [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
 - [Amazon RDS for MariaDB supports new minor versions 10.2.37, 10.3.28, 10.4.18, and 10.5.9.](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-mariadb-supports-new-minor-versions/)
 - [Amazon EBS now supports gp3, st1, and sc1 volume types in the Los Angeles AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ebs-now-supports-gp3-st1-and-sc1-volume-types-in-the-los-angeles-aws-local-zones/)
-- [AWS Glue Schema Registry now supports JSON Schema](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-schema-registry-now-supports-json-schema/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio now provides data previews during visual job authoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-studio-now-provides-data-previews-during-visual-job-authoring/)
 - [Announcing Amazon Kendra Smaller Units and Price Drop](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-amazon-kendra-smaller-units-and-price-drop/)
 - [AWS ParallelCluster now supports Ubuntu 20.04](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-parallelcluster-now-supports-ubuntu/)
 - [AWS Glue DataBrew now supports writing datasets from job runs directly into the AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-now-supports-writing-datasets-from-jobs-directly-into-the-aws-glue-data-catalog/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MariaDB supports new minor versions 10.2.37, 10.3.28, 10.4.18, and 10.5.9.](https://aws.amazon.com/about-aws/whats-new/2021/05/amazon-rds-for-mariadb-supports-new-minor-versions/)
 - [Amazon EBS now supports gp3, st1, and sc1 volume types in the Los Angeles AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-ebs-now-supports-gp3-st1-and-sc1-volume-types-in-the-los-angeles-aws-local-zones/)
 - [AWS Glue Schema Registry now supports JSON Schema](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-schema-registry-now-supports-json-schema/)
-- [Amazon AppStream 2.0 is now available in the AWS Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-appstream-is-now-available-in-the-aws-europe-london-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

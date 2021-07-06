@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch Container Insights for Amazon ECS now available in the AWS Middle East (Bahrain) region](https://aws.amazon.com/about-aws/whats-new/2021/07/cloudwatch-container-insights-for-amazon-ecs-available-in-aws-middle-east-bahrain-region/)
 - [Amazon Redshift launches RA3 in Hong Kong and China Regions (Beijing, Ningxia)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-launches-ra3-in-hong-kong-and-china-regions-beijing-ningxia/)
 - [AWS Elemental MediaPackage extends its metadata passthrough capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-extends-its-metadata-passthrough-capabilities/)
 - [Amazon EKS managed node groups now supports parallel node upgrades](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-managed-node-groups-now-supports-parallel-node-upgrades/)
@@ -67,7 +68,6 @@
 - [AWS Glue DataBrew now supports writing datasets from job runs directly into the AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-glue-databrew-now-supports-writing-datasets-from-jobs-directly-into-the-aws-glue-data-catalog/)
 - [AWS Amplify launches new full-stack CI/CD capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-launches-new-full-stack-ci-cd-capabilities/)
 - [AWS Amplify CLI adds support for storing environment variables and secrets accessed by AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-cli-adds-support-for-storing-environment-variables-and-secrets-accessed-by-aws-lambda-functions/)
-- [Sellers, consulting partners, and data providers from Hong Kong and Qatar now available in AWS Marketplace and AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/06/sellers-consulting-partners-and-data-providers-from-hong-kong-and-qatar-now-available-in-aws-marketplace-and-aws-data-exchange/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports Amazon MQ for RabbitMQ as an event source](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-now-supports-amazon-mq-for-rabbitmq-as-an-event-source/)
+- [The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-chime-sdk-adds-media-capture-pipelines-to-enable-capture-of-meeting-video-audio-and-content-streams/)
 - [Announcing the General Availability of AWS Local Zones in Dallas and Philadelphia](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-dallas-and-philadelphia/)
 - [Amazon RDS for Oracle Supports Oracle Management Agent (OMA) version 13.5 for Oracle Enterprise Manager Cloud Control 13cR5](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-management-agent-version-13-5-for-oracle-enterprise-manager-cloud-control-13cr5/)
 - [AWS AppConfig now enables customers to compare two application configuration versions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appconfig-now-enables-customers-to-compare-two-application-configuration-versions/)
@@ -66,8 +68,6 @@
 - [AWS Application Migration Service is now available in the US West (Northern California), Asia Pacific (Osaka), Canada (Central), and South America (São Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-application-migration-service-is-now-available-in-the-us-west-northern-california-asia-pacific-osaka-canada-central-and-south-america-sao-paulo-regions/)
 - [Announcing Workflow Studio, a new low-code visual workflow designer for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-workflow-studio-a-new-low-code-visual-workflow-designer-for-aws-step-functions/)
 - [Amplify Admin UI now supports importing existing Amazon Cognito User Pools and Identity Pools](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-admin-ui-now-supports-importing-existing-amazon-cognito-user-pools-and-identity-pools/)
-- [Amazon MQ for RabbitMQ now supports the consistent hash exchange type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-for-rabbitmq-now-supports-the-consistent-hash-exchange-type/)
-- [Amazon Athena adds parameterized queries to improve reusability and security](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-adds-parameterized-queries-to-improve-reusability-and-security/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

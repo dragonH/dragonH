@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service is now available in the US West (Northern California), Asia Pacific (Osaka), Canada (Central), and South America (São Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-application-migration-service-is-now-available-in-the-us-west-northern-california-asia-pacific-osaka-canada-central-and-south-america-sao-paulo-regions/)
 - [Announcing Workflow Studio, a new low-code visual workflow designer for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-workflow-studio-a-new-low-code-visual-workflow-designer-for-aws-step-functions/)
 - [Amplify Admin UI now supports importing existing Amazon Cognito User Pools and Identity Pools](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-admin-ui-now-supports-importing-existing-amazon-cognito-user-pools-and-identity-pools/)
 - [Amazon MQ for RabbitMQ now supports the consistent hash exchange type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-for-rabbitmq-now-supports-the-consistent-hash-exchange-type/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaPackage extends its metadata passthrough capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-extends-its-metadata-passthrough-capabilities/)
 - [Amazon EKS managed node groups now supports parallel node upgrades](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-managed-node-groups-now-supports-parallel-node-upgrades/)
 - [AWS Glue Studio now provides data previews during visual job authoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-studio-now-provides-data-previews-during-visual-job-authoring/)
-- [Announcing Amazon Kendra Smaller Units and Price Drop](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-amazon-kendra-smaller-units-and-price-drop/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

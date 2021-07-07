@@ -100,7 +100,14 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="dragonH's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dragonH&show_icons=true&hide_border=true" />
+  <img  alt="dragonH's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dragonH&show_icons=true&theme=radical&bg_color=100,e96464,772e95&title_color=fff&text_color=fff"/>
+
+</details>
+
+<details open>
+  <summary>:zap: Most Used Languages</summary>
+
+  <img alt="dragonH's Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragonH&langs_count=20&layout=compact&bg_color=60,e96432,306e95&title_color=fff&text_color=fff" />
 
 </details>
 

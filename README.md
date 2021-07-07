@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/dragonH/JustTalk/pull/1) in [dragonH/JustTalk](https://github.com/dragonH/JustTalk)
-2. 🎉 Merged PR [#2](https://github.com/dragonH/dragonH/pull/2) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
-3. 💪 Opened PR [#2](https://github.com/dragonH/dragonH/pull/2) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
-4. 🎉 Merged PR [#1](https://github.com/dragonH/dragonH/pull/1) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
-5. 💪 Opened PR [#1](https://github.com/dragonH/dragonH/pull/1) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
+1. 🎉 Merged PR [#1](https://github.com/dragonH/JustTalk/pull/1) in [dragonH/JustTalk](https://github.com/dragonH/JustTalk)
+2. 💪 Opened PR [#1](https://github.com/dragonH/JustTalk/pull/1) in [dragonH/JustTalk](https://github.com/dragonH/JustTalk)
+3. 🎉 Merged PR [#2](https://github.com/dragonH/dragonH/pull/2) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
+4. 💪 Opened PR [#2](https://github.com/dragonH/dragonH/pull/2) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
+5. 🎉 Merged PR [#1](https://github.com/dragonH/dragonH/pull/1) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
 <!--END_SECTION:activity-->
 
 </details>

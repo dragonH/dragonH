@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle Supports Oracle Management Agent (OMA) version 13.5 for Oracle Enterprise Manager Cloud Control 13cR5](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-management-agent-version-13-5-for-oracle-enterprise-manager-cloud-control-13cr5/)
+- [AWS AppConfig now enables customers to compare two application configuration versions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appconfig-now-enables-customers-to-compare-two-application-configuration-versions/)
 - [Amazon Kendra releases Web Crawler to enable web site search](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-kendra-releases-web-crawler-to-enable-web-site-search/)
 - [AWS Graviton2 based M6g, C6g, R6g and T4g instances are now available in EU (Paris, Milan) regions, and M6g instances are available in Middle East (Bahrain) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-graviton2-m6g-c6g-r6g-t4g-instances-available-eu-paris-milan-regions-m6g-instance-available-middle-east-bahrain-regions/)
 - [AWS Application Migration Service is now available in the US West (Northern California), Asia Pacific (Osaka), Canada (Central), and South America (São Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-application-migration-service-is-now-available-in-the-us-west-northern-california-asia-pacific-osaka-canada-central-and-south-america-sao-paulo-regions/)
@@ -66,8 +68,6 @@
 - [Amazon MQ for RabbitMQ now supports the consistent hash exchange type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-for-rabbitmq-now-supports-the-consistent-hash-exchange-type/)
 - [Amazon Athena adds parameterized queries to improve reusability and security](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-adds-parameterized-queries-to-improve-reusability-and-security/)
 - [CloudWatch Container Insights for Amazon ECS now available in the AWS Middle East (Bahrain) region](https://aws.amazon.com/about-aws/whats-new/2021/07/cloudwatch-container-insights-for-amazon-ecs-available-in-aws-middle-east-bahrain-region/)
-- [Amazon Redshift launches RA3 in Hong Kong and China Regions (Beijing, Ningxia)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-launches-ra3-in-hong-kong-and-china-regions-beijing-ningxia/)
-- [AWS Elemental MediaPackage extends its metadata passthrough capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-extends-its-metadata-passthrough-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

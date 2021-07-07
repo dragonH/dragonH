@@ -84,7 +84,7 @@
 
 ---
 
-<details>
+<details open>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
@@ -97,7 +97,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>:zap: GitHub Stats</summary>
 
   <img  alt="dragonH's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dragonH&show_icons=true&theme=radical&bg_color=100,e96464,772e95&title_color=fff&text_color=fff"/>

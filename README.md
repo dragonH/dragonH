@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Graviton2 based M6g, C6g, R6g and T4g instances are now available in EU (Paris, Milan) regions, and M6g instances are available in Middle East (Bahrain) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-graviton2-m6g-c6g-r6g-t4g-instances-available-eu-paris-milan-regions-m6g-instance-available-middle-east-bahrain-regions/)
 - [AWS Application Migration Service is now available in the US West (Northern California), Asia Pacific (Osaka), Canada (Central), and South America (São Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-application-migration-service-is-now-available-in-the-us-west-northern-california-asia-pacific-osaka-canada-central-and-south-america-sao-paulo-regions/)
 - [Announcing Workflow Studio, a new low-code visual workflow designer for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-workflow-studio-a-new-low-code-visual-workflow-designer-for-aws-step-functions/)
 - [Amplify Admin UI now supports importing existing Amazon Cognito User Pools and Identity Pools](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-admin-ui-now-supports-importing-existing-amazon-cognito-user-pools-and-identity-pools/)
@@ -67,7 +68,6 @@
 - [Amazon Redshift launches RA3 in Hong Kong and China Regions (Beijing, Ningxia)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-launches-ra3-in-hong-kong-and-china-regions-beijing-ningxia/)
 - [AWS Elemental MediaPackage extends its metadata passthrough capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-extends-its-metadata-passthrough-capabilities/)
 - [Amazon EKS managed node groups now supports parallel node upgrades](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-managed-node-groups-now-supports-parallel-node-upgrades/)
-- [AWS Glue Studio now provides data previews during visual job authoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-studio-now-provides-data-previews-during-visual-job-authoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 adds support for real-time audio-video using a web browser](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-appstream-2-0-adds-support-for-real-time-audio-video-using-a-web-browser/)
 - [AWS Distro for OpenTelemetry adds support for Container metrics in Amazon CloudWatch Container Insights (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-distro-for-opentelemetry-adds-support-for-container-metrics-in-amazon-cloudwatch-container-insights-preview/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postogre-supports-new-minor-versions/)
 - [Amazon CloudFront announces new APIs to locate and move alternate domain names (CNAMEs)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudfront-announces-new-apis-to-locate-and-move-alternate-domain-names-cnames/)
@@ -67,7 +68,6 @@
 - [The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-chime-sdk-adds-media-capture-pipelines-to-enable-capture-of-meeting-video-audio-and-content-streams/)
 - [Announcing the General Availability of AWS Local Zones in Dallas and Philadelphia](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-dallas-and-philadelphia/)
 - [Amazon RDS for Oracle Supports Oracle Management Agent (OMA) version 13.5 for Oracle Enterprise Manager Cloud Control 13cR5](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-management-agent-version-13-5-for-oracle-enterprise-manager-cloud-control-13cr5/)
-- [AWS AppConfig now enables customers to compare two application configuration versions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appconfig-now-enables-customers-to-compare-two-application-configuration-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

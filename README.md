@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 adds Resource Identifiers and Tags for VPC Security Group Rules](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-adds-resource-identifiers-tags-vpc-security-groups-rules/)
 - [AWS Lambda now supports Amazon MQ for RabbitMQ as an event source](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-now-supports-amazon-mq-for-rabbitmq-as-an-event-source/)
 - [The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-chime-sdk-adds-media-capture-pipelines-to-enable-capture-of-meeting-video-audio-and-content-streams/)
 - [Announcing the General Availability of AWS Local Zones in Dallas and Philadelphia](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-dallas-and-philadelphia/)
@@ -67,7 +68,6 @@
 - [AWS Graviton2 based M6g, C6g, R6g and T4g instances are now available in EU (Paris, Milan) regions, and M6g instances are available in Middle East (Bahrain) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-graviton2-m6g-c6g-r6g-t4g-instances-available-eu-paris-milan-regions-m6g-instance-available-middle-east-bahrain-regions/)
 - [AWS Application Migration Service is now available in the US West (Northern California), Asia Pacific (Osaka), Canada (Central), and South America (São Paulo) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-application-migration-service-is-now-available-in-the-us-west-northern-california-asia-pacific-osaka-canada-central-and-south-america-sao-paulo-regions/)
 - [Announcing Workflow Studio, a new low-code visual workflow designer for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-workflow-studio-a-new-low-code-visual-workflow-designer-for-aws-step-functions/)
-- [Amplify Admin UI now supports importing existing Amazon Cognito User Pools and Identity Pools](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-admin-ui-now-supports-importing-existing-amazon-cognito-user-pools-and-identity-pools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports central monitoring of VPC routes for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-firewall-manager-supports-central-monitoring-of-vpc-routes-for-aws-network-firewall/)
 - [AWS IoT Core for LoRaWAN is now available in Sydney, Tokyo, and Oregon AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-for-lorawan-is-now-available-in-sydney-tokyo-and-oregon-aws-regions/)
 - [AWS lowers data processing charges for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lowers-data-processing-charges-aws-privatelink/)
 - [AWS Amplify allows you to mix and match authorization modes in DataStore](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-mix-match-authorization-modes-datastore/)
@@ -67,7 +68,6 @@
 - [AWS Distro for OpenTelemetry adds support for Container metrics in Amazon CloudWatch Container Insights (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-distro-for-opentelemetry-adds-support-for-container-metrics-in-amazon-cloudwatch-container-insights-preview/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postogre-supports-new-minor-versions/)
 - [Amazon CloudFront announces new APIs to locate and move alternate domain names (CNAMEs)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudfront-announces-new-apis-to-locate-and-move-alternate-domain-names-cnames/)
-- [AWS Storage Gateway adds support for AWS Privatelink for Amazon S3 and Amazon S3 Access Points](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-storage-gateway-adds-supports-aws-privatelink-amazon-s3-amazon-s3-access-points/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

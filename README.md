@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now easily enable Amazon DevOps Guru across your organization with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/07/now-easily-enable-amazon-devops-guru-across-your-organization-with-quick-setup/)
 - [AWS Firewall Manager now supports central monitoring of VPC routes for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-firewall-manager-supports-central-monitoring-of-vpc-routes-for-aws-network-firewall/)
 - [AWS IoT Core for LoRaWAN is now available in Sydney, Tokyo, and Oregon AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-for-lorawan-is-now-available-in-sydney-tokyo-and-oregon-aws-regions/)
 - [AWS lowers data processing charges for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lowers-data-processing-charges-aws-privatelink/)
@@ -67,7 +68,6 @@
 - [Amazon AppStream 2.0 adds support for real-time audio-video using a web browser](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-appstream-2-0-adds-support-for-real-time-audio-video-using-a-web-browser/)
 - [AWS Distro for OpenTelemetry adds support for Container metrics in Amazon CloudWatch Container Insights (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-distro-for-opentelemetry-adds-support-for-container-metrics-in-amazon-cloudwatch-container-insights-preview/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postogre-supports-new-minor-versions/)
-- [Amazon CloudFront announces new APIs to locate and move alternate domain names (CNAMEs)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudfront-announces-new-apis-to-locate-and-move-alternate-domain-names-cnames/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

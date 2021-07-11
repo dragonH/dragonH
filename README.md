@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#262](https://github.com/rangav/thunder-client-support/issues/262) in [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
-2. 🎉 Merged PR [#1](https://github.com/dragonH/JustTalk/pull/1) in [dragonH/JustTalk](https://github.com/dragonH/JustTalk)
-3. 💪 Opened PR [#1](https://github.com/dragonH/JustTalk/pull/1) in [dragonH/JustTalk](https://github.com/dragonH/JustTalk)
-4. 🎉 Merged PR [#2](https://github.com/dragonH/dragonH/pull/2) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
-5. 💪 Opened PR [#2](https://github.com/dragonH/dragonH/pull/2) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
+1. 🗣 Commented on [#262](https://github.com/rangav/thunder-client-support/issues/262) in [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
+2. ❗️ Opened issue [#262](https://github.com/rangav/thunder-client-support/issues/262) in [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
+3. 🎉 Merged PR [#1](https://github.com/dragonH/JustTalk/pull/1) in [dragonH/JustTalk](https://github.com/dragonH/JustTalk)
+4. 💪 Opened PR [#1](https://github.com/dragonH/JustTalk/pull/1) in [dragonH/JustTalk](https://github.com/dragonH/JustTalk)
+5. 🎉 Merged PR [#2](https://github.com/dragonH/dragonH/pull/2) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
 <!--END_SECTION:activity-->
 
 </details>

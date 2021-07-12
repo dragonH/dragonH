@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map supports configuring negative caching for DNS queries](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/)
+- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-new-minor-versions/)
 - [Amplify Flutter now supports Null Safety](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-flutter-now-supports-null-safety/)
 - [AWS AppSync Now Available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-now-available-in-asia-pacific-osaka/)
 - [AWS Organizations increases quotas for tag policies](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-organizations-increases-quotas-tag-policies/)
@@ -66,8 +68,6 @@
 - [AWS Shield Advanced no longer requires AWS WAF logging](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-shield-advanced-no-longer-requires-aws-waf-logging/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.34, and 8.0.25](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-mysql-supports-new-minor-versions-5-7-34-and-8-0-25/)
 - [Amazon RDS for PostgreSQL Supports oracle_fdw extension for accessing data contained in Oracle databases](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-oracle-fdw-extension-for-accessing-data-in-oracle-databases/)
-- [Amazon announces new AWS Deep Learning Containers to deploy Hugging Face models faster on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-announces-new-aws-deep-learning-containers-to-deploy-hugging-face-models-faster-on-amazon-sagemaker/)
-- [Announcing Model Variable Importance for Amazon Fraud Detector](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-model-variable-importance-for-amazon-fraud-detector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

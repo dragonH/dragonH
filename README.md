@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The Amazon Redshift Data API is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-redshift-data-api-is-now-available-in-the-aws-asia-pacific-osaka-region/)
 - [AWS Cloud Map supports configuring negative caching for DNS queries](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-new-minor-versions/)
 - [Amplify Flutter now supports Null Safety](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-flutter-now-supports-null-safety/)
@@ -67,7 +68,6 @@
 - [AWS Now Allows Customers To Pay For Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/)
 - [AWS Shield Advanced no longer requires AWS WAF logging](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-shield-advanced-no-longer-requires-aws-waf-logging/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.34, and 8.0.25](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-mysql-supports-new-minor-versions-5-7-34-and-8-0-25/)
-- [Amazon RDS for PostgreSQL Supports oracle_fdw extension for accessing data contained in Oracle databases](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-oracle-fdw-extension-for-accessing-data-in-oracle-databases/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

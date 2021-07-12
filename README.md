@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Pinpoint Announces Improved Journey Controls](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-pinpoint-announces-improved-journey-controls/)
 - [The Amazon Redshift Data API is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-redshift-data-api-is-now-available-in-the-aws-asia-pacific-osaka-region/)
 - [AWS Cloud Map supports configuring negative caching for DNS queries](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-new-minor-versions/)
@@ -67,7 +68,6 @@
 - [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ml-inf1-instances-available-amazon-sagemaker-4-additional-aws-regions/)
 - [AWS Now Allows Customers To Pay For Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/)
 - [AWS Shield Advanced no longer requires AWS WAF logging](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-shield-advanced-no-longer-requires-aws-waf-logging/)
-- [Amazon RDS for MySQL supports new minor versions 5.7.34, and 8.0.25](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-mysql-supports-new-minor-versions-5-7-34-and-8-0-25/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

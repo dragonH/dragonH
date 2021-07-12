@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Now easily enable Amazon DevOps Guru across your organization with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/07/now-easily-enable-amazon-devops-guru-across-your-organization-with-quick-setup/)
-- [AWS Firewall Manager now supports central monitoring of VPC routes for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-firewall-manager-supports-central-monitoring-of-vpc-routes-for-aws-network-firewall/)
-- [AWS IoT Core for LoRaWAN is now available in Sydney, Tokyo, and Oregon AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-for-lorawan-is-now-available-in-sydney-tokyo-and-oregon-aws-regions/)
-- [AWS lowers data processing charges for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lowers-data-processing-charges-aws-privatelink/)
-- [AWS Amplify allows you to mix and match authorization modes in DataStore](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-mix-match-authorization-modes-datastore/)
-- [AWS Systems Manager Application Manager now supports full lifecycle management of AWS CloudFormation templates and stacks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-application-manager-now-supports-full-lifecycle-management-of-aws-cloudformation-templates-and-stacks/)
-- [New digital course: Amazon S3 Business Continuity and Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2021/07/new-digital-course-amazon-s3-business-continuity-and-disaster-recovery/)
-- [Amazon AppStream 2.0 adds support for real-time audio-video using a web browser](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-appstream-2-0-adds-support-for-real-time-audio-video-using-a-web-browser/)
-- [AWS Distro for OpenTelemetry adds support for Container metrics in Amazon CloudWatch Container Insights (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-distro-for-opentelemetry-adds-support-for-container-metrics-in-amazon-cloudwatch-container-insights-preview/)
-- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postogre-supports-new-minor-versions/)
+- [Amplify Flutter now supports Null Safety](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-flutter-now-supports-null-safety/)
+- [AWS AppSync Now Available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-now-available-in-asia-pacific-osaka/)
+- [AWS Organizations increases quotas for tag policies](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-organizations-increases-quotas-tag-policies/)
+- [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ml-inf1-instances-available-amazon-sagemaker-4-additional-aws-regions/)
+- [AWS Now Allows Customers To Pay For Their Usage in Advance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/)
+- [AWS Shield Advanced no longer requires AWS WAF logging](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-shield-advanced-no-longer-requires-aws-waf-logging/)
+- [Amazon RDS for MySQL supports new minor versions 5.7.34, and 8.0.25](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-mysql-supports-new-minor-versions-5-7-34-and-8-0-25/)
+- [Amazon RDS for PostgreSQL Supports oracle_fdw extension for accessing data contained in Oracle databases](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-oracle-fdw-extension-for-accessing-data-in-oracle-databases/)
+- [Amazon announces new AWS Deep Learning Containers to deploy Hugging Face models faster on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-announces-new-aws-deep-learning-containers-to-deploy-hugging-face-models-faster-on-amazon-sagemaker/)
+- [Announcing Model Variable Importance for Amazon Fraud Detector](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-model-variable-importance-for-amazon-fraud-detector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

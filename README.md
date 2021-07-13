@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now view inventory and patch compliance of stopped instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/07/now-view-inventory-and-patch-compliance-of-stopped-instances-using-aws-systems-manager/)
 - [Amazon SageMaker Pipeline introduces a automatic hyperparameter tuning step](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-pipeline-introduces-a-automatic-hyperparameter-tuning-step/)
 - [AWS IoT Core for LoRaWAN now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-lorawan-supports-vpc-endpoints/)
 - [NoSQL Workbench for Amazon DynamoDB now helps you run frequent operations more easily to modify and access table data](https://aws.amazon.com/about-aws/whats-new/2021/07/nosql-workbench-for-amazon-dynamodb-now-helps-you-run-frequent-o/)
@@ -67,7 +68,6 @@
 - [Amplify Flutter now supports Null Safety](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-flutter-now-supports-null-safety/)
 - [AWS AppSync Now Available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-now-available-in-asia-pacific-osaka/)
 - [AWS Organizations increases quotas for tag policies](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-organizations-increases-quotas-tag-policies/)
-- [Amazon ml.Inf1 instances are now available on Amazon SageMaker in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ml-inf1-instances-available-amazon-sagemaker-4-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,9 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Pipeline introduces a automatic hyperparameter tuning step](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-pipeline-introduces-a-automatic-hyperparameter-tuning-step/)
 - [AWS IoT Core for LoRaWAN now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-lorawan-supports-vpc-endpoints/)
 - [NoSQL Workbench for Amazon DynamoDB now helps you run frequent operations more easily to modify and access table data](https://aws.amazon.com/about-aws/whats-new/2021/07/nosql-workbench-for-amazon-dynamodb-now-helps-you-run-frequent-o/)
-- [Amazon Pinpoint Announces Improved Journey Controls](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-pinpoint-announces-improved-journey-controls/)
 - [The Amazon Redshift Data API is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-redshift-data-api-is-now-available-in-the-aws-asia-pacific-osaka-region/)
 - [AWS Cloud Map supports configuring negative caching for DNS queries](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-new-minor-versions/)

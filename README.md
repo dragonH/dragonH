@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/dragonH/happy-6-pm/pull/10) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-2. 💪 Opened PR [#10](https://github.com/dragonH/happy-6-pm/pull/10) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-3. 🎉 Merged PR [#9](https://github.com/dragonH/happy-6-pm/pull/9) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-4. 💪 Opened PR [#9](https://github.com/dragonH/happy-6-pm/pull/9) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-5. 🗣 Commented on [#262](https://github.com/rangav/thunder-client-support/issues/262) in [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
+1. 🎉 Merged PR [#1](https://github.com/dragonH/dragonH.github.io.v1/pull/1) in [dragonH/dragonH.github.io.v1](https://github.com/dragonH/dragonH.github.io.v1)
+2. 🎉 Merged PR [#10](https://github.com/dragonH/happy-6-pm/pull/10) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+3. 💪 Opened PR [#10](https://github.com/dragonH/happy-6-pm/pull/10) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+4. 🎉 Merged PR [#9](https://github.com/dragonH/happy-6-pm/pull/9) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+5. 💪 Opened PR [#9](https://github.com/dragonH/happy-6-pm/pull/9) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
 <!--END_SECTION:activity-->
 
 </details>

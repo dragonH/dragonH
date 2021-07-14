@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder now supports parameters in components for creating custom images](https://aws.amazon.com/about-aws/whats-new/2021/07/ec2-image-builder-supports-parameters-components-creating-custom-images/)
 - [Amazon Lex announces tooling to migrate bots from Lex V1 console to Lex V2 console](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-tooling-to-migrate-bots-from-lex-v1-console-to-lex-v2-console/)
 - [AWS DeepRacer announces DeepRacer LIVE races](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-deepracer-announces-deepracer-live-races/)
 - [AWS Glue DataBrew is now available in AWS Asia Pacific (Hong Kong) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-available-aws-asia-pacific-hong-kong-region/)
@@ -67,7 +68,6 @@
 - [NoSQL Workbench for Amazon DynamoDB now helps you run frequent operations more easily to modify and access table data](https://aws.amazon.com/about-aws/whats-new/2021/07/nosql-workbench-for-amazon-dynamodb-now-helps-you-run-frequent-o/)
 - [The Amazon Redshift Data API is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-redshift-data-api-is-now-available-in-the-aws-asia-pacific-osaka-region/)
 - [AWS Cloud Map supports configuring negative caching for DNS queries](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/)
-- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-new-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

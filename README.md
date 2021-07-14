@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DeepRacer announces DeepRacer LIVE races](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-deepracer-announces-deepracer-live-races/)
 - [AWS Glue DataBrew is now available in AWS Asia Pacific (Hong Kong) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-available-aws-asia-pacific-hong-kong-region/)
 - [Now view inventory and patch compliance of stopped instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/07/now-view-inventory-and-patch-compliance-of-stopped-instances-using-aws-systems-manager/)
 - [Amazon SageMaker Pipeline introduces a automatic hyperparameter tuning step](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-pipeline-introduces-a-automatic-hyperparameter-tuning-step/)
@@ -67,7 +68,6 @@
 - [AWS Cloud Map supports configuring negative caching for DNS queries](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.3, 12.7, 11.12, 10.17, and 9.6.22](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-for-postgresql-supports-new-minor-versions/)
 - [Amplify Flutter now supports Null Safety](https://aws.amazon.com/about-aws/whats-new/2021/07/amplify-flutter-now-supports-null-safety/)
-- [AWS AppSync Now Available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-now-available-in-asia-pacific-osaka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

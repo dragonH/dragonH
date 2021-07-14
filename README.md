@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Certificate Manager provides expanded usage of imported ECDSA and RSA Certificates](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-certificate-manager-provides-expanded-usage-imported-ecdsa-rsa-certificates/)
+- [Amazon CloudFront now supports ECDSA certificates for HTTPS connections to viewers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudfront-now-supports-ecdsa-certificates-for-https-connections-to-viewers/)
+- [Amazon Kendra releases Principal Store for secure search](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-kendra-releases-principal-store-secure-search/)
+- [Amazon Lightsail now offers object storage for storing static content](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lightsail-now-offers-object-storage-for-storing-static-content/)
 - [EC2 Image Builder now supports parameters in components for creating custom images](https://aws.amazon.com/about-aws/whats-new/2021/07/ec2-image-builder-supports-parameters-components-creating-custom-images/)
 - [Amazon Lex announces tooling to migrate bots from Lex V1 console to Lex V2 console](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-tooling-to-migrate-bots-from-lex-v1-console-to-lex-v2-console/)
 - [AWS DeepRacer announces DeepRacer LIVE races](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-deepracer-announces-deepracer-live-races/)
 - [AWS Glue DataBrew is now available in AWS Asia Pacific (Hong Kong) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-available-aws-asia-pacific-hong-kong-region/)
 - [Now view inventory and patch compliance of stopped instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/07/now-view-inventory-and-patch-compliance-of-stopped-instances-using-aws-systems-manager/)
 - [Amazon SageMaker Pipeline introduces a automatic hyperparameter tuning step](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-pipeline-introduces-a-automatic-hyperparameter-tuning-step/)
-- [AWS IoT Core for LoRaWAN now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-lorawan-supports-vpc-endpoints/)
-- [NoSQL Workbench for Amazon DynamoDB now helps you run frequent operations more easily to modify and access table data](https://aws.amazon.com/about-aws/whats-new/2021/07/nosql-workbench-for-amazon-dynamodb-now-helps-you-run-frequent-o/)
-- [The Amazon Redshift Data API is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-redshift-data-api-is-now-available-in-the-aws-asia-pacific-osaka-region/)
-- [AWS Cloud Map supports configuring negative caching for DNS queries](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloud-map-supports-configuring-negative-caching-for-dns-queries/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

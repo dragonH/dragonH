@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core now supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-supports-vpc-endpoints/)
 - [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-directory-service-microsoft-active-directory-ad-connector-available-aws-asia-pacific-osaka-region/)
 - [Mark individual best practices as not applicable within the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2021/07/mark-individual-best-practices-as-not-applicable-within-the-aws-well-architected-tool/)
 - [AWS Certificate Manager provides expanded usage of imported ECDSA and RSA Certificates](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-certificate-manager-provides-expanded-usage-imported-ecdsa-rsa-certificates/)
@@ -67,7 +68,6 @@
 - [EC2 Image Builder now supports parameters in components for creating custom images](https://aws.amazon.com/about-aws/whats-new/2021/07/ec2-image-builder-supports-parameters-components-creating-custom-images/)
 - [Amazon Lex announces tooling to migrate bots from Lex V1 console to Lex V2 console](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-tooling-to-migrate-bots-from-lex-v1-console-to-lex-v2-console/)
 - [AWS DeepRacer announces DeepRacer LIVE races](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-deepracer-announces-deepracer-live-races/)
-- [AWS Glue DataBrew is now available in AWS Asia Pacific (Hong Kong) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-available-aws-asia-pacific-hong-kong-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New datasets available on the Registry of Open Data from the National Library of Medicine, Digital Earth Africa, Amazon, and others](https://aws.amazon.com/about-aws/whats-new/2021/07/new-public-datasets-available/)
+- [Amazon Lex launches support for Indian English](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-launches-support-indian-english/)
 - [Amazon Data Lifecycle Manager launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-launches-new-console-experience/)
 - [AWS App Mesh Constructs for AWS CDK are now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app-mesh-constructs-for-aws-cdk-are-now-generally-available/)
 - [AWS Private Certificate Authority introduces integration with Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-private-certificate-authority-introduces-integration-with-kubernetes/)
@@ -66,8 +68,6 @@
 - [FreeRTOS AWS reference integrations now include FreeRTOS 202012.01 LTS libraries](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-aws-reference-integrations-now-include-freertos-lts-libraries/)
 - [Introducing AWS for Health](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-for-health/)
 - [AWS CloudFormation now supports more stacks per AWS account](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-now-supports-more-stacks-per-aws-account/)
-- [Amazon HealthLake is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-healthlake-generally-available/)
-- [AWS IoT Core now supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-supports-vpc-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

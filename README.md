@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Data Lifecycle Manager launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-launches-new-console-experience/)
 - [AWS App Mesh Constructs for AWS CDK are now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app-mesh-constructs-for-aws-cdk-are-now-generally-available/)
 - [AWS Private Certificate Authority introduces integration with Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-private-certificate-authority-introduces-integration-with-kubernetes/)
 - [AWS IoT SiteWise is expanding its transforms and formula expressions capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-expanding-transforms-formula-expressions-capabilities/)
@@ -67,7 +68,6 @@
 - [AWS CloudFormation now supports more stacks per AWS account](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-now-supports-more-stacks-per-aws-account/)
 - [Amazon HealthLake is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-healthlake-generally-available/)
 - [AWS IoT Core now supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-supports-vpc-endpoints/)
-- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-directory-service-microsoft-active-directory-ad-connector-available-aws-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

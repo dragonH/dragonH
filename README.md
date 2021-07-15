@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Mesh Constructs for AWS CDK are now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app-mesh-constructs-for-aws-cdk-are-now-generally-available/)
+- [AWS Private Certificate Authority introduces integration with Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-private-certificate-authority-introduces-integration-with-kubernetes/)
+- [AWS IoT SiteWise is expanding its transforms and formula expressions capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-expanding-transforms-formula-expressions-capabilities/)
 - [Announcing availability of event-driven workflows with AWS Glue and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/)
 - [FreeRTOS AWS reference integrations now include FreeRTOS 202012.01 LTS libraries](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-aws-reference-integrations-now-include-freertos-lts-libraries/)
 - [Introducing AWS for Health](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-for-health/)
@@ -65,9 +68,6 @@
 - [Amazon HealthLake is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-healthlake-generally-available/)
 - [AWS IoT Core now supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-supports-vpc-endpoints/)
 - [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-directory-service-microsoft-active-directory-ad-connector-available-aws-asia-pacific-osaka-region/)
-- [Mark individual best practices as not applicable within the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2021/07/mark-individual-best-practices-as-not-applicable-within-the-aws-well-architected-tool/)
-- [AWS Certificate Manager provides expanded usage of imported ECDSA and RSA Certificates](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-certificate-manager-provides-expanded-usage-imported-ecdsa-rsa-certificates/)
-- [Amazon CloudFront now supports ECDSA certificates for HTTPS connections to viewers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudfront-now-supports-ecdsa-certificates-for-https-connections-to-viewers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation now supports more stacks per AWS account](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-now-supports-more-stacks-per-aws-account/)
+- [Amazon HealthLake is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-healthlake-generally-available/)
 - [AWS IoT Core now supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-supports-vpc-endpoints/)
 - [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-directory-service-microsoft-active-directory-ad-connector-available-aws-asia-pacific-osaka-region/)
 - [Mark individual best practices as not applicable within the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2021/07/mark-individual-best-practices-as-not-applicable-within-the-aws-well-architected-tool/)
@@ -66,8 +68,6 @@
 - [Amazon Kendra releases Principal Store for secure search](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-kendra-releases-principal-store-secure-search/)
 - [Amazon Lightsail now offers object storage for storing static content](https://aws.amazon.com/about-aws/whats-new/2021/06/amazon-lightsail-now-offers-object-storage-for-storing-static-content/)
 - [EC2 Image Builder now supports parameters in components for creating custom images](https://aws.amazon.com/about-aws/whats-new/2021/07/ec2-image-builder-supports-parameters-components-creating-custom-images/)
-- [Amazon Lex announces tooling to migrate bots from Lex V1 console to Lex V2 console](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-tooling-to-migrate-bots-from-lex-v1-console-to-lex-v2-console/)
-- [AWS DeepRacer announces DeepRacer LIVE races](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-deepracer-announces-deepracer-live-races/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

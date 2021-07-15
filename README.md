@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaPackage Now Available in US East (Ohio) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-available-east-ohio-region/)
 - [New datasets available on the Registry of Open Data from the National Library of Medicine, Digital Earth Africa, Amazon, and others](https://aws.amazon.com/about-aws/whats-new/2021/07/new-public-datasets-available/)
 - [Amazon Lex launches support for Indian English](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-launches-support-indian-english/)
 - [Amazon Data Lifecycle Manager launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-launches-new-console-experience/)
@@ -67,7 +68,6 @@
 - [Announcing availability of event-driven workflows with AWS Glue and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/)
 - [FreeRTOS AWS reference integrations now include FreeRTOS 202012.01 LTS libraries](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-aws-reference-integrations-now-include-freertos-lts-libraries/)
 - [Introducing AWS for Health](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-for-health/)
-- [AWS CloudFormation now supports more stacks per AWS account](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-cloudformation-now-supports-more-stacks-per-aws-account/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

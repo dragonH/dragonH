@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager announces distribution to AWS Organizations ID for AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/)
+- [AWS Systems Manager Automation now supports upgrade of SQL Server 2012](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-automation-supports-upgrade-sql-server/)
 - [AWS Glue DataBrew is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-hipaa-eligible/)
 - [AWS IoT SiteWise launches support for AWS PrivateLink for control plane APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-launches-support-aws-privatelink-control-plane-apis/)
 - [Amazon EC2 now supports custom time windows for Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-supports-custom-time-windows-scheduled-events/)
@@ -66,8 +68,6 @@
 - [New datasets available on the Registry of Open Data from the National Library of Medicine, Digital Earth Africa, Amazon, and others](https://aws.amazon.com/about-aws/whats-new/2021/07/new-public-datasets-available/)
 - [Amazon Lex launches support for Indian English](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-launches-support-indian-english/)
 - [Amazon Data Lifecycle Manager launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-launches-new-console-experience/)
-- [AWS App Mesh Constructs for AWS CDK are now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app-mesh-constructs-for-aws-cdk-are-now-generally-available/)
-- [AWS Private Certificate Authority introduces integration with Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-private-certificate-authority-introduces-integration-with-kubernetes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

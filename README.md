@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise launches support for AWS PrivateLink for control plane APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-launches-support-aws-privatelink-control-plane-apis/)
+- [Amazon EC2 now supports custom time windows for Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-supports-custom-time-windows-scheduled-events/)
+- [New AWS Solutions Implementation: Simple File Manager for Amazon EFS](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-simple-file-manager-amazon-efs/)
 - [AWS Elemental MediaPackage Now Available in US East (Ohio) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-available-east-ohio-region/)
 - [New datasets available on the Registry of Open Data from the National Library of Medicine, Digital Earth Africa, Amazon, and others](https://aws.amazon.com/about-aws/whats-new/2021/07/new-public-datasets-available/)
 - [Amazon Lex launches support for Indian English](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-launches-support-indian-english/)
@@ -65,9 +68,6 @@
 - [AWS App Mesh Constructs for AWS CDK are now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app-mesh-constructs-for-aws-cdk-are-now-generally-available/)
 - [AWS Private Certificate Authority introduces integration with Kubernetes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-private-certificate-authority-introduces-integration-with-kubernetes/)
 - [AWS IoT SiteWise is expanding its transforms and formula expressions capabilities](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-expanding-transforms-formula-expressions-capabilities/)
-- [Announcing availability of event-driven workflows with AWS Glue and Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-event-driven-workflows-aws-glue-amazon-eventbridge/)
-- [FreeRTOS AWS reference integrations now include FreeRTOS 202012.01 LTS libraries](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-aws-reference-integrations-now-include-freertos-lts-libraries/)
-- [Introducing AWS for Health](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-for-health/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

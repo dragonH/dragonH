@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS customers can now view all the labels supported by Amazon Rekognition](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-customers-view-all-labels-supported-amazon-rekognition/)
 - [AWS License Manager announces distribution to AWS Organizations ID for AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/)
 - [AWS Systems Manager Automation now supports upgrade of SQL Server 2012](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-automation-supports-upgrade-sql-server/)
 - [AWS Glue DataBrew is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-hipaa-eligible/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaPackage Now Available in US East (Ohio) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-elemental-mediapackage-available-east-ohio-region/)
 - [New datasets available on the Registry of Open Data from the National Library of Medicine, Digital Earth Africa, Amazon, and others](https://aws.amazon.com/about-aws/whats-new/2021/07/new-public-datasets-available/)
 - [Amazon Lex launches support for Indian English](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-launches-support-indian-english/)
-- [Amazon Data Lifecycle Manager launches new console experience](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-launches-new-console-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

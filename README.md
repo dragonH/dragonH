@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: Tamper Proof Quality Data Using Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-tamper-proof-quality-data-using-amazon-qldb/)
 - [Amazon Athena expands Apache Hudi support](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-expands-apache-hudi-support/)
 - [Amazon MQ now supports updating the maintenance window time](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-supports-updating-maintenance-window-time/)
 - [AWS customers can now view all the labels supported by Amazon Rekognition](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-customers-view-all-labels-supported-amazon-rekognition/)
@@ -67,7 +68,6 @@
 - [AWS Glue DataBrew is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-hipaa-eligible/)
 - [AWS IoT SiteWise launches support for AWS PrivateLink for control plane APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-launches-support-aws-privatelink-control-plane-apis/)
 - [Amazon EC2 now supports custom time windows for Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-supports-custom-time-windows-scheduled-events/)
-- [New AWS Solutions Implementation: Simple File Manager for Amazon EFS](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-simple-file-manager-amazon-efs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

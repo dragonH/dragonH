@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Announces General Availability of Amazon EBS io2 Block Express Volumes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-general-availability-amazon-ebs-block-express-volumes/)
 - [New AWS Solutions Implementation: Tamper Proof Quality Data Using Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-tamper-proof-quality-data-using-amazon-qldb/)
 - [Amazon Athena expands Apache Hudi support](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-expands-apache-hudi-support/)
 - [Amazon MQ now supports updating the maintenance window time](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-supports-updating-maintenance-window-time/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager Automation now supports upgrade of SQL Server 2012](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-automation-supports-upgrade-sql-server/)
 - [AWS Glue DataBrew is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-hipaa-eligible/)
 - [AWS IoT SiteWise launches support for AWS PrivateLink for control plane APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-launches-support-aws-privatelink-control-plane-apis/)
-- [Amazon EC2 now supports custom time windows for Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-supports-custom-time-windows-scheduled-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

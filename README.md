@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and EKS Distro now support Kubernetes version 1.21](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-eks-distro-support-kubernetes/)
+- [AWS CodeBuild is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-codebuild-is-now-available-in-aws-asia-pacific-osaka-region/)
 - [AWS IQ now supports chat response directly through email](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iq-supports-chat-response-directly-through-email/)
 - [Introducing AWS Edit in the Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-edit-in-the-cloud/)
 - [AWS RoboMaker WorldForge now supports adding doors to indoor residential simulation worlds](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-robomaker-worldforge-supports-adding-doors-indoor-residential-simulation-worlds/)
@@ -66,8 +68,6 @@
 - [AWS announces a new AWS Training Partner program](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-a-new-aws-training-partner-program/)
 - [Amazon Transcribe now supports streaming transcription in Amazon Web Services China](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-transcribe-now-supports-streaming-transcription-amazon-web-services-china/)
 - [AWS Announces General Availability of Amazon EBS io2 Block Express Volumes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-general-availability-amazon-ebs-block-express-volumes/)
-- [New AWS Solutions Implementation: Tamper Proof Quality Data Using Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-solutions-implementation-tamper-proof-quality-data-using-amazon-qldb/)
-- [Amazon Athena expands Apache Hudi support](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-expands-apache-hudi-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

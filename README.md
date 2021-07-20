@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Data Sharing is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-data-sharing-available-aws-govcloud-us-regions/)
 - [AWS announces a new AWS Training Partner program](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-a-new-aws-training-partner-program/)
 - [Amazon Transcribe now supports streaming transcription in Amazon Web Services China](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-transcribe-now-supports-streaming-transcription-amazon-web-services-china/)
 - [AWS Announces General Availability of Amazon EBS io2 Block Express Volumes](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-announces-general-availability-amazon-ebs-block-express-volumes/)
@@ -67,7 +68,6 @@
 - [AWS customers can now view all the labels supported by Amazon Rekognition](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-customers-view-all-labels-supported-amazon-rekognition/)
 - [Amazon SageMaker Edge Manager now integrates with AWS IoT Greengrass to simplify deployment to fleets of edge devices](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-edge-manager-integrates-aws-iot-greengrass-simplify-deployment-fleets-edge-devices/)
 - [AWS License Manager announces distribution to AWS Organizations ID for AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-license-manager-announces-distribution-aws-organizations-id-aws-marketplace-customers/)
-- [AWS Systems Manager Automation now supports upgrade of SQL Server 2012](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-automation-supports-upgrade-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

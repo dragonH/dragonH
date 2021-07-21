@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-chime-sdk-adds-media-capture-pipelines-to-enable-capture-of-meeting-video-audio-and-content-streams/)
 - [Easily enable AWS Config recording and deploy Conformance Packs across your organization using Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/07/enable-aws-config-recording-deploy-conformance-packs-across-your-organization-quick-setup/)
 - [Amazon RDS for SQL Server Supports New Minor Versions for SQL Server 2017 and 2016](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-sql-server-supports-new-minor-versions/)
 - [AWS Glue Schema Registry is now available in AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-schema-registry-available-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [AWS IQ now supports chat response directly through email](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iq-supports-chat-response-directly-through-email/)
 - [Introducing AWS Edit in the Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-edit-in-the-cloud/)
 - [AWS RoboMaker WorldForge now supports adding doors to indoor residential simulation worlds](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-robomaker-worldforge-supports-adding-doors-indoor-residential-simulation-worlds/)
-- [Amazon RDS Cross-Region Automated Backups Regional Expansion](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-cross-region-automated-backups-regional-expansion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

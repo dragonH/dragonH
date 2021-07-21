@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Easily enable AWS Config recording and deploy Conformance Packs across your organization using Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/07/enable-aws-config-recording-deploy-conformance-packs-across-your-organization-quick-setup/)
 - [Amazon RDS for SQL Server Supports New Minor Versions for SQL Server 2017 and 2016](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-sql-server-supports-new-minor-versions/)
 - [AWS Glue Schema Registry is now available in AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-schema-registry-available-aws-govcloud-us-regions/)
 - [Announcing availability of Red Hat Enterprise Linux with Microsoft SQL Server for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-red-hat-enterprise-linux-microsoft-sql-server-amazon-ec2/)
@@ -67,7 +68,6 @@
 - [Introducing AWS Edit in the Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-edit-in-the-cloud/)
 - [AWS RoboMaker WorldForge now supports adding doors to indoor residential simulation worlds](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-robomaker-worldforge-supports-adding-doors-indoor-residential-simulation-worlds/)
 - [Amazon RDS Cross-Region Automated Backups Regional Expansion](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-cross-region-automated-backups-regional-expansion/)
-- [Amazon Redshift Data Sharing is now available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-data-sharing-available-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena announces data source connector for Power BI](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-announces-data-source-connector-for-power-bi/)
 - [Amazon Connect Adds Colombia Phone Numbers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-adds-colombia-phone-numbers/)
 - [The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-chime-sdk-adds-media-capture-pipelines-to-enable-capture-of-meeting-video-audio-and-content-streams/)
 - [Easily enable AWS Config recording and deploy Conformance Packs across your organization using Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/07/enable-aws-config-recording-deploy-conformance-packs-across-your-organization-quick-setup/)
@@ -67,7 +68,6 @@
 - [Amazon EKS and EKS Distro now support Kubernetes version 1.21](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-eks-distro-support-kubernetes/)
 - [AWS CodeBuild is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-codebuild-is-now-available-in-aws-asia-pacific-osaka-region/)
 - [AWS IQ now supports chat response directly through email](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iq-supports-chat-response-directly-through-email/)
-- [Introducing AWS Edit in the Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-aws-edit-in-the-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

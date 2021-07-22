@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Automatic Revision Publishing for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-automatic-revision-publishing-aws-data-exchange/)
 - [Amazon Athena announces data source connector for Power BI](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-announces-data-source-connector-for-power-bi/)
 - [Amazon Connect Adds Colombia Phone Numbers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-adds-colombia-phone-numbers/)
 - [The Amazon Chime SDK adds media capture pipelines to enable capture of meeting video, audio, and content streams](https://aws.amazon.com/about-aws/whats-new/2021/07/the-amazon-chime-sdk-adds-media-capture-pipelines-to-enable-capture-of-meeting-video-audio-and-content-streams/)
@@ -67,7 +68,6 @@
 - [Announcing availability of Red Hat Enterprise Linux with Microsoft SQL Server for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-red-hat-enterprise-linux-microsoft-sql-server-amazon-ec2/)
 - [Amazon EKS and EKS Distro now support Kubernetes version 1.21](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-eks-distro-support-kubernetes/)
 - [AWS CodeBuild is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-codebuild-is-now-available-in-aws-asia-pacific-osaka-region/)
-- [AWS IQ now supports chat response directly through email](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iq-supports-chat-response-directly-through-email/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

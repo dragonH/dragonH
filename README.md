@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-the-pg-bigm-extension-for-faster-full-text-search-in-aws-govcloud-us-regions/)
+- [Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-cron-extension-scheduling-database-jobs-aws-govcloud-us-regions/)
+- [Amazon Aurora Supports PostgreSQL 12.6, 11.11, 10.16, and 9.6.21 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-supports-postgresql-12-6-11-11-10-16-and-9-6-21-in-aws-govcloud-us-regions/)
 - [Announcing Automatic Revision Publishing for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-automatic-revision-publishing-aws-data-exchange/)
 - [Amazon Athena announces data source connector for Power BI](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-athena-announces-data-source-connector-for-power-bi/)
 - [Amazon Connect Adds Colombia Phone Numbers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-adds-colombia-phone-numbers/)
@@ -65,9 +68,6 @@
 - [Easily enable AWS Config recording and deploy Conformance Packs across your organization using Quick Setup](https://aws.amazon.com/about-aws/whats-new/2021/07/enable-aws-config-recording-deploy-conformance-packs-across-your-organization-quick-setup/)
 - [Amazon RDS for SQL Server Supports New Minor Versions for SQL Server 2017 and 2016](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-sql-server-supports-new-minor-versions/)
 - [AWS Glue Schema Registry is now available in AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-schema-registry-available-aws-govcloud-us-regions/)
-- [Announcing availability of Red Hat Enterprise Linux with Microsoft SQL Server for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-red-hat-enterprise-linux-microsoft-sql-server-amazon-ec2/)
-- [Amazon EKS and EKS Distro now support Kubernetes version 1.21](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-eks-eks-distro-support-kubernetes/)
-- [AWS CodeBuild is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-codebuild-is-now-available-in-aws-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker JumpStart introduces new vision models for image feature vector extraction and object detection](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-jumpstart-introduces-new-vision-models-image-feature-vector-extraction-object-detection/)
 - [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-partman-extension-managing-time-serial-id-base-table-partitioning-govcloud-regions/)
 - [Discovering Hot Topics Using Machine Learning solution now allows businesses to analyze news article content for sentiment and topic analysis](https://aws.amazon.com/about-aws/whats-new/2021/07/discovering-hot-topics-using-machine-learning-solution-allows-businesses-analyze-news-article-content-sentiment-topic-analysis/)
 - [AWS Glue DataBrew now supports writing prepared data directly into JDBC-supported destinations](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-supports-writing-prepared-data-directly-into-jdbc-supported-destinations/)
@@ -67,7 +68,6 @@
 - [Amazon Virtual Private Cloud (VPC) customers can now assign IP prefixes to their EC2 instances](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-private-cloud-vpc-customers-can-assign-ip-prefixes-ec2-instances/)
 - [Simplify CI/CD configuration for serverless applications and your favorite CI/CD system — Public Preview](https://aws.amazon.com/about-aws/whats-new/2021/07/simplify-ci-cd-configuration-serverless-applications-your-favorite-ci-cd-system-public-preview/)
 - [Amazon Aurora PostgreSQL supports the pg_bigm extension for faster full text search in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-the-pg-bigm-extension-for-faster-full-text-search-in-aws-govcloud-us-regions/)
-- [Amazon Aurora PostgreSQL supports pg_cron extension for scheduling database jobs in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-cron-extension-scheduling-database-jobs-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

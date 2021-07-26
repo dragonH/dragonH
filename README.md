@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Access Points aliases allow any application that requires an S3 bucket name to easily use an access point](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-access-points-aliases-allow-application-requires-s3-bucket-name-easily-use-access-point/)
+- [Amazon Connect CTI Adapter for Salesforce now provides guided setup](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-cti-adapter-for-salesforce-now-provides-guided-setup/)
 - [Amazon SageMaker Autopilot and Automatic Model Tuning now support more refined access control using Condition Key Policies](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-autopilot-automatic-model-tuning-support-refined-access-control-using-condition-key-policies/)
 - [Amazon SageMaker JumpStart introduces new vision models for image feature vector extraction and object detection](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-jumpstart-introduces-new-vision-models-image-feature-vector-extraction-object-detection/)
 - [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-partman-extension-managing-time-serial-id-base-table-partitioning-govcloud-regions/)
@@ -66,8 +68,6 @@
 - [AWS Glue DataBrew adds the ability to specify which data quality statistics are generated for your datasets](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-adds-ability-specify-which-data-quality-statistics-generated-datasets/)
 - [Amazon Kendra releases WorkDocs Connector](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-kendra-releases-workdocs-connector/)
 - [Amazon QLDB supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-qldb-supports-customer-managed-kms-keys/)
-- [Amazon Virtual Private Cloud (VPC) customers can now assign IP prefixes to their EC2 instances](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-private-cloud-vpc-customers-can-assign-ip-prefixes-ec2-instances/)
-- [Simplify CI/CD configuration for serverless applications and your favorite CI/CD system — Public Preview](https://aws.amazon.com/about-aws/whats-new/2021/07/simplify-ci-cd-configuration-serverless-applications-your-favorite-ci-cd-system-public-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

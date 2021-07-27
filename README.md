@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces specialized support for automated processing of invoices and receipts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-textract-announces-specialized-support-automated-processing-invoices-receipts/)
+- [Amazon Aurora PostgreSQL supports the pg_proctab extension to access PostgreSQL system stats in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-the-pgproctab-extension-to-access-postgresql-system-stats-in-aws-govcloud-us-regions/)
 - [New Amazon SageMaker Pipelines integrations with popular third-party tools](https://aws.amazon.com/about-aws/whats-new/2021/07/new-amazon-sagemaker-pipelines-integrations-with-popular-third-party-tools/)
 - [AWS App2Container now supports containerization of complex multi-tier Windows applications](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app2container-now-supports-containerization-of-complex-multi-tier-windows-applications/)
 - [Updated versions of AWS IoT Device Tester for FreeRTOS and AWS IoT Device Tester for AWS IoT Greengrass are now available](https://aws.amazon.com/about-aws/whats-new/2021/07/updated-versions-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-available/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Autopilot and Automatic Model Tuning now support more refined access control using Condition Key Policies](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-autopilot-automatic-model-tuning-support-refined-access-control-using-condition-key-policies/)
 - [Amazon SageMaker JumpStart introduces new vision models for image feature vector extraction and object detection](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-sagemaker-jumpstart-introduces-new-vision-models-image-feature-vector-extraction-object-detection/)
 - [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-partman-extension-managing-time-serial-id-base-table-partitioning-govcloud-regions/)
-- [Discovering Hot Topics Using Machine Learning solution now allows businesses to analyze news article content for sentiment and topic analysis](https://aws.amazon.com/about-aws/whats-new/2021/07/discovering-hot-topics-using-machine-learning-solution-allows-businesses-analyze-news-article-content-sentiment-topic-analysis/)
-- [AWS Glue DataBrew now supports writing prepared data directly into JDBC-supported destinations](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-supports-writing-prepared-data-directly-into-jdbc-supported-destinations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/rangav/thunder-client-support/issues/262) in [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
+1. ❗️ Opened issue [#837](https://github.com/awslabs/aws-data-wrangler/issues/837) in [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
 2. 🗣 Commented on [#262](https://github.com/rangav/thunder-client-support/issues/262) in [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
 3. 🗣 Commented on [#262](https://github.com/rangav/thunder-client-support/issues/262) in [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)
 4. 🗣 Commented on [#262](https://github.com/rangav/thunder-client-support/issues/262) in [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support)

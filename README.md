@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-network-firewall-achieves-pci-dss-compliance/)
+- [Amazon VPC CNI plugin increases pods per node limits](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-vpc-cni-plugin-increases-pods-per-node-limits/)
+- [AWS CloudTrail now supports logging of data events for Amazon EBS direct APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/)
 - [AWS Snowball now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowball-supports-multicast-streams-routing-providing-instances-direct-access-external-networks/)
 - [Amazon Virtual Andon 2.2 – A digital notification system for manufacturers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-andon-2-2-digital-notification-system-manufacturers/)
 - [Announcing the General Availability of AWS Local Zones in Denver](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-denver/)
@@ -65,9 +68,6 @@
 - [New exam for AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/about-aws/whats-new/2021/07/new-exam-for-aws-certified-sysops-administrator-associate/)
 - [Amazon Textract announces specialized support for automated processing of invoices and receipts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-textract-announces-specialized-support-automated-processing-invoices-receipts/)
 - [Amazon Aurora PostgreSQL supports the pg_proctab extension to access PostgreSQL system stats in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-the-pgproctab-extension-to-access-postgresql-system-stats-in-aws-govcloud-us-regions/)
-- [New Amazon SageMaker Pipelines integrations with popular third-party tools](https://aws.amazon.com/about-aws/whats-new/2021/07/new-amazon-sagemaker-pipelines-integrations-with-popular-third-party-tools/)
-- [AWS App2Container now supports containerization of complex multi-tier Windows applications](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app2container-now-supports-containerization-of-complex-multi-tier-windows-applications/)
-- [Updated versions of AWS IoT Device Tester for FreeRTOS and AWS IoT Device Tester for AWS IoT Greengrass are now available](https://aws.amazon.com/about-aws/whats-new/2021/07/updated-versions-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

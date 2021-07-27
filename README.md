@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon SageMaker Pipelines integrations with popular third-party tools](https://aws.amazon.com/about-aws/whats-new/2021/07/new-amazon-sagemaker-pipelines-integrations-with-popular-third-party-tools/)
 - [AWS App2Container now supports containerization of complex multi-tier Windows applications](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-app2container-now-supports-containerization-of-complex-multi-tier-windows-applications/)
 - [Updated versions of AWS IoT Device Tester for FreeRTOS and AWS IoT Device Tester for AWS IoT Greengrass are now available](https://aws.amazon.com/about-aws/whats-new/2021/07/updated-versions-aws-iot-device-tester-freertos-aws-iot-device-tester-aws-iot-greengrass-available/)
 - [Amazon S3 Access Points aliases allow any application that requires an S3 bucket name to easily use an access point](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-access-points-aliases-allow-application-requires-s3-bucket-name-easily-use-access-point/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora PostgreSQL supports the pg_partman extension for managing time or serial id based table partitioning in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-pg-partman-extension-managing-time-serial-id-base-table-partitioning-govcloud-regions/)
 - [Discovering Hot Topics Using Machine Learning solution now allows businesses to analyze news article content for sentiment and topic analysis](https://aws.amazon.com/about-aws/whats-new/2021/07/discovering-hot-topics-using-machine-learning-solution-allows-businesses-analyze-news-article-content-sentiment-topic-analysis/)
 - [AWS Glue DataBrew now supports writing prepared data directly into JDBC-supported destinations](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-supports-writing-prepared-data-directly-into-jdbc-supported-destinations/)
-- [AWS Glue DataBrew adds the ability to specify which data quality statistics are generated for your datasets](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-adds-ability-specify-which-data-quality-statistics-generated-datasets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

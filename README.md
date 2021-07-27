@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
 - [Amazon Connect CTI Adapter for Salesforce adds out-of-the-box chat user interface support to Salesforce Experience Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-cti-adapter-salesforce-chat--user-interface-support-salesforce-experience-cloud/)
 - [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
 - [Amazon Interactive Video Service adds SDK for live broadcasting from iOS and Android devices](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-interactive-video-service-adds-live-broadcasting-ios-android/)
@@ -67,7 +68,6 @@
 - [AWS Snowball now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowball-supports-multicast-streams-routing-providing-instances-direct-access-external-networks/)
 - [Amazon Virtual Andon 2.2 – A digital notification system for manufacturers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-andon-2-2-digital-notification-system-manufacturers/)
 - [Announcing the General Availability of AWS Local Zones in Denver](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-denver/)
-- [New course available: MLOps Engineering on AWS](https://aws.amazon.com/about-aws/whats-new/2021/07/new-course-available-mlops-engineering-on-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

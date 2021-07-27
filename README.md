@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect CTI Adapter for Salesforce adds out-of-the-box chat user interface support to Salesforce Experience Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-cti-adapter-salesforce-chat--user-interface-support-salesforce-experience-cloud/)
+- [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
+- [Amazon Interactive Video Service adds SDK for live broadcasting from iOS and Android devices](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-interactive-video-service-adds-live-broadcasting-ios-android/)
 - [AWS Network Firewall achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-network-firewall-achieves-pci-dss-compliance/)
 - [Amazon VPC CNI plugin increases pods per node limits](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-vpc-cni-plugin-increases-pods-per-node-limits/)
 - [AWS CloudTrail now supports logging of data events for Amazon EBS direct APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-cloudtrail-supports-logging-data-events-amazon-ebs-direct-apis/)
@@ -65,9 +68,6 @@
 - [Amazon Virtual Andon 2.2 – A digital notification system for manufacturers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-virtual-andon-2-2-digital-notification-system-manufacturers/)
 - [Announcing the General Availability of AWS Local Zones in Denver](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-the-general-availability-of-aws-local-zones-in-denver/)
 - [New course available: MLOps Engineering on AWS](https://aws.amazon.com/about-aws/whats-new/2021/07/new-course-available-mlops-engineering-on-aws/)
-- [New exam for AWS Certified SysOps Administrator - Associate](https://aws.amazon.com/about-aws/whats-new/2021/07/new-exam-for-aws-certified-sysops-administrator-associate/)
-- [Amazon Textract announces specialized support for automated processing of invoices and receipts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-textract-announces-specialized-support-automated-processing-invoices-receipts/)
-- [Amazon Aurora PostgreSQL supports the pg_proctab extension to access PostgreSQL system stats in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-aurora-postgresql-supports-the-pgproctab-extension-to-access-postgresql-system-stats-in-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

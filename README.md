@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower now provides support for KMS Encryption](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-provides-support-kms-encryption/)
+- [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
+- [You can now import your AWS CloudFormation stacks into a CloudFormation stack set](https://aws.amazon.com/about-aws/whats-new/2021/07/you-can-now-import-your-aws-cloudformation-stacks-into-a-cloudformation-stack-set/)
 - [Amazon CodeGuru Profiler announces new automated onboarding process for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/)
 - [AWS Service Catalog announces improvements to the Getting Started Library](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-service-catalog-announces-improvements-getting-started-library/)
 - [Announcing CDK Pipelines GA, CI/CD for CDK Apps](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-cdk-pipelines-ga-ci-cd-cdk-apps/)
 - [Announcing availability of AWS Outposts in Argentina, Chile, and Peru](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-aws-outposts-argentina-chile-peru/)
 - [Announcing new AWS Developer Specializations on Coursera](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-new-aws-developer-specializations-on-coursera/)
-- [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
 - [AWS Single Sign-On is now available in the Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-single-sign-on-is-now-available-in-the-europe-paris-region/)
 - [FreeRTOS 202107.00 includes SNTP library for time information in IoT applications](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-202107-00-includes-sntp-library-time-information-tot-applications/)
-- [Amazon Lex announces support for UK Postal Code built-in slot type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-support-uk-postal-code-built-in-slot-type/)
-- [Amazon Route 53 announces Route 53 Application Recovery Controller](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-route-53-announces-route-53-application-recovery-controller/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

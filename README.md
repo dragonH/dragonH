@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru Profiler announces new automated onboarding process for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/)
 - [AWS Service Catalog announces improvements to the Getting Started Library](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-service-catalog-announces-improvements-getting-started-library/)
 - [Announcing CDK Pipelines GA, CI/CD for CDK Apps](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-cdk-pipelines-ga-ci-cd-cdk-apps/)
 - [Announcing availability of AWS Outposts in Argentina, Chile, and Peru](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-aws-outposts-argentina-chile-peru/)
@@ -67,7 +68,6 @@
 - [FreeRTOS 202107.00 includes SNTP library for time information in IoT applications](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-202107-00-includes-sntp-library-time-information-tot-applications/)
 - [Amazon Lex announces support for UK Postal Code built-in slot type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-support-uk-postal-code-built-in-slot-type/)
 - [Amazon Route 53 announces Route 53 Application Recovery Controller](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-route-53-announces-route-53-application-recovery-controller/)
-- [Announcing support for JOIN operation in AWS IoT Analytics Data Stores](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-support-join-operation-aws-iot-analytics-data-stores/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

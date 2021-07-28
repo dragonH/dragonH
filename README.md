@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Placement Groups are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-placement-groups-are-now-available-on-aws-outposts/)
+- [Amazon Data Lifecycle Manager now supports CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-supports-cloudwatch-metrics/)
 - [AWS Amplify now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-now-supports-sign-in-with-apple/)
 - [AWS Glue DataBrew is now available in AWS Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-is-now-available-in-aws-europe-milan-region/)
 - [AWS DataSync is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-datasync-now-available-aws-osaka-region/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift Data API now adds support for multi-statement query execution and parameters](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-data-api-adds-support-multi-statement-query-execution-parameters/)
 - [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores in the Middle East (Bahrain), Asia Pacific (Osaka), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-supports-10-gb-memory-6-vcpu-cores-bahrain-osaka-hong-kong-regions/)
 - [AWS Control Tower now provides support for KMS Encryption](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-provides-support-kms-encryption/)
-- [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
-- [You can now import your AWS CloudFormation stacks into a CloudFormation stack set](https://aws.amazon.com/about-aws/whats-new/2021/07/you-can-now-import-your-aws-cloudformation-stacks-into-a-cloudformation-stack-set/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

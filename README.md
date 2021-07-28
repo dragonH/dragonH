@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Catalog announces improvements to the Getting Started Library](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-service-catalog-announces-improvements-getting-started-library/)
+- [Announcing CDK Pipelines GA, CI/CD for CDK Apps](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-cdk-pipelines-ga-ci-cd-cdk-apps/)
+- [Announcing availability of AWS Outposts in Argentina, Chile, and Peru](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-aws-outposts-argentina-chile-peru/)
 - [Announcing new AWS Developer Specializations on Coursera](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-new-aws-developer-specializations-on-coursera/)
 - [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
 - [AWS Single Sign-On is now available in the Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-single-sign-on-is-now-available-in-the-europe-paris-region/)
@@ -65,9 +68,6 @@
 - [Amazon Lex announces support for UK Postal Code built-in slot type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-support-uk-postal-code-built-in-slot-type/)
 - [Amazon Route 53 announces Route 53 Application Recovery Controller](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-route-53-announces-route-53-application-recovery-controller/)
 - [Announcing support for JOIN operation in AWS IoT Analytics Data Stores](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-support-join-operation-aws-iot-analytics-data-stores/)
-- [Announcing support for exporting data from AWS IoT SiteWise to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-support-exporting-data-aws-iot-sitewise-amazon-s3/)
-- [AWS Batch ListJobs Filtering Enhancements](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-batch-listjobs-filtering-enhancements/)
-- [Amazon Connect CTI Adapter for Salesforce adds out-of-the-box chat user interface support to Salesforce Experience Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-cti-adapter-salesforce-chat--user-interface-support-salesforce-experience-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

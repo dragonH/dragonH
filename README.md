@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-now-supports-sign-in-with-apple/)
+- [AWS Glue DataBrew is now available in AWS Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-is-now-available-in-aws-europe-milan-region/)
+- [AWS DataSync is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-datasync-now-available-aws-osaka-region/)
+- [Amazon DynamoDB Accelerator (DAX) is now available in the China (Beijing) Region, operated by Sinnet](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-is-now-available-in-the-china-beijing-region/)
+- [Amazon DynamoDB global tables are now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-global-tables-are-now-available-in-the-asia-paci/)
+- [Amazon Redshift Data API now adds support for multi-statement query execution and parameters](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-data-api-adds-support-multi-statement-query-execution-parameters/)
+- [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores in the Middle East (Bahrain), Asia Pacific (Osaka), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-supports-10-gb-memory-6-vcpu-cores-bahrain-osaka-hong-kong-regions/)
 - [AWS Control Tower now provides support for KMS Encryption](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-provides-support-kms-encryption/)
 - [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
 - [You can now import your AWS CloudFormation stacks into a CloudFormation stack set](https://aws.amazon.com/about-aws/whats-new/2021/07/you-can-now-import-your-aws-cloudformation-stacks-into-a-cloudformation-stack-set/)
-- [Amazon CodeGuru Profiler announces new automated onboarding process for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-codeguru-profiler-announces-automated-onboarding-process-aws-lambda-functions/)
-- [AWS Service Catalog announces improvements to the Getting Started Library](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-service-catalog-announces-improvements-getting-started-library/)
-- [Announcing CDK Pipelines GA, CI/CD for CDK Apps](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-cdk-pipelines-ga-ci-cd-cdk-apps/)
-- [Announcing availability of AWS Outposts in Argentina, Chile, and Peru](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-availability-aws-outposts-argentina-chile-peru/)
-- [Announcing new AWS Developer Specializations on Coursera](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-new-aws-developer-specializations-on-coursera/)
-- [AWS Single Sign-On is now available in the Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-single-sign-on-is-now-available-in-the-europe-paris-region/)
-- [FreeRTOS 202107.00 includes SNTP library for time information in IoT applications](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-202107-00-includes-sntp-library-time-information-tot-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

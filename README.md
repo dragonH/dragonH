@@ -58,14 +58,14 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Single Sign-On is now available in the Europe CDG (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/06/aws-single-sign-on-is-now-available-in-the-europe-cdg-paris-region/)
+- [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
+- [AWS Single Sign-On is now available in the Europe (Paris) region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-single-sign-on-is-now-available-in-the-europe-paris-region/)
 - [FreeRTOS 202107.00 includes SNTP library for time information in IoT applications](https://aws.amazon.com/about-aws/whats-new/2021/07/freertos-202107-00-includes-sntp-library-time-information-tot-applications/)
 - [Amazon Lex announces support for UK Postal Code built-in slot type](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-lex-announces-support-uk-postal-code-built-in-slot-type/)
 - [Amazon Route 53 announces Route 53 Application Recovery Controller](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-route-53-announces-route-53-application-recovery-controller/)
 - [Announcing support for JOIN operation in AWS IoT Analytics Data Stores](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-support-join-operation-aws-iot-analytics-data-stores/)
 - [Announcing support for exporting data from AWS IoT SiteWise to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/07/announcing-support-exporting-data-aws-iot-sitewise-amazon-s3/)
 - [AWS Batch ListJobs Filtering Enhancements](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-batch-listjobs-filtering-enhancements/)
-- [AWS MLOps Framework solution now supports Amazon SageMaker model registry and AWS Organizations Delegated Administrator Account to improve ML model management and governance](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-mlops-framework-solution-supports-amazon-sagemaker-model-registry-aws-organizations-delegated-administrator-account/)
 - [Amazon Connect CTI Adapter for Salesforce adds out-of-the-box chat user interface support to Salesforce Experience Cloud](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-connect-cti-adapter-salesforce-chat--user-interface-support-salesforce-experience-cloud/)
 - [AWS Snowcone now supports multicast streams and routing by providing instances with direct access to external networks](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-snowcone-now-supports-multicast-streams-and-routing-by-providing-instances-with-direct-access-to-external-networks/)
 <!-- AWS-NEWS:END -->

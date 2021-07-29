@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports the openCypher query language](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-supports-opencypher/)
 - [Amazon Neptune ML is now generally available with support for edge predictions, automation, and more](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-ml-generally-available-support-edge-predictions-automation-and-more/)
 - [Amazon CloudWatch adds support for trimmed mean statistics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudwatch-supports-trimmed-mean-statistics/)
 - [Amazon Neptune announces support for SPARQL 1.1 Graph Store HTTP Protocol](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-announces-support-sparql-1-1-graph-store-http-protocol/)
@@ -67,7 +68,6 @@
 - [AWS Amplify now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-now-supports-sign-in-with-apple/)
 - [AWS Glue DataBrew is now available in AWS Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-is-now-available-in-aws-europe-milan-region/)
 - [AWS DataSync is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-datasync-now-available-aws-osaka-region/)
-- [Amazon DynamoDB Accelerator (DAX) is now available in the China (Beijing) Region, operated by Sinnet](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-is-now-available-in-the-china-beijing-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

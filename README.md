@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 D3 instances with dense local HDD storage now available in Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-d3-instances-dense-local-hdd-storage-available-europe-london-region/)
 - [Amazon EC2 Placement Groups are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-placement-groups-are-now-available-on-aws-outposts/)
 - [Amazon Data Lifecycle Manager now supports CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-supports-cloudwatch-metrics/)
 - [AWS Amplify now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-amplify-now-supports-sign-in-with-apple/)
@@ -67,7 +68,6 @@
 - [Amazon DynamoDB global tables are now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-global-tables-are-now-available-in-the-asia-paci/)
 - [Amazon Redshift Data API now adds support for multi-statement query execution and parameters](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-data-api-adds-support-multi-statement-query-execution-parameters/)
 - [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores in the Middle East (Bahrain), Asia Pacific (Osaka), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-supports-10-gb-memory-6-vcpu-cores-bahrain-osaka-hong-kong-regions/)
-- [AWS Control Tower now provides support for KMS Encryption](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-provides-support-kms-encryption/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

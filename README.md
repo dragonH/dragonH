@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The Amazon DynamoDB Accelerator (DAX) SDK for Java 2.x is now available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-sdk-for-java-2-x-is-available/)
+- [Introducing new Amazon EC2 G4ad instance sizes](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-new-amazon-ec2-g4ad-instance-sizes/)
+- [Amazon EC2 Auto Scaling now lets you control which instances to terminate on scale-in](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-auto-scaling-now-lets-you-control-which-instances-to-terminate-on-scale-in/)
 - [AWS IoT SiteWise Edge now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-edge-now-generally-available/)
 - [Amazon MQ now supports RabbitMQ version 3.8.17](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-supports-rabbitmq-version-3-8-17/)
 - [Amazon S3 on Outposts adds two larger storage tiers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-outposts-adds-two-larger-storage-tiers/)
@@ -65,9 +68,6 @@
 - [Amazon Neptune now supports the openCypher query language](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-supports-opencypher/)
 - [Amazon Neptune ML is now generally available with support for edge predictions, automation, and more](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-ml-generally-available-support-edge-predictions-automation-and-more/)
 - [Amazon CloudWatch adds support for trimmed mean statistics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudwatch-supports-trimmed-mean-statistics/)
-- [Amazon Neptune announces support for SPARQL 1.1 Graph Store HTTP Protocol](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-announces-support-sparql-1-1-graph-store-http-protocol/)
-- [Amazon EC2 D3 instances with dense local HDD storage now available in Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-d3-instances-dense-local-hdd-storage-available-europe-london-region/)
-- [Amazon EC2 Placement Groups are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-placement-groups-are-now-available-on-aws-outposts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

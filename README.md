@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces (for Apache Cassandra) now automatically optimizes client connections made through AWS PrivateLink to improve availability and read/write throughput](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-keyspaces-for-apache-cassandra-now-automatically-optimi/)
+- [Amazon Rekognition Custom Labels makes it easy for customers to learn how to train machine learning models by providing tutorial videos, and sample datasets](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rekognition-custom-labels-customers-learn-train-machine-learning-models-providing-tutorial-videos-sample-datasets/)
 - [The Amazon DynamoDB Accelerator (DAX) SDK for Java 2.x is now available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-sdk-for-java-2-x-is-available/)
 - [Introducing new Amazon EC2 G4ad instance sizes](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-new-amazon-ec2-g4ad-instance-sizes/)
 - [Amazon EC2 Auto Scaling now lets you control which instances to terminate on scale-in](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-auto-scaling-now-lets-you-control-which-instances-to-terminate-on-scale-in/)
@@ -66,8 +68,6 @@
 - [Amazon S3 on Outposts adds two larger storage tiers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-outposts-adds-two-larger-storage-tiers/)
 - [Amazon S3 on Outposts supports direct access for applications running outside the Outposts VPC](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-outposts-supports-direct-access-applications-running-outside-outposts-vpc/)
 - [Amazon Neptune now supports the openCypher query language](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-supports-opencypher/)
-- [Amazon Neptune ML is now generally available with support for edge predictions, automation, and more](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-ml-generally-available-support-edge-predictions-automation-and-more/)
-- [Amazon CloudWatch adds support for trimmed mean statistics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudwatch-supports-trimmed-mean-statistics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

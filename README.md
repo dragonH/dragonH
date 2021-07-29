@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune ML is now generally available with support for edge predictions, automation, and more](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-ml-generally-available-support-edge-predictions-automation-and-more/)
+- [Amazon CloudWatch adds support for trimmed mean statistics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-cloudwatch-supports-trimmed-mean-statistics/)
+- [Amazon Neptune announces support for SPARQL 1.1 Graph Store HTTP Protocol](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-neptune-announces-support-sparql-1-1-graph-store-http-protocol/)
 - [Amazon EC2 D3 instances with dense local HDD storage now available in Europe (London) region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-d3-instances-dense-local-hdd-storage-available-europe-london-region/)
 - [Amazon EC2 Placement Groups are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-placement-groups-are-now-available-on-aws-outposts/)
 - [Amazon Data Lifecycle Manager now supports CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-data-lifecycle-manager-supports-cloudwatch-metrics/)
@@ -65,9 +68,6 @@
 - [AWS Glue DataBrew is now available in AWS Europe (Milan) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-glue-databrew-is-now-available-in-aws-europe-milan-region/)
 - [AWS DataSync is now available in AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-datasync-now-available-aws-osaka-region/)
 - [Amazon DynamoDB Accelerator (DAX) is now available in the China (Beijing) Region, operated by Sinnet](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-is-now-available-in-the-china-beijing-region/)
-- [Amazon DynamoDB global tables are now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-global-tables-are-now-available-in-the-asia-paci/)
-- [Amazon Redshift Data API now adds support for multi-statement query execution and parameters](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-redshift-data-api-adds-support-multi-statement-query-execution-parameters/)
-- [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores in the Middle East (Bahrain), Asia Pacific (Osaka), and Asia Pacific (Hong Kong) regions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-lambda-supports-10-gb-memory-6-vcpu-cores-bahrain-osaka-hong-kong-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

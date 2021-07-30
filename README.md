@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core Credential Provider now supports security tokens that are valid up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-credential-provider-supports-security-tokens-valid-12-hours/)
+- [Amazon WorkSpaces now offers web access with WorkSpaces Streaming Protocol (WSP)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-now-offers-web-access-with-workspaces-streaming-protocol-wsp/)
 - [AWS AppSync now supports custom authorization with AWS Lambda for GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-supports-custom-authorization-with-aws-lambda-graphsql-apis/)
 - [Amazon RDS for Oracle now supports Oracle Time Zone File Auto Upgrade](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-time-zone-file-auto-upgrade/)
 - [AWS Control Tower announces improvements to guardrail naming and descriptions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-announces-improvements-guardrail-naming-descriptions/)
@@ -66,8 +68,6 @@
 - [AWS Security Hub adds 10 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-security-hub-adds-10-controls-foundational-security-best-practices-standard-enhanced-cloud-security-posture-monitoring/)
 - [Amazon Keyspaces (for Apache Cassandra) now automatically optimizes client connections made through AWS PrivateLink to improve availability and read/write throughput](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-keyspaces-for-apache-cassandra-now-automatically-optimi/)
 - [Amazon Rekognition Custom Labels makes it easy for customers to learn how to train machine learning models by providing tutorial videos, and sample datasets](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rekognition-custom-labels-customers-learn-train-machine-learning-models-providing-tutorial-videos-sample-datasets/)
-- [The Amazon DynamoDB Accelerator (DAX) SDK for Java 2.x is now available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-sdk-for-java-2-x-is-available/)
-- [Introducing new Amazon EC2 G4ad instance sizes](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-new-amazon-ec2-g4ad-instance-sizes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

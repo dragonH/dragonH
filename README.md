@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync now supports custom authorization with AWS Lambda for GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-supports-custom-authorization-with-aws-lambda-graphsql-apis/)
+- [Amazon RDS for Oracle now supports Oracle Time Zone File Auto Upgrade](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-time-zone-file-auto-upgrade/)
+- [AWS Control Tower announces improvements to guardrail naming and descriptions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-announces-improvements-guardrail-naming-descriptions/)
 - [Amazon RDS for SQL Server Now Supports Two New Parameter Changes For Full-Text Search](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-sql-server-supports-two-new-parameter-changes-full-text-search/)
 - [Amazon Elastic Block Store now supports idempotent volume creation](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-elastic-block-store-now-supports-indempotent-volume-creation/)
 - [AWS Security Hub adds 10 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-security-hub-adds-10-controls-foundational-security-best-practices-standard-enhanced-cloud-security-posture-monitoring/)
@@ -65,9 +68,6 @@
 - [Amazon Rekognition Custom Labels makes it easy for customers to learn how to train machine learning models by providing tutorial videos, and sample datasets](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rekognition-custom-labels-customers-learn-train-machine-learning-models-providing-tutorial-videos-sample-datasets/)
 - [The Amazon DynamoDB Accelerator (DAX) SDK for Java 2.x is now available](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-dynamodb-accelerator-dax-sdk-for-java-2-x-is-available/)
 - [Introducing new Amazon EC2 G4ad instance sizes](https://aws.amazon.com/about-aws/whats-new/2021/07/introducing-new-amazon-ec2-g4ad-instance-sizes/)
-- [Amazon EC2 Auto Scaling now lets you control which instances to terminate on scale-in](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-auto-scaling-now-lets-you-control-which-instances-to-terminate-on-scale-in/)
-- [AWS IoT SiteWise Edge now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-edge-now-generally-available/)
-- [Amazon MQ now supports RabbitMQ version 3.8.17](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-supports-rabbitmq-version-3-8-17/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

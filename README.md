@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server Now Supports Two New Parameter Changes For Full-Text Search](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-sql-server-supports-two-new-parameter-changes-full-text-search/)
 - [Amazon Elastic Block Store now supports idempotent volume creation](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-elastic-block-store-now-supports-indempotent-volume-creation/)
 - [AWS Security Hub adds 10 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-security-hub-adds-10-controls-foundational-security-best-practices-standard-enhanced-cloud-security-posture-monitoring/)
 - [Amazon Keyspaces (for Apache Cassandra) now automatically optimizes client connections made through AWS PrivateLink to improve availability and read/write throughput](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-keyspaces-for-apache-cassandra-now-automatically-optimi/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Auto Scaling now lets you control which instances to terminate on scale-in](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-ec2-auto-scaling-now-lets-you-control-which-instances-to-terminate-on-scale-in/)
 - [AWS IoT SiteWise Edge now generally available](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-sitewise-edge-now-generally-available/)
 - [Amazon MQ now supports RabbitMQ version 3.8.17](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-mq-supports-rabbitmq-version-3-8-17/)
-- [Amazon S3 on Outposts adds two larger storage tiers](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-s3-outposts-adds-two-larger-storage-tiers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config support for AWS Backup Services](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-config-support-aws-backup-services/)
 - [Amazon Kendra is now IRAP assessed at PROTECTED level](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-kendra-now-irap-assessed-protected-level/)
 - [AWS Storage Gateway now supports Quest NetVault Backup 13 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-storage-gateway-supports-quest-netvault-backup-13-tape-gateway/)
 - [Amazon Redshift simplifies the use of JDBC/ODBC with authentication profile](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-simplifies-use-jdbc-odbc-authentication-profile/)
@@ -67,7 +68,6 @@
 - [Amazon WorkSpaces now offers web access with WorkSpaces Streaming Protocol (WSP)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-now-offers-web-access-with-workspaces-streaming-protocol-wsp/)
 - [AWS AppSync now supports custom authorization with AWS Lambda for GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-supports-custom-authorization-with-aws-lambda-graphsql-apis/)
 - [Amazon RDS for Oracle now supports Oracle Time Zone File Auto Upgrade](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-time-zone-file-auto-upgrade/)
-- [AWS Control Tower announces improvements to guardrail naming and descriptions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-announces-improvements-guardrail-naming-descriptions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

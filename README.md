@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift simplifies the use of JDBC/ODBC with authentication profile](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-simplifies-use-jdbc-odbc-authentication-profile/)
 - [Amazon WorkSpaces Adds Support for USB YubiKey Universal 2nd Factor (U2F) Authentication on PCoIP Windows WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-support-usb-yubikey-universal-second-factor-u2f-authentication-pcoip-windows-workspaces/)
 - [Agents can now set their next status while still on an active contact in Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/07/agents-set-next-status-while-on-active-contact-amazon-connect/)
 - [AWS IoT Core Credential Provider now supports security tokens that are valid up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-credential-provider-supports-security-tokens-valid-12-hours/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower announces improvements to guardrail naming and descriptions](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-control-tower-announces-improvements-guardrail-naming-descriptions/)
 - [Amazon RDS for SQL Server Now Supports Two New Parameter Changes For Full-Text Search](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-sql-server-supports-two-new-parameter-changes-full-text-search/)
 - [Amazon Elastic Block Store now supports idempotent volume creation](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-elastic-block-store-now-supports-indempotent-volume-creation/)
-- [AWS Security Hub adds 10 new controls to its Foundational Security Best Practices standard for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-security-hub-adds-10-controls-foundational-security-best-practices-standard-enhanced-cloud-security-posture-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

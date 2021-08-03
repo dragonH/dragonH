@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift extends Automatic Table Optimization to support Column Compression Encoding](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-automatic-table-optimization-column-compression-encoding/)
+- [AWS SiteWise now supports custom time intervals for metric aggregations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-sitewise-supports-custom-time-intervals-metric-aggregations/)
 - [Amazon EKS now supports Multus](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-eks-now-supports-multus/)
 - [AWS Control Tower now available in Sao Paulo & Paris and provides region deselection](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-control-tower-available-sao-paulo-paris-provides-region-deselection/)
 - [Amazon SageMaker now supports M5d, R5, P3dn, and G4dn instances for SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-supports-m5d-r5-p3dn-g4dn-instances-sagemaker-notebook-instances/)
@@ -66,8 +68,6 @@
 - [AWS Storage Gateway now supports Quest NetVault Backup 13 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-storage-gateway-supports-quest-netvault-backup-13-tape-gateway/)
 - [Amazon Redshift simplifies the use of JDBC/ODBC with authentication profile](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-simplifies-use-jdbc-odbc-authentication-profile/)
 - [Amazon WorkSpaces Adds Support for USB YubiKey Universal 2nd Factor (U2F) Authentication on PCoIP Windows WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-support-usb-yubikey-universal-second-factor-u2f-authentication-pcoip-windows-workspaces/)
-- [Agents can now set their next status while still on an active contact in Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/07/agents-set-next-status-while-on-active-contact-amazon-connect/)
-- [AWS IoT Core Credential Provider now supports security tokens that are valid up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-credential-provider-supports-security-tokens-valid-12-hours/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

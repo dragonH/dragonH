@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amplify Geo (Developer Preview) for AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amplify-geo-developer-preview-aws-amplify/)
 - [Amazon Redshift extends Automatic Table Optimization to support Column Compression Encoding](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-automatic-table-optimization-column-compression-encoding/)
 - [AWS SiteWise now supports custom time intervals for metric aggregations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-sitewise-supports-custom-time-intervals-metric-aggregations/)
 - [Amazon EKS now supports Multus](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-eks-now-supports-multus/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra is now IRAP assessed at PROTECTED level](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-kendra-now-irap-assessed-protected-level/)
 - [AWS Storage Gateway now supports Quest NetVault Backup 13 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-storage-gateway-supports-quest-netvault-backup-13-tape-gateway/)
 - [Amazon Redshift simplifies the use of JDBC/ODBC with authentication profile](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-simplifies-use-jdbc-odbc-authentication-profile/)
-- [Amazon WorkSpaces Adds Support for USB YubiKey Universal 2nd Factor (U2F) Authentication on PCoIP Windows WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-support-usb-yubikey-universal-second-factor-u2f-authentication-pcoip-windows-workspaces/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

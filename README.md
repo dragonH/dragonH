@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower now available in Sao Paulo & Paris and provides region deselection](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-control-tower-available-sao-paulo-paris-provides-region-deselection/)
+- [Amazon SageMaker now supports M5d, R5, P3dn, and G4dn instances for SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-supports-m5d-r5-p3dn-g4dn-instances-sagemaker-notebook-instances/)
 - [AWS Config support for AWS Backup Services](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-config-support-aws-backup-services/)
 - [Amazon Kendra is now IRAP assessed at PROTECTED level](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-kendra-now-irap-assessed-protected-level/)
 - [AWS Storage Gateway now supports Quest NetVault Backup 13 on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-storage-gateway-supports-quest-netvault-backup-13-tape-gateway/)
@@ -66,8 +68,6 @@
 - [Agents can now set their next status while still on an active contact in Amazon Connect](https://aws.amazon.com/about-aws/whats-new/2021/07/agents-set-next-status-while-on-active-contact-amazon-connect/)
 - [AWS IoT Core Credential Provider now supports security tokens that are valid up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-iot-core-credential-provider-supports-security-tokens-valid-12-hours/)
 - [Amazon WorkSpaces now offers web access with WorkSpaces Streaming Protocol (WSP)](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-workspaces-now-offers-web-access-with-workspaces-streaming-protocol-wsp/)
-- [AWS AppSync now supports custom authorization with AWS Lambda for GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-appsync-supports-custom-authorization-with-aws-lambda-graphsql-apis/)
-- [Amazon RDS for Oracle now supports Oracle Time Zone File Auto Upgrade](https://aws.amazon.com/about-aws/whats-new/2021/07/amazon-rds-oracle-supports-oracle-time-zone-file-auto-upgrade/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

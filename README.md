@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Copilot now supports custom domain names for App Runner Services and other enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-supports-custom-domain-names-app-runner-services-other-enhancements/)
+- [Amazon SageMaker Pipelines now supports invoking AWS Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-pipelines-supports-invoking-aws-lambda-functions/)
+- [Amazon GameLift announces General Availability of Game Server Hosting and Multiplayer Services in AWS China (Ningxia) Region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-gamelift-announces-general-availability-game-server-hosting-multiplayer-services-aws-china-ningxia-region/)
 - [AWS License Manager now supports Delegated Administrator](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-license-manager-supports-delegated-administrator/)
 - [Announcing Amazon Transcribe Call Analytics API for conversation insights](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amazon-transcribe-call-analytics-api-conversation-insights/)
 - [Managed entitlements now available for AWS Data Exchange products in AWS License Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/managed-entitlements-available-aws-data-exchange-products-aws-license-manager/)
@@ -65,9 +68,6 @@
 - [New AWS Solutions Implementation: SQL-based ETL with Apache Spark on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-sql-based-etl-apache-spark-amazon-eks/)
 - [AWS Data Streaming Solution for Amazon MSK adds support for AWS IAM to streamline access control management](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-data-streaming-solution-amazon-msk-support-aws-iam-streamline-access-control-management/)
 - [Announcing Amplify Geo (Developer Preview) for AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amplify-geo-developer-preview-aws-amplify/)
-- [Amazon Redshift extends Automatic Table Optimization to support Column Compression Encoding](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-redshift-automatic-table-optimization-column-compression-encoding/)
-- [AWS SiteWise now supports custom time intervals for metric aggregations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-sitewise-supports-custom-time-intervals-metric-aggregations/)
-- [Amazon EKS now supports Multus](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-eks-now-supports-multus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

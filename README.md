@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new AWS Wavelength Zones in Chicago, Houston, and Phoenix](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-new-aws-wavelength-zones-chicago-houston-phoenix/)
+- [Optimize personalized recommendations for the business metric of your choice with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/08/optimize-personalized-recommendations-business-metric-choice-amazon-personalize/)
+- [Announcing Amazon CloudWatch cross account alarms](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amazon-cloudwatch-cross-account-alarms/)
 - [Introducing Machine to Cloud Connectivity Framework v3.0](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-machine-cloud-connectivity-framework-v3-0/)
 - [AWS Copilot now supports custom domain names for App Runner Services and other enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-supports-custom-domain-names-app-runner-services-other-enhancements/)
 - [Amazon SageMaker Pipelines now supports invoking AWS Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-pipelines-supports-invoking-aws-lambda-functions/)
@@ -65,9 +68,6 @@
 - [AWS License Manager now supports Delegated Administrator](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-license-manager-supports-delegated-administrator/)
 - [Announcing Amazon Transcribe Call Analytics API for conversation insights](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amazon-transcribe-call-analytics-api-conversation-insights/)
 - [Managed entitlements now available for AWS Data Exchange products in AWS License Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/managed-entitlements-available-aws-data-exchange-products-aws-license-manager/)
-- [AWS Cloud9 introduces new features to browse CloudWatch Logs, S3, and use EC2 instance profiles](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloud9-introduces-features-browse-cloudwatch-logs-s3-ec2-instance-profiles/)
-- [New AWS Solutions Implementation: SQL-based ETL with Apache Spark on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-sql-based-etl-apache-spark-amazon-eks/)
-- [AWS Data Streaming Solution for Amazon MSK adds support for AWS IAM to streamline access control management](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-data-streaming-solution-amazon-msk-support-aws-iam-streamline-access-control-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

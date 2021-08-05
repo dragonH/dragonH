@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Machine to Cloud Connectivity Framework v3.0](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-machine-cloud-connectivity-framework-v3-0/)
 - [AWS Copilot now supports custom domain names for App Runner Services and other enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-supports-custom-domain-names-app-runner-services-other-enhancements/)
 - [Amazon SageMaker Pipelines now supports invoking AWS Lambda Functions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-pipelines-supports-invoking-aws-lambda-functions/)
 - [Amazon GameLift announces General Availability of Game Server Hosting and Multiplayer Services in AWS China (Ningxia) Region, operated by NWCD](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-gamelift-announces-general-availability-game-server-hosting-multiplayer-services-aws-china-ningxia-region/)
@@ -67,7 +68,6 @@
 - [AWS Cloud9 introduces new features to browse CloudWatch Logs, S3, and use EC2 instance profiles](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloud9-introduces-features-browse-cloudwatch-logs-s3-ec2-instance-profiles/)
 - [New AWS Solutions Implementation: SQL-based ETL with Apache Spark on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-sql-based-etl-apache-spark-amazon-eks/)
 - [AWS Data Streaming Solution for Amazon MSK adds support for AWS IAM to streamline access control management](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-data-streaming-solution-amazon-msk-support-aws-iam-streamline-access-control-management/)
-- [Announcing Amplify Geo (Developer Preview) for AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-amplify-geo-developer-preview-aws-amplify/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

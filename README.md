@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Proxy can now be created in a shared Virtual Private Cloud (VPC)](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-proxy-created-shared-virtual-private-cloud-vpc/)
+- [Amazon Rekognition Video segment detection now supports four new segment types, improves accuracy](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rekognition-video-segment-detection-supports-new-segment-types-improves-accuracy/)
 - [Amazon Athena is now available in the AWS Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-athena-available-aws-asia-pacific-osaka-region/)
 - [Contact Lens for Amazon Connect can now categorize contacts with contact attributes and integrates with Tasks and EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/08/contact-lens-amazon-connect-categorize-contacts-contact-attributes-integrates-tasks-eventbridge/)
 - [Amazon EC2 Auto Scaling enhances Instance Refresh with configuration checks, Launch Template validation, and Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/)
@@ -66,8 +68,6 @@
 - [Private Connectivity for AWS NAT Gateway is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/private-connectivity-aws-nat-gateway-available-aws-govcloud-us-regions/)
 - [AWS Lambda now supports up to 10 GB of memory and 6 vCPU cores in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-supports-10-gb-memory-6-vcpu-cores-aws-govcloud-us-regions/)
 - [Athena can now write query results in Parquet, Avro, ORC and JSON formats](https://aws.amazon.com/about-aws/whats-new/2021/08/athena-can-write-query-results-parquet-avro-orc-json-formats/)
-- [Introducing 79 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-79-new-resource-types-cloudformation-registry/)
-- [Amazon S3 on Outposts now supports sharing across multiple accounts](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-s3-outposts-supports-sharing-across-multiple-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Contact Lens for Amazon Connect can now categorize contacts with contact attributes and integrates with Tasks and EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/08/contact-lens-amazon-connect-categorize-contacts-contact-attributes-integrates-tasks-eventbridge/)
 - [Amazon EC2 Auto Scaling enhances Instance Refresh with configuration checks, Launch Template validation, and Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/)
 - [Amazon CloudWatch Synthetics supports visual monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-cloudwatch-synthetics-supports-visual-monitoring/)
 - [Amazon FSx is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-fsx-is-now-available-in-the-aws-asia-pacific-osaka-region/)
@@ -67,7 +68,6 @@
 - [Introducing 79 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-79-new-resource-types-cloudformation-registry/)
 - [Amazon S3 on Outposts now supports sharing across multiple accounts](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-s3-outposts-supports-sharing-across-multiple-accounts/)
 - [Announcing new AWS Wavelength Zones in Chicago, Houston, and Phoenix](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-new-aws-wavelength-zones-chicago-houston-phoenix/)
-- [Optimize personalized recommendations for the business metric of your choice with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/08/optimize-personalized-recommendations-business-metric-choice-amazon-personalize/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

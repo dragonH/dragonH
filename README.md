@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Train custom entity recognition models with fewer training documents with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/08/train-custom-entity-recognition-models-fewer-training-documents-amazon-comprehend/)
+- [Amazon WorkSpaces announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-availability-quota-information-through-service-quotas/)
 - [AWS Systems Manager OpsCenter launches operational insights to identify duplicate items and event sources with unusual activity](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-opscenter-operational-insights-identify-duplicate-items-event-sources-unusual-activity/)
 - [Now enable auto-approval of change requests and expedite changes with AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/enable-auto-approval-change-requests-expedite-changes-aws-systems-manager-change-manager/)
 - [Amazon RDS Proxy can now be created in a shared Virtual Private Cloud (VPC)](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-proxy-created-shared-virtual-private-cloud-vpc/)
@@ -66,8 +68,6 @@
 - [Contact Lens for Amazon Connect can now categorize contacts with contact attributes and integrates with Tasks and EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/08/contact-lens-amazon-connect-categorize-contacts-contact-attributes-integrates-tasks-eventbridge/)
 - [Amazon EC2 Auto Scaling enhances Instance Refresh with configuration checks, Launch Template validation, and Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/)
 - [Amazon CloudWatch Synthetics supports visual monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-cloudwatch-synthetics-supports-visual-monitoring/)
-- [Amazon FSx is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-fsx-is-now-available-in-the-aws-asia-pacific-osaka-region/)
-- [Private Connectivity for AWS NAT Gateway is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/private-connectivity-aws-nat-gateway-available-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

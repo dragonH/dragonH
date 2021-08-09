@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF now offers managed rule group versioning](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-waf-offers-managed-rule-group-versioning/)
 - [Train custom entity recognition models with fewer training documents with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/08/train-custom-entity-recognition-models-fewer-training-documents-amazon-comprehend/)
 - [Amazon WorkSpaces announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-availability-quota-information-through-service-quotas/)
 - [AWS Systems Manager OpsCenter launches operational insights to identify duplicate items and event sources with unusual activity](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-opscenter-operational-insights-identify-duplicate-items-event-sources-unusual-activity/)
@@ -67,7 +68,6 @@
 - [Amazon Athena is now available in the AWS Asia Pacific (Osaka) region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-athena-available-aws-asia-pacific-osaka-region/)
 - [Contact Lens for Amazon Connect can now categorize contacts with contact attributes and integrates with Tasks and EventBridge](https://aws.amazon.com/about-aws/whats-new/2021/08/contact-lens-amazon-connect-categorize-contacts-contact-attributes-integrates-tasks-eventbridge/)
 - [Amazon EC2 Auto Scaling enhances Instance Refresh with configuration checks, Launch Template validation, and Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-auto-scaling-enhances-instance-refresh-configuration-checks-launch-template-validation-amazon-eventbridge-notifications/)
-- [Amazon CloudWatch Synthetics supports visual monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-cloudwatch-synthetics-supports-visual-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

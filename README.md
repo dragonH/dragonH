@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS App Runner integration in the AWS Toolkit for VS Code](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-app-runner-aws-toolkit-vs-code/)
 - [PostgreSQL 14 Beta 2 Now Available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2021/08/postgresql-14-beta-2-amazon-rds-database-preview-environment/)
 - [AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowball-edge-storage-optimized-nfs-data-transfer/)
 - [Amazon Chime SDK meetings now support live transcription with Amazon Transcribe and Amazon Transcribe Medical](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-chime-sdk-amazon-transcribe-amazon-transcribe-medical/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Logs now supports Usage Metrics](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-cloudwatch-logs-now-supports-usage-metrics/)
 - [AWS interactive EC2 Serial Console is now available in more commercial regions and AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-interactive-ec2-serial-console-available-commercial-regions-aws-govcloud-us-regions/)
 - [AWS Amplify Hosting announces support for Next.js version 11](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-amplify-hosting-support-next-js-version-11/)
-- [AWS WAF now offers managed rule group versioning](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-waf-offers-managed-rule-group-versioning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

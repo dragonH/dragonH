@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [PostgreSQL 14 Beta 2 Now Available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2021/08/postgresql-14-beta-2-amazon-rds-database-preview-environment/)
+- [AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowball-edge-storage-optimized-nfs-data-transfer/)
 - [Amazon Chime SDK meetings now support live transcription with Amazon Transcribe and Amazon Transcribe Medical](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-chime-sdk-amazon-transcribe-amazon-transcribe-medical/)
 - [Amazon EMR now allows you to easily identify latest releases that have the applications you need](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-allows-easily-identify-latest-releases-applications/)
 - [Announcing support for new Timestamp function,  PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/support-timestamp-function-pretrigger-function-ability-write-nested-expressions-aggregation-functions/)
@@ -66,8 +68,6 @@
 - [AWS interactive EC2 Serial Console is now available in more commercial regions and AWS GovCloud (US) regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-interactive-ec2-serial-console-available-commercial-regions-aws-govcloud-us-regions/)
 - [AWS Amplify Hosting announces support for Next.js version 11](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-amplify-hosting-support-next-js-version-11/)
 - [AWS WAF now offers managed rule group versioning](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-waf-offers-managed-rule-group-versioning/)
-- [Train custom entity recognition models with fewer training documents with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/08/train-custom-entity-recognition-models-fewer-training-documents-amazon-comprehend/)
-- [Amazon WorkSpaces announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-availability-quota-information-through-service-quotas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

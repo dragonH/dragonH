@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK meetings now support live transcription with Amazon Transcribe and Amazon Transcribe Medical](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-chime-sdk-amazon-transcribe-amazon-transcribe-medical/)
 - [Amazon EMR now allows you to easily identify latest releases that have the applications you need](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-allows-easily-identify-latest-releases-applications/)
 - [Announcing support for new Timestamp function,  PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/support-timestamp-function-pretrigger-function-ability-write-nested-expressions-aggregation-functions/)
 - [Amazon SageMaker introduces one-click model inference and fine-tuning for Hugging Face models in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-one-click-model-inference-fine-tuning-hugging-face-models-amazon-sagemaker-jumpstart/)
@@ -67,7 +68,6 @@
 - [AWS WAF now offers managed rule group versioning](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-waf-offers-managed-rule-group-versioning/)
 - [Train custom entity recognition models with fewer training documents with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/08/train-custom-entity-recognition-models-fewer-training-documents-amazon-comprehend/)
 - [Amazon WorkSpaces announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-availability-quota-information-through-service-quotas/)
-- [AWS Systems Manager OpsCenter launches operational insights to identify duplicate items and event sources with unusual activity](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-opscenter-operational-insights-identify-duplicate-items-event-sources-unusual-activity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

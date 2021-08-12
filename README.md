@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: AWS Innovation Sandbox](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-aws-innovation-sandbox/)
+- [Amazon Connect now provides an improved chatbot building experience, powered by Amazon Lex V2 console and APIs](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-amazon-lex-v2-console-apis/)
 - [AWS Systems Manager Change Manager now supports AWS IAM roles as approvers](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-change-manager-supports-aws-iam-roles-approvers/)
 - [AWS Snow Family now supports ML inference at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/)
 - [Amazon EMR now supports Amazon S3 Access Points to simplify access control](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-amazon-s3-access-points/)
@@ -66,8 +68,6 @@
 - [AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowball-edge-storage-optimized-nfs-data-transfer/)
 - [Amazon Chime SDK meetings now support live transcription with Amazon Transcribe and Amazon Transcribe Medical](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-chime-sdk-amazon-transcribe-amazon-transcribe-medical/)
 - [Amazon EMR now allows you to easily identify latest releases that have the applications you need](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-allows-easily-identify-latest-releases-applications/)
-- [Announcing support for new Timestamp function,  PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/support-timestamp-function-pretrigger-function-ability-write-nested-expressions-aggregation-functions/)
-- [Amazon SageMaker introduces one-click model inference and fine-tuning for Hugging Face models in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-one-click-model-inference-fine-tuning-hugging-face-models-amazon-sagemaker-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

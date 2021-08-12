@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru Profiler adds recommendation support for Python applications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-codeguru-profiler-recommendation-support-python-applications/)
 - [AWS Snow Family now enables you to remotely monitor and operate your connected Snowcone devices](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-monitor-operate-snowcone-devices/)
 - [New AWS Solutions Implementation: AWS Innovation Sandbox](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-aws-innovation-sandbox/)
 - [Amazon Connect now provides an improved chatbot building experience, powered by Amazon Lex V2 console and APIs](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-amazon-lex-v2-console-apis/)
@@ -67,7 +68,6 @@
 - [Introducing AWS App Runner integration in the AWS Toolkit for VS Code](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-app-runner-aws-toolkit-vs-code/)
 - [PostgreSQL 14 Beta 2 Now Available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2021/08/postgresql-14-beta-2-amazon-rds-database-preview-environment/)
 - [AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowball-edge-storage-optimized-nfs-data-transfer/)
-- [Amazon Chime SDK meetings now support live transcription with Amazon Transcribe and Amazon Transcribe Medical](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-chime-sdk-amazon-transcribe-amazon-transcribe-medical/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

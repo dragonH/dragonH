@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Change Manager now supports AWS IAM roles as approvers](https://aws.amazon.com/about-aws/whats-new/2021/07/aws-systems-manager-change-manager-supports-aws-iam-roles-approvers/)
 - [AWS Snow Family now supports ML inference at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/)
 - [Amazon EMR now supports Amazon S3 Access Points to simplify access control](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-amazon-s3-access-points/)
 - [Introducing AWS App Runner integration in the AWS Toolkit for VS Code](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-app-runner-aws-toolkit-vs-code/)
@@ -67,7 +68,6 @@
 - [Amazon EMR now allows you to easily identify latest releases that have the applications you need](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-allows-easily-identify-latest-releases-applications/)
 - [Announcing support for new Timestamp function,  PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/support-timestamp-function-pretrigger-function-ability-write-nested-expressions-aggregation-functions/)
 - [Amazon SageMaker introduces one-click model inference and fine-tuning for Hugging Face models in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-one-click-model-inference-fine-tuning-hugging-face-models-amazon-sagemaker-jumpstart/)
-- [Amazon CloudWatch Logs now supports Usage Metrics](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-cloudwatch-logs-now-supports-usage-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

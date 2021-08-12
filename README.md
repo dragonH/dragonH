@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon API Gateway now supports mutual TLS with certificates from third-party CAs and ACM Private CA](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-api-gateway-now-supports-mutual-tls-certificates-from-third-party-cas-and-acm-private-ca/)
+- [AWS Glue DataBrew now supports writing prepared data into Tableau Hyper format](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-tableau-hyper-format/)
+- [AWS Glue DataBrew now supports logical conditions as transformations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-logical-conditions-transformations/)
+- [CodeBuild Supports Publicly Viewable Build Results](https://aws.amazon.com/about-aws/whats-new/2021/08/codebuild-supports-publicly-viewable-build-results/)
 - [Amazon CodeGuru Profiler adds recommendation support for Python applications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-codeguru-profiler-recommendation-support-python-applications/)
 - [AWS Snow Family now enables you to remotely monitor and operate your connected Snowcone devices](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-monitor-operate-snowcone-devices/)
 - [New AWS Solutions Implementation: AWS Innovation Sandbox](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-aws-innovation-sandbox/)
 - [Amazon Connect now provides an improved chatbot building experience, powered by Amazon Lex V2 console and APIs](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-amazon-lex-v2-console-apis/)
 - [AWS Systems Manager Change Manager now supports AWS IAM roles as approvers](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-change-manager-supports-aws-iam-roles-approvers/)
 - [AWS Snow Family now supports ML inference at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/)
-- [Amazon EMR now supports Amazon S3 Access Points to simplify access control](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-emr-amazon-s3-access-points/)
-- [Introducing AWS App Runner integration in the AWS Toolkit for VS Code](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-app-runner-aws-toolkit-vs-code/)
-- [PostgreSQL 14 Beta 2 Now Available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2021/08/postgresql-14-beta-2-amazon-rds-database-preview-environment/)
-- [AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowball-edge-storage-optimized-nfs-data-transfer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

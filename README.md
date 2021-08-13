@@ -59,7 +59,6 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Glue DataBrew now supports numerical format transformations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-supports-numerical-format-transformations/)
-- [AWS Glue DataBrew now supports writing prepared data into AWS Lake Formation based AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/)
 - [Announcing S3 Transfer Manager Preview release in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-s3-transfer-manager-preview-release-in-the-aws-sdk-for-java/)
 - [Amazon API Gateway now supports mutual TLS with certificates from third-party CAs and ACM Private CA](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-api-gateway-now-supports-mutual-tls-certificates-from-third-party-cas-and-acm-private-ca/)
 - [AWS Glue DataBrew now supports writing prepared data into Tableau Hyper format](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-tableau-hyper-format/)
@@ -68,6 +67,7 @@
 - [Amazon CodeGuru Profiler adds recommendation support for Python applications](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-codeguru-profiler-recommendation-support-python-applications/)
 - [AWS Snow Family now enables you to remotely monitor and operate your connected Snowcone devices](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-monitor-operate-snowcone-devices/)
 - [New AWS Solutions Implementation: AWS Innovation Sandbox](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-aws-innovation-sandbox/)
+- [Amazon Connect now provides an improved chatbot building experience, powered by Amazon Lex V2 console and APIs](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-amazon-lex-v2-console-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

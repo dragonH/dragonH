@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing S3 Transfer Manager Preview release in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-s3-transfer-manager-preview-release-in-the-aws-sdk-for-java/)
 - [Amazon API Gateway now supports mutual TLS with certificates from third-party CAs and ACM Private CA](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-api-gateway-now-supports-mutual-tls-certificates-from-third-party-cas-and-acm-private-ca/)
 - [AWS Glue DataBrew now supports writing prepared data into Tableau Hyper format](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-tableau-hyper-format/)
 - [AWS Glue DataBrew now supports logical conditions as transformations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-logical-conditions-transformations/)
@@ -67,7 +68,6 @@
 - [New AWS Solutions Implementation: AWS Innovation Sandbox](https://aws.amazon.com/about-aws/whats-new/2021/08/new-aws-solutions-implementation-aws-innovation-sandbox/)
 - [Amazon Connect now provides an improved chatbot building experience, powered by Amazon Lex V2 console and APIs](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-amazon-lex-v2-console-apis/)
 - [AWS Systems Manager Change Manager now supports AWS IAM roles as approvers](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-change-manager-supports-aws-iam-roles-approvers/)
-- [AWS Snow Family now supports ML inference at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snow-family-ml-inference-amazon-sagemaker-edge-manager-aws-iot-greengrass/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

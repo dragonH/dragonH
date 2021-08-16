@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Directory Service now supports smart card authentication with AD Connector for Amazon WorkSpaces in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-directory-service-supports-smart-card-authentication-ad-connector-amazon-workspaces-additional-aws-regions/)
 - [Introducing Amazon EC2 M6i instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/)
 - [Detect multicollinearity and easily export results in a few clicks with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/08/detect-multicollinearity-amazon-sagemaker-data-wrangler/)
 - [AWS Lambda adds support for Python 3.9](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-adds-support-python-3-9/)
@@ -67,7 +68,6 @@
 - [Announcing General Availability of Amazon Redshift Cross-account Data Sharing](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-general-availability-amazon-redshift-cross-account-data-sharing/)
 - [AWS Glue DataBrew now supports writing prepared data into AWS Lake Formation-based AWS Glue Data Catalog S3 tables](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-lake-formation-aws-glue-data-catalog-tables/)
 - [AWS Glue DataBrew now supports numerical format transformations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-supports-numerical-format-transformations/)
-- [Announcing S3 Transfer Manager Preview release in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-s3-transfer-manager-preview-release-in-the-aws-sdk-for-java/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

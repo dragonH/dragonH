@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Python 3.9](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-adds-support-python-3-9/)
 - [AWS Elastic Beanstalk supports Capacity Rebalancing for Amazon EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-elastic-beanstalk-capacity-rebalancing-amazon-ec2-spot-instances/)
 - [Amazon RDS for SQL Server now supports Automatic Minor Version Upgrades](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-sql-server-supports-automatic-minor-version-upgrades/)
 - [Amazon EC2 Inf1 instances now supports TensorFlow 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-inf1-instances-supports-tensorflow-2/)
@@ -67,7 +68,6 @@
 - [Announcing S3 Transfer Manager Preview release in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-s3-transfer-manager-preview-release-in-the-aws-sdk-for-java/)
 - [Amazon API Gateway now supports mutual TLS with certificates from third-party CAs and ACM Private CA](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-api-gateway-now-supports-mutual-tls-certificates-from-third-party-cas-and-acm-private-ca/)
 - [AWS Glue DataBrew now supports writing prepared data into Tableau Hyper format](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-tableau-hyper-format/)
-- [AWS Glue DataBrew now supports logical conditions as transformations](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-logical-conditions-transformations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

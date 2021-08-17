@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Fleet Manager now offers report generation for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-fleet-manager-managed-instances/)
 - [New release of AWS IoT Device SDK for Embedded C simplifies authentication and provisioning of IoT devices](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sdk-embedded-c/)
 - [AWS Marketplace enhances ISV self-service authorization of Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-marketplace-enhances-isv-self-service-authorization-consulting-partners/)
 - [AWS Directory Service now supports smart card authentication with AD Connector for Amazon WorkSpaces in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-directory-service-supports-smart-card-authentication-ad-connector-amazon-workspaces-additional-aws-regions/)
@@ -67,7 +68,6 @@
 - [AWS Elastic Beanstalk supports Capacity Rebalancing for Amazon EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-elastic-beanstalk-capacity-rebalancing-amazon-ec2-spot-instances/)
 - [Amazon RDS for SQL Server now supports Automatic Minor Version Upgrades](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-sql-server-supports-automatic-minor-version-upgrades/)
 - [Amazon EC2 Inf1 instances now supports TensorFlow 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-inf1-instances-supports-tensorflow-2/)
-- [Announcing General Availability of Amazon Redshift Cross-account Data Sharing](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-general-availability-amazon-redshift-cross-account-data-sharing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru Profiler extends visualizations capability with a new  compare option for application profile](https://aws.amazon.com/about-aws/whats-new/2021/08/codeguru-extends-capability-application-profile/)
+- [Amazon WorkSpaces Renews Windows Desktop Experience with Windows Server 2019 bundles and 64-bit Microsoft Office 2019](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-renews-windows-desktop-experience-windows-server-2019-bundles-64-bit-microsoft-office-2019/)
+- [AWS CDK releases v1.111.0 - v1.116.0 with updates for unit testing and CDK Pipelines support](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cdk-testing-support-cdk-pipelines/)
 - [AWS Systems Manager Fleet Manager now offers report generation for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-fleet-manager-managed-instances/)
 - [New release of AWS IoT Device SDK for Embedded C simplifies authentication and provisioning of IoT devices](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sdk-embedded-c/)
 - [AWS Marketplace enhances ISV self-service authorization of Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-marketplace-enhances-isv-self-service-authorization-consulting-partners/)
@@ -65,9 +68,6 @@
 - [Introducing Amazon EC2 M6i instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/)
 - [Detect multicollinearity and easily export results in a few clicks with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/08/detect-multicollinearity-amazon-sagemaker-data-wrangler/)
 - [AWS Lambda adds support for Python 3.9](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-adds-support-python-3-9/)
-- [AWS Elastic Beanstalk supports Capacity Rebalancing for Amazon EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-elastic-beanstalk-capacity-rebalancing-amazon-ec2-spot-instances/)
-- [Amazon RDS for SQL Server now supports Automatic Minor Version Upgrades](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-sql-server-supports-automatic-minor-version-upgrades/)
-- [Amazon EC2 Inf1 instances now supports TensorFlow 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-inf1-instances-supports-tensorflow-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

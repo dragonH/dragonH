@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Fully customizable action space now available in AWS DeepRacer Console](https://aws.amazon.com/about-aws/whats-new/2021/08/customizable-action-space-aws-deepracer-console/)
 - [Amazon CodeGuru Profiler extends visualizations capability with a new  compare option for application profile](https://aws.amazon.com/about-aws/whats-new/2021/08/codeguru-extends-capability-application-profile/)
 - [Amazon WorkSpaces Renews Windows Desktop Experience with Windows Server 2019 bundles and 64-bit Microsoft Office 2019](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-renews-windows-desktop-experience-windows-server-2019-bundles-64-bit-microsoft-office-2019/)
 - [AWS CDK releases v1.111.0 - v1.116.0 with updates for unit testing and CDK Pipelines support](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cdk-testing-support-cdk-pipelines/)
@@ -67,7 +68,6 @@
 - [AWS Directory Service now supports smart card authentication with AD Connector for Amazon WorkSpaces in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-directory-service-supports-smart-card-authentication-ad-connector-amazon-workspaces-additional-aws-regions/)
 - [Introducing Amazon EC2 M6i instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/)
 - [Detect multicollinearity and easily export results in a few clicks with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/08/detect-multicollinearity-amazon-sagemaker-data-wrangler/)
-- [AWS Lambda adds support for Python 3.9](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-lambda-adds-support-python-3-9/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

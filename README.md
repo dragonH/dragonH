@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 customers can now use ED25519 keys for authentication during instance connectivity operations](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-customers-ed25519-keys-authentication/)
+- [AWS Transfer Family expands compatibility for FTPS/FTP clients and increases limit for number of servers](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-transfer-family-ftps-ftp-clients-number-servers/)
 - [Fully customizable action space now available in AWS DeepRacer Console](https://aws.amazon.com/about-aws/whats-new/2021/08/customizable-action-space-aws-deepracer-console/)
 - [Amazon CodeGuru Profiler extends visualizations capability with a new  compare option for application profile](https://aws.amazon.com/about-aws/whats-new/2021/08/codeguru-extends-capability-application-profile/)
 - [Amazon WorkSpaces Renews Windows Desktop Experience with Windows Server 2019 bundles and 64-bit Microsoft Office 2019](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-renews-windows-desktop-experience-windows-server-2019-bundles-64-bit-microsoft-office-2019/)
@@ -66,8 +68,6 @@
 - [New release of AWS IoT Device SDK for Embedded C simplifies authentication and provisioning of IoT devices](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sdk-embedded-c/)
 - [AWS Marketplace enhances ISV self-service authorization of Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-marketplace-enhances-isv-self-service-authorization-consulting-partners/)
 - [AWS Directory Service now supports smart card authentication with AD Connector for Amazon WorkSpaces in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-directory-service-supports-smart-card-authentication-ad-connector-amazon-workspaces-additional-aws-regions/)
-- [Introducing Amazon EC2 M6i instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances/)
-- [Detect multicollinearity and easily export results in a few clicks with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/08/detect-multicollinearity-amazon-sagemaker-data-wrangler/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

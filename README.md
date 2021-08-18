@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-studio-now-available-aws-govcloud-us-regions/)
 - [Amazon EC2 customers can now use ED25519 keys for authentication during instance connectivity operations](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-customers-ed25519-keys-authentication/)
 - [AWS Transfer Family expands compatibility for FTPS/FTP clients and increases limit for number of servers](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-transfer-family-ftps-ftp-clients-number-servers/)
 - [Fully customizable action space now available in AWS DeepRacer Console](https://aws.amazon.com/about-aws/whats-new/2021/08/customizable-action-space-aws-deepracer-console/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager Fleet Manager now offers report generation for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-fleet-manager-managed-instances/)
 - [New release of AWS IoT Device SDK for Embedded C simplifies authentication and provisioning of IoT devices](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sdk-embedded-c/)
 - [AWS Marketplace enhances ISV self-service authorization of Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-marketplace-enhances-isv-self-service-authorization-consulting-partners/)
-- [AWS Directory Service now supports smart card authentication with AD Connector for Amazon WorkSpaces in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-directory-service-supports-smart-card-authentication-ad-connector-amazon-workspaces-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

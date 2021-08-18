@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles is now HIPPA eligible](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-customer-profiles-hippa-eligible/)
 - [Announcing regional launch of IoT Analytics in Asia Pacific (Mumbai) region](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-regional-launch-iot-analytics-asia-pacific-mumbai-region/)
 - [AWS Security Hub adds 18 new controls to its Foundational Security Best Practices standard and 8 new partners for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-security-hub-adds-18-new-controls-foundational-security-best-practices-standard-8-new-partners-enhanced-cloud-security-posture-monitoring/)
 - [AWS Glue Studio is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-studio-now-available-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Amazon CodeGuru Profiler extends visualizations capability with a new  compare option for application profile](https://aws.amazon.com/about-aws/whats-new/2021/08/codeguru-extends-capability-application-profile/)
 - [Amazon WorkSpaces Renews Windows Desktop Experience with Windows Server 2019 bundles and 64-bit Microsoft Office 2019](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-workspaces-renews-windows-desktop-experience-windows-server-2019-bundles-64-bit-microsoft-office-2019/)
 - [AWS CDK releases v1.111.0 - v1.116.0 with updates for unit testing and CDK Pipelines support](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cdk-testing-support-cdk-pipelines/)
-- [AWS Systems Manager Fleet Manager now offers report generation for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-fleet-manager-managed-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

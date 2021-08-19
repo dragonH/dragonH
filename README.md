@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing optimized Spark 3.1 runtime for data integration with AWS Glue 3.0](https://aws.amazon.com/about-aws/whats-new/2021/08/spark-3-1-runtime-aws-glue-3-0/)
 - [Amazon SageMaker notebook instance now supports Amazon Linux 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-notebook-amazon-linux-2/)
 - [AWS Cost Categories introduces Split Charge rules for allocation of shared costs](https://aws.amazon.com/about-aws/whats-new/2021/08/cost-categories-split-charge-rules-allocation/)
 - [AWS Managed Services (AMS) Accelerate Operations Plan is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-managed-services-accelerate-operations-plan-aws-europe-stockholm-region/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub adds 18 new controls to its Foundational Security Best Practices standard and 8 new partners for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-security-hub-adds-18-new-controls-foundational-security-best-practices-standard-8-new-partners-enhanced-cloud-security-posture-monitoring/)
 - [AWS Glue Studio is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-studio-now-available-aws-govcloud-us-regions/)
 - [Amazon EC2 customers can now use ED25519 keys for authentication during instance connectivity operations](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-customers-ed25519-keys-authentication/)
-- [AWS Transfer Family expands compatibility for FTPS/FTP clients and increases limit for number of servers](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-transfer-family-ftps-ftp-clients-number-servers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

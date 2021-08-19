@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Connect Customer Profiles is now HIPPA eligible](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-customer-profiles-hippa-eligible/)
+- [Amazon Connect Customer Profiles is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-customer-profiles-hipaa-eligible/)
 - [Announcing regional launch of IoT Analytics in Asia Pacific (Mumbai) region](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-regional-launch-iot-analytics-asia-pacific-mumbai-region/)
 - [AWS Security Hub adds 18 new controls to its Foundational Security Best Practices standard and 8 new partners for enhanced cloud security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-security-hub-adds-18-new-controls-foundational-security-best-practices-standard-8-new-partners-enhanced-cloud-security-posture-monitoring/)
 - [AWS Glue Studio is now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-studio-now-available-aws-govcloud-us-regions/)

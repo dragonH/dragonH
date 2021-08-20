@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Forecast Weather Index for Asia-Pacific](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-forecast-weather-index-asia-pacific/)
+- [Amazon ElastiCache for Redis now supports auto scaling](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticache-redis/)
 - [EC2 VM Import/Export now supports migration of virtual machines with Unified Extensible Firmware Interface (UEFI) boot to AWS](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-vm-import-export-unified-extensible-firmware-interface-aws/)
 - [Announcing Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-memorydb-redis/)
 - [Amazon EC2 Hibernation adds support for C5d, M5d, and R5d Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-hibernation-c5d-m5d-r5d-instances/)
@@ -66,8 +68,6 @@
 - [AWS Cost Categories introduces Split Charge rules for allocation of shared costs](https://aws.amazon.com/about-aws/whats-new/2021/08/cost-categories-split-charge-rules-allocation/)
 - [AWS Managed Services (AMS) Accelerate Operations Plan is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-managed-services-accelerate-operations-plan-aws-europe-stockholm-region/)
 - [Redshift spatial performance enhancements and new spatial functions](https://aws.amazon.com/about-aws/whats-new/2021/08/redshift-spatial-performance-spatial-functions/)
-- [Amazon Connect Customer Profiles is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-connect-customer-profiles-hipaa-eligible/)
-- [Announcing regional launch of IoT Analytics in Asia Pacific (Mumbai) region](https://aws.amazon.com/about-aws/whats-new/2021/08/announcing-regional-launch-iot-analytics-asia-pacific-mumbai-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

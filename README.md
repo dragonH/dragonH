@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Access Analyzer helps you generate IAM policies based on access activity found in your organization trail](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-generate-iam-policies/)
 - [Announcing Amazon Forecast Weather Index for Asia-Pacific](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-forecast-weather-index-asia-pacific/)
 - [Amazon ElastiCache for Redis now supports auto scaling](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticache-redis/)
 - [EC2 VM Import/Export now supports migration of virtual machines with Unified Extensible Firmware Interface (UEFI) boot to AWS](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-vm-import-export-unified-extensible-firmware-interface-aws/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker notebook instance now supports Amazon Linux 2](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-notebook-amazon-linux-2/)
 - [AWS Cost Categories introduces Split Charge rules for allocation of shared costs](https://aws.amazon.com/about-aws/whats-new/2021/08/cost-categories-split-charge-rules-allocation/)
 - [AWS Managed Services (AMS) Accelerate Operations Plan is now available in the AWS Europe (Stockholm) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-managed-services-accelerate-operations-plan-aws-europe-stockholm-region/)
-- [Redshift spatial performance enhancements and new spatial functions](https://aws.amazon.com/about-aws/whats-new/2021/08/redshift-spatial-performance-spatial-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

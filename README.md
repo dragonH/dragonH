@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports automatic segmentation using MongoDB and Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-segmentation-mongodb/)
+- [Amazon Data Lifecycle Manager now automates deprecation of Amazon Machine Images (AMIs)](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-data-lifecycle-manager-automates-deprecation-ami/)
 - [Amazon EC2 M6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances-us-west-asia-pacific/)
 - [AWS Database Migration Service now supports MongoDB 4.2 and 4.4 as sources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-mongodb-4-2-and-4-4/)
 - [AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-redshift-target/)
@@ -66,8 +68,6 @@
 - [Send data from SAP applications to AWS services using Amazon Appflow](https://aws.amazon.com/about-aws/whats-new/2021/08/sap-applications-aws-services-amazon-appflow/)
 - [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-supports-postgresql-new-versions/)
 - [Amazon Aurora PostgreSQL now supports oracle_fdw extension](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-supports-oracle-fdw-extension/)
-- [Introducing Amazon SageMaker Asynchronous Inference, a new inference option for workloads with large payload sizes and long inference processing times](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-asynchronous-new-inference-option/)
-- [IAM Access Analyzer helps you generate IAM policies based on access activity found in your organization trail](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-generate-iam-policies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

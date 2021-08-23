@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances-us-west-asia-pacific/)
 - [AWS Database Migration Service now supports MongoDB 4.2 and 4.4 as sources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-mongodb-4-2-and-4-4/)
 - [AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-redshift-target/)
 - [AWS Database Migration Service now supports Redis as a target](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-supports-redis-target/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora PostgreSQL now supports oracle_fdw extension](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-supports-oracle-fdw-extension/)
 - [Introducing Amazon SageMaker Asynchronous Inference, a new inference option for workloads with large payload sizes and long inference processing times](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-asynchronous-new-inference-option/)
 - [IAM Access Analyzer helps you generate IAM policies based on access activity found in your organization trail](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-generate-iam-policies/)
-- [Announcing Amazon Forecast Weather Index for Asia-Pacific](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-forecast-weather-index-asia-pacific/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core now supports MQTT retained messages](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-core-supports-mqtt-retained-messages/)
 - [Amazon Transcribe now supports resource tagging for better access control](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-resource-tagging/)
 - [Amazon Polly launches Aria, a New Zealand English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-polly-launches-aria-new-zealand-english-neural-text-speech-voice/)
 - [Introducing the new AWS Level 1 MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-level-1-mssp-competency/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances-us-west-asia-pacific/)
 - [AWS Database Migration Service now supports MongoDB 4.2 and 4.4 as sources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-mongodb-4-2-and-4-4/)
 - [AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-redshift-target/)
-- [AWS Database Migration Service now supports Redis as a target](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-supports-redis-target/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

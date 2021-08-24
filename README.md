@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches Aria, a New Zealand English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-polly-launches-aria-new-zealand-english-neural-text-speech-voice/)
+- [Introducing the new AWS Level 1 MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-level-1-mssp-competency/)
 - [Introducing AWS Backup Audit Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-backup-audit-manager/)
 - [AWS Database Migration Service now supports automatic segmentation using MongoDB and Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-segmentation-mongodb/)
 - [Amazon Data Lifecycle Manager now automates deprecation of Amazon Machine Images (AMIs)](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-data-lifecycle-manager-automates-deprecation-ami/)
@@ -66,8 +68,6 @@
 - [AWS Database Migration Service now supports parallel threads when using Redshift as a target during full load](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-redshift-target/)
 - [AWS Database Migration Service now supports Redis as a target](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-service-supports-redis-target/)
 - [AWS IoT Greengrass v2.4 release includes new features for provisioning large device fleets and managing device software resources](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-greengrass-v-2-4/)
-- [Send data from SAP applications to AWS services using Amazon Appflow](https://aws.amazon.com/about-aws/whats-new/2021/08/sap-applications-aws-services-amazon-appflow/)
-- [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-supports-postgresql-new-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

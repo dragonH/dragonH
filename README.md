@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL Supports Boolean DB Parameter Expressions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-postgresql-boolean-parameter/)
 - [Comprehend launches support for tagging with analysis jobs](https://aws.amazon.com/about-aws/whats-new/2021/08/comprehend-launches-support-tagging-analysis-jobs/)
 - [Amazon Elasticsearch Service now supports three Availability Zone deployments in AWS GovCloud (US-EAST) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticsearch-service-availability-zone-deployments-aws-govcloud-us-east-region/)
 - [AWS IoT Core now supports MQTT retained messages](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-core-supports-mqtt-retained-messages/)
@@ -67,7 +68,6 @@
 - [Introducing AWS Backup Audit Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-backup-audit-manager/)
 - [AWS Database Migration Service now supports automatic segmentation using MongoDB and Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-segmentation-mongodb/)
 - [Amazon Data Lifecycle Manager now automates deprecation of Amazon Machine Images (AMIs)](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-data-lifecycle-manager-automates-deprecation-ami/)
-- [Amazon EC2 M6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-ec2-m6i-instances-us-west-asia-pacific/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

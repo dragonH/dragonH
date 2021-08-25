@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Access Analyzer helps you generate fine-grained policies that specify the required actions for more than 50 services](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-expands-services/)
+- [AWS DataSync enhances task filtering and queuing](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-datasync-task-filtering-queuing/)
 - [Amazon MSK adds metrics for increased visibility of capacity](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-msk-adds-metrics-increased-visibility-capacity/)
 - [Amazon RDS for PostgreSQL Supports Boolean DB Parameter Expressions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-postgresql-boolean-parameter/)
 - [Comprehend launches support for tagging with analysis jobs](https://aws.amazon.com/about-aws/whats-new/2021/08/comprehend-launches-support-tagging-analysis-jobs/)
@@ -66,8 +68,6 @@
 - [Amazon Transcribe now supports resource tagging for better access control](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-resource-tagging/)
 - [Amazon Polly launches Aria, a New Zealand English neural text-to-speech voice](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-polly-launches-aria-new-zealand-english-neural-text-speech-voice/)
 - [Introducing the new AWS Level 1 MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-level-1-mssp-competency/)
-- [Introducing AWS Backup Audit Manager](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-backup-audit-manager/)
-- [AWS Database Migration Service now supports automatic segmentation using MongoDB and Amazon DocumentDB (with MongoDB compatibility) as a source](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-database-migration-segmentation-mongodb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

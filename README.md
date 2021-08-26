@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13/)
+- [Amazon Textract announces reduced pricing of up to 32% on AnalyzeDocument and DetectDocumentText requests in eight global AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-textract-reduced-pricing-analyzedocument-detectdocumenttext-region-expansion/)
 - [AWS Snowcone is now available in the AWS Asia Pacific (Singapore) and AWS Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowcone-aws-asia-pacific/)
 - [Amazon SageMaker Model Registry now supports Inference Pipelines](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-model-registry-inference-pipelines/)
 - [The new Amazon DynamoDB console is now your default experience to help you manage data and resources more easily](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-dynamodb-console-manage-data-resources/)
@@ -66,8 +68,6 @@
 - [AWS DataSync enhances task filtering and queuing](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-datasync-task-filtering-queuing/)
 - [Amazon MSK adds metrics for increased visibility of capacity](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-msk-adds-metrics-increased-visibility-capacity/)
 - [Amazon RDS for PostgreSQL Supports Boolean DB Parameter Expressions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-postgresql-boolean-parameter/)
-- [Comprehend launches support for tagging with analysis jobs](https://aws.amazon.com/about-aws/whats-new/2021/08/comprehend-launches-support-tagging-analysis-jobs/)
-- [Amazon Elasticsearch Service now supports three Availability Zone deployments in AWS GovCloud (US-EAST) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticsearch-service-availability-zone-deployments-aws-govcloud-us-east-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

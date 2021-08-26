@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Model Registry now supports Inference Pipelines](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-model-registry-inference-pipelines/)
 - [The new Amazon DynamoDB console is now your default experience to help you manage data and resources more easily](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-dynamodb-console-manage-data-resources/)
 - [IPv6 endpoints are now available for the Amazon EC2 Instance Metadata Service, Amazon Time Sync Service, and Amazon VPC DNS Server](https://aws.amazon.com/about-aws/whats-new/2021/08/Ipv6-amazon-ec2-metadata-time-sync-vpc-dns/)
 - [IAM Access Analyzer helps you generate fine-grained policies that specify the required actions for more than 50 services](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-expands-services/)
@@ -67,7 +68,6 @@
 - [Comprehend launches support for tagging with analysis jobs](https://aws.amazon.com/about-aws/whats-new/2021/08/comprehend-launches-support-tagging-analysis-jobs/)
 - [Amazon Elasticsearch Service now supports three Availability Zone deployments in AWS GovCloud (US-EAST) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-elasticsearch-service-availability-zone-deployments-aws-govcloud-us-east-region/)
 - [AWS IoT Core now supports MQTT retained messages](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-core-supports-mqtt-retained-messages/)
-- [Amazon Transcribe now supports resource tagging for better access control](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-resource-tagging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

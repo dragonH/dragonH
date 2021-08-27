@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-aws-govcloud-us-west-region/)
+- [Amazon Transcribe now supports speech to text in 6 new languages - Afrikaans, Danish, Mandarin Chinese (Taiwan), Thai, New Zealand English, and South African English](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-speech-text-new-languages/)
 - [Amazon Rekognition improves the accuracy of celebrity recognition, adds new attributes](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rekognition-improves-celebrity-recognition-attributes/)
 - [AWS Compute Optimizer Now Helps Customers Understand Impact of Migrating to Graviton2-based Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-optimizer-migrating-graviton2-Instances/)
 - [Amazon Aurora supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Model Registry now supports Inference Pipelines](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-model-registry-inference-pipelines/)
 - [The new Amazon DynamoDB console is now your default experience to help you manage data and resources more easily](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-dynamodb-console-manage-data-resources/)
 - [IPv6 endpoints are now available for the Amazon EC2 Instance Metadata Service, Amazon Time Sync Service, and Amazon VPC DNS Server](https://aws.amazon.com/about-aws/whats-new/2021/08/Ipv6-amazon-ec2-metadata-time-sync-vpc-dns/)
-- [IAM Access Analyzer helps you generate fine-grained policies that specify the required actions for more than 50 services](https://aws.amazon.com/about-aws/whats-new/2021/08/iam-access-analyzer-expands-services/)
-- [AWS DataSync enhances task filtering and queuing](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-datasync-task-filtering-queuing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

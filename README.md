@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing custom widgets for CloudWatch dashboards](https://aws.amazon.com/about-aws/whats-new/2021/08/custom-widgets-amazon-cloudwatch-dashboards/)
+- [Amazon Virtual Private Cloud (VPC) customers can now resize their prefix list](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-resize-prefix-list/)
 - [AWS Glue DataBrew is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-aws-govcloud-us-west-region/)
 - [Amazon Transcribe now supports speech to text in 6 new languages - Afrikaans, Danish, Mandarin Chinese (Taiwan), Thai, New Zealand English, and South African English](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-speech-text-new-languages/)
 - [Amazon Rekognition improves the accuracy of celebrity recognition, adds new attributes](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rekognition-improves-celebrity-recognition-attributes/)
@@ -66,8 +68,6 @@
 - [Amazon Textract announces reduced pricing of up to 32% on AnalyzeDocument and DetectDocumentText requests in eight global AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-textract-reduced-pricing-analyzedocument-detectdocumenttext-region-expansion/)
 - [AWS Snowcone is now available in the AWS Asia Pacific (Singapore) and AWS Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowcone-aws-asia-pacific/)
 - [Amazon SageMaker Model Registry now supports Inference Pipelines](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-sagemaker-model-registry-inference-pipelines/)
-- [The new Amazon DynamoDB console is now your default experience to help you manage data and resources more easily](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-dynamodb-console-manage-data-resources/)
-- [IPv6 endpoints are now available for the Amazon EC2 Instance Metadata Service, Amazon Time Sync Service, and Amazon VPC DNS Server](https://aws.amazon.com/about-aws/whats-new/2021/08/Ipv6-amazon-ec2-metadata-time-sync-vpc-dns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder supports Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-image-builder-amazon-eventbridge/)
+- [Amazon Aurora supports PostgreSQL 13 in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13-3-govcloud/)
 - [AWS IoT SiteWise announces support for new Timestamp function, PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sitewise-timestamp-pretrigger/)
 - [Announcing custom widgets for CloudWatch dashboards](https://aws.amazon.com/about-aws/whats-new/2021/08/custom-widgets-amazon-cloudwatch-dashboards/)
 - [Amazon Virtual Private Cloud (VPC) customers can now resize their prefix list](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-resize-prefix-list/)
@@ -66,8 +68,6 @@
 - [Amazon Rekognition improves the accuracy of celebrity recognition, adds new attributes](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rekognition-improves-celebrity-recognition-attributes/)
 - [AWS Compute Optimizer Now Helps Customers Understand Impact of Migrating to Graviton2-based Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-optimizer-migrating-graviton2-Instances/)
 - [Amazon Aurora supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13/)
-- [Amazon Textract announces reduced pricing of up to 32% on AnalyzeDocument and DetectDocumentText requests in eight global AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-textract-reduced-pricing-analyzedocument-detectdocumenttext-region-expansion/)
-- [AWS Snowcone is now available in the AWS Asia Pacific (Singapore) and AWS Asia Pacific (Tokyo) regions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-snowcone-aws-asia-pacific/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

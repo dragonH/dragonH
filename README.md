@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation introduces the option to troubleshoot provisioning errors before rollback, accelerating deployments](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloudformation-troubleshoot-errors/)
 - [EC2 Image Builder supports Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-image-builder-amazon-eventbridge/)
 - [Amazon Aurora supports PostgreSQL 13 in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13-3-govcloud/)
 - [AWS IoT SiteWise announces support for new Timestamp function, PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sitewise-timestamp-pretrigger/)
@@ -67,7 +68,6 @@
 - [Amazon Transcribe now supports speech to text in 6 new languages - Afrikaans, Danish, Mandarin Chinese (Taiwan), Thai, New Zealand English, and South African English](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-speech-text-new-languages/)
 - [Amazon Rekognition improves the accuracy of celebrity recognition, adds new attributes](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rekognition-improves-celebrity-recognition-attributes/)
 - [AWS Compute Optimizer Now Helps Customers Understand Impact of Migrating to Graviton2-based Instances](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-optimizer-migrating-graviton2-Instances/)
-- [Amazon Aurora supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager enables additional application management capabilities](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-application-management-capabilities/)
 - [Introducing Dynamic Partitioning in Amazon Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-dynamic-partitioning-amazon-kinesis-data-firehose/)
 - [AWS Launch Wizard now supports additional deployment capabilities to meet DevOps and organizational requirements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-launch-wizard-deployment-capabilities-expanded/)
 - [AWS Copilot now supports Pub/Sub architectures](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-pub-sub-architectures/)
@@ -67,7 +68,6 @@
 - [AWS CloudFormation introduces the option to troubleshoot provisioning errors before rollback, accelerating deployments](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloudformation-troubleshoot-errors/)
 - [EC2 Image Builder supports Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2021/08/ec2-image-builder-amazon-eventbridge/)
 - [Amazon Aurora supports PostgreSQL 13 in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-aurora-postgresql-13-3-govcloud/)
-- [AWS IoT SiteWise announces support for new Timestamp function, PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sitewise-timestamp-pretrigger/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

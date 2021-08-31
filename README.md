@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Copilot now supports Pub/Sub architectures](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-pub-sub-architectures/)
+- [Amazon Managed Workflows for Apache Airflow (MWAA) Available in Canada, London, Paris, Sao Paulo, Seoul, and Mumbai Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-workflows-apache-airflow-mwaa/)
 - [Amazon VPC Announces New Routing Enhancements to Make It Easy to Deploy Virtual Appliances Between Subnets In a VPC](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-subnets/)
 - [AWS Backint Agent now supports Amazon S3 Intelligent Tiering, sending log and data backups to separate folders, and Ansible](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-backint-agent-amazon-s3-intelligent-tiering-ansible/)
 - [AWS CloudFormation introduces the option to troubleshoot provisioning errors before rollback, accelerating deployments](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-cloudformation-troubleshoot-errors/)
@@ -66,8 +68,6 @@
 - [AWS IoT SiteWise announces support for new Timestamp function, PreTrigger function and ability to write nested expressions within aggregation functions](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-sitewise-timestamp-pretrigger/)
 - [Announcing custom widgets for CloudWatch dashboards](https://aws.amazon.com/about-aws/whats-new/2021/08/custom-widgets-amazon-cloudwatch-dashboards/)
 - [Amazon Virtual Private Cloud (VPC) customers can now resize their prefix list](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-resize-prefix-list/)
-- [AWS Glue DataBrew is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-glue-databrew-aws-govcloud-us-west-region/)
-- [Amazon Transcribe now supports speech to text in 6 new languages - Afrikaans, Danish, Mandarin Chinese (Taiwan), Thai, New Zealand English, and South African English](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-transcribe-speech-text-new-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

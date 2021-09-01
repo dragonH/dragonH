@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly offers full support in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-polly-aws-africa-cape-town-region/)
+- [AWS Lambda now supports AWS PrivateLink in previously unsupported Availability Zones](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-privatelink-zones/)
+- [Amazon SageMaker now supports M5d, R5, and P3dn instances for SageMaker Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-supports-m5d-r5-p3dn-instances-sagemaker-studio-notebooks/)
 - [AWS Security Hub Automated Response and Remediation adds support for PCI-DSS v3.2.1 Security Standard](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-hub-automated-response-remediation-pci-dss-v3-2-1-security-standard/)
 - [Amazon CloudWatch Application Insights adds support for Microsoft SQL Server FCI and FSx storage](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-microsoft-sql-server-fci-fsx-storage/)
 - [AWS Firewall Manager now supports AWS WAF log filtering](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-aws-waf-log-filtering/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for Oracle now supports July 2021 Patch Set Update (PSU) for 12.1 and Release Updates (RU) for 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-oracle-psu-12-1-ru-12-2-19c/)
 - [AWS IoT Device Management announces new fleet monitoring enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-device-management-fleet-monitoring/)
 - [AWS Distro for OpenTelemetry adds support for Amazon ECS in Amazon CloudWatch Container Insights and metrics support for AWS Lambda applications in Amazon Managed Prometheus (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-distro-opentelemetry-amazon-ecs-cloudwatch-lambda-prometheus/)
-- [AWS Systems Manager enables additional application management capabilities](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-application-management-capabilities/)
-- [Introducing Dynamic Partitioning in Amazon Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-dynamic-partitioning-amazon-kinesis-data-firehose/)
-- [AWS Launch Wizard now supports additional deployment capabilities to meet DevOps and organizational requirements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-launch-wizard-deployment-capabilities-expanded/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

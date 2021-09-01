@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports AWS WAF log filtering](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-aws-waf-log-filtering/)
 - [AWS announces General Availability of Amazon Managed Grafana with SAML 2.0 and Grafana v8.0 features](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-grafana-saml-2-0-grafana-v-8-0/)
 - [Amazon RDS for Oracle now supports July 2021 Patch Set Update (PSU) for 12.1 and Release Updates (RU) for 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-oracle-psu-12-1-ru-12-2-19c/)
 - [AWS IoT Device Management announces new fleet monitoring enhancements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-iot-device-management-fleet-monitoring/)
@@ -67,7 +68,6 @@
 - [AWS Launch Wizard now supports additional deployment capabilities to meet DevOps and organizational requirements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-launch-wizard-deployment-capabilities-expanded/)
 - [AWS Copilot now supports Pub/Sub architectures](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-pub-sub-architectures/)
 - [Amazon Managed Workflows for Apache Airflow (MWAA) Available in Canada, London, Paris, Sao Paulo, Seoul, and Mumbai Regions](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-workflows-apache-airflow-mwaa/)
-- [Amazon VPC Announces New Routing Enhancements to Make It Easy to Deploy Virtual Appliances Between Subnets In a VPC](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-vpc-subnets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

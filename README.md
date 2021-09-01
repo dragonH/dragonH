@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub Automated Response and Remediation adds support for PCI-DSS v3.2.1 Security Standard](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-hub-automated-response-remediation-pci-dss-v3-2-1-security-standard/)
 - [Amazon CloudWatch Application Insights adds support for Microsoft SQL Server FCI and FSx storage](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-microsoft-sql-server-fci-fsx-storage/)
 - [AWS Firewall Manager now supports AWS WAF log filtering](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-aws-waf-log-filtering/)
 - [AWS announces General Availability of Amazon Managed Grafana with SAML 2.0 and Grafana v8.0 features](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-grafana-saml-2-0-grafana-v-8-0/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager enables additional application management capabilities](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-systems-manager-application-management-capabilities/)
 - [Introducing Dynamic Partitioning in Amazon Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2021/08/introducing-dynamic-partitioning-amazon-kinesis-data-firehose/)
 - [AWS Launch Wizard now supports additional deployment capabilities to meet DevOps and organizational requirements](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-launch-wizard-deployment-capabilities-expanded/)
-- [AWS Copilot now supports Pub/Sub architectures](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-copilot-pub-sub-architectures/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

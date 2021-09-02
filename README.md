@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Updated AWS Solutions Implementation: AWS CloudEndure Migration Factory Solution](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-solutions-implementation-aws-cloudendure-migration-factory-solution/)
+- [Amazon S3 Intelligent-Tiering further automates storage cost savings by removing the minimum storage duration and monitoring and automation charge for small objects](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-intelligent-tiering-automates-storage-savings/)
+- [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
+- [Amazon EBS direct APIs now supports creating 64 TB EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ebs-apis-ebs-snapshots/)
+- [Amazon Elastic File System introduces Intelligent-Tiering to automatically optimize storage costs](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-file-system-intelligent-tiering/)
+- [Amazon S3 Multi-Region Access Points accelerate access to replicated data sets by up to 60%](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-multi-region-access-points-replicated-data-sets/)
+- [AWS Transfer Family simplifies managed file transfer workflows with low code automation](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-transfer-family-managed-workflows/)
 - [AWS Elemental MediaTailor now supports time based schedules for Channel Assembly streams](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elemental-mediatailor-channel-assembly-streams/)
 - [NICE DCV releases version 2021.2](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-nice-dcv-version-2021-2/)
 - [NICE DCV releases web client SDK 1.0.3](https://aws.amazon.com/about-aws/whats-new/2021/09/nice-dcv-web-client-sdk-1-0-3/)
-- [Amazon Polly offers full support in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-polly-aws-africa-cape-town-region/)
-- [AWS Lambda now supports AWS PrivateLink in previously unsupported Availability Zones](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-privatelink-zones/)
-- [Amazon SageMaker now supports M5d, R5, and P3dn instances for SageMaker Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-supports-m5d-r5-p3dn-instances-sagemaker-studio-notebooks/)
-- [AWS Security Hub Automated Response and Remediation adds support for PCI-DSS v3.2.1 Security Standard](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-hub-automated-response-remediation-pci-dss-v3-2-1-security-standard/)
-- [Amazon CloudWatch Application Insights adds support for Microsoft SQL Server FCI and FSx storage](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-microsoft-sql-server-fci-fsx-storage/)
-- [AWS Firewall Manager now supports AWS WAF log filtering](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-aws-waf-log-filtering/)
-- [AWS announces General Availability of Amazon Managed Grafana with SAML 2.0 and Grafana v8.0 features](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-managed-grafana-saml-2-0-grafana-v-8-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

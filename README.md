@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-aws-asia-pacific-osaka-region/)
 - [Updated AWS Solutions Implementation: AWS CloudEndure Migration Factory Solution](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-solutions-implementation-aws-cloudendure-migration-factory-solution/)
 - [Amazon S3 Intelligent-Tiering further automates storage cost savings by removing the minimum storage duration and monitoring and automation charge for small objects](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-intelligent-tiering-automates-storage-savings/)
 - [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
@@ -67,7 +68,6 @@
 - [AWS Transfer Family simplifies managed file transfer workflows with low code automation](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-transfer-family-managed-workflows/)
 - [AWS Elemental MediaTailor now supports time based schedules for Channel Assembly streams](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elemental-mediatailor-channel-assembly-streams/)
 - [NICE DCV releases version 2021.2](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-nice-dcv-version-2021-2/)
-- [NICE DCV releases web client SDK 1.0.3](https://aws.amazon.com/about-aws/whats-new/2021/09/nice-dcv-web-client-sdk-1-0-3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

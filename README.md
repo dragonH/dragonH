@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL now supports oracle_fdw extension in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-postgresql-oracle-fdw-aws-govcloud-us-regions/)
 - [AWS Database Migration Service now supports migrating multiple databases in one task using MongoDB as a source](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-database-migration-service-mongodb-source/)
 - [Amazon Monitron launches a new ethernet gateway device](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ethernet-gateway-device/)
 - [Amazon RDS for MariaDB supports new minor versions 10.5.12, 10.4.21, 10.3.31, 10.2.40](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-mariadb-new-minor-versions/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
 - [Amazon EBS direct APIs now supports creating 64 TB EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ebs-apis-ebs-snapshots/)
 - [Amazon Elastic File System introduces Intelligent-Tiering to automatically optimize storage costs](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-file-system-intelligent-tiering/)
-- [Amazon S3 Multi-Region Access Points accelerate access to replicated data sets by up to 60%](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-multi-region-access-points-replicated-data-sets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

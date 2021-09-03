@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-postgresql-versions-aws-govcloud-regions/)
+- [ACM Private CA now supports the Online Certificate Status Protocol (OCSP)](https://aws.amazon.com/about-aws/whats-new/2021/09/acm-private-ca-online-certificate-ocsp/)
+- [Amazon EMR Studio is now HIPAA eligible and HITRUST certified](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-hipaa-hitrust/)
 - [Amazon Aurora PostgreSQL now supports oracle_fdw extension in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-postgresql-oracle-fdw-aws-govcloud-us-regions/)
 - [AWS Database Migration Service now supports migrating multiple databases in one task using MongoDB as a source](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-database-migration-service-mongodb-source/)
 - [Amazon Monitron launches a new ethernet gateway device](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ethernet-gateway-device/)
@@ -65,9 +68,6 @@
 - [Amazon SageMaker is now available in the AWS Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-aws-asia-pacific-osaka-region/)
 - [Updated AWS Solutions Implementation: AWS CloudEndure Migration Factory Solution](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-solutions-implementation-aws-cloudendure-migration-factory-solution/)
 - [Amazon S3 Intelligent-Tiering further automates storage cost savings by removing the minimum storage duration and monitoring and automation charge for small objects](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-s3-intelligent-tiering-automates-storage-savings/)
-- [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
-- [Amazon EBS direct APIs now supports creating 64 TB EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ebs-apis-ebs-snapshots/)
-- [Amazon Elastic File System introduces Intelligent-Tiering to automatically optimize storage costs](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-file-system-intelligent-tiering/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

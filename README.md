@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Pinpoint now supports encrypted SNS topics for inbound SMS](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-pinpoint-encrypted-sns-topics-inbound-sms/)
 - [AWS Systems Manager Change Calendar now supports third-party calendar imports, giving you a more holistic view of events](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-systems-calender-third-party-imports/)
 - [Amazon CodeGuru Reviewer adds new inconsistency detectors](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-codeguru-reviewer-inconsistency-detectors/)
 - [AWS Network Firewall is Now HIPAA Eligible](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-network-firewall-hipaa-eligible/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora Supports PostgreSQL 9.6.22, 10.17, 11.12, and 12.7 in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-postgresql-versions-aws-govcloud-regions/)
 - [ACM Private CA now supports the Online Certificate Status Protocol (OCSP)](https://aws.amazon.com/about-aws/whats-new/2021/09/acm-private-ca-online-certificate-ocsp/)
 - [Amazon EMR Studio is now HIPAA eligible and HITRUST certified](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-hipaa-hitrust/)
-- [Amazon Aurora PostgreSQL now supports oracle_fdw extension in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-postgresql-oracle-fdw-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

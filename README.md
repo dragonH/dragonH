@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic Kubernetes Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-kubernetes-service/)
+- [Amazon EKS Connector is now in public preview](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-eks-connector-public-preview/)
+- [AWS Firewall Manager Automations for AWS Organizations v1.1 is now available](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-automations-aws-organizations-v1-1/)
 - [AWS CDK releases v1.117.0 - v1.120.0 with improved support for Amazon Kinesis Firehose, Amazon CloudFront, Amazon Cognito, and more](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/)
 - [Amazon Detective offers Splunk integration](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-splunk-integration/)
 - [Cloud9 is now available in 2 more regions](https://aws.amazon.com/about-aws/whats-new/2021/09/cloud9-available-more-regions/)
@@ -65,9 +68,6 @@
 - [Amazon Pinpoint now supports encrypted SNS topics for inbound SMS](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-pinpoint-encrypted-sns-topics-inbound-sms/)
 - [AWS Systems Manager Change Calendar now supports third-party calendar imports, giving you a more holistic view of events](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-systems-calender-third-party-imports/)
 - [Amazon CodeGuru Reviewer adds new inconsistency detectors](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-codeguru-reviewer-inconsistency-detectors/)
-- [AWS Network Firewall is Now HIPAA Eligible](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-network-firewall-hipaa-eligible/)
-- [Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-sql-server-msdtc-jdbc-xa-sql-server-2017-cu16-plus-sql-server-2019/)
-- [Cross-account event discovery for Amazon EventBridge schema registry](https://aws.amazon.com/about-aws/whats-new/2021/09/cross-account-discovery-amazon-eventbridge-schema/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

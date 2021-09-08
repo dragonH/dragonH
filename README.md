@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now supports SAP deployment from accounts using AWS Managed Services](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-sap-deployment-accounts-aws-managed-services/)
+- [AWS Managed Services (AMS) now offers a catalog of operational offerings with Operations on Demand](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-managed-services-ams-catalog-operational-on-demand/)
 - [Amazon Elastic Kubernetes Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-kubernetes-service/)
 - [Amazon EKS Connector is now in public preview](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-eks-connector-public-preview/)
 - [AWS Firewall Manager Automations for AWS Organizations v1.1 is now available](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-automations-aws-organizations-v1-1/)
@@ -66,8 +68,6 @@
 - [Cloud9 is now available in 2 more regions](https://aws.amazon.com/about-aws/whats-new/2021/09/cloud9-available-more-regions/)
 - [Support for multi-key encryption now available with AWS Elemental MediaPackage and SPEKE v2.0](https://aws.amazon.com/about-aws/whats-new/2021/09/multi-key-encryption-aws-elemental-mediapackage-speke-2-0/)
 - [Amazon Pinpoint now supports encrypted SNS topics for inbound SMS](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-pinpoint-encrypted-sns-topics-inbound-sms/)
-- [AWS Systems Manager Change Calendar now supports third-party calendar imports, giving you a more holistic view of events](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-systems-calender-third-party-imports/)
-- [Amazon CodeGuru Reviewer adds new inconsistency detectors](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-codeguru-reviewer-inconsistency-detectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

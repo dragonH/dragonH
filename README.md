@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CDK releases v1.117.0 - v1.120.0 with improved support for Amazon Kinesis Firehose, Amazon CloudFront, Amazon Cognito, and more](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/)
 - [Amazon Detective offers Splunk integration](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-splunk-integration/)
 - [Cloud9 is now available in 2 more regions](https://aws.amazon.com/about-aws/whats-new/2021/09/cloud9-available-more-regions/)
 - [Support for multi-key encryption now available with AWS Elemental MediaPackage and SPEKE v2.0](https://aws.amazon.com/about-aws/whats-new/2021/09/multi-key-encryption-aws-elemental-mediapackage-speke-2-0/)
@@ -67,7 +68,6 @@
 - [AWS Network Firewall is Now HIPAA Eligible](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-network-firewall-hipaa-eligible/)
 - [Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2021/08/amazon-rds-sql-server-msdtc-jdbc-xa-sql-server-2017-cu16-plus-sql-server-2019/)
 - [Cross-account event discovery for Amazon EventBridge schema registry](https://aws.amazon.com/about-aws/whats-new/2021/09/cross-account-discovery-amazon-eventbridge-schema/)
-- [New full-text search non-string indexing capabilities for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/09/new-capabilities-amazon-neptune/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

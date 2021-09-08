@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Marketplace launches aliases for all single AMI products](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-marketplace-ami-products/)
+- [OpenSearch Dashboards Notebooks, a new visual reporting feature, now available on Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)](https://aws.amazon.com/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/)
+- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Data Streams with OpenSearch 1.0 to simplify management of time-series data](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-1-0-elasticsearch-data-streams/)
+- [Amazon Elasticsearch Service is now Amazon OpenSearch Service; adds support for OpenSearch 1.0](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticsearch-service-amazon-opensearch-service-opensearch-1-0/)
 - [Announcing the General Availability of AWS Local Zones in Chicago, Kansas City, and Minneapolis](https://aws.amazon.com/about-aws/whats-new/2021/09/general-availability-aws-local-zones/)
+- [AWS Marketplace launches aliases for all single AMI products](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-marketplace-ami-products/)
 - [Amazon MQ now supports RabbitMQ version 3.8.22](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-mq-rabbitmq-version-3-8-22/)
 - [AWS Launch Wizard now supports SAP deployment from accounts using AWS Managed Services](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-sap-deployment-accounts-aws-managed-services/)
 - [AWS Managed Services (AMS) now offers a catalog of operational offerings with Operations on Demand](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-managed-services-ams-catalog-operational-on-demand/)
 - [Amazon Elastic Kubernetes Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-kubernetes-service/)
 - [Amazon EKS Connector is now in public preview](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-eks-connector-public-preview/)
-- [AWS Firewall Manager Automations for AWS Organizations v1.1 is now available](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-automations-aws-organizations-v1-1/)
-- [AWS CDK releases v1.117.0 - v1.120.0 with improved support for Amazon Kinesis Firehose, Amazon CloudFront, Amazon Cognito, and more](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cdk-versions-amazon-kinesis-cloudfront-cognito/)
-- [Amazon Detective offers Splunk integration](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-splunk-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

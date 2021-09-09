@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Gateway Load Balancer achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-gateway-load-balancer-pci-dss-compliance/)
+- [Amazon Lex launches support for Korean](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-launches-support-korean/)
+- [Amazon EC2 announces increases for instance network bandwidth](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-increases-instance-network-bandwith/)
 - [AWS Amplify announces command hooks to execute custom scripts when running Amplify CLI commands](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-command-hooks-custom-scripts-cli/)
 - [Ability to customize reverse DNS for Elastic IP addresses now available in additional regions for Virtual Private Cloud customers](https://aws.amazon.com/about-aws/whats-new/2021/09/dns-elastic-ip-addresses-virtual-private-cloud/)
 - [Amazon CloudWatch Application Insights and AWS Systems Manager Application Manager combine to offer an integrated application management experience](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-aws-systems-manager-combine/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 Hibernation adds support for Red Hat Enterprise Linux 8, CentOS 8, and Fedora 34](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-hibernation-red-hat-enterprise-linux-8-centos-8-fedora-34/)
 - [AWS announces enhancements to the AWS Marketplace Consulting Partner Private Offer self-service experience.](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-enhancements-marketplace-consulting-partner-private-offer/)
 - [AWS Cloud Map now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-cloud-map-aws-govcloud-us-regions/)
-- [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
-- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Index Transforms](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-index-transforms/)
-- [OpenSearch Dashboards Notebooks, a new visual reporting feature, now available on Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)](https://aws.amazon.com/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

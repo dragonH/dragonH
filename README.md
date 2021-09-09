@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces enhancements to the AWS Marketplace Consulting Partner Private Offer self-service experience.](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-enhancements-marketplace-consulting-partner-private-offer/)
+- [AWS Cloud Map now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-cloud-map-aws-govcloud-us-regions/)
 - [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
 - [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Index Transforms](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-index-transforms/)
 - [OpenSearch Dashboards Notebooks, a new visual reporting feature, now available on Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)](https://aws.amazon.com/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/)
@@ -66,8 +68,6 @@
 - [Announcing the General Availability of AWS Local Zones in Chicago, Kansas City, and Minneapolis](https://aws.amazon.com/about-aws/whats-new/2021/09/general-availability-aws-local-zones/)
 - [AWS Marketplace launches aliases for all single AMI products](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-marketplace-ami-products/)
 - [Amazon MQ now supports RabbitMQ version 3.8.22](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-mq-rabbitmq-version-3-8-22/)
-- [AWS Launch Wizard now supports SAP deployment from accounts using AWS Managed Services](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-sap-deployment-accounts-aws-managed-services/)
-- [AWS Managed Services (AMS) now offers a catalog of operational offerings with Operations on Demand](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-managed-services-ams-catalog-operational-on-demand/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

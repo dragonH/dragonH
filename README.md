@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
+- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Index Transforms](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-index-transforms/)
 - [OpenSearch Dashboards Notebooks, a new visual reporting feature, now available on Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)](https://aws.amazon.com/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/)
 - [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Data Streams with OpenSearch 1.0 to simplify management of time-series data](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-1-0-elasticsearch-data-streams/)
 - [Amazon Elasticsearch Service is now Amazon OpenSearch Service; adds support for OpenSearch 1.0](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticsearch-service-amazon-opensearch-service-opensearch-1-0/)
@@ -66,8 +68,6 @@
 - [Amazon MQ now supports RabbitMQ version 3.8.22](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-mq-rabbitmq-version-3-8-22/)
 - [AWS Launch Wizard now supports SAP deployment from accounts using AWS Managed Services](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-sap-deployment-accounts-aws-managed-services/)
 - [AWS Managed Services (AMS) now offers a catalog of operational offerings with Operations on Demand](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-managed-services-ams-catalog-operational-on-demand/)
-- [Amazon Elastic Kubernetes Service Anywhere is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elastic-kubernetes-service/)
-- [Amazon EKS Connector is now in public preview](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-eks-connector-public-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

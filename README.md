@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-sql-server-msdtc-jdbc-xa-sql-server-2017-cu16-plus-sql-server-2019/)
+- [Amazon EC2 Hibernation adds support for Red Hat Enterprise Linux 8, CentOS 8, and Fedora 34](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-hibernation-red-hat-enterprise-linux-8-centos-8-fedora-34/)
 - [AWS announces enhancements to the AWS Marketplace Consulting Partner Private Offer self-service experience.](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-enhancements-marketplace-consulting-partner-private-offer/)
 - [AWS Cloud Map now available in the AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-cloud-map-aws-govcloud-us-regions/)
 - [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
@@ -66,8 +68,6 @@
 - [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Data Streams with OpenSearch 1.0 to simplify management of time-series data](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-1-0-elasticsearch-data-streams/)
 - [Amazon Elasticsearch Service is now Amazon OpenSearch Service; adds support for OpenSearch 1.0](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticsearch-service-amazon-opensearch-service-opensearch-1-0/)
 - [Announcing the General Availability of AWS Local Zones in Chicago, Kansas City, and Minneapolis](https://aws.amazon.com/about-aws/whats-new/2021/09/general-availability-aws-local-zones/)
-- [AWS Marketplace launches aliases for all single AMI products](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-marketplace-ami-products/)
-- [Amazon MQ now supports RabbitMQ version 3.8.22](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-mq-rabbitmq-version-3-8-22/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

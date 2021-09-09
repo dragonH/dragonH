@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify announces command hooks to execute custom scripts when running Amplify CLI commands](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-command-hooks-custom-scripts-cli/)
 - [Ability to customize reverse DNS for Elastic IP addresses now available in additional regions for Virtual Private Cloud customers](https://aws.amazon.com/about-aws/whats-new/2021/09/dns-elastic-ip-addresses-virtual-private-cloud/)
 - [Amazon CloudWatch Application Insights and AWS Systems Manager Application Manager combine to offer an integrated application management experience](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-aws-systems-manager-combine/)
 - [Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-sql-server-msdtc-jdbc-xa-sql-server-2017-cu16-plus-sql-server-2019/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-fsx-netapp-ontap/)
 - [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Index Transforms](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-index-transforms/)
 - [OpenSearch Dashboards Notebooks, a new visual reporting feature, now available on Amazon OpenSearch Service (successor to Amazon Elasticsearch Service)](https://aws.amazon.com/about-aws/whats-new/2021/09/opensearch-dashboards-notebooks-amazon-opensearch-service/)
-- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now supports Data Streams with OpenSearch 1.0 to simplify management of time-series data](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-opensearch-1-0-elasticsearch-data-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

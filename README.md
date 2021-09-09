@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/dragonH/happy-6-pm/pull/15) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-2. 💪 Opened PR [#15](https://github.com/dragonH/happy-6-pm/pull/15) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-3. 🎉 Merged PR [#6](https://github.com/dragonH/pokecord_selfbot/pull/6) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
-4. 🎉 Merged PR [#24](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/24) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-5. 🎉 Merged PR [#25](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/25) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+1. 🎉 Merged PR [#1](https://github.com/dragonH/elasticsearch-jieba-plugin/pull/1) in [dragonH/elasticsearch-jieba-plugin](https://github.com/dragonH/elasticsearch-jieba-plugin)
+2. 💪 Opened PR [#1](https://github.com/dragonH/elasticsearch-jieba-plugin/pull/1) in [dragonH/elasticsearch-jieba-plugin](https://github.com/dragonH/elasticsearch-jieba-plugin)
+3. ❌ Closed PR [#77](https://github.com/sing1ee/elasticsearch-jieba-plugin/pull/77) in [sing1ee/elasticsearch-jieba-plugin](https://github.com/sing1ee/elasticsearch-jieba-plugin)
+4. 💪 Opened PR [#77](https://github.com/sing1ee/elasticsearch-jieba-plugin/pull/77) in [sing1ee/elasticsearch-jieba-plugin](https://github.com/sing1ee/elasticsearch-jieba-plugin)
+5. 🎉 Merged PR [#15](https://github.com/dragonH/happy-6-pm/pull/15) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
 <!--END_SECTION:activity-->
 
 </details>

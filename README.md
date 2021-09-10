@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora now supports AWS Graviton2-based T4g instances](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-t4g-instances/)
+- [Amazon Aurora now supports AWS Graviton2-based X2g instances](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-x2g-instances/)
+- [Amazon EC2 D3 instances with dense local HDD storage now available in India (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-d3-hdd-storage-mumbai-region/)
 - [AWS ParallelCluster now supports cluster management through Amazon API Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-parallelcluster-cluster-management-api-gateway/)
 - [Amazon Braket introduces verbatim compilation for quantum circuits](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-braket-verbatim-compilation-quantum-circuits/)
 - [Amazon EC2 I3en Instances are Now Available in AWS Regions in the Middle East (Bahrain), South Africa (Cape Town), and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-i3en-instances-aws-regions/)
@@ -65,9 +68,6 @@
 - [Amazon Lex launches support for Korean](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-launches-support-korean/)
 - [Amazon EC2 announces increases for instance network bandwidth](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-increases-instance-network-bandwith/)
 - [AWS Amplify announces command hooks to execute custom scripts when running Amplify CLI commands](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-command-hooks-custom-scripts-cli/)
-- [Ability to customize reverse DNS for Elastic IP addresses now available in additional regions for Virtual Private Cloud customers](https://aws.amazon.com/about-aws/whats-new/2021/09/dns-elastic-ip-addresses-virtual-private-cloud/)
-- [Amazon CloudWatch Application Insights and AWS Systems Manager Application Manager combine to offer an integrated application management experience](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-aws-systems-manager-combine/)
-- [Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-sql-server-msdtc-jdbc-xa-sql-server-2017-cu16-plus-sql-server-2019/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

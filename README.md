@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket introduces verbatim compilation for quantum circuits](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-braket-verbatim-compilation-quantum-circuits/)
 - [Amazon EC2 I3en Instances are Now Available in AWS Regions in the Middle East (Bahrain), South Africa (Cape Town), and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-i3en-instances-aws-regions/)
 - [AWS Gateway Load Balancer achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-gateway-load-balancer-pci-dss-compliance/)
 - [Amazon Lex launches support for Korean](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-launches-support-korean/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Application Insights and AWS Systems Manager Application Manager combine to offer an integrated application management experience](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-aws-systems-manager-combine/)
 - [Amazon RDS for SQL Server now supports MSDTC JDBC XA for SQL Server 2017 CU16+ and SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-sql-server-msdtc-jdbc-xa-sql-server-2017-cu16-plus-sql-server-2019/)
 - [Amazon EC2 Hibernation adds support for Red Hat Enterprise Linux 8, CentOS 8, and Fedora 34](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-hibernation-red-hat-enterprise-linux-8-centos-8-fedora-34/)
-- [AWS announces enhancements to the AWS Marketplace Consulting Partner Private Offer self-service experience.](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-enhancements-marketplace-consulting-partner-private-offer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

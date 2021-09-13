@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Contact Lens for Amazon Connect adds support for 8 languages](https://aws.amazon.com/about-aws/whats-new/2021/09/contact-lens-amazon-connect-adds-languages/)
+- [AWS CodeBuild now supports a small ARM machine type](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codebuild-small-arm-machine-type/)
 - [Amazon Aurora Serverless v1 supports configurable autoscaling timeout](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-serverless-v1-autoscaling-timeout/)
 - [Announcing general availability of Amazon EC2 VT1 instances - the first EC2 instance optimized for video transcoding](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/)
 - [AWS Health Aware (AHA) is now available for Organizational and Personal AWS Accounts to customize Health Alerts](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-health-aware-organizational-personal-aws-accounts-aws-health-alerts/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 D3 instances with dense local HDD storage now available in India (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-d3-hdd-storage-mumbai-region/)
 - [AWS ParallelCluster now supports cluster management through Amazon API Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-parallelcluster-cluster-management-api-gateway/)
 - [Amazon Braket introduces verbatim compilation for quantum circuits](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-braket-verbatim-compilation-quantum-circuits/)
-- [Amazon EC2 I3en Instances are Now Available in AWS Regions in the Middle East (Bahrain), South Africa (Cape Town), and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-i3en-instances-aws-regions/)
-- [AWS Gateway Load Balancer achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-gateway-load-balancer-pci-dss-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

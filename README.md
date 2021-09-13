@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v1 supports configurable autoscaling timeout](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-serverless-v1-autoscaling-timeout/)
+- [Announcing general availability of Amazon EC2 VT1 instances - the first EC2 instance optimized for video transcoding](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/)
+- [AWS Health Aware (AHA) is now available for Organizational and Personal AWS Accounts to customize Health Alerts](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-health-aware-organizational-personal-aws-accounts-aws-health-alerts/)
 - [Amazon Aurora now supports AWS Graviton2-based T4g instances](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-t4g-instances/)
 - [Amazon Aurora now supports AWS Graviton2-based X2g instances](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-x2g-instances/)
 - [Amazon EC2 D3 instances with dense local HDD storage now available in India (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-d3-hdd-storage-mumbai-region/)
@@ -65,9 +68,6 @@
 - [Amazon Braket introduces verbatim compilation for quantum circuits](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-braket-verbatim-compilation-quantum-circuits/)
 - [Amazon EC2 I3en Instances are Now Available in AWS Regions in the Middle East (Bahrain), South Africa (Cape Town), and Europe (Milan)](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-i3en-instances-aws-regions/)
 - [AWS Gateway Load Balancer achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-gateway-load-balancer-pci-dss-compliance/)
-- [Amazon Lex launches support for Korean](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-launches-support-korean/)
-- [Amazon EC2 announces increases for instance network bandwidth](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-increases-instance-network-bandwith/)
-- [AWS Amplify announces command hooks to execute custom scripts when running Amplify CLI commands](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-command-hooks-custom-scripts-cli/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

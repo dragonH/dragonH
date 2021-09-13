@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SES now supports emails with a message size of up to 40MB](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ses-emails-message-40mb/)
+- [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the Canada (Central) region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-real-time-insights-canada-central-region/)
 - [Contact Lens for Amazon Connect adds support for 8 languages](https://aws.amazon.com/about-aws/whats-new/2021/09/contact-lens-amazon-connect-adds-languages/)
 - [AWS CodeBuild now supports a small ARM machine type](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codebuild-small-arm-machine-type/)
 - [Amazon Aurora Serverless v1 supports configurable autoscaling timeout](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-serverless-v1-autoscaling-timeout/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora now supports AWS Graviton2-based T4g instances](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-t4g-instances/)
 - [Amazon Aurora now supports AWS Graviton2-based X2g instances](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-supports-aws-graviton2-based-x2g-instances/)
 - [Amazon EC2 D3 instances with dense local HDD storage now available in India (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-d3-hdd-storage-mumbai-region/)
-- [AWS ParallelCluster now supports cluster management through Amazon API Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-parallelcluster-cluster-management-api-gateway/)
-- [Amazon Braket introduces verbatim compilation for quantum circuits](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-braket-verbatim-compilation-quantum-circuits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

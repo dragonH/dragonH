@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Redshift RSQL, a command line client for interacting with Amazon Redshift clusters and databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/)
 - [Amazon EC2 T3 instances are now supported on EC2 Dedicated Hosts in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-t3-instances-hosts-regions/)
 - [Amazon Transcribe now supports redaction of personal identifiable information (PII) for streaming transcriptions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-transcribe-pii-streaming-transcriptions/)
 - [AWS Firewall Manager now supports AWS WAF rate-based rules](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-firewall-manager-waf-rate-based-rules/)
@@ -67,7 +68,6 @@
 - [Contact Lens for Amazon Connect adds support for 8 languages](https://aws.amazon.com/about-aws/whats-new/2021/09/contact-lens-amazon-connect-adds-languages/)
 - [AWS CodeBuild now supports a small ARM machine type](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codebuild-small-arm-machine-type/)
 - [Amazon Aurora Serverless v1 supports configurable autoscaling timeout](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-aurora-serverless-v1-autoscaling-timeout/)
-- [Announcing general availability of Amazon EC2 VT1 instances - the first EC2 instance optimized for video transcoding](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-vt1-instances-video-transcoding/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

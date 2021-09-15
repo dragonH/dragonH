@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Extract custom entities from documents in their native format with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-extract-entities-native-format/)
 - [Amazon Timestream is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-timestream-scope-aws-soc-reports/)
 - [Announcing Amazon Redshift RSQL, a command line client for interacting with Amazon Redshift clusters and databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/)
 - [Amazon EC2 T3 instances are now supported on EC2 Dedicated Hosts in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-t3-instances-hosts-regions/)
@@ -67,7 +68,6 @@
 - [Amazon SES now supports emails with a message size of up to 40MB](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ses-emails-message-40mb/)
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the Canada (Central) region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-real-time-insights-canada-central-region/)
 - [Contact Lens for Amazon Connect adds support for 8 languages](https://aws.amazon.com/about-aws/whats-new/2021/09/contact-lens-amazon-connect-adds-languages/)
-- [AWS CodeBuild now supports a small ARM machine type](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codebuild-small-arm-machine-type/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

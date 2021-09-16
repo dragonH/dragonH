@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports inference endpoint testing from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-studio-inference-endpoint-testing/)
+- [Amazon RDS now supports R5b instances for MySQL and PostgreSQL databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-r5b-mysql-postgresql-databases/)
+- [Route 53 Resolver DNS Firewall Now Available in Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/route-53-resolver-dns-firewall-asia-pacific-osaka-region/)
 - [Amazon RDS now supports T4g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-t4g-mysql-mariadb-postgresql/)
 - [AWS IQ now supports AWS Certified experts and consulting firms located in the UK & France](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iq-aws-certified-experts-consulting-firms-uk-france/)
 - [Amazon RDS now supports X2g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-x2g-mysql-mariadb-postgresql/)
@@ -65,9 +68,6 @@
 - [Announcing Build on AWS for Startups](https://aws.amazon.com/about-aws/whats-new/2021/09/announcing-build-aws-startups/)
 - [AWS Lake Formation is now available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lake-formation-asia-pacific-osaka/)
 - [Extract custom entities from documents in their native format with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-extract-entities-native-format/)
-- [Amazon Timestream is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-timestream-scope-aws-soc-reports/)
-- [Announcing Amazon Redshift RSQL, a command line client for interacting with Amazon Redshift clusters and databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/)
-- [Amazon EC2 T3 instances are now supported on EC2 Dedicated Hosts in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-t3-instances-hosts-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

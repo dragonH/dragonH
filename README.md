@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Management Connector for ServiceNow supports AWS Service Catalog AppRegistry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-connector-servicenow-aws-catalog-appregistry/)
 - [Amazon SageMaker now supports inference endpoint testing from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-studio-inference-endpoint-testing/)
 - [Amazon RDS now supports R5b instances for MySQL and PostgreSQL databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-r5b-mysql-postgresql-databases/)
 - [Route 53 Resolver DNS Firewall Now Available in Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/route-53-resolver-dns-firewall-asia-pacific-osaka-region/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Application Insights adds account application auto-discovery and new health dashboard](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-account-application-health-dashboard/)
 - [Announcing Build on AWS for Startups](https://aws.amazon.com/about-aws/whats-new/2021/09/announcing-build-aws-startups/)
 - [AWS Lake Formation is now available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lake-formation-asia-pacific-osaka/)
-- [Extract custom entities from documents in their native format with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-extract-entities-native-format/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

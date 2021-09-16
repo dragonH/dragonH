@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports T4g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-t4g-mysql-mariadb-postgresql/)
 - [AWS IQ now supports AWS Certified experts and consulting firms located in the UK & France](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iq-aws-certified-experts-consulting-firms-uk-france/)
 - [Amazon RDS now supports X2g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-x2g-mysql-mariadb-postgresql/)
 - [Amazon CloudWatch Application Insights adds account application auto-discovery and new health dashboard](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-account-application-health-dashboard/)
@@ -67,7 +68,6 @@
 - [Amazon Timestream is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-timestream-scope-aws-soc-reports/)
 - [Announcing Amazon Redshift RSQL, a command line client for interacting with Amazon Redshift clusters and databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-rsql-amazon-redshift-clusters-databases/)
 - [Amazon EC2 T3 instances are now supported on EC2 Dedicated Hosts in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-t3-instances-hosts-regions/)
-- [Amazon Transcribe now supports redaction of personal identifiable information (PII) for streaming transcriptions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-transcribe-pii-streaming-transcriptions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

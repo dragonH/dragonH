@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon MSK Connect: Run serverless, scalable Kafka Connect clusters in Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-connect-run-serverless-scalable-kafka-connect-clusters-amazon-msk/)
+- [Amazon Corretto 17 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-corretto-17-now-available/)
 - [AWS CodeCommit is Now Available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codecommit-africa-cape-town-region/)
 - [AWS Service Management Connector for ServiceNow supports AWS Service Catalog AppRegistry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-connector-servicenow-aws-catalog-appregistry/)
 - [Amazon SageMaker now supports inference endpoint testing from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-studio-inference-endpoint-testing/)
@@ -66,8 +68,6 @@
 - [Amazon RDS now supports T4g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-t4g-mysql-mariadb-postgresql/)
 - [AWS IQ now supports AWS Certified experts and consulting firms located in the UK & France](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iq-aws-certified-experts-consulting-firms-uk-france/)
 - [Amazon RDS now supports X2g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-x2g-mysql-mariadb-postgresql/)
-- [Amazon CloudWatch Application Insights adds account application auto-discovery and new health dashboard](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-account-application-health-dashboard/)
-- [Announcing Build on AWS for Startups](https://aws.amazon.com/about-aws/whats-new/2021/09/announcing-build-aws-startups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

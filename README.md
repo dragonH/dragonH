@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeCommit is Now Available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codecommit-africa-cape-town-region/)
 - [AWS Service Management Connector for ServiceNow supports AWS Service Catalog AppRegistry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-connector-servicenow-aws-catalog-appregistry/)
 - [Amazon SageMaker now supports inference endpoint testing from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-studio-inference-endpoint-testing/)
 - [Amazon RDS now supports R5b instances for MySQL and PostgreSQL databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-r5b-mysql-postgresql-databases/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports X2g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-x2g-mysql-mariadb-postgresql/)
 - [Amazon CloudWatch Application Insights adds account application auto-discovery and new health dashboard](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-application-insights-account-application-health-dashboard/)
 - [Announcing Build on AWS for Startups](https://aws.amazon.com/about-aws/whats-new/2021/09/announcing-build-aws-startups/)
-- [AWS Lake Formation is now available in Asia Pacific (Osaka)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lake-formation-asia-pacific-osaka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

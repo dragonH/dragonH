@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch request metrics for Amazon S3 Access Points now available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/)
 - [AWS RoboMaker now supports container images in simulation](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-robomaker-supports-container-images-simulation/)
 - [Announcing Amazon MSK Connect: Run serverless, scalable Kafka Connect clusters in Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-connect-run-serverless-scalable-kafka-connect-clusters-amazon-msk/)
 - [Amazon Corretto 17 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-corretto-17-now-available/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports R5b instances for MySQL and PostgreSQL databases](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-r5b-mysql-postgresql-databases/)
 - [Route 53 Resolver DNS Firewall Now Available in Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/route-53-resolver-dns-firewall-asia-pacific-osaka-region/)
 - [Amazon RDS now supports T4g instances for MySQL, MariaDB, and PostgreSQL databases.](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-t4g-mysql-mariadb-postgresql/)
-- [AWS IQ now supports AWS Certified experts and consulting firms located in the UK & France](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iq-aws-certified-experts-consulting-firms-uk-france/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

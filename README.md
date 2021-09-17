@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS RoboMaker now supports container images in simulation](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-robomaker-supports-container-images-simulation/)
 - [Amazon CloudWatch request metrics for Amazon S3 Access Points now available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/)
-- [AWS RoboMaker now supports container images in simulation](https://aws.amazon.com/about-aws/whats-new/2021/08/aws-robomaker-supports-container-images-simulation/)
 - [Announcing Amazon MSK Connect: Run serverless, scalable Kafka Connect clusters in Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-connect-run-serverless-scalable-kafka-connect-clusters-amazon-msk/)
 - [Amazon Corretto 17 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-corretto-17-now-available/)
 - [AWS CodeCommit is Now Available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codecommit-africa-cape-town-region/)

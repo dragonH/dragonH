@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/dragonH/shopping-site-practice/pull/18) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-2. 🎉 Merged PR [#1](https://github.com/dragonH/elasticsearch-jieba-plugin/pull/1) in [dragonH/elasticsearch-jieba-plugin](https://github.com/dragonH/elasticsearch-jieba-plugin)
-3. 💪 Opened PR [#1](https://github.com/dragonH/elasticsearch-jieba-plugin/pull/1) in [dragonH/elasticsearch-jieba-plugin](https://github.com/dragonH/elasticsearch-jieba-plugin)
-4. ❌ Closed PR [#77](https://github.com/sing1ee/elasticsearch-jieba-plugin/pull/77) in [sing1ee/elasticsearch-jieba-plugin](https://github.com/sing1ee/elasticsearch-jieba-plugin)
-5. 💪 Opened PR [#77](https://github.com/sing1ee/elasticsearch-jieba-plugin/pull/77) in [sing1ee/elasticsearch-jieba-plugin](https://github.com/sing1ee/elasticsearch-jieba-plugin)
+1. 🎉 Merged PR [#7](https://github.com/dragonH/Crawlers/pull/7) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+2. 🎉 Merged PR [#2](https://github.com/dragonH/Crawlers/pull/2) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+3. 🎉 Merged PR [#4](https://github.com/dragonH/Crawlers/pull/4) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+4. 🎉 Merged PR [#18](https://github.com/dragonH/shopping-site-practice/pull/18) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+5. 🎉 Merged PR [#1](https://github.com/dragonH/elasticsearch-jieba-plugin/pull/1) in [dragonH/elasticsearch-jieba-plugin](https://github.com/dragonH/elasticsearch-jieba-plugin)
 <!--END_SECTION:activity-->
 
 </details>

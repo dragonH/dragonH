@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk supports Dynamic Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/)
 - [Amazon Detective supports S3 and DNS finding types, adds finding details](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/)
 - [Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/)
 - [Amazon Redshift Cross-Account Data Sharing is now generally available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-cross-account-data-sharing-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Amazon MSK now supports running multiple authentication modes and updates to TLS encryption settings](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-multiple-authentication-modes-tls-encryption-settings/)
 - [AWS RoboMaker now supports container images in simulation](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-robomaker-supports-container-images-simulation/)
 - [Amazon CloudWatch request metrics for Amazon S3 Access Points now available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/)
-- [Announcing Amazon MSK Connect: Run serverless, scalable Kafka Connect clusters in Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-connect-run-serverless-scalable-kafka-connect-clusters-amazon-msk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

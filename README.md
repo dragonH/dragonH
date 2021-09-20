@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Cross-Account Data Sharing is now generally available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-cross-account-data-sharing-aws-govcloud-us-regions/)
 - [AWS announces General Availability of the Amazon GameLift Plug-in and AWS CloudFormation Templates for Unity](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amazon-gamelift-plug-in-aws-cloudformation-templates-unity/)
 - [Now authenticate Amazon EMR Studio users using IAM-based authentication or IAM Federation, in addition to AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-iam-based-authentication-identity-federation/)
 - [Amazon QuickSight launches Dataset-as-a-Source](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-dataset-source/)
@@ -67,7 +68,6 @@
 - [Announcing Amazon MSK Connect: Run serverless, scalable Kafka Connect clusters in Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-connect-run-serverless-scalable-kafka-connect-clusters-amazon-msk/)
 - [Amazon Corretto 17 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-corretto-17-now-available/)
 - [AWS CodeCommit is Now Available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codecommit-africa-cape-town-region/)
-- [AWS Service Management Connector for ServiceNow supports AWS Service Catalog AppRegistry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-connector-servicenow-aws-catalog-appregistry/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces General Availability of the Amazon GameLift Plug-in and AWS CloudFormation Templates for Unity](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amazon-gamelift-plug-in-aws-cloudformation-templates-unity/)
 - [Now authenticate Amazon EMR Studio users using IAM-based authentication or IAM Federation, in addition to AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-iam-based-authentication-identity-federation/)
 - [Amazon QuickSight launches Dataset-as-a-Source](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-dataset-source/)
 - [Amazon MSK now supports running multiple authentication modes and updates to TLS encryption settings](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-multiple-authentication-modes-tls-encryption-settings/)
@@ -67,7 +68,6 @@
 - [Amazon Corretto 17 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-corretto-17-now-available/)
 - [AWS CodeCommit is Now Available in the Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-codecommit-africa-cape-town-region/)
 - [AWS Service Management Connector for ServiceNow supports AWS Service Catalog AppRegistry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-connector-servicenow-aws-catalog-appregistry/)
-- [Amazon SageMaker now supports inference endpoint testing from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-studio-inference-endpoint-testing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

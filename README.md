@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker Studio enables interactive Spark based data processing from Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/sagemaker-studio-spark-data-processing-studio-notebooks/)
 - [Optimize your Amazon Forecast model with the accuracy metric of your choice](https://aws.amazon.com/about-aws/whats-new/2021/09/optimize-amazon-forecast-model-accuracy-metric/)
 - [AWS Elastic Beanstalk supports Dynamic Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/)
 - [Amazon Detective supports S3 and DNS finding types, adds finding details](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/)
@@ -67,7 +68,6 @@
 - [Now authenticate Amazon EMR Studio users using IAM-based authentication or IAM Federation, in addition to AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-iam-based-authentication-identity-federation/)
 - [Amazon QuickSight launches Dataset-as-a-Source](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-dataset-source/)
 - [Amazon MSK now supports running multiple authentication modes and updates to TLS encryption settings](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-multiple-authentication-modes-tls-encryption-settings/)
-- [AWS RoboMaker now supports container images in simulation](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-robomaker-supports-container-images-simulation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Optimize your Amazon Forecast model with the accuracy metric of your choice](https://aws.amazon.com/about-aws/whats-new/2021/09/optimize-amazon-forecast-model-accuracy-metric/)
 - [AWS Elastic Beanstalk supports Dynamic Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/)
 - [Amazon Detective supports S3 and DNS finding types, adds finding details](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/)
 - [Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight launches Dataset-as-a-Source](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-dataset-source/)
 - [Amazon MSK now supports running multiple authentication modes and updates to TLS encryption settings](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-msk-multiple-authentication-modes-tls-encryption-settings/)
 - [AWS RoboMaker now supports container images in simulation](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-robomaker-supports-container-images-simulation/)
-- [Amazon CloudWatch request metrics for Amazon S3 Access Points now available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-cloudwatch-metrics-s3-access-points/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

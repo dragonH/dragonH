@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Autopilot now generates additional metrics for classification problems](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-autopilot-metrics-classification-problems/)
 - [Amazon Comprehend announces model management and evaluation enhancements](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-model-management-enhancements/)
 - [AWS Site-to-Site VPN releases updated Download Configuration utility](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-site-to-site-vpn-download-configuration-utility/)
 - [AWS Amplify CLI and Admin UI is now generally available in US West (N. California), Europe (Paris), Europe (Stockholm), South America (São Paulo), and Middle East (Bahrain)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-cli-admin-ui-extended-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Detective supports S3 and DNS finding types, adds finding details](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/)
 - [Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/)
 - [Amazon Redshift Cross-Account Data Sharing is now generally available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-cross-account-data-sharing-aws-govcloud-us-regions/)
-- [AWS announces General Availability of the Amazon GameLift Plug-in and AWS CloudFormation Templates for Unity](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amazon-gamelift-plug-in-aws-cloudformation-templates-unity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

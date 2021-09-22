@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex announces utterances statistics for bots built using Lex V2 console and API](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-statistics-bots-lex-v2-console-api/)
+- [Amazon EC2 Fleet instant mode now supports targeted Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-fleet-instant-mode-ec2-on-demand-capacity-reservations/)
+- [AWS IoT Device Defender announces Audit One-Click](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-audit-one-click/)
 - [AWS Single Sign-On is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-single-sign-on-aws-govcloud-us-west-region/)
 - [Amazon Lex is now available in the Asia Pacific (Seoul) and Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-asia-pacific-africa-regions/)
 - [Amazon EMR Studio now supports multi-language Jupyter-based notebooks for Spark workloads](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-multi-language-jupyter-notebooks-spark-workloads/)
@@ -65,9 +68,6 @@
 - [Amazon ECR adds the ability to replicate individual repositories to other regions and accounts](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecr-replicate-individual-repositories-regions-accounts/)
 - [Amazon SageMaker Autopilot now generates additional metrics for classification problems](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-autopilot-metrics-classification-problems/)
 - [Amazon Comprehend announces model management and evaluation enhancements](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-model-management-enhancements/)
-- [AWS Site-to-Site VPN releases updated Download Configuration utility](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-site-to-site-vpn-download-configuration-utility/)
-- [AWS Amplify CLI and Admin UI is now generally available in US West (N. California), Europe (Paris), Europe (Stockholm), South America (São Paulo), and Middle East (Bahrain)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-cli-admin-ui-extended-regions/)
-- [SageMaker Studio enables interactive Spark based data processing from Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/sagemaker-studio-spark-data-processing-studio-notebooks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

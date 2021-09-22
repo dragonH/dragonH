@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Single Sign-On is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-single-sign-on-aws-govcloud-us-west-region/)
+- [Amazon Lex is now available in the Asia Pacific (Seoul) and Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-asia-pacific-africa-regions/)
 - [Amazon EMR Studio now supports multi-language Jupyter-based notebooks for Spark workloads](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-multi-language-jupyter-notebooks-spark-workloads/)
 - [AWS Ground Station announces Licensing Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-ground-station-license-accelerator/)
 - [Amazon ECR adds the ability to replicate individual repositories to other regions and accounts](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecr-replicate-individual-repositories-regions-accounts/)
@@ -66,8 +68,6 @@
 - [AWS Site-to-Site VPN releases updated Download Configuration utility](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-site-to-site-vpn-download-configuration-utility/)
 - [AWS Amplify CLI and Admin UI is now generally available in US West (N. California), Europe (Paris), Europe (Stockholm), South America (São Paulo), and Middle East (Bahrain)](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-amplify-cli-admin-ui-extended-regions/)
 - [SageMaker Studio enables interactive Spark based data processing from Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/09/sagemaker-studio-spark-data-processing-studio-notebooks/)
-- [Optimize your Amazon Forecast model with the accuracy metric of your choice](https://aws.amazon.com/about-aws/whats-new/2021/09/optimize-amazon-forecast-model-accuracy-metric/)
-- [AWS Elastic Beanstalk supports Dynamic Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

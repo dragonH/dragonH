@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Ground Station announces Licensing Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-ground-station-license-accelerator/)
 - [Amazon ECR adds the ability to replicate individual repositories to other regions and accounts](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecr-replicate-individual-repositories-regions-accounts/)
 - [Amazon SageMaker Autopilot now generates additional metrics for classification problems](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-autopilot-metrics-classification-problems/)
 - [Amazon Comprehend announces model management and evaluation enhancements](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-model-management-enhancements/)
@@ -67,7 +68,6 @@
 - [Optimize your Amazon Forecast model with the accuracy metric of your choice](https://aws.amazon.com/about-aws/whats-new/2021/09/optimize-amazon-forecast-model-accuracy-metric/)
 - [AWS Elastic Beanstalk supports Dynamic Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-elastic-beanstalk-dynamic-instance-type-selection/)
 - [Amazon Detective supports S3 and DNS finding types, adds finding details](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-detective-s3-dns/)
-- [Amazon Connect Chat now supports passing a customer display name and contact attributes through the chat user interface](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-chat-customer-contact-interface/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Customers can now manage AWS Service Catalog AppRegistry applications in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/)
 - [Announcing General Availability of Tracing Support in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-availability-distro-opentelemetry-tracing-support/)
 - [Amazon Simple Email Service is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/)
 - [AWS WAF now offers in-line regular expressions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-waf-in-line-regular-expressions/)
@@ -67,7 +68,6 @@
 - [AWS IoT Device Defender announces Audit One-Click](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-audit-one-click/)
 - [AWS Single Sign-On is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-single-sign-on-aws-govcloud-us-west-region/)
 - [Amazon Lex is now available in the Asia Pacific (Seoul) and Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-asia-pacific-africa-regions/)
-- [Amazon EMR Studio now supports multi-language Jupyter-based notebooks for Spark workloads](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-multi-language-jupyter-notebooks-spark-workloads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

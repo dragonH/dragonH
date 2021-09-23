@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AQUA is now available for Amazon Redshift RA3.xlplus nodes](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-ra3-xlplus-nodes/)
 - [Customers can now manage AWS Service Catalog AppRegistry applications in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/)
 - [Announcing General Availability of Tracing Support in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-availability-distro-opentelemetry-tracing-support/)
 - [Amazon Simple Email Service is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Fleet instant mode now supports targeted Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-fleet-instant-mode-ec2-on-demand-capacity-reservations/)
 - [AWS IoT Device Defender announces Audit One-Click](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-audit-one-click/)
 - [AWS Single Sign-On is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-single-sign-on-aws-govcloud-us-west-region/)
-- [Amazon Lex is now available in the Asia Pacific (Seoul) and Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-asia-pacific-africa-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

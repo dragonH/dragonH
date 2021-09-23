@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Simple Email Service is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/)
+- [AWS WAF now offers in-line regular expressions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-waf-in-line-regular-expressions/)
 - [Amazon DynamoDB now provides you more granular control of audit logging by enabling you to filter Streams data-plane API activity in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-dynamodb-granular-control-audit-logging-streams-data-plane-api-activity-aws-cloudtrail/)
 - [Amazon Lex announces utterances statistics for bots built using Lex V2 console and API](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-statistics-bots-lex-v2-console-api/)
 - [Amazon EC2 Fleet instant mode now supports targeted Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-fleet-instant-mode-ec2-on-demand-capacity-reservations/)
@@ -66,8 +68,6 @@
 - [Amazon Lex is now available in the Asia Pacific (Seoul) and Africa (Cape Town) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-asia-pacific-africa-regions/)
 - [Amazon EMR Studio now supports multi-language Jupyter-based notebooks for Spark workloads](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-emr-studio-multi-language-jupyter-notebooks-spark-workloads/)
 - [AWS Ground Station announces Licensing Accelerator](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-ground-station-license-accelerator/)
-- [Amazon ECR adds the ability to replicate individual repositories to other regions and accounts](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecr-replicate-individual-repositories-regions-accounts/)
-- [Amazon SageMaker Autopilot now generates additional metrics for classification problems](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-autopilot-metrics-classification-problems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

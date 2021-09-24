@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight Q is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-q-generally-available/)
 - [Amazon Macie adds support for selecting managed data identifiers](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-macie-managed-data-identifiers/)
 - [Amazon Connect Customer Profiles adds product purchase history to personalize customer interactions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-customer-profiles-product-purchase-history/)
 - [Amazon ElastiCache now supports M6g and R6g Graviton2-based instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-m6g-r6g-graviton2-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Simple Email Service is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/)
 - [AWS WAF now offers in-line regular expressions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-waf-in-line-regular-expressions/)
 - [Amazon DynamoDB now provides you more granular control of audit logging by enabling you to filter Streams data-plane API activity in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-dynamodb-granular-control-audit-logging-streams-data-plane-api-activity-aws-cloudtrail/)
-- [Amazon Lex announces utterances statistics for bots built using Lex V2 console and API](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-lex-statistics-bots-lex-v2-console-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Defender now supports Detect alarm verification states](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-detect-alarm-verification-states/)
 - [AWS Storage Gateway simplifies tape management for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/)
 - [Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/)
 - [Amazon ElastiCache for Redis now supports auto scaling in 17 additional public regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-redis-auto-scaling-17-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer Profiles adds product purchase history to personalize customer interactions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-customer-profiles-product-purchase-history/)
 - [Amazon ElastiCache now supports M6g and R6g Graviton2-based instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-m6g-r6g-graviton2-regions/)
 - [AQUA is now available for Amazon Redshift RA3.xlplus nodes](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-ra3-xlplus-nodes/)
-- [Customers can now manage AWS Service Catalog AppRegistry applications in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

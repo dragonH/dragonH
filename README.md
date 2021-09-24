@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/)
 - [Amazon ElastiCache for Redis now supports auto scaling in 17 additional public regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-redis-auto-scaling-17-regions/)
 - [AWS announces availability of Microsoft Windows Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-microsoft-windows-server-2022-amazon-ec2/)
 - [Amazon QuickSight Q is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-q-generally-available/)
@@ -67,7 +68,6 @@
 - [AQUA is now available for Amazon Redshift RA3.xlplus nodes](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-ra3-xlplus-nodes/)
 - [Customers can now manage AWS Service Catalog AppRegistry applications in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-service-catalog-appregistry-aws-systems-manager/)
 - [Announcing General Availability of Tracing Support in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-availability-distro-opentelemetry-tracing-support/)
-- [Amazon Simple Email Service is now available in the Asia Pacific (Osaka) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-simple-email-service-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

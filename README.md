@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup simplifies recovery point deletions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/)
+- [Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.1](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/)
+- [Amazon RDS for Oracle now supports sqlnet.ora client parameters for the Oracle Native Network Encryption (NNE)option](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-sqlnet-ora-client-parameters-oracle-native-network-encryption-nne-option/)
 - [AWS IoT Device Defender now supports Detect alarm verification states](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-detect-alarm-verification-states/)
 - [AWS Storage Gateway simplifies tape management for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/)
 - [Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/)
@@ -65,9 +68,6 @@
 - [AWS announces availability of Microsoft Windows Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-microsoft-windows-server-2022-amazon-ec2/)
 - [Amazon QuickSight Q is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-q-generally-available/)
 - [Amazon Macie adds support for selecting managed data identifiers](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-macie-managed-data-identifiers/)
-- [Amazon Connect Customer Profiles adds product purchase history to personalize customer interactions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-customer-profiles-product-purchase-history/)
-- [Amazon ElastiCache now supports M6g and R6g Graviton2-based instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-m6g-r6g-graviton2-regions/)
-- [AQUA is now available for Amazon Redshift RA3.xlplus nodes](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-ra3-xlplus-nodes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

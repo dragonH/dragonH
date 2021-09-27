@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS WAF Security Automations v3.2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-automations-v3-2/)
 - [Now auto-terminate idle EMR clusters to lower cost](https://aws.amazon.com/about-aws/whats-new/2021/09/auto-terminate-idle-emr-clusters/)
 - [AWS Backup simplifies recovery point deletions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/)
 - [Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.1](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/)
@@ -67,7 +68,6 @@
 - [Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/)
 - [Amazon ElastiCache for Redis now supports auto scaling in 17 additional public regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-elasticache-redis-auto-scaling-17-regions/)
 - [AWS announces availability of Microsoft Windows Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-microsoft-windows-server-2022-amazon-ec2/)
-- [Amazon QuickSight Q is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-quicksight-q-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

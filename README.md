@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/)
+- [AWS Launch Wizard now supports Microsoft SQL Server Always On deployments on Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/)
+- [Amazon Connect now offers high-volume outbound communications for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-communications/)
+- [Application Load Balancer now enables AWS PrivateLink and static IP addresses by direct integration with Network Load Balancer](https://aws.amazon.com/about-aws/whats-new/2021/09/application-load-balancer-aws-privatelink-static-ip-addresses-network-load-balancer/)
 - [Amazon Connect Voice ID is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-voice-id-generally-available/)
 - [Amazon Genomics CLI is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-genomics-cli-available/)
 - [Introducing AWS WAF Security Automations v3.2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-automations-v3-2/)
 - [Now auto-terminate idle EMR clusters to lower cost](https://aws.amazon.com/about-aws/whats-new/2021/09/auto-terminate-idle-emr-clusters/)
 - [AWS Backup simplifies recovery point deletions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/)
 - [Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.1](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/)
-- [Amazon RDS for Oracle now supports sqlnet.ora client parameters for the Oracle Native Network Encryption (NNE)option](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-sqlnet-ora-client-parameters-oracle-native-network-encryption-nne-option/)
-- [AWS IoT Device Defender now supports Detect alarm verification states](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-device-defender-detect-alarm-verification-states/)
-- [AWS Storage Gateway simplifies tape management for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-storage-gateway-tape-management-gateway/)
-- [Now Use Lifecycle Configurations to Customize Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/09/lifecycle-configurations-customize-amazon-sagemaker/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

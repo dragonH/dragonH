@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now offers Global View on the console to view all resources across regions together](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-global-view-console-regions/)
 - [Amazon Connect Wisdom is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/)
 - [AWS Launch Wizard now supports Microsoft SQL Server Always On deployments on Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/)
 - [Amazon Connect now offers high-volume outbound communications for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-communications/)
@@ -67,7 +68,6 @@
 - [Introducing AWS WAF Security Automations v3.2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-automations-v3-2/)
 - [Now auto-terminate idle EMR clusters to lower cost](https://aws.amazon.com/about-aws/whats-new/2021/09/auto-terminate-idle-emr-clusters/)
 - [AWS Backup simplifies recovery point deletions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-backup-recovery-point-deletions/)
-- [Amazon RDS for Oracle now supports Oracle Application Express (APEX) Version 21.1](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-oracle-oracle-application-express-apex-version-21-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

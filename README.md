@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of  Amazon RDS for MySQL and Amazon Aurora MySQL databases as new data sources for federated querying](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-mysql-amazon-aurora-mysql-databases/)
 - [Amazon Redshift announces the next generation of Amazon Redshift Query Editor](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-query-editor-next-generation/)
 - [AWS Device Farm announces support for testing web apps on Microsoft Edge browser](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-device-farm-testing-web-apps-microsoft-edge-browser/)
 - [Amazon EC2 now offers Global View on the console to view all resources across regions together](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-global-view-console-regions/)
@@ -67,7 +68,6 @@
 - [Application Load Balancer now enables AWS PrivateLink and static IP addresses by direct integration with Network Load Balancer](https://aws.amazon.com/about-aws/whats-new/2021/09/application-load-balancer-aws-privatelink-static-ip-addresses-network-load-balancer/)
 - [Amazon Connect Voice ID is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-voice-id-generally-available/)
 - [Amazon Genomics CLI is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-genomics-cli-available/)
-- [Introducing AWS WAF Security Automations v3.2](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-security-automations-v3-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

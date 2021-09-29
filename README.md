@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-sitewise-aws-govcloud-us-west-region/)
+- [AWS IoT Events is available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-events-available-aws-govcloud-us-west-region/)
 - [AWS App Mesh is now available in the AWS China (Beijing) Region and AWS China (Ningxia) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-app-mesh-aws-china-regions/)
 - [Announcing general availability of  Amazon RDS for MySQL and Amazon Aurora MySQL databases as new data sources for federated querying](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-mysql-amazon-aurora-mysql-databases/)
 - [Amazon Redshift announces the next generation of Amazon Redshift Query Editor](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-query-editor-next-generation/)
@@ -66,8 +68,6 @@
 - [Amazon Connect Wisdom is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/)
 - [AWS Launch Wizard now supports Microsoft SQL Server Always On deployments on Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/)
 - [Amazon Connect now offers, in Public Preview, high-volume outbound communications for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-communications/)
-- [Application Load Balancer now enables AWS PrivateLink and static IP addresses by direct integration with Network Load Balancer](https://aws.amazon.com/about-aws/whats-new/2021/09/application-load-balancer-aws-privatelink-static-ip-addresses-network-load-balancer/)
-- [Amazon Connect Voice ID is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-voice-id-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

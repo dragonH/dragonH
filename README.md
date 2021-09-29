@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Mesh is now available in the AWS China (Beijing) Region and AWS China (Ningxia) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-app-mesh-aws-china-regions/)
 - [Announcing general availability of  Amazon RDS for MySQL and Amazon Aurora MySQL databases as new data sources for federated querying](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-mysql-amazon-aurora-mysql-databases/)
 - [Amazon Redshift announces the next generation of Amazon Redshift Query Editor](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-query-editor-next-generation/)
 - [AWS Device Farm announces support for testing web apps on Microsoft Edge browser](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-device-farm-testing-web-apps-microsoft-edge-browser/)
 - [Amazon EC2 now offers Global View on the console to view all resources across regions together](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ec2-global-view-console-regions/)
 - [Amazon Connect Wisdom is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-wisdom-generally-available/)
 - [AWS Launch Wizard now supports Microsoft SQL Server Always On deployments on Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-launch-wizard-microsoft-sql-red-hat-linux/)
-- [Amazon Connect now offers high-volume outbound communications for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-communications/)
+- [Amazon Connect now offers, in Public Preview, high-volume outbound communications for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-communications/)
 - [Application Load Balancer now enables AWS PrivateLink and static IP addresses by direct integration with Network Load Balancer](https://aws.amazon.com/about-aws/whats-new/2021/09/application-load-balancer-aws-privatelink-static-ip-addresses-network-load-balancer/)
 - [Amazon Connect Voice ID is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-connect-voice-id-generally-available/)
-- [Amazon Genomics CLI is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-genomics-cli-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

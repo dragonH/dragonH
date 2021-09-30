@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Monitoring clock accuracy on AWS Fargate with Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/09/monitoring-clock-aws-fargate-amazon-ecs/)
+- [AWS announces the general availability of AWS Cloud Control API](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-cloud-control-api/)
+- [AWS IoT Core now makes it optional for customers to send the entire trust chain when provisioning devices using Just-in-Time Provisioning  and Just-in-Time Registration](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-core-just-in-time-provisioning-registration/)
 - [Amazon SageMaker JumpStart introduces new multimodal (long-form text, tabular) financial analysis tools](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-jumpstart-multimodal-financial-analysis-tools/)
 - [AQUA for Amazon Redshift launches in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-additional-aws-regions/)
 - [AWS announces AWS Snowcone SSD](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-aws-snowcone-ssd/)
@@ -65,9 +68,6 @@
 - [AWS Data Exchange now supports automatic exports of third-party data updates](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-data-exchange-export-third-party-data-updates/)
 - [AWS Step Functions adds support for over 200 AWS Services with AWS SDK Integration](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-step-functions-200-aws-sdk-integration/)
 - [Amazon Redshift launches RA3.xlplus in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-ra3-xlplus-aws-govcloud-us-regions/)
-- [Amazon Comprehend adds two Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-adds-trusted-advisor-checks/)
-- [AWS Snowcone is now available in the US East (Ohio), US West (San Francisco) and South America (Sao Paulo) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-snowcone-available-us-east-ohio-us-west-san-francisco-south-america-sao-paulo-regions/)
-- [Amazon ECR Public adds the ability to launch containers directly to AWS App Runner](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecr-public-containers-aws-app-runner/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

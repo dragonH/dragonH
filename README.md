@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions adds support for over 200 AWS Services with AWS SDK Integration](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-step-functions-200-aws-sdk-integration/)
 - [Amazon Redshift launches RA3.xlplus in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-redshift-ra3-xlplus-aws-govcloud-us-regions/)
 - [Amazon Comprehend adds two Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-comprehend-adds-trusted-advisor-checks/)
 - [AWS Snowcone is now available in the US East (Ohio), US West (San Francisco) and South America (Sao Paulo) regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-snowcone-available-us-east-ohio-us-west-san-francisco-south-america-sao-paulo-regions/)
@@ -67,7 +68,6 @@
 - [AWS IoT SiteWise is now available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-sitewise-aws-govcloud-us-west-region/)
 - [AWS IoT Events is available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-events-available-aws-govcloud-us-west-region/)
 - [AWS App Mesh is now available in the AWS China (Beijing) Region and AWS China (Ningxia) Region](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-app-mesh-aws-china-regions/)
-- [Announcing general availability of  Amazon RDS for MySQL and Amazon Aurora MySQL databases as new data sources for federated querying](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-rds-mysql-amazon-aurora-mysql-databases/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Monitron launches iOS app](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ios-app/)
 - [Amazon ECS Service Discovery Now Available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/)
 - [Announcing General Availability of Amplify Geo for AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2021/09/amplify-geo-aws-amplify/)
 - [Amazon SES now supports 2048-bit DKIM keys](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker JumpStart introduces new multimodal (long-form text, tabular) financial analysis tools](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-jumpstart-multimodal-financial-analysis-tools/)
 - [AQUA for Amazon Redshift launches in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-additional-aws-regions/)
 - [AWS announces AWS Snowcone SSD](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-aws-snowcone-ssd/)
-- [AWS Lambda now supports triggering Lambda functions from an Amazon SQS queue in a different account](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sos-queue/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

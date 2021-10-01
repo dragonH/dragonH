@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now use Apache Spark, Hive, and Presto on Amazon EMR clusters directly from Amazon Sagemaker Studio for large-scale data processing and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/10/apache-spark-hive-presto-amazon-emr-clusters-amazon-sagemaker-studio/)
+- [AWS Lambda now supports triggering Lambda functions from an Amazon SQS queue in a different account](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sqs-queue/)
 - [Amazon MSK adds support for Apache Kafka version 2.8.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-msk-support-apache-kafka-version-2-8-1/)
 - [Now programmatically manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/)
 - [Amazon Monitron launches iOS app](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ios-app/)
@@ -66,8 +68,6 @@
 - [Amazon SES now supports 2048-bit DKIM keys](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/)
 - [Monitoring clock accuracy on AWS Fargate with Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/09/monitoring-clock-aws-fargate-amazon-ecs/)
 - [AWS announces the general availability of AWS Cloud Control API](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-cloud-control-api/)
-- [AWS IoT Core now makes it optional for customers to send the entire trust chain when provisioning devices using Just-in-Time Provisioning  and Just-in-Time Registration](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-core-just-in-time-provisioning-registration/)
-- [Amazon SageMaker JumpStart introduces new multimodal (long-form text, tabular) financial analysis tools](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-jumpstart-multimodal-financial-analysis-tools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

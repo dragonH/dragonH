@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds support for Apache Kafka version 2.8.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-msk-support-apache-kafka-version-2-8-1/)
 - [Now programmatically manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/)
 - [Amazon Monitron launches iOS app](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ios-app/)
 - [Amazon ECS Service Discovery Now Available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [AWS announces the general availability of AWS Cloud Control API](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-announces-cloud-control-api/)
 - [AWS IoT Core now makes it optional for customers to send the entire trust chain when provisioning devices using Just-in-Time Provisioning  and Just-in-Time Registration](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-iot-core-just-in-time-provisioning-registration/)
 - [Amazon SageMaker JumpStart introduces new multimodal (long-form text, tabular) financial analysis tools](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-sagemaker-jumpstart-multimodal-financial-analysis-tools/)
-- [AQUA for Amazon Redshift launches in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/09/aqua-amazon-redshift-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

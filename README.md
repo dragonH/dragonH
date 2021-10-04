@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL Supports PostGIS 3.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-postgresql-postgis-3-1/)
 - [Amazon Textract extends support for AWS PrivateLink to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-aws-privatelink-aws-govcloud-us-regions/)
 - [Amazon EC2 Hibernation adds support for Ubuntu 20.04 LTS](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-hibernation-support-ubuntu-20-04-lts/)
 - [AWS IoT Events is available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-events-asia-pacific-mumbai-regions/)
@@ -67,7 +68,6 @@
 - [Amazon MSK adds support for Apache Kafka version 2.8.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-msk-support-apache-kafka-version-2-8-1/)
 - [Now programmatically manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/)
 - [Amazon Monitron launches iOS app](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ios-app/)
-- [Amazon ECS Service Discovery Now Available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

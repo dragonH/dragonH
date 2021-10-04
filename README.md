@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract extends support for AWS PrivateLink to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-aws-privatelink-aws-govcloud-us-regions/)
+- [Amazon EC2 Hibernation adds support for Ubuntu 20.04 LTS](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-hibernation-support-ubuntu-20-04-lts/)
+- [AWS IoT Events is available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-events-asia-pacific-mumbai-regions/)
 - [Amazon RDS for PostgreSQL Supports New Minor Versions 13.4, 12.8, 11.13, 10.18, and 9.6.23; Amazon RDS on Outposts Supports New PostgreSQL Minor Versions 13.4 and 12.8](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-postgresql-new-minor-versions-amazon-rds-outposts-postgresql-minor-versions/)
 - [Now use Apache Spark, Hive, and Presto on Amazon EMR clusters directly from Amazon Sagemaker Studio for large-scale data processing and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/10/apache-spark-hive-presto-amazon-emr-clusters-amazon-sagemaker-studio/)
 - [AWS Lambda now supports triggering Lambda functions from an Amazon SQS queue in a different account](https://aws.amazon.com/about-aws/whats-new/2021/09/aws-lambda-lambda-function-amazon-sqs-queue/)
@@ -65,9 +68,6 @@
 - [Now programmatically manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2021/10/programmatically-manage-alternate-contacts-aws-accounts/)
 - [Amazon Monitron launches iOS app](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-monitron-ios-app/)
 - [Amazon ECS Service Discovery Now Available in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ecs-discovery-aws-govcloud-us-regions/)
-- [Announcing General Availability of Amplify Geo for AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2021/09/amplify-geo-aws-amplify/)
-- [Amazon SES now supports 2048-bit DKIM keys](https://aws.amazon.com/about-aws/whats-new/2021/09/amazon-ses-2048-bit-dkim/)
-- [Monitoring clock accuracy on AWS Fargate with Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/09/monitoring-clock-aws-fargate-amazon-ecs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

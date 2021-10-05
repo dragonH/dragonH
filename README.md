@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-databrew-available-aws-africa-cape-town-region/)
+- [AWS Firewall Manager now supports centralized logging of AWS Network Firewall logs](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-manager-centralized-logging-aws-network-firewall-logs/)
 - [Amazon CodeGuru announces Security detectors for Python applications and security analysis powered by Bandit](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-security-detectors-python-bandit/)
 - [Amazon CodeGuru now includes recommendations powered by Infer](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-recommendations-infer/)
 - [Introducing Amazon Workspaces Cost Optimizer v2.4](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-cost-optimizer-v2-4/)
@@ -66,8 +68,6 @@
 - [Amazon Textract extends support for AWS PrivateLink to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-aws-privatelink-aws-govcloud-us-regions/)
 - [Amazon EC2 Hibernation adds support for Ubuntu 20.04 LTS](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-hibernation-support-ubuntu-20-04-lts/)
 - [AWS IoT Events is available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-events-asia-pacific-mumbai-regions/)
-- [Amazon RDS for PostgreSQL Supports New Minor Versions 13.4, 12.8, 11.13, 10.18, and 9.6.23; Amazon RDS on Outposts Supports New PostgreSQL Minor Versions 13.4 and 12.8](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-postgresql-new-minor-versions-amazon-rds-outposts-postgresql-minor-versions/)
-- [Now use Apache Spark, Hive, and Presto on Amazon EMR clusters directly from Amazon Sagemaker Studio for large-scale data processing and machine learning](https://aws.amazon.com/about-aws/whats-new/2021/10/apache-spark-hive-presto-amazon-emr-clusters-amazon-sagemaker-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

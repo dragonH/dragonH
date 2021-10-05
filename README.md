@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of VMware Cloud on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/)
 - [AWS Glue DataBrew is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-databrew-available-aws-africa-cape-town-region/)
 - [AWS Firewall Manager now supports centralized logging of AWS Network Firewall logs](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-manager-centralized-logging-aws-network-firewall-logs/)
 - [Amazon CodeGuru announces Security detectors for Python applications and security analysis powered by Bandit](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-security-detectors-python-bandit/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for PostgreSQL Supports PostGIS 3.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-postgresql-postgis-3-1/)
 - [Amazon Textract extends support for AWS PrivateLink to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-aws-privatelink-aws-govcloud-us-regions/)
 - [Amazon EC2 Hibernation adds support for Ubuntu 20.04 LTS](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-hibernation-support-ubuntu-20-04-lts/)
-- [AWS IoT Events is available in the Asia Pacific (Mumbai) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-events-asia-pacific-mumbai-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

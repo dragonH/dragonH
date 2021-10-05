@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 Capacity Reservation Fleet a way to easily migrate Amazon EC2 Capacity Reservations across instance types](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/)
+- [AWS Transfer Family customers can now use Amazon S3 Access Point aliases for granular and simplified data access controls](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/)
 - [RDS Performance Insights now available in four more regions](https://aws.amazon.com/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/)
 - [AWS Backup Audit Manager now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/)
 - [AWS Backup Audit Manager adds compliance reports](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/)
@@ -66,8 +68,6 @@
 - [Amazon Location Service adds change detection to tracking](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-location-service-change-detection/)
 - [Announcing general availability of VMware Cloud on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/)
 - [AWS Glue DataBrew is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-databrew-available-aws-africa-cape-town-region/)
-- [AWS Firewall Manager now supports centralized logging of AWS Network Firewall logs](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-manager-centralized-logging-aws-network-firewall-logs/)
-- [Amazon CodeGuru announces Security detectors for Python applications and security analysis powered by Bandit](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-security-detectors-python-bandit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

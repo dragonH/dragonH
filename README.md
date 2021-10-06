@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk supports Database Decoupling in an Elastic Beanstalk Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/)
 - [AWS Network Firewall Adds New Configuration Options for Rule Ordering and Default Drop](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/)
 - [Amazon EMR now supports Apache Spark SQL to insert data into and update Apache Hive metadata tables when Apache Ranger integration is enabled](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/)
 - [AWS Application Migration Service is now available in the Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Seoul), and Europe (London) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-application-migration-service-extended-regions/)
@@ -67,7 +68,6 @@
 - [AWS Backup Audit Manager now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/)
 - [AWS Backup Audit Manager adds compliance reports](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/)
 - [Amazon Braket offers D-Wave’s Advantage 4.1 system for quantum annealing](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/)
-- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) announces support for Cross-Cluster Replication](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

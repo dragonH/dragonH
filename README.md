@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR now supports Apache Spark SQL to insert data into and update Apache Hive metadata tables when Apache Ranger integration is enabled](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/)
+- [AWS Application Migration Service is now available in the Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Seoul), and Europe (London) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-application-migration-service-extended-regions/)
 - [Announcing Amazon EC2 Capacity Reservation Fleet a way to easily migrate Amazon EC2 Capacity Reservations across instance types](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/)
 - [AWS Transfer Family customers can now use Amazon S3 Access Point aliases for granular and simplified data access controls](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/)
 - [RDS Performance Insights now available in four more regions](https://aws.amazon.com/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/)
@@ -66,8 +68,6 @@
 - [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) announces support for Cross-Cluster Replication](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-cross-cluster-replication/)
 - [Amazon Braket offers D-Wave’s Advantage 4.1 system for quantum annealing](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-braket-d-wave-advantage-quantum-annealing/)
 - [Amazon Location Service adds change detection to tracking](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-location-service-change-detection/)
-- [Announcing general availability of VMware Cloud on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/10/general-availability-vmware-cloud-aws-outposts/)
-- [AWS Glue DataBrew is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-databrew-available-aws-africa-cape-town-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

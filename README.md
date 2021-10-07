@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK media capture pipelines adds the ability to configure APIs for customizable media capture](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/)
 - [AWS IoT SiteWise is now available in Asia Pacific (Bombay), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-sitewise-asia-pacific-regions/)
 - [Amazon Kendra launches support for 34 additional languages](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-support-additional-languages/)
 - [Amazon QuickSight adds support for Pixel-Perfect dashboards](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-pixel-perfect-dashboards/)
@@ -67,7 +68,6 @@
 - [Prepare and visualize time series datasets in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/)
 - [AWS Elastic Beanstalk supports Database Decoupling in an Elastic Beanstalk Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/)
 - [AWS Network Firewall Adds New Configuration Options for Rule Ordering and Default Drop](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/)
-- [Amazon EMR now supports Apache Spark SQL to insert data into and update Apache Hive metadata tables when Apache Ranger integration is enabled](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

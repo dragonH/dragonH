@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports IAM authentication for Amazon MSK as an event source](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/)
 - [Prepare and visualize time series datasets in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/)
 - [AWS Elastic Beanstalk supports Database Decoupling in an Elastic Beanstalk Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/)
 - [AWS Network Firewall Adds New Configuration Options for Rule Ordering and Default Drop](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/)
@@ -67,7 +68,6 @@
 - [AWS Transfer Family customers can now use Amazon S3 Access Point aliases for granular and simplified data access controls](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/)
 - [RDS Performance Insights now available in four more regions](https://aws.amazon.com/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/)
 - [AWS Backup Audit Manager now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-aws-cloudformation/)
-- [AWS Backup Audit Manager adds compliance reports](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-audit-manager-compliance-reports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

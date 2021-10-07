@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Mac instances are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-mac-instances-additional-regions/)
+- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now comes with an improved management console](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/)
 - [Amazon Chime SDK media capture pipelines adds the ability to configure APIs for customizable media capture](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/)
 - [AWS IoT SiteWise is now available in Asia Pacific (Bombay), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-sitewise-asia-pacific-regions/)
 - [Amazon Kendra launches support for 34 additional languages](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-support-additional-languages/)
@@ -66,8 +68,6 @@
 - [Amazon Personalize launches new recipe that increases the relevance of similar items recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-personalize-recipe-increases-relevance-items/)
 - [AWS Lambda now supports IAM authentication for Amazon MSK as an event source](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/)
 - [Prepare and visualize time series datasets in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/)
-- [AWS Elastic Beanstalk supports Database Decoupling in an Elastic Beanstalk Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elastic-beanstalk-database-decoupling-elastic-beanstalk-environment/)
-- [AWS Network Firewall Adds New Configuration Options for Rule Ordering and Default Drop](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

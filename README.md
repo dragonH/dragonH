@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/dragonH/mongodb-with-aws-dms/issues/3) in [dragonH/mongodb-with-aws-dms](https://github.com/dragonH/mongodb-with-aws-dms)
-2. ❗️ Opened issue [#2](https://github.com/dragonH/mongodb-with-aws-dms/issues/2) in [dragonH/mongodb-with-aws-dms](https://github.com/dragonH/mongodb-with-aws-dms)
-3. ❗️ Opened issue [#1](https://github.com/dragonH/mongodb-with-aws-dms/issues/1) in [dragonH/mongodb-with-aws-dms](https://github.com/dragonH/mongodb-with-aws-dms)
-4. 🎉 Merged PR [#7](https://github.com/dragonH/Crawlers/pull/7) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
-5. 🎉 Merged PR [#2](https://github.com/dragonH/Crawlers/pull/2) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+1. ❌ Closed PR [#3](https://github.com/dragonH/food-lover-crawler/pull/3) in [dragonH/food-lover-crawler](https://github.com/dragonH/food-lover-crawler)
+2. ❌ Closed PR [#2](https://github.com/dragonH/food-lover-crawler/pull/2) in [dragonH/food-lover-crawler](https://github.com/dragonH/food-lover-crawler)
+3. ❌ Closed PR [#1](https://github.com/dragonH/food-lover-crawler/pull/1) in [dragonH/food-lover-crawler](https://github.com/dragonH/food-lover-crawler)
+4. ❗️ Opened issue [#3](https://github.com/dragonH/mongodb-with-aws-dms/issues/3) in [dragonH/mongodb-with-aws-dms](https://github.com/dragonH/mongodb-with-aws-dms)
+5. ❗️ Opened issue [#2](https://github.com/dragonH/mongodb-with-aws-dms/issues/2) in [dragonH/mongodb-with-aws-dms](https://github.com/dragonH/mongodb-with-aws-dms)
 <!--END_SECTION:activity-->
 
 </details>

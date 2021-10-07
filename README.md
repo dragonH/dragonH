@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra launches support for 34 additional languages](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-support-additional-languages/)
+- [Amazon QuickSight adds support for Pixel-Perfect dashboards](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-pixel-perfect-dashboards/)
+- [Announcing Fast File Mode for Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-fast-file-mode/)
 - [Amazon Personalize launches new recipe that increases the relevance of similar items recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-personalize-recipe-increases-relevance-items/)
 - [AWS Lambda now supports IAM authentication for Amazon MSK as an event source](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/)
 - [Prepare and visualize time series datasets in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2021/10/prepare-visualize-datasets-amazon-sagemaker-wrangler/)
@@ -65,9 +68,6 @@
 - [AWS Network Firewall Adds New Configuration Options for Rule Ordering and Default Drop](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-firewall-configuration-rule-ordering-drop/)
 - [Amazon EMR now supports Apache Spark SQL to insert data into and update Apache Hive metadata tables when Apache Ranger integration is enabled](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-apache-spark-sql-apache-hive-apache-ranger-integration-enabled/)
 - [AWS Application Migration Service is now available in the Asia Pacific (Hong Kong), Asia Pacific (Mumbai), Asia Pacific (Seoul), and Europe (London) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-application-migration-service-extended-regions/)
-- [Announcing Amazon EC2 Capacity Reservation Fleet a way to easily migrate Amazon EC2 Capacity Reservations across instance types](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-capacity-reservation-fleet-capacity-reservations/)
-- [AWS Transfer Family customers can now use Amazon S3 Access Point aliases for granular and simplified data access controls](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-transfer-family-amazon-s3-access-point-aliases/)
-- [RDS Performance Insights now available in four more regions](https://aws.amazon.com/about-aws/whats-new/2021/10/rds-performance-insights-more-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports Auto Scaling for Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/)
 - [Amazon Lex launches progress updates for fulfillment](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lex-progress-updates/)
 - [Amazon EC2 Mac instances are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-mac-instances-additional-regions/)
 - [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now comes with an improved management console](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight adds support for Pixel-Perfect dashboards](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-pixel-perfect-dashboards/)
 - [Announcing Fast File Mode for Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-fast-file-mode/)
 - [Amazon Personalize launches new recipe that increases the relevance of similar items recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-personalize-recipe-increases-relevance-items/)
-- [AWS Lambda now supports IAM authentication for Amazon MSK as an event source](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-lambda-iam-authentication-amazon-msk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

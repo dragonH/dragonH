@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solution: Maintaining Personalized Experiences using Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solution-maintaining-personalized-experiences-machine-learning/)
 - [Introducing New AWS Solution: AWS QnABot, a self-service conversational chatbot built on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solution-aws-qnabot-chatbot-built-amazon-lex/)
 - [Amazon ECS Anywhere now supports GPU-based workloads](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ecs-anywhere-gpu/)
 - [Amazon Neptune now supports Auto Scaling for Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/)
@@ -67,7 +68,6 @@
 - [Amazon Chime SDK media capture pipelines adds the ability to configure APIs for customizable media capture](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/)
 - [AWS IoT SiteWise is now available in Asia Pacific (Mumbai), Asia Pacific (Seoul), and Asia Pacific (Tokyo) AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-sitewise-asia-pacific-regions/)
 - [Amazon Kendra launches support for 34 additional languages](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-support-additional-languages/)
-- [Amazon QuickSight adds support for Pixel-Perfect dashboards](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-pixel-perfect-dashboards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

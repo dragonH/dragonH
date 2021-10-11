@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Tasks is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/)
+- [Introducing AWS Instance Scheduler v2.0](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-instance-scheduler-v2-0/)
 - [Amazon WorkMail adds Mobile Device Access Override API and MDM integration capabilities](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workmail-mobile-device-access-mdm/)
 - [AWS Backup adds an additional layer for backup protection with the availability of AWS Backup Vault Lock](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/)
 - [New AWS Solution: Maintaining Personalized Experiences using Machine Learning](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solution-maintaining-personalized-experiences-machine-learning/)
@@ -66,8 +68,6 @@
 - [Amazon Neptune now supports Auto Scaling for Read Replicas](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-neptune-auto-scaling-read-replicas/)
 - [Amazon Lex launches progress updates for fulfillment](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lex-progress-updates/)
 - [Amazon EC2 Mac instances are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-mac-instances-additional-regions/)
-- [Amazon OpenSearch Service (successor to Amazon Elasticsearch Service) now comes with an improved management console](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-opensearch-service-amazon-elasticsearch-service-improved-console/)
-- [Amazon Chime SDK media capture pipelines adds the ability to configure APIs for customizable media capture](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-media-pipelines-api-customizable-capture/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

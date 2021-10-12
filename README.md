@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Console Mobile Application adds support for Amazon Elastic Container Service](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-console-mobile-amazon-elastic-container-service/)
 - [CDK for Kubernetes (CDK8s) now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/10/cdk-kubernetes-cdk8s-available/)
 - [New AWS Solutions Implementation: Automated Account Configuration](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-automated-account-configuration/)
 - [AWS CDK releases v1.121.0 - v1.125.0 with features for faster development cycles using hotswap deployments and rollback control](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-cdk-releases-hotswap-rollback-control/)
@@ -67,7 +68,6 @@
 - [Amazon RDS supports T3 instance type for MySQL and MariaDB databases in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-t3-mysql-mariadb-aws-govcloud/)
 - [NoSQL Workbench for Amazon DynamoDB now enables you to import and automatically populate sample data to help build and visualize your data models](https://aws.amazon.com/about-aws/whats-new/2021/10/nosql-workbench-amazon-dynamodb-import-populate-sample-data-build-visualize-data-models/)
 - [AWS Marketplace now supports viewing agreements and canceling and extending offers for Professional Services](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-marketplace-adds-support-professional-services/)
-- [Amazon Connect Tasks is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

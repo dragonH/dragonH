@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: Automated Account Configuration](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-automated-account-configuration/)
+- [AWS CDK releases v1.121.0 - v1.125.0 with features for faster development cycles using hotswap deployments and rollback control](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-cdk-releases-hotswap-rollback-control/)
 - [Amazon Fraud Detector launches new ML model for online transaction fraud detection](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-fraud-detector-ml-model-online-transaction-fraud/)
 - [AWS announces a price reduction of up to 56% for Amazon Fraud Detector machine learning fraud predictions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-price-reduction-amazon-fraud-detector/)
 - [Amazon Fraud Detector now supports event datasets](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-fraud-detector-event-datasets/)
@@ -66,8 +68,6 @@
 - [AWS Marketplace now supports viewing agreements and canceling and extending offers for Professional Services](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-marketplace-adds-support-professional-services/)
 - [Amazon Connect Tasks is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-tasks-hipaa-eligible/)
 - [Introducing AWS Instance Scheduler v2.0](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-instance-scheduler-v2-0/)
-- [Amazon WorkMail adds Mobile Device Access Override API and MDM integration capabilities](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workmail-mobile-device-access-mdm/)
-- [AWS Backup adds an additional layer for backup protection with the availability of AWS Backup Vault Lock](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-backup-backup-protection-aws-backup-vault-lock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

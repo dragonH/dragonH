@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight doubles SPICE capacity limit to 500m row](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-capacity-limit/)
 - [AWS FPGA developer kit now supports Jumbo frames in virtual ethernet frameworks for Amazon EC2 F1 instances](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fpga-jumbo-amazon-ec2-instances/)
 - [AWS CloudFormation customers can now manage their applications in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-cloudformation-manage-applications-aws-systems-manager/)
 - [AWS Console Mobile Application adds support for Amazon Elastic Container Service](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-console-mobile-amazon-elastic-container-service/)
@@ -67,7 +68,6 @@
 - [Amazon Fraud Detector launches new ML model for online transaction fraud detection](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-fraud-detector-ml-model-online-transaction-fraud/)
 - [AWS announces a price reduction of up to 56% for Amazon Fraud Detector machine learning fraud predictions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-price-reduction-amazon-fraud-detector/)
 - [Amazon Fraud Detector now supports event datasets](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-fraud-detector-event-datasets/)
-- [Amazon RDS supports T3 instance type for MySQL and MariaDB databases in AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-t3-mysql-mariadb-aws-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

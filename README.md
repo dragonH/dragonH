@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Outposts adds new CloudWatch dimension for capacity monitoring](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-outposts-cloudwatch-dimension-capacity-monitoring/)
+- [Amazon Kinesis Data Analytics now supports Apache Flink v1.13](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kinesis-data-analytics-apache-flink-version-1-13/)
+- [AWS Elemental MediaTailor adds prefetch ad support for personalized ad insertion](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-mediatailor-prefetch-ad-support/)
+- [Amazon VPC Flow Logs now supports Apache Parquet, Hive-compatible prefixes and Hourly partitioned files](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-vpc-flow-logs-parquet-hive-prefixes-partitioned-files/)
+- [Amazon CodeGuru Reviewer adds detectors for AWS Java SDK v2’s best practices and features](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-reviewer-detectors-aws-java-sdk-v2s/)
 - [Amazon SageMaker Projects now supports Image Building CI/CD templates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-project-image-building-ci-cd-templates/)
 - [Amazon MQ now supports ActiveMQ version 5.16.3](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-mq-activemq-version-5-16-3/)
 - [Amazon QuickSight doubles SPICE capacity limit to 500m row](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-capacity-limit/)
 - [AWS FPGA developer kit now supports Jumbo frames in virtual ethernet frameworks for Amazon EC2 F1 instances](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fpga-jumbo-amazon-ec2-instances/)
 - [AWS CloudFormation customers can now manage their applications in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-cloudformation-manage-applications-aws-systems-manager/)
-- [AWS Console Mobile Application adds support for Amazon Elastic Container Service](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-console-mobile-amazon-elastic-container-service/)
-- [CDK for Kubernetes (CDK8s) now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/10/cdk-kubernetes-cdk8s-available/)
-- [New AWS Solutions Implementation: Automated Account Configuration](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-automated-account-configuration/)
-- [AWS CDK releases v1.121.0 - v1.125.0 with features for faster development cycles using hotswap deployments and rollback control](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-cdk-releases-hotswap-rollback-control/)
-- [Amazon Fraud Detector launches new ML model for online transaction fraud detection](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-fraud-detector-ml-model-online-transaction-fraud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

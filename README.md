@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-available-aws-govcloud-us-west-region/)
 - [Amazon EMR 6.4 release version now supports Apache Spark 3.1.2](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-6-4-supports-apache-spark-3-1-2/)
 - [AWS Outposts adds new CloudWatch dimension for capacity monitoring](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-outposts-cloudwatch-dimension-capacity-monitoring/)
 - [Amazon Kinesis Data Analytics now supports Apache Flink v1.13](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kinesis-data-analytics-apache-flink-version-1-13/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Projects now supports Image Building CI/CD templates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-project-image-building-ci-cd-templates/)
 - [Amazon MQ now supports ActiveMQ version 5.16.3](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-mq-activemq-version-5-16-3/)
 - [Amazon QuickSight doubles SPICE capacity limit to 500m row](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-capacity-limit/)
-- [AWS FPGA developer kit now supports Jumbo frames in virtual ethernet frameworks for Amazon EC2 F1 instances](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fpga-jumbo-amazon-ec2-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

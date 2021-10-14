@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch adds console support for visualizing AWS Step Functions workflows](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-batch-console-step-functions/)
 - [Amazon Kendra now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-available-aws-govcloud-us-west-region/)
 - [Amazon EMR 6.4 release version now supports Apache Spark 3.1.2](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-6-4-supports-apache-spark-3-1-2/)
 - [AWS Outposts adds new CloudWatch dimension for capacity monitoring](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-outposts-cloudwatch-dimension-capacity-monitoring/)
@@ -67,7 +68,6 @@
 - [Amazon CodeGuru Reviewer adds detectors for AWS Java SDK v2’s best practices and features](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-codeguru-reviewer-detectors-aws-java-sdk-v2s/)
 - [Amazon SageMaker Projects now supports Image Building CI/CD templates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-project-image-building-ci-cd-templates/)
 - [Amazon MQ now supports ActiveMQ version 5.16.3](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-mq-activemq-version-5-16-3/)
-- [Amazon QuickSight doubles SPICE capacity limit to 500m row](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-capacity-limit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

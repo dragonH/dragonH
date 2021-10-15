@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now offers Microsoft SQL Server on Microsoft Windows Server 2022 AMIs](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-microsoft-sql-server-windows-ami/)
 - [New datasets available on the Registry of Open Data from University of Sydney, International Brain Laboratory, Taiwanese Central Weather Bureau, and others](https://aws.amazon.com/about-aws/whats-new/2021/10/new-datasets-available-on-the-registry-of-open-data/)
 - [Amazon EC2 Auto Scaling now supports describing Auto Scaling groups using tags](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-auto-scaling-groups-using-tags/)
 - [Amazon SageMaker Data Wrangler now supports Amazon Athena Workgroups, feature correlation, and customer managed keys](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-data-wrangler-athena-workgroups-feature-correlation-customer-managed-keys/)
@@ -67,7 +68,6 @@
 - [Network Load Balancer now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-network-load-balancer-supports-tls-1-3/)
 - [AWS Batch adds console support for visualizing AWS Step Functions workflows](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-batch-console-step-functions/)
 - [Amazon Kendra now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-available-aws-govcloud-us-west-region/)
-- [Amazon EMR 6.4 release version now supports Apache Spark 3.1.2](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-6-4-supports-apache-spark-3-1-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

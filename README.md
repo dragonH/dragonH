@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New datasets available on the Registry of Open Data from University of Sydney, International Brain Laboratory, Taiwanese Central Weather Bureau, and others](https://aws.amazon.com/about-aws/whats-new/2021/10/new-datasets-available-on-the-registry-of-open-data/)
 - [Amazon EC2 Auto Scaling now supports describing Auto Scaling groups using tags](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-auto-scaling-groups-using-tags/)
 - [Amazon SageMaker Data Wrangler now supports Amazon Athena Workgroups, feature correlation, and customer managed keys](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-data-wrangler-athena-workgroups-feature-correlation-customer-managed-keys/)
 - [Amazon MemoryDB for Redis is now available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-memorydb-redis-11-regions/)
@@ -67,7 +68,6 @@
 - [AWS Batch adds console support for visualizing AWS Step Functions workflows](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-batch-console-step-functions/)
 - [Amazon Kendra now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-kendra-available-aws-govcloud-us-west-region/)
 - [Amazon EMR 6.4 release version now supports Apache Spark 3.1.2](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-emr-6-4-supports-apache-spark-3-1-2/)
-- [AWS Outposts adds new CloudWatch dimension for capacity monitoring](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-outposts-cloudwatch-dimension-capacity-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawlers can now be started using Amazon S3 event notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/)
 - [Introducing Distributed Load Testing on AWS v2.0.0](https://aws.amazon.com/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/)
 - [Announcing Amazon Forecast Weather Index for Central America, Middle East and Africa](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-forecast-weather-index-central-america-middle-east-africa/)
 - [Amazon EC2 now offers Microsoft SQL Server on Microsoft Windows Server 2022 AMIs](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-microsoft-sql-server-windows-ami/)
@@ -67,7 +68,6 @@
 - [Amazon MemoryDB for Redis is now available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-memorydb-redis-11-regions/)
 - [AWS RoboMaker now supports Graphics Processing Unit (GPU) based simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-robomaker-supports-graphics-processing-unit-gpu/)
 - [AWS RoboMaker now supports expanded configuration for any robot and simulation software](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-robomaker-configuration-robot-simulation-software/)
-- [Network Load Balancer now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-network-load-balancer-supports-tls-1-3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [FreeRTOS adds support for symmetric multiprocessing (SMP)](https://aws.amazon.com/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/)
 - [Porting Assistant for .NET adds support for WCF, OWIN, and System.Web.Mvc application assessment and porting](https://aws.amazon.com/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/)
 - [AWS Glue Crawlers can now be started using Amazon S3 event notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/)
 - [Introducing Distributed Load Testing on AWS v2.0.0](https://aws.amazon.com/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Auto Scaling now supports describing Auto Scaling groups using tags](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-auto-scaling-groups-using-tags/)
 - [Amazon SageMaker Data Wrangler now supports Amazon Athena Workgroups, feature correlation, and customer managed keys](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-data-wrangler-athena-workgroups-feature-correlation-customer-managed-keys/)
 - [Amazon MemoryDB for Redis is now available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-memorydb-redis-11-regions/)
-- [AWS RoboMaker now supports Graphics Processing Unit (GPU) based simulation jobs](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-robomaker-supports-graphics-processing-unit-gpu/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

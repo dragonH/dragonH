@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Corretto October Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-corretto-october-updates/)
+- [Bulk Editing of OpsItems in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/)
+- [Announcing AWS Data Exchange for Amazon Redshift (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/)
 - [AWS Pricing Calculator now supports Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-pricing-calculator-supports-amazon-cloudfront/)
 - [AWS Systems Manager Fleet Manager now offers advanced filtering for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-advanced-filtering-instances/)
 - [PostgreSQL 14 RC 1 now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/postgresql-14-rc-1-amazon-rds-database-preview-environment/)
@@ -65,9 +68,6 @@
 - [Announcing Amazon WorkSpaces API to create new updated images with latest AWS drivers](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/)
 - [Amazon WorkSpaces Windows Server 2019 Bundles Now Available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports automatic data expiration by using Time to Live (TTL) settings](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-keyspaces--for-apache-cassandra--now-supports-automatic-d/)
-- [Amazon AppFlow is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/)
-- [Introducing the AWS Networking Competency for Consulting Partners](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-networking-competency-partners/)
-- [FreeRTOS adds support for symmetric multiprocessing (SMP)](https://aws.amazon.com/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

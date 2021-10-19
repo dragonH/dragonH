@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [PostgreSQL 14 RC 1 now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/postgresql-14-rc-1-amazon-rds-database-preview-environment/)
 - [AWS Elemental MediaConvert now supports rich text rendering of IMSC 1.1 and TTML subtitle text](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-mediaconvert-text-rendering/)
 - [Announcing Amazon WorkSpaces API to create new updated images with latest AWS drivers](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/)
 - [Amazon WorkSpaces Windows Server 2019 Bundles Now Available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/)
@@ -67,7 +68,6 @@
 - [FreeRTOS adds support for symmetric multiprocessing (SMP)](https://aws.amazon.com/about-aws/whats-new/2021/10/freertos-symmetric-multiprocessing/)
 - [Porting Assistant for .NET adds support for WCF, OWIN, and System.Web.Mvc application assessment and porting](https://aws.amazon.com/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/)
 - [AWS Glue Crawlers support Amazon S3 event notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/)
-- [Introducing Distributed Load Testing on AWS v2.0.0](https://aws.amazon.com/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon WorkSpaces API to create new updated images with latest AWS drivers](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/)
 - [Amazon WorkSpaces Windows Server 2019 Bundles Now Available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports automatic data expiration by using Time to Live (TTL) settings](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-keyspaces--for-apache-cassandra--now-supports-automatic-d/)
 - [Amazon AppFlow is now available in the AWS Africa (Cape Town) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-appflow-available-aws-africa-cape-town-region/)
@@ -67,7 +68,6 @@
 - [AWS Glue Crawlers support Amazon S3 event notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/)
 - [Introducing Distributed Load Testing on AWS v2.0.0](https://aws.amazon.com/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/)
 - [Announcing Amazon Forecast Weather Index for Central America, Middle East and Africa](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-forecast-weather-index-central-america-middle-east-africa/)
-- [Amazon EC2 now offers Microsoft SQL Server on Microsoft Windows Server 2022 AMIs](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-microsoft-sql-server-windows-ami/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

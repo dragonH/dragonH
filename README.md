@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConvert now supports rich text rendering of IMSC 1.1 and TTML subtitle text](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-mediaconvert-text-rendering/)
 - [Announcing Amazon WorkSpaces API to create new updated images with latest AWS drivers](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/)
 - [Amazon WorkSpaces Windows Server 2019 Bundles Now Available in the AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-windows-server-2019-bundles-aws-govcloud/)
 - [Amazon Keyspaces (for Apache Cassandra) now supports automatic data expiration by using Time to Live (TTL) settings](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-keyspaces--for-apache-cassandra--now-supports-automatic-d/)
@@ -67,7 +68,6 @@
 - [Porting Assistant for .NET adds support for WCF, OWIN, and System.Web.Mvc application assessment and porting](https://aws.amazon.com/about-aws/whats-new/2021/10/porting-assistant-net-support-wcf-owin-system-web-mvc-application-assessment/)
 - [AWS Glue Crawlers support Amazon S3 event notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-glue-crawlers-amazon-s3-notifications/)
 - [Introducing Distributed Load Testing on AWS v2.0.0](https://aws.amazon.com/about-aws/whats-new/2021/10/distributed-load-testing-aws-v2-0-0/)
-- [Announcing Amazon Forecast Weather Index for Central America, Middle East and Africa](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-forecast-weather-index-central-america-middle-east-africa/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

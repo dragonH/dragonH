@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing General Availability of the AWS Panorama Appliance](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-panorama-appliance-available/)
+- [Amazon Transcribe now supports custom language models for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-custom-language-models-streaming-transcription/)
 - [Amazon QuickSight launches new Table and Pivot table enhancements](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/)
 - [Introducing support for AWS KMS customer managed keys for encrypting artifacts by Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/)
 - [Amazon RDS for MySQL on Outposts supports new minor versions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/)
@@ -66,8 +68,6 @@
 - [Bulk Editing of OpsItems in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/)
 - [Announcing AWS Data Exchange for Amazon Redshift (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/)
 - [AWS Pricing Calculator now supports Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-pricing-calculator-supports-amazon-cloudfront/)
-- [AWS Systems Manager Fleet Manager now offers advanced filtering for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-advanced-filtering-instances/)
-- [PostgreSQL 14 RC 1 now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/postgresql-14-rc-1-amazon-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

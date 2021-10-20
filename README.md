@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds support for cross-Region aggregation of findings to simplify how you evaluate and improve your AWS security posture](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-security-hub-cross-region-security-posture/)
 - [Announcing General Availability of the AWS Panorama Appliance](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-panorama-appliance-available/)
 - [Amazon Transcribe now supports custom language models for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-custom-language-models-streaming-transcription/)
 - [Amazon QuickSight launches new Table and Pivot table enhancements](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/)
@@ -67,7 +68,6 @@
 - [Amazon Corretto October Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-corretto-october-updates/)
 - [Bulk Editing of OpsItems in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/)
 - [Announcing AWS Data Exchange for Amazon Redshift (Preview)](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-data-exchange-amazon-redshift/)
-- [AWS Pricing Calculator now supports Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-pricing-calculator-supports-amazon-cloudfront/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

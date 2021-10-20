@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing support for AWS KMS customer managed keys for encrypting artifacts by Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/)
 - [Amazon RDS for MySQL on Outposts supports new minor versions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/)
 - [Amazon Chime SDK announces messaging channel flows](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-messaging-channel-flows/)
 - [Amazon Corretto October Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-corretto-october-updates/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager Fleet Manager now offers advanced filtering for Managed Instances](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-advanced-filtering-instances/)
 - [PostgreSQL 14 RC 1 now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2021/10/postgresql-14-rc-1-amazon-rds-database-preview-environment/)
 - [AWS Elemental MediaConvert now supports rich text rendering of IMSC 1.1 and TTML subtitle text](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-mediaconvert-text-rendering/)
-- [Announcing Amazon WorkSpaces API to create new updated images with latest AWS drivers](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-workspaces-api-updated-images-aws-drivers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

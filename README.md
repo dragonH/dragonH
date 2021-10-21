@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify for JavaScript now supports resumable file uploads for Storage](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-amplify-javascript-file-uploads-storage/)
+- [Amazon Chime SDK now supports video background blur](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/)
 - [AWS Fault Injection Simulator now supports Spot Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-spot-interruptions/)
 - [AWS Security Hub adds support for cross-Region aggregation of findings to simplify how you evaluate and improve your AWS security posture](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-security-hub-cross-region-security-posture/)
 - [Announcing General Availability of the AWS Panorama Appliance](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-panorama-appliance-available/)
@@ -66,8 +68,6 @@
 - [Introducing support for AWS KMS customer managed keys for encrypting artifacts by Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/)
 - [Amazon RDS for MySQL on Outposts supports new minor versions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/)
 - [Amazon Chime SDK announces messaging channel flows](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-messaging-channel-flows/)
-- [Amazon Corretto October Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-corretto-october-updates/)
-- [Bulk Editing of OpsItems in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2021/10/bulk-editing-aws-systems-manager-opscenter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

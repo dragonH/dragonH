@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Proxy now supports Amazon RDS for MySQL Version 8.0](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-proxy-supports-amazon-rds-mysql-version-8-0/)
 - [AWS Amplify for JavaScript now supports resumable file uploads for Storage](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-amplify-javascript-file-uploads-storage/)
 - [Amazon Chime SDK now supports video background blur](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/)
 - [AWS Fault Injection Simulator now supports Spot Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-spot-interruptions/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight launches new Table and Pivot table enhancements](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/)
 - [Introducing support for AWS KMS customer managed keys for encrypting artifacts by Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/)
 - [Amazon RDS for MySQL on Outposts supports new minor versions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/)
-- [Amazon Chime SDK announces messaging channel flows](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-messaging-channel-flows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

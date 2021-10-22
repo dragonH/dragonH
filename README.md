@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Solutions Implementation: Web Client for AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/)
+- [AWS Fault Injection Simulator now injects Spot Instance Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/)
 - [Amazon RDS Proxy now supports Amazon RDS for MySQL Version 8.0](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-proxy-supports-amazon-rds-mysql-version-8-0/)
 - [AWS Amplify for JavaScript now supports resumable file uploads for Storage](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-amplify-javascript-file-uploads-storage/)
 - [Amazon Chime SDK now supports video background blur](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/)
@@ -66,8 +68,6 @@
 - [Announcing General Availability of the AWS Panorama Appliance](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-panorama-appliance-available/)
 - [Amazon Transcribe now supports custom language models for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-custom-language-models-streaming-transcription/)
 - [Amazon QuickSight launches new Table and Pivot table enhancements](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/)
-- [Introducing support for AWS KMS customer managed keys for encrypting artifacts by Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-kms-keys-encrypting-artifacts-amazon-cloudwatch-synthetics/)
-- [Amazon RDS for MySQL on Outposts supports new minor versions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-outposts-new-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

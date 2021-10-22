@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches AWS CloudFormation support for users, user hierarchy groups, and hours of operation](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-aws-cloudformation-hierarchy-hours-operation/)
+- [Amazon Connect launches API to configure hours of operation programmatically](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-api-hours-operation-programmatically/)
 - [AWS Load Balancer Controller version 2.3 now available with support for ALB IPv6 targets](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-load-balancer-2-3-alb-ipv6-targets/)
 - [New AWS Solutions Implementation: Web Client for AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/)
 - [AWS Fault Injection Simulator now injects Spot Instance Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/)
@@ -66,8 +68,6 @@
 - [Amazon Chime SDK now supports video background blur](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/)
 - [AWS Fault Injection Simulator now supports Spot Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-spot-interruptions/)
 - [AWS Security Hub adds support for cross-Region aggregation of findings to simplify how you evaluate and improve your AWS security posture](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-security-hub-cross-region-security-posture/)
-- [Announcing General Availability of the AWS Panorama Appliance](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-panorama-appliance-available/)
-- [Amazon Transcribe now supports custom language models for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-custom-language-models-streaming-transcription/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Load Balancer Controller version 2.3 now available with support for ALB IPv6 targets](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-load-balancer-2-3-alb-ipv6-targets/)
 - [New AWS Solutions Implementation: Web Client for AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/)
 - [AWS Fault Injection Simulator now injects Spot Instance Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/)
 - [Amazon RDS Proxy now supports Amazon RDS for MySQL Version 8.0](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-proxy-supports-amazon-rds-mysql-version-8-0/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub adds support for cross-Region aggregation of findings to simplify how you evaluate and improve your AWS security posture](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-security-hub-cross-region-security-posture/)
 - [Announcing General Availability of the AWS Panorama Appliance](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-panorama-appliance-available/)
 - [Amazon Transcribe now supports custom language models for streaming transcription](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-custom-language-models-streaming-transcription/)
-- [Amazon QuickSight launches new Table and Pivot table enhancements](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-launches-table-pivot-table-enhancements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

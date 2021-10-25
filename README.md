@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-migration-hub-strategy-recommendations/)
+- [Amazon Pinpoint now supports 10 Digit Long Code (10DLC) vetting](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-pinpoint-10-digit-code-vetting/)
+- [Amazon DocumentDB (with MongoDB compatibility) now provides a JDBC driver to connect from BI tools and execute SQL Queries](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-mongodb-jdbc-driver/)
+- [Amazon DocumentDB (with MongoDB compatibility) adds support for storing, querying and indexing Geospatial data](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-adds-geospatial-capabilities/)
 - [Amazon DocumentDB (with MongoDB compatibility) adds support for $literal, $map, and $$ROOT](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-adds-additional-mongodb-compatibility-apis/)
 - [Amazon DocumentDB (with MongoDB compatibility) adds support for Access Control with User-Defined Roles](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-access-control-user-roles/)
 - [Amazon CloudFront adds support for client IP address and connection port header](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-cloudfront-client-ip-address-connection-port-header/)
 - [Amazon RDS for MySQL supports new minor version 8.0.26, includes Global Transaction Identifiers (GITDs) and Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-version-8-0-26-global-transaction-identifiers-gitds-delayed-replication/)
 - [AWS Audit Manager custom framework sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-audit-manager-custom-framework-sharing-generally-available/)
 - [Amazon Connect launches AWS CloudFormation support for users, user hierarchy groups, and hours of operation](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-aws-cloudformation-hierarchy-hours-operation/)
-- [Amazon Connect launches API to configure hours of operation programmatically](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-api-hours-operation-programmatically/)
-- [AWS Load Balancer Controller version 2.3 now available with support for ALB IPv6 targets](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-load-balancer-2-3-alb-ipv6-targets/)
-- [New AWS Solutions Implementation: Web Client for AWS Transfer Family](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-solutions-web-client-transfer-family/)
-- [AWS Fault Injection Simulator now injects Spot Instance Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-injects-spot-instance-interruptions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

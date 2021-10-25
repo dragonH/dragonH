@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports new minor version 8.0.26, includes Global Transaction Identifiers (GITDs) and Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-version-8-0-26-global-transaction-identifiers-gitds-delayed-replication/)
 - [AWS Audit Manager custom framework sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-audit-manager-custom-framework-sharing-generally-available/)
 - [Amazon Connect launches AWS CloudFormation support for users, user hierarchy groups, and hours of operation](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-aws-cloudformation-hierarchy-hours-operation/)
 - [Amazon Connect launches API to configure hours of operation programmatically](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-api-hours-operation-programmatically/)
@@ -67,7 +68,6 @@
 - [Amazon RDS Proxy now supports Amazon RDS for MySQL Version 8.0](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-proxy-supports-amazon-rds-mysql-version-8-0/)
 - [AWS Amplify for JavaScript now supports resumable file uploads for Storage](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-amplify-javascript-file-uploads-storage/)
 - [Amazon Chime SDK now supports video background blur](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-video-blur/)
-- [AWS Fault Injection Simulator now supports Spot Interruptions](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fault-injection-simulator-spot-interruptions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

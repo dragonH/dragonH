@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches SPICE Incremental Refresh](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-incremental-refresh/)
 - [Introducing AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-migration-hub-strategy-recommendations/)
 - [Amazon Pinpoint now supports 10 Digit Long Code (10DLC) vetting](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-pinpoint-10-digit-code-vetting/)
 - [Amazon DocumentDB (with MongoDB compatibility) now provides a JDBC driver to connect from BI tools and execute SQL Queries](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-mongodb-jdbc-driver/)
@@ -67,7 +68,6 @@
 - [Amazon CloudFront adds support for client IP address and connection port header](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-cloudfront-client-ip-address-connection-port-header/)
 - [Amazon RDS for MySQL supports new minor version 8.0.26, includes Global Transaction Identifiers (GITDs) and Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-mysql-version-8-0-26-global-transaction-identifiers-gitds-delayed-replication/)
 - [AWS Audit Manager custom framework sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-audit-manager-custom-framework-sharing-generally-available/)
-- [Amazon Connect launches AWS CloudFormation support for users, user hierarchy groups, and hours of operation](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-aws-cloudformation-hierarchy-hours-operation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

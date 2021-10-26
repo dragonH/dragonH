@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Disable default reverse DNS rules with Route 53 Resolver](https://aws.amazon.com/about-aws/whats-new/2021/10/disable-default-reverse-dns-rules-route-53-resolver/)
+- [Announcing the General Availability of AWS Local Zones in Las Vegas, New York City, and Portland](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-general-availability-local-zones/)
+- [AWS Systems Manager Maintenance Windows now supports defining custom cutoff behavior for tasks](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-maintenance-windows-supports-behavior-task/)
 - [Amazon SageMaker Autopilot adds support for time series data](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-autopilot-time-series-data/)
 - [Announcing Amazon RDS Custom for Oracle](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-custom-oracle/)
 - [Amazon QuickSight launches SPICE Incremental Refresh](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-incremental-refresh/)
@@ -65,9 +68,6 @@
 - [Amazon Pinpoint now supports 10 Digit Long Code (10DLC) vetting](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-pinpoint-10-digit-code-vetting/)
 - [Amazon DocumentDB (with MongoDB compatibility) now provides a JDBC driver to connect from BI tools and execute SQL Queries](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-mongodb-jdbc-driver/)
 - [Amazon DocumentDB (with MongoDB compatibility) adds support for storing, querying and indexing Geospatial data](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-adds-geospatial-capabilities/)
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for $literal, $map, and $$ROOT](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-adds-additional-mongodb-compatibility-apis/)
-- [Amazon DocumentDB (with MongoDB compatibility) adds support for Access Control with User-Defined Roles](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-access-control-user-roles/)
-- [Amazon CloudFront adds support for client IP address and connection port header](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-cloudfront-client-ip-address-connection-port-header/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

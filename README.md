@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS SAM Accelerate - quickly test code changes against the cloud (public preview)](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-sam-accelerate-test-code-changes-cloud/)
 - [Announcing Amazon EC2 DL1 instances for cost efficient training of deep learning models](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-dl1-instances-cost-efficient-training-deep-learning-models/)
 - [Disable default reverse DNS rules with Route 53 Resolver](https://aws.amazon.com/about-aws/whats-new/2021/10/disable-default-reverse-dns-rules-route-53-resolver/)
 - [Announcing the General Availability of AWS Local Zones in Las Vegas, New York City, and Portland](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-general-availability-local-zones/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight launches SPICE Incremental Refresh](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-incremental-refresh/)
 - [Introducing AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-migration-hub-strategy-recommendations/)
 - [Amazon Pinpoint now supports 10 Digit Long Code (10DLC) vetting](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-pinpoint-10-digit-code-vetting/)
-- [Amazon DocumentDB (with MongoDB compatibility) now provides a JDBC driver to connect from BI tools and execute SQL Queries](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-documentdb-mongodb-jdbc-driver/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

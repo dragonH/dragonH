@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 Spot placement score](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/)
+- [Amazon EC2 announces attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/)
 - [The Amazon Chime SDK now supports push notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-push-notifications/)
 - [Announcing AWS SAM Accelerate - quickly test code changes against the cloud (public preview)](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-sam-accelerate-test-code-changes-cloud/)
 - [Announcing Amazon EC2 DL1 instances for cost efficient training of deep learning models](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-dl1-instances-cost-efficient-training-deep-learning-models/)
@@ -66,8 +68,6 @@
 - [AWS Systems Manager Maintenance Windows now supports defining custom cutoff behavior for tasks](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-maintenance-windows-supports-behavior-task/)
 - [Amazon SageMaker Autopilot adds support for time series data](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-autopilot-time-series-data/)
 - [Announcing Amazon RDS Custom for Oracle](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rds-custom-oracle/)
-- [Amazon QuickSight launches SPICE Incremental Refresh](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-quicksight-spice-incremental-refresh/)
-- [Introducing AWS Migration Hub Strategy Recommendations](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-migration-hub-strategy-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

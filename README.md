@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator adds support for two new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-global-accelerator-support-new-amazon-cloudwatch-metrics/)
+- [Amazon Connect is now available in the Asia Pacific (Seoul) AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-asia-pacific-seoul-aws-region/)
 - [Amazon Textract launches TIFF support and adds asynchronous support for receipts and invoices processing](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-tiff-asynchronous-receipts-invoices/)
 - [Introducing Amazon EC2 Spot placement score](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/)
 - [Amazon EC2 announces attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/)
@@ -66,8 +68,6 @@
 - [Announcing Amazon EC2 DL1 instances for cost efficient training of deep learning models](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-dl1-instances-cost-efficient-training-deep-learning-models/)
 - [Disable default reverse DNS rules with Route 53 Resolver](https://aws.amazon.com/about-aws/whats-new/2021/10/disable-default-reverse-dns-rules-route-53-resolver/)
 - [Announcing the General Availability of AWS Local Zones in Las Vegas, New York City, and Portland](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-general-availability-local-zones/)
-- [AWS Systems Manager Maintenance Windows now supports defining custom cutoff behavior for tasks](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-systems-manager-maintenance-windows-supports-behavior-task/)
-- [Amazon SageMaker Autopilot adds support for time series data](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-sagemaker-autopilot-time-series-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

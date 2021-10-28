@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of the Babelfish for PostgreSQL open source project](https://aws.amazon.com/about-aws/whats-new/2021/10/babelfish-postgresql-open-source-project/)
+- [Babelfish for Aurora PostgreSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/babelfish-aurora-postgresql-now-generally-available/)
+- [AWS Elemental MediaLive now supports Nielsen Watermarking for audience measurement](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-medialive-nielsen-watermarking/)
 - [Amazon EC2 R5b instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-r5b-instances-available-additional-regions/)
 - [AWS Global Accelerator adds support for two new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-global-accelerator-support-new-amazon-cloudwatch-metrics/)
 - [Amazon Connect is now available in the Asia Pacific (Seoul) AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-asia-pacific-seoul-aws-region/)
@@ -65,9 +68,6 @@
 - [Introducing Amazon EC2 Spot placement score](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/)
 - [Amazon EC2 announces attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/)
 - [The Amazon Chime SDK now supports push notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-push-notifications/)
-- [Announcing AWS SAM Accelerate - quickly test code changes against the cloud (public preview)](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-sam-accelerate-test-code-changes-cloud/)
-- [Announcing Amazon EC2 DL1 instances for cost efficient training of deep learning models](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-dl1-instances-cost-efficient-training-deep-learning-models/)
-- [Disable default reverse DNS rules with Route 53 Resolver](https://aws.amazon.com/about-aws/whats-new/2021/10/disable-default-reverse-dns-rules-route-53-resolver/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

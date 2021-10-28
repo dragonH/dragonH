@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise announces support for using the same asset models across different hierarchies](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-sitewise-support-same-asset-models-different-hierarchies/)
+- [Amazon Aurora Supports PostgreSQL 13.4, 12.8, 11.13, and 10.18](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-releases/)
+- [Amazon Aurora PostgreSQL Supports PostGIS 3.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-postgis/)
+- [AWS Marketplace announces Purchase Order Management for SaaS contracts](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-marketplace-purchase-order-saas-contracts/)
 - [Announcing availability of the Babelfish for PostgreSQL open source project](https://aws.amazon.com/about-aws/whats-new/2021/10/babelfish-postgresql-open-source-project/)
 - [Babelfish for Aurora PostgreSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/babelfish-aurora-postgresql-now-generally-available/)
 - [AWS Elemental MediaLive now supports Nielsen Watermarking for audience measurement](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-elemental-medialive-nielsen-watermarking/)
 - [Amazon EC2 R5b instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-r5b-instances-available-additional-regions/)
 - [AWS Global Accelerator adds support for two new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-global-accelerator-support-new-amazon-cloudwatch-metrics/)
 - [Amazon Connect is now available in the Asia Pacific (Seoul) AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-asia-pacific-seoul-aws-region/)
-- [Amazon Textract launches TIFF support and adds asynchronous support for receipts and invoices processing](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-textract-tiff-asynchronous-receipts-invoices/)
-- [Introducing Amazon EC2 Spot placement score](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-spot-placement-score/)
-- [Amazon EC2 announces attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-instance-auto-scaling-ec2-spot-fleet/)
-- [The Amazon Chime SDK now supports push notifications](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-push-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

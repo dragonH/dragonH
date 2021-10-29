@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New region availability and Graviton2 support now available for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2021/10/new-region-availability-graviton2-support-amazon-gamelift/)
+- [AWS App2Container now supports ECS Fargate Windows](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app2container-ecs-fargate-windows/)
 - [Amazon Chime SDK now supports phone call recording](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-phone-call-recording/)
 - [Introducing Amazon EC2 C6i instances](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/)
 - [AWS Fargate now supports Amazon ECS Windows containers](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fargate-amazon-ecs-windows-containers/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora Supports PostgreSQL 13.4, 12.8, 11.13, and 10.18](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-releases/)
 - [Amazon Aurora PostgreSQL Supports PostGIS 3.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-postgis/)
 - [AWS Marketplace announces Purchase Order Management for SaaS contracts](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-marketplace-purchase-order-saas-contracts/)
-- [Announcing availability of the Babelfish for PostgreSQL open source project](https://aws.amazon.com/about-aws/whats-new/2021/10/babelfish-postgresql-open-source-project/)
-- [Babelfish for Aurora PostgreSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/babelfish-aurora-postgresql-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

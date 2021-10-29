@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lightsail now supports AWS CloudFormation for instances, disks and databases](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/)
+- [Amazon EC2 now supports sharing Amazon Machine Images across AWS Organizations and Organizational Units](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-amazon-machine-images-organizations/)
+- [Amazon Connect Chat adds real-time message streaming APIs](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-chat-real-time-message-streaming-apis/)
 - [Amazon Transcribe now supports batch transcription in AWS Stockholm and Cape Town Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-batch-transcription-aws-stockholm-cape-town-regions/)
 - [AWS App Mesh Metric Extension is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app-mesh-metric-extension-available/)
 - [Improved celebrity recognition is now available for Amazon Rekognition Video](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rekognition-video-improved-celebrity-recognition/)
@@ -65,9 +68,6 @@
 - [New region availability and Graviton2 support now available for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2021/10/new-region-availability-graviton2-support-amazon-gamelift/)
 - [AWS App2Container now supports ECS Fargate Windows](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app2container-ecs-fargate-windows/)
 - [Amazon Chime SDK now supports phone call recording](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-chime-sdk-supports-phone-call-recording/)
-- [Introducing Amazon EC2 C6i instances](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/)
-- [AWS Fargate now supports Amazon ECS Windows containers](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fargate-amazon-ecs-windows-containers/)
-- [Amazon EKS Managed Node Groups adds native support for Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-eks-nodes-groups-bottlerocket/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

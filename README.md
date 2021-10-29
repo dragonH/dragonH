@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe now supports batch transcription in AWS Stockholm and Cape Town Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-batch-transcription-aws-stockholm-cape-town-regions/)
+- [AWS App Mesh Metric Extension is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app-mesh-metric-extension-available/)
+- [Improved celebrity recognition is now available for Amazon Rekognition Video](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rekognition-video-improved-celebrity-recognition/)
 - [Amazon QLDB launches new version of QLDB Shell](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-qldb-new-version-qldb-shell/)
 - [New region availability and Graviton2 support now available for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2021/10/new-region-availability-graviton2-support-amazon-gamelift/)
 - [AWS App2Container now supports ECS Fargate Windows](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app2container-ecs-fargate-windows/)
@@ -65,9 +68,6 @@
 - [Introducing Amazon EC2 C6i instances](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-c6i-instances/)
 - [AWS Fargate now supports Amazon ECS Windows containers](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-fargate-amazon-ecs-windows-containers/)
 - [Amazon EKS Managed Node Groups adds native support for Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-eks-nodes-groups-bottlerocket/)
-- [AWS IoT SiteWise announces support for using the same asset models across different hierarchies](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-iot-sitewise-support-same-asset-models-different-hierarchies/)
-- [Amazon Aurora Supports PostgreSQL 13.4, 12.8, 11.13, and 10.18](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-releases/)
-- [Amazon Aurora PostgreSQL Supports PostGIS 3.1](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-aurora-postgresql-supports-postgis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

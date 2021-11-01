@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway Network Manager launches new APIs to simplify network and route analysis in your global network](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transit-gateway-network-manager-new-apis-network-route-analysis-global-network/)
 - [Amazon MemoryDB for Redis now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/)
 - [Amazon Simple Email Service now offers a new console experience](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-simple-email-service-new-console-experience/)
 - [AWS DeepRacer introduces multi-user account management](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-deepracer-multi-user-account-management/)
@@ -67,7 +68,6 @@
 - [Amazon Transcribe now supports batch transcription in AWS Stockholm and Cape Town Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-batch-transcription-aws-stockholm-cape-town-regions/)
 - [AWS App Mesh Metric Extension is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app-mesh-metric-extension-available/)
 - [Improved celebrity recognition is now available for Amazon Rekognition Video](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rekognition-video-improved-celebrity-recognition/)
-- [Amazon QLDB launches new version of QLDB Shell](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-qldb-new-version-qldb-shell/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

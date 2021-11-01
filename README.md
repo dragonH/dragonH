@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/dragonH/food-lover-crawler/pull/3) in [dragonH/food-lover-crawler](https://github.com/dragonH/food-lover-crawler)
-2. ❌ Closed PR [#2](https://github.com/dragonH/food-lover-crawler/pull/2) in [dragonH/food-lover-crawler](https://github.com/dragonH/food-lover-crawler)
-3. ❌ Closed PR [#1](https://github.com/dragonH/food-lover-crawler/pull/1) in [dragonH/food-lover-crawler](https://github.com/dragonH/food-lover-crawler)
-4. ❗️ Opened issue [#3](https://github.com/dragonH/mongodb-with-aws-dms/issues/3) in [dragonH/mongodb-with-aws-dms](https://github.com/dragonH/mongodb-with-aws-dms)
-5. ❗️ Opened issue [#2](https://github.com/dragonH/mongodb-with-aws-dms/issues/2) in [dragonH/mongodb-with-aws-dms](https://github.com/dragonH/mongodb-with-aws-dms)
+1. 🎉 Merged PR [#18](https://github.com/dragonH/happy-6-pm/pull/18) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+2. ❗️ Closed issue [#17](https://github.com/dragonH/happy-6-pm/issues/17) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+3. 🗣 Commented on [#17](https://github.com/dragonH/happy-6-pm/issues/17) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+4. 🎉 Merged PR [#16](https://github.com/dragonH/happy-6-pm/pull/16) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+5. ❗️ Opened issue [#17](https://github.com/dragonH/happy-6-pm/issues/17) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
 <!--END_SECTION:activity-->
 
 </details>

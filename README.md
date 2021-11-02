@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-graviton2-based-t4g-instances-aws-govcloud-us-west-region/)
 - [AWS Transit Gateway Network Manager launches new APIs to simplify network and route analysis in your global network](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transit-gateway-network-manager-new-apis-network-route-analysis-global-network/)
 - [Amazon MemoryDB for Redis now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/)
 - [Amazon Simple Email Service now offers a new console experience](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-simple-email-service-new-console-experience/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Chat adds real-time message streaming APIs](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-chat-real-time-message-streaming-apis/)
 - [Amazon Transcribe now supports batch transcription in AWS Stockholm and Cape Town Regions](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-transcribe-batch-transcription-aws-stockholm-cape-town-regions/)
 - [AWS App Mesh Metric Extension is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/10/aws-app-mesh-metric-extension-available/)
-- [Improved celebrity recognition is now available for Amazon Rekognition Video](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-rekognition-video-improved-celebrity-recognition/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

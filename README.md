@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS on AWS Outposts now supports exporting database logs to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/)
+- [Amazon Corretto 17 Support Roadmap Announced](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-corretto-17-support-roadmap/)
+- [Amazon DevOps Guru increases coverage of Amazon EKS metrics and adds metric view by cluster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-devops-guru-coverage-amazon-eks-metrics-cluster/)
 - [Amazon Redshift announces native support for SQLAlchemy and Apache Airflow open-source frameworks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-sqlalchemy-apache-airflow-open-source-frameworks/)
 - [Amazon Time Sync Service now makes it easier to generate and compare timestamps](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
 - [AWS Graviton2 based T4g instances are now available in AWS GovCloud (US-West) Region](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-graviton2-based-t4g-instances-aws-govcloud-us-west-region/)
@@ -65,9 +68,6 @@
 - [Amazon MemoryDB for Redis now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-cloudformation/)
 - [Amazon Simple Email Service now offers a new console experience](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-simple-email-service-new-console-experience/)
 - [AWS DeepRacer introduces multi-user account management](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-deepracer-multi-user-account-management/)
-- [Amazon Lightsail now supports AWS CloudFormation for instances, disks and databases](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-lightsail-support-aws-cloudformation-instances-disks-databases/)
-- [Amazon EC2 now supports sharing Amazon Machine Images across AWS Organizations and Organizational Units](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-ec2-amazon-machine-images-organizations/)
-- [Amazon Connect Chat adds real-time message streaming APIs](https://aws.amazon.com/about-aws/whats-new/2021/10/amazon-connect-chat-real-time-message-streaming-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

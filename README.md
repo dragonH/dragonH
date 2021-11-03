@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Vault Lock is now available in the AWS China (Beijing) Region and AWS China (Ningxia) Region](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-vault-lock-available-aws-china-regions/)
 - [Amazon Aurora Global Database Expands Availability to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-aurora-global-database-aws-govcloud/)
 - [Amazon EC2 now supports access to Red Hat Knowledgebase](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-red-hat-knowledgebase/)
 - [AWS Lake Formation now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/)
@@ -67,7 +68,6 @@
 - [AWS Secrets Manager increases secrets limit to 500K per account](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-secrets-manager-increases-secrets-limit-per-account/)
 - [Amazon RDS on AWS Outposts now supports exporting database logs to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/)
 - [Amazon Corretto 17 Support Roadmap Announced](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-corretto-17-support-roadmap/)
-- [Amazon DevOps Guru increases coverage of Amazon EKS metrics and adds metric view by cluster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-devops-guru-coverage-amazon-eks-metrics-cluster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

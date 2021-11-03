@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database Expands Availability to AWS GovCloud (US) Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-aurora-global-database-aws-govcloud/)
+- [Amazon EC2 now supports access to Red Hat Knowledgebase](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-red-hat-knowledgebase/)
 - [AWS Lake Formation now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/)
 - [Database Activity Streams now supports Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2021/11/database-activity-streams-supports-graviton2-based-instances/)
 - [Amazon CloudFront now supports configurable CORS, security,  and custom HTTP response headers](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudfront-supports-cors-security-custom-http-response-headers/)
@@ -66,8 +68,6 @@
 - [Amazon RDS on AWS Outposts now supports exporting database logs to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-rds-outposts-exporting-database-logs-amazon-cloudwatch/)
 - [Amazon Corretto 17 Support Roadmap Announced](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-corretto-17-support-roadmap/)
 - [Amazon DevOps Guru increases coverage of Amazon EKS metrics and adds metric view by cluster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-devops-guru-coverage-amazon-eks-metrics-cluster/)
-- [Amazon Redshift announces native support for SQLAlchemy and Apache Airflow open-source frameworks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-sqlalchemy-apache-airflow-open-source-frameworks/)
-- [Amazon Time Sync Service now makes it easier to generate and compare timestamps](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

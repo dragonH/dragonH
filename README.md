@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports inference testing with custom domains and headers from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-studio-inference-testing-custom-domains-headers/)
 - [AWS Lambda now supports cross-account container image pulling from Amazon Elastic Container Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/)
 - [AWS DataSync can now copy data between Hadoop Distributed File Systems (HDFS) and AWS Storage services](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-datasync-hadoop-aws-storage-services/)
 - [Simplify CI/CD Configuration for  AWS Serverless Applications and your favorite CI/CD system – General Availability](https://aws.amazon.com/about-aws/whats-new/2021/11/ci-cd-configuration-aws-serverless-applications-system-general-availability/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports cross account KMS keys for exporting RDS Snapshots](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-cross-account-kms-keys-exporting-rds-snapshots/)
 - [AWS Security Hub adds support for AWS PrivateLink for private access to Security Hub APIs](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-security-hub-support-privatelink-private-access-security-hub-apis/)
 - [Introducing ability to connect to EMR clusters in different subnets in EMR Studio](https://aws.amazon.com/about-aws/whats-new/2021/11/connect-emr-clusters-different-subnets-emr-studio/)
-- [Amazon SageMaker launches fully-managed RStudio Workbench](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-launches-fully-managed-rstudio-workbench/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

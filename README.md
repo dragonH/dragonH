@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowcone SSD is now available in the US East (Ohio), US West (San Francisco), Asia Pacific (Singapore), Asia Pacific (Sydney) and AWS Asia Pacific (Tokyo) and regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snowcone-ssd-now-available-in-new-regions/)
 - [Amazon RDS now supports cross account KMS keys for exporting RDS Snapshots](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-cross-account-kms-keys-exporting-rds-snapshots/)
 - [AWS Security Hub adds support for AWS PrivateLink for private access to Security Hub APIs](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-security-hub-support-privatelink-private-access-security-hub-apis/)
 - [Introducing ability to connect to EMR clusters in different subnets in EMR Studio](https://aws.amazon.com/about-aws/whats-new/2021/11/connect-emr-clusters-different-subnets-emr-studio/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 now supports access to Red Hat Knowledgebase](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-red-hat-knowledgebase/)
 - [AWS Lake Formation now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-supports-aws-privatelink/)
 - [Database Activity Streams now supports Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2021/11/database-activity-streams-supports-graviton2-based-instances/)
-- [Amazon CloudFront now supports configurable CORS, security,  and custom HTTP response headers](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudfront-supports-cors-security-custom-http-response-headers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

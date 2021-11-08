@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup adds support for Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-documentdb-mongodb-compatibility/)
 - [AWS Backup adds support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/)
+- [AWS Polly now offers Neural Text-to-Speech voices in Spanish and Italian](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-neural-text-speech-voices-spanish-italian/)
 - [AWS Toolkits for Cloud9, JetBrains and VS Code now support interaction with over 200 new resource types](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-toolkits-cloud9-jetbrains-vs-code/)
 - [Amazon Lex launches support for Austrian German](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-launches-support-austrian-german/)
 - [Amazon EC2 Fleet and Spot Fleet now support automatic instance termination with Capacity Rebalancing](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-fleet-spot-fleet-capacity-rebalancing/)
@@ -66,8 +68,6 @@
 - [Amazon Athena adds cost details to query execution plans](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-cost-details-query-execution-plans/)
 - [Amazon DevOps Guru now Supports Multi-Account Insight Aggregation with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-devops-guru-multi-account-insight-aws-organizations/)
 - [AWS IoT Core for LoRaWAN supports managed Firmware Over-the-Air Update](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-core-lorawan-supports-managed-firmware-over-air-update/)
-- [Amazon SageMaker now supports inference testing with custom domains and headers from SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-studio-inference-testing-custom-domains-headers/)
-- [AWS Lambda now supports cross-account container image pulling from Amazon Elastic Container Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-support-cross-account-image-amazon-elastic-container-registry/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

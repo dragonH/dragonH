@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK meetings now offer API endpoints in Oregon, Frankfurt and Singapore](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-meetings-api-endpoints/)
 - [AWS Backup adds support for Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-documentdb-mongodb-compatibility/)
 - [AWS Backup adds support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/)
 - [AWS Polly now offers Neural Text-to-Speech voices in Spanish and Italian](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-neural-text-speech-voices-spanish-italian/)
@@ -67,7 +68,6 @@
 - [Amazon Translate now supports AWS KMS Encryption](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-supports-aws-kms-encryption/)
 - [Amazon Athena adds cost details to query execution plans](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-cost-details-query-execution-plans/)
 - [Amazon DevOps Guru now Supports Multi-Account Insight Aggregation with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-devops-guru-multi-account-insight-aws-organizations/)
-- [AWS IoT Core for LoRaWAN supports managed Firmware Over-the-Air Update](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-core-lorawan-supports-managed-firmware-over-air-update/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

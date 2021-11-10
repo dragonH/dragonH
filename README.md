@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch introduces fair-share scheduling](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-batch-fair-share-scheduling/)
+- [Amazon SNS now supports token-based authentication for APNs mobile push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/)
+- [AWS announces a new capability to switch license types for Windows Server and SQL Server applications on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/)
 - [AWS Device Farm announces support for testing web applications hosted in an Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-device-farm-support-testing-web-applications-amazon-vpc/)
 - [Incident Manager from AWS Systems Manager is now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-systems-manager-incident-manager-7-regions/)
 - [Amazon SageMaker Pipelines now supports retry policies and resume](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-pipelines-supports-retry-policies-resume/)
@@ -65,9 +68,6 @@
 - [Amazon Chime SDK meetings now offer API endpoints in Oregon, Frankfurt and Singapore](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-meetings-api-endpoints/)
 - [AWS Backup adds support for Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-documentdb-mongodb-compatibility/)
 - [AWS Backup adds support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/)
-- [AWS Polly now offers Neural Text-to-Speech voices in Spanish and Italian](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-neural-text-speech-voices-spanish-italian/)
-- [AWS Toolkits for Cloud9, JetBrains and VS Code now support interaction with over 200 new resource types](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-toolkits-cloud9-jetbrains-vs-code/)
-- [Amazon Lex launches support for Austrian German](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-launches-support-austrian-german/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

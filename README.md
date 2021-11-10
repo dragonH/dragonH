@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new deployment guardrails for Amazon SageMaker Inference endpoints](https://aws.amazon.com/about-aws/whats-new/2021/11/new-deployment-guardrails-amazon-sagemaker-inference-endpoints/)
 - [Manage Access Centrally for CyberArk Users with AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/11/manage-access-centrally-cyberark-users-aws-single-sign-on/)
 - [Amazon QuickSight launches 4 new administration features including IP-based access restrictions and Bring-you-own-role for account setup](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-quicksight-launches-ip-based-access-restrictions-bring-you-own-role-account-setup/)
 - [AWS Marketplace announces enhancements to change requests submission experience](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-marketplace-change-requests-submission/)
@@ -67,7 +68,6 @@
 - [Amazon SNS now supports token-based authentication for APNs mobile push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/)
 - [AWS announces a new capability to switch license types for Windows Server and SQL Server applications on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/)
 - [AWS Device Farm announces support for testing web applications hosted in an Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-device-farm-support-testing-web-applications-amazon-vpc/)
-- [Incident Manager from AWS Systems Manager is now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-systems-manager-incident-manager-7-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

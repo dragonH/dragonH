@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CDK releases v1.126.0 - v1.130.0 with high-level APIs for AWS AppRunner and hotswap support for Amazon ECS and AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/)
+- [Amazon Lex launches support for South African English](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-south-african-english/)
 - [AWS Batch introduces fair-share scheduling](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-batch-fair-share-scheduling/)
 - [Amazon SNS now supports token-based authentication for APNs mobile push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-token-authentication-api-mobile-notifications/)
 - [AWS announces a new capability to switch license types for Windows Server and SQL Server applications on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Pipelines now supports retry policies and resume](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-pipelines-supports-retry-policies-resume/)
 - [AWS Fault Injection Simulator now supports Amazon CloudWatch Alarms and AWS Systems Manager Automation Runbooks.](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/)
 - [Amazon Chime SDK meetings now offer API endpoints in Oregon, Frankfurt and Singapore](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-meetings-api-endpoints/)
-- [AWS Backup adds support for Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-documentdb-mongodb-compatibility/)
-- [AWS Backup adds support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-neptune/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

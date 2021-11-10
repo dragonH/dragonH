@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Manage Access Centrally for CyberArk Users with AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/11/manage-access-centrally-cyberark-users-aws-single-sign-on/)
+- [Amazon QuickSight launches 4 new administration features including IP-based access restrictions and Bring-you-own-role for account setup](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-quicksight-launches-ip-based-access-restrictions-bring-you-own-role-account-setup/)
 - [AWS Marketplace announces enhancements to change requests submission experience](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-marketplace-change-requests-submission/)
 - [AWS CDK releases v1.126.0 - v1.130.0 with high-level APIs for AWS AppRunner and hotswap support for Amazon ECS and AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cdk-new-releases-api-apprunner-hotswap-amazon-ecs-step-functions/)
 - [Amazon Lex launches support for South African English](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-south-african-english/)
@@ -66,8 +68,6 @@
 - [AWS announces a new capability to switch license types for Windows Server and SQL Server applications on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-switch-license-windows-sql-server-ec2/)
 - [AWS Device Farm announces support for testing web applications hosted in an Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-device-farm-support-testing-web-applications-amazon-vpc/)
 - [Incident Manager from AWS Systems Manager is now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-systems-manager-incident-manager-7-regions/)
-- [Amazon SageMaker Pipelines now supports retry policies and resume](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-pipelines-supports-retry-policies-resume/)
-- [AWS Fault Injection Simulator now supports Amazon CloudWatch Alarms and AWS Systems Manager Automation Runbooks.](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fault-injection-simulator-amazon-cloudwatch-alarms-automation-runbooks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

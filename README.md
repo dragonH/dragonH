@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS adds support for additional cluster configuration options using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-cluster-configuration-aws-cloudformation/)
 - [Introducing 34 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/new-resource-types-cloudformation-registry/)
 - [AWS Amplify announces new observeQuery API for Amplify DataStore to help apps with real-time data open faster](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-new-observequery-api-amplify-datastore-apps-real-time-data/)
 - [AWS CloudTrail announces ErrorRate Insights](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudtrail-announces-launch-errorrate-insights/)
@@ -67,7 +68,6 @@
 - [Announcing general availability of AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-resilience-hub-general-availability/)
 - [Amazon EKS on AWS Fargate now Supports the Fluent Bit Kubernetes Filter](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-aws-fargate-supports-fluent-bit-kubernetes-filter/)
 - [AWS Backup provides new resource assignment rules for your data protection policies](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-new-resource-assignment-rules-data-protection-policies/)
-- [Amazon Translate Now Adds Support for four more languages and variants - Irish, Marathi, Portugal Portuguese and Punjabi](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-supports-four-additional-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

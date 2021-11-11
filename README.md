@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudTrail announces ErrorRate Insights](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudtrail-announces-launch-errorrate-insights/)
+- [Amazon Nimble Studio launches the ability to test launch profile configurations via the Nimble Studio console.](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-nimble-studio-test-launch-profile-configurations/)
+- [AWS Security Hub adds three new FSBP controls and three new partners](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-security-hub-three-new-fsbp-controls-partners/)
 - [Manage Access Centrally for JumpCloud Users with AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/11/manage-access-jumpcloud-aws-single-sign-on/)
 - [Announcing general availability of AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-resilience-hub-general-availability/)
 - [Amazon EKS on AWS Fargate now Supports the Fluent Bit Kubernetes Filter](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-aws-fargate-supports-fluent-bit-kubernetes-filter/)
@@ -65,9 +68,6 @@
 - [Amazon Translate Now Adds Support for four more languages and variants - Irish, Marathi, Portugal Portuguese and Punjabi](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-supports-four-additional-languages/)
 - [Amazon ECS now adds container instance health information](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-container-instance-health-information/)
 - [AWS Control Tower now supports concurrent operations for detective guardrails](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-concurrent-operations-detective-guardrails/)
-- [Announcing new deployment guardrails for Amazon SageMaker Inference endpoints](https://aws.amazon.com/about-aws/whats-new/2021/11/new-deployment-guardrails-amazon-sagemaker-inference-endpoints/)
-- [Manage Access Centrally for CyberArk Users with AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/11/manage-access-centrally-cyberark-users-aws-single-sign-on/)
-- [Amazon QuickSight launches 4 new administration features including IP-based access restrictions and Bring-you-own-role for account setup](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-quicksight-launches-ip-based-access-restrictions-bring-you-own-role-account-setup/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

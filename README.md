@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QLDB is now available in the Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-qldb-available-canada-central-region/)
+- [Amazon ECS has improved Capacity Providers to deliver faster Cluster Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-improved-capacity-providers-cluster-auto-scaling/)
+- [Achieve up to 30% better performance with Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/better-performance-amazon-documentdb-mongodb-graviton2-instances/)
 - [Amazon EKS adds support for additional cluster configuration options using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-cluster-configuration-aws-cloudformation/)
 - [Introducing 34 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/new-resource-types-cloudformation-registry/)
 - [AWS Amplify announces new observeQuery API for Amplify DataStore to help apps with real-time data open faster](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-new-observequery-api-amplify-datastore-apps-real-time-data/)
@@ -65,9 +68,6 @@
 - [Amazon Nimble Studio launches the ability to test launch profile configurations via the Nimble Studio console.](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-nimble-studio-test-launch-profile-configurations/)
 - [AWS Security Hub adds three new FSBP controls and three new partners](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-security-hub-three-new-fsbp-controls-partners/)
 - [Manage Access Centrally for JumpCloud Users with AWS Single Sign-On](https://aws.amazon.com/about-aws/whats-new/2021/11/manage-access-jumpcloud-aws-single-sign-on/)
-- [Announcing general availability of AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-resilience-hub-general-availability/)
-- [Amazon EKS on AWS Fargate now Supports the Fluent Bit Kubernetes Filter](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-aws-fargate-supports-fluent-bit-kubernetes-filter/)
-- [AWS Backup provides new resource assignment rules for your data protection policies](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-new-resource-assignment-rules-data-protection-policies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

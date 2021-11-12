@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Sheet Change Performance Optimizations is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2021/11/sheet-change-performance-optimizations-generally-available-amazon-quicksight/)
 - [Amazon Kendra releases SharePoint Connector to enable SharePoint site search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-releases-sharepoint-connector-enable-sharepoint-site-search/)
 - [Amazon EC2 M6i instances are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6i-instances-available-additional-regions/)
 - [Amazon Translate now enables multidirectional custom terminology](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-enables-multidirectional-custom-terminology/)
@@ -67,7 +68,6 @@
 - [Achieve up to 30% better performance with Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; using new Graviton2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/better-performance-amazon-documentdb-mongodb-graviton2-instances/)
 - [Amazon EKS adds support for additional cluster configuration options using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eks-cluster-configuration-aws-cloudformation/)
 - [Introducing 34 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2021/11/new-resource-types-cloudformation-registry/)
-- [AWS Amplify announces new observeQuery API for Amplify DataStore to help apps with real-time data open faster](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-new-observequery-api-amplify-datastore-apps-real-time-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

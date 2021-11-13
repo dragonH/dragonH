@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches Contact APIs to fetch and update contact details programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-launches-contact-apis-fetch-update-contact-details-programmatically/)
+- [Amazon Athena announces cross-account federated query](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-announces-cross-account-federated-query/)
 - [Amazon Connect launches scheduled tasks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-scheduled-tasks/)
 - [Amazon Connect now enables you to create and orchestrate tasks directly from Flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-enables-create-orchestrate-tasks-flows/)
 - [Unified Search in the AWS Management Console now includes blogs, knowledge articles, events, and tutorials](https://aws.amazon.com/about-aws/whats-new/2021/11/unified-search-aws-management-console-blogs-knowledge-articles-events-tutorials/)
@@ -66,8 +68,6 @@
 - [Amazon announces new NVIDIA Triton Inference Server on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-nvidia-triton-server-sagemaker/)
 - [Sheet Change Performance Optimizations is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2021/11/sheet-change-performance-optimizations-generally-available-amazon-quicksight/)
 - [Amazon Kendra releases SharePoint Connector to enable SharePoint site search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-releases-sharepoint-connector-enable-sharepoint-site-search/)
-- [Amazon EC2 M6i instances are now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6i-instances-available-additional-regions/)
-- [Amazon Translate now enables multidirectional custom terminology](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-enables-multidirectional-custom-terminology/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

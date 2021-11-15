@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner supports AWS CDK to build and deploy applications](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-runner-aws-cdk-build-deploy-applications/)
+- [Safer interrupt management demo for FreeRTOS kernel](https://aws.amazon.com/about-aws/whats-new/2021/11/safer-interrupt-management-demo-freertos-kernel/)
 - [Amazon Connect launches Contact APIs to fetch and update contact details programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-launches-contact-apis-fetch-update-contact-details-programmatically/)
 - [Amazon Athena announces cross-account federated query](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-announces-cross-account-federated-query/)
 - [Amazon Connect launches scheduled tasks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-scheduled-tasks/)
@@ -66,8 +68,6 @@
 - [Announcing general availability of Amazon EC2 G5 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/announcing-general-availability-amazon-ec2-g5-instances/)
 - [Amazon SageMaker Autopilot now generates additional data insights and recommendations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-autopilot-data-insights-recommendations/)
 - [Amazon announces new NVIDIA Triton Inference Server on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-nvidia-triton-server-sagemaker/)
-- [Sheet Change Performance Optimizations is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2021/11/sheet-change-performance-optimizations-generally-available-amazon-quicksight/)
-- [Amazon Kendra releases SharePoint Connector to enable SharePoint site search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-releases-sharepoint-connector-enable-sharepoint-site-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

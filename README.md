@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles now provides a contact block to personalize customer service](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-customer-profiles-contact-block-personalize/)
 - [Amazon Connect launches API to configure security profiles programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-api-configure-security-profiles/)
 - [AWS releases open source JDBC driver to connect to Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-open-source-jdbc-driver-amazon-neptune/)
 - [AWS Amplify announces the ability to override Amplify-generated resources using CDK](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-override-amplify-generated-resources-cdk/)
@@ -67,7 +68,6 @@
 - [AWS App Runner supports AWS CDK to build and deploy applications](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-runner-aws-cdk-build-deploy-applications/)
 - [Safer interrupt management demo for FreeRTOS kernel](https://aws.amazon.com/about-aws/whats-new/2021/11/safer-interrupt-management-demo-freertos-kernel/)
 - [Amazon Connect launches Contact APIs to fetch and update contact details programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-launches-contact-apis-fetch-update-contact-details-programmatically/)
-- [Amazon Athena announces cross-account federated query](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-announces-cross-account-federated-query/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

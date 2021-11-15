@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches API to configure security profiles programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-api-configure-security-profiles/)
+- [AWS releases open source JDBC driver to connect to Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-open-source-jdbc-driver-amazon-neptune/)
 - [AWS Amplify announces the ability to override Amplify-generated resources using CDK](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-override-amplify-generated-resources-cdk/)
 - [AWS Step Functions Synchronous Express Workflows now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/)
 - [AWS IoT Device Management is now supported on AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/)
@@ -66,8 +68,6 @@
 - [Safer interrupt management demo for FreeRTOS kernel](https://aws.amazon.com/about-aws/whats-new/2021/11/safer-interrupt-management-demo-freertos-kernel/)
 - [Amazon Connect launches Contact APIs to fetch and update contact details programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-launches-contact-apis-fetch-update-contact-details-programmatically/)
 - [Amazon Athena announces cross-account federated query](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-announces-cross-account-federated-query/)
-- [Amazon Connect launches scheduled tasks](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-scheduled-tasks/)
-- [Amazon Connect now enables you to create and orchestrate tasks directly from Flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-enables-create-orchestrate-tasks-flows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

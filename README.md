@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 Introduces Linux Application Streaming](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-linux-application-streaming/)
+- [Amazon Translate Now Extends Support for Active Custom Translation to all language pair combinations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-active-custom-translation-language-combinations/)
 - [AWS IoT Greengrass now supports Microsoft Windows devices](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-greengrass-support-windows-devices/)
 - [Amazon Connect Customer Profiles now provides a contact block to personalize customer service](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-customer-profiles-contact-block-personalize/)
 - [Amazon Connect launches API to configure security profiles programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-api-configure-security-profiles/)
@@ -66,8 +68,6 @@
 - [AWS Step Functions Synchronous Express Workflows now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/)
 - [AWS IoT Device Management is now supported on AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/)
 - [AWS Launch Wizard now supports Microsoft SQL Server deployments using Amazon EBS gp3, io2, and io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-launch-wizard-supports-microsoft-sql-server-deployments-amazon-eps-gp3-io2-io2-block-express-volumes/)
-- [AWS App Runner supports AWS CDK to build and deploy applications](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-runner-aws-cdk-build-deploy-applications/)
-- [Safer interrupt management demo for FreeRTOS kernel](https://aws.amazon.com/about-aws/whats-new/2021/11/safer-interrupt-management-demo-freertos-kernel/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

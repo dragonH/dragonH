@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports RabbitMQ version 3.8.23](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-mq-supports-rabbitmq-version-3-8-23/)
+- [AWS Amplify announces the ability to add custom AWS resources to Amplify-created backends using CDK and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-custom-aws-resources-amplify-created-backends-cdk-cloudformation/)
+- [Observe SAP HANA databases with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-insights-sap-hana-databases/)
+- [AWS Network Firewall is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-soc-compliant/)
+- [Amazon Location Service adds new capabilities to help customers better filter geographical search results](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-location-service-filter-geographical-search-results/)
 - [AWS Transfer Family adds identity provider options and enhanced monitoring capabilities](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transfer-family-identity-provider-enhanced-monitoring/)
 - [Amazon AppStream 2.0 Introduces Linux Application Streaming](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-linux-application-streaming/)
 - [Amazon Translate Now Extends Support for Active Custom Translation to all language pair combinations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-active-custom-translation-language-combinations/)
 - [AWS IoT Greengrass now supports Microsoft Windows devices](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-greengrass-support-windows-devices/)
 - [Amazon Connect Customer Profiles now provides a contact block to personalize customer service](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-customer-profiles-contact-block-personalize/)
-- [Amazon Connect launches API to configure security profiles programmatically](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-api-configure-security-profiles/)
-- [AWS releases open source JDBC driver to connect to Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-open-source-jdbc-driver-amazon-neptune/)
-- [AWS Amplify announces the ability to override Amplify-generated resources using CDK](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-override-amplify-generated-resources-cdk/)
-- [AWS Step Functions Synchronous Express Workflows now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/)
-- [AWS IoT Device Management is now supported on AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

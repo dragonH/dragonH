@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family adds identity provider options and enhanced monitoring capabilities](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transfer-family-identity-provider-enhanced-monitoring/)
 - [Amazon AppStream 2.0 Introduces Linux Application Streaming](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-linux-application-streaming/)
 - [Amazon Translate Now Extends Support for Active Custom Translation to all language pair combinations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-active-custom-translation-language-combinations/)
 - [AWS IoT Greengrass now supports Microsoft Windows devices](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-greengrass-support-windows-devices/)
@@ -67,7 +68,6 @@
 - [AWS Amplify announces the ability to override Amplify-generated resources using CDK](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-override-amplify-generated-resources-cdk/)
 - [AWS Step Functions Synchronous Express Workflows now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-step-functions-synchronous-express-aws-private-link/)
 - [AWS IoT Device Management is now supported on AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-Iot-device-management-supported-aws-cloudformation/)
-- [AWS Launch Wizard now supports Microsoft SQL Server deployments using Amazon EBS gp3, io2, and io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-launch-wizard-supports-microsoft-sql-server-deployments-amazon-eps-gp3-io2-io2-block-express-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

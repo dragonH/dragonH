@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service now supports agentless replication](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-application-migration-agentless-replication/)
 - [Amazon Kendra releases AWS Single Sign-On integration for secure search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-aws-single-sign-on-integration-secure-search/)
 - [AWS Glue FindMatches now provides match scores](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-provides-match-scores/)
 - [AWS Glue FindMatches now supports incrementally matching new data against an existing dataset](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-new-data-existing-dataset/)
@@ -67,7 +68,6 @@
 - [Amazon MQ now supports RabbitMQ version 3.8.23](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-mq-supports-rabbitmq-version-3-8-23/)
 - [AWS Amplify announces the ability to add custom AWS resources to Amplify-created backends using CDK and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-custom-aws-resources-amplify-created-backends-cdk-cloudformation/)
 - [Observe SAP HANA databases with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-insights-sap-hana-databases/)
-- [AWS Network Firewall is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-soc-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

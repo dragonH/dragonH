@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases AWS Single Sign-On integration for secure search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-aws-single-sign-on-integration-secure-search/)
 - [AWS Glue FindMatches now provides match scores](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-provides-match-scores/)
 - [AWS Glue FindMatches now supports incrementally matching new data against an existing dataset](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-new-data-existing-dataset/)
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-image-moderation-accuracy/)
@@ -67,7 +68,6 @@
 - [AWS Amplify announces the ability to add custom AWS resources to Amplify-created backends using CDK and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-custom-aws-resources-amplify-created-backends-cdk-cloudformation/)
 - [Observe SAP HANA databases with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-insights-sap-hana-databases/)
 - [AWS Network Firewall is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-soc-compliant/)
-- [Amazon Location Service adds new capabilities to help customers better filter geographical search results](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-location-service-filter-geographical-search-results/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

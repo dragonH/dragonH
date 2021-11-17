@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall achieves ISO compliance](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-iso-compliance/)
+- [Amazon Rekognition text detection supports 7 new languages and improves accuracy](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-text-detection-7-new-languages-accuracy/)
+- [Amazon CloudWatch Container Insights adds console support for visualizing workload issues and problems via Amazon CloudWatch Application Insights problems](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-container-insights-console-amazon-cloudwatch-application-insights-problems/)
 - [Visualize all your Kubernetes clusters in one place with Amazon EKS Connector, now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/visualize-kubernetes-clusters-one-place-amazon-eks-connector-generally-available/)
 - [AWS Application Migration Service now supports agentless replication](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-application-migration-agentless-replication/)
 - [Amazon Kendra releases AWS Single Sign-On integration for secure search](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kendra-aws-single-sign-on-integration-secure-search/)
@@ -65,9 +68,6 @@
 - [AWS Glue FindMatches now supports incrementally matching new data against an existing dataset](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-new-data-existing-dataset/)
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-image-moderation-accuracy/)
 - [New and improved Amazon Athena console is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/new-improved-amazon-athena-console-generally-available/)
-- [AWS Snow Family now supports external NTP server configuration](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-supports-external-ntp-server-configuration/)
-- [Amazon MQ now supports RabbitMQ version 3.8.23](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-mq-supports-rabbitmq-version-3-8-23/)
-- [AWS Amplify announces the ability to add custom AWS resources to Amplify-created backends using CDK and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-custom-aws-resources-amplify-created-backends-cdk-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

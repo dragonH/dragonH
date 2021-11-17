@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue FindMatches now provides match scores](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-provides-match-scores/)
 - [AWS Glue FindMatches now supports incrementally matching new data against an existing dataset](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-new-data-existing-dataset/)
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-image-moderation-accuracy/)
 - [New and improved Amazon Athena console is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/new-improved-amazon-athena-console-generally-available/)
@@ -67,7 +68,6 @@
 - [Observe SAP HANA databases with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-insights-sap-hana-databases/)
 - [AWS Network Firewall is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-soc-compliant/)
 - [Amazon Location Service adds new capabilities to help customers better filter geographical search results](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-location-service-filter-geographical-search-results/)
-- [AWS Transfer Family adds identity provider options and enhanced monitoring capabilities](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transfer-family-identity-provider-enhanced-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

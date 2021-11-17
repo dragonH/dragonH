@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue FindMatches now supports incrementally matching new data against an existing dataset](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-findmatches-new-data-existing-dataset/)
+- [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-image-moderation-accuracy/)
 - [New and improved Amazon Athena console is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/new-improved-amazon-athena-console-generally-available/)
 - [AWS Snow Family now supports external NTP server configuration](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-supports-external-ntp-server-configuration/)
 - [Amazon MQ now supports RabbitMQ version 3.8.23](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-mq-supports-rabbitmq-version-3-8-23/)
@@ -66,8 +68,6 @@
 - [AWS Network Firewall is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-soc-compliant/)
 - [Amazon Location Service adds new capabilities to help customers better filter geographical search results](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-location-service-filter-geographical-search-results/)
 - [AWS Transfer Family adds identity provider options and enhanced monitoring capabilities](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-transfer-family-identity-provider-enhanced-monitoring/)
-- [Amazon AppStream 2.0 Introduces Linux Application Streaming](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-linux-application-streaming/)
-- [Amazon Translate Now Extends Support for Active Custom Translation to all language pair combinations](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-translate-active-custom-translation-language-combinations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS now supports publishing batches of up to 10 messages in a single API request](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-supports-publishing-batches-messages-single-api-request/)
 - [Amazon Polly Launches a new French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/)
 - [Amazon Pinpoint now supports Safari push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-safari-push-notifications/)
 - [AWS Control Tower now supports nested organizational units](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-supports-nested-organizational-units/)
@@ -67,7 +68,6 @@
 - [FreeRTOS cellular LTE-M interface library is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/11/freertos-cellular-lte-m-interface-library-generally-available/)
 - [Announcing general availability of AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-elastic-disaster-recovery-available/)
 - [AWS Marketplace launches upfront contract pricing for Amazon Machine Images &lpar;AMI&rpar; and Container products](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-marketplace-contract-pricing-amazon-machine-images-ami-container-products/)
-- [Amazon Virtual Private Cloud now supports Bring your own IP &lpar;BYOIP&rpar; in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-byoip-seven-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

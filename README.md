@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces the launch of AWS AppConfig Feature Flags in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-appconfig-feature-flags-preview/)
+- [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
+- [Amazon Cognito launches new console experience for user pools](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cognito-console-user-pools/)
+- [Amazon Aurora supports MySQL 8.0](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-aurora-mysql-8-0/)
+- [Amazon Redshift simplifies the use of other AWS services by introducing the default IAM role](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-default-iam-role/)
+- [Amazon EMR Studio is now available in Europe &lpar;Paris&rpar; and South America &lpar;Sao Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-studio-extended-regions/)
+- [AWS Identity and Access Management now makes it more efficient to troubleshoot access denied errors in AWS](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-identity-access-management-efficient-troubleshoot-error/)
 - [Bottlerocket is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/bottlerocket-now-available-aws-govcloud-us-regions/)
 - [The dashboard feature is now generally available in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/dashboard-feature-generally-available-aws-audit-manager/)
-- [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
 - [Amazon Interactive Video Service adds high resolution metrics for monitoring stream health](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-interactive-video-service-high-resolution-metrics/)
-- [AWS Service Management Connector for ServiceNow supports AWS Systems Manager Change Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-service-management-connector-servicenow-supports-aws-systems-manager-change-manager/)
-- [AWS Service Management Connector makes installation easier through ServiceNow Guided Setup](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-service-management-connector-installation-easier-servicenow-guided-setup/)
-- [Amazon SNS now supports publishing batches of up to 10 messages in a single API request](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sns-supports-publishing-batches-messages-single-api-request/)
-- [Amazon Polly Launches a new French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/)
-- [Amazon Pinpoint now supports Safari push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-safari-push-notifications/)
-- [AWS Control Tower now supports nested organizational units](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-supports-nested-organizational-units/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

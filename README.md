@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly Launches a new French Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-polly-text-to-speech-voice-french/)
+- [Amazon Pinpoint now supports Safari push notifications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-safari-push-notifications/)
 - [AWS Control Tower now supports nested organizational units](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-supports-nested-organizational-units/)
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now offers - M6g - instances for Mumbai and San Francisco Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-opensearch-service-amazon-elasticsearch-service-offers-m6g-instances-new-regions/)
 - [AWS Application Migration Service is now available in the Africa &lpar;Cape Town&rpar;, Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Middle East &lpar;Bahrain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-application-migration-service-available-new-regions/)
@@ -66,8 +68,6 @@
 - [Announcing general availability of AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-elastic-disaster-recovery-available/)
 - [AWS Marketplace launches upfront contract pricing for Amazon Machine Images &lpar;AMI&rpar; and Container products](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-marketplace-contract-pricing-amazon-machine-images-ami-container-products/)
 - [Amazon Virtual Private Cloud now supports Bring your own IP &lpar;BYOIP&rpar; in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-byoip-seven-regions/)
-- [AWS Network Firewall achieves ISO compliance](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-network-firewall-iso-compliance/)
-- [Amazon Rekognition text detection supports 7 new languages and improves accuracy](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-text-detection-7-new-languages-accuracy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

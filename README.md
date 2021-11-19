@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces the launch of AWS AppConfig Feature Flags in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-appconfig-feature-flags-preview/)
+- [Contact Lens for Amazon Connect is now FedRAMP Moderate compliant and has also added support for Asia Pacific &lpar;Seoul&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-contact-lens-fedramp-compliant/)
+- [AWS Glue DataBrew now allows customers to create data quality rules to define and validate their business requirements](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-data-quality-rules-validate-requirements/)
+- [AWS Glue DataBrew now supports custom SQL statements to retrieve data from Amazon Redshift and Snowflake](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/)
+- [AWS Glue DataBrew now provides detection and data masking transformations for Personally Identifiable Information &lpar;PII&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-detection-data-masking-transformations/)
+- [AWS Glue DataBrew announces native console integration with Amazon AppFlow](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-native-console-integration-amazon-appflow/)
 - [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
-- [Amazon Cognito launches new console experience for user pools](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cognito-console-user-pools/)
-- [Amazon Aurora supports MySQL 8.0](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-aurora-mysql-8-0/)
-- [Amazon Redshift simplifies the use of other AWS services by introducing the default IAM role](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-default-iam-role/)
-- [Amazon EMR Studio is now available in Europe &lpar;Paris&rpar; and South America &lpar;Sao Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-studio-extended-regions/)
-- [AWS Identity and Access Management now makes it more efficient to troubleshoot access denied errors in AWS](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-identity-access-management-efficient-troubleshoot-error/)
-- [Bottlerocket is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/bottlerocket-now-available-aws-govcloud-us-regions/)
-- [The dashboard feature is now generally available in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/dashboard-feature-generally-available-aws-audit-manager/)
-- [Amazon Interactive Video Service adds high resolution metrics for monitoring stream health](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-interactive-video-service-high-resolution-metrics/)
+- [Amazon S3 on Outposts now delivers strong consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-outposts-strong-consistency/)
+- [Amazon Monitron launches Web App](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-monitron-web-app/)
+- [Amazon Rekognition reduces pricing of all Image APIs by up to 38%](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-pricing-apis/)
+- [AWS announces the launch of AWS AppConfig Feature Flags in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-appconfig-feature-flags-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

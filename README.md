@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports anomaly detection on metric math expressions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-supports-anomaly-detection-metric-math-expressions/)
+- [Amazon SageMaker Model Registry now supports cross account registration of model versions](https://aws.amazon.com/about-aws/whats-new/2021/11/Amazon-sagemaker-model-registry-registration/)
 - [Contact Lens for Amazon Connect is now FedRAMP Moderate compliant and has also added support for Asia Pacific &lpar;Seoul&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-contact-lens-fedramp-compliant/)
 - [AWS Glue DataBrew now allows customers to create data quality rules to define and validate their business requirements](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-data-quality-rules-validate-requirements/)
 - [AWS Glue DataBrew now supports custom SQL statements to retrieve data from Amazon Redshift and Snowflake](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-glue-databrew-custom-sql-retrieve-data-amazon-redshift-snowflake/)
@@ -66,8 +68,6 @@
 - [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
 - [Amazon S3 on Outposts now delivers strong consistency automatically for all applications](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-outposts-strong-consistency/)
 - [Amazon Monitron launches Web App](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-monitron-web-app/)
-- [Amazon Rekognition reduces pricing of all Image APIs by up to 38%](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rekognition-pricing-apis/)
-- [AWS announces the launch of AWS AppConfig Feature Flags in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-appconfig-feature-flags-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

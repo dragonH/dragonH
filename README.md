@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [You can now submit multiple operations for simultaneous execution with AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudformation-stacksets-operations-execution/)
+- [General Availability of Syne Tune, an open-source library  for distributed hyperparameter and neural architecture optimization](https://aws.amazon.com/about-aws/whats-new/2021/11/syne-tune-hyperparameter-neural-architecture-optimization/)
+- [AWS Database Migration Service now supports parallel load for partitioned data to S3](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-database-migration-parallel-load-partitioned-data/)
 - [AWS Amplify UI launches new Authenticator component for React, Angular, and Vue](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-authenticator-ui-component-react-angular-vue/)
 - [Amazon Forecast announces new APIs that create up to 40% more accurate forecasts and provide explainability](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-forecast-api-forecasts-explainability/)
 - [Amazon Linux 2 AMI is now available with kernel 5.10](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-linux-2-ami-kernel-5-10/)
 - [AWS Lambda now supports mTLS Authentication for Amazon MSK as an event source](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-supports-mtls-authentication-amazon-msk-event-source/)
+- [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
 - [AWS App Mesh now supports ARM64-based Envoy Images](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app-mesh-arm64-envoy-images/)
 - [Amazon Pinpoint now includes an SMS simulator feature](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-pinpoint-sms-simulator-feature/)
-- [Amazon CloudWatch now supports anomaly detection on metric math expressions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-supports-anomaly-detection-metric-math-expressions/)
-- [Amazon SageMaker Model Registry now supports cross account registration of model versions](https://aws.amazon.com/about-aws/whats-new/2021/11/Amazon-sagemaker-model-registry-registration/)
-- [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
-- [Contact Lens for Amazon Connect is now FedRAMP Moderate compliant and has also added support for Asia Pacific &lpar;Seoul&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-contact-lens-fedramp-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

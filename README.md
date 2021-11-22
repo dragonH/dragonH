@@ -67,7 +67,7 @@
 - [AWS IoT Core now supports Multi-Account Registration certificates on IoT Credential Provider endpoint](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-multi-account-certificates-iot-provider-endpoint/)
 - [You can now submit multiple operations for simultaneous execution with AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudformation-stacksets-operations-execution/)
 - [General Availability of Syne Tune, an open-source library  for distributed hyperparameter and neural architecture optimization](https://aws.amazon.com/about-aws/whats-new/2021/11/syne-tune-hyperparameter-neural-architecture-optimization/)
-- [AWS Database Migration Service now supports parallel load for partitioned data to S3](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-database-migration-parallel-load-partitioned-data/)
+- [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

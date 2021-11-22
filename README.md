@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge cross-Region support now expands to more Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/)
+- [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-bare-metal-instances/)
+- [Amazon ElastiCache now supports T4g Graviton2-based instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-supports-t4g-graviton2-based-instances/)
+- [Introducing Amazon EC2 R6i instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/)
+- [Amazon RDS Proxy now supports PostgreSQL major version 12](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-proxy-supports-postgresql-major-version-12/)
+- [Amazon MemoryDB for Redis now supports AWS Graviton2-based T4g instances and a 2-month Free Trial](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-graviton2-t4g-instances-free-trial/)
 - [Amazon EC2 Mac Instances now support macOS Monterey](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-macos-monterey/)
 - [Amazon EC2 Mac Instances now support hot attach and detach of EBS volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-hot-attach-detach-ebs-volumes/)
 - [Announcing preview of Amazon Linux 2022](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-amazon-linux-2022/)
 - [Amazon ECS-optimized AMI is now available as an open-source project](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-optimized-ami-now-open-source/)
-- [Amazon Connect now supports custom contact attributes as search filters on the contact search page](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-custom-contact-attributes-search-page/)
-- [You can now import your AWS CloudFormation stacks into a CloudFormation stack set](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudformation-import-stack-set/)
-- [Amazon RDS on AWS Outposts now supports backups on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-backups-aws-outposts/)
-- [Amazon S3 Storage Lens metrics now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/)
-- [Amazon CloudWatch Lambda Insights now supports AWS Lambda functions powered by AWS Graviton2 Processor &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-lambda-insights-functions-graviton2/)
-- [Announcing preview for write queries with Amazon Redshift  Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-write-queries-amazon-redshift-concurrency-scaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

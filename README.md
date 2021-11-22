@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena adds console support for visualizing AWS Step Functions workflows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/)
 - [Introducing spelling support in Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-spelling-support/)
 - [Amazon AppStream 2.0 launches Elastic fleets, a serverless fleet type](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-launches-elastic-fleets-serverless-fleet-type/)
 - [Amazon Connect CTI Adapter for Salesforce supports ML-based voice authentication](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-ml-voice-authentication/)
@@ -67,7 +68,6 @@
 - [AWS IoT Core now supports Multi-Account Registration certificates on IoT Credential Provider endpoint](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-multi-account-certificates-iot-provider-endpoint/)
 - [You can now submit multiple operations for simultaneous execution with AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudformation-stacksets-operations-execution/)
 - [General Availability of Syne Tune, an open-source library  for distributed hyperparameter and neural architecture optimization](https://aws.amazon.com/about-aws/whats-new/2021/11/syne-tune-hyperparameter-neural-architecture-optimization/)
-- [Amazon ECS for Windows now supports ECS Exec](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-windows-supports-ecs-exec/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

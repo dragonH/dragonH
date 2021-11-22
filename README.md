@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing preview for write queries with Amazon Redshift  Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-write-queries-amazon-redshift-concurrency-scaling/)
+- [AWS Database Migration Service now supports Kafka multi-topic](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-database-migration-kafka-multi-topic/)
 - [You can now securely connect to your Amazon MSK clusters over the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/securely-connect-amazon-msk-clusters-over-internet/)
 - [Announcing AWS Graviton2-based instances for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-graviton2-based-instances-amazon-neptune/)
 - [Amazon Athena adds console support for visualizing AWS Step Functions workflows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/)
@@ -66,8 +68,6 @@
 - [Amazon Connect CTI Adapter for Salesforce supports ML-based voice authentication](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-ml-voice-authentication/)
 - [Amazon Athena accelerates queries with AWS Glue Data Catalog partition indexes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/)
 - [Amazon Connect CTI Adapter for Salesforce supports Wisdom to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-wisdom-customer-issues/)
-- [AWS Amplify announces the ability to export Amplify backends as CDK stacks to integrate into CDK-based pipelines](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-export-amplify-backends-cdk-stacks-integrate-cdk-based-pipelines/)
-- [AWS IoT Core now supports Multi-Account Registration certificates on IoT Credential Provider endpoint](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-multi-account-certificates-iot-provider-endpoint/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

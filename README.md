@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Mac Instances now support macOS Monterey](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-macos-monterey/)
+- [Amazon EC2 Mac Instances now support hot attach and detach of EBS volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-hot-attach-detach-ebs-volumes/)
+- [Announcing preview of Amazon Linux 2022](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-amazon-linux-2022/)
+- [Amazon ECS-optimized AMI is now available as an open-source project](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-optimized-ami-now-open-source/)
+- [Amazon Connect now supports custom contact attributes as search filters on the contact search page](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-custom-contact-attributes-search-page/)
+- [You can now import your AWS CloudFormation stacks into a CloudFormation stack set](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-cloudformation-import-stack-set/)
+- [Amazon RDS on AWS Outposts now supports backups on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-backups-aws-outposts/)
+- [Amazon S3 Storage Lens metrics now available in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-storage-lens-metrics-cloudwatch/)
+- [Amazon CloudWatch Lambda Insights now supports AWS Lambda functions powered by AWS Graviton2 Processor &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-lambda-insights-functions-graviton2/)
 - [Announcing preview for write queries with Amazon Redshift  Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-write-queries-amazon-redshift-concurrency-scaling/)
-- [AWS Database Migration Service now supports Kafka multi-topic](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-database-migration-kafka-multi-topic/)
-- [You can now securely connect to your Amazon MSK clusters over the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/securely-connect-amazon-msk-clusters-over-internet/)
-- [Announcing AWS Graviton2-based instances for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-graviton2-based-instances-amazon-neptune/)
-- [Amazon Athena adds console support for visualizing AWS Step Functions workflows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-console-step-functions-workflows/)
-- [Introducing spelling support in Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-spelling-support/)
-- [Amazon AppStream 2.0 launches Elastic fleets, a serverless fleet type](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-appstream-2-0-launches-elastic-fleets-serverless-fleet-type/)
-- [Amazon Connect CTI Adapter for Salesforce supports ML-based voice authentication](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-ml-voice-authentication/)
-- [Amazon Athena accelerates queries with AWS Glue Data Catalog partition indexes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-queries-aws-glue-data-catalog-partition-indexes/)
-- [Amazon Connect CTI Adapter for Salesforce supports Wisdom to quickly solve customer issues](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-cti-adapter-salesforce-wisdom-customer-issues/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

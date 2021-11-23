@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift launches RA3 Reserved Instance migration feature](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-ra3-reserved-instance-migration/)
 - [AWS Lambda launches the metric OffsetLag for Amazon MSK, Self-managed Kafka, AmazonMQ, and RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/)
 - [Amazon EventBridge cross-Region support now expands to more Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/)
 - [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-bare-metal-instances/)
@@ -67,7 +68,6 @@
 - [Amazon MemoryDB for Redis now supports AWS Graviton2-based T4g instances and a 2-month Free Trial](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-graviton2-t4g-instances-free-trial/)
 - [Amazon EC2 Mac Instances now support macOS Monterey](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-macos-monterey/)
 - [Amazon EC2 Mac Instances now support hot attach and detach of EBS volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-hot-attach-detach-ebs-volumes/)
-- [Announcing preview of Amazon Linux 2022](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-amazon-linux-2022/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

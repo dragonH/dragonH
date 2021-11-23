@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify expands its Notifications category to include in-app messaging &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-notifications-in-app-messaging/)
+- [AWS Single Sign-On now provides one-click login to Amazon EC2 instances running Microsoft Windows](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-single-sign-on-one-click-login-ec2-windows/)
+- [Amazon Chime SDK meetings live transcription now supports content identification and custom language models](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-live-transcription-identification-language-models/)
+- [Amazon Connect Customer Profiles now stores contact history at no charge to help personalize customer service](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-customer-profiles-contact-history/)
+- [AWS Lambda now supports partial batch response for SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-partial-batch-response-sqs-event-source/)
+- [Amazon S3 Lifecycle further optimizes storage cost savings with new actions and filters](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-lifecycle-storage-cost-savings/)
+- [Amazon Voice Focus as an Amazon Machine Image](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-voice-focus-machine-image/)
+- [Announcing Amazon Redshift cross-region data sharing &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-region-data-sharing/)
 - [Announcing usability improvements in the navigation bar of the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-management-console-navigation-bar-improvements/)
 - [AQUA for Amazon Redshift launches in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aqua-amazon-redshift-two-additional-regions/)
-- [Amazon SQS Announces Server-Side Encryption with Amazon SQS-managed encryption keys &lpar;SSE-SQS&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sqs-server-side-encryption-keys-sse/)
-- [New Multi-AZ deployment option for Amazon RDS for PostgreSQL and for MySQL; increased read capacity, lower and more consistent write transaction latency, and shorter failover time &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/multi-az-deployment-amazon-rds-postgre-sql/)
-- [Application Load Balancer and Network Load Balancer end-to-end IPv6 support](https://aws.amazon.com/about-aws/whats-new/2021/11/application-load-balancer-network-load-balancer-end-to-end-ipv6-support/)
-- [Amazon ECS announces a new integration with AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-new-integration-aws-distro-opentelemetry/)
-- [Amazon ElastiCache for Redis adds support for Redis 6.2](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-redis-support-redis-6-2/)
-- [Announcing AWS Fargate for Amazon ECS Powered by AWS Graviton2 Processors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fargate-amazon-ecs-aws-graviton2-processors/)
-- [Amazon Transcribe now supports automatic language identification for streaming transcriptions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-transcribe-language-identification-streaming-transcription/)
-- [Announcing data tiering for Amazon ElastiCache for Redis](https://aws.amazon.com/about-aws/whats-new/2021/11/data-tiering-amazon-elasticache-redis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

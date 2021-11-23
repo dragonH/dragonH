@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports contact flow modules to simplify repeatable logic](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connects-supports-contact-flow-modules-repeatable-logic/)
+- [Amazon Connect launches APIs to archive and delete contact flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-apis-archive-delete-contact-flows/)
 - [Amazon Redshift launches RA3 Reserved Instance migration feature](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-ra3-reserved-instance-migration/)
 - [AWS Lambda launches the metric OffsetLag for Amazon MSK, Self-managed Kafka, AmazonMQ, and RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/)
 - [Amazon EventBridge cross-Region support now expands to more Regions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-eventbridge-cross-region-expands/)
@@ -66,8 +68,6 @@
 - [Introducing Amazon EC2 R6i instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-r6i-instances/)
 - [Amazon RDS Proxy now supports PostgreSQL major version 12](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-rds-proxy-supports-postgresql-major-version-12/)
 - [Amazon MemoryDB for Redis now supports AWS Graviton2-based T4g instances and a 2-month Free Trial](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-memorydb-redis-aws-graviton2-t4g-instances-free-trial/)
-- [Amazon EC2 Mac Instances now support macOS Monterey](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-macos-monterey/)
-- [Amazon EC2 Mac Instances now support hot attach and detach of EBS volumes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-mac-instances-support-hot-attach-detach-ebs-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

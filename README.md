@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing usability improvements in the navigation bar of the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-management-console-navigation-bar-improvements/)
+- [AQUA for Amazon Redshift launches in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2021/11/aqua-amazon-redshift-two-additional-regions/)
+- [Amazon SQS Announces Server-Side Encryption with Amazon SQS-managed encryption keys &lpar;SSE-SQS&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sqs-server-side-encryption-keys-sse/)
+- [New Multi-AZ deployment option for Amazon RDS for PostgreSQL and for MySQL; increased read capacity, lower and more consistent write transaction latency, and shorter failover time &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/multi-az-deployment-amazon-rds-postgre-sql/)
+- [Application Load Balancer and Network Load Balancer end-to-end IPv6 support](https://aws.amazon.com/about-aws/whats-new/2021/11/application-load-balancer-network-load-balancer-end-to-end-ipv6-support/)
 - [Amazon ECS announces a new integration with AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecs-new-integration-aws-distro-opentelemetry/)
 - [Amazon ElastiCache for Redis adds support for Redis 6.2](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-elasticache-redis-support-redis-6-2/)
 - [Announcing AWS Fargate for Amazon ECS Powered by AWS Graviton2 Processors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-fargate-amazon-ecs-aws-graviton2-processors/)
 - [Amazon Transcribe now supports automatic language identification for streaming transcriptions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-transcribe-language-identification-streaming-transcription/)
 - [Announcing data tiering for Amazon ElastiCache for Redis](https://aws.amazon.com/about-aws/whats-new/2021/11/data-tiering-amazon-elasticache-redis/)
-- [New data mangement APIs for Amazon FinSpace](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-finspace-data-management-apis/)
-- [Amazon Connect now supports contact flow modules to simplify repeatable logic](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connects-supports-contact-flow-modules-repeatable-logic/)
-- [Amazon Connect launches APIs to archive and delete contact flows](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-apis-archive-delete-contact-flows/)
-- [Amazon Redshift launches RA3 Reserved Instance migration feature](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-ra3-reserved-instance-migration/)
-- [AWS Lambda launches the metric OffsetLag for Amazon MSK, Self-managed Kafka, AmazonMQ, and RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-metric-offsetlag-amazon-msk-kafka-mq/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

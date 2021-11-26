@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App2Container now supports Jenkins for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app2C-container-jenkins-setting-up-ci-cd-pipeline/)
 - [AWS Single Sign-On is now in scope for AWS SOC reporting](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-single-sign-on-is-now-in-scope-for-aws-soc-reporting/)
 - [AWS Lambda now supports event filtering for Amazon SQS, Amazon DynamoDB, and Amazon Kinesis as event sources](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/)
 - [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Auto Scaling Now Supports Predictive Scaling with Custom Metrics](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-auto-scaling-predictive-scaling-custom-metrics/)
 - [AWS WAF adds support for Captcha](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-waf-captcha-support/)
 - [AWS launches NAT64 and DNS64 capabilities to enable communication between IPv6 and IPv4 services](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-nat64-dns64-communication-ipv6-ipv4-services/)
-- [Amazon Redshift announces native support for spatial GEOGRAPHY datatype](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-spatial-geography-datatype/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

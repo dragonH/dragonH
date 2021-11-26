@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports event filtering for Amazon SQS, Amazon DynamoDB, and Amazon Kinesis as event sources](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/)
 - [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
 - [Announcing new performance enhancements for Amazon Redshift data sharing](https://aws.amazon.com/about-aws/whats-new/2021/11/enhancements-amazon-redshift/)
 - [Amazon Managed Grafana adds support for Amazon Athena and Amazon Redshift data sources and Geomap visualization](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/)
@@ -67,7 +68,6 @@
 - [AWS launches NAT64 and DNS64 capabilities to enable communication between IPv6 and IPv4 services](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-nat64-dns64-communication-ipv6-ipv4-services/)
 - [Amazon Redshift announces native support for spatial GEOGRAPHY datatype](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-spatial-geography-datatype/)
 - [The Amazon Chime SDK now offers enhanced echo reduction](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-echo-reduction/)
-- [Announcing AWS PrivateLink Support for Amazon Translate](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-privatelink-amazon-translate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

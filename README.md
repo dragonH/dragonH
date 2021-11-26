@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Systems Manager Fleet Manager now provides console based access to Windows instances with enhanced security protocols](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-systems-manager-console-windows-instances-security/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; customers can now create IPv6-only subnets and EC2 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-virtual-private-cloud-ipv6-subnets-ec2-instances/)
-- [Now prepare data and build models using TensorFlow 2.6 and PyTorch 1.8 in Amazon SageMaker Studio Notebooks](https://aws.amazon.com/about-aws/whats-new/2021/11/data-models-tensorflow-2-6-pytorch-1-8-amazon-sagemaker-studio-notebooks/)
-- [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports checking for blue/green deployment when making configuration changes.](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-opensearch-blue-green-deployment-configuration-changes/)
-- [New features for AWS IoT Core Device Advisor](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-core-device-advisor-new-features/)
-- [Amazon Lex launches support for Amazon Polly Neural Text-To-Speech &lpar;NTTS&rpar; voices for speech interactions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-lex-amazon-polly-neural-text-to-speech-ntts-voices/)
-- [AWS Amplify announces a redesigned, more extensible GraphQL Transformer for creating app backends quickly](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-redesigned-graphql-transformer-app-backends/)
-- [AWS Amplify expands its Notifications category to include in-app messaging &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-amplify-notifications-in-app-messaging/)
-- [AWS Single Sign-On now provides one-click login to Amazon EC2 instances running Microsoft Windows](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-single-sign-on-one-click-login-ec2-windows/)
-- [Amazon Chime SDK meetings live transcription now supports content identification and custom language models](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-live-transcription-identification-language-models/)
+- [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
+- [Announcing new performance enhancements for Amazon Redshift data sharing](https://aws.amazon.com/about-aws/whats-new/2021/11/enhancements-amazon-redshift/)
+- [Amazon Managed Grafana adds support for Amazon Athena and Amazon Redshift data sources and Geomap visualization](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/)
+- [EC2 Image Builder enables sharing Amazon Machine Images &lpar;AMIs&rpar; with AWS Organizations and Organization Units](https://aws.amazon.com/about-aws/whats-new/2021/11/ec2-image-builder-sharing-amis-aws-organization-units/)
+- [Amazon EC2 Auto Scaling Now Supports Predictive Scaling with Custom Metrics](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-auto-scaling-predictive-scaling-custom-metrics/)
+- [AWS WAF adds support for Captcha](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-waf-captcha-support/)
+- [AWS launches NAT64 and DNS64 capabilities to enable communication between IPv6 and IPv4 services](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-nat64-dns64-communication-ipv6-ipv4-services/)
+- [Amazon Redshift announces native support for spatial GEOGRAPHY datatype](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-spatial-geography-datatype/)
+- [The Amazon Chime SDK now offers enhanced echo reduction](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-chime-sdk-echo-reduction/)
+- [Announcing AWS PrivateLink Support for Amazon Translate](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-privatelink-amazon-translate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

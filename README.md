@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeGuru Reviewer now detects hardcoded secrets in Java and Python repositories](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-codeguru-reviewer-hardcoded-secrets-java-python/)
+- [Amazon BugBust announces the First Annual AWS BugBust re:Invent challenge](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-bugbust-aws-reinvent-challenge/)
+- [Introducing intelligent user segmentation in Amazon Personalize, helping you to run more effective marketing campaigns](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-personalize-intelligent-user-segmentation/)
+- [AWS Chatbot now supports management of AWS resources in Slack &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-chatbot-management-resources-slack/)
+- [Introducing recommenders optimized to deliver personalized experiences for Media &amp; Entertainment and Retail with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/11/recommenders-optimized-personalized-media-entertainment-retail-amazon-personalize/)
+- [Announcing AWS IoT RoboRunner, Now Available in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-roborunner-available-preview/)
 - [AWS App2Container now supports Jenkins for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app2C-container-jenkins-setting-up-ci-cd-pipeline/)
 - [AWS Single Sign-On is now in scope for AWS SOC reporting](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-single-sign-on-is-now-in-scope-for-aws-soc-reporting/)
 - [AWS Lambda now supports event filtering for Amazon SQS, Amazon DynamoDB, and Amazon Kinesis as event sources](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/)
 - [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
-- [Announcing new performance enhancements for Amazon Redshift data sharing](https://aws.amazon.com/about-aws/whats-new/2021/11/enhancements-amazon-redshift/)
-- [Amazon Managed Grafana adds support for Amazon Athena and Amazon Redshift data sources and Geomap visualization](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-grafana-athena-redshift-data-sources-geomap/)
-- [EC2 Image Builder enables sharing Amazon Machine Images &lpar;AMIs&rpar; with AWS Organizations and Organization Units](https://aws.amazon.com/about-aws/whats-new/2021/11/ec2-image-builder-sharing-amis-aws-organization-units/)
-- [Amazon EC2 Auto Scaling Now Supports Predictive Scaling with Custom Metrics](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-auto-scaling-predictive-scaling-custom-metrics/)
-- [AWS WAF adds support for Captcha](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-waf-captcha-support/)
-- [AWS launches NAT64 and DNS64 capabilities to enable communication between IPv6 and IPv4 services](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-nat64-dns64-communication-ipv6-ipv4-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

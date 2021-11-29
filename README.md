@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing recommenders optimized to deliver personalized experiences for Media &amp; Entertainment and Retail with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/11/recommenders-optimized-personalized-media-entertainment-retail-amazon-personalize/)
-- [Amazon CodeGuru Reviewer now detects hardcoded secrets in Java and Python repositories](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-codeguru-reviewer-hardcoded-secrets-java-python/)
-- [Amazon BugBust announces the First Annual AWS BugBust re:Invent challenge](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-bugbust-aws-reinvent-challenge/)
-- [Introducing intelligent user segmentation in Amazon Personalize, helping you to run more effective marketing campaigns](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-personalize-intelligent-user-segmentation/)
-- [AWS Chatbot now supports management of AWS resources in Slack &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-chatbot-management-resources-slack/)
-- [Announcing AWS IoT RoboRunner, Now Available in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-roborunner-available-preview/)
-- [AWS App2Container now supports Jenkins for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app2C-container-jenkins-setting-up-ci-cd-pipeline/)
-- [AWS Single Sign-On is now in scope for AWS SOC reporting](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-single-sign-on-is-now-in-scope-for-aws-soc-reporting/)
-- [AWS Lambda now supports event filtering for Amazon SQS, Amazon DynamoDB, and Amazon Kinesis as event sources](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lambda-event-filtering-amazon-sqs-dynamodb-kinesis-sources/)
-- [AWS price reduction for data transfers out to the internet](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-price-reduction-data-transfers-internet/)
+- [AWS Ground Station launches expanded support for Software Defined Radios in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ground-station-software-defined-radios-preview/)
+- [Introducing Amazon EC2 M6a instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/)
+- [AWS IoT SiteWise now supports hot and cold storage tiers for industrial data](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-sitewise-storage-tiers-industrial-data/)
+- [AWS Compute Optimizer now offers enhanced infrastructure metrics, a new feature for EC2 recommendations](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-compute-optimizer-enhanced-infrastructure-metrics-ec2-instances/)
+- [AWS Compute Optimizer now offers resource efficiency metrics](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-compute-optimizer-resource-efficiency-metrics/)
+- [Introducing Amazon CloudWatch Evidently for feature experimentation and safer launches](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-evidently-feature-experimentation-safer-launches/)
+- [AWS AI for data analytics &lpar;AIDA&rpar; partner solutions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ai-data-analytics-aida-partner-solutions/)
+- [Introducing AWS Migration Hub Refactor Spaces - Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-migration-hub-refactor-spaces/)
+- [Amazon ECR announces pull through cache repositories](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecr-cache-repositories/)
+- [Securely manage your AWS IoT Greengrass edge devices using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/securely-manage-aws-iot-greengrass-edge-devices-aws-systems-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing recommenders optimized to deliver personalized experiences for Media &amp; Entertainment and Retail with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/11/recommenders-optimized-personalized-media-entertainment-retail-amazon-personalize/)
 - [Amazon CodeGuru Reviewer now detects hardcoded secrets in Java and Python repositories](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-codeguru-reviewer-hardcoded-secrets-java-python/)
 - [Amazon BugBust announces the First Annual AWS BugBust re:Invent challenge](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-bugbust-aws-reinvent-challenge/)
 - [Introducing intelligent user segmentation in Amazon Personalize, helping you to run more effective marketing campaigns](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-personalize-intelligent-user-segmentation/)
 - [AWS Chatbot now supports management of AWS resources in Slack &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-chatbot-management-resources-slack/)
-- [Introducing recommenders optimized to deliver personalized experiences for Media &amp; Entertainment and Retail with Amazon Personalize](https://aws.amazon.com/about-aws/whats-new/2021/11/recommenders-optimized-personalized-media-entertainment-retail-amazon-personalize/)
 - [Announcing AWS IoT RoboRunner, Now Available in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-roborunner-available-preview/)
 - [AWS App2Container now supports Jenkins for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-app2C-container-jenkins-setting-up-ci-cd-pipeline/)
 - [AWS Single Sign-On is now in scope for AWS SOC reporting](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-single-sign-on-is-now-in-scope-for-aws-soc-reporting/)

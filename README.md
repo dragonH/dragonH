@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Customize your AWS Well-Architected Review using Custom Lenses](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-well-architected-tool-custom-lenses/)
 - [Introducing Amazon EC2 M6a instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-m6a-instances/)
 - [AWS Ground Station launches expanded support for Software Defined Radios in Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ground-station-software-defined-radios-preview/)
 - [AWS AI for data analytics &lpar;AIDA&rpar; partner solutions](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-ai-data-analytics-aida-partner-solutions/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon CloudWatch Evidently for feature experimentation and safer launches](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-cloudwatch-evidently-feature-experimentation-safer-launches/)
 - [Introducing AWS Migration Hub Refactor Spaces - Preview](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-migration-hub-refactor-spaces/)
 - [Amazon ECR announces pull through cache repositories](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ecr-cache-repositories/)
-- [Securely manage your AWS IoT Greengrass edge devices using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2021/11/securely-manage-aws-iot-greengrass-edge-devices-aws-systems-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS IoT FleetWise &lpar;Preview&rpar;, a new service for transferring vehicle data to the cloud more efficiently](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-fleetwise-transferring-vehicle-data-cloud/)
+- [Announcing AWS IoT TwinMaker &lpar;Preview&rpar;, a service that makes it easier to build digital twins](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-twinmaker-build-digital-twins/)
+- [Introducing Amazon SageMaker Canvas - a visual, no-code interface to build accurate machine learning models](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-canvas-machine-learning-models/)
+- [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-c7g-instances-aws-graviton3-processors/)
 - [AWS Lake Formation support Governed Tables, storage optimization and row-level security](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-governed-tables-storage-security/)
 - [Introducing Amazon EMR Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/)
 - [Announcing Amazon Kinesis Data Streams On-Demand](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/)
 - [Announcing Amazon Redshift Serverless &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-serverless/)
 - [Introducing Amazon MSK Serverless in public preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-msk-serverless-public-preview/)
 - [Announcing preview of AWS Private 5G](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-aws-private-5g/)
-- [Announcing preview of Amazon EC2 Trn1 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-trn1-instances/)
-- [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-c7g-instances-aws-graviton3-processors/)
-- [Introducing AWS Mainframe Modernization](https://aws.amazon.com/about-aws/whats-new/2021/11/introducing-aws-mainframe-modernization/)
-- [Recover from accidental deletions of your snapshots using Recycle Bin](https://aws.amazon.com/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

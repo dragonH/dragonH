@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena now supports new Lake Formation fine-grained security and reliable table features](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-lake-formation-security-table-features/)
 - [New connectivity software, AWS IoT ExpressLink, accelerates IoT development &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-expresslink-development/)
 - [AWS Outposts is Now Available in Two Smaller Form Factors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-outposts-form-factors/)
 - [Deny services and operations for AWS Regions of your choice with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2021/11/deny-services-operations-aws-regions-control-tower/)
@@ -67,7 +68,6 @@
 - [Announcing AWS IoT FleetWise &lpar;Preview&rpar;, a new service for transferring vehicle data to the cloud more efficiently](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-fleetwise-transferring-vehicle-data-cloud/)
 - [Announcing AWS IoT TwinMaker &lpar;Preview&rpar;, a service that makes it easier to build digital twins](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-twinmaker-build-digital-twins/)
 - [Introducing Amazon EMR Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/)
-- [Introducing Amazon SageMaker Canvas - a visual, no-code interface to build accurate machine learning models](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-canvas-machine-learning-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

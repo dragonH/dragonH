@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New connectivity software, AWS IoT ExpressLink, accelerates IoT development &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-expresslink-development/)
+- [AWS Outposts is Now Available in Two Smaller Form Factors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-outposts-form-factors/)
+- [Deny services and operations for AWS Regions of your choice with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2021/11/deny-services-operations-aws-regions-control-tower/)
+- [Contact Lens for Amazon Connect announces new machine-learning powered call summarization](https://aws.amazon.com/about-aws/whats-new/2021/11/contact-lens-amazon-connect-machine-learning-powered-call-summarization/)
+- [Announcing new Amazon EC2 Im4gn and Is4gen instances powered by AWS Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/)
+- [AWS Control Tower now provides controls to meet data residency requirements](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-controls-data-residency-requirements/)
 - [Announcing AWS IoT FleetWise &lpar;Preview&rpar;, a new service for transferring vehicle data to the cloud more efficiently](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-fleetwise-transferring-vehicle-data-cloud/)
 - [Announcing AWS IoT TwinMaker &lpar;Preview&rpar;, a service that makes it easier to build digital twins](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-twinmaker-build-digital-twins/)
-- [Introducing Amazon SageMaker Canvas - a visual, no-code interface to build accurate machine learning models](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-canvas-machine-learning-models/)
-- [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-c7g-instances-aws-graviton3-processors/)
-- [AWS Lake Formation support Governed Tables, storage optimization and row-level security](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-governed-tables-storage-security/)
 - [Introducing Amazon EMR Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/)
-- [Announcing Amazon Kinesis Data Streams On-Demand](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/)
-- [Announcing Amazon Redshift Serverless &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-serverless/)
-- [Introducing Amazon MSK Serverless in public preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-msk-serverless-public-preview/)
-- [Announcing preview of AWS Private 5G](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-aws-private-5g/)
+- [Introducing Amazon SageMaker Canvas - a visual, no-code interface to build accurate machine learning models](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-sagemaker-canvas-machine-learning-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Recover from accidental deletions of your snapshots using Recycle Bin](https://aws.amazon.com/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/)
 - [Announcing Amazon Athena ACID transactions, powered by Apache Iceberg &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-acid-apache-iceberg/)
 - [Introducing the AWS Migration and Modernization Competency](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-migration-modernization-competency/)
 - [Amazon EBS Snapshots introduces a new tier, Amazon EBS Snapshots Archive, to reduce the cost of long-term retention of EBS Snapshots by up to 75%](https://aws.amazon.com/about-aws/whats-new/2021/11/retention-ebs-snapshots-75-amazon-archive-tier/)
@@ -65,7 +66,6 @@
 - [Amazon S3 Event Notifications with Amazon EventBridge help you build advanced serverless applications faster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/)
 - [AWS Control Tower introduces Terraform account provisioning and customization](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-terraform/)
 - [AWS Karpenter v0.5 Now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-karpenter-v0-5/)
-- [Recover from accidental deletions of your snapshots using Recycle Bin](https://aws.amazon.com/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/)
 - [Amazon S3 adds new S3 Event Notifications for S3 Lifecycle, S3 Intelligent-Tiering, object tags, and object access control lists](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-s3-lifecycle-intelligent-tiering-object-tags-object-access-control-lists/)
 - [Announcing availability of AWS Outposts in Costa Rica, Ecuador, Morocco, Nigeria, and Vietnam](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-outposts-new-regions/)
 <!-- AWS-NEWS:END -->

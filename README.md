@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation support Governed Tables, storage optimization and row-level security](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-lake-formation-governed-tables-storage-security/)
+- [Introducing Amazon EMR Serverless in preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-emr-serverless-preview/)
+- [Announcing Amazon Kinesis Data Streams On-Demand](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-kinesis-data-streams-on-demand/)
+- [Announcing Amazon Redshift Serverless &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-redshift-serverless/)
+- [Introducing Amazon MSK Serverless in public preview](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-msk-serverless-public-preview/)
+- [Announcing preview of AWS Private 5G](https://aws.amazon.com/about-aws/whats-new/2021/11/preview-aws-private-5g/)
+- [Announcing preview of Amazon EC2 Trn1 instances](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-trn1-instances/)
+- [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-c7g-instances-aws-graviton3-processors/)
+- [Introducing AWS Mainframe Modernization](https://aws.amazon.com/about-aws/whats-new/2021/11/introducing-aws-mainframe-modernization/)
 - [Recover from accidental deletions of your snapshots using Recycle Bin](https://aws.amazon.com/about-aws/whats-new/2021/11/recover-accidental-deletions-snapshots-recycle-bin/)
-- [Amazon EBS Snapshots introduces a new tier, Amazon EBS Snapshots Archive, to reduce the cost of long-term retention of EBS Snapshots by up to 75%](https://aws.amazon.com/about-aws/whats-new/2021/11/retention-ebs-snapshots-75-amazon-archive-tier/)
-- [Announcing Amazon Athena ACID transactions, powered by Apache Iceberg &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-acid-apache-iceberg/)
-- [Introducing the AWS Migration and Modernization Competency](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-migration-modernization-competency/)
-- [Amazon Timestream now offers faster and more cost-effective time series data processing through scheduled queries, multi-measure records, and magnetic storage writes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-timestream-scheduled-queries-multi-measure-records-magnetic-storage-writes/)
-- [Amazon S3 Event Notifications with Amazon EventBridge help you build advanced serverless applications faster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/)
-- [AWS Control Tower introduces Terraform account provisioning and customization](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-terraform/)
-- [AWS Karpenter v0.5 Now Generally Available](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-karpenter-v0-5/)
-- [Amazon S3 adds new S3 Event Notifications for S3 Lifecycle, S3 Intelligent-Tiering, object tags, and object access control lists](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-s3-lifecycle-intelligent-tiering-object-tags-object-access-control-lists/)
-- [Announcing availability of AWS Outposts in Costa Rica, Ecuador, Morocco, Nigeria, and Vietnam](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-outposts-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

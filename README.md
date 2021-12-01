@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB announces the new Amazon DynamoDB Standard-Infrequent Access table class, which helps you reduce your DynamoDB costs by up to 60 percent](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-dynamodb-standard-infrequent-access-table-class/)
 - [AWS Database Migration Service now offers a new console experience, AWS DMS Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-service-aws-dms-studio/)
 - [AWS announces AWS DeepRacer Student, offering free model training, learning content, and a global autonomous racing competition exclusively for students](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-deepracer-student/)
 - [AWS Announces the AWS AI &amp; ML Scholarship Program in collaboration with Intel and Udacity to help bring diversity to the future of the AI and ML workforce](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ai-ml-scholarship-program-intel-udacity-workforce/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon Lex Automated Chatbot Designer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-automated-chatbox-designer/)
 - [Introducing Amazon SageMaker Inference Recommender](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-inference-recommender/)
 - [Amazon SageMaker Studio now enables interactive data preparation and machine learning at scale within a single universal notebook through built-in integration with Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-studio-data-notebook-integration-emr/)
-- [Introducing Amazon SageMaker Training Compiler to accelerate DL model training by up to 50%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-training-compiler-dl-model-training-50/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing the next generation of Amazon FSx for Lustre file systems](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-systems/)
-- [AWS Backup adds support for VMware workloads](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-vmware-workloads/)
-- [Introducing AWS Microservice Extractor for .NET](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-microservice-extractor-net/)
-- [Amazon Connect releases unified agent application to improve agent experience and customer interactions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-unified-agent-application/)
-- [AWS Snow Family launches offline tape data migration capability](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/)
-- [Amazon WorkSpaces introduces Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-workspaces-introduces-amazon-workspaces-web/)
-- [Announcing the new S3 Intelligent-Tiering Archive Instant Access tier - Automatically save up to 68% on storage costs](https://aws.amazon.com/about-aws/whats-new/2021/11/s3-intelligent-tiering-archive-instant-access-tier/)
 - [Amazon FSx for Lustre can now automatically update file system contents as data is deleted and moved in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/)
-- [Amazon S3 Glacier storage class is now Amazon S3 Glacier Flexible Retrieval; storage price reduced by 10% and bulk retrievals are now free](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-storage-class-amazon-s3-glacier-flexible-retrieval/)
 - [Amazon FSx for Lustre now supports linking multiple Amazon S3 buckets to a file system](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/)
+- [Amazon FSx for Lustre now supports automatically exporting file updates to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/)
+- [Amazon S3 console now reports security warnings, errors, and suggestions from IAM Access Analyzer as you author your S3 policies](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-console-warnings-errors-suggestions-iam-access-analyzer/)
+- [AWS Snow Family launches offline tape data migration capability](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/)
+- [Introducing Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-openzfs/)
+- [Amazon S3 announces a price reduction up to 31% in three storage classes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-price-reduction-storage-classes/)
+- [Announcing preview of AWS Backup for Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-amazon-s3-backup/)
+- [Announcing the next generation of Amazon FSx for Lustre file systems](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-systems/)
+- [Introducing AWS Microservice Extractor for .NET](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-microservice-extractor-net/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

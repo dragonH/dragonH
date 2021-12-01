@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon DynamoDB announces the new Amazon DynamoDB Standard-Infrequent Access table class, which helps you reduce your DynamoDB costs by up to 60 percent](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-dynamodb-standard-infrequent-access-table-class/)
-- [Introducing AWS DMS Fleet Advisor for automated discovery and analysis of database and analytics workloads &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-dms-fleet-advisor/)
-- [AWS Database Migration Service now offers a new console experience, AWS DMS Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-service-aws-dms-studio/)
-- [Announcing Amazon RDS Custom for SQL Server](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-custom-sql-server/)
-- [Announcing Amazon DevOps Guru for RDS, an ML-powered capability that automatically detects and diagnoses performance and operational issues within Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-rds-ml-powered-capability-amazon-aurora/)
-- [Announcing the new Amazon S3 Glacier Instant Retrieval storage class - the lowest cost archive storage with milliseconds retrieval](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-instant-retrieval-storage-class/)
-- [Announcing the new S3 Intelligent-Tiering Archive Instant Access tier - Automatically save up to 68% on storage costs](https://aws.amazon.com/about-aws/whats-new/2021/11/s3-intelligent-tiering-archive-instant-access-tier/)
-- [Amazon S3 Glacier storage class is now Amazon S3 Glacier Flexible Retrieval; storage price reduced by 10% and bulk retrievals are now free](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-storage-class-amazon-s3-glacier-flexible-retrieval/)
-- [Amazon S3 announces a price reduction up to 31% in three storage classes](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-price-reduction-storage-classes/)
-- [Amazon FSx for Lustre now supports automatically exporting file updates to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-updates-s3/)
+- [AWS announces AWS DeepRacer Student, offering free model training, learning content, and a global autonomous racing competition exclusively for students](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-deepracer-student/)
+- [AWS Announces the AWS AI &amp; ML Scholarship Program in collaboration with Intel and Udacity to help bring diversity to the future of the AI and ML workforce](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ai-ml-scholarship-program-intel-udacity-workforce/)
+- [AWS DeepRacer announces the 2022 Season of DeepRacer League including physical races in the Summit Circuit, LIVE virtual head-to-head racing and a dedicated Student League](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-deepracer-league-races-summit-circuit/)
+- [Amazon SageMaker Studio Lab &lpar;currently in preview&rpar;, a free, no-configuration ML service](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-studio-lab-no-configuration-ml-service/)
+- [Amazon Kendra launches Experience Builder, Search Analytics Dashboard, and Custom Document Enrichment](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-kendra-experience-builder-search-analytics-dashboard-custom-document-enrichment/)
+- [Introducing Amazon Lex Automated Chatbot Designer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-automated-chatbox-designer/)
+- [Amazon SageMaker Studio now enables interactive data preparation and machine learning at scale within a single universal notebook through built-in integration with Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-studio-data-notebook-integration-emr/)
+- [Introducing Amazon SageMaker Training Compiler to accelerate DL model training by up to 50%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-training-compiler-dl-model-training-50/)
+- [Introducing Amazon SageMaker Ground Truth Plus: Create high-quality training datasets without having to build labeling applications or manage the labeling workforce on your own](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-ground-truth-plus/)
+- [Introducing Amazon SageMaker Inference Recommender](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-inference-recommender/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

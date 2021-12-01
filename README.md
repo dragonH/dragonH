@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon S3 Event Notifications with Amazon EventBridge help you build advanced serverless applications faster](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-event-notifications-amazon-eventbridge-build-advanced-serverless-applications/)
-- [Amazon Athena now supports new Lake Formation fine-grained security and reliable table features](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-athena-lake-formation-security-table-features/)
-- [New connectivity software, AWS IoT ExpressLink, accelerates IoT development &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-expresslink-development/)
-- [AWS Outposts is Now Available in Two Smaller Form Factors](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-outposts-form-factors/)
-- [Deny services and operations for AWS Regions of your choice with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2021/11/deny-services-operations-aws-regions-control-tower/)
-- [Contact Lens for Amazon Connect announces new machine-learning powered call summarization](https://aws.amazon.com/about-aws/whats-new/2021/11/contact-lens-amazon-connect-machine-learning-powered-call-summarization/)
-- [Announcing new Amazon EC2 Im4gn and Is4gen instances powered by AWS Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-ec2-im4gn-is4gen-aws-graviton2/)
-- [AWS Control Tower now provides controls to meet data residency requirements](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-control-tower-controls-data-residency-requirements/)
-- [Announcing AWS IoT FleetWise &lpar;Preview&rpar;, a new service for transferring vehicle data to the cloud more efficiently](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-fleetwise-transferring-vehicle-data-cloud/)
-- [Announcing AWS IoT TwinMaker &lpar;Preview&rpar;, a service that makes it easier to build digital twins](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-iot-twinmaker-build-digital-twins/)
+- [Announcing the next generation of Amazon FSx for Lustre file systems](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-systems/)
+- [AWS Backup adds support for VMware workloads](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-backup-vmware-workloads/)
+- [Introducing AWS Microservice Extractor for .NET](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-microservice-extractor-net/)
+- [Amazon Connect releases unified agent application to improve agent experience and customer interactions](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-connect-unified-agent-application/)
+- [AWS Snow Family launches offline tape data migration capability](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-snow-family-offline-tape-data-migration-capability/)
+- [Amazon WorkSpaces introduces Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-workspaces-introduces-amazon-workspaces-web/)
+- [Announcing the new S3 Intelligent-Tiering Archive Instant Access tier - Automatically save up to 68% on storage costs](https://aws.amazon.com/about-aws/whats-new/2021/11/s3-intelligent-tiering-archive-instant-access-tier/)
+- [Amazon FSx for Lustre can now automatically update file system contents as data is deleted and moved in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-file-system-contents-s3/)
+- [Amazon S3 Glacier storage class is now Amazon S3 Glacier Flexible Retrieval; storage price reduced by 10% and bulk retrievals are now free](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-s3-glacier-storage-class-amazon-s3-glacier-flexible-retrieval/)
+- [Amazon FSx for Lustre now supports linking multiple Amazon S3 buckets to a file system](https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-fsx-lustre-s3-buckets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SDK for Rust &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-rust-developer-preview/)
+- [AWS SDK for Kotlin &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-kotlin-developer-preview/)
+- [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
+- [AWS announces Construct Hub general availability](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-construct-hub-availability/)
+- [AWS SDK for Swift &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-swift-developer-preview/)
+- [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
 - [Announcing Amazon EC2 M1 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-m1-mac-instances-macos/)
 - [Introducing AWS Cloud WAN Preview](https://aws.amazon.com/about-aws/whats-new/2021/12/introducing-aws-cloud-wan/)
-- [New AWS GameDay Benefits for Differentiated Partners](https://aws.amazon.com/about-aws/whats-new/2021/11/aws-gameday-benefits-differentiated-partners/)
 - [Amazon SageMaker now supports cross-account lineage tracking and multi-hop lineage querying](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sagemaker-cross-account-lineage-tracking-query/)
 - [AWS Transit Gateway introduces intra-region peering for simplified cloud operations and network connectivity](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transit-gateway-intra-region-cloud-network/)
-- [Amazon SQS Enhances Dead-letter Queue Management Experience For Standard Queues](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-sqs-dead-letter-queue-management-experience-queues/)
-- [AWS Shield Advanced introduces automatic application-layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-shield-advanced-application-layer-ddos-mitigation/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; announces Network Access Analyzer to help you easily identify unintended network access](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-vpc-network-access-analyzer/)
-- [Announcing a simplified FreeRTOS out-of-box AWS IoT connectivity experience](https://aws.amazon.com/about-aws/whats-new/2021/12/freertos-aws-iot-connectivity-experience/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; announces IP Address Manager &lpar;IPAM&rpar; to help simplify IP address management on AWS](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-virtual-private-cloud-vpc-announces-ip-address-manager-ipam/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

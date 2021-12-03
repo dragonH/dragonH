@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for VARBYTE data type](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-support-varbyte-data-type/)
+- [Amazon Redshift announces preview of Automated Materialized View](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-preview-automated-materialized-view/)
 - [AWS Database Migration Service now supports Time Travel, an improved logging mechanism](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-time-travel-logging/)
 - [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
 - [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
@@ -66,8 +68,6 @@
 - [Announcing Extended Maintenance Plan for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2021/12/extended-maintenance-plan-freertos/)
 - [Introducing AWS re:Post, a new, community-driven, questions-and-answers service](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-repost-community-question-answer-service/)
 - [New Sustainability Pillar for the AWS Well-Architected Framework](https://aws.amazon.com/about-aws/whats-new/2021/12/new-sustainability-pillar-aws-well-architected-framework/)
-- [AWS SDK for Rust &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-rust-developer-preview/)
-- [AWS SDK for Kotlin &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-kotlin-developer-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

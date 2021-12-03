@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Model Registry now supports endpoint visibility, custom metadata and model metrics](https://aws.amazon.com/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/)
+- [Announcing preview of SQL Notebooks support in Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/)
+- [AWS Lambda now logs Hyperplane Elastic Network Interface &lpar;ENI&rpar; ID in AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/)
 - [Amazon Fraud Detector is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fraud-detector-in-scope-aws-soc-reports/)
 - [Amazon Redshift announces support for VARBYTE data type](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-support-varbyte-data-type/)
 - [Amazon Redshift announces preview of Automated Materialized View](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-preview-automated-materialized-view/)
@@ -65,9 +68,6 @@
 - [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
 - [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
 - [AWS Resource Access Manager enables support for global resource types](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/)
-- [AWS and partners of the Open 3D Foundation announce the first Stable release of Open 3D Engine](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-partners-open-3d-foundation-first-stable-open-3d-engine/)
-- [Announcing Extended Maintenance Plan for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2021/12/extended-maintenance-plan-freertos/)
-- [Introducing AWS re:Post, a new, community-driven, questions-and-answers service](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-repost-community-question-answer-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

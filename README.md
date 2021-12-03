@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Fraud Detector is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fraud-detector-in-scope-aws-soc-reports/)
 - [Amazon Redshift announces support for VARBYTE data type](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-support-varbyte-data-type/)
 - [Amazon Redshift announces preview of Automated Materialized View](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-preview-automated-materialized-view/)
 - [AWS Database Migration Service now supports Time Travel, an improved logging mechanism](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-time-travel-logging/)
@@ -67,7 +68,6 @@
 - [AWS and partners of the Open 3D Foundation announce the first Stable release of Open 3D Engine](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-partners-open-3d-foundation-first-stable-open-3d-engine/)
 - [Announcing Extended Maintenance Plan for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2021/12/extended-maintenance-plan-freertos/)
 - [Introducing AWS re:Post, a new, community-driven, questions-and-answers service](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-repost-community-question-answer-service/)
-- [New Sustainability Pillar for the AWS Well-Architected Framework](https://aws.amazon.com/about-aws/whats-new/2021/12/new-sustainability-pillar-aws-well-architected-framework/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

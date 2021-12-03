@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports Time Travel, an improved logging mechanism](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-time-travel-logging/)
 - [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
 - [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
 - [AWS Resource Access Manager enables support for global resource types](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/)
@@ -67,7 +68,6 @@
 - [New Sustainability Pillar for the AWS Well-Architected Framework](https://aws.amazon.com/about-aws/whats-new/2021/12/new-sustainability-pillar-aws-well-architected-framework/)
 - [AWS SDK for Rust &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-rust-developer-preview/)
 - [AWS SDK for Kotlin &lpar;Developer Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-kotlin-developer-preview/)
-- [AWS announces Construct Hub general availability](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-construct-hub-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

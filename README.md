@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift launches RA3 self-service RI migration feature in the Amazon Redshift Console.](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-ra3-ri-migration-console/)
+- [Amazon Polly introduces Takumi, a new neural Japanese male voice](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-polly-takumi-neural-japanese-voice/)
 - [Amazon SageMaker Model Registry now supports endpoint visibility, custom metadata and model metrics](https://aws.amazon.com/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/)
 - [Announcing preview of SQL Notebooks support in Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/)
 - [AWS Lambda now logs Hyperplane Elastic Network Interface &lpar;ENI&rpar; ID in AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift announces preview of Automated Materialized View](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-preview-automated-materialized-view/)
 - [AWS Database Migration Service now supports Time Travel, an improved logging mechanism](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-time-travel-logging/)
 - [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
-- [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
-- [AWS Resource Access Manager enables support for global resource types](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-resource-access-manager-global-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

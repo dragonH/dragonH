@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Pinpoint now includes a one-time password &lpar;OTP&rpar; management feature](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-pinpoint-otp/)
 - [Amazon Redshift launches RA3 self-service RI migration feature in the Amazon Redshift Console.](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-ra3-ri-migration-console/)
 - [Amazon Polly introduces Takumi, a new neural Japanese male voice](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-polly-takumi-neural-japanese-voice/)
 - [Amazon SageMaker Model Registry now supports endpoint visibility, custom metadata and model metrics](https://aws.amazon.com/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/)
@@ -67,7 +68,6 @@
 - [Amazon Redshift announces support for VARBYTE data type](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-support-varbyte-data-type/)
 - [Amazon Redshift announces preview of Automated Materialized View](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-preview-automated-materialized-view/)
 - [AWS Database Migration Service now supports Time Travel, an improved logging mechanism](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-database-migration-time-travel-logging/)
-- [Introducing AWS Amplify Studio](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-amplify-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

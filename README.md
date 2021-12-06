@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora R6g instances, powered by AWS Graviton2 processors, are now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/)
+- [AWS AppSync now supports custom domain names for AppSync GraphQL endpoints](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-appsync-supports-custom-domain-names-appsync-graphql-endpoints/)
 - [AWS WAF adds support for CloudWatch Log and logging directly to S3 bucket](https://aws.amazon.com/about-aws/whats-new/2021/12/awf-waf-cloudwatch-log-s3-bucket/)
 - [AWS Systems Manager Fleet Manager now offers console based viewing and management of instance processes](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-fleet-console-instance-processes/)
 - [NICE EnginFrame adds AWS HPC cluster management with AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-enginframe-aws-hpc-cluster-management-parallelcluster/)
@@ -66,8 +68,6 @@
 - [Amazon Polly introduces Takumi, a new neural Japanese male voice](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-polly-takumi-neural-japanese-voice/)
 - [Amazon SageMaker Model Registry now supports endpoint visibility, custom metadata and model metrics](https://aws.amazon.com/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/)
 - [Announcing preview of SQL Notebooks support in Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/)
-- [AWS Lambda now logs Hyperplane Elastic Network Interface &lpar;ENI&rpar; ID in AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-hyperplane-eni-cloudtrail-events/)
-- [Amazon Fraud Detector is now in scope for AWS SOC Reports](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fraud-detector-in-scope-aws-soc-reports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

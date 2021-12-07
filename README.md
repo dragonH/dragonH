@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 File Gateway now supports NFS file share auditing](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/)
+- [Amazon S3 File Gateway enables administrators to force the closing of locked files](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/)
 - [Amazon Aurora R6g instances, powered by AWS Graviton2 processors, are now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/)
 - [AWS AppSync now supports custom domain names for AppSync GraphQL endpoints](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-appsync-supports-custom-domain-names-appsync-graphql-endpoints/)
 - [AWS WAF adds support for CloudWatch Log and logging directly to S3 bucket](https://aws.amazon.com/about-aws/whats-new/2021/12/awf-waf-cloudwatch-log-s3-bucket/)
 - [AWS Systems Manager Fleet Manager now offers console based viewing and management of instance processes](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-fleet-console-instance-processes/)
 - [NICE EnginFrame adds AWS HPC cluster management with AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-enginframe-aws-hpc-cluster-management-parallelcluster/)
 - [Amazon Pinpoint now includes a one-time password &lpar;OTP&rpar; management feature](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-pinpoint-otp/)
-- [Amazon Redshift launches RA3 self-service RI migration feature in the Amazon Redshift Console.](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-ra3-ri-migration-console/)
+- [Amazon Redshift launches single-node RA3.xlplus cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-ra3-ri-migration-console/)
 - [Amazon Polly introduces Takumi, a new neural Japanese male voice](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-polly-takumi-neural-japanese-voice/)
-- [Amazon SageMaker Model Registry now supports endpoint visibility, custom metadata and model metrics](https://aws.amazon.com/about-aws/whats-new/2021/12/sagemaker-model-registry-endpoint-visibility-custom-metadata-model-metrics/)
-- [Announcing preview of SQL Notebooks support in Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2021/12/sql-notebooks-amazon-redshift-query-editor-v2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

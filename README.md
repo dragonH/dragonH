@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports new minor versions 10.5.13, 10.4.22, 10.3.32, 10.2.41](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-mariadb-supports-new-minor-versions/)
 - [AWS End-of-support Migration Program &lpar;EMP&rpar; Now Supports Assisted Packaging for applications without installation media](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-end-support-emp-windows-server-packaging-applications-media/)
 - [AWS Toolkit for VS Code adds support for Amazon ECS Exec for troubleshooting Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-toolkit-vs-code-amazon-ecs-exec/)
 - [AWS Systems Manager now supports application-level cost reporting](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/)
@@ -67,7 +68,6 @@
 - [Amazon S3 File Gateway enables administrators to force the closing of locked files](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-force-closing-locked-files/)
 - [Amazon Aurora R6g instances, powered by AWS Graviton2 processors, are now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/)
 - [AWS AppSync now supports custom domain names for AppSync GraphQL endpoints](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-appsync-supports-custom-domain-names-appsync-graphql-endpoints/)
-- [AWS WAF adds support for CloudWatch Log and logging directly to S3 bucket](https://aws.amazon.com/about-aws/whats-new/2021/12/awf-waf-cloudwatch-log-s3-bucket/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

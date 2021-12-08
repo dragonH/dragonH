@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C5n instances now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c5n-instances-africa-cape-town/)
 - [Amazon DevOps Guru introduces enhanced analysis for Amazon Aurora databases and support for AWS tags as an application boundary](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-amazon-aurorad-databases-aws-tags/)
 - [AWS IoT Core now supports caching of responses returned by customer’s Custom Authorizer Lambdas when using HTTP connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-iot-core-caching-responses-custom-lambdas/)
 - [Amazon Location adds Suggestion capability](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-location-suggestion-capability/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager now supports application-level cost reporting](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/)
 - [AWS Systems Manager announces new features for Session Manager to support maximum session timeout and annotate reason for starting the session](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/)
 - [AWS Glue streaming ETL jobs now integrates with the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/)
-- [Amazon S3 File Gateway now supports NFS file share auditing](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-file-gateway-nfs-file-share-auditing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

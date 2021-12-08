@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS End-of-support Migration Program &lpar;EMP&rpar; Now Supports Assisted Packaging for applications without installation media](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-end-support-emp-windows-server-packaging-applications-media/)
+- [AWS Toolkit for VS Code adds support for Amazon ECS Exec for troubleshooting Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-toolkit-vs-code-amazon-ecs-exec/)
 - [AWS Systems Manager now supports application-level cost reporting](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/)
 - [AWS Systems Manager announces new features for Session Manager to support maximum session timeout and annotate reason for starting the session](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/)
 - [AWS Glue streaming ETL jobs now integrates with the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora R6g instances, powered by AWS Graviton2 processors, are now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar;, and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-aurora-r6g-instances-aws-graviton2-processors-available-new-regions/)
 - [AWS AppSync now supports custom domain names for AppSync GraphQL endpoints](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-appsync-supports-custom-domain-names-appsync-graphql-endpoints/)
 - [AWS WAF adds support for CloudWatch Log and logging directly to S3 bucket](https://aws.amazon.com/about-aws/whats-new/2021/12/awf-waf-cloudwatch-log-s3-bucket/)
-- [AWS Systems Manager Fleet Manager now offers console based viewing and management of instance processes](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-fleet-console-instance-processes/)
-- [NICE EnginFrame adds AWS HPC cluster management with AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-enginframe-aws-hpc-cluster-management-parallelcluster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

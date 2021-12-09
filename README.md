@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EKS add-ons now supports EBS CSI driver](https://aws.amazon.com/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/)
+- [AWS App2Container&lpar;A2C&rpar; now supports containerization of .NET Core / .NET 5 applications](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-a2c-containerization-net-core-applications/)
 - [Amazon Redshift launches single-node RA3.xlplus cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-single-node-ra3-xlplus-cluster/)
 - [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)
 - [AWS Launch Wizard now provides guided deployment of Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-amazon-eks/)
@@ -66,8 +68,6 @@
 - [Amazon Location Service adds metadata help customers reduce costs](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-location-service-metadata-reduce-costs/)
 - [Right-size permissions for more roles in your account using IAM Access Analyzer to generate 50 fine-grained IAM policies per day](https://aws.amazon.com/about-aws/whats-new/2021/12/right-size-permissions-iam-access-analyzer/)
 - [Amazon EC2 C5n instances now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c5n-instances-africa-cape-town/)
-- [Amazon DevOps Guru introduces enhanced analysis for Amazon Aurora databases and support for AWS tags as an application boundary](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-amazon-aurorad-databases-aws-tags/)
-- [AWS IoT Core now supports caching of responses returned by customer’s Custom Authorizer Lambdas when using HTTP connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-iot-core-caching-responses-custom-lambdas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift launches single-node RA3.xlplus cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-single-node-ra3-xlplus-cluster/)
 - [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)
 - [AWS Launch Wizard now provides guided deployment of Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-amazon-eks/)
 - [AWS Announces General Availability of AWS Wavelength in Germany](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-general-availability-aws-wavelength-germany/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C5n instances now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c5n-instances-africa-cape-town/)
 - [Amazon DevOps Guru introduces enhanced analysis for Amazon Aurora databases and support for AWS tags as an application boundary](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-amazon-aurorad-databases-aws-tags/)
 - [AWS IoT Core now supports caching of responses returned by customer’s Custom Authorizer Lambdas when using HTTP connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-iot-core-caching-responses-custom-lambdas/)
-- [Amazon Location adds Suggestion capability](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-location-suggestion-capability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

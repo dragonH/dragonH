@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [EKS add-ons now supports EBS CSI driver](https://aws.amazon.com/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/)
+- [EBS CSI driver now available in EKS add-ons in preview](https://aws.amazon.com/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/)
 - [AWS App2Container&lpar;A2C&rpar; now supports containerization of .NET Core / .NET 5 applications](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-a2c-containerization-net-core-applications/)
 - [Amazon Redshift launches single-node RA3.xlplus cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-single-node-ra3-xlplus-cluster/)
 - [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)

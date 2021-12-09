@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)
+- [AWS Launch Wizard now provides guided deployment of Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-amazon-eks/)
+- [AWS Announces General Availability of AWS Wavelength in Germany](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-general-availability-aws-wavelength-germany/)
+- [AWS Launch Wizard now provides guided deployment of Remote Desktop Gateway](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-remote-desktop-gateway/)
+- [Amazon Location Service adds metadata help customers reduce costs](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-location-service-metadata-reduce-costs/)
+- [Right-size permissions for more roles in your account using IAM Access Analyzer to generate 50 fine-grained IAM policies per day](https://aws.amazon.com/about-aws/whats-new/2021/12/right-size-permissions-iam-access-analyzer/)
 - [Amazon EC2 C5n instances now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c5n-instances-africa-cape-town/)
 - [Amazon DevOps Guru introduces enhanced analysis for Amazon Aurora databases and support for AWS tags as an application boundary](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-devops-guru-amazon-aurorad-databases-aws-tags/)
 - [AWS IoT Core now supports caching of responses returned by customer’s Custom Authorizer Lambdas when using HTTP connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-iot-core-caching-responses-custom-lambdas/)
 - [Amazon Location adds Suggestion capability](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-location-suggestion-capability/)
-- [Amazon RDS for MariaDB supports new minor versions 10.5.13, 10.4.22, 10.3.32, 10.2.41](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-mariadb-supports-new-minor-versions/)
-- [AWS End-of-support Migration Program &lpar;EMP&rpar; Now Supports Assisted Packaging for applications without installation media](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-end-support-emp-windows-server-packaging-applications-media/)
-- [AWS Toolkit for VS Code adds support for Amazon ECS Exec for troubleshooting Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-toolkit-vs-code-amazon-ecs-exec/)
-- [AWS Systems Manager now supports application-level cost reporting](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-application-level-cost-reporting/)
-- [AWS Systems Manager announces new features for Session Manager to support maximum session timeout and annotate reason for starting the session](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-systems-manager-features-session-timeout-annotate-reason/)
-- [AWS Glue streaming ETL jobs now integrates with the AWS Glue Schema Registry](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-glue-streaming-etl-jobs-schema-registry/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

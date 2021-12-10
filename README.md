@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex launches support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-aws-cloudformation/)
 - [Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/)
 - [Amazon Route 53 updates API actions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/)
 - [AWS Network Firewall now supports AWS Managed Rules](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-network-firewall-aws-managed-rules/)
@@ -67,7 +68,6 @@
 - [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
 - [AWS App2Container &lpar;A2C&rpar; now supports containerization of .NET running on Linux](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-a2c-containerization-net-core-applications/)
 - [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)
-- [Amazon Redshift launches single-node RA3.xlplus cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-single-node-ra3-xlplus-cluster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

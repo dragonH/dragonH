@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/)
+- [Amazon Route 53 updates API actions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/)
 - [AWS Network Firewall now supports AWS Managed Rules](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-network-firewall-aws-managed-rules/)
 - [You can now enable data compression for capacity pool storage in Amazon FSx for NetApp ONTAP file systems](https://aws.amazon.com/about-aws/whats-new/2021/12/data-compression-amazon-fsx-netapp-ontap-file-systems/)
 - [Amazon Kinesis Data Analytics is now available in the Asia Pacific &lpar;Osaka&rpar; and  Africa &lpar;Cape Town&rpar; regions.](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-kinesis-data-analytics-available-regions/)
 - [EBS CSI driver now available in EKS add-ons in preview](https://aws.amazon.com/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/)
 - [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
-- [AWS App2Container&lpar;A2C&rpar; now supports containerization of .NET Core / .NET 5 applications](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-a2c-containerization-net-core-applications/)
-- [Amazon Redshift launches single-node RA3.xlplus cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-single-node-ra3-xlplus-cluster/)
+- [AWS App2Container &lpar;A2C&rpar; now supports containerization of .NET running on Linux](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-a2c-containerization-net-core-applications/)
 - [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)
-- [AWS Launch Wizard now provides guided deployment of Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-launch-wizard-guided-deployment-amazon-eks/)
-- [AWS Announces General Availability of AWS Wavelength in Germany](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-general-availability-aws-wavelength-germany/)
+- [Amazon Redshift launches single-node RA3.xlplus cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-redshift-single-node-ra3-xlplus-cluster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

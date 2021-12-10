@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FinSpace is now in scope for SOC 1, SOC 2, and SOC 3 compliance](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-finspace-soc-compliant/)
 - [Amazon Lex launches support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-aws-cloudformation/)
 - [Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/)
 - [Amazon Route 53 updates API actions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/)
@@ -67,7 +68,6 @@
 - [EBS CSI driver now available in EKS add-ons in preview](https://aws.amazon.com/about-aws/whats-new/2021/12/eks-add-ons-ebs-csi-driver/)
 - [AWS Cloud Development Kit &lpar;AWS CDK&rpar; v2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cloud-development-kit-cdk-generally-available/)
 - [AWS App2Container &lpar;A2C&rpar; now supports containerization of .NET running on Linux](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-a2c-containerization-net-core-applications/)
-- [Amazon Comprehend Medical adds support for SNOMED CT and reduces pricing across all APIs by up to 90%](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-comprehend-medical-snomed-ct-reduces-pricing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

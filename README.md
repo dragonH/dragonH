@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FinSpace now provides Quick Setup with pre-configured data catalog, sample data, and improved data loading](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-finspace-quick-setup-data-catalog-improved-data-loading/)
 - [Amazon Lookout for Vision now supports visual inspection of product defects at the edge](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lookout-vision-visual-inspection-product-defects-edge/)
 - [Amazon EMR now supports using multiple custom AMIs when you mix AWS Graviton2-based instances with non-Graviton2 instances in a single EMR cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-emr-custom-amis-aws-graviton2-emr-cluster/)
 - [Amazon FSx for NetApp ONTAP now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/)
@@ -67,7 +68,6 @@
 - [Amazon Route 53 updates API actions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-route-53-updates-api-actions/)
 - [AWS Network Firewall now supports AWS Managed Rules](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-network-firewall-aws-managed-rules/)
 - [You can now enable data compression for capacity pool storage in Amazon FSx for NetApp ONTAP file systems](https://aws.amazon.com/about-aws/whats-new/2021/12/data-compression-amazon-fsx-netapp-ontap-file-systems/)
-- [Amazon Kinesis Data Analytics is now available in the Asia Pacific &lpar;Osaka&rpar; and  Africa &lpar;Cape Town&rpar; regions.](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-kinesis-data-analytics-available-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

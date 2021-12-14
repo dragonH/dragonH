@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Nimble Studio adds new features to support Linux, Usage Based Licensing, and Los Angeles Local Zone](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-nimble-studio-support-linux-usage-based-licensing-los-angeles-local-zone/)
 - [Amazon EC2 C6i instances are now available in 10 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c6i-instances-10-additional-regions/)
 - [Amazon EC2 M6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-m6i-instances-regions/)
 - [Amazon EC2 R6i instances are now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-r6i-instances-8-regions/)
@@ -67,7 +68,6 @@
 - [Amazon FSx for NetApp ONTAP now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/)
 - [Amazon FinSpace is now in scope for SOC 1, SOC 2, and SOC 3 compliance](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-finspace-soc-compliant/)
 - [Amazon Lex launches support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-aws-cloudformation/)
-- [Amazon FSx for NetApp ONTAP reduces minimum file system throughput capacity to 128 MB/s](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-reduces-file-system-capacity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

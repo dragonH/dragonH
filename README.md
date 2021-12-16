@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex launches support for Portuguese, Brazilian Portuguese, and Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-launches-support-new-languages/)
 - [AWS Direct Connect announces two new locations in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-direct-connect-announces-new-locations-indonesia/)
 - [Amazon Nimble Studio adds new features to support Linux, Usage Based Licensing, and Los Angeles Local Zone](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-nimble-studio-support-linux-usage-based-licensing-los-angeles-local-zone/)
 - [Amazon EC2 C6i instances are now available in 10 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c6i-instances-10-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Lookout for Vision now supports visual inspection of product defects at the edge](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lookout-vision-visual-inspection-product-defects-edge/)
 - [Amazon EMR now supports using multiple custom AMIs when you mix AWS Graviton2-based instances with non-Graviton2 instances in a single EMR cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-emr-custom-amis-aws-graviton2-emr-cluster/)
 - [Amazon FSx for NetApp ONTAP now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-fsx-netapp-ontap-aws-cloudformation/)
-- [Amazon FinSpace is now in scope for SOC 1, SOC 2, and SOC 3 compliance](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-finspace-soc-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync can now copy data to and from Amazon FSx for Lustre](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/)
+- [Amazon Chime SDK media capture pipelines supports Amazon S3 server side encryption with AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-media-capture-pipelines-s3-server-side-encryption-key-management/)
 - [Amazon Translate announces profanity masking](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-translate-profanity-masking/)
 - [Amazon Connect launches AWS CloudFormation support for contact flow and contact flow module resources](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-aws-cloudformation-contact-flow-module-resources/)
 - [Amazon Detective simplifies account management with the support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-detective-account-management-support-aws-organizations/)
@@ -66,8 +68,6 @@
 - [AWS Direct Connect announces two new locations in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-direct-connect-announces-new-locations-indonesia/)
 - [Amazon Nimble Studio adds new features to support Linux, Usage Based Licensing, and Los Angeles Local Zone](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-nimble-studio-support-linux-usage-based-licensing-los-angeles-local-zone/)
 - [Amazon EC2 C6i instances are now available in 10 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c6i-instances-10-additional-regions/)
-- [Amazon EC2 M6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-m6i-instances-regions/)
-- [Amazon EC2 R6i instances are now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-r6i-instances-8-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

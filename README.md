@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective simplifies account management with the support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-detective-account-management-support-aws-organizations/)
 - [AWS Ground Station Launches a New Antenna Location in Punta Arenas in Preview](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ground-station-antenna-location-punta-arenas-preview/)
 - [Amazon Lex launches support for Portuguese, Brazilian Portuguese, and Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-launches-support-new-languages/)
 - [AWS Direct Connect announces two new locations in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-direct-connect-announces-new-locations-indonesia/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 R6i instances are now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-r6i-instances-8-regions/)
 - [Amazon FinSpace now provides Quick Setup with pre-configured data catalog, sample data, and improved data loading](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-finspace-quick-setup-data-catalog-improved-data-loading/)
 - [Amazon Lookout for Vision now supports visual inspection of product defects at the edge](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lookout-vision-visual-inspection-product-defects-edge/)
-- [Amazon EMR now supports using multiple custom AMIs when you mix AWS Graviton2-based instances with non-Graviton2 instances in a single EMR cluster](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-emr-custom-amis-aws-graviton2-emr-cluster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

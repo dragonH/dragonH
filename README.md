@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate announces profanity masking](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-translate-profanity-masking/)
 - [Amazon Connect launches AWS CloudFormation support for contact flow and contact flow module resources](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-aws-cloudformation-contact-flow-module-resources/)
 - [Amazon Detective simplifies account management with the support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-detective-account-management-support-aws-organizations/)
 - [AWS Ground Station Launches a New Antenna Location in Punta Arenas in Preview](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ground-station-antenna-location-punta-arenas-preview/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C6i instances are now available in 10 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c6i-instances-10-additional-regions/)
 - [Amazon EC2 M6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-m6i-instances-regions/)
 - [Amazon EC2 R6i instances are now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-r6i-instances-8-regions/)
-- [Amazon FinSpace now provides Quick Setup with pre-configured data catalog, sample data, and improved data loading](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-finspace-quick-setup-data-catalog-improved-data-loading/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

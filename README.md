@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles now supports pre-configured connectors from Segment and Shopify](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-profiles-connectors-segment-shopify/)
+- [AWS Transfer Family is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transfer-family-fedramp-compliant/)
+- [Porting Assistant for .NET adds support for .NET 6 and conversion of ASP.NET Web Forms applications to ASP.NET Core Blazor](https://aws.amazon.com/about-aws/whats-new/2021/12/porting-assistant-net-net-6-asp-net-web-forms-applications-asp-net-core-blazor/)
 - [AWS Well-Architected Tool adds four new Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-well-architected-tool-trusted-advisor-checks/)
 - [AWS Trusted Advisor adds three optimization checks for Microsoft SQL Server on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-trusted-advisor-optimization-microsoft-sql-ec2/)
 - [AWS DataSync can now copy data to and from Amazon FSx for Lustre](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/)
@@ -65,9 +68,6 @@
 - [Amazon Translate announces profanity masking](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-translate-profanity-masking/)
 - [Amazon Connect launches AWS CloudFormation support for contact flow and contact flow module resources](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-aws-cloudformation-contact-flow-module-resources/)
 - [Amazon Detective simplifies account management with the support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-detective-account-management-support-aws-organizations/)
-- [AWS Ground Station Launches a New Antenna Location in Punta Arenas in Preview](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ground-station-antenna-location-punta-arenas-preview/)
-- [Amazon Lex launches support for Portuguese, Brazilian Portuguese, and Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-launches-support-new-languages/)
-- [AWS Direct Connect announces two new locations in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-direct-connect-announces-new-locations-indonesia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

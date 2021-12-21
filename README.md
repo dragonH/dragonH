@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Well-Architected Tool adds four new Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-well-architected-tool-trusted-advisor-checks/)
+- [AWS Trusted Advisor adds three optimization checks for Microsoft SQL Server on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-trusted-advisor-optimization-microsoft-sql-ec2/)
 - [AWS DataSync can now copy data to and from Amazon FSx for Lustre](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/)
 - [Amazon Chime SDK media capture pipelines supports Amazon S3 server side encryption with AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-media-capture-pipelines-s3-server-side-encryption-key-management/)
 - [Amazon Translate announces profanity masking](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-translate-profanity-masking/)
@@ -66,8 +68,6 @@
 - [AWS Ground Station Launches a New Antenna Location in Punta Arenas in Preview](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-ground-station-antenna-location-punta-arenas-preview/)
 - [Amazon Lex launches support for Portuguese, Brazilian Portuguese, and Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-lex-launches-support-new-languages/)
 - [AWS Direct Connect announces two new locations in Indonesia](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-direct-connect-announces-new-locations-indonesia/)
-- [Amazon Nimble Studio adds new features to support Linux, Usage Based Licensing, and Los Angeles Local Zone](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-nimble-studio-support-linux-usage-based-licensing-los-angeles-local-zone/)
-- [Amazon EC2 C6i instances are now available in 10 additional regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-ec2-c6i-instances-10-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

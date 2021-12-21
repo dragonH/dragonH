@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE DCV releases web client SDK 1.0.4 with multiple connection support](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-dcv-web-sdk-1-0-4-multiple-connection-support/)
+- [NICE DCV releases version 2021.3 with DCV Connection Gateway](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-dcv-version-2021-3-dcv-connection-gateway/)
 - [Amazon Connect Customer Profiles now supports pre-configured connectors from Segment and Shopify](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-profiles-connectors-segment-shopify/)
 - [AWS Transfer Family is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transfer-family-fedramp-compliant/)
 - [Porting Assistant for .NET adds support for .NET 6 and conversion of ASP.NET Web Forms applications to ASP.NET Core Blazor](https://aws.amazon.com/about-aws/whats-new/2021/12/porting-assistant-net-net-6-asp-net-web-forms-applications-asp-net-core-blazor/)
@@ -66,8 +68,6 @@
 - [AWS DataSync can now copy data to and from Amazon FSx for Lustre](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-datasync-copy-amazon-fsx-lustre/)
 - [Amazon Chime SDK media capture pipelines supports Amazon S3 server side encryption with AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-media-capture-pipelines-s3-server-side-encryption-key-management/)
 - [Amazon Translate announces profanity masking](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-translate-profanity-masking/)
-- [Amazon Connect launches AWS CloudFormation support for contact flow and contact flow module resources](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-aws-cloudformation-contact-flow-module-resources/)
-- [Amazon Detective simplifies account management with the support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-detective-account-management-support-aws-organizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 on Outposts launches in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-outposts-aws-govcloud-us/)
 - [AWS Lambda now supports Internet Protocol Version 6 &lpar;IPv6&rpar; endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
 - [Support for Fujitsu QoS protocol now available in AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/12/fujitsu-qos-protocol-aws-elemental-mediaconnect/)
 - [Amazon Chime SDK now supports stereo audio](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-stereo-audio/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer Profiles is now PCI compliant and in scope for SOC 1 and SOC 2](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-pci-compliant-soc/)
 - [Amazon RDS for Oracle now supports Oracle Connection Manager &lpar;CMAN&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-oracle-connection-manager-cman/)
 - [EC2 Image Builder adds console support for custom image creation from on-premise images](https://aws.amazon.com/about-aws/whats-new/2021/12/ec2-image-builder-console-custom-image-creation-on-premise-images/)
-- [NICE DCV releases web client SDK 1.0.4 with multiple connection support](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-dcv-web-sdk-1-0-4-multiple-connection-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports Internet Protocol Version 6 &lpar;IPv6&rpar; endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
+- [Support for Fujitsu QoS protocol now available in AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/12/fujitsu-qos-protocol-aws-elemental-mediaconnect/)
+- [Amazon Chime SDK now supports stereo audio](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-stereo-audio/)
+- [AWS Cost Management now supports hourly granularity in Savings Plans Utilization and Coverage reports](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cost-management-hourly-granularity-savings-reports/)
+- [Amazon MSK adds support for Apache Kafka version 2.6.3](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-apache-support-kafka-2-6-3/)
 - [Amazon MSK adds support for Apache Kafka version 2.7.2](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-support-apache-kafka-version-2-7-2/)
 - [Amazon Connect Customer Profiles is now PCI compliant and in scope for SOC 1 and SOC 2](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-pci-compliant-soc/)
 - [Amazon RDS for Oracle now supports Oracle Connection Manager &lpar;CMAN&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-oracle-connection-manager-cman/)
 - [EC2 Image Builder adds console support for custom image creation from on-premise images](https://aws.amazon.com/about-aws/whats-new/2021/12/ec2-image-builder-console-custom-image-creation-on-premise-images/)
 - [NICE DCV releases web client SDK 1.0.4 with multiple connection support](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-dcv-web-sdk-1-0-4-multiple-connection-support/)
-- [NICE DCV releases version 2021.3 with DCV Connection Gateway](https://aws.amazon.com/about-aws/whats-new/2021/12/nice-dcv-version-2021-3-dcv-connection-gateway/)
-- [Amazon Connect Customer Profiles now supports pre-configured connectors from Segment and Shopify](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-profiles-connectors-segment-shopify/)
-- [AWS Transfer Family is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-transfer-family-fedramp-compliant/)
-- [Porting Assistant for .NET adds support for .NET 6 and conversion of ASP.NET Web Forms applications to ASP.NET Core Blazor](https://aws.amazon.com/about-aws/whats-new/2021/12/porting-assistant-net-net-6-asp-net-web-forms-applications-asp-net-core-blazor/)
-- [AWS Well-Architected Tool adds four new Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-well-architected-tool-trusted-advisor-checks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Secrets Manager now automatically enables SSL connections when rotating database secrets](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-secrets-manager-enables-ssl-connections-rotating-database/)
+- [Amazon Connect Chat user interface now supports browser notifications for your customers](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-chat-user-interface-browser-notifications-customers/)
 - [Amazon S3 on Outposts launches in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-outposts-aws-govcloud-us/)
 - [AWS Lambda now supports Internet Protocol Version 6 &lpar;IPv6&rpar; endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
 - [Support for Fujitsu QoS protocol now available in AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/12/fujitsu-qos-protocol-aws-elemental-mediaconnect/)
@@ -66,8 +68,6 @@
 - [Amazon MSK adds support for Apache Kafka version 2.6.3](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-apache-support-kafka-2-6-3/)
 - [Amazon MSK adds support for Apache Kafka version 2.7.2](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-msk-support-apache-kafka-version-2-7-2/)
 - [Amazon Connect Customer Profiles is now PCI compliant and in scope for SOC 1 and SOC 2](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-pci-compliant-soc/)
-- [Amazon RDS for Oracle now supports Oracle Connection Manager &lpar;CMAN&rpar;](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-rds-oracle-connection-manager-cman/)
-- [EC2 Image Builder adds console support for custom image creation from on-premise images](https://aws.amazon.com/about-aws/whats-new/2021/12/ec2-image-builder-console-custom-image-creation-on-premise-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

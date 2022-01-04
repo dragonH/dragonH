@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp; Replication 11A on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/)
 - [ACM Private CA Kubernetes cert-manager plugin is production ready](https://aws.amazon.com/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; announces support for Hyperledger Fabric v2.2](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/)
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports OpenSearch version 1.1](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-supports-version-1-1/)
@@ -67,7 +68,6 @@
 - [AWS Resource Groups and Tag Editor are now available in the Asia Pacific &lpar;Jakarta&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resource-groups-tag-editor-jakarta/)
 - [AWS Console Mobile Application adds support for Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-console-mobile-application-asia-pacific-jakarta-region/)
 - [Amazon Lex launches support for Catalan](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-catalan/)
-- [Introducing Autoscaling in AWS Glue jobs &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/autoscaling-aws-glue-jobs-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

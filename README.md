@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [ACM Private CA Kubernetes cert-manager plugin is production ready](https://aws.amazon.com/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/)
+- [Amazon Managed Blockchain &lpar;AMB&rpar; announces support for Hyperledger Fabric v2.2](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/)
+- [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports OpenSearch version 1.1](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-supports-version-1-1/)
 - [Amazon EMR on EKS releases Custom Image Validation Tool to simplify testing of your customized docker container images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/)
 - [Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/)
 - [Amazon SageMaker JumpStart adds LightGBM and CatBoost Models for Tabular Data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-lightgbm-catboost-tabular/)
@@ -65,9 +68,6 @@
 - [AWS Console Mobile Application adds support for Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-console-mobile-application-asia-pacific-jakarta-region/)
 - [Amazon Lex launches support for Catalan](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-catalan/)
 - [Introducing Autoscaling in AWS Glue jobs &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/autoscaling-aws-glue-jobs-preview/)
-- [AWS announces phone number enrichments for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-phone-number-enrichments-amazon-fraud-detector-models/)
-- [AWS Secrets Manager now automatically enables SSL connections when rotating database secrets](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-secrets-manager-enables-ssl-connections-rotating-database/)
-- [Amazon Connect Chat user interface now supports browser notifications for your customers](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-chat-user-interface-browser-notifications-customers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

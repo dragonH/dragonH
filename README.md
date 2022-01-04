@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Console Mobile Application adds support for Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-console-mobile-application-asia-pacific-jakarta-region/)
 - [Amazon Lex launches support for Catalan](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-catalan/)
 - [Introducing Autoscaling in AWS Glue jobs &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/autoscaling-aws-glue-jobs-preview/)
 - [AWS announces phone number enrichments for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-phone-number-enrichments-amazon-fraud-detector-models/)
@@ -67,7 +68,6 @@
 - [AWS Lambda now supports Internet Protocol Version 6 &lpar;IPv6&rpar; endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-lambda-ipv6-endpoints-inbound-connections/)
 - [Support for Fujitsu QoS protocol now available in AWS Elemental MediaConnect](https://aws.amazon.com/about-aws/whats-new/2021/12/fujitsu-qos-protocol-aws-elemental-mediaconnect/)
 - [Amazon Chime SDK now supports stereo audio](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-chime-sdk-stereo-audio/)
-- [AWS Cost Management now supports hourly granularity in Savings Plans Utilization and Coverage reports](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-cost-management-hourly-granularity-savings-reports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

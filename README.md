@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Personal Identifiable Information &lpar;PII&rpar; detection and remediation in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/)
+- [Introducing AWS Glue Interactive Sessions and Job Notebooks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/)
 - [AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp; Replication 11A on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/)
 - [ACM Private CA Kubernetes cert-manager plugin is production ready](https://aws.amazon.com/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; announces support for Hyperledger Fabric v2.2](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/)
@@ -66,8 +68,6 @@
 - [Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/)
 - [Amazon SageMaker JumpStart adds LightGBM and CatBoost Models for Tabular Data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-lightgbm-catboost-tabular/)
 - [AWS Resource Groups and Tag Editor are now available in the Asia Pacific &lpar;Jakarta&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resource-groups-tag-editor-jakarta/)
-- [AWS Console Mobile Application adds support for Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-console-mobile-application-asia-pacific-jakarta-region/)
-- [Amazon Lex launches support for Catalan](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-catalan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

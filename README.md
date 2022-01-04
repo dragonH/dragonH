@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS releases Custom Image Validation Tool to simplify testing of your customized docker container images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/)
 - [Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/)
 - [Amazon SageMaker JumpStart adds LightGBM and CatBoost Models for Tabular Data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-lightgbm-catboost-tabular/)
 - [AWS Resource Groups and Tag Editor are now available in the Asia Pacific &lpar;Jakarta&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resource-groups-tag-editor-jakarta/)
@@ -67,7 +68,6 @@
 - [AWS announces phone number enrichments for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-phone-number-enrichments-amazon-fraud-detector-models/)
 - [AWS Secrets Manager now automatically enables SSL connections when rotating database secrets](https://aws.amazon.com/about-aws/whats-new/2021/12/aws-secrets-manager-enables-ssl-connections-rotating-database/)
 - [Amazon Connect Chat user interface now supports browser notifications for your customers](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-connect-chat-user-interface-browser-notifications-customers/)
-- [Amazon S3 on Outposts launches in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2021/12/amazon-s3-outposts-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

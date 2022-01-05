@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs announces AWS Organizations support for cross account Subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/)
+- [Announcing AWS CloudTrail Lake, a managed audit and security lake](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/)
 - [Announcing AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/)
 - [Amazon EMR on EKS adds support for customized container images for AWS Graviton-based EC2 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/)
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports anomaly detection for historical data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/)
@@ -66,8 +68,6 @@
 - [Announcing Personal Identifiable Information &lpar;PII&rpar; detection and remediation in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/)
 - [Introducing AWS Glue Interactive Sessions and Job Notebooks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/)
 - [AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp; Replication 11A on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/)
-- [ACM Private CA Kubernetes cert-manager plugin is production ready](https://aws.amazon.com/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/)
-- [Amazon Managed Blockchain &lpar;AMB&rpar; announces support for Hyperledger Fabric v2.2](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

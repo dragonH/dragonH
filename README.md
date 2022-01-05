@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS adds support for customized container images for AWS Graviton-based EC2 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/)
+- [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports anomaly detection for historical data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/)
+- [Amazon EMR on EKS adds error message details in DescribeJobRun API response to simplify debugging](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/)
+- [Amazon RDS for Oracle now supports October 2021 Release Update &lpar;RU&rpar; for Oracle Database 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/)
 - [Announcing AWS Data Exchange for Amazon Redshift &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift-preview/)
 - [Announcing Personal Identifiable Information &lpar;PII&rpar; detection and remediation in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/)
 - [Introducing AWS Glue Interactive Sessions and Job Notebooks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/)
 - [AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp; Replication 11A on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/)
 - [ACM Private CA Kubernetes cert-manager plugin is production ready](https://aws.amazon.com/about-aws/whats-new/2022/01/acm-kubernetes-cert-manager-plugin-production/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; announces support for Hyperledger Fabric v2.2](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-blockchain-hyperledger-fabric-2-2/)
-- [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports OpenSearch version 1.1](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-supports-version-1-1/)
-- [Amazon EMR on EKS releases Custom Image Validation Tool to simplify testing of your customized docker container images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/)
-- [Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/)
-- [Amazon SageMaker JumpStart adds LightGBM and CatBoost Models for Tabular Data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-lightgbm-catboost-tabular/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

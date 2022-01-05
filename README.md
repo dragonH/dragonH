@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management launches Automated Retry capability for Jobs to improve success rates of large scale deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-device-management-automated-retry-capability-jobs-improve-success-rates-large-scale-deployments/)
+- [AWS Snowcone is now available in AWS Europe &lpar;London&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-snowcone-europe-london-region/)
+- [Amazon Chime SDK meetings now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-chime-sdk-meetings-aws-govcloud-us-regions/)
 - [Amazon CloudWatch Logs announces AWS Organizations support for cross account Subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/)
 - [Announcing AWS CloudTrail Lake, a managed audit and security lake](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/)
 - [Announcing AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/)
@@ -65,9 +68,6 @@
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports anomaly detection for historical data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/)
 - [Amazon EMR on EKS adds error message details in DescribeJobRun API response to simplify debugging](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/)
 - [Amazon RDS for Oracle now supports October 2021 Release Update &lpar;RU&rpar; for Oracle Database 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/)
-- [Announcing Personal Identifiable Information &lpar;PII&rpar; detection and remediation in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/)
-- [Introducing AWS Glue Interactive Sessions and Job Notebooks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/)
-- [AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp; Replication 11A on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

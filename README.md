@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Data Exchange for Amazon Redshift &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift-preview/)
 - [Announcing Personal Identifiable Information &lpar;PII&rpar; detection and remediation in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/)
 - [Introducing AWS Glue Interactive Sessions and Job Notebooks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/)
 - [AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp; Replication 11A on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/)
@@ -67,7 +68,6 @@
 - [Amazon EMR on EKS releases Custom Image Validation Tool to simplify testing of your customized docker container images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-custom-image-validation-tool-images/)
 - [Amazon ECS launches new simplified console experience for creating ECS clusters and task definitions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-launches-console-ecs-clusters-task-definitions/)
 - [Amazon SageMaker JumpStart adds LightGBM and CatBoost Models for Tabular Data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-lightgbm-catboost-tabular/)
-- [AWS Resource Groups and Tag Editor are now available in the Asia Pacific &lpar;Jakarta&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resource-groups-tag-editor-jakarta/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/)
 - [Amazon EMR on EKS adds support for customized container images for AWS Graviton-based EC2 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/)
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports anomaly detection for historical data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/)
 - [Amazon EMR on EKS adds error message details in DescribeJobRun API response to simplify debugging](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/)
 - [Amazon RDS for Oracle now supports October 2021 Release Update &lpar;RU&rpar; for Oracle Database 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/)
-- [Announcing AWS Data Exchange for Amazon Redshift &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift-preview/)
 - [Announcing Personal Identifiable Information &lpar;PII&rpar; detection and remediation in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-preview-pii-detection-remediation/)
 - [Introducing AWS Glue Interactive Sessions and Job Notebooks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-glue-interactive-sessions-job-notebooks/)
 - [AWS Storage Gateway now supports Dell EMC NetWorker 19.5 and Veeam Backup &amp; Replication 11A on Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-dell-emc-networker-19-5-veeam-backup-replication-11a-tape-gateway/)

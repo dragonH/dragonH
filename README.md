@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 On-Demand Capacity Reservations now support Cluster Placement Groups](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-on-demand-capacity-cluster-placement-groups/)
 - [Instance Tags now available on the Amazon EC2 Instance Metadata Service](https://aws.amazon.com/about-aws/whats-new/2022/01/instance-tags-amazon-ec2-instance-metadata-service/)
 - [AWS Lambda now supports ES Modules and Top-Level Await for Node.js 14](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-es-modules-top-level-await-node-js-14/)
 - [Fine grained access control now supported on existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-fine-grained-access-control/)
@@ -67,7 +68,6 @@
 - [Introducing 37 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2022/01/cloudformation-registry-37-resource-types/)
 - [Amazon QLDB now supports JSON output format for exports](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-qldb-json-output-format-exports/)
 - [Amazon RDS Proxy is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/)
-- [AWS Single Sign-On is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-single-sign-on-aws-govcloud-us-east-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

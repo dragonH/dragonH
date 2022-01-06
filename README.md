@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Proxy is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/)
+- [AWS Single Sign-On is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-single-sign-on-aws-govcloud-us-east-region/)
 - [AWS IoT Device Management launches Automated Retry capability for Jobs to improve success rates of large scale deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-device-management-automated-retry-capability-jobs-improve-success-rates-large-scale-deployments/)
-- [AWS Snowcone is now available in AWS Europe &lpar;London&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-snowcone-europe-london-region/)
+- [AWS Snowcone is now available in AWS Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-snowcone-europe-london-region/)
 - [Amazon Chime SDK meetings now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-chime-sdk-meetings-aws-govcloud-us-regions/)
 - [Amazon CloudWatch Logs announces AWS Organizations support for cross account Subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/)
 - [Announcing AWS CloudTrail Lake, a managed audit and security lake](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/)
 - [Announcing AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/)
 - [Amazon EMR on EKS adds support for customized container images for AWS Graviton-based EC2 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/)
 - [Amazon OpenSearch Service &lpar;successor to Amazon Elasticsearch Service&rpar; now supports anomaly detection for historical data](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-service-elasticsearch-anomaly-detection/)
-- [Amazon EMR on EKS adds error message details in DescribeJobRun API response to simplify debugging](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-error-message-describejobrun-api-response/)
-- [Amazon RDS for Oracle now supports October 2021 Release Update &lpar;RU&rpar; for Oracle Database 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-update-database/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

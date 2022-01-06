@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing 37 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2022/01/cloudformation-registry-37-resource-types/)
 - [Amazon QLDB now supports JSON output format for exports](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-qldb-json-output-format-exports/)
 - [Amazon RDS Proxy is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/)
 - [AWS Single Sign-On is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-single-sign-on-aws-govcloud-us-east-region/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Logs announces AWS Organizations support for cross account Subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-logs-aws-organizations-subscriptions/)
 - [Announcing AWS CloudTrail Lake, a managed audit and security lake](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloudtrail-lake-audit-security/)
 - [Announcing AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-data-exchange-amazon-redshift/)
-- [Amazon EMR on EKS adds support for customized container images for AWS Graviton-based EC2 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-customized-container-images-aws-graviton-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

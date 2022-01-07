@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core for LoRaWAN Launches Two New Features to Manage and Monitor Communications Between Device and Cloud](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/)
+- [Amazon ECR adds the ability to monitor repository pull statistics](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/)
+- [Amazon AppStream 2.0 now provides application entitlements for SAML 2.0 federated user identities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appstream-2-0-application-entitlements-saml-2-0-federated-user-identities/)
 - [Amazon EC2 On-Demand Capacity Reservations now support Cluster Placement Groups](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-on-demand-capacity-cluster-placement-groups/)
 - [Instance Tags now available on the Amazon EC2 Instance Metadata Service](https://aws.amazon.com/about-aws/whats-new/2022/01/instance-tags-amazon-ec2-instance-metadata-service/)
 - [AWS Lambda now supports ES Modules and Top-Level Await for Node.js 14](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-es-modules-top-level-await-node-js-14/)
@@ -65,9 +68,6 @@
 - [Amazon EMR on EKS adds support for customized container images for interactive jobs run using managed endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-support-container-images-interactive-jobs-endpoints/)
 - [Announcing AWS Serverless Application Model &lpar;SAM&rpar; CLI support for local testing of AWS Cloud Development Kit &lpar;CDK&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-serverless-application-model-sam-cli-aws-cloud-development-kit-cdk/)
 - [Amazon EKS now supports Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-eks-ipv6/)
-- [Introducing 37 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2022/01/cloudformation-registry-37-resource-types/)
-- [Amazon QLDB now supports JSON output format for exports](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-qldb-json-output-format-exports/)
-- [Amazon RDS Proxy is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-proxy-available-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

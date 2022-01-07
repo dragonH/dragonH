@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6g and R6gd instances powered by AWS Graviton2 now available in additional regions.](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6gd-c6g-instances-aws-graviton2-regions/)
 - [Amazon EC2 M6a Instances are Now Available in Asia Pacific &lpar;Mumbai&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-m6a-instances-asia-pacific-mumbai-aws-region/)
 - [AWS IoT Core for LoRaWAN Launches Two New Features to Manage and Monitor Communications Between Device and Cloud](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/)
 - [Amazon ECR adds the ability to monitor repository pull statistics](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/)
@@ -67,7 +68,6 @@
 - [AWS Lambda now supports ES Modules and Top-Level Await for Node.js 14](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-es-modules-top-level-await-node-js-14/)
 - [Fine grained access control now supported on existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-opensearch-fine-grained-access-control/)
 - [Amazon EMR on EKS adds support for customized container images for interactive jobs run using managed endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-eks-support-container-images-interactive-jobs-endpoints/)
-- [Announcing AWS Serverless Application Model &lpar;SAM&rpar; CLI support for local testing of AWS Cloud Development Kit &lpar;CDK&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-serverless-application-model-sam-cli-aws-cloud-development-kit-cdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

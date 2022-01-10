@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/)
 - [Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/)
 - [EMR Studio is now upgraded to JupyterLab v3.1.4](https://aws.amazon.com/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/)
 - [AWS Firewall Manager now supports AWS Shield Advanced automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/)
@@ -67,7 +68,6 @@
 - [AWS IoT Core for LoRaWAN Launches Two New Features to Manage and Monitor Communications Between Device and Cloud](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/)
 - [Amazon ECR adds the ability to monitor repository pull statistics](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/)
 - [Amazon AppStream 2.0 now provides application entitlements for SAML 2.0 federated user identities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appstream-2-0-application-entitlements-saml-2-0-federated-user-identities/)
-- [Amazon EC2 On-Demand Capacity Reservations now support Cluster Placement Groups](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-on-demand-capacity-cluster-placement-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

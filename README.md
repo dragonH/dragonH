@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Toolkit for JetBrains IDEs adds support for ECS-Exec for troubleshooting ECS containers](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/)
+- [Announcing AWS PrivateLink Support for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-privatelink-support-amazon-lex/)
 - [Amazon SNS now supports Attribute-based access controls &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/)
 - [AWS Compute Optimizer makes it easier to optimize by leveraging multiple EC2 instance architectures](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/)
 - [Introducing real-time collaborative notebooks with EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/)
@@ -66,8 +68,6 @@
 - [EMR Studio is now upgraded to JupyterLab v3.1.4](https://aws.amazon.com/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/)
 - [AWS Firewall Manager now supports AWS Shield Advanced automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/)
 - [Amazon RDS for SQL Server now supports SSAS Multidimensional](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/)
-- [Amazon EC2 C6g and R6gd instances powered by AWS Graviton2 now available in additional regions.](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6gd-c6g-instances-aws-graviton2-regions/)
-- [Amazon EC2 M6a Instances are Now Available in Asia Pacific &lpar;Mumbai&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-m6a-instances-asia-pacific-mumbai-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

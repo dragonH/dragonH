@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/)
 - [EMR Studio is now upgraded to JupyterLab v3.1.4](https://aws.amazon.com/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/)
 - [AWS Firewall Manager now supports AWS Shield Advanced automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/)
 - [Amazon RDS for SQL Server now supports SSAS Multidimensional](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/)
@@ -67,7 +68,6 @@
 - [Amazon ECR adds the ability to monitor repository pull statistics](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/)
 - [Amazon AppStream 2.0 now provides application entitlements for SAML 2.0 federated user identities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appstream-2-0-application-entitlements-saml-2-0-federated-user-identities/)
 - [Amazon EC2 On-Demand Capacity Reservations now support Cluster Placement Groups](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-on-demand-capacity-cluster-placement-groups/)
-- [Instance Tags now available on the Amazon EC2 Instance Metadata Service](https://aws.amazon.com/about-aws/whats-new/2022/01/instance-tags-amazon-ec2-instance-metadata-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

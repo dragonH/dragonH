@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS now supports Attribute-based access controls &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/)
+- [AWS Compute Optimizer makes it easier to optimize by leveraging multiple EC2 instance architectures](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/)
 - [Introducing real-time collaborative notebooks with EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/)
 - [Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/)
 - [Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for SQL Server now supports SSAS Multidimensional](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/)
 - [Amazon EC2 C6g and R6gd instances powered by AWS Graviton2 now available in additional regions.](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6gd-c6g-instances-aws-graviton2-regions/)
 - [Amazon EC2 M6a Instances are Now Available in Asia Pacific &lpar;Mumbai&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-m6a-instances-asia-pacific-mumbai-aws-region/)
-- [AWS IoT Core for LoRaWAN Launches Two New Features to Manage and Monitor Communications Between Device and Cloud](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-core-lorawan-monitor-device-cloud/)
-- [Amazon ECR adds the ability to monitor repository pull statistics](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecr-monitor-repository-pull-statistics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

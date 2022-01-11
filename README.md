@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 Hpc6a instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/)
 - [AWS Toolkit for JetBrains IDEs adds support for ECS-Exec for troubleshooting ECS containers](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/)
 - [Announcing AWS PrivateLink Support for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-privatelink-support-amazon-lex/)
 - [Amazon SNS now supports Attribute-based access controls &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/)
 - [EMR Studio is now upgraded to JupyterLab v3.1.4](https://aws.amazon.com/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/)
 - [AWS Firewall Manager now supports AWS Shield Advanced automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-firewall-manager-shield-advanced-application-layer-ddos-mitigation/)
-- [Amazon RDS for SQL Server now supports SSAS Multidimensional](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sql-server-ssas-multidimensional/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

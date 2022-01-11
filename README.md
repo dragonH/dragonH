@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the General Availability of AWS Local Zones in Atlanta, Phoenix, and Seattle](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/)
+- [Amazon Redshift Spectrum now offers custom data validation rules](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/)
 - [AWS Launch Wizard now adds AWS Service Catalog integration for Microsoft SQL Server deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/)
 - [Introducing SQL Explorer in EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/)
 - [Announcing SageMaker Training support for ml.g5 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/sagemaker-training-ml-g5-instances/)
@@ -66,8 +68,6 @@
 - [Announcing AWS PrivateLink Support for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-privatelink-support-amazon-lex/)
 - [Amazon SNS now supports Attribute-based access controls &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sns-attribute-based-access-controls/)
 - [AWS Compute Optimizer makes it easier to optimize by leveraging multiple EC2 instance architectures](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/)
-- [Introducing real-time collaborative notebooks with EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/)
-- [Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

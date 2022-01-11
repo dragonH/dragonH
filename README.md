@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now adds AWS Service Catalog integration for Microsoft SQL Server deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/)
+- [Introducing SQL Explorer in EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/)
 - [Announcing SageMaker Training support for ml.g5 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/sagemaker-training-ml-g5-instances/)
 - [Introducing Amazon EC2 Hpc6a instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-hpc6a-instances/)
 - [AWS Toolkit for JetBrains IDEs adds support for ECS-Exec for troubleshooting ECS containers](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-toolkit-jetbrains-ides-ecs-exec-containers/)
@@ -66,8 +68,6 @@
 - [AWS Compute Optimizer makes it easier to optimize by leveraging multiple EC2 instance architectures](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-compute-optimizer-multiple-ec2-instance-architectures/)
 - [Introducing real-time collaborative notebooks with EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/real-time-collaborative-notebooks-emr-studio/)
 - [Amazon RDS for MySQL Supports New Minor Versions 5.7.36, and 8.0.27](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-for-mysql-new-minor-versions/)
-- [Amazon SageMaker Feature Store connector for Apache Spark for easy batch data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-feature-store-connector-apache-spark-batch-data-ingestion/)
-- [EMR Studio is now upgraded to JupyterLab v3.1.4](https://aws.amazon.com/about-aws/whats-new/2022/01/emr-studio-upgraded-jupyterlab/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

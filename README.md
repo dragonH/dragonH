@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now supports scaling HANA based SAP deployments to meet increased performance requirements](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/)
+- [AWS IoT SiteWise Edge supports new data storage and upload prioritization strategies for intermittent cloud connectivity](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/)
 - [Announcing the new Console Home in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/01/console-home-aws-management-console/)
 - [AWS Fargate is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-fargate-asia-pacific-jakarta/)
 - [AWS AppSync now supports cache entry eviction for server-side data caching](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-appsync-cache-entry-eviction-server-data/)
@@ -66,8 +68,6 @@
 - [Announcing the General Availability of AWS Local Zones in Atlanta, Phoenix, and Seattle](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/)
 - [Amazon Redshift Spectrum now offers custom data validation rules](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/)
 - [AWS Launch Wizard now adds AWS Service Catalog integration for Microsoft SQL Server deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/)
-- [Introducing SQL Explorer in EMR Studio](https://aws.amazon.com/about-aws/whats-new/2022/01/introducing-sql-explorer-in-emr-studio/)
-- [Announcing SageMaker Training support for ml.g5 instances](https://aws.amazon.com/about-aws/whats-new/2022/01/sagemaker-training-ml-g5-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

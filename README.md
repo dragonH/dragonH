@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect announces new location in Australia](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-direct-connect-australia/)
 - [Amazon ElastiCache adds support for streaming and storing Redis engine logs](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elasticache-streaming-storing-redis-engine-logs/)
 - [Amazon Pinpoint launches journey endpoint re-evaluation logic for the Contact Center activity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/)
 - [AWS Storage Gateway is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/)
@@ -67,7 +68,6 @@
 - [AWS IoT SiteWise Edge supports new data storage and upload prioritization strategies for intermittent cloud connectivity](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/)
 - [Announcing the new Console Home in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/01/console-home-aws-management-console/)
 - [AWS Fargate is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-fargate-asia-pacific-jakarta/)
-- [AWS AppSync now supports cache entry eviction for server-side data caching](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-appsync-cache-entry-eviction-server-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache adds support for streaming and storing Redis engine logs](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elasticache-streaming-storing-redis-engine-logs/)
+- [Amazon Pinpoint launches journey endpoint re-evaluation logic for the Contact Center activity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/)
 - [AWS Storage Gateway is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/)
 - [Amazon RDS Performance Insights now supports new API endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/)
 - [AWS Systems Manager announces support for categorizing documents of type Command Document](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-command-document/)
@@ -66,8 +68,6 @@
 - [Announcing the new Console Home in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/01/console-home-aws-management-console/)
 - [AWS Fargate is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-fargate-asia-pacific-jakarta/)
 - [AWS AppSync now supports cache entry eviction for server-side data caching](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-appsync-cache-entry-eviction-server-data/)
-- [Amazon Kendra launches support for query language](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-kendra-query-language/)
-- [AWS Announces New Launch Speed Optimizations for Microsoft Windows Server Instances on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-speed-optimizations-windows-instances-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

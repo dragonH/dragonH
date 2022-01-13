@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager announces support for categorizing documents of type Command Document](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-command-document/)
 - [AWS Launch Wizard now supports scaling HANA based SAP deployments to meet increased performance requirements](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/)
 - [AWS IoT SiteWise Edge supports new data storage and upload prioritization strategies for intermittent cloud connectivity](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/)
 - [Announcing the new Console Home in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/01/console-home-aws-management-console/)
@@ -67,7 +68,6 @@
 - [AWS Announces New Launch Speed Optimizations for Microsoft Windows Server Instances on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-speed-optimizations-windows-instances-ec2/)
 - [Announcing the General Availability of AWS Local Zones in Atlanta, Phoenix, and Seattle](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/)
 - [Amazon Redshift Spectrum now offers custom data validation rules](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/)
-- [AWS Launch Wizard now adds AWS Service Catalog integration for Microsoft SQL Server deployments](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-service-catalog-integration-microsoft-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

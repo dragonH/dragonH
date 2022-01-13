@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Performance Insights now supports new API endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/)
 - [AWS Systems Manager announces support for categorizing documents of type Command Document](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-command-document/)
 - [AWS Launch Wizard now supports scaling HANA based SAP deployments to meet increased performance requirements](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/)
 - [AWS IoT SiteWise Edge supports new data storage and upload prioritization strategies for intermittent cloud connectivity](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra launches support for query language](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-kendra-query-language/)
 - [AWS Announces New Launch Speed Optimizations for Microsoft Windows Server Instances on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-speed-optimizations-windows-instances-ec2/)
 - [Announcing the General Availability of AWS Local Zones in Atlanta, Phoenix, and Seattle](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-local-zones-atlanta-phoenix-seattle/)
-- [Amazon Redshift Spectrum now offers custom data validation rules](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-redshift-spectrum-offers-custom-data-validation-rules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Forecast now supports AWS CloudFormation for managing dataset and dataset group resources](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-forecast-aws-cloudformation-resources/)
 - [Amazon RDS for Oracle now supports memory optimized R5 instance types in new region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-r5/)
 - [Amazon Nimble Studio launches the ability to validate launch profile configurations via the Nimble Studio console](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-nimble-studio-launch-profile-configurations-console/)
 - [AWS Direct Connect announces new location in Australia](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-direct-connect-australia/)
@@ -67,7 +68,6 @@
 - [Amazon RDS Performance Insights now supports new API endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/)
 - [AWS Systems Manager announces support for categorizing documents of type Command Document](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-command-document/)
 - [AWS Launch Wizard now supports scaling HANA based SAP deployments to meet increased performance requirements](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-scaling-sap-deployments-increased-performance/)
-- [AWS IoT SiteWise Edge supports new data storage and upload prioritization strategies for intermittent cloud connectivity](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-sitewise-edge-intermittent-cloud-connectivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

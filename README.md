@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/dragonH/happy-6-pm/pull/19) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-2. 💪 Opened PR [#19](https://github.com/dragonH/happy-6-pm/pull/19) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-3. 🎉 Merged PR [#3](https://github.com/dragonH/automation-report/pull/3) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
-4. 🎉 Merged PR [#18](https://github.com/dragonH/happy-6-pm/pull/18) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
-5. ❗️ Closed issue [#17](https://github.com/dragonH/happy-6-pm/issues/17) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+1. 🎉 Merged PR [#26](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/26) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+2. 🎉 Merged PR [#8](https://github.com/dragonH/Crawlers/pull/8) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+3. 🎉 Merged PR [#19](https://github.com/dragonH/happy-6-pm/pull/19) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+4. 💪 Opened PR [#19](https://github.com/dragonH/happy-6-pm/pull/19) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+5. 🎉 Merged PR [#3](https://github.com/dragonH/automation-report/pull/3) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
 <!--END_SECTION:activity-->
 
 </details>

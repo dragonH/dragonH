@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now remediate operational issues faster by executing AWS Systems Manager Automation runbooks from Slack](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/)
+- [Now DynamoDB can return the throughput capacity consumed by PartiQL API calls to help you optimize your queries and throughput costs](https://aws.amazon.com/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/)
 - [AWS Outposts now FedRAMP authorized](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-outposts-now-fedramp-authorized/)
 - [Announcing new AWS Wavelength Zones in Charlotte, Detroit, Los Angeles and Minneapolis](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-wavelength-zones/)
 - [Amazon RDS for SQL Server now supports new minor versions for SQL Server 2019 and 2017](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sqlserver-supports-new-minor-versions-sql-server-2019-2017/)
@@ -66,8 +68,6 @@
 - [Amazon Nimble Studio launches the ability to validate launch profile configurations via the Nimble Studio console](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-nimble-studio-launch-profile-configurations-console/)
 - [AWS Direct Connect announces new location in Australia](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-direct-connect-australia/)
 - [Amazon ElastiCache adds support for streaming and storing Redis engine logs](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elasticache-streaming-storing-redis-engine-logs/)
-- [Amazon Pinpoint launches journey endpoint re-evaluation logic for the Contact Center activity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/)
-- [AWS Storage Gateway is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

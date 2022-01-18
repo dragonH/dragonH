@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Outposts now FedRAMP authorized](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-outposts-now-fedramp-authorized/)
+- [Announcing new AWS Wavelength Zones in Charlotte, Detroit, Los Angeles and Minneapolis](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-wavelength-zones/)
 - [Amazon RDS for SQL Server now supports new minor versions for SQL Server 2019 and 2017](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-sqlserver-supports-new-minor-versions-sql-server-2019-2017/)
 - [Amazon Forecast now supports AWS CloudFormation for managing dataset and dataset group resources](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-forecast-aws-cloudformation-resources/)
 - [Amazon RDS for Oracle now supports memory optimized R5 instance types in new region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-oracle-r5/)
@@ -66,8 +68,6 @@
 - [Amazon ElastiCache adds support for streaming and storing Redis engine logs](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elasticache-streaming-storing-redis-engine-logs/)
 - [Amazon Pinpoint launches journey endpoint re-evaluation logic for the Contact Center activity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-pinpoint-journey-endpoint-re-evaluation-logic/)
 - [AWS Storage Gateway is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-jakarta-region/)
-- [Amazon RDS Performance Insights now supports new API endpoints](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-insights-supports-api-endpoints/)
-- [AWS Systems Manager announces support for categorizing documents of type Command Document](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-command-document/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

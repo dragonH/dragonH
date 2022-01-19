@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Corretto January Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-corretto-january-updates/)
 - [Amazon Interactive Video Service adds thumbnail configuration](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/)
 - [Amazon EMR Studio is now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-studio-us-west-california/)
 - [AWS Storage Gateway management console simplifies gateway creation and management](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-management-console-creation/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager Automation now enables you to take action in third-party applications through webhooks](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-third-party-applications-webhooks/)
 - [Now remediate operational issues faster by executing AWS Systems Manager Automation runbooks from Slack](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-runbooks-slack/)
 - [Now DynamoDB can return the throughput capacity consumed by PartiQL API calls to help you optimize your queries and throughput costs](https://aws.amazon.com/about-aws/whats-new/2022/01/dynamodb-partiql-api-queries-costs/)
-- [AWS Outposts now FedRAMP authorized](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-outposts-now-fedramp-authorized/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

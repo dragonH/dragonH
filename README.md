@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/dragonH/pokecord_selfbot/pull/8) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
-2. 🎉 Merged PR [#21](https://github.com/dragonH/shopping-site-practice/pull/21) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-3. 🎉 Merged PR [#7](https://github.com/dragonH/pokecord_selfbot/pull/7) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
-4. 🎉 Merged PR [#2](https://github.com/dragonH/pokecord_selfbot/pull/2) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
-5. 🎉 Merged PR [#26](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/26) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+1. 🎉 Merged PR [#2](https://github.com/dragonH/solidity-practice/pull/2) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
+2. 💪 Opened PR [#2](https://github.com/dragonH/solidity-practice/pull/2) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
+3. 💪 Opened PR [#1](https://github.com/dragonH/solidity-practice/pull/1) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
+4. 🎉 Merged PR [#8](https://github.com/dragonH/pokecord_selfbot/pull/8) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
+5. 🎉 Merged PR [#21](https://github.com/dragonH/shopping-site-practice/pull/21) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
 <!--END_SECTION:activity-->
 
 </details>

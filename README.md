@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Panorama is now available in Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-asia-pacific/)
 - [AWS Launch Wizard now supports the latest versions of SUSE Linux Enterprise Server and SAP HANA, S/4HANA, and BW/4HANA](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-suse-linux-enterprise-server-sap-hana-s-4hana-bw-4hana/)
 - [Amazon Location Service enables request-based pricing for all customer use cases](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-location-service-request-based-pricing/)
 - [Announcing matrix routing for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-location-matrix-routing/)
@@ -67,7 +68,6 @@
 - [AWS Storage Gateway management console simplifies gateway creation and management](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-management-console-creation/)
 - [Amazon MQ now supports RabbitMQ version 3.8.26](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mq-rabbitmq-3-8-26/)
 - [Amazon CloudWatch Application Insights adds service monitoring for Microsoft Active Directory and SharePoint](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-cloudwatch-application-insights-service-monitoring-microsoft-active-directory-sharepoint/)
-- [AWS Elastic Disaster Recovery now supports failback automation](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elastic-disaster-recovery-failback-automation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

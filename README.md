@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition improves accuracy of Content Moderation for Video](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rekognition-content-moderation-video/)
+- [AWS Security Hub integrates with AWS Health](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-security-hub-health/)
+- [New datasets available on the Registry of Open Data from Meta, the Brazilian Space Agency, Radboud University Medical Center, and others](https://aws.amazon.com/about-aws/whats-new/2022/01/new-datasets-registry-open-data/)
+- [AWS Lambda now supports Max Batching Window for Amazon MSK, Apache Kafka, Amazon MQ for Apache Active MQ and RabbitMQ as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/)
+- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/red-hat-openshift-service-aws-rosa-osaka/)
 - [Amazon EC2 customers can now use ED25519 keys for authentication with EC2 Instance Connect](https://aws.amazon.com/about-aws/whats-new/2022/01/ed25519-keys-authentication-ec2-instance-connect/)
 - [Announcing Amazon RDS Snapshot Export to S3 in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-snapshot-export-s3-osaka/)
 - [Amazon FSx for NetApp ONTAP now provides performance and capacity metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-metrics-cloudwatch/)
 - [AWS Trusted Advisor now integrates with AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/)
 - [AWS Panorama is now available in Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-asia-pacific/)
-- [AWS Launch Wizard now supports the latest versions of SUSE Linux Enterprise Server and SAP HANA, S/4HANA, and BW/4HANA](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-launch-wizard-suse-linux-enterprise-server-sap-hana-s-4hana-bw-4hana/)
-- [Amazon Location Service enables request-based pricing for all customer use cases](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-location-service-request-based-pricing/)
-- [Announcing matrix routing for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-location-matrix-routing/)
-- [Amazon Corretto January Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-corretto-january-updates/)
-- [Amazon Interactive Video Service adds thumbnail configuration](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

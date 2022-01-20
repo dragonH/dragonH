@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR now supports Apache Spark SQL to insert data into and update Glue Data Catalog tables when Lake Formation integration is enabled](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-apache-spark-sql-glue-data-catalog-lake-formation/)
 - [Amazon Rekognition improves accuracy of Content Moderation for Video](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rekognition-content-moderation-video/)
 - [AWS Security Hub integrates with AWS Health](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-security-hub-health/)
 - [New datasets available on the Registry of Open Data from Meta, the Brazilian Space Agency, Radboud University Medical Center, and others](https://aws.amazon.com/about-aws/whats-new/2022/01/new-datasets-registry-open-data/)
@@ -67,7 +68,6 @@
 - [Announcing Amazon RDS Snapshot Export to S3 in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-snapshot-export-s3-osaka/)
 - [Amazon FSx for NetApp ONTAP now provides performance and capacity metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-metrics-cloudwatch/)
 - [AWS Trusted Advisor now integrates with AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/)
-- [AWS Panorama is now available in Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-asia-pacific/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

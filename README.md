@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon RDS Snapshot Export to S3 in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-snapshot-export-s3-osaka/)
 - [Amazon FSx for NetApp ONTAP now provides performance and capacity metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-metrics-cloudwatch/)
 - [AWS Trusted Advisor now integrates with AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-trusted-advisor-security-hub/)
 - [AWS Panorama is now available in Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-asia-pacific/)
@@ -67,7 +68,6 @@
 - [Amazon Corretto January Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-corretto-january-updates/)
 - [Amazon Interactive Video Service adds thumbnail configuration](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-interactive-video-thumbnail/)
 - [Amazon EMR Studio is now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-studio-us-west-california/)
-- [AWS Storage Gateway management console simplifies gateway creation and management](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-storage-gateway-management-console-creation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

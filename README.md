@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR now supports Apache Iceberg, a highly performant, concurrent, ACID-compliant table format for data lakes](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-supports-apache-iceberg/)
 - [AWS Migration Hub Strategy Recommendations adds support for Babelfish for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-migration-hub-strategy-recommendations-babelfish-aurora-postgresql/)
 - [Amazon FinSpace managed Apache Spark clusters now support Apache Spark 3](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-finspace-apache-spark-clusters-3/)
 - [Amazon GuardDuty now detects EC2 instance credentials used from another AWS account](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-ec2-instance-credentials-aws-account/)
@@ -67,7 +68,6 @@
 - [Amazon Rekognition improves accuracy of Content Moderation for Video](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rekognition-content-moderation-video/)
 - [AWS Security Hub integrates with AWS Health](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-security-hub-health/)
 - [New datasets available on the Registry of Open Data from Meta, the Brazilian Space Agency, Radboud University Medical Center, and others](https://aws.amazon.com/about-aws/whats-new/2022/01/new-datasets-registry-open-data/)
-- [AWS Lambda now supports Max Batching Window for Amazon MSK, Apache Kafka, Amazon MQ for Apache Active MQ and RabbitMQ as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

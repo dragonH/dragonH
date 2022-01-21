@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Pipelines now supports concurrency control](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-concurrency-control/)
 - [Amazon SageMaker Pipelines now offers native EMR integration for large scale data processing](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-emr-integration/)
 - [Amazon EMR now supports Apache Iceberg, a highly performant, concurrent, ACID-compliant table format for data lakes](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-supports-apache-iceberg/)
 - [AWS Migration Hub Strategy Recommendations adds support for Babelfish for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-migration-hub-strategy-recommendations-babelfish-aurora-postgresql/)
@@ -67,7 +68,6 @@
 - [AWS Client VPN now supports banner text and maximum session duration](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/)
 - [Amazon EMR now supports Apache Spark SQL to insert data into and update Glue Data Catalog tables when Lake Formation integration is enabled](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-apache-spark-sql-glue-data-catalog-lake-formation/)
 - [Amazon Rekognition improves accuracy of Content Moderation for Video](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rekognition-content-moderation-video/)
-- [AWS Security Hub integrates with AWS Health](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-security-hub-health/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

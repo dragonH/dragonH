@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Migration Hub Strategy Recommendations adds support for Babelfish for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-migration-hub-strategy-recommendations-babelfish-aurora-postgresql/)
+- [Amazon FinSpace managed Apache Spark clusters now support Apache Spark 3](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-finspace-apache-spark-clusters-3/)
 - [Amazon GuardDuty now detects EC2 instance credentials used from another AWS account](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-ec2-instance-credentials-aws-account/)
 - [Amazon S3 Object Ownership can now disable access control lists in the AWS China &lpar;Beijing&rpar;, AWS China &lpar;Ningxia&rpar;, and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-s3-object-ownership-control-lists-aws-china-govcloud/)
 - [AWS Client VPN now supports banner text and maximum session duration](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/)
@@ -66,8 +68,6 @@
 - [AWS Security Hub integrates with AWS Health](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-security-hub-health/)
 - [New datasets available on the Registry of Open Data from Meta, the Brazilian Space Agency, Radboud University Medical Center, and others](https://aws.amazon.com/about-aws/whats-new/2022/01/new-datasets-registry-open-data/)
 - [AWS Lambda now supports Max Batching Window for Amazon MSK, Apache Kafka, Amazon MQ for Apache Active MQ and RabbitMQ as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-max-batching-window-amazon-msk-apache-kafka-mq-rabitmq/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/01/red-hat-openshift-service-aws-rosa-osaka/)
-- [Amazon EC2 customers can now use ED25519 keys for authentication with EC2 Instance Connect](https://aws.amazon.com/about-aws/whats-new/2022/01/ed25519-keys-authentication-ec2-instance-connect/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

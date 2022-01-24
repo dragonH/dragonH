@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConvert now supports 4K frame sizes and 10-bit color in the AV1 output format](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elemental-mediaconvert-4k-av1-output/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds additional Geospatial query capabilities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-geospatial-query-capabilities/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for $mergeObjects and $reduce](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-mongodb-apis/)
 - [Amazon RDS for PostgreSQL supports new minor versions 13.5, 12.9, 11.14, 10.19, and 9.6.24; Amazon RDS on Outposts supports new PostgreSQL minor versions 13.5 and 12.9](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-amazon-rds-outposts-postgresql-minor-versions/)
 - [Amazon SageMaker Pipelines now supports concurrency control](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-concurrency-control/)
 - [Amazon SageMaker Pipelines now offers native EMR integration for large scale data processing](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-emr-integration/)
@@ -65,9 +68,6 @@
 - [AWS Migration Hub Strategy Recommendations adds support for Babelfish for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-migration-hub-strategy-recommendations-babelfish-aurora-postgresql/)
 - [Amazon FinSpace managed Apache Spark clusters now support Apache Spark 3](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-finspace-apache-spark-clusters-3/)
 - [Amazon GuardDuty now detects EC2 instance credentials used from another AWS account](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-ec2-instance-credentials-aws-account/)
-- [Amazon S3 Object Ownership can now disable access control lists in the AWS China &lpar;Beijing&rpar;, AWS China &lpar;Ningxia&rpar;, and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-s3-object-ownership-control-lists-aws-china-govcloud/)
-- [AWS Client VPN now supports banner text and maximum session duration](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-vpn-banner-text-maximum-session-duration/)
-- [Amazon EMR now supports Apache Spark SQL to insert data into and update Glue Data Catalog tables when Lake Formation integration is enabled](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-apache-spark-sql-glue-data-catalog-lake-formation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

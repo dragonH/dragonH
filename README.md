@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-compatibility-free-trial/)
 - [Amazon ECS now supports Amazon ECS Exec and Amazon Linux 2 for on-premises container workloads](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-exec-linux-2-container-workloads/)
 - [AWS Elemental MediaConvert now supports 4K frame sizes and 10-bit color in the AV1 output format](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elemental-mediaconvert-4k-av1-output/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds additional Geospatial query capabilities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-geospatial-query-capabilities/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Pipelines now offers native EMR integration for large scale data processing](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-emr-integration/)
 - [Amazon EMR now supports Apache Iceberg, a highly performant, concurrent, ACID-compliant table format for data lakes](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-emr-supports-apache-iceberg/)
 - [AWS Migration Hub Strategy Recommendations adds support for Babelfish for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-migration-hub-strategy-recommendations-babelfish-aurora-postgresql/)
-- [Amazon FinSpace managed Apache Spark clusters now support Apache Spark 3](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-finspace-apache-spark-clusters-3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

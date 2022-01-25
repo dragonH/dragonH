@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Lightsail CDN now supports Lightsail Container Services as origins](https://aws.amazon.com/about-aws/whats-new/2022/01/lightsail-cdn-container-services/)
 - [Amazon Chime SDK now supports video background replacement](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-chime-sdk-video-background/)
 - [Amazon Fsx for NetApp ONTAP now enables you to grow your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/)
 - [AWS Panorama Appliances now available for purchase on Amazon.com and Amazon Business](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/)
@@ -67,7 +68,6 @@
 - [Amazon ECS now supports Amazon ECS Exec and Amazon Linux 2 for on-premises container workloads](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-exec-linux-2-container-workloads/)
 - [AWS Elemental MediaConvert now supports 4K frame sizes and 10-bit color in the AV1 output format](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elemental-mediaconvert-4k-av1-output/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds additional Geospatial query capabilities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-geospatial-query-capabilities/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for $mergeObjects and $reduce](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-mongodb-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

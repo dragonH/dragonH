@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now supports video background replacement](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-chime-sdk-video-background/)
+- [Amazon Fsx for NetApp ONTAP now enables you to grow your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/)
 - [AWS Panorama Appliances now available for purchase on Amazon.com and Amazon Business](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is Now Available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-streaming-for-apache-kafka-msk-africa/)
@@ -66,8 +68,6 @@
 - [AWS Elemental MediaConvert now supports 4K frame sizes and 10-bit color in the AV1 output format](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-elemental-mediaconvert-4k-av1-output/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds additional Geospatial query capabilities](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-geospatial-query-capabilities/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for $mergeObjects and $reduce](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-additional-mongodb-apis/)
-- [Amazon RDS for PostgreSQL supports new minor versions 13.5, 12.9, 11.14, 10.19, and 9.6.24; Amazon RDS on Outposts supports new PostgreSQL minor versions 13.5 and 12.9](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-amazon-rds-outposts-postgresql-minor-versions/)
-- [Amazon SageMaker Pipelines now supports concurrency control](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-pipelines-concurrency-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

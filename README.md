@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Contact Lens for Amazon Connect now supports custom vocabulary for tuning transcription accuracy](https://aws.amazon.com/about-aws/whats-new/2022/01/contact-lens-amazon-connect-vocabulary-transcription/)
 - [Amazon MQ is now authorized as FedRAMP Moderate](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mq-authorized-fedramp-moderate/)
 - [Announcing Amazon Elastic File System Replication](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-replication/)
 - [Amazon EC2 R6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6i-instances-regions/)
@@ -67,7 +68,6 @@
 - [Amazon FSx for NetApp ONTAP now enables you to grow your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/)
 - [AWS Panorama Appliances now available for purchase on Amazon.com and Amazon Business](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is Now Available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/)
-- [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-streaming-for-apache-kafka-msk-africa/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

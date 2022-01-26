@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/)
+- [Amazon GuardDuty now protects Amazon Elastic Kubernetes Service clusters](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/)
 - [Contact Lens for Amazon Connect now supports custom vocabulary for tuning transcription accuracy](https://aws.amazon.com/about-aws/whats-new/2022/01/contact-lens-amazon-connect-vocabulary-transcription/)
 - [Amazon MQ is now authorized as FedRAMP Moderate](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mq-authorized-fedramp-moderate/)
 - [Announcing Amazon Elastic File System Replication](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-replication/)
@@ -66,8 +68,6 @@
 - [Lightsail CDN now supports Lightsail Container Services as origins](https://aws.amazon.com/about-aws/whats-new/2022/01/lightsail-cdn-container-services/)
 - [Amazon Chime SDK now supports video background replacement](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-chime-sdk-video-background/)
 - [Amazon FSx for NetApp ONTAP now enables you to grow your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-fsx-netapp-ontap-ssd-storage-capacity/)
-- [AWS Panorama Appliances now available for purchase on Amazon.com and Amazon Business](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-panorama-appliances-amazon-com-business/)
-- [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is Now Available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

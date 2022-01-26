@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Elastic File System Replication](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-replication/)
 - [Amazon EC2 R6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6i-instances-regions/)
 - [Amazon S3 File Gateway adds schedule-based network bandwidth throttling](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-s3-file-gateway-schedule-based-network-bandwidth-throttling/)
 - [Lightsail CDN now supports Lightsail Container Services as origins](https://aws.amazon.com/about-aws/whats-new/2022/01/lightsail-cdn-container-services/)
@@ -67,7 +68,6 @@
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is Now Available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-streaming-apache-kafka-msk-asia-pacific-osaka/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-managed-streaming-for-apache-kafka-msk-africa/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-documentdb-mongodb-compatibility-free-trial/)
-- [Amazon ECS now supports Amazon ECS Exec and Amazon Linux 2 for on-premises container workloads](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ecs-exec-linux-2-container-workloads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Metrics now available for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/01/metrics-aws-privatelink/)
 - [Amazon RDS Performance Insights now supports query execution plan capture for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-query-execution-plan-capture-oracle/)
 - [AWS Resilience Hub expands to 13 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resilience-hub-regions/)
 - [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; now supports Apache Airflow version 2.2 and Web Server Plugins](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mwaa-apache-airflow-plugins/)
@@ -67,7 +68,6 @@
 - [Amazon AppFlow now supports bi-directional transfer of data between SAP applications and AWS](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appflow-bi-directional-transfer-data-sap-aws/)
 - [Amazon EC2 R5b instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/)
 - [Amazon Textract adds synchronous support for single page PDF documents and support for PDF documents containing JPEG 2000 encoded images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/)
-- [Introducing Amazon EC2 X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

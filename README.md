@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resilience Hub expands to 13 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resilience-hub-regions/)
+- [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; now supports Apache Airflow version 2.2 and Web Server Plugins](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mwaa-apache-airflow-plugins/)
 - [Amazon QuickSight adds comparative and cumulative date/time calculations](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-quicksight-comparative-cumulative-date-time-calculations/)
 - [AWS IoT Greengrass is now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-greengrass-available-canada-central-region/)
 - [AWS announces the launch of prediction explanations for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-prediction-explanations-amazon-fraud-detector/)
@@ -66,8 +68,6 @@
 - [Amazon Textract adds synchronous support for single page PDF documents and support for PDF documents containing JPEG 2000 encoded images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/)
 - [Introducing Amazon EC2 X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/)
 - [Amazon GuardDuty now protects Amazon Elastic Kubernetes Service clusters](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/)
-- [Contact Lens for Amazon Connect now supports custom vocabulary for tuning transcription accuracy](https://aws.amazon.com/about-aws/whats-new/2022/01/contact-lens-amazon-connect-vocabulary-transcription/)
-- [Amazon MQ is now authorized as FedRAMP Moderate](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mq-authorized-fedramp-moderate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

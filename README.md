@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight adds comparative and cumulative date/time calculations](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-quicksight-comparative-cumulative-date-time-calculations/)
+- [AWS IoT Greengrass is now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-greengrass-available-canada-central-region/)
+- [AWS announces the launch of prediction explanations for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-prediction-explanations-amazon-fraud-detector/)
 - [Amazon AppFlow now supports bi-directional transfer of data between SAP applications and AWS](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appflow-bi-directional-transfer-data-sap-aws/)
 - [Amazon EC2 R5b instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/)
 - [Amazon Textract adds synchronous support for single page PDF documents and support for PDF documents containing JPEG 2000 encoded images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/)
@@ -65,9 +68,6 @@
 - [Amazon GuardDuty now protects Amazon Elastic Kubernetes Service clusters](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-guardduty-elastic-kubernetes-service-clusters/)
 - [Contact Lens for Amazon Connect now supports custom vocabulary for tuning transcription accuracy](https://aws.amazon.com/about-aws/whats-new/2022/01/contact-lens-amazon-connect-vocabulary-transcription/)
 - [Amazon MQ is now authorized as FedRAMP Moderate](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mq-authorized-fedramp-moderate/)
-- [Announcing Amazon Elastic File System Replication](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-replication/)
-- [Amazon EC2 R6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6i-instances-regions/)
-- [Amazon S3 File Gateway adds schedule-based network bandwidth throttling](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-s3-file-gateway-schedule-based-network-bandwidth-throttling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

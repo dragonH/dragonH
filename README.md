@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now supports bi-directional transfer of data between SAP applications and AWS](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appflow-bi-directional-transfer-data-sap-aws/)
 - [Amazon EC2 R5b instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/)
 - [Amazon Textract adds synchronous support for single page PDF documents and support for PDF documents containing JPEG 2000 encoded images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/)
 - [Introducing Amazon EC2 X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-x2iezn/)
@@ -67,7 +68,6 @@
 - [Announcing Amazon Elastic File System Replication](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-replication/)
 - [Amazon EC2 R6i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r6i-instances-regions/)
 - [Amazon S3 File Gateway adds schedule-based network bandwidth throttling](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-s3-file-gateway-schedule-based-network-bandwidth-throttling/)
-- [Lightsail CDN now supports Lightsail Container Services as origins](https://aws.amazon.com/about-aws/whats-new/2022/01/lightsail-cdn-container-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

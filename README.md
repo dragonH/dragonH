@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 G4dn instances now available in AWS Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-g4dn-osaka/)
+- [Amazon RDS for PostgreSQL and Amazon RDS on AWS Outposts Now Supports PostgreSQL 14](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/)
+- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-amazon-efs-available-new-region/)
 - [Metrics now available for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/01/metrics-aws-privatelink/)
 - [Amazon RDS Performance Insights now supports query execution plan capture for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-query-execution-plan-capture-oracle/)
 - [AWS Resilience Hub expands to 13 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resilience-hub-regions/)
@@ -65,9 +68,6 @@
 - [Amazon QuickSight adds comparative and cumulative date/time calculations](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-quicksight-comparative-cumulative-date-time-calculations/)
 - [AWS IoT Greengrass is now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-iot-greengrass-available-canada-central-region/)
 - [AWS announces the launch of prediction explanations for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-prediction-explanations-amazon-fraud-detector/)
-- [Amazon AppFlow now supports bi-directional transfer of data between SAP applications and AWS](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-appflow-bi-directional-transfer-data-sap-aws/)
-- [Amazon EC2 R5b instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-r5b-instances-seoul/)
-- [Amazon Textract adds synchronous support for single page PDF documents and support for PDF documents containing JPEG 2000 encoded images](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-textract-pdf-processing-jpeg-encoded-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

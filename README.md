@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/)
+- [Amazon SageMaker Autopilot adds support for Apache Parquet file format](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-apache-parquet/)
+- [Amazon SageMaker Autopilot adds support for datasets up to 100 GB](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-datasets-up-to-100-gb/)
 - [Amazon Kinesis Data Firehose now delivers to Honeycomb](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-kinesis-data-firehose-delivers-honeycomb/)
 - [AWS Systems Manager Automation now enables monitoring of service usage quota in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/)
 - [AWS Systems Manager now supports higher concurrency for Automation executions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for PostgreSQL and Amazon RDS on AWS Outposts Now Supports PostgreSQL 14](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-elastic-file-system-amazon-efs-available-new-region/)
 - [Metrics now available for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/01/metrics-aws-privatelink/)
-- [Amazon RDS Performance Insights now supports query execution plan capture for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-performance-query-execution-plan-capture-oracle/)
-- [AWS Resilience Hub expands to 13 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-resilience-hub-regions/)
-- [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; now supports Apache Airflow version 2.2 and Web Server Plugins](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-mwaa-apache-airflow-plugins/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

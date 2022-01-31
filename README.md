@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK now offers the ability to scale storage throughput up to 1000 MiB/s per broker](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/)
 - [Amazon SageMaker JumpStart models support custom VPC and KMS settings](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-custom-vpc-kms-settings/)
 - [Improved progress updates for blue/green deployments in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2022/01/improved-progress-updates-blue-green-deployments-amazon-opensearch-service/)
 - [AWS Cloud Map API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager Automation now enables monitoring of service usage quota in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/)
 - [AWS Systems Manager now supports higher concurrency for Automation executions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/)
 - [Amazon EC2 G4dn instances now available in AWS Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-ec2-g4dn-osaka/)
-- [Amazon RDS for PostgreSQL and Amazon RDS on AWS Outposts now support PostgreSQL 14](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-rds-postgresql-14-outposts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

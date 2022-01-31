@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda auto scaling improvements for Amazon MSK and self-managed Apache Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/)
+- [Amazon Connect Chat now supports a configurable chat duration of up to 7 days](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-connect-chat-duration-7-days/)
 - [AWS Step Functions adds mocking support for testing workflows locally](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-step-functions-support-workflows/)
 - [Amazon MSK now offers the ability to scale storage throughput up to 1000 MiB/s per broker](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/)
 - [Amazon SageMaker JumpStart models support custom VPC and KMS settings](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-custom-vpc-kms-settings/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Autopilot adds support for Apache Parquet file format](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-apache-parquet/)
 - [Amazon SageMaker Autopilot adds support for datasets up to 100 GB](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-datasets-up-to-100-gb/)
 - [Amazon Kinesis Data Firehose now delivers to Honeycomb](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-kinesis-data-firehose-delivers-honeycomb/)
-- [AWS Systems Manager Automation now enables monitoring of service usage quota in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-automation-usage-quota-amazon-cloudwatch/)
-- [AWS Systems Manager now supports higher concurrency for Automation executions](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-systems-manager-concurrency-automation-executions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

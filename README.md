@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex launches multiple transcripts and confidence scores support for speech input](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-multiple-transcripts-confidence-scores-support-speech-input/)
 - [AWS Lambda auto scaling improvements for Amazon MSK and self-managed Apache Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/)
 - [Amazon Connect Chat now supports a configurable chat duration of up to 7 days](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-connect-chat-duration-7-days/)
 - [AWS Step Functions adds mocking support for testing workflows locally](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-step-functions-support-workflows/)
@@ -67,7 +68,6 @@
 - [AWS Cloud Map API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/)
 - [Amazon SageMaker Autopilot adds support for Apache Parquet file format](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-apache-parquet/)
 - [Amazon SageMaker Autopilot adds support for datasets up to 100 GB](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-datasets-up-to-100-gb/)
-- [Amazon Kinesis Data Firehose now delivers to Honeycomb](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-kinesis-data-firehose-delivers-honeycomb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

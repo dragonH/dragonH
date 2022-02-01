@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for Lustre is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/)
+- [Amazon FSx for Windows File Server is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/)
 - [Amazon Lex launches multiple transcripts and confidence scores support for speech input](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-multiple-transcripts-confidence-scores-support-speech-input/)
 - [AWS Lambda auto scaling improvements for Amazon MSK and self-managed Apache Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/)
 - [Amazon Connect Chat now supports a configurable chat duration of up to 7 days](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-connect-chat-duration-7-days/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker JumpStart models support custom VPC and KMS settings](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-custom-vpc-kms-settings/)
 - [Improved progress updates for blue/green deployments in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2022/01/improved-progress-updates-blue-green-deployments-amazon-opensearch-service/)
 - [AWS Cloud Map API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/)
-- [Amazon SageMaker Autopilot adds support for Apache Parquet file format](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-apache-parquet/)
-- [Amazon SageMaker Autopilot adds support for datasets up to 100 GB](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-autopilot-datasets-up-to-100-gb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

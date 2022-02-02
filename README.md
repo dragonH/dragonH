@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core now supports per-device level logging capability for fine-grained diagnostic of IoT devices](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-iot-core-device-logging-diagnostic-devices/)
+- [MLOps Workload Orchestrator adds support for Amazon SageMaker Model Explainability and Model Bias Monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/mlops-workload-orchestrator-support-amazon-sagemaker-model-explainability-model-bias-monitoring/)
+- [Maintaining Personalized Experiences with Machine Learning adds support for business domains and user segmentation](https://aws.amazon.com/about-aws/whats-new/2022/02/maintaining-personalized-experiences-with-machine-learning-business-domains-user-segmentation/)
+- [AWS Secrets Manager now supports rotation windows](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-secrets-manager-windows/)
 - [Amazon Connect is now available in the Africa &lpar;Cape Town&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-africa-cape-town/)
 - [Prepare JSON and ORC data, balance and encode data sets, and launch data processing jobs in one click with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/02/json-orc-data-processing-jobs-amazon-sagemaker-data-wrangler/)
 - [Amazon SQS Enhances Dead-letter Queue Management Experience For Standard Queues in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sqs-dead-letter-queue-experience-aws-govcloud/)
 - [Amazon FSx for Lustre is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/)
 - [Amazon FSx for Windows File Server is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/)
 - [Amazon Lex launches multiple transcripts and confidence scores support for speech input](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-multiple-transcripts-confidence-scores-support-speech-input/)
-- [AWS Lambda auto scaling improvements for Amazon MSK and self-managed Apache Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-lambda-auto-scaling-msk-apache-kafka/)
-- [Amazon Connect Chat now supports a configurable chat duration of up to 7 days](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-connect-chat-duration-7-days/)
-- [AWS Step Functions adds mocking support for testing workflows locally](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-step-functions-support-workflows/)
-- [Amazon MSK now offers the ability to scale storage throughput up to 1000 MiB/s per broker](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

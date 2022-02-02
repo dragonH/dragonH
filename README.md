@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SQS Enhances Dead-letter Queue Management Experience For Standard Queues in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sqs-dead-letter-queue-experience-aws-govcloud/)
 - [Amazon FSx for Lustre is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/)
 - [Amazon FSx for Windows File Server is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-windows-fedramp-compliant/)
 - [Amazon Lex launches multiple transcripts and confidence scores support for speech input](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-lex-multiple-transcripts-confidence-scores-support-speech-input/)
@@ -67,7 +68,6 @@
 - [Amazon MSK now offers the ability to scale storage throughput up to 1000 MiB/s per broker](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-msk-scale-storage-1000-broker/)
 - [Amazon SageMaker JumpStart models support custom VPC and KMS settings](https://aws.amazon.com/about-aws/whats-new/2022/01/amazon-sagemaker-jumpstart-custom-vpc-kms-settings/)
 - [Improved progress updates for blue/green deployments in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2022/01/improved-progress-updates-blue-green-deployments-amazon-opensearch-service/)
-- [AWS Cloud Map API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

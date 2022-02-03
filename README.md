@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for OpenZFS now supports full-copy volumes to make it easier to clone and experiment with your data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-openzfs-full-copy-volumes/)
 - [Amazon Redshift default IAM role is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-iam-role-regions/)
 - [Amazon Comprehend launches model copy for custom Comprehend](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-comprehend-model-copy-custom/)
 - [AWS IoT Core now supports per-device level logging capability for fine-grained diagnostic of IoT devices](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-iot-core-device-logging-diagnostic-devices/)
@@ -67,7 +68,6 @@
 - [Amazon Connect is now available in the Africa &lpar;Cape Town&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-africa-cape-town/)
 - [Prepare JSON and ORC data, balance and encode data sets, and launch data processing jobs in one click with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/02/json-orc-data-processing-jobs-amazon-sagemaker-data-wrangler/)
 - [Amazon SQS Enhances Dead-letter Queue Management Experience For Standard Queues in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sqs-dead-letter-queue-experience-aws-govcloud/)
-- [Amazon FSx for Lustre is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-lustre-fedramp-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

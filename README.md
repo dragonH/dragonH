@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow launches Custom Connector SDK](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/)
+- [Amazon Keyspace now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspace-fedramp-apache-cassandra/)
 - [Amazon ElastiCache now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/)
 - [Amazon MemoryDB for Redis now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-memorydb-redis-aws-privatelink/)
 - [Amazon RDS for MariaDB now supports MariaDB 10.6](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-mariadb-10-6/)
@@ -66,8 +68,6 @@
 - [Amazon Comprehend launches model copy for custom Comprehend](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-comprehend-model-copy-custom/)
 - [AWS IoT Core now supports per-device level logging capability for fine-grained diagnostic of IoT devices](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-iot-core-device-logging-diagnostic-devices/)
 - [MLOps Workload Orchestrator adds support for Amazon SageMaker Model Explainability and Model Bias Monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/mlops-workload-orchestrator-support-amazon-sagemaker-model-explainability-model-bias-monitoring/)
-- [Maintaining Personalized Experiences with Machine Learning adds support for business domains and user segmentation](https://aws.amazon.com/about-aws/whats-new/2022/02/maintaining-personalized-experiences-with-machine-learning-business-domains-user-segmentation/)
-- [AWS Secrets Manager now supports rotation windows](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-secrets-manager-windows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight  adds rich text formatting options for visual titles and subtitles](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-quicksight-rich-text-titles-subtitles/)
 - [Amazon RDS Custom for Oracle Now Supports Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-custom-oracle-database-12-1/)
 - [Amazon Redshift default IAM role is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-default-iam-role-available-aws-govcloud-us-regions/)
 - [Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/)
 - [Amazon MemoryDB for Redis now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-memorydb-redis-aws-privatelink/)
 - [Amazon RDS for MariaDB now supports MariaDB 10.6](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-mariadb-10-6/)
-- [Amazon Redshift default IAM role is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-iam-role-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

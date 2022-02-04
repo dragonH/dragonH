@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/)
 - [Amazon AppFlow launches Custom Connector SDK](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/)
 - [Amazon Keyspaces now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspace-fedramp-apache-cassandra/)
 - [Amazon ElastiCache now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/)
@@ -67,7 +68,6 @@
 - [Amazon Redshift default IAM role is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-iam-role-regions/)
 - [Amazon Comprehend launches model copy for custom Comprehend](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-comprehend-model-copy-custom/)
 - [AWS IoT Core now supports per-device level logging capability for fine-grained diagnostic of IoT devices](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-iot-core-device-logging-diagnostic-devices/)
-- [MLOps Workload Orchestrator adds support for Amazon SageMaker Model Explainability and Model Bias Monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/mlops-workload-orchestrator-support-amazon-sagemaker-model-explainability-model-bias-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Storage Gateway enables on-premises users to recover previous versions of files on Amazon FSx File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-storage-gateway-recover-files-amazon-fsx-gateway/)
-- [Amazon QuickSight  adds rich text formatting options for visual titles and subtitles](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-quicksight-rich-text-titles-subtitles/)
-- [Amazon RDS Custom for Oracle Now Supports Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-custom-oracle-database-12-1/)
-- [Amazon Redshift default IAM role is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-default-iam-role-available-aws-govcloud-us-regions/)
-- [Amazon EC2 customers can now use Recycle Bin to recover from accidental deletions of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-recycle-bin-machine-images/)
-- [Amazon AppFlow launches Custom Connector SDK](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-appflow-launches-custom-connector-sdk/)
-- [Amazon Keyspaces now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspace-fedramp-apache-cassandra/)
-- [Amazon FSx for OpenZFS now supports full-copy volumes to make it easier to clone and experiment with your data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-fsx-openzfs-full-copy-volumes/)
-- [Amazon ElastiCache now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-elasticache-aws-privatelink/)
-- [Amazon MemoryDB for Redis now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-memorydb-redis-aws-privatelink/)
+- [Now consistently deploy Alert Logic MDR Agent across EC2 and On-Premises instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2022/02/alert-logic-mdr-agent-ec2-on-premises-instances-aws-systems-manager/)
+- [AWS Launch Wizard now supports the latest versions and to bring your own subscription &lpar;BYOS&rpar; for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-launch-wizard-latest-versions-byos-red-hat-enterprise-linux/)
+- [Amazon SageMaker Autopilot now provides Confusion Matrix and additional new insights for classification problems.](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-autopilot-matrix-insights-classification/)
+- [Amazon VPC now supports an AWS-managed prefix list for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudfront-managed-prefix-list/)
+- [AWS announces geolocation enrichment for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-geolocation-enrichment-amazon-fraud-detector-models/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; R6g and T4g instances are now available in Asia Pacific &lpar;Seoul&rpar;, South America &lpar;Sao Paulo&rpar;, and Europe &lpar;Paris&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-documentdb-mongodb-r6g-t4g-additional-regions/)
+- [Incident Manager from AWS Systems Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/incident-manager-aws-systems-privatelink/)
+- [IPv6-only subnets and EC2 instances now available in AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/02/ipv6-only-subnets-ec2-instances-available-jakarta-region/)
+- [Announcing AWS PrivateLink support for Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-amazon-forecast/)
+- [Amazon Keyspaces now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspaces-fedramp-apache-cassandra/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

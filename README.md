@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Migration Hub Refactor Spaces – Now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-migration-hub-refactor-spaces-available/)
 - [AWS Organizations console now lets users centrally manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-organizations-console-manage-alternate-contacts/)
 - [AWS App Runner adds support for Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/)
 - [Amazon S3 Batch Replication synchronizes existing data between buckets](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-batch-replication-synchronizes-existing-data-between-buckets/)
@@ -67,7 +68,6 @@
 - [Amazon VPC now supports an AWS-managed prefix list for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudfront-managed-prefix-list/)
 - [AWS announces geolocation enrichment for Amazon Fraud Detector Models](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-geolocation-enrichment-amazon-fraud-detector-models/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; R6g and T4g instances are now available in Asia Pacific &lpar;Seoul&rpar;, South America &lpar;Sao Paulo&rpar;, and Europe &lpar;Paris&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-documentdb-mongodb-r6g-t4g-additional-regions/)
-- [Incident Manager from AWS Systems Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/incident-manager-aws-systems-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

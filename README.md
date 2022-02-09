@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Batch Replication synchronizes existing data between buckets](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-batch-replication-synchronizes-existing-data-between-buckets/)
 - [Now consistently deploy Alert Logic MDR Agent across EC2 and On-Premises instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2022/02/alert-logic-mdr-agent-ec2-on-premises-instances-aws-systems-manager/)
 - [AWS Launch Wizard now supports the latest versions and to bring your own subscription &lpar;BYOS&rpar; for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-launch-wizard-latest-versions-byos-red-hat-enterprise-linux/)
 - [Amazon SageMaker Autopilot now provides Confusion Matrix and additional new insights for classification problems.](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-autopilot-matrix-insights-classification/)
@@ -67,7 +68,6 @@
 - [Incident Manager from AWS Systems Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/incident-manager-aws-systems-privatelink/)
 - [IPv6-only subnets and EC2 instances now available in AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/02/ipv6-only-subnets-ec2-instances-available-jakarta-region/)
 - [Announcing AWS PrivateLink support for Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-amazon-forecast/)
-- [Amazon Keyspaces now is in scope for FedRAMP Moderate compliance to help you run highly regulated Apache Cassandra workloads more easily](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-keyspaces-fedramp-apache-cassandra/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

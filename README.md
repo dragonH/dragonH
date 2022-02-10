@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS ParallelCluster now supports multi-user environments through AWS Directory Service](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-parallelcluster-environments-directory-service/)
 - [Amazon Redshift announces public preview of Streaming Ingestion for Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/)
 - [AWS Control Tower now provides updated support for AWS best practices and Region deny](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/)
 - [AWS Managed Services now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [AWS Migration Hub Refactor Spaces – Now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-migration-hub-refactor-spaces-available/)
 - [AWS Organizations console now lets users centrally manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-organizations-console-manage-alternate-contacts/)
 - [AWS App Runner adds support for Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/)
-- [Amazon S3 Batch Replication synchronizes existing data between buckets](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-batch-replication-synchronizes-existing-data-between-buckets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower now provides updated support for AWS best practices and Region deny](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/)
+- [AWS Managed Services now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/)
 - [Announcing a new AWS Billing console Home page experience](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-billing-console-home/)
 - [Amazon Rekognition Video supports 7 new languages and improves accuracy for text detection](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rekognition-video-new-languages-text-accuracy/)
 - [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-aws-asia-osaka/)
@@ -66,8 +68,6 @@
 - [AWS App Runner adds support for Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/)
 - [Amazon S3 Batch Replication synchronizes existing data between buckets](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-batch-replication-synchronizes-existing-data-between-buckets/)
 - [Now consistently deploy Alert Logic MDR Agent across EC2 and On-Premises instances using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2022/02/alert-logic-mdr-agent-ec2-on-premises-instances-aws-systems-manager/)
-- [AWS Launch Wizard now supports the latest versions and to bring your own subscription &lpar;BYOS&rpar; for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-launch-wizard-latest-versions-byos-red-hat-enterprise-linux/)
-- [Amazon SageMaker Autopilot now provides Confusion Matrix and additional new insights for classification problems.](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-autopilot-matrix-insights-classification/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue DataBrew now supports multi-column and custom sort as transformations](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/)
+- [AWS Glue DataBrew now supports E.164 phone number standardization as a transformation](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/)
+- [AWS Elemental MediaConnect now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-elemental-mediaconnect-privatelink/)
 - [AWS ParallelCluster now supports multi-user environments through AWS Directory Service](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-parallelcluster-environments-directory-service/)
 - [Amazon Redshift announces public preview of Streaming Ingestion for Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/)
 - [AWS Control Tower now provides updated support for AWS best practices and Region deny](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/)
@@ -65,9 +68,6 @@
 - [Announcing a new AWS Billing console Home page experience](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-billing-console-home/)
 - [Amazon Rekognition Video supports 7 new languages and improves accuracy for text detection](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rekognition-video-new-languages-text-accuracy/)
 - [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-aws-asia-osaka/)
-- [AWS Migration Hub Refactor Spaces – Now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-migration-hub-refactor-spaces-available/)
-- [AWS Organizations console now lets users centrally manage alternate contacts on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-organizations-console-manage-alternate-contacts/)
-- [AWS App Runner adds support for Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-amazon-vpc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

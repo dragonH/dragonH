@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Announces the General Availability of AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/)
 - [AWS Glue DataBrew now supports multi-column and custom sort as transformations](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/)
 - [AWS Glue DataBrew now supports E.164 phone number standardization as a transformation](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/)
 - [AWS Elemental MediaConnect now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-elemental-mediaconnect-privatelink/)
@@ -67,7 +68,6 @@
 - [AWS Managed Services now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/)
 - [Announcing a new AWS Billing console Home page experience](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-billing-console-home/)
 - [Amazon Rekognition Video supports 7 new languages and improves accuracy for text detection](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rekognition-video-new-languages-text-accuracy/)
-- [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-aws-asia-osaka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

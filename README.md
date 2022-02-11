@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches Amazon CloudWatch support for Chat metrics](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-cloudwatch-chat-metrics/)
 - [Amazon Neptune ML now supports custom models and SPARQL query language](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-ml-custom-models-sparql/)
 - [Amazon Neptune now supports up to 128TiB of storage per cluster](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-128tib-storage-cluster/)
 - [AWS Announces the General Availability of AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/)
@@ -67,7 +68,6 @@
 - [AWS ParallelCluster now supports multi-user environments through AWS Directory Service](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-parallelcluster-environments-directory-service/)
 - [Amazon Redshift announces public preview of Streaming Ingestion for Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-public-preview-streaming-ingestion-kinesis-data-streams/)
 - [AWS Control Tower now provides updated support for AWS best practices and Region deny](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-control-tower-support-best-practices/)
-- [AWS Managed Services now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-managed-services-available-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

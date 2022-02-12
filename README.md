@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/dragonH/solidity-practice/pull/2) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
-2. 💪 Opened PR [#2](https://github.com/dragonH/solidity-practice/pull/2) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
-3. 💪 Opened PR [#1](https://github.com/dragonH/solidity-practice/pull/1) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
-4. 🎉 Merged PR [#8](https://github.com/dragonH/pokecord_selfbot/pull/8) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
-5. 🎉 Merged PR [#21](https://github.com/dragonH/shopping-site-practice/pull/21) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+1. 🎉 Merged PR [#9](https://github.com/dragonH/Crawlers/pull/9) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
+2. 🎉 Merged PR [#2](https://github.com/dragonH/solidity-practice/pull/2) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
+3. 💪 Opened PR [#2](https://github.com/dragonH/solidity-practice/pull/2) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
+4. 💪 Opened PR [#1](https://github.com/dragonH/solidity-practice/pull/1) in [dragonH/solidity-practice](https://github.com/dragonH/solidity-practice)
+5. 🎉 Merged PR [#8](https://github.com/dragonH/pokecord_selfbot/pull/8) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
 <!--END_SECTION:activity-->
 
 </details>

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 C6a instances](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/)
 - [Amazon MQ now supports RabbitMQ version 3.9.13](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-support/)
 - [AWS SSO Expands Support for Customer Compliance with PCI-DSS and IRAP](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-sso-expands-support-customer-compliance/)
 - [AWS WAF introduces AWS WAF Fraud Control - Account Takeover Prevention for protecting your login page against credential stuffing attacks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-waf-fraud-control-login-credential-attacks/)
@@ -67,7 +68,6 @@
 - [AWS Announces the General Availability of AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/)
 - [AWS Glue DataBrew now supports multi-column and custom sort as transformations](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/)
 - [AWS Glue DataBrew now supports E.164 phone number standardization as a transformation](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/)
-- [AWS Elemental MediaConnect now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-elemental-mediaconnect-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

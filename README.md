@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports RabbitMQ version 3.9.13](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-support/)
 - [AWS SSO Expands Support for Customer Compliance with PCI-DSS and IRAP](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-sso-expands-support-customer-compliance/)
 - [AWS WAF introduces AWS WAF Fraud Control - Account Takeover Prevention for protecting your login page against credential stuffing attacks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-waf-fraud-control-login-credential-attacks/)
 - [Amazon Connect launches Amazon CloudWatch support for Chat metrics](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-cloudwatch-chat-metrics/)
@@ -67,7 +68,6 @@
 - [AWS Glue DataBrew now supports multi-column and custom sort as transformations](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/)
 - [AWS Glue DataBrew now supports E.164 phone number standardization as a transformation](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-phone-number-standardization-transformation/)
 - [AWS Elemental MediaConnect now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-elemental-mediaconnect-privatelink/)
-- [AWS ParallelCluster now supports multi-user environments through AWS Directory Service](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-parallelcluster-environments-directory-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

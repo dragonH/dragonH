@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing sub-millisecond read latencies for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/02/sub-millisecond-read-latencies-amazon-elastic-file-system/)
 - [Amazon Connect now provides CloudFormation support for integrations with third-party data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-cloudformation-integrations-third-party-data/)
 - [Introducing Amazon EC2 C6a instances](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/)
 - [Amazon MQ now supports RabbitMQ version 3.9.13](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-support/)
@@ -67,7 +68,6 @@
 - [Amazon Neptune ML now supports custom models and SPARQL query language](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-ml-custom-models-sparql/)
 - [Amazon Neptune now supports up to 128TiB of storage per cluster](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-128tib-storage-cluster/)
 - [AWS Announces the General Availability of AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-announces-general-availability-aws-cloudformation-hooks/)
-- [AWS Glue DataBrew now supports multi-column and custom sort as transformations](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-multi-column-sort-transformations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

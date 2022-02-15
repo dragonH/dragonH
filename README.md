@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket adds support for the new 80-qubit quantum processor from Rigetti](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-80-quantum-processor-rigetti/)
 - [AWS OpsWorks for Configuration Management now supports new version of Chef Automate](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-opsworks-chef-automate-version-support/)
 - [Announcing sub-millisecond read latencies for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/02/sub-millisecond-read-latencies-amazon-elastic-file-system/)
 - [Amazon Connect now provides CloudFormation support for integrations with third-party data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-cloudformation-integrations-third-party-data/)
@@ -67,7 +68,6 @@
 - [AWS WAF introduces AWS WAF Fraud Control - Account Takeover Prevention for protecting your login page against credential stuffing attacks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-waf-fraud-control-login-credential-attacks/)
 - [Amazon Connect launches Amazon CloudWatch support for Chat metrics](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-cloudwatch-chat-metrics/)
 - [Amazon Neptune ML now supports custom models and SPARQL query language](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-ml-custom-models-sparql/)
-- [Amazon Neptune now supports up to 128TiB of storage per cluster](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-128tib-storage-cluster/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

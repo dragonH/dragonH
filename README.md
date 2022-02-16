@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for unloading data to JSON files](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-unloading-data-json-files/)
+- [AWS Security Hub launches 13 controls and two partners for security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-security-hub-new-controls-partners-automated-security-posture-monitoring/)
 - [Announcing Automatic Workload Management for Amazon Redshift Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/)
 - [AWS Resource Access Manager achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/)
 - [Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/)
@@ -66,8 +68,6 @@
 - [AWS OpsWorks for Configuration Management now supports new version of Chef Automate](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-opsworks-chef-automate-version-support/)
 - [Announcing sub-millisecond read latencies for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/02/sub-millisecond-read-latencies-amazon-elastic-file-system/)
 - [Amazon Connect now provides CloudFormation support for integrations with third-party data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-cloudformation-integrations-third-party-data/)
-- [Introducing Amazon EC2 C6a instances](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/)
-- [Amazon MQ now supports RabbitMQ version 3.9.13](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

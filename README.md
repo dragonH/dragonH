@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Automatic Workload Management for Amazon Redshift Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/)
+- [AWS Resource Access Manager achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/)
 - [Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/)
 - [CodeGuru Reviewer launches new Detector Library and example repositories](https://aws.amazon.com/about-aws/whats-new/2022/02/codeguru-reviewer-detector-library-repositories/)
 - [Amazon Braket adds support for the new 80-qubit quantum processor from Rigetti](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-80-quantum-processor-rigetti/)
@@ -66,8 +68,6 @@
 - [Amazon Connect now provides CloudFormation support for integrations with third-party data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-cloudformation-integrations-third-party-data/)
 - [Introducing Amazon EC2 C6a instances](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-c6a-instances/)
 - [Amazon MQ now supports RabbitMQ version 3.9.13](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-support/)
-- [AWS SSO Expands Support for Customer Compliance with PCI-DSS and IRAP](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-sso-expands-support-customer-compliance/)
-- [AWS WAF introduces AWS WAF Fraud Control - Account Takeover Prevention for protecting your login page against credential stuffing attacks](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-waf-fraud-control-login-credential-attacks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

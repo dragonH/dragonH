@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Container Insights adds support for Amazon EKS Fargate using AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/)
 - [Amazon MQ is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-africa-region/)
 - [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on RDS Management APIs](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-internet-protocol-version-6-ipv6-rds-management-apis/)
 - [Amazon Redshift announces support for unloading data to JSON files](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-unloading-data-json-files/)
@@ -67,7 +68,6 @@
 - [Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/)
 - [CodeGuru Reviewer launches new Detector Library and example repositories](https://aws.amazon.com/about-aws/whats-new/2022/02/codeguru-reviewer-detector-library-repositories/)
 - [Amazon Braket adds support for the new 80-qubit quantum processor from Rigetti](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-80-quantum-processor-rigetti/)
-- [AWS OpsWorks for Configuration Management now supports new version of Chef Automate](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-opsworks-chef-automate-version-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

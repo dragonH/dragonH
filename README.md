@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Redshift Cross-region data sharing](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-cross-region-data-sharing/)
+- [AWS introduces s2n-quic, a new open-source implementation of the QUIC protocol](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/)
 - [Introducing auto-adjusting budgets](https://aws.amazon.com/about-aws/whats-new/2022/02/auto-adjusting-budgets/)
 - [Amazon CloudWatch Container Insights adds support for Amazon EKS Fargate using AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/)
 - [Amazon MQ is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-africa-region/)
@@ -66,8 +68,6 @@
 - [AWS Security Hub launches 13 controls and two partners for security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-security-hub-new-controls-partners-automated-security-posture-monitoring/)
 - [Announcing Automatic Workload Management for Amazon Redshift Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/)
 - [AWS Resource Access Manager achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/)
-- [Amazon CodeGuru Reviewer now detects Apache Log4j and other log injection vulnerabilities in code](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-codeguru-reviewer-detects-apache-log4j/)
-- [CodeGuru Reviewer launches new Detector Library and example repositories](https://aws.amazon.com/about-aws/whats-new/2022/02/codeguru-reviewer-detector-library-repositories/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

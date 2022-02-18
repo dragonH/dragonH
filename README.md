@@ -58,12 +58,12 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family now supports login banners](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/)
 - [Announcing Amazon Redshift Cross-region data sharing](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-cross-region-data-sharing/)
 - [AWS introduces s2n-quic, a new open-source implementation of the QUIC protocol](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/)
 - [Introducing auto-adjusting budgets](https://aws.amazon.com/about-aws/whats-new/2022/02/auto-adjusting-budgets/)
 - [Amazon CloudWatch Container Insights adds support for Amazon EKS Fargate using AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/)
 - [Amazon MQ is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-africa-region/)
-- [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on RDS Management APIs](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-internet-protocol-version-6-ipv6-rds-management-apis/)
 - [Amazon Redshift announces support for unloading data to JSON files](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-unloading-data-json-files/)
 - [AWS Security Hub launches 13 controls and two partners for security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-security-hub-new-controls-partners-automated-security-posture-monitoring/)
 - [Announcing Automatic Workload Management for Amazon Redshift Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/)

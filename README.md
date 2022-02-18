@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB now supports Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/)
 - [AWS Transfer Family now supports login banners](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/)
 - [Announcing Amazon Redshift Cross-region data sharing](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-cross-region-data-sharing/)
 - [AWS introduces s2n-quic, a new open-source implementation of the QUIC protocol](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/)
@@ -67,7 +68,6 @@
 - [Amazon Redshift announces support for unloading data to JSON files](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-redshift-unloading-data-json-files/)
 - [AWS Security Hub launches 13 controls and two partners for security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-security-hub-new-controls-partners-automated-security-posture-monitoring/)
 - [Announcing Automatic Workload Management for Amazon Redshift Concurrency Scaling](https://aws.amazon.com/about-aws/whats-new/2022/02/automatic-workload-management-amazon-redshift-concurrency-scaling/)
-- [AWS Resource Access Manager achieves PCI DSS Compliance](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-resource-access-manager-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

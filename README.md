@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon QuickSight’s new community hub](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-quicksight-community-hub/)
 - [AWS Firewall Manager now supports versioning for AWS WAF managed rule group](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-waf-rule-group/)
 - [Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition 2017](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/)
 - [Announcing the general availability of AWS Backup for Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/02/general-availability-aws-backup-amazon-s3/)
@@ -67,7 +68,6 @@
 - [AWS introduces s2n-quic, a new open-source implementation of the QUIC protocol](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-introduces-s2n-quic/)
 - [Introducing auto-adjusting budgets](https://aws.amazon.com/about-aws/whats-new/2022/02/auto-adjusting-budgets/)
 - [Amazon CloudWatch Container Insights adds support for Amazon EKS Fargate using AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-eks-fargate-distro-opentelemetry/)
-- [Amazon MQ is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-africa-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

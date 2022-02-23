@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Glue Job Run Insights](https://aws.amazon.com/about-aws/whats-new/2022/02/announcing-aws-glue-job-run-insights/)
 - [Amazon Connect Customer Profiles now supports high-volume ingestion of customer data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-customer-profiles-data/)
 - [Amazon SageMaker adds new APIs for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/)
 - [AWS AppSync adds support for custom response headers](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/)
@@ -67,7 +68,6 @@
 - [AWS Firewall Manager now supports versioning for AWS WAF managed rule group](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-waf-rule-group/)
 - [Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition 2017](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/)
 - [Announcing the general availability of AWS Backup for Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/02/general-availability-aws-backup-amazon-s3/)
-- [Amazon RDS for MariaDB now supports Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

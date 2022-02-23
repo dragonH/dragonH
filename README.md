@@ -58,8 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS AppSync adds support for custom response headers](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/)
+- [Amazon Connect Customer Profiles now supports high-volume ingestion of customer data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-customer-profiles-data/)
 - [Amazon SageMaker adds new APIs for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/)
+- [AWS AppSync adds support for custom response headers](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-appsync-support-custom-response-headers/)
 - [Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/02/database-activity-streams-amazon-rds-oracle-amazon-aurora-asia-pacific-region/)
 - [Amazon Kendra is now FedRAMP Moderate Compliant](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-kendra-fedramp-compliant/)
 - [Announcing Amazon QuickSight’s new community hub](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-quicksight-community-hub/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for SQL Server now supports Always On Availability Groups for Standard Edition 2017](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-sql-server-always-on-availability-groups-se-2017/)
 - [Announcing the general availability of AWS Backup for Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/02/general-availability-aws-backup-amazon-s3/)
 - [Amazon RDS for MariaDB now supports Delayed Replication](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-supports-delayed-replication/)
-- [AWS Transfer Family now supports login banners](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-login-banners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

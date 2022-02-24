@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for .NET 6](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/)
 - [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/)
 - [AWS Snowcone SSD is now available in the Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar; and South America &lpar; Sao Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-snowcone-ssd-extended-regions/)
 - [NICE DCV releases version 2022.0 with high color accuracy and game controller support](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-new-version-color-game-controller/)
@@ -67,7 +68,6 @@
 - [AWS Transfer Family announces enhancements to workflows](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-transfer-family-enhancements-workflows/)
 - [Announcing AWS Glue Job Run Insights](https://aws.amazon.com/about-aws/whats-new/2022/02/announcing-aws-glue-job-run-insights/)
 - [Amazon Connect Customer Profiles now supports high-volume ingestion of customer data](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-connect-customer-profiles-data/)
-- [Amazon SageMaker adds new APIs for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-sagemaker-apis-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

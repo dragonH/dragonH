@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner adds a Java platform](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/)
 - [AWS Glue Schema Registry now supports Protocol Buffers &lpar;Protobuf&rpar; schemas](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/)
 - [Amazon S3 accelerates integrity checking of requests by up to 90%](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/)
 - [Announcing TypeScript native support in the AWS Serverless Application Model &lpar;AWS SAM&rpar; CLI &lpar;using esbuild&rpar; &lpar;public preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/02/typescript-native-support-aws-serverless-application-model-cli-esbuild-public-preview/)
@@ -67,7 +68,6 @@
 - [AWS Firewall Manager now supports AWS Network Firewall Centralized Deployment Model](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-firewall-manager-centralized-deployment-model/)
 - [Amazon EC2 Auto Scaling Warm Pools now supports hibernating instances and returning instances to Warm Pools on scale-in](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/)
 - [AWS Lambda adds support for .NET 6](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/)
-- [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

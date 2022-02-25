@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Schema Registry now supports Protocol Buffers &lpar;Protobuf&rpar; schemas](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/)
+- [Amazon S3 accelerates integrity checking of requests by up to 90%](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/)
+- [Announcing TypeScript native support in the AWS Serverless Application Model &lpar;AWS SAM&rpar; CLI &lpar;using esbuild&rpar; &lpar;public preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/02/typescript-native-support-aws-serverless-application-model-cli-esbuild-public-preview/)
 - [Amazon RDS for MariaDB now supports IAM Authentication](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-rds-mariadb-iam-authentication/)
 - [Amazon Neptune is now available in AWS Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-neptune-africa-region/)
 - [AWS Glue DataBrew now allows customers to specify single or multiple output files to generate for recipe jobs](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-databrew-output-files-recipe-jobs/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 Auto Scaling Warm Pools now supports hibernating instances and returning instances to Warm Pools on scale-in](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-ec2-auto-scaling-warm-pools-supports-hibernating-returning-instances-warm-pools-scale-in/)
 - [AWS Lambda adds support for .NET 6](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-lambda-adds-support-net6/)
 - [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-guardduty-available-aws-asia-pacific-jakarta-region/)
-- [AWS Snowcone SSD is now available in the Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar; and South America &lpar; Sao Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-snowcone-ssd-extended-regions/)
-- [NICE DCV releases version 2022.0 with high color accuracy and game controller support](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-new-version-color-game-controller/)
-- [NICE DCV releases web client SDK 1.1.0 with new UI library](https://aws.amazon.com/about-aws/whats-new/2022/02/nice-dcv-web-client-sdk-new-ui-library/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

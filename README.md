@@ -58,7 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon GameLift announces three updates to FlexMatch to provide greater flexibility](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-gamelift-updates-flexmatch-greater-flexibility/)
+- [Amazon Braket adds support for a new quantum processing unit  from Oxford Quantum Circuits and is now available in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-quantum-oxford-processing-unit/)
+- [AWS enhances Chinese Yuan payments experience for China based customers.](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-enhances-chinese-yuan-payments-experience/)
 - [AWS QnABot adds support for Genesys Cloud contact center, client filters and sensitive information log redaction](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/)
 - [Announcing Payment Profiles for customizing AWS payment preferences](https://aws.amazon.com/about-aws/whats-new/2022/02/payment-profiles-customizing-aws-payment-preferences/)
 - [Amazon CloudWatch Agent adds Support for Log Filter Expressions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-filter-expressions/)
@@ -67,7 +68,6 @@
 - [AWS Amplify announces the general availability of The Authenticator UI Library for Flutter](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-amplify-authenticator-ui-library-flutter/)
 - [AWS App Mesh introduces Agent for Envoy](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-mesh-agent-envoy/)
 - [AWS App Runner adds a Java platform](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/)
-- [AWS Glue Schema Registry now supports Protocol Buffers &lpar;Protobuf&rpar; schemas](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

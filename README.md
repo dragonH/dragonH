@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS PrivateLink Support for AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-backup/)
+- [Amazon FinSpace releases new User APIs](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-finspace-user-apis/)
+- [AWS expands NAT64 and DNS64 capabilities in all AWS Commercial and AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/)
 - [EC2 Hibernation is now available in the Asia Pacific &lpar;Jakarta&rpar; and &lpar;Osaka&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/)
 - [AWS Application Migration Service now supports Windows Server 2003, 2008, 2022, and Windows 10](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-application-migration-windows-server-10/)
 - [Amazon Aurora Supports PostgreSQL 13.5, 12.9, 11.14, and 10.19](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-aurora-supports-additional-postgresql-versions/)
@@ -65,9 +68,6 @@
 - [Amazon MQ now supports RabbitMQ version 3.8.27](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-3-8-27/)
 - [Amazon Braket adds support for a new quantum processing unit  from Oxford Quantum Circuits and is now available in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-quantum-oxford-processing-unit/)
 - [AWS enhances Chinese Yuan payments experience for China based customers.](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-enhances-chinese-yuan-payments-experience/)
-- [Amazon GameLift announces three updates to FlexMatch to provide greater flexibility](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-gamelift-updates-flexmatch-greater-flexibility/)
-- [AWS QnABot adds support for Genesys Cloud contact center, client filters and sensitive information log redaction](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/)
-- [Announcing Payment Profiles for customizing AWS payment preferences](https://aws.amazon.com/about-aws/whats-new/2022/02/payment-profiles-customizing-aws-payment-preferences/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

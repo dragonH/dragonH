@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift announces three updates to FlexMatch to provide greater flexibility](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-gamelift-updates-flexmatch-greater-flexibility/)
+- [AWS QnABot adds support for Genesys Cloud contact center, client filters and sensitive information log redaction](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/)
 - [Announcing Payment Profiles for customizing AWS payment preferences](https://aws.amazon.com/about-aws/whats-new/2022/02/payment-profiles-customizing-aws-payment-preferences/)
 - [Amazon CloudWatch Agent adds Support for Log Filter Expressions](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-filter-expressions/)
 - [Amazon CloudWatch Agent adds support for Configurable Log Group Retention](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-agent-log-retention/)
@@ -66,8 +68,6 @@
 - [AWS App Mesh introduces Agent for Envoy](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-mesh-agent-envoy/)
 - [AWS App Runner adds a Java platform](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-app-runner-adds-java-platform/)
 - [AWS Glue Schema Registry now supports Protocol Buffers &lpar;Protobuf&rpar; schemas](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-glue-schema-registry-protocol-buffers/)
-- [Amazon S3 accelerates integrity checking of requests by up to 90%](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-s3-integrity-checking-requests-90-percent/)
-- [Announcing TypeScript native support in the AWS Serverless Application Model &lpar;AWS SAM&rpar; CLI &lpar;using esbuild&rpar; &lpar;public preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/02/typescript-native-support-aws-serverless-application-model-cli-esbuild-public-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

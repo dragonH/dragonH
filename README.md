@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Students, start your engines! AWS DeepRacer Student Virtual League is now underway](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-student-virtual-league-underway/)
+- [AWS Trusted Advisor introduces Priority for AWS Enterprise Support customers &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-trusted-advisor-priority-enterprise-customers/)
 - [AWS IoT SiteWise announces new development library to create your own web applications to visualize industrial data](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iot-sitewise-development-library-web-industrial-data/)
 - [Amazon MQ is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-mq-available-asia-pacific-jakarta-region/)
 - [AWS launches customer carbon footprint tool](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-launches-customer-carbon-footprint-tool/)
@@ -66,8 +68,6 @@
 - [Announcing AWS PrivateLink Support for AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-backup/)
 - [Amazon FinSpace releases new User APIs](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-finspace-user-apis/)
 - [AWS expands NAT64 and DNS64 capabilities in all AWS Commercial and AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/)
-- [EC2 Hibernation is now available in the Asia Pacific &lpar;Jakarta&rpar; and &lpar;Osaka&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/02/ec2-hibernation-asia-regions/)
-- [AWS Application Migration Service now supports Windows Server 2003, 2008, 2022, and Windows 10](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-application-migration-windows-server-10/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

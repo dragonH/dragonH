@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Fault Injection Simulator now supports Task-Level Faults for Amazon Elastic Container Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-simulator-task-faults/)
 - [Students, start your engines! AWS DeepRacer Student Virtual League is now underway](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-student-virtual-league-underway/)
 - [AWS Trusted Advisor introduces Priority for AWS Enterprise Support customers &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-trusted-advisor-priority-enterprise-customers/)
 - [AWS IoT SiteWise announces new development library to create your own web applications to visualize industrial data](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iot-sitewise-development-library-web-industrial-data/)
@@ -67,7 +68,6 @@
 - [Announcing the first iteration of the new unified AWS Health Dashboard](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-health-dashboard-first-iteration/)
 - [Announcing AWS PrivateLink Support for AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-backup/)
 - [Amazon FinSpace releases new User APIs](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-finspace-user-apis/)
-- [AWS expands NAT64 and DNS64 capabilities in all AWS Commercial and AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

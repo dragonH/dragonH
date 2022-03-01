@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the first iteration of the new unified AWS Health Dashboard](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-health-dashboard-first-iteration/)
 - [Announcing AWS PrivateLink Support for AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-privatelink-support-backup/)
 - [Amazon FinSpace releases new User APIs](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-finspace-user-apis/)
 - [AWS expands NAT64 and DNS64 capabilities in all AWS Commercial and AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-expands-nat64-dns64-regions/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Container Insights adds support for Helm chart using AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-cloudwatch-container-helm-chart-distro-opentelemetry/)
 - [Amazon MQ now supports RabbitMQ version 3.8.27](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-mq-rabbitmq-version-3-8-27/)
 - [Amazon Braket adds support for a new quantum processing unit  from Oxford Quantum Circuits and is now available in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/02/amazon-braket-quantum-oxford-processing-unit/)
-- [AWS enhances Chinese Yuan payments experience for China based customers.](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-enhances-chinese-yuan-payments-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Data Provider for SAP now supports JDK11 and additional Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-data-provider-sap-supports-jdk11-additional-amazon-ec2-instance-types/)
 - [Announcing the launch of the 2022 AWS DeepRacer League Virtual Circuit](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-league-virtual-circuit-2022/)
 - [Amazon Detective enhances search to better support security root cause analysis](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-detective-enhances-search-support-security-root-cause-analysis/)
 - [Amazon Fault Injection Simulator now supports logging to Amazon CloudWatch Logs and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/)
@@ -67,7 +68,6 @@
 - [AWS IoT SiteWise announces new development library to create your own web applications to visualize industrial data](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iot-sitewise-development-library-web-industrial-data/)
 - [Amazon MQ is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-mq-available-asia-pacific-jakarta-region/)
 - [AWS launches customer carbon footprint tool](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-launches-customer-carbon-footprint-tool/)
-- [Amazon MSK Serverless is now available in Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-serverless-available-europe-ireland/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

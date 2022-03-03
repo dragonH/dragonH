@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces now helps you automate resource management by using the AWS SDK](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-keyspaces-automate-resource-management-sdk/)
+- [Amazon RDS for Oracle now supports ALLOW_WEAK_CRYPTO* parameters for the Oracle Native Network Encryption &lpar;NNE&rpar; option](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/)
 - [Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/)
 - [Amazon MSK offers enhanced AWS CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/)
 - [You can now choose from two different compression options on Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/)
@@ -66,8 +68,6 @@
 - [Announcing the launch of the 2022 AWS DeepRacer League Virtual Circuit](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-league-virtual-circuit-2022/)
 - [Amazon Detective enhances search to better support security root cause analysis](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-detective-enhances-search-support-security-root-cause-analysis/)
 - [Amazon Fault Injection Simulator now supports logging to Amazon CloudWatch Logs and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/)
-- [Amazon Fault Injection Simulator now supports Task-Level Faults for Amazon Elastic Container Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-simulator-task-faults/)
-- [Students, start your engines! AWS DeepRacer Student Virtual League is now underway](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-student-virtual-league-underway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

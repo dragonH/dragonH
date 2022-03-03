@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/)
+- [Amazon MSK offers enhanced AWS CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/)
+- [You can now choose from two different compression options on Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/)
 - [Achieve faster database failover with the Amazon Web Services JDBC Driver for MySQL](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-web-services-jdbc-driver-mysql-failover/)
 - [AWS Data Provider for SAP now supports JDK11 and additional Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-data-provider-sap-supports-jdk11-additional-amazon-ec2-instance-types/)
 - [Announcing the launch of the 2022 AWS DeepRacer League Virtual Circuit](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-league-virtual-circuit-2022/)
@@ -65,9 +68,6 @@
 - [Amazon Fault Injection Simulator now supports logging to Amazon CloudWatch Logs and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-logging-cloudwatch-logs-s3/)
 - [Amazon Fault Injection Simulator now supports Task-Level Faults for Amazon Elastic Container Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fault-injection-simulator-task-faults/)
 - [Students, start your engines! AWS DeepRacer Student Virtual League is now underway](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-deepracer-student-virtual-league-underway/)
-- [AWS Trusted Advisor introduces Priority for AWS Enterprise Support customers &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-trusted-advisor-priority-enterprise-customers/)
-- [AWS IoT SiteWise announces new development library to create your own web applications to visualize industrial data](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iot-sitewise-development-library-web-industrial-data/)
-- [Amazon MQ is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-mq-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

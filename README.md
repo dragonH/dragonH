@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Configurable cipher suites now available for Amazon Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/)
 - [Amazon Kendra adds spell checker for queries](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/)
 - [Amazon EMR now supports auto termination of idle clusters in Europe &lpar;Milan&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, Africa &lpar;Cape Town&rpar;, and Middle East &lpar;Bahrain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/)
 - [Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/)
@@ -67,7 +68,6 @@
 - [Amazon MSK offers enhanced AWS CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/)
 - [You can now choose from two different compression options on Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/)
 - [Achieve faster database failover with the Amazon Web Services JDBC Driver for MySQL](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-web-services-jdbc-driver-mysql-failover/)
-- [AWS Data Provider for SAP now supports JDK11 and additional Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-data-provider-sap-supports-jdk11-additional-amazon-ec2-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

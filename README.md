@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [You can now customize how data is stored on your Amazon FSx for OpenZFS file system to optimize performance for database applications](https://aws.amazon.com/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/)
 - [Configurable cipher suites now available for Amazon Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/)
 - [Amazon Kendra adds spell checker for queries](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/)
 - [Amazon EMR now supports auto termination of idle clusters in Europe &lpar;Milan&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, Africa &lpar;Cape Town&rpar;, and Middle East &lpar;Bahrain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for Oracle now supports ALLOW_WEAK_CRYPTO* parameters for the Oracle Native Network Encryption &lpar;NNE&rpar; option](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/)
 - [Amazon MSK offers enhanced AWS CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-aws-cloudformation-support/)
 - [You can now choose from two different compression options on Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/03/choose-different-compression-options-amazon-fsx-openzfs/)
-- [Achieve faster database failover with the Amazon Web Services JDBC Driver for MySQL](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-web-services-jdbc-driver-mysql-failover/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

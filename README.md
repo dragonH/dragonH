@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports Oracle Database 21c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/)
 - [Amazon Genomics CLI adds the Snakemake workflow management system](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/)
 - [Amazon DevOps Guru extends support for Lambda with CodeGuru Profiler Integration](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/)
 - [Amazon Aurora supports Multi Major Version Upgrade to Aurora PostgreSQL 11 and higher](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/)
@@ -67,7 +68,6 @@
 - [You can now customize how data is stored on your Amazon FSx for OpenZFS file system to optimize performance for database applications](https://aws.amazon.com/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/)
 - [Configurable cipher suites now available for Amazon Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/)
 - [Amazon Kendra adds spell checker for queries](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/)
-- [Amazon EMR now supports auto termination of idle clusters in Europe &lpar;Milan&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, Africa &lpar;Cape Town&rpar;, and Middle East &lpar;Bahrain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

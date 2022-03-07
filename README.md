@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Genomics CLI adds the Snakemake workflow management system](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/)
+- [Amazon DevOps Guru extends support for Lambda with CodeGuru Profiler Integration](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/)
 - [Amazon Aurora supports Multi Major Version Upgrade to Aurora PostgreSQL 11 and higher](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/)
 - [Announcing Amplify iOS Library &lpar;Developer Preview&rpar;, rewritten to entirely use Swift](https://aws.amazon.com/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/)
 - [Amazon RDS for MariaDB supports new minor versions 10.6.7, 10.5.15, 10.4.24, 10.3.34, 10.2.43](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mariadb-supports-new-minor-versions/)
@@ -66,8 +68,6 @@
 - [Configurable cipher suites now available for Amazon Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/)
 - [Amazon Kendra adds spell checker for queries](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-spell-checker-queries/)
 - [Amazon EMR now supports auto termination of idle clusters in Europe &lpar;Milan&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, Africa &lpar;Cape Town&rpar;, and Middle East &lpar;Bahrain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-auto-termination-idle-clusters-regions/)
-- [Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/)
-- [Amazon RDS for Oracle now supports October 2021 Patch Set Update &lpar;PSU&rpar; for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-patch-set-update-psu-oracle-database-12-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

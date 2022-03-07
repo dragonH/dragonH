@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amplify iOS Library &lpar;Developer Preview&rpar;, rewritten to entirely use Swift](https://aws.amazon.com/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/)
 - [Amazon RDS for MariaDB supports new minor versions 10.6.7, 10.5.15, 10.4.24, 10.3.34, 10.2.43](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mariadb-supports-new-minor-versions/)
 - [Amazon SageMaker Serverless Inference &lpar;in Preview&rpar; and Asynchronous Inference add support for SageMaker Python SDK](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-sagemaker-serverless-inference-preview-asynchronous-inference-sagemaker-python-sdk/)
 - [You can now customize how data is stored on your Amazon FSx for OpenZFS file system to optimize performance for database applications](https://aws.amazon.com/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/)
@@ -67,7 +68,6 @@
 - [Introducing a new Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency, automated failovers typically under 35 seconds, and readable standby instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-transaction-commit-latency/)
 - [Amazon RDS for Oracle now supports October 2021 Patch Set Update &lpar;PSU&rpar; for Oracle Database 12.1](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-patch-set-update-psu-oracle-database-12-1/)
 - [Amazon Keyspaces now helps you automate resource management by using the AWS SDK](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-keyspaces-automate-resource-management-sdk/)
-- [Amazon RDS for Oracle now supports ALLOW_WEAK_CRYPTO* parameters for the Oracle Native Network Encryption &lpar;NNE&rpar; option](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-supports-allow-weak-crypto-parameters-oracle-native-network-encryption-nne-option/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

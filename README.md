@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight enables auto-refresh controls for direct query](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/)
 - [Bottlerocket adds support for GPU based EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/)
 - [Amazon RDS for Oracle now supports Oracle Database 21c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/)
 - [Amazon Genomics CLI adds the Snakemake workflow management system](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MariaDB supports new minor versions 10.6.7, 10.5.15, 10.4.24, 10.3.34, 10.2.43](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mariadb-supports-new-minor-versions/)
 - [Amazon SageMaker Serverless Inference &lpar;in Preview&rpar; and Asynchronous Inference add support for SageMaker Python SDK](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-sagemaker-serverless-inference-preview-asynchronous-inference-sagemaker-python-sdk/)
 - [You can now customize how data is stored on your Amazon FSx for OpenZFS file system to optimize performance for database applications](https://aws.amazon.com/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/)
-- [Configurable cipher suites now available for Amazon Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/03/configurable-cipher-suites-amazon-aurora-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

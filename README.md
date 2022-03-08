@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket adds support for OpenQASM 3.0](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/)
+- [Amazon SES now supports AWS CloudFormation templates in multiple new regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/)
 - [Amazon QuickSight enables auto-refresh controls for direct query](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-quicksight-auto-refresh-controls-direct-query/)
 - [Bottlerocket adds support for GPU based EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/)
 - [Amazon RDS for Oracle now supports Oracle Database 21c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora supports Multi Major Version Upgrade to Aurora PostgreSQL 11 and higher](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/)
 - [Announcing Amplify iOS Library &lpar;Developer Preview&rpar;, rewritten to entirely use Swift](https://aws.amazon.com/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/)
 - [Amazon RDS for MariaDB supports new minor versions 10.6.7, 10.5.15, 10.4.24, 10.3.34, 10.2.43](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mariadb-supports-new-minor-versions/)
-- [Amazon SageMaker Serverless Inference &lpar;in Preview&rpar; and Asynchronous Inference add support for SageMaker Python SDK](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-sagemaker-serverless-inference-preview-asynchronous-inference-sagemaker-python-sdk/)
-- [You can now customize how data is stored on your Amazon FSx for OpenZFS file system to optimize performance for database applications](https://aws.amazon.com/about-aws/whats-new/2022/03/customize-data-stored-amazonfsx-openzfs-file-system-optimize-performance-database-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB increases default service quotas to simplify use of large numbers of tables](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/)
+- [Amazon ECS Update Service API now supports updating Elastic Load Balancers, Service Registries, Tag Propagation, and ECS Managed Tags](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/)
 - [Amazon Connect Customer Profiles now enables you to customize data aggregation in the console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/)
 - [Amazon DynamoDB now supports the limit request option for PartiQL operations](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/)
 - [Amazon Braket adds support for OpenQASM 3.0](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/)
@@ -66,8 +68,6 @@
 - [Bottlerocket adds support for GPU based EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/03/bottlerocket-support-gpu-ec2-instance-types-powered-by-nvidia/)
 - [Amazon RDS for Oracle now supports Oracle Database 21c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-support-oracle-database-21c/)
 - [Amazon Genomics CLI adds the Snakemake workflow management system](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/)
-- [Amazon DevOps Guru extends support for Lambda with CodeGuru Profiler Integration](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/)
-- [Amazon Aurora supports Multi Major Version Upgrade to Aurora PostgreSQL 11 and higher](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

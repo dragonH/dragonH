@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles now enables you to customize data aggregation in the console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/)
 - [Amazon DynamoDB now supports the limit request option for PartiQL operations](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/)
 - [Amazon Braket adds support for OpenQASM 3.0](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/)
 - [Amazon SES now supports AWS CloudFormation templates in multiple new regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ses-supports-aws-cloudformation-templates-new-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Genomics CLI adds the Snakemake workflow management system](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-genomics-cli-snakemake-workflow-system/)
 - [Amazon DevOps Guru extends support for Lambda with CodeGuru Profiler Integration](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-devops-guru-support-lambda-codeguru-profiler-integration/)
 - [Amazon Aurora supports Multi Major Version Upgrade to Aurora PostgreSQL 11 and higher](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-version-upgrade-aurora-postgresql-11-higher/)
-- [Announcing Amplify iOS Library &lpar;Developer Preview&rpar;, rewritten to entirely use Swift](https://aws.amazon.com/about-aws/whats-new/2022/03/amplify-ios-library-developer-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

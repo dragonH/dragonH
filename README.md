@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now supports AWS CloudFormation templates](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-personalize-aws-cloudformation-templates/)
+- [Amazon Chime SDK now supports live transcription with automatic language identification](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-transcription-language-identification/)
 - [AWS CodeBuild supports Arm-based workloads in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/)
 - [AWS Glue DataBrew now supports cross-account Glue Data Catalog S3 access](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/)
 - [Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/)
@@ -66,8 +68,6 @@
 - [Amazon MSK Connect now supports external secrets and configuration with config providers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/)
 - [Amazon RDS for SQL Server now supports M6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-sql-server-supports-m6i-r6i-instances/)
 - [Amazon Comprehend launches entity-based sentiment analysis](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-comprehend-entity-sentiment-analysis/)
-- [Amazon EC2 adds new AMI property to view timestamp of the latest instance launch using the AMI](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/)
-- [AWS Systems Manager Change Manager now supports taking actions on multiple change requests together](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

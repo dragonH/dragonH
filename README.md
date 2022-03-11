@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild supports Arm-based workloads in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/)
+- [AWS Glue DataBrew now supports cross-account Glue Data Catalog S3 access](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/)
+- [Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/)
 - [Amazon S3 account-level block public access now extends to Lightsail buckets](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/)
 - [Introducing Amazon EC2 X2idn and X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/)
 - [Amazon MSK Connect now supports external secrets and configuration with config providers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/)
@@ -65,9 +68,6 @@
 - [Amazon Comprehend launches entity-based sentiment analysis](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-comprehend-entity-sentiment-analysis/)
 - [Amazon EC2 adds new AMI property to view timestamp of the latest instance launch using the AMI](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-ami-timestamp-instance-launch/)
 - [AWS Systems Manager Change Manager now supports taking actions on multiple change requests together](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-systems-manager-actions-multiple-change-requests/)
-- [Amazon DynamoDB increases default service quotas to simplify use of large numbers of tables](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-default-quotas-large-tables/)
-- [Amazon ECS Update Service API now supports updating Elastic Load Balancers, Service Registries, Tag Propagation, and ECS Managed Tags](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-service-api-updating-elastic-load-balancers-service-registries-tag-propagation-ecs-managed-tags/)
-- [Amazon Connect Customer Profiles now enables you to customize data aggregation in the console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

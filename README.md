@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports new minor versions 5.7.37 and 8.0.28](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mysql-supports-new-minor-versions-5-7-37-8-0-28/)
+- [AWS Lambda announces support for PrincipalOrgID in resource-based policies](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/)
 - [Amazon Personalize now supports AWS CloudFormation templates](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-personalize-aws-cloudformation-templates/)
 - [Amazon Chime SDK now supports live transcription with automatic language identification](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-transcription-language-identification/)
 - [AWS CodeBuild supports Arm-based workloads in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/)
@@ -65,9 +67,7 @@
 - [Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/)
 - [Amazon S3 account-level block public access now extends to Lightsail buckets](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/)
 - [Introducing Amazon EC2 X2idn and X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/)
-- [Amazon Connect Customer Profiles now enables you to customize data aggregation in the console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-customer-profiles-customize-data-aggregation-console/)
-- [Amazon DynamoDB now supports the limit request option for PartiQL operations](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-dynamodb-limit-request-partiql-operations/)
-- [Amazon Braket adds support for OpenQASM 3.0](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-braket-openqasm-3-0/)
+- [Amazon MSK Connect now supports external secrets and configuration with config providers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

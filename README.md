@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito launches support for in-region integration with Amazon SES and Amazon SNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cognito-in-region-integration-ses-sns/)
 - [Amazon Route 53 Resolver DNS Firewall significantly reduces service cost](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-resolver-dns-firewall-reduces-service-cost/)
 - [Amazon Connect now supports rich formatting in chat messages](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-rich-chat-formatting/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.37 and 8.0.28](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mysql-supports-new-minor-versions-5-7-37-8-0-28/)
@@ -67,7 +68,6 @@
 - [AWS CodeBuild supports Arm-based workloads in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/)
 - [AWS Glue DataBrew now supports cross-account Glue Data Catalog S3 access](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/)
 - [Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/)
-- [Amazon S3 account-level block public access now extends to Lightsail buckets](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

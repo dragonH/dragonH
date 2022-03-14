@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Resolver DNS Firewall significantly reduces service cost](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-resolver-dns-firewall-reduces-service-cost/)
+- [Amazon Connect now supports rich formatting in chat messages](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-rich-chat-formatting/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.37 and 8.0.28](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-mysql-supports-new-minor-versions-5-7-37-8-0-28/)
 - [AWS Lambda announces support for PrincipalOrgID in resource-based policies](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/)
 - [Amazon Personalize now supports AWS CloudFormation templates](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-personalize-aws-cloudformation-templates/)
@@ -66,8 +68,6 @@
 - [AWS Glue DataBrew now supports cross-account Glue Data Catalog S3 access](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/)
 - [Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/)
 - [Amazon S3 account-level block public access now extends to Lightsail buckets](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-s3-account-level-block-public-access-extends-lightsail-buckets/)
-- [Introducing Amazon EC2 X2idn and X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-x2idn-x2iedn-instances/)
-- [Amazon MSK Connect now supports external secrets and configuration with config providers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-msk-external-secrets-configurartion-providers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

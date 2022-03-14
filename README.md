@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Anomaly Detection supports integration with AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/)
+- [Amazon ECS now supports on-premises workload orchestration on Windows OS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/)
+- [AWS Network Firewall achieves FedRAMP High compliance](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/)
 - [Amazon Cognito launches support for in-region integration with Amazon SES and Amazon SNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cognito-in-region-integration-ses-sns/)
 - [Amazon Route 53 Resolver DNS Firewall significantly reduces service cost](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-resolver-dns-firewall-reduces-service-cost/)
 - [Amazon Connect now supports rich formatting in chat messages](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-rich-chat-formatting/)
@@ -65,9 +68,6 @@
 - [AWS Lambda announces support for PrincipalOrgID in resource-based policies](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-principalorgid-resource-policies/)
 - [Amazon Personalize now supports AWS CloudFormation templates](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-personalize-aws-cloudformation-templates/)
 - [Amazon Chime SDK now supports live transcription with automatic language identification](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-transcription-language-identification/)
-- [AWS CodeBuild supports Arm-based workloads in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-codebuild-arm-based-workloads-four-regions/)
-- [AWS Glue DataBrew now supports cross-account Glue Data Catalog S3 access](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-databrew-supports-cross-account-glue-data-catalog-s3-access/)
-- [Amazon EventBridge launches enhanced Rule Filtering and Event Transformation capabilities in the Management Console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-rule-filtering-transformation-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

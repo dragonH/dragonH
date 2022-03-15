@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Container Insights for Amazon ECS now available in the AWS Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/)
 - [Amazon Chime SDK now supports Amazon Voice Focus noise reduction for phone calls](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-voice-focus-call-noise-reduction/)
 - [Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/)
 - [Amazon RDS for PostgreSQL supports PostgreSQL minor versions 14.2, 13.6, 12.10, 11.15, and 10.20](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/)
@@ -67,7 +68,6 @@
 - [Announcing Windows support for containerd runtime on EKS starting with Kubernetes 1.21](https://aws.amazon.com/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/)
 - [AWS Cost Anomaly Detection supports integration with AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/)
 - [Amazon ECS now supports on-premises workload orchestration on Windows OS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/)
-- [AWS Network Firewall achieves FedRAMP High compliance](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-network-firewall-fedramp-high-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

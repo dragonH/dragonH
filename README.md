@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in US East &lpar;Ohio&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/)
+- [Experts on AWS IQ can now complete proposals with one click](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/)
 - [Amazon CloudWatch Container Insights for Amazon ECS now available in the AWS Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/)
 - [Amazon Chime SDK now supports Amazon Voice Focus noise reduction for phone calls](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-voice-focus-call-noise-reduction/)
 - [Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/)
@@ -66,8 +68,6 @@
 - [Announcing AWS AppConfig Feature Flags General Availability](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/)
 - [Automate visual inspection of product defects at the edge with Amazon Lookout for Vision - now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/)
 - [Announcing Windows support for containerd runtime on EKS starting with Kubernetes 1.21](https://aws.amazon.com/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/)
-- [AWS Cost Anomaly Detection supports integration with AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-integration-chatbot/)
-- [Amazon ECS now supports on-premises workload orchestration on Windows OS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-on-premises-orchestration-windows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

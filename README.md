@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 launches Geolocation and Latency-Based Routing for Private DNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-launches-geolocation-latency-based-routing-private-dns/)
 - [Amazon Kendra releases FSx Connector to enable intelligent search on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/)
 - [AWS KMS and ACM now support the latest hybrid post-quantum TLS ciphers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-kms-acm-support-latest-hybrid-post-quantum-tls-ciphers/)
 - [New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in US East &lpar;Ohio&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/)
 - [Amazon RDS for PostgreSQL supports PostgreSQL minor versions 14.2, 13.6, 12.10, 11.15, and 10.20](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/)
 - [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/)
-- [Announcing AWS AppConfig Feature Flags General Availability](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

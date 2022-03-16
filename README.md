@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases FSx Connector to enable intelligent search on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/)
 - [AWS KMS and ACM now support the latest hybrid post-quantum TLS ciphers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-kms-acm-support-latest-hybrid-post-quantum-tls-ciphers/)
 - [New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in US East &lpar;Ohio&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/)
 - [Experts on AWS IQ can now complete proposals with one click](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for PostgreSQL supports PostgreSQL minor versions 14.2, 13.6, 12.10, 11.15, and 10.20](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-postgresql-minor-versions/)
 - [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-location-service-two-here-map-styles/)
 - [Announcing AWS AppConfig Feature Flags General Availability](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-appconfig-feature-flags/)
-- [Automate visual inspection of product defects at the edge with Amazon Lookout for Vision - now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/automate-visual-inspection-product-defects-amazon-lookout-vision/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

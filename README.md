@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Chatbot announces support for management of AWS resources from Slack &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-chatbot-support-management-resources-slack/)
+- [Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar; and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-t4g-instance-type-aws-graviton2-processors-new-regions/)
+- [AWS Backup Audit Manager adds new controls to help prove compliance of maintaining immutable backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-audit-manager-controls-compliance-backups-accounts/)
 - [The Amazon Chime SDK now supports Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-supports-amazon-polly/)
 - [AWS announces AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-announces-aws-billing-conductor/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-documentdb-mongodb-milan/)
@@ -65,9 +68,6 @@
 - [AWS RoboMaker now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-robomaker-supports-aws-privatelink/)
 - [Amazon Route 53 launches Geolocation and Latency-Based Routing for Private DNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-launches-geolocation-latency-based-routing-private-dns/)
 - [Amazon Kendra releases FSx Connector to enable intelligent search on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/)
-- [AWS KMS and ACM now support the latest hybrid post-quantum TLS ciphers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-kms-acm-support-latest-hybrid-post-quantum-tls-ciphers/)
-- [New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in US East &lpar;Ohio&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-multi-az-faster-transaction-latency/)
-- [Experts on AWS IQ can now complete proposals with one click](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

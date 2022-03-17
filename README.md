@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-documentdb-mongodb-milan/)
 - [The AWS Lambda console now supports the option to share test events between developers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-test-events/)
 - [AWS RoboMaker now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-robomaker-supports-aws-privatelink/)
 - [Amazon Route 53 launches Geolocation and Latency-Based Routing for Private DNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-launches-geolocation-latency-based-routing-private-dns/)
@@ -67,7 +68,6 @@
 - [Experts on AWS IQ can now complete proposals with one click](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-iq-experts-proposals-one-click/)
 - [Amazon CloudWatch Container Insights for Amazon ECS now available in the AWS Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-container-insights-ecs-extended-regions/)
 - [Amazon Chime SDK now supports Amazon Voice Focus noise reduction for phone calls](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-voice-focus-call-noise-reduction/)
-- [Amazon RDS for PostgreSQL now supports mysql_fdw extension for Amazon Aurora, MySQL and MariaDB Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-mysql-fdw-extension-amazon-aurora-mysql-mariadb-databases/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

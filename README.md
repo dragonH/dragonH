@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Service Catalog now supports VPC Endpoint Policies](https://aws.amazon.com/about-aws/whats-new/2022/03/service-catalog-now-supports-vpc-endpoint-policies/)
 - [AWS Backup is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-available-aws-asia-pacific-jakarta-region/)
+- [AWS QnABot adds support for Genesys Cloud contact center, client filters and sensitive information log redaction](https://aws.amazon.com/about-aws/whats-new/2022/02/aws-qnabot-genesys-cloud-contact-center-client-filters-sensitive-information-log-redaction/)
 - [AWS App Mesh Envoy Management Service &lpar;EMS&rpar; now supports AWS CloudTrail integration](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-app-mesh-ems-cloudtrail-integration/)
 - [AWS Chatbot announces support for management of AWS resources from Slack &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-chatbot-support-management-resources-slack/)
 - [Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar; and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-t4g-instance-type-aws-graviton2-processors-new-regions/)
 - [AWS Backup Audit Manager adds new controls to help prove compliance of maintaining immutable backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-audit-manager-controls-compliance-backups-accounts/)
 - [The Amazon Chime SDK now supports Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-supports-amazon-polly/)
 - [AWS announces AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-announces-aws-billing-conductor/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-documentdb-mongodb-milan/)
-- [The AWS Lambda console now supports the option to share test events between developers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-test-events/)
-- [AWS RoboMaker now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-robomaker-supports-aws-privatelink/)
+- [Announcing Windows support for containerd runtime on EKS starting with Kubernetes 1.21](https://aws.amazon.com/about-aws/whats-new/2022/03/windows-containerd-runtime-eks-kubernetes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

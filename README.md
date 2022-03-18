@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Mesh Envoy Management Service &lpar;EMS&rpar; now supports AWS CloudTrail integration](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-app-mesh-ems-cloudtrail-integration/)
 - [AWS Chatbot announces support for management of AWS resources from Slack &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-chatbot-support-management-resources-slack/)
 - [Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar; and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-t4g-instance-type-aws-graviton2-processors-new-regions/)
 - [AWS Backup Audit Manager adds new controls to help prove compliance of maintaining immutable backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-audit-manager-controls-compliance-backups-accounts/)
@@ -67,7 +68,6 @@
 - [The AWS Lambda console now supports the option to share test events between developers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-test-events/)
 - [AWS RoboMaker now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-robomaker-supports-aws-privatelink/)
 - [Amazon Route 53 launches Geolocation and Latency-Based Routing for Private DNS](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-route-53-launches-geolocation-latency-based-routing-private-dns/)
-- [Amazon Kendra releases FSx Connector to enable intelligent search on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-fsx-connector-intelligent-search-windows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

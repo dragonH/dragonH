@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [ACM Private CA now supports custom subject names, extensions, and name constraints](https://aws.amazon.com/about-aws/whats-new/2022/03/acm-private-ca-custom-names-extensions-constraints/)
 - [Amazon Chime SDK now supports Amazon Lex voice bots](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/)
 - [Service Catalog now supports VPC Endpoint Policies](https://aws.amazon.com/about-aws/whats-new/2022/03/service-catalog-now-supports-vpc-endpoint-policies/)
 - [AWS Backup is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-available-aws-asia-pacific-jakarta-region/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar; and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-t4g-instance-type-aws-graviton2-processors-new-regions/)
 - [AWS Backup Audit Manager adds new controls to help prove compliance of maintaining immutable backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-audit-manager-controls-compliance-backups-accounts/)
 - [The Amazon Chime SDK now supports Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-supports-amazon-polly/)
-- [AWS announces AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-announces-aws-billing-conductor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

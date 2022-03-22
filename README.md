@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now supports sessions with up to 10,000 live participants](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/)
+- [Amazon RDS supports itemized billing for RDS Storage, IOPS and backup features](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/)
 - [Amazon Transcribe Call Analytics now supports machine-learning powered call summarization](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-transcribe-call-analytics-machine-learning-call-summarization/)
 - [Amazon EBS direct APIs is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ebs-direct-apis-jakarta/)
 - [Amazon Corretto 18 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-corretto-18/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for PostgreSQL now supports tds_fdw extension for SQL Server Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-extension-sql-server-database/)
 - [ACM Private CA now supports custom subject names, extensions, and name constraints](https://aws.amazon.com/about-aws/whats-new/2022/03/acm-private-ca-custom-names-extensions-constraints/)
 - [Amazon Chime SDK now supports Amazon Lex voice bots](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/)
-- [Service Catalog now supports VPC Endpoint Policies](https://aws.amazon.com/about-aws/whats-new/2022/03/service-catalog-now-supports-vpc-endpoint-policies/)
-- [AWS Backup is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-available-aws-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

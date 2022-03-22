@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect forecasting, capacity planning, and scheduling, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-forecasting-capacity-planning-scheduling-preview/)
 - [Amazon RDS for PostgreSQL now supports tds_fdw extension for SQL Server Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-extension-sql-server-database/)
 - [ACM Private CA now supports custom subject names, extensions, and name constraints](https://aws.amazon.com/about-aws/whats-new/2022/03/acm-private-ca-custom-names-extensions-constraints/)
 - [Amazon Chime SDK now supports Amazon Lex voice bots](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/)
@@ -67,7 +68,6 @@
 - [AWS App Mesh Envoy Management Service &lpar;EMS&rpar; now supports AWS CloudTrail integration](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-app-mesh-ems-cloudtrail-integration/)
 - [AWS Chatbot announces support for management of AWS resources from Slack &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-chatbot-support-management-resources-slack/)
 - [Amazon Aurora T4g instance type, powered by AWS Graviton2 processors, is now available in Europe &lpar;Milan&rpar;, Europe &lpar;Paris&rpar; and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-t4g-instance-type-aws-graviton2-processors-new-regions/)
-- [AWS Backup Audit Manager adds new controls to help prove compliance of maintaining immutable backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-backup-audit-manager-controls-compliance-backups-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

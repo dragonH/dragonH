@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Categories now supports resource and tag based access controls](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-categories-supports-resource-tag-based-access-controls/)
 - [Amazon Chime SDK now supports sessions with up to 10,000 live participants](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/)
 - [Amazon RDS supports itemized billing for RDS Storage, IOPS and backup features](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/)
 - [Amazon Transcribe Call Analytics now supports machine-learning powered call summarization](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-transcribe-call-analytics-machine-learning-call-summarization/)
@@ -67,7 +68,6 @@
 - [Amazon Connect forecasting, capacity planning, and scheduling, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-forecasting-capacity-planning-scheduling-preview/)
 - [Amazon RDS for PostgreSQL now supports tds_fdw extension for SQL Server Databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-postgresql-supports-extension-sql-server-database/)
 - [ACM Private CA now supports custom subject names, extensions, and name constraints](https://aws.amazon.com/about-aws/whats-new/2022/03/acm-private-ca-custom-names-extensions-constraints/)
-- [Amazon Chime SDK now supports Amazon Lex voice bots](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-sdk-now-supports-amazon-lex/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

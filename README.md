@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Anomaly Detection now supports resource and tag based access management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-resource-tag-access-management/)
 - [AWS Proton support for Terraform Open Source is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/)
 - [Amazon Kendra releases Slack Connector to enable Slack messaging search](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-slack-connector-messaging-search/)
 - [AWS GameKit for Unreal Game Engine is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-gamekit-unreal-engine/)
@@ -67,7 +68,6 @@
 - [Amazon ECS now supports warm pools for Amazon EC2 Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/)
 - [AWS Cost Categories now supports resource and tag based access controls](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-categories-supports-resource-tag-based-access-controls/)
 - [Amazon Chime SDK now supports sessions with up to 10,000 live participants](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/)
-- [Amazon RDS supports itemized billing for RDS Storage, IOPS and backup features](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-itemized-billing-rds-iops-backup/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

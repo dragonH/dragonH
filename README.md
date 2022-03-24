@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly now offers Neural TTS voices in Catalan and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-polly-offers-neural-tts-voices-catalan-mexican-spanish/)
+- [AWS Service Catalog announces a new console feature to directly access resources within a Provisioned Product](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-service-catalog-new-console-feature/)
 - [AWS Cost Anomaly Detection now supports resource and tag based access management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-resource-tag-access-management/)
 - [AWS Proton support for Terraform Open Source is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/)
 - [Amazon Kendra releases Slack Connector to enable Slack messaging search](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-slack-connector-messaging-search/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight launches Groups Management UI](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-quicksight-groups-management-ui/)
 - [AWS Amplify announces the new @mapsTo directive to iterate on GraphQL APIs without manual data migrations](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-amplify-mapsto-graphql-without-manual-data-migrations/)
 - [Amazon ECS now supports warm pools for Amazon EC2 Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/)
-- [AWS Cost Categories now supports resource and tag based access controls](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-categories-supports-resource-tag-based-access-controls/)
-- [Amazon Chime SDK now supports sessions with up to 10,000 live participants](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-chime-10000-live-participants/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

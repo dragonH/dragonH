@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Extract custom entities from images and Textract JSON files with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-comprehend-custom-entities-images-json/)
 - [AWS Support streamlines cases via Connector for Jira Service Management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/)
 - [AWS Panorama now supports Amazon CloudWatch alarms for application errors](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/)
 - [AWS Panorama now supports the ability to bring your own machine learning libraries](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-machine-learning-libraries/)
@@ -67,7 +68,6 @@
 - [AWS Cost Anomaly Detection now supports resource and tag based access management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-resource-tag-access-management/)
 - [AWS Proton support for Terraform Open Source is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/)
 - [Amazon Kendra releases Slack Connector to enable Slack messaging search](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-slack-connector-messaging-search/)
-- [AWS GameKit for Unreal Game Engine is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-gamekit-unreal-engine/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

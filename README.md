@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Support streamlines cases via Connector for Jira Service Management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/)
+- [AWS Panorama now supports Amazon CloudWatch alarms for application errors](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/)
+- [AWS Panorama now supports the ability to bring your own machine learning libraries](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-machine-learning-libraries/)
+- [AWS Panorama applications now support receiving inbound messages over the local area network](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-inbound-messages-local-area-network/)
 - [Amazon Polly now offers Neural TTS voices in Catalan and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-polly-offers-neural-tts-voices-catalan-mexican-spanish/)
 - [AWS Service Catalog announces a new console feature to directly access resources within a Provisioned Product](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-service-catalog-new-console-feature/)
 - [AWS Cost Anomaly Detection now supports resource and tag based access management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-cost-anomaly-detection-resource-tag-access-management/)
 - [AWS Proton support for Terraform Open Source is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-proton-terraform-open-source/)
 - [Amazon Kendra releases Slack Connector to enable Slack messaging search](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-kendra-slack-connector-messaging-search/)
 - [AWS GameKit for Unreal Game Engine is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-gamekit-unreal-engine/)
-- [Now in Preview - Amazon GameSparks](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-gamesparks-preview/)
-- [Amazon QuickSight launches Groups Management UI](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-quicksight-groups-management-ui/)
-- [AWS Amplify announces the new @mapsTo directive to iterate on GraphQL APIs without manual data migrations](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-amplify-mapsto-graphql-without-manual-data-migrations/)
-- [Amazon ECS now supports warm pools for Amazon EC2 Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-supports-warm-pools-amazon-ec2-auto-scaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

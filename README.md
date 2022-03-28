@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Contact Lens for Amazon Connect now offers real-time streaming for higher scale and low latency scenarios](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-contact-lens-real-time-streaming/)
 - [Amazon RDS Free Tier now includes db.t3.micro, AWS Graviton2-based db.t4g.micro instances in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-free-tier-dbt3micro-graviton2-based-instances/)
 - [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on RDS Service APIs](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-internet-protocol-version-6-ipv6-rds-service-apis/)
 - [Amazon EC2 Auto Scaling instance lifecycle states are now available via the Instance Metadata Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/)
@@ -67,7 +68,6 @@
 - [AWS Panorama now supports Amazon CloudWatch alarms for application errors](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/)
 - [AWS Panorama now supports the ability to bring your own machine learning libraries](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-machine-learning-libraries/)
 - [AWS Panorama applications now support receiving inbound messages over the local area network](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-inbound-messages-local-area-network/)
-- [Amazon Polly now offers Neural TTS voices in Catalan and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-polly-offers-neural-tts-voices-catalan-mexican-spanish/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

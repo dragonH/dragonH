@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/33) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-2. 🎉 Merged PR [#32](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/32) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-3. 🎉 Merged PR [#25](https://github.com/dragonH/shopping-site-practice/pull/25) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-4. 🎉 Merged PR [#31](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/31) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-5. 🎉 Merged PR [#10](https://github.com/dragonH/pokecord_selfbot/pull/10) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
+1. 🎉 Merged PR [#12](https://github.com/dragonH/pokecord_selfbot/pull/12) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
+2. 🎉 Merged PR [#11](https://github.com/dragonH/pokecord_selfbot/pull/11) in [dragonH/pokecord_selfbot](https://github.com/dragonH/pokecord_selfbot)
+3. 🎉 Merged PR [#33](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/33) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+4. 🎉 Merged PR [#32](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/32) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+5. 🎉 Merged PR [#25](https://github.com/dragonH/shopping-site-practice/pull/25) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
 <!--END_SECTION:activity-->
 
 </details>

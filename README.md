@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Managed entitlements in AWS License Manager now supports license usage for AWS Marketplace licenses](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-license-manager-entitlements/)
 - [Amazon Aurora PostgreSQL supports Foreign Data Wrapper for Microsoft SQL Server and Sybase databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-foreign-data-wrapper-sql-sybase/)
 - [Amazon EventBridge Schema Registry extends support to Go language](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/)
 - [Contact Lens for Amazon Connect now offers real-time streaming for higher scale and low latency scenarios](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-connect-contact-lens-real-time-streaming/)
@@ -67,7 +68,6 @@
 - [AWS Lambda now allows customers to configure up to 10 GB of ephemeral storage for Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-configure-ephemeral-storage/)
 - [Extract custom entities from images and Textract JSON files with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-comprehend-custom-entities-images-json/)
 - [AWS Support streamlines cases via Connector for Jira Service Management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/)
-- [AWS Panorama now supports Amazon CloudWatch alarms for application errors](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-panorama-cloudwatch-alarms-application-errors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

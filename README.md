@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch adds option for easy monitoring set up](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudwatch-adds-option-easy-monitoring-set-up/)
 - [Managed entitlements in AWS License Manager now supports license usage for AWS Marketplace licenses](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-license-manager-entitlements/)
 - [Amazon Aurora PostgreSQL supports Foreign Data Wrapper for Microsoft SQL Server and Sybase databases](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-foreign-data-wrapper-sql-sybase/)
 - [Amazon EventBridge Schema Registry extends support to Go language](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-eventbridge-schema-registry-support-go-language/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Auto Scaling instance lifecycle states are now available via the Instance Metadata Service](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-auto-scaling-lifecycle-instance-metadata/)
 - [AWS Lambda now allows customers to configure up to 10 GB of ephemeral storage for Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-configure-ephemeral-storage/)
 - [Extract custom entities from images and Textract JSON files with Amazon Comprehend](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-comprehend-custom-entities-images-json/)
-- [AWS Support streamlines cases via Connector for Jira Service Management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-support-streamlines-cases-connector-jira-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

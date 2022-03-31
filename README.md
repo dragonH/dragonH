@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports Server Timing headers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/)
 - [Amazon RDS for Oracle now supports January 2022 Patch Set Update &lpar;PSU&rpar; for 12.1 and Release Updates &lpar;RU&rpar; for 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-patch-set-update-release-ru/)
 - [AWS Glue 2.0 now supports fuzzy matching and deduplication using AWS Glue FindMatches](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-fuzzy-findmatches/)
 - [AWS Firewall Manager now supports Palo Alto Networks Cloud Next Generation Firewalls](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-firewall-palo-alto-network-cloud-generation/)
@@ -67,7 +68,6 @@
 - [AWS Organizations now provides central AWS account closure to enable easier end-to-end account lifecycle management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-organizations-central-account-closure-lifecycle-management/)
 - [Amazon FSx for NetApp ONTAP now enables you to change the throughput capacity of your file systems](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fsx-netapp-ontap-enables-change-throughput-capacity-file-systems/)
 - [Amazon EMR Managed Scaling is now Spark shuffle data aware](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-managed-scaling-shuffle-data-aware/)
-- [Amazon Aurora supports PostgreSQL 13.6, 12.10, 11.15, 10.20 and Babelfish for Aurora PostgreSQL 1.2.0](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-aurora-postgresql-babelfish-version-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

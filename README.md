@@ -63,7 +63,7 @@
 - [AWS Firewall Manager now supports Palo Alto Networks Cloud Next Generation Firewalls](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-firewall-palo-alto-network-cloud-generation/)
 - [AWS Security Hub launches 12 controls for security posture monitoring](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-security-hub-launches-controls-security-posture-monitoring/)
 - [Amazon EC2 now performs automatic recovery of instances by default](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ec2-default-automatic-recovery/)
-- [Amazon Textract announces updates to its tables and check detection features](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-textract-updates-tables-check-detection/)
+- [Amazon Textract announces updates to its tables and checkbox detection features](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-textract-updates-tables-check-detection/)
 - [AWS Organizations now provides central AWS account closure to enable easier end-to-end account lifecycle management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-organizations-central-account-closure-lifecycle-management/)
 - [Amazon FSx for NetApp ONTAP now enables you to change the throughput capacity of your file systems](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fsx-netapp-ontap-enables-change-throughput-capacity-file-systems/)
 - [Amazon EMR Managed Scaling is now Spark shuffle data aware](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-managed-scaling-shuffle-data-aware/)

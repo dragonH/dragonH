@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EKS add-ons support for EBS CSI driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/)
 - [Amazon CloudFront now supports Server Timing headers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/)
 - [Amazon RDS for Oracle now supports January 2022 Patch Set Update &lpar;PSU&rpar; for 12.1 and Release Updates &lpar;RU&rpar; for 12.2 and 19c](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-rds-oracle-patch-set-update-release-ru/)
 - [AWS Glue 2.0 now supports fuzzy matching and deduplication using AWS Glue FindMatches](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-glue-fuzzy-findmatches/)
@@ -67,7 +68,6 @@
 - [Amazon Textract announces updates to its tables and checkbox detection features](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-textract-updates-tables-check-detection/)
 - [AWS Organizations now provides central AWS account closure to enable easier end-to-end account lifecycle management](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-organizations-central-account-closure-lifecycle-management/)
 - [Amazon FSx for NetApp ONTAP now enables you to change the throughput capacity of your file systems](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-fsx-netapp-ontap-enables-change-throughput-capacity-file-systems/)
-- [Amazon EMR Managed Scaling is now Spark shuffle data aware](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-emr-managed-scaling-shuffle-data-aware/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

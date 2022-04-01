@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup adds support for VMware Cloud on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/)
 - [Amazon EC2 now reduces visibility of public Amazon Machine Images &lpar;AMIs&rpar; older than two years](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-visibility-public-machine-images-aims-two-years/)
 - [AWS Storage Gateway updates support for VMware and Microsoft hypervisors](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-storage-gateway-vmware-microsoft-hypervisors/)
 - [Amazon ECS announces increased service quota for container instances per cluster](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-ecs-quota-service-container-cluster/)
@@ -67,7 +68,6 @@
 - [Amazon AppStream 2.0 is now available in the AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-appstream-2-0-aws-canada/)
 - [Amazon Pinpoint now supports template tagging and search in the console](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-pinpoint-template-tagging-search-console/)
 - [EKS add-ons support for EBS CSI driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/03/eks-add-ons-ebs-csi-driver-available/)
-- [Amazon CloudFront now supports Server Timing headers](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-cloudfront-server-timing-headers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

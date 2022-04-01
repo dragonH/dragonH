@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub now supports specifying names for custom integrations](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-custom-integrations/)
 - [AWS Backup now allows you to restore virtual disks from protected copies of your VMware virtual machines](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-virtual-disks-protected-copies-vmware-machines/)
 - [Amazon SageMaker Data Wrangler now supports Databricks as a data source](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-databricks-data-source/)
 - [AWS Backup adds support for VMware Cloud on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-support-vmware-cloud-aws-outposts/)
@@ -67,7 +68,6 @@
 - [Sustainability Pillar is now available in AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-sustainability-pillar-available-in-well-architected-tool/)
 - [The AWS Lambda console now supports bulk update of layers](https://aws.amazon.com/about-aws/whats-new/2022/03/aws-lambda-console-bulk-update-layers/)
 - [Amazon Redshift launches Concurrency Scaling in the Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-redshift-concurrency-scaling-europe-stockholm/)
-- [Amazon AppStream 2.0 is now available in the AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/03/amazon-appstream-2-0-aws-canada/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing General Availability of Amplify Geo for iOS](https://aws.amazon.com/about-aws/whats-new/2022/04/amplify-geo-available-ios/)
 - [AWS IoT Device Management and AWS IoT Device Defender now support monitoring device metrics via ListMetricValues API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-iot-device-management-defender-monitoring-metrics/)
 - [Cross-cluster Replication is now supported on existing Amazon OpenSearch service domains](https://aws.amazon.com/about-aws/whats-new/2022/04/cross-cluster-replication-amazon-opensearch-domains/)
 - [Cross-cluster search is now supported on existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-domains-cross-cluster-search/)
@@ -67,7 +68,6 @@
 - [Amazon RDS Proxy now supports PostgreSQL major version 13](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-proxy-supports-postgresql-major-version-13/)
 - [Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-data-lifecycle-manager-jakarta-region/)
 - [AWS releases version 2.0 of the Amazon Pinpoint API for expanded support of SMS and voice channels](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-pinpoint-version-api-feature-sms-voice-channels/)
-- [Amazon EKS, Amazon EKS Distro, and Amazon EKS Anywhere now support Kubernetes version 1.22](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-distro-eks-anywhere-kubernetes-1-22/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

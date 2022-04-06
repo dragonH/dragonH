@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/)
+- [AWS Amplify Studio announces new file storage and file management capabilities](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/)
 - [Amazon Athena adds support for querying Amazon Ion data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/)
 - [Announcing Unified Settings in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/04/unified-settings-aws-management-console/)
 - [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/)
@@ -66,8 +68,6 @@
 - [Amazon Connect launches dynamic voice prompt playback from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-dynamic-voice-playback-s3/)
 - [Amazon OpenSearch Service now includes an observability interface and expands log analytics](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-observability-interface-log-analytics/)
 - [Amazon EC2 now provides a new and improved launch experience on the EC2 Console](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/)
-- [AWS Backup adds support for Persistent 2 deployment type of Amazon FSx for Lustre file systems](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-deployment-amazon-fsx-lustre-file-systems/)
-- [Announcing general availability of Amazon Athena ACID transactions, powered by Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-acid-transactions-powered-apache-iceberg/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

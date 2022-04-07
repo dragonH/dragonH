@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge introduces Global endpoints for automatic failover and recovery](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Performance Insights is now in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/)
+- [Amplify Geo Launches React Component for Maps, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/)
 - [Announcing the AWS Controllers for Kubernetes for Amazon MemoryDB Preview](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-kubernetes-amazon-memorydb-preview/)
 - [AWS announces integration between AWS AppConfig Feature Flags and Atlassian’s Jira Cloud](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-jira-integration-appconfig-feature-flag-atlassian-cloud/)
 - [AWS Compute Optimizer Supports 66 New EC2 Instance Types](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-compute-optimizer-ec2-instance-types/)
@@ -65,9 +68,6 @@
 - [Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/)
 - [Amazon RDS for SQL Server now supports SQL Server Agent job replication](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/)
 - [AWS Announces Data Transfer Price Reduction for AWS PrivateLink, AWS Transit Gateway, and AWS Client VPN services](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/)
-- [Amazon Redshift announces support for role-based access control &lpar;RBAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/)
-- [Amazon Redshift announces native integration with Microsoft Azure Active Directory and Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/)
-- [Amazon OpenSearch Service now supports using custom dictionaries with IK Analysis plugin](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-supports-custom-dictionaries-ik-analysis-plugin/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

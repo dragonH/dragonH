@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer Supports 66 New EC2 Instance Types](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-compute-optimizer-ec2-instance-types/)
 - [AWS OpsWorks for Configuration Management now supports new version of Puppet Enterprise](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/)
 - [Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/)
 - [Amazon RDS for SQL Server now supports SQL Server Agent job replication](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service now supports using custom dictionaries with IK Analysis plugin](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-supports-custom-dictionaries-ik-analysis-plugin/)
 - [AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/)
 - [AWS Amplify Studio announces new file storage and file management capabilities](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/)
-- [Amazon Athena adds support for querying Amazon Ion data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

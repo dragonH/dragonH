@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS OpsWorks for Configuration Management now supports new version of Puppet Enterprise](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/)
 - [Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/)
 - [Amazon RDS for SQL Server now supports SQL Server Agent job replication](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/)
 - [AWS Announces Data Transfer Price Reduction for AWS PrivateLink, AWS Transit Gateway, and AWS Client VPN services](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/)
@@ -67,7 +68,6 @@
 - [AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/)
 - [AWS Amplify Studio announces new file storage and file management capabilities](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/)
 - [Amazon Athena adds support for querying Amazon Ion data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/)
-- [Announcing Unified Settings in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/04/unified-settings-aws-management-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

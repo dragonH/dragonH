@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports using custom dictionaries with IK Analysis plugin](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-supports-custom-dictionaries-ik-analysis-plugin/)
 - [AWS Lambda Function URLs: built-in HTTPS endpoints for your Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-lambda-function-urls-built-in-https-endpoints/)
 - [AWS Amplify Studio announces new file storage and file management capabilities](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/)
 - [Amazon Athena adds support for querying Amazon Ion data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon CloudWatch Metrics Insights &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/)
 - [Amazon Connect launches dynamic voice prompt playback from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-dynamic-voice-playback-s3/)
 - [Amazon OpenSearch Service now includes an observability interface and expands log analytics](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-observability-interface-log-analytics/)
-- [Amazon EC2 now provides a new and improved launch experience on the EC2 Console](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-launch-experience-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

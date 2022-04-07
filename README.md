@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/)
+- [Amazon RDS for SQL Server now supports SQL Server Agent job replication](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/)
+- [AWS Announces Data Transfer Price Reduction for AWS PrivateLink, AWS Transit Gateway, and AWS Client VPN services](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/)
 - [Amazon Redshift announces support for role-based access control &lpar;RBAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-role-based-access-control/)
 - [Amazon Redshift announces native integration with Microsoft Azure Active Directory and Microsoft Power BI](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-native-integration-azure-active-directory-power-bi/)
 - [Amazon OpenSearch Service now supports using custom dictionaries with IK Analysis plugin](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-opensearch-supports-custom-dictionaries-ik-analysis-plugin/)
@@ -65,9 +68,6 @@
 - [AWS Amplify Studio announces new file storage and file management capabilities](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-file-storage-management/)
 - [Amazon Athena adds support for querying Amazon Ion data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-athena-querying-ion-data/)
 - [Announcing Unified Settings in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/04/unified-settings-aws-management-console/)
-- [Introducing two new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-bare-metal-instances/)
-- [AWS Network Firewall achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-network-firewall-fedramp-moderate-compliance/)
-- [Introducing Amazon CloudWatch Metrics Insights &lpar;General Availability&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metrics-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub launches five controls and one new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/)
 - [AWS Shield Advanced now supports Application Load Balancer for automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-shield-application-balancer-automatic-ddos-mitigation/)
 - [AWS Resource Access Manager achieves FedRAMP Compliance](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-resource-access-manager-fedramp-compliance/)
 - [Amazon RDS for Oracle now supports M6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-oracle-m6i-r6i-instances/)
@@ -67,7 +68,6 @@
 - [Amplify Geo Launches React Component for Maps, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/)
 - [Announcing the AWS Controllers for Kubernetes for Amazon MemoryDB Preview](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-kubernetes-amazon-memorydb-preview/)
 - [AWS announces integration between AWS AppConfig Feature Flags and Atlassian’s Jira Cloud](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-jira-integration-appconfig-feature-flag-atlassian-cloud/)
-- [AWS Compute Optimizer Supports 66 New EC2 Instance Types](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-compute-optimizer-ec2-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

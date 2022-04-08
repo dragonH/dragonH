@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports M6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-oracle-m6i-r6i-instances/)
+- [Amazon Connect launches updated UI for users, routing profiles, and queues with AWS CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-ui-routing-profiles-queues-cloudtrail/)
 - [Amazon EventBridge introduces Global endpoints for automatic failover and recovery](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Performance Insights is now in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/)
 - [Amplify Geo Launches React Component for Maps, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/)
@@ -66,8 +68,6 @@
 - [AWS Compute Optimizer Supports 66 New EC2 Instance Types](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-compute-optimizer-ec2-instance-types/)
 - [AWS OpsWorks for Configuration Management now supports new version of Puppet Enterprise](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-opsworks-configuration-management-version-puppet-enterprise/)
 - [Amazon ECS now allows you to run commands in a Windows container running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-commands-windows-container-aws-fargate/)
-- [Amazon RDS for SQL Server now supports SQL Server Agent job replication](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-sql-server-sql-agent-job-replication/)
-- [AWS Announces Data Transfer Price Reduction for AWS PrivateLink, AWS Transit Gateway, and AWS Client VPN services](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-data-transfer-price-reduction-privatelink-transit-gateway-client-vpn-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

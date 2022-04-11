@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/)
+- [AWS Single Sign-On is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/)
 - [AWS Security Hub launches five controls and one new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/)
 - [AWS Shield Advanced now supports Application Load Balancer for automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-shield-application-balancer-automatic-ddos-mitigation/)
 - [AWS Resource Access Manager achieves FedRAMP Compliance](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-resource-access-manager-fedramp-compliance/)
@@ -66,8 +68,6 @@
 - [Amazon EventBridge introduces Global endpoints for automatic failover and recovery](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Performance Insights is now in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/)
 - [Amplify Geo Launches React Component for Maps, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/)
-- [Announcing the AWS Controllers for Kubernetes for Amazon MemoryDB Preview](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-kubernetes-amazon-memorydb-preview/)
-- [AWS announces integration between AWS AppConfig Feature Flags and Atlassian’s Jira Cloud](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-jira-integration-appconfig-feature-flag-atlassian-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

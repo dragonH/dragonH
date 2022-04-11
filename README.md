@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/)
 - [Amazon Personalize now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/)
 - [AWS Single Sign-On is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/)
 - [AWS Security Hub launches five controls and one new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/)
@@ -67,7 +68,6 @@
 - [Amazon Connect launches updated UI for users, routing profiles, and queues with AWS CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-ui-routing-profiles-queues-cloudtrail/)
 - [Amazon EventBridge introduces Global endpoints for automatic failover and recovery](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eventbridge-global-endpoints-automatic-failover-recovery/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Performance Insights is now in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-documentdb-mongodb-performance-insights-preview/)
-- [Amplify Geo Launches React Component for Maps, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-amplify-geo-react-maps-location-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

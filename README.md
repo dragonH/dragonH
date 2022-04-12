@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS integration with the new and improved launch experience on the EC2 Console](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-efs-integration-launch-ec2-console/)
 - [Amazon WorkSpaces launches new Graphics G4dn bundles to improve performance and optimize costs](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-workspaces-graphics-g4dn-bundles/)
 - [AWS AI &amp; ML Scholarship Program opens applications for underrepresented and underserved students](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-ai-ml-scholarship-program-underrepresented-underserved-students/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/)
@@ -67,7 +68,6 @@
 - [AWS Shield Advanced now supports Application Load Balancer for automatic application layer DDoS mitigation](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-shield-application-balancer-automatic-ddos-mitigation/)
 - [AWS Resource Access Manager achieves FedRAMP Compliance](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-resource-access-manager-fedramp-compliance/)
 - [Amazon RDS for Oracle now supports M6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-oracle-m6i-r6i-instances/)
-- [Amazon Connect launches updated UI for users, routing profiles, and queues with AWS CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-ui-routing-profiles-queues-cloudtrail/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

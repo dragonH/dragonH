@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom now supports PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/)
 - [AWS App Runner launches AWS X-Ray support](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/)
 - [You can now automatically attach Amazon FSx file systems to new Amazon EC2 instances you create in the new EC2 launch experience](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/)
 - [Amazon ECR Public announces changes to the gallery including navigation breadcrumbs and copying of image identifier from dropdown](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/)
@@ -67,7 +68,6 @@
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/)
 - [Amazon Personalize now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/)
 - [AWS Single Sign-On is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/)
-- [AWS Security Hub launches five controls and one new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-controls-new-integration-partner/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

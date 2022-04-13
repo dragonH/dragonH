@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync can now copy data to and from Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/)
 - [Amazon Connect Wisdom now supports PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/)
 - [AWS App Runner launches AWS X-Ray support](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/)
 - [You can now automatically attach Amazon FSx file systems to new Amazon EC2 instances you create in the new EC2 launch experience](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/)
@@ -67,7 +68,6 @@
 - [AWS AI &amp; ML Scholarship Program opens applications for underrepresented and underserved students](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-ai-ml-scholarship-program-underrepresented-underserved-students/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-vpc-prefix-list-osaka-region/)
 - [Amazon Personalize now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-resource-tagging/)
-- [AWS Single Sign-On is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-hipaa-eligible/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

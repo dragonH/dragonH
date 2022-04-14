@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New datasets available on the Registry of Open Data from Space Telescope Science Institute, DNAStack, National Archives and Records Administration, and others](https://aws.amazon.com/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/)
 - [Amazon CloudWatch Metric Streams adds support for additional statistics](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/)
 - [Amazon SageMaker Canvas is now available in the AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/)
 - [Introducing the Amazon CloudFront Ready Program](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/)
@@ -67,7 +68,6 @@
 - [Amazon FSx for NetApp ONTAP introduces a single Availability Zone deployment option](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/)
 - [AWS Fargate now delivers faster scaling of applications](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/)
 - [AWS DataSync can now copy data to and from Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/)
-- [Amazon Connect Wisdom now supports PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

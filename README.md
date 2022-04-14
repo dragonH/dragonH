@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Metric Streams adds support for additional statistics](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/)
+- [Amazon SageMaker Canvas is now available in the AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/)
+- [Introducing the Amazon CloudFront Ready Program](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/)
+- [AWS Single Sign-On launches configurable synchronization for Microsoft Active Directory](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-configurable-synchronization-microsoft-active-directory/)
+- [Introducing Enterprise Container Management Solutions from AWS Container Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/)
 - [Announcing the Amazon Chime SDK for JavaScript 3.0 and React Components 3.0](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-chime-sdk-javascript-react-3-0/)
 - [Amazon FSx for NetApp ONTAP introduces a single Availability Zone deployment option](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/)
 - [AWS Fargate now delivers faster scaling of applications](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/)
 - [AWS DataSync can now copy data to and from Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-datasync-amazon-fsx-openzfs/)
 - [Amazon Connect Wisdom now supports PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-wisdom-supports-privatelink/)
-- [AWS App Runner launches AWS X-Ray support](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-app-runner-x-ray-support/)
-- [You can now automatically attach Amazon FSx file systems to new Amazon EC2 instances you create in the new EC2 launch experience](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-file-system-ec2-launch-experience/)
-- [Amazon ECR Public announces changes to the gallery including navigation breadcrumbs and copying of image identifier from dropdown](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecr-public-gallery-breadcrumbs-image-identifier/)
-- [Amazon EFS integration with the new and improved launch experience on the EC2 Console](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-efs-integration-launch-ec2-console/)
-- [Amazon WorkSpaces launches new Graphics G4dn bundles to improve performance and optimize costs](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-workspaces-graphics-g4dn-bundles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

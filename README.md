@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing DevSecOps Solutions from AWS DevOps Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/devsecops-solutions-competency-partners/)
 - [AppStream 2.0 enables custom session scripts for Elastic fleets](https://aws.amazon.com/about-aws/whats-new/2022/04/appstream-custom-scripts-elastic-fleets/)
 - [New datasets available on the Registry of Open Data from Space Telescope Science Institute, DNAStack, National Archives and Records Administration, and others](https://aws.amazon.com/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/)
 - [Amazon CloudWatch Metric Streams adds support for additional statistics](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/)
@@ -67,7 +68,6 @@
 - [Introducing Enterprise Container Management Solutions from AWS Container Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/)
 - [Announcing the Amazon Chime SDK for JavaScript 3.0 and React Components 3.0](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-chime-sdk-javascript-react-3-0/)
 - [Amazon FSx for NetApp ONTAP introduces a single Availability Zone deployment option](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-netapp-ontap-single-availability-zone-deployment/)
-- [AWS Fargate now delivers faster scaling of applications](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-fargate-delivers-scaling-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

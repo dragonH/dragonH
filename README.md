@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Configurable cipher suites now available for Amazon Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/)
 - [Service Quotas is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/)
 - [Amazon Kinesis Data Firehose now delivers to Coralogix](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/)
 - [Introducing DevSecOps Solutions from AWS DevOps Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/devsecops-solutions-competency-partners/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Canvas is now available in the AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/)
 - [Introducing the Amazon CloudFront Ready Program](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudfront-ready-program/)
 - [AWS Single Sign-On launches configurable synchronization for Microsoft Active Directory](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-single-sign-on-configurable-synchronization-microsoft-active-directory/)
-- [Introducing Enterprise Container Management Solutions from AWS Container Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/enterprise-container-management-solutions-aws-competency-partners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

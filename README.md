@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases Quip Connector to enable document search in Quip repository](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kendra-quip-connector-enable-document-search-quip-repository/)
+- [Amazon Keyspaces now helps you read and write data in Apache Spark more easily](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-keyspaces-read-write-data-apache-spark/)
+- [The next generation of FSx for Lustre file systems is now available in Asia Pacific &lpar;Sydney&rpar;, Europe &lpar;London&rpar;, and Asia Pacific &lpar;Singapore&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/04/generation-fsx-luster-system-aws-available-asia-pacific-sydney-europe-london-singapore-regions/)
 - [Amazon Corretto announces quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-corretto-april-2022-quartely-updates/)
 - [Amazon FSx for OpenZFS is now available in Europe &lpar;London&rpar;, Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Singapore&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-fsx-openzfs-available-europe-london-signapore-regions/)
 - [AWS DataSync is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-datasync-asia-pacific-jakarta/)
@@ -65,9 +68,6 @@
 - [Amazon Polly Launches a new Austrian German Neural Text-to-Speech voice](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-launches-austrian-german-neural-text-speech-voice/)
 - [ACK Controllers for Amazon EKS, Amazon ECR, Amazon DynamoDB, Amazon S3, AWS Application Autoscaling and AWS API Gateway v2 now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/)
 - [Introducing 35 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2022/04/introducing-35-types-cloudformation-registry/)
-- [Amazon Interactive Video Service console and APIs now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-console-apis-additional-regions/)
-- [AWS Marketplace customers can now modify their AMI and Container upfront contract pricing based subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-marketplace-modify-ami-container-subscriptions/)
-- [Amazon Interactive Video Service launches edge locations in Indonesia and the Philippines](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

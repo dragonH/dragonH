@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [ACK Controllers for Amazon EKS, Amazon ECR, Amazon DynamoDB, Amazon S3, AWS Application Autoscaling and AWS API Gateway v2 now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ack-ecr-dynamodb-s3-aws-application-api-gateway-available/)
+- [Introducing 35 new resource types in the CloudFormation Registry](https://aws.amazon.com/about-aws/whats-new/2022/04/introducing-35-types-cloudformation-registry/)
+- [Amazon Interactive Video Service console and APIs now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-console-apis-additional-regions/)
+- [AWS Marketplace customers can now modify their AMI and Container upfront contract pricing based subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-marketplace-modify-ami-container-subscriptions/)
 - [Amazon Interactive Video Service launches edge locations in Indonesia and the Philippines](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-launches-edge-locations-indonesia-philippines/)
 - [AWS Batch adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/)
 - [Configurable cipher suites now available for Amazon Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-aurora-mysql-configurable-cipher-suites/)
 - [Service Quotas is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-quotas-available-jakarta-region/)
 - [Amazon Kinesis Data Firehose now delivers to Coralogix](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kinesis-data-firehose-coralogix/)
 - [Introducing DevSecOps Solutions from AWS DevOps Competency Partners](https://aws.amazon.com/about-aws/whats-new/2022/04/devsecops-solutions-competency-partners/)
-- [AppStream 2.0 enables custom session scripts for Elastic fleets](https://aws.amazon.com/about-aws/whats-new/2022/04/appstream-custom-scripts-elastic-fleets/)
-- [New datasets available on the Registry of Open Data from Space Telescope Science Institute, DNAStack, National Archives and Records Administration, and others](https://aws.amazon.com/about-aws/whats-new/2022/04/q2-new-datasets-available-registry-open-data/)
-- [Amazon CloudWatch Metric Streams adds support for additional statistics](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-cloudwatch-metric-streams-additional-statistics/)
-- [Amazon SageMaker Canvas is now available in the AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-canvas-available-asia-pacific-tokyo/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

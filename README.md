@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Auto Scaling now lets you set a default instance warm-up time for all instance scaling and replacement actions](https://aws.amazon.com/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/)
+- [Amazon Neptune now supports global condition keys in AWS IAM policies](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/)
+- [Amazon Personalize now supports starting and stopping recommenders](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-personalize-starting-stopping-recommenders/)
 - [Introducing Migration Hub Orchestrator, a new migration orchestration feature in AWS Migration Hub](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-migration-hub-orchestrator/)
 - [AWS Announces General Availability of openCypher support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/)
 - [Amazon Relational Database Service now supports Multi-AZ deployments on AWS Outposts for High Availability](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/)
@@ -65,9 +68,6 @@
 - [AWS Step Functions expands support for over 20 new AWS SDK integrations](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/)
 - [AWS Transit Gateway is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-transfer-family-jakarta-region/)
 - [AWS Security Hub launches cross-Region security scores and compliance statuses](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/)
-- [Amazon Kendra releases Quip Connector to enable document search in Quip repository](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kendra-quip-connector-enable-document-search-quip-repository/)
-- [Amazon Keyspaces now helps you read and write data in Apache Spark more easily](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-keyspaces-read-write-data-apache-spark/)
-- [The next generation of FSx for Lustre file systems is now available in Asia Pacific &lpar;Sydney&rpar;, Europe &lpar;London&rpar;, and Asia Pacific &lpar;Singapore&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/04/generation-fsx-luster-system-aws-available-asia-pacific-sydney-europe-london-singapore-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

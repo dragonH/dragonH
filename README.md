@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports live sources in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/)
+- [EKS add-ons support for the OpenTelemetry Operator is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/)
+- [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/)
+- [Amazon Neptune now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/)
+- [Amazon Kendra releases Box Connector to enable search on documents in Box Enterprise repository](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/)
+- [Amazon Chime SDK achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-chime-sdk-achieves-fedramp-high-authorization/)
 - [Amazon DevOps Guru now provides Proactive Insights to flag issues early on AWS Serverless Applications](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-devops-guru-provides-proactive-insights-flag-early-issues-aws-serverless-applications/)
 - [Amazon MQ now supports ActiveMQ version 5.16.4](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-activemq-version/)
 - [Announcing General Availability of Amplify Geo for Android](https://aws.amazon.com/about-aws/whats-new/2022/04/general-availability-amplify-geo-android/)
 - [New data source connectors generally available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/)
-- [Amazon SageMaker Serverless Inference is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/)
-- [Amazon Textract launches new Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-textract-launches-queries-feature-analyze-document-api/)
-- [Amazon QuickSight 1-click public embedding available now in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-quicksight-public-embedding-available-now/)
-- [Autoscaling in AWS Glue is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/04/autoscaling-aws-glue-now-generally-available/)
-- [Announcing sensitive data detection and processing in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/)
-- [Announcing general availability of AWS Glue Interactive Sessions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-glue-interactive-sessions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

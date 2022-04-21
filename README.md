@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DevOps Guru now provides Proactive Insights to flag issues early on AWS Serverless Applications](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-devops-guru-provides-proactive-insights-flag-early-issues-aws-serverless-applications/)
+- [Amazon MQ now supports ActiveMQ version 5.16.4](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-activemq-version/)
+- [Announcing General Availability of Amplify Geo for Android](https://aws.amazon.com/about-aws/whats-new/2022/04/general-availability-amplify-geo-android/)
 - [New data source connectors generally available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2022/04/new-data-source-connectors-generally-available-amazon-athena/)
 - [Amazon SageMaker Serverless Inference is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-serverless-inference/)
 - [Amazon Textract launches new Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-textract-launches-queries-feature-analyze-document-api/)
@@ -65,9 +68,6 @@
 - [Autoscaling in AWS Glue is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2022/04/autoscaling-aws-glue-now-generally-available/)
 - [Announcing sensitive data detection and processing in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announcing-sensitive-data-detection-glue/)
 - [Announcing general availability of AWS Glue Interactive Sessions](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-glue-interactive-sessions/)
-- [Announcing interactive, notebook-based job authoring in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-glue-notebook-based-job-authoring/)
-- [Amazon Aurora Serverless v2 is generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/)
-- [AWS Amplify Studio Figma-to-React code capabilities are now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-figma-to-react-code-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

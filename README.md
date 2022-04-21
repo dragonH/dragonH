@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify Studio Figma-to-React code capabilities are now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-amplify-studio-figma-to-react-code-capabilities/)
+- [AWS IoT TwinMaker is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-iot-twinmaker-now-generally-available/)
 - [AWS Transit Gateway is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-transit-gateway-jakarta-region/)
 - [EC2 Auto Scaling now lets you set a default instance warm-up time for all instance scaling and replacement actions](https://aws.amazon.com/about-aws/whats-new/2022/04/ec2-auto-scaling-default-instance-warm-up-replacement-actions/)
 - [Amazon Neptune now supports global condition keys in AWS IAM policies](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-global-condition-keys-iam-policies/)
@@ -66,8 +68,6 @@
 - [AWS Announces General Availability of openCypher support for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-announces-general-availability-opencypher-support-amazon-neptune/)
 - [Amazon Relational Database Service now supports Multi-AZ deployments on AWS Outposts for High Availability](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-relational-database-service-multi-az-deployments-aws-outposts-high-availability/)
 - [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
-- [AWS Step Functions expands support for over 20 new AWS SDK integrations](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-step-functions-expands-support-over-20-new-aws-sdk-integrations/)
-- [AWS Security Hub launches cross-Region security scores and compliance statuses](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-security-hub-cross-region-security-scores-compliance-statuses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

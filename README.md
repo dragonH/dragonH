@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/)
+- [Amazon Connect launches API to claim and configure phone numbers programmatically](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-claim-phone-numbers/)
+- [Amazon ECS-optimized Amazon Linux 2022 AMI now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/)
 - [AWS Launch Wizard now provides guided deployment of Internet Information Services &lpar;IIS&rpar; for Windows Server](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/)
 - [AWS Launch Wizard now provides guided deployment of Microsoft Exchange Server](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/)
 - [AWS Batch adds improvements to UpdateComputeEnvironment API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/)
@@ -65,9 +68,6 @@
 - [AWS Elemental MediaTailor now supports live sources in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/)
 - [EKS add-ons support for the OpenTelemetry Operator is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/)
 - [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/)
-- [Amazon Neptune now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-neptune-offers-free-trial/)
-- [Amazon Kendra releases Box Connector to enable search on documents in Box Enterprise repository](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-kendra-box-connector-documents-enterprise/)
-- [Amazon Chime SDK achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-chime-sdk-achieves-fedramp-high-authorization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

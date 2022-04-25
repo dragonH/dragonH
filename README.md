@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift launches RA3 instances in the Asia Pacific &lpar;Osaka&rpar;, Europe &lpar;Milan&rpar;, Middle East &lpar;Bahrain&rpar; and Africa &lpar;Cape Town&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/)
+- [Announcing consolidated view of Lambda Insights via Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/04/consolidated-view-lambda-application-insights/)
 - [AWS Batch adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/)
 - [Amazon Connect launches API to claim and configure phone numbers programmatically](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-claim-phone-numbers/)
 - [Amazon ECS-optimized Amazon Linux 2022 AMI now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/)
@@ -66,8 +68,6 @@
 - [AWS Batch adds improvements to UpdateComputeEnvironment API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/)
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-regions/)
 - [AWS Elemental MediaTailor now supports live sources in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-elemental-mediatailor-live-channel-assembly/)
-- [EKS add-ons support for the OpenTelemetry Operator is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/eks-opentelemetry-operator-now-available/)
-- [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-macie-sensitive-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

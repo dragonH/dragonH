@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R6gd instances powered by AWS Graviton2 now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/)
+- [Amazon EC2 C6i, M6i and R6i Instances available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-c6i-m6i-r6i-instances-available-aws-govcloud-us-regions/)
 - [Amazon Polly now offers a Neural TTS voice in Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-neural-tts-voice-portuguese/)
 - [Amazon Elastic Kubernetes Service &lpar;EKS&rpar; announces Karpenter v0.9.0 with support for Pod Affinity](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/)
 - [AWS Announces general availability of the first AWS Wavelength Zone in Canada](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/)
@@ -66,8 +68,6 @@
 - [Amazon Nimble Studio is now available in the Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-nimble-studio-tokyo-region/)
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/)
 - [Amazon Redshift launches RA3 instances in the Asia Pacific &lpar;Osaka&rpar;, Europe &lpar;Milan&rpar;, Middle East &lpar;Bahrain&rpar; and Africa &lpar;Cape Town&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/)
-- [Announcing consolidated view of Lambda Insights via Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/04/consolidated-view-lambda-application-insights/)
-- [AWS Batch adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Use IAM to control access to a resource based on the account, OU or organization that contains the resource](https://aws.amazon.com/about-aws/whats-new/2022/04/iam-access-resource-organization/)
+- [Amazon Polly now offers a Neural TTS voice in Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-neural-tts-voice-portuguese/)
 - [Amazon Elastic Kubernetes Service &lpar;EKS&rpar; announces Karpenter v0.9.0 with support for Pod Affinity](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/)
 - [AWS Announces general availability of the first AWS Wavelength Zone in Canada](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/)
 - [Amazon Connect launches API to search for users by name, agent hierarchies, and tags](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/)
@@ -66,8 +68,6 @@
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/)
 - [Amazon Redshift launches RA3 instances in the Asia Pacific &lpar;Osaka&rpar;, Europe &lpar;Milan&rpar;, Middle East &lpar;Bahrain&rpar; and Africa &lpar;Cape Town&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/)
 - [Announcing consolidated view of Lambda Insights via Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/04/consolidated-view-lambda-application-insights/)
-- [AWS Batch adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-privatelink/)
-- [Amazon Connect launches API to claim and configure phone numbers programmatically](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-claim-phone-numbers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

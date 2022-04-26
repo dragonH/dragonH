@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches API to search for users by name, agent hierarchies, and tags](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/)
+- [Amazon SES V2 now supports email size of up to 40MB for inbound and outbound emails by default](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ses-v2-supports-email-size-40mb-inbound-outbound-emails-default/)
 - [Amazon Nimble Studio is now available in the Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-nimble-studio-tokyo-region/)
 - [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/)
 - [Amazon Redshift launches RA3 instances in the Asia Pacific &lpar;Osaka&rpar;, Europe &lpar;Milan&rpar;, Middle East &lpar;Bahrain&rpar; and Africa &lpar;Cape Town&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Connect launches API to claim and configure phone numbers programmatically](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-claim-phone-numbers/)
 - [Amazon ECS-optimized Amazon Linux 2022 AMI now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ecs-optimized-linux-2022-ami-available-preview/)
 - [AWS Launch Wizard now provides guided deployment of Internet Information Services &lpar;IIS&rpar; for Windows Server](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-internet-information-services-windows-server/)
-- [AWS Launch Wizard now provides guided deployment of Microsoft Exchange Server](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-deployment-microsoft-exchange-server/)
-- [AWS Batch adds improvements to UpdateComputeEnvironment API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-batch-adds-improvement-updatecomputeenvironment-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

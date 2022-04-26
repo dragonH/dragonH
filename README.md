@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM.](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mariadb-m6i-r6i-new-instance-sizes/)
+- [Amazon Lightsail load balancers now support automatic HTTPS redirects and configurable TLS security policy](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-lightsail-balancers-automatic-https-tls-security-policy/)
+- [AWS Backup for Amazon FSx is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-amazon-fsx-osaka/)
 - [Amazon EC2 R6gd instances powered by AWS Graviton2 now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/)
 - [Amazon EC2 C6i, M6i and R6i Instances available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-c6i-m6i-r6i-instances-available-aws-govcloud-us-regions/)
 - [Amazon Polly now offers a Neural TTS voice in Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-neural-tts-voice-portuguese/)
@@ -65,9 +68,6 @@
 - [AWS Announces general availability of the first AWS Wavelength Zone in Canada](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/)
 - [Amazon Connect launches API to search for users by name, agent hierarchies, and tags](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/)
 - [Amazon SES V2 now supports email size of up to 40MB for inbound and outbound emails by default](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ses-v2-supports-email-size-40mb-inbound-outbound-emails-default/)
-- [Amazon Nimble Studio is now available in the Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-nimble-studio-tokyo-region/)
-- [Amazon Connect adds near real-time insights into voice call, chat, and task activity in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-near-real-time-insights-voice-call-chat-task-activity-aws-govcloud-us-west-region/)
-- [Amazon Redshift launches RA3 instances in the Asia Pacific &lpar;Osaka&rpar;, Europe &lpar;Milan&rpar;, Middle East &lpar;Bahrain&rpar; and Africa &lpar;Cape Town&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-redshift-instances-asia-pacific-osaka-europe-milan-middle-east-bahrain-africa-cape-town-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

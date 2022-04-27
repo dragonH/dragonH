@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 I4i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-i4i-instances/)
 - [AWS Snow launches Large Data Migration Manager for planning and managing large data migrations from your premises to AWS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/)
 - [Amazon RDS for Postgres now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-postgres-supports-m6i-r6i-instances/)
 - [Amazon Interactive Video Service adds stream chat feature](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-adds-stream-chat-feature/)
@@ -67,7 +68,6 @@
 - [AWS Backup for Amazon FSx is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-amazon-fsx-osaka/)
 - [Amazon EC2 R6gd instances powered by AWS Graviton2 now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/)
 - [Amazon EC2 C6i, M6i and R6i Instances available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-c6i-m6i-r6i-instances-available-aws-govcloud-us-regions/)
-- [Use IAM to control access to a resource based on the account, OU or organization that contains the resource](https://aws.amazon.com/about-aws/whats-new/2022/04/iam-access-resource-organization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

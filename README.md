@@ -63,11 +63,11 @@
 - [AWS Backup for Amazon FSx is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-amazon-fsx-osaka/)
 - [Amazon EC2 R6gd instances powered by AWS Graviton2 now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/)
 - [Amazon EC2 C6i, M6i and R6i Instances available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-c6i-m6i-r6i-instances-available-aws-govcloud-us-regions/)
+- [Use IAM to control access to a resource based on the account, OU or organization that contains the resource](https://aws.amazon.com/about-aws/whats-new/2022/04/iam-access-resource-organization/)
 - [Amazon Polly now offers a Neural TTS voice in Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-neural-tts-voice-portuguese/)
 - [Amazon Elastic Kubernetes Service &lpar;EKS&rpar; announces Karpenter v0.9.0 with support for Pod Affinity](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-eks-karpenter-v0-9-0-pod-affinity/)
 - [AWS Announces general availability of the first AWS Wavelength Zone in Canada](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-general-availability-first-aws-wavelength-zone-canada/)
 - [Amazon Connect launches API to search for users by name, agent hierarchies, and tags](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-search-users-name-agent-hierarchies-tags/)
-- [Amazon SES V2 now supports email size of up to 40MB for inbound and outbound emails by default](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ses-v2-supports-email-size-40mb-inbound-outbound-emails-default/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

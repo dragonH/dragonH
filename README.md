@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/)
+- [Amazon RDS Data API now supports returning SQL results as a simplified JSON string](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-data-api-sql-json-string/)
+- [ElastiCache data tiering is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/04/elasticache-data-tiering-available-additional-regions/)
+- [Amazon SageMaker Data Wrangler now supports random sampling and stratified sampling](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-supports-random-sampling-stratified-sampling/)
+- [Get insights into Data and Data Quality with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-quality-wrangler/)
+- [AWS Snow Family now supports update of device certificates](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-supports-update-device-certificates/)
+- [Amazon Route 53 Resolver endpoints for hybrid cloud Are Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-resolver-endpoints-hybrid-cloud-jakarta/)
 - [Amazon Chime SDK offers API endpoints for media pipeline in Oregon, Frankfurt, and Singapore](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-chime-sdk-api-endpoints-media-pipeline-additional-regions/)
 - [Introducing Amazon EC2 I4i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-i4i-instances/)
 - [AWS Snow launches Large Data Migration Manager for planning and managing large data migrations from your premises to AWS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/)
-- [Amazon RDS for Postgres now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-postgres-supports-m6i-r6i-instances/)
-- [Amazon Interactive Video Service adds stream chat feature](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-interactive-video-service-adds-stream-chat-feature/)
-- [AWS Control Tower now supports Python 3.9 runtime](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-control-tower-supports-python-3-9-runtime/)
-- [Amazon RDS for MariaDB now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM.](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mariadb-m6i-r6i-new-instance-sizes/)
-- [Amazon Lightsail load balancers now support automatic HTTPS redirects and configurable TLS security policy](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-lightsail-balancers-automatic-https-tls-security-policy/)
-- [AWS Backup for Amazon FSx is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-backup-amazon-fsx-osaka/)
-- [Amazon EC2 R6gd instances powered by AWS Graviton2 now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-r6gd-instances-aws-graviton2-available-sao-paulo/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

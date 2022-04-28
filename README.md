@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mysql-m6i-r6i-instances-instance-sizes-128-vcpus-1024-gib-ram/)
+- [Amazon MSK Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/)
 - [Amazon Polly now offers a new Neural TTS voices in Brazilian Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voices-brazilian-portuguese/)
 - [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
 - [AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Data Wrangler now supports random sampling and stratified sampling](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-supports-random-sampling-stratified-sampling/)
 - [Get insights into Data and Data Quality with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-quality-wrangler/)
 - [AWS Snow Family now supports update of device certificates](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-supports-update-device-certificates/)
-- [Amazon Route 53 Resolver endpoints for hybrid cloud Are Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-resolver-endpoints-hybrid-cloud-jakarta/)
-- [Amazon Chime SDK offers API endpoints for media pipeline in Oregon, Frankfurt, and Singapore](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-chime-sdk-api-endpoints-media-pipeline-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

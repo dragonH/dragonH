@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
 - [AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/)
 - [Amazon RDS Data API now supports returning SQL results as a simplified JSON string](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-data-api-sql-json-string/)
 - [ElastiCache data tiering is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/04/elasticache-data-tiering-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Route 53 Resolver endpoints for hybrid cloud Are Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-route-53-resolver-endpoints-hybrid-cloud-jakarta/)
 - [Amazon Chime SDK offers API endpoints for media pipeline in Oregon, Frankfurt, and Singapore](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-chime-sdk-api-endpoints-media-pipeline-additional-regions/)
 - [Introducing Amazon EC2 I4i instances](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-ec2-i4i-instances/)
-- [AWS Snow launches Large Data Migration Manager for planning and managing large data migrations from your premises to AWS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

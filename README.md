@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-postgresql-supports-m6i-r6i-instances/)
 - [Amazon RDS for MySQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mysql-m6i-r6i-instances-instance-sizes-128-vcpus-1024-gib-ram/)
 - [Amazon MSK Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/)
 - [Amazon Polly now offers a new Neural TTS voices in Brazilian Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voices-brazilian-portuguese/)
@@ -67,7 +68,6 @@
 - [ElastiCache data tiering is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/04/elasticache-data-tiering-available-additional-regions/)
 - [Amazon SageMaker Data Wrangler now supports random sampling and stratified sampling](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-wrangler-supports-random-sampling-stratified-sampling/)
 - [Get insights into Data and Data Quality with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-sagemaker-data-quality-wrangler/)
-- [AWS Snow Family now supports update of device certificates](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-supports-update-device-certificates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

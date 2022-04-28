@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Clone AWS Launch Wizard inputs to simplify future SAP deployments](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/)
 - [AWS Network Firewall now supports AWS Managed Threat Signatures](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/)
 - [Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/)
 - [AWS Service Catalog support for the AWS Cloud Development Kit &lpar;AWS CDK&rpar; is now available](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-catalog-support-aws-cloud-development-kit-aws-cdk-available/)
@@ -67,7 +68,6 @@
 - [Amazon MSK Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/)
 - [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
 - [AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/)
-- [Amazon RDS Data API now supports returning SQL results as a simplified JSON string](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-data-api-sql-json-string/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

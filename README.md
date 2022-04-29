@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches API to change an agent’s current status](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-agent-current-status/)
+- [Monitor your Amazon RDS usage metrics against AWS service limits](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-monitor-rds-metrics-against-aws-service-limits/)
+- [New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific &lpar;Singapore&rpar; and Asia Pacific &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-multi-az-2x-faster-transaction-commit-latency/)
 - [AWS adds new management features for EC2 key pairs](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-management-features-ec2-key-pairs/)
 - [AWS Audit Manager now allows use of custom rules from AWS Config](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-audit-manager-allows-custom-rules-config/)
 - [Clone AWS Launch Wizard inputs to simplify future SAP deployments](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/)
@@ -65,9 +68,6 @@
 - [Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/)
 - [AWS Service Catalog support for the AWS Cloud Development Kit &lpar;AWS CDK&rpar; is now available](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-service-catalog-support-aws-cloud-development-kit-aws-cdk-available/)
 - [Amazon Polly now offers a new Neural TTS voice in Brazilian Portuguese](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-polly-offers-new-neural-tts-voice-brazilian-portuguese/)
-- [Amazon RDS for PostgreSQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-postgresql-supports-m6i-r6i-instances/)
-- [Amazon RDS for MySQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mysql-m6i-r6i-instances-instance-sizes-128-vcpus-1024-gib-ram/)
-- [Amazon MSK Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

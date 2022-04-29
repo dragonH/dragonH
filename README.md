@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS adds new management features for EC2 key pairs](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-management-features-ec2-key-pairs/)
+- [AWS Audit Manager now allows use of custom rules from AWS Config](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-audit-manager-allows-custom-rules-config/)
 - [Clone AWS Launch Wizard inputs to simplify future SAP deployments](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/)
 - [AWS Network Firewall now supports AWS Managed Threat Signatures](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-network-firewall-threat-signatures/)
 - [Amazon Rekognition introduces Streaming Video Events to provide real-time alerts on live video streams](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rekognition-streaming-video-events-real-time-alerts-live-video-streams/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for PostgreSQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-postgresql-supports-m6i-r6i-instances/)
 - [Amazon RDS for MySQL now supports M6i and R6i instances with new instance sizes up to 128 vCPUs and 1,024 GiB RAM](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-mysql-m6i-r6i-instances-instance-sizes-128-vcpus-1024-gib-ram/)
 - [Amazon MSK Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-msk-serverless-now-generally-available/)
-- [AWS Key Management Service introduces new HMAC API](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-key-management-service-hmac-api/)
-- [AWS Snow Family now enables you to remotely monitor and operate your connected Snowball Edge devices](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-family-remote-monitor-snowball/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

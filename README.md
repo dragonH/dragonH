@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches an API to programmatically stop queued callbacks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/)
+- [Amazon RDS now supports Internet Protocol version 6 &lpar;IPv6&rpar; in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/)
+- [Amazon EKS now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-available-asia-pacific-jakarta-region/)
 - [Amazon Relational Database Service on AWS Outposts now supports storage autoscaling](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-aws-outposts-storage-autoscaling/)
 - [AWS Snow launches Large Data Migration Manager for planning and managing large data migrations from your premises to AWS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/)
 - [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/)
@@ -65,9 +68,6 @@
 - [Amazon Connect launches API to change an agent’s current status](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-agent-current-status/)
 - [Monitor your Amazon RDS usage metrics against AWS service limits](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-monitor-rds-metrics-against-aws-service-limits/)
 - [New Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific &lpar;Singapore&rpar; and Asia Pacific &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-multi-az-2x-faster-transaction-commit-latency/)
-- [AWS adds new management features for EC2 key pairs](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-management-features-ec2-key-pairs/)
-- [AWS Audit Manager now allows use of custom rules from AWS Config](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-audit-manager-allows-custom-rules-config/)
-- [Clone AWS Launch Wizard inputs to simplify future SAP deployments](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-launch-wizard-simplify-future-sap-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

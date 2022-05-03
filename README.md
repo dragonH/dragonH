@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quicksight Line chart support for 10,000 data points](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-quicksight-line-chart-support-10000-data-points/)
 - [Amazon CodeGuru Reviewer now supports suppression of files and folders in code reviews](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-codeguru-reviewer-supports-suppression-files-folders-code-reviews/)
 - [Amazon Connect launches an API to programmatically stop queued callbacks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/)
 - [Amazon RDS now supports Internet Protocol version 6 &lpar;IPv6&rpar; in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/)
 - [Amazon Connect now surfaces Voice ID attributes directly on the contact detail page](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-surfaces-voice-id-attributes-on-contact-detail-page/)
 - [Amazon Connect launches API to change an agent’s current status](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-connect-api-agent-current-status/)
-- [Monitor your Amazon RDS usage metrics against AWS service limits](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-monitor-rds-metrics-against-aws-service-limits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

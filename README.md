@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS console now supports all standard Kubernetes resources to simplify cluster management](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-console-supports-standard-kubernetes-resources-cluster-management/)
+- [Amazon RDS Performance Insights now allows you to more easily see metrics for any time interval](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-performance-insights-see-metrics-any-time-interval/)
+- [Amazon EBS Snapshots Archive is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ebs-snapshots-archive/)
 - [AWS AppConfig Feature Flag Lambda Extension announces support for Arm/Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appconfig-feature-flag-lambda-extension-arm-graviton2-processors/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; announces support of Goerli Testnet for Ethereum](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-blockchain-goerli-testnet-ethereum/)
 - [Amazon Quicksight Line chart support for 10,000 data points](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-quicksight-line-chart-support-10000-data-points/)
@@ -65,9 +68,6 @@
 - [Amazon Connect launches an API to programmatically stop queued callbacks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/)
 - [Amazon RDS now supports Internet Protocol version 6 &lpar;IPv6&rpar; in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-ipv6-aws-govcloud-us-regions/)
 - [Amazon EKS now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-available-asia-pacific-jakarta-region/)
-- [Amazon Relational Database Service on AWS Outposts now supports storage autoscaling](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-aws-outposts-storage-autoscaling/)
-- [AWS Snow launches Large Data Migration Manager for planning and managing large data migrations from your premises to AWS](https://aws.amazon.com/about-aws/whats-new/2022/04/aws-snow-large-data-migration-manager/)
-- [Amazon RDS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/04/amazon-rds-supports-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

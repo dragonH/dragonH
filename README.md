@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer adds four new Trusted Advisor checks](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-compute-optimizer-adds-trusted-advisor-checks/)
 - [Amazon Managed Service for Prometheus is now available in Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-service-prometheus-now-available-europe-london-region/)
 - [AWS IoT Device Management Secure Tunneling now supports single-use token and token rotation capabilities, making remote connections more secure](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iot-device-management-secure-tunneling-single-use-token-rotation-capabilities-remote-connections-secure/)
 - [AWS RoboMaker now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-robomaker-govcloud-us-west/)
@@ -67,7 +68,6 @@
 - [Amazon EKS console now supports all standard Kubernetes resources to simplify cluster management](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-console-supports-standard-kubernetes-resources-cluster-management/)
 - [Amazon RDS Performance Insights now allows you to more easily see metrics for any time interval](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-performance-insights-see-metrics-any-time-interval/)
 - [Amazon EBS Snapshots Archive is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ebs-snapshots-archive/)
-- [AWS AppConfig Feature Flag Lambda Extension announces support for Arm/Graviton2 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appconfig-feature-flag-lambda-extension-arm-graviton2-processors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

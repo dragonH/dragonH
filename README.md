@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Video Streams announces managed support for image extraction](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-video-streams-announces-managed-support-image-extraction/)
 - [AWS Serverless Application Model CLI now supports enabling AWS X-Ray tracing](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-serverless-application-model-cli-supports-x-ray-tracing/)
 - [Amazon RDS for PostgreSQL supports cascaded read replicas for up to 30X more read capacity](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-postgresql-cascaded-read-replicas-30x-capacity/)
 - [Amazon EKS console now supports all standard Kubernetes resources to simplify cluster management](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-console-supports-standard-kubernetes-resources-cluster-management/)
@@ -67,7 +68,6 @@
 - [Amazon Managed Blockchain &lpar;AMB&rpar; announces support of Goerli Testnet for Ethereum](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-blockchain-goerli-testnet-ethereum/)
 - [Amazon Quicksight Line chart support for 10,000 data points](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-quicksight-line-chart-support-10000-data-points/)
 - [Amazon CodeGuru Reviewer now supports suppression of files and folders in code reviews](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-codeguru-reviewer-supports-suppression-files-folders-code-reviews/)
-- [Amazon Connect launches an API to programmatically stop queued callbacks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-launches-api-to-programmatically-stop-queued-callbacks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

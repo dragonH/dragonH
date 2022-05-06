@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X2idn and X2iedn instances are now available in more regions and bare metal sizes](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/)
 - [Amazon Chime SDK messaging features are now available in the Europe &lpar;Frankfurt&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-chime-sdk-messaging-features-available-europe-frankfurt-aws-region/)
 - [Amazon EC2 M6a and C6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-m6a-c6a-available-additional-regions/)
 - [Amazon Kinesis Data Firehose is now available in the Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-firehose-available-asia-jakarta-aws-region/)
@@ -67,7 +68,6 @@
 - [Amazon Connect now supports up to six participants on a customer service call](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-six-participants-customer-service-call/)
 - [Amazon Interactive Video Service launches edge locations in Argentina and Chile](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-interactive-video-service-launches-edge-locations-argentina-chile/)
 - [The Lenovo ThinkEdge SE70 device, powered by AWS Panorama, is now available for sale](https://aws.amazon.com/about-aws/whats-new/2022/05/lenovo-thinkedge-se70-aws-panorama-available-sale/)
-- [Amazon SageMaker Canvas adds new data preparation capabilities and usability updates](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-canvas-adds-new-data-capabilities-usability-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

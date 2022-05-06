@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK messaging features are now available in the Europe &lpar;Frankfurt&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-chime-sdk-messaging-features-available-europe-frankfurt-aws-region/)
+- [Amazon EC2 M6a and C6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-m6a-c6a-available-additional-regions/)
 - [Amazon Kinesis Data Firehose is now available in the Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-firehose-available-asia-jakarta-aws-region/)
 - [Amazon Rekognition launches Face APIs version 6 for improved accuracy](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rekognition-face-apis-version-6-accuracy/)
 - [AWS Lambda support for Amazon Elastic File System now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/)
@@ -66,8 +68,6 @@
 - [Amazon Interactive Video Service launches edge locations in Argentina and Chile](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-interactive-video-service-launches-edge-locations-argentina-chile/)
 - [The Lenovo ThinkEdge SE70 device, powered by AWS Panorama, is now available for sale](https://aws.amazon.com/about-aws/whats-new/2022/05/lenovo-thinkedge-se70-aws-panorama-available-sale/)
 - [Amazon SageMaker Canvas adds new data preparation capabilities and usability updates](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-canvas-adds-new-data-capabilities-usability-updates/)
-- [The New Amazon ElastiCache console is now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-console-available/)
-- [Amazon RDS for SQL Server now supports SQL Server 2016 SP3, 2017 CU27, and 2019 CU15](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-sql-server-supports-sql-server-2016-sp3-2017-cu27-2019-cu15/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

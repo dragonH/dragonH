@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Wrangler now supports additional M5 and R5 instances for interactive data preparation](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-data-wrangler-m5-r5-instances-data-preparation/)
 - [Amazon EC2 X2idn and X2iedn instances are now available in more regions and bare metal sizes](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/)
 - [Amazon Chime SDK messaging features are now available in the Europe &lpar;Frankfurt&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-chime-sdk-messaging-features-available-europe-frankfurt-aws-region/)
 - [Amazon EC2 M6a and C6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-m6a-c6a-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Lex now supports custom vocabulary](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lex-supports-custom-vocabulary/)
 - [Amazon Connect now supports up to six participants on a customer service call](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-six-participants-customer-service-call/)
 - [Amazon Interactive Video Service launches edge locations in Argentina and Chile](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-interactive-video-service-launches-edge-locations-argentina-chile/)
-- [The Lenovo ThinkEdge SE70 device, powered by AWS Panorama, is now available for sale](https://aws.amazon.com/about-aws/whats-new/2022/05/lenovo-thinkedge-se70-aws-panorama-available-sale/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

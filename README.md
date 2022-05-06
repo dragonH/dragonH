@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition launches Face APIs version 6 for improved accuracy](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rekognition-face-apis-version-6-accuracy/)
 - [AWS Lambda support for Amazon Elastic File System now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/)
 - [Amazon Lex now supports custom vocabulary](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lex-supports-custom-vocabulary/)
 - [Amazon Connect now supports up to six participants on a customer service call](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-six-participants-customer-service-call/)
@@ -67,7 +68,6 @@
 - [The New Amazon ElastiCache console is now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-console-available/)
 - [Amazon RDS for SQL Server now supports SQL Server 2016 SP3, 2017 CU27, and 2019 CU15](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rds-sql-server-supports-sql-server-2016-sp3-2017-cu27-2019-cu15/)
 - [AWS Service Catalog Provisioning constructs for the AWS Cloud Development Kit &lpar;AWS CDK&rpar; are now available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-service-catalog-provisioning-constructs-aws-cloud-development-kit-aws-cdk-available/)
-- [Amazon Braket Hybrid Jobs now supports embedded circuit simulations, improving the performance of certain hybrid quantum-classical algorithms by over 10X](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-braket-hybrid-jobs-embedded-circuit-simulations-quantum-classical-algorithms-10x/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

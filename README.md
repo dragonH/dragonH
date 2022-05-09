@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Monitor your Amazon Managed Service for Prometheus usage with Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/)
 - [Announcing three new APIs for batch data retrieval in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-apis-batch-data-retrieval-aws-iot-sitewise/)
 - [AWS X-Ray is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/)
 - [Amazon Connect now displays metrics within the schedule management user experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-displays-metrics-schedule-management-user-experience/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M6a and C6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-m6a-c6a-available-additional-regions/)
 - [Amazon Kinesis Data Firehose is now available in the Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-firehose-available-asia-jakarta-aws-region/)
 - [Amazon Rekognition launches Face APIs version 6 for improved accuracy](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rekognition-face-apis-version-6-accuracy/)
-- [AWS Lambda support for Amazon Elastic File System now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

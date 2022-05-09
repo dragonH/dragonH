@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS X-Ray is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/)
 - [Amazon Connect now displays metrics within the schedule management user experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-displays-metrics-schedule-management-user-experience/)
 - [Amazon SageMaker Data Wrangler now supports additional M5 and R5 instances for interactive data preparation](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-data-wrangler-m5-r5-instances-data-preparation/)
 - [Amazon EC2 X2idn and X2iedn instances are now available in more regions and bare metal sizes](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/)
@@ -67,7 +68,6 @@
 - [Amazon Rekognition launches Face APIs version 6 for improved accuracy](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-rekognition-face-apis-version-6-accuracy/)
 - [AWS Lambda support for Amazon Elastic File System now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-support-amazon-elastic-file-system-available-asia-pacific-jakarta-region/)
 - [Amazon Lex now supports custom vocabulary](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lex-supports-custom-vocabulary/)
-- [Amazon Connect now supports up to six participants on a customer service call](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-six-participants-customer-service-call/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

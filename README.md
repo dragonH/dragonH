@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Secrets Manager now publishes secrets usage metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-secrets-manager-publishes-usage-metrics-to-amazon-cloudwatch/)
 - [Amazon Athena now supports views in Apache Hive metastores](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-athena-now-supports-views-apache-hive-metastores/)
 - [Announcing Amplify Android library &lpar;Developer Preview&rpar;, designed for Kotlin](https://aws.amazon.com/about-aws/whats-new/2022/05/amplify-android-library-developer-preview-kotlin/)
 - [SageMaker Notebook Instances now support the ml.g5 instance family, and Python 3.8 kernels](https://aws.amazon.com/about-aws/whats-new/2022/05/sagemaker-notebook-instances-support-ml-g5-instance-family-python-3-8-kernels/)
@@ -67,7 +68,6 @@
 - [AWS announces support for Android, iOS, and MacOS games with AWS GameKit for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-announces-support-android-ios-macos-games-aws-gamekit-unreal-engine/)
 - [Amazon EC2 adds CloudWatch Events support for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/)
 - [Announcing new workflow observability features for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-workflow-observability-features-aws-step-functions/)
-- [Monitor your Amazon Managed Service for Prometheus usage with Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

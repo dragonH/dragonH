@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing three featured FreeRTOS Reference Integrations Projects](https://aws.amazon.com/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/)
+- [Amazon EFS now supports a larger number of concurrent file locks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/)
 - [Introducing more flexible AWS Device Qualification Program for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-device-qualification-program-freertos/)
 - [AWS announces support for Android, iOS, and MacOS games with AWS GameKit for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-announces-support-android-ios-macos-games-aws-gamekit-unreal-engine/)
 - [Amazon EC2 adds CloudWatch Events support for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/)
@@ -66,8 +68,6 @@
 - [Announcing three new APIs for batch data retrieval in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-apis-batch-data-retrieval-aws-iot-sitewise/)
 - [AWS X-Ray is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/)
 - [Amazon Connect now displays metrics within the schedule management user experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-displays-metrics-schedule-management-user-experience/)
-- [Amazon SageMaker Data Wrangler now supports additional M5 and R5 instances for interactive data preparation](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-sagemaker-data-wrangler-m5-r5-instances-data-preparation/)
-- [Amazon EC2 X2idn and X2iedn instances are now available in more regions and bare metal sizes](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-additional-regions-metal-sizes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

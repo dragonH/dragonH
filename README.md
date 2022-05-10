@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amplify Android library &lpar;Developer Preview&rpar;, designed for Kotlin](https://aws.amazon.com/about-aws/whats-new/2022/05/amplify-android-library-developer-preview-kotlin/)
+- [SageMaker Notebook Instances now support the ml.g5 instance family, and Python 3.8 kernels](https://aws.amazon.com/about-aws/whats-new/2022/05/sagemaker-notebook-instances-support-ml-g5-instance-family-python-3-8-kernels/)
 - [Announcing three featured FreeRTOS Reference Integrations Projects](https://aws.amazon.com/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/)
 - [Amazon EFS now supports a larger number of concurrent file locks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/)
 - [Introducing more flexible AWS Device Qualification Program for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-device-qualification-program-freertos/)
@@ -66,8 +68,6 @@
 - [Announcing new workflow observability features for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-workflow-observability-features-aws-step-functions/)
 - [Monitor your Amazon Managed Service for Prometheus usage with Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/monitor-amazon-managed-service-prometheus-usage-amazon-cloudwatch-usage-metrics/)
 - [Announcing three new APIs for batch data retrieval in AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-new-apis-batch-data-retrieval-aws-iot-sitewise/)
-- [AWS X-Ray is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-x-ray-available-asia-pacific-jakarta-region/)
-- [Amazon Connect now displays metrics within the schedule management user experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-displays-metrics-schedule-management-user-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

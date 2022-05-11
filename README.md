@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink announces support for IPv6](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-privatelink-ipv6/)
+- [Amazon FSx for NetApp ONTAP is now certified for SAP HANA workloads](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-fsx-netapp-ontap-certified-sap-hana-workloads/)
 - [Announcing the general availability of NitroTPM and UEFI Secure Boot on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-nitrotpm-uefi-secure-boot/)
 - [AWS Secrets Manager now publishes secrets usage metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-secrets-manager-publishes-usage-metrics-to-amazon-cloudwatch/)
 - [Amazon Athena now supports views in Apache Hive metastores](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-athena-now-supports-views-apache-hive-metastores/)
@@ -66,8 +68,6 @@
 - [Announcing three featured FreeRTOS Reference Integrations Projects](https://aws.amazon.com/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/)
 - [Amazon EFS now supports a larger number of concurrent file locks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/)
 - [Introducing more flexible AWS Device Qualification Program for FreeRTOS](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-device-qualification-program-freertos/)
-- [AWS announces support for Android, iOS, and MacOS games with AWS GameKit for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-announces-support-android-ios-macos-games-aws-gamekit-unreal-engine/)
-- [Amazon EC2 adds CloudWatch Events support for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-cloudwatch-events-support-amazon-machine-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

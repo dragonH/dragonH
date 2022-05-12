@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC Traffic Mirroring now supports sending mirrored traffic to Gateway Load Balancer backed monitoring appliances](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/)
+- [AWS Lambda adds support for Node.js 16](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/)
 - [Administer AWS Single Sign-On from a delegated member account in your organization](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-sign-on-administer-delegated-member-account-in-organization/)
 - [AWS Backup Audit Manager adds compliance management for data protection of hybrid VMware workloads](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-compliance-management-data-protection-hybrid-vmware-workloads/)
 - [Amazon EC2 R5b instances are now available in South America &lpar;Sao Paulo&rpar;, Canada &lpar;Central&rpar;, and Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-r5b-instances-additional-regions/)
@@ -66,8 +68,6 @@
 - [Announcing the general availability of NitroTPM and UEFI Secure Boot on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-nitrotpm-uefi-secure-boot/)
 - [AWS Secrets Manager now publishes secrets usage metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-secrets-manager-publishes-usage-metrics-to-amazon-cloudwatch/)
 - [Amazon Athena now supports views in Apache Hive metastores](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-athena-now-supports-views-apache-hive-metastores/)
-- [Announcing Amplify Android library &lpar;Developer Preview&rpar;, designed for Kotlin](https://aws.amazon.com/about-aws/whats-new/2022/05/amplify-android-library-developer-preview-kotlin/)
-- [SageMaker Notebook Instances now support the ml.g5 instance family, and Python 3.8 kernels](https://aws.amazon.com/about-aws/whats-new/2022/05/sagemaker-notebook-instances-support-ml-g5-instance-family-python-3-8-kernels/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

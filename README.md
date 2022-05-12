@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Audit Manager adds compliance management for data protection of hybrid VMware workloads](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-compliance-management-data-protection-hybrid-vmware-workloads/)
 - [Amazon EC2 R5b instances are now available in South America &lpar;Sao Paulo&rpar;, Canada &lpar;Central&rpar;, and Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-r5b-instances-additional-regions/)
 - [AWS PrivateLink announces support for IPv6](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-privatelink-ipv6/)
 - [Amazon FSx for NetApp ONTAP is now certified for SAP HANA workloads](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-fsx-netapp-ontap-certified-sap-hana-workloads/)
@@ -67,7 +68,6 @@
 - [Announcing Amplify Android library &lpar;Developer Preview&rpar;, designed for Kotlin](https://aws.amazon.com/about-aws/whats-new/2022/05/amplify-android-library-developer-preview-kotlin/)
 - [SageMaker Notebook Instances now support the ml.g5 instance family, and Python 3.8 kernels](https://aws.amazon.com/about-aws/whats-new/2022/05/sagemaker-notebook-instances-support-ml-g5-instance-family-python-3-8-kernels/)
 - [Announcing three featured FreeRTOS Reference Integrations Projects](https://aws.amazon.com/about-aws/whats-new/2022/05/three-featured-freertos-reference-integrations-projects/)
-- [Amazon EFS now supports a larger number of concurrent file locks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-efs-larger-number-concurrent-file-locks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

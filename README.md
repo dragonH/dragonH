@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC now supports multiple IPv6 CIDR blocks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/)
 - [Amazon CloudWatch Synthetics adds support for canary resources deletion when a canary is deleted](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-synthetics-support-canary-resources-deletion/)
 - [Amazon VPC Traffic Mirroring now supports sending mirrored traffic to Gateway Load Balancer backed monitoring appliances](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/)
 - [AWS Lambda adds support for Node.js 16](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/)
@@ -67,7 +68,6 @@
 - [AWS PrivateLink announces support for IPv6](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-privatelink-ipv6/)
 - [Amazon FSx for NetApp ONTAP is now certified for SAP HANA workloads](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-fsx-netapp-ontap-certified-sap-hana-workloads/)
 - [Announcing the general availability of NitroTPM and UEFI Secure Boot on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-nitrotpm-uefi-secure-boot/)
-- [AWS Secrets Manager now publishes secrets usage metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-secrets-manager-publishes-usage-metrics-to-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

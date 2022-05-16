@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I4i metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/)
 - [Amazon Neptune is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/)
 - [AWS Control Tower can now use customer provided core accounts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/)
 - [AWS Glue now supports SASL authentication for Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-supports-sasl-authentication-apache-kafka/)
@@ -67,7 +68,6 @@
 - [Amazon EKS Anywhere curated packages are now in public preview](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-anywhere-curated-packages-preview/)
 - [Amazon VPC now supports multiple IPv6 CIDR blocks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/)
 - [Amazon CloudWatch Synthetics adds support for canary resources deletion when a canary is deleted](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-synthetics-support-canary-resources-deletion/)
-- [Amazon VPC Traffic Mirroring now supports sending mirrored traffic to Gateway Load Balancer backed monitoring appliances](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vps-traffic-mirroring-supports-sending-mirrored-traffic-gateway-load-balancer-backed-monitoring-appliances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

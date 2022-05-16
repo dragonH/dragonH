@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Distribution of Kubeflow supporting Kubeflow v1.4.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-distribution-kubeflow-supporting-kubeflow-v1-4-1-generally-available/)
 - [Amazon Lex launches support for phrase hints](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lex-supports-phrase-hints/)
 - [Amazon EC2 X2idn and X2iedn instances now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/)
 - [Amazon EKS Anywhere curated packages are now in public preview](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-anywhere-curated-packages-preview/)
@@ -67,7 +68,6 @@
 - [AWS Lambda adds support for Node.js 16](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/)
 - [Administer AWS Single Sign-On from a delegated member account in your organization](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-sign-on-administer-delegated-member-account-in-organization/)
 - [AWS Backup Audit Manager adds compliance management for data protection of hybrid VMware workloads](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-compliance-management-data-protection-hybrid-vmware-workloads/)
-- [Amazon EC2 R5b instances are now available in South America &lpar;Sao Paulo&rpar;, Canada &lpar;Central&rpar;, and Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-r5b-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

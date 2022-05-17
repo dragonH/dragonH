@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch announces improved console experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-announces-improved-console-experience/)
 - [Amazon EC2 I4i metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/)
 - [Amazon Neptune is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/)
 - [AWS Control Tower can now use customer provided core accounts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 X2idn and X2iedn instances now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/)
 - [Amazon EKS Anywhere curated packages are now in public preview](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-anywhere-curated-packages-preview/)
 - [Amazon VPC now supports multiple IPv6 CIDR blocks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/)
-- [Amazon CloudWatch Synthetics adds support for canary resources deletion when a canary is deleted](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-synthetics-support-canary-resources-deletion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

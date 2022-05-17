@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Encryption SDK for .NET now generally available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-encryption-sdk-net-available/)
+- [Amazon EC2 Auto Scaling now supports Predictive Scaling in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/)
+- [Amazon Redshift launches new Snapshot Isolation level support for concurrent transactions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-redshift-snapshot-isolation-level-support-concurrent-transactions/)
 - [Amazon CloudWatch announces improved console experience](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudwatch-announces-improved-console-experience/)
 - [Amazon EC2 I4i metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-i4i-metal-instances-now-available/)
 - [Amazon Neptune is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-neptune-fedramp-compliant/)
@@ -65,9 +68,6 @@
 - [AWS Glue now supports SASL authentication for Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-supports-sasl-authentication-apache-kafka/)
 - [AWS Distribution of Kubeflow supporting Kubeflow v1.4.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-distribution-kubeflow-supporting-kubeflow-v1-4-1-generally-available/)
 - [Amazon Lex launches support for phrase hints](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lex-supports-phrase-hints/)
-- [Amazon EC2 X2idn and X2iedn instances now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-x2idn-x2iedn-instances-available-in-8-additional-regions/)
-- [Amazon EKS Anywhere curated packages are now in public preview](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-eks-anywhere-curated-packages-preview/)
-- [Amazon VPC now supports multiple IPv6 CIDR blocks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resilience Hub adds support for Terraform, Amazon ECS, and additional services](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resilience-hub-adds-terraform-amazon-ecs-additional-services/)
 - [AWS Encryption SDK for .NET now generally available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-encryption-sdk-net-available/)
 - [Amazon EC2 Auto Scaling now supports Predictive Scaling in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-predictive-feature-aws-govcloud-us-west-region/)
 - [Amazon Redshift launches new Snapshot Isolation level support for concurrent transactions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-redshift-snapshot-isolation-level-support-concurrent-transactions/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower can now use customer provided core accounts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-now-use-customer-provided-core-accounts/)
 - [AWS Glue now supports SASL authentication for Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-supports-sasl-authentication-apache-kafka/)
 - [AWS Distribution of Kubeflow supporting Kubeflow v1.4.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-distribution-kubeflow-supporting-kubeflow-v1-4-1-generally-available/)
-- [Amazon Lex launches support for phrase hints](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lex-supports-phrase-hints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

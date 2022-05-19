@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles launches in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-launches-asia-pacific-seoul-region/)
 - [AWS Glue now provides APIs to create and manage AWS Glue Studio visual jobs](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-apis-create-manage-aws-glue-studio-visual-jobs/)
 - [Amazon MQ now supports RabbitMQ version 3.8.30](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-8-30/)
 - [Amazon MQ now supports RabbitMQ version 3.9.16](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-9-16/)
@@ -67,7 +68,6 @@
 - [AWS App Mesh now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-app-mesh-supports-ipv6/)
 - [Amazon Redshift now supports linear learner algorithm with Redshift ML](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-redshift-supports-linear-learner-algorithm-redshift-ml/)
 - [AWS Resilience Hub adds support for Terraform, Amazon ECS, and additional services](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resilience-hub-adds-terraform-amazon-ecs-additional-services/)
-- [AWS Encryption SDK for .NET now generally available](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-encryption-sdk-net-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

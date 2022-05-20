@@ -64,10 +64,10 @@
 - [Amazon Chime SDK now supports video background replacement and blur on iOS and Android](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-chime-sdk-video-background-replacement-blur-ios-android/)
 - [Amazon Connect Customer Profiles launches in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-launches-asia-pacific-seoul-region/)
 - [AWS Glue now provides APIs to create and manage AWS Glue Studio visual jobs](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-apis-create-manage-aws-glue-studio-visual-jobs/)
+- [Metric support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-distro-opentelemetry-metric-support/)
 - [Amazon MQ now supports RabbitMQ version 3.8.30](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-8-30/)
 - [Amazon MQ now supports RabbitMQ version 3.9.16](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-9-16/)
 - [Announcing general availability of 1-click public embedding available with Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/05/announcing-general-availability-click-embedding-available-amazon-quicksight/)
-- [AWS Backup adds support for Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-amazon-fsx-openzfs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

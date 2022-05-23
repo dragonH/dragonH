@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Offer acceptance email notifications is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-offer-acceptance-email-notifications/)
 - [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/)
 - [Amazon Kinesis Data Analytics is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-analytics-fedramp-compliant/)
 - [Amazon CloudFront now provides TLS version and cipher suite in CloudFront-Viewer-TLS-header](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Auto Scaling now backfills Predictive Scaling forecasts so you can quickly validate forecast accuracy](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/)
 - [Incident Manager from AWS Systems Manager expands support for runbook automation](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-incident-manager-runbook-automation/)
 - [Amazon Chime SDK now supports video background replacement and blur on iOS and Android](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-chime-sdk-video-background-replacement-blur-ios-android/)
-- [Amazon Connect Customer Profiles launches in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-launches-asia-pacific-seoul-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-analytics-fedramp-compliant/)
 - [Amazon Comprehend detects and redacts 14 new PII entity types across the U.S., U.K., Canada, and India](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-comprehend-detects-redacts-pll-entity-types-across-us-uk-canada-india/)
 - [Amazon CloudFront now provides TLS version and cipher suite in CloudFront-Viewer-TLS-header](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/)
 - [AWS Control Tower now supports concurrent operations for preventive guardrails](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/)
@@ -67,7 +68,6 @@
 - [Amazon Chime SDK now supports video background replacement and blur on iOS and Android](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-chime-sdk-video-background-replacement-blur-ios-android/)
 - [Amazon Connect Customer Profiles launches in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-launches-asia-pacific-seoul-region/)
 - [AWS Glue now provides APIs to create and manage AWS Glue Studio visual jobs](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-apis-create-manage-aws-glue-studio-visual-jobs/)
-- [Metric support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-distro-opentelemetry-metric-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

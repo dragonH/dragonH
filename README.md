@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now provides TLS version and cipher suite in CloudFront-Viewer-TLS-header](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/)
 - [AWS Control Tower now supports concurrent operations for preventive guardrails](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/)
 - [Amazon Kendra releases Jira connector to enable document search on JIRA repository](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kendra-jira-enable-document-repository/)
 - [Amazon EC2 Auto Scaling now backfills Predictive Scaling forecasts so you can quickly validate forecast accuracy](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/)
@@ -67,7 +68,6 @@
 - [AWS Glue now provides APIs to create and manage AWS Glue Studio visual jobs](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-glue-apis-create-manage-aws-glue-studio-visual-jobs/)
 - [Metric support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-distro-opentelemetry-metric-support/)
 - [Amazon MQ now supports RabbitMQ version 3.8.30](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-8-30/)
-- [Amazon MQ now supports RabbitMQ version 3.9.16](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-mq-supports-rabbitmq-version-3-9-16/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

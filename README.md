@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Single Sign-On is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-sign-on-asia-pacific-osaka-region/)
 - [Announcing Multi-Account Support for AWS Transit Gateway Network Manager](https://aws.amazon.com/about-aws/whats-new/2022/05/multi-account-support-aws-transit-gateway-network-manager/)
 - [AWS AppSync introduces new simplified console experience to deploy generic real-time Pub/Sub APIs](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplified-console-real-time-pub-sub-apis/)
 - [Two new storage locations available for AWS DataSync](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-data-sync-two-new-storage-locations/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Analytics is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-analytics-fedramp-compliant/)
 - [Amazon CloudFront now provides TLS version and cipher suite in CloudFront-Viewer-TLS-header](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cloudfront-tls-version-cipher-suite-viewer-header/)
 - [Amazon Comprehend detects and redacts 14 new PII entity types across the U.S., U.K., Canada, and India](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-comprehend-detects-redacts-pll-entity-types-across-us-uk-canada-india/)
-- [AWS Control Tower now supports concurrent operations for preventive guardrails](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

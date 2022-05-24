@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Two new storage locations available for AWS DataSync](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-data-sync-two-new-storage-locations/)
 - [Amazon Personalize now supports offline model metrics for recommenders](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-personalize-supports-offline-model-metrics-recommenders/)
 - [Offer acceptance email notifications is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-offer-acceptance-email-notifications/)
 - [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower now supports concurrent operations for preventive guardrails](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-control-tower-supports-concurrent-operations-preventive-guardrails/)
 - [Amazon Kendra releases Jira connector to enable document search on JIRA repository](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kendra-jira-enable-document-repository/)
 - [Amazon EC2 Auto Scaling now backfills Predictive Scaling forecasts so you can quickly validate forecast accuracy](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-auto-scaling-backfill-predictive-scaling-forecasts-accuracy-validate/)
-- [Incident Manager from AWS Systems Manager expands support for runbook automation](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-incident-manager-runbook-automation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

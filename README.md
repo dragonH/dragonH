@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles launches in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-customer-profiles-africa-cape-town/)
+- [AWS Backup Audit Manager adds support for Amazon S3 and AWS Storage Gateway](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-backup-audit-manager-adds-amazon-s3-storage-gateway/)
 - [AWS Config supports Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/)
 - [Amazon EC2 Hpc6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-hpc6a-instances-available-additional-regions/)
 - [Announcing new AWS Wavelength Zones in Nashville and Tampa](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 enables customers to protect instances from unintentional stop actions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-enables-protect-instances-unintentional-stop-actions/)
 - [Amazon Managed Grafana introduces new API for creating Grafana API tokens and support for version 8.4](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-grafana-api-tokens-support-version-8-4/)
 - [AWS Single Sign-On is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-sign-on-asia-pacific-osaka-region/)
-- [Announcing Multi-Account Support for AWS Transit Gateway Network Manager](https://aws.amazon.com/about-aws/whats-new/2022/05/multi-account-support-aws-transit-gateway-network-manager/)
-- [AWS AppSync introduces new simplified console experience to deploy generic real-time Pub/Sub APIs](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplified-console-real-time-pub-sub-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

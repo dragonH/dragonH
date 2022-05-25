@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management increases Active Jobs Limit to 100k per AWS account per region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iot-device-management-increases-jobs-limit-100k-region/)
 - [Amazon EC2 enables customers to protect instances from unintentional stop actions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-enables-protect-instances-unintentional-stop-actions/)
 - [Amazon Managed Grafana introduces new API for creating Grafana API tokens and support for version 8.4](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-grafana-api-tokens-support-version-8-4/)
 - [AWS Single Sign-On is now available in the AWS Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-sign-on-asia-pacific-osaka-region/)
@@ -67,7 +68,6 @@
 - [Amazon Personalize now supports offline model metrics for recommenders](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-personalize-supports-offline-model-metrics-recommenders/)
 - [Offer acceptance email notifications is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-offer-acceptance-email-notifications/)
 - [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/)
-- [Amazon Kinesis Data Analytics is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-kinesis-data-analytics-fedramp-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

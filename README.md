@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Hpc6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-hpc6a-instances-available-additional-regions/)
+- [Announcing new AWS Wavelength Zones in Nashville and Tampa](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/)
+- [Announcing new AWS Wavelength Zone in Seoul](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-seoul/)
 - [AWS IoT Device Management increases Active Jobs Limit to 100k per AWS account per region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iot-device-management-increases-jobs-limit-100k-region/)
 - [Amazon EC2 enables customers to protect instances from unintentional stop actions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-enables-protect-instances-unintentional-stop-actions/)
 - [Amazon Managed Grafana introduces new API for creating Grafana API tokens and support for version 8.4](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-managed-grafana-api-tokens-support-version-8-4/)
@@ -65,9 +68,6 @@
 - [Announcing Multi-Account Support for AWS Transit Gateway Network Manager](https://aws.amazon.com/about-aws/whats-new/2022/05/multi-account-support-aws-transit-gateway-network-manager/)
 - [AWS AppSync introduces new simplified console experience to deploy generic real-time Pub/Sub APIs](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplified-console-real-time-pub-sub-apis/)
 - [Two new storage locations available for AWS DataSync](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-data-sync-two-new-storage-locations/)
-- [Amazon Personalize now supports offline model metrics for recommenders](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-personalize-supports-offline-model-metrics-recommenders/)
-- [Offer acceptance email notifications is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-offer-acceptance-email-notifications/)
-- [Announcing new Amazon EC2 C7g instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-c7g-instances-powered-aws-graviton3-processors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

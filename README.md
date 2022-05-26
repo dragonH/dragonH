@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache for Memcached now supports encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/)
+- [Amazon ElastiCache now supports Memcached 1.6.12](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-supports-memcached-1-6-12/)
 - [Announcing preview of Amazon EC2 P4de GPU instances for ML training and HPC](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-p4de-gpu-instances-ml-training-hpc/)
 - [Announcing JSON support for Amazon ElastiCache for Redis and Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/05/json-support-amazon-elasticache-redis-amazon-memorydb-redis/)
 - [Amazon FSx for Lustre now supports root squash](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-fsx-lustre-supports-root-squash/)
@@ -66,8 +68,6 @@
 - [AWS Config supports Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-config-supports-amazon-cloudwatch-metrics/)
 - [Amazon EC2 Hpc6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-hpc6a-instances-available-additional-regions/)
 - [Announcing new AWS Wavelength Zones in Nashville and Tampa](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-nashville-tampa/)
-- [Announcing new AWS Wavelength Zone in Seoul](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-wavelength-zone-seoul/)
-- [AWS IoT Device Management increases Active Jobs Limit to 100k per AWS account per region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iot-device-management-increases-jobs-limit-100k-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

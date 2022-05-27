@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language &lpar;CWL&rpar; with Toil](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/)
+- [Amazon ECS simplifies Capacity Provider integration with Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/)
 - [The AWS Panorama Appliance is now available for purchase in India and Taiwan](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-panorama-appliance-available-purchase-india-taiwan/)
 - [AWS Systems Manager announces support for port forwarding to remote hosts using Session Manager](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-support-port-forwarding-remote-hosts-using-session-manager/)
 - [AWS Launch Wizard now supports SQL Server deployments using Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-launch-wizard-sql-server-deployments-fsx-netapp-ontap/)
@@ -66,8 +68,6 @@
 - [Amazon Lightsail containers now supports deploying images from Amazon ECR private repositories](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lightsail-containers-deploying-images-amazon-ecr-private-repositories/)
 - [Amazon ElastiCache for Memcached now supports encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/)
 - [Amazon ElastiCache now supports Memcached 1.6.12](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-supports-memcached-1-6-12/)
-- [Announcing preview of Amazon EC2 P4de GPU instances for ML training and HPC](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ec2-p4de-gpu-instances-ml-training-hpc/)
-- [Announcing JSON support for Amazon ElastiCache for Redis and Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/05/json-support-amazon-elasticache-redis-amazon-memorydb-redis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

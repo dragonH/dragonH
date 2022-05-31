@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Athena connector for Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/athena-connector-amazon-lookout-metrics/)
+- [Amazon Cognito improves risk evaluation for Advanced Security Features](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cognito-risk-evaluation-advanced-security-features/)
+- [Access the AWS re:Post community from the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-community-well-architected-tool/)
+- [AWS WAF and AWS Shield Advanced are now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-waf-aws-shield-advanced-available-asia-pacific-jakarta-region/)
 - [AWS DataSync adds support for Amazon EFS security features](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/)
 - [AWS Marketplace introduces free trials for SaaS contracts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-free-trials-saas-contracts/)
 - [AWS IAM now supports WebAuthn and Safari browser for multi-factor authentication with security keys](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iam-supports-webauthn-safari-browser-multi-factor-authentication-security-keys/)
 - [AWS AppSync simplifies GraphQL API development with expanded GraphQL Utility Helper Library](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/)
 - [AWS Resource Access Manager achieves ISO and SOC compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resource-access-manager-iso-soc-compliance/)
 - [Amazon Connect now allows you to get started with high-volume outbound communications &lpar;public preview&rpar; with just a few clicks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/)
-- [Single account enrollment and update is now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-single-account-enrollment-update-available-control-tower/)
-- [AWS announces support for Dart Signature V4 for interacting with AWS services](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-support-dart-signature-v4-interacting-services/)
-- [Amazon Connect high-volume outbound communications capabilities are now available in public preview in the Asia Pacific &lpar;Sydney&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-high-volume-outbound-communications-preview-sydney/)
-- [Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language &lpar;CWL&rpar; with Toil](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

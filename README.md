@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM now supports WebAuthn and Safari browser for multi-factor authentication with security keys](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iam-supports-webauthn-safari-browser-multi-factor-authentication-security-keys/)
 - [AWS AppSync simplifies GraphQL API development with expanded GraphQL Utility Helper Library](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/)
 - [AWS Resource Access Manager achieves ISO and SOC compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resource-access-manager-iso-soc-compliance/)
 - [Amazon Connect now allows you to get started with high-volume outbound communications &lpar;public preview&rpar; with just a few clicks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/)
@@ -67,7 +68,6 @@
 - [Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language &lpar;CWL&rpar; with Toil](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/)
 - [Amazon ECS simplifies Capacity Provider integration with Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/)
 - [The AWS Panorama Appliance is now available for purchase in India and Taiwan](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-panorama-appliance-available-purchase-india-taiwan/)
-- [AWS Systems Manager announces support for port forwarding to remote hosts using Session Manager](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-support-port-forwarding-remote-hosts-using-session-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

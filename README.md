@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect high-volume outbound communications capabilities are now available in public preview in the Asia Pacific &lpar;Sydney&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-high-volume-outbound-communications-preview-sydney/)
 - [Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language &lpar;CWL&rpar; with Toil](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/)
 - [Amazon ECS simplifies Capacity Provider integration with Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/)
 - [The AWS Panorama Appliance is now available for purchase in India and Taiwan](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-panorama-appliance-available-purchase-india-taiwan/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon EC2 C6id instances](https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-c6id-instances/)
 - [Amazon Lightsail containers now supports deploying images from Amazon ECR private repositories](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lightsail-containers-deploying-images-amazon-ecr-private-repositories/)
 - [Amazon ElastiCache for Memcached now supports encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/)
-- [Amazon ElastiCache now supports Memcached 1.6.12](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-supports-memcached-1-6-12/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

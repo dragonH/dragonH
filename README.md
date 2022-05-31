@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Access Manager achieves ISO and SOC compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resource-access-manager-iso-soc-compliance/)
+- [Amazon Connect now allows you to get started with high-volume outbound communications &lpar;public preview&rpar; with just a few clicks](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-allows-high-volume-outbound-communications-public-preview-clicks/)
+- [Single account enrollment and update is now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-single-account-enrollment-update-available-control-tower/)
+- [AWS announces support for Dart Signature V4 for interacting with AWS services](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-support-dart-signature-v4-interacting-services/)
 - [Amazon Connect high-volume outbound communications capabilities are now available in public preview in the Asia Pacific &lpar;Sydney&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-connect-high-volume-outbound-communications-preview-sydney/)
 - [Amazon Genomics CLI v1.5.0 adds support for the Common Workflow Language &lpar;CWL&rpar; with Toil](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-genomics-cli-workflow-language-cwl-toil/)
 - [Amazon ECS simplifies Capacity Provider integration with Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ecs-capacity-provider-integration-auto-scaling-groups/)
 - [The AWS Panorama Appliance is now available for purchase in India and Taiwan](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-panorama-appliance-available-purchase-india-taiwan/)
 - [AWS Systems Manager announces support for port forwarding to remote hosts using Session Manager](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-systems-manager-support-port-forwarding-remote-hosts-using-session-manager/)
 - [AWS Launch Wizard now supports SQL Server deployments using Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-launch-wizard-sql-server-deployments-fsx-netapp-ontap/)
-- [Introducing Amazon EC2 M6id instances](https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-m6id-instances/)
-- [Introducing Amazon EC2 C6id instances](https://aws.amazon.com/about-aws/whats-new/2022/05/introducing-amazon-ec2-c6id-instances/)
-- [Amazon Lightsail containers now supports deploying images from Amazon ECR private repositories](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-lightsail-containers-deploying-images-amazon-ecr-private-repositories/)
-- [Amazon ElastiCache for Memcached now supports encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-elasticache-memcached-supports-encryption-data-transit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

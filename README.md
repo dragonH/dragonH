@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS now supports Elastic Volumes and Fast Snapshot Restore &lpar;FSR&rpar; for io2 Block Express](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ebs-elastic-volumes-snapshot-restore-fsr-io2-block-express/)
 - [Amazon Timestream achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-timestream-achieves-fedramp-moderate-compliance/)
 - [Announcing Athena connector for Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/athena-connector-amazon-lookout-metrics/)
 - [Amazon Cognito improves risk evaluation for Advanced Security Features](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cognito-risk-evaluation-advanced-security-features/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace introduces free trials for SaaS contracts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-free-trials-saas-contracts/)
 - [AWS IAM now supports WebAuthn and Safari browser for multi-factor authentication with security keys](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-iam-supports-webauthn-safari-browser-multi-factor-authentication-security-keys/)
 - [AWS AppSync simplifies GraphQL API development with expanded GraphQL Utility Helper Library](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-appsync-simplifies-graphql-api-development-graphql-utility-helper-library/)
-- [AWS Resource Access Manager achieves ISO and SOC compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-resource-access-manager-iso-soc-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

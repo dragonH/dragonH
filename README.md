@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 on Outposts now supports AWS PrivateLink for management of buckets and access points](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-s3-outposts-aws-privatelink-buckets-access-points/)
+- [Announcing Geofence Management in Amplify Geo &lpar;JavaScript&rpar;, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/06/geofence-management-amplify-geo-javascript-amazon-location-service/)
+- [Amazon Transcribe now supports automatic language identification for multi-lingual audio](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-supports-automatic-language-identification-multi-lingual-audio/)
 - [Announcing Metered Billing for AWS Data Exchange for APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/metered-billing-aws-data-exchange-apis/)
 - [AWS Storage Gateway Hardware Appliance now available for purchase through resellers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-storage-gateway-hardware-appliance-purchase-resellers/)
 - [Price reductions on Amazon EC2  instances running SUSE Linux Enterprise Server &lpar;SLES&rpar; OS](https://aws.amazon.com/about-aws/whats-new/2022/06/price-reductions-amazon-ec2-instances-suse-linux-enterprise-server-sles-os/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 Dedicated Hosts are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/)
 - [AWS Elastic Disaster Recovery now supports multiple staging and target accounts](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-multiple-staging-target-accounts/)
 - [Amazon EBS now supports Elastic Volumes and Fast Snapshot Restore &lpar;FSR&rpar; for io2 Block Express](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ebs-elastic-volumes-snapshot-restore-fsr-io2-block-express/)
-- [Amazon Timestream achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-timestream-achieves-fedramp-moderate-compliance/)
-- [Announcing Athena connector for Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/athena-connector-amazon-lookout-metrics/)
-- [Amazon Cognito improves risk evaluation for Advanced Security Features](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cognito-risk-evaluation-advanced-security-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

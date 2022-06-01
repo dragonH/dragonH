@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker supports incremental training for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-incremental-training-jumpstart-models/)
 - [Amazon EC2 Dedicated Hosts are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/)
 - [AWS Elastic Disaster Recovery now supports multiple staging and target accounts](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-multiple-staging-target-accounts/)
 - [Amazon EBS now supports Elastic Volumes and Fast Snapshot Restore &lpar;FSR&rpar; for io2 Block Express](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-ebs-elastic-volumes-snapshot-restore-fsr-io2-block-express/)
@@ -67,7 +68,6 @@
 - [Access the AWS re:Post community from the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-community-well-architected-tool/)
 - [AWS WAF and AWS Shield Advanced are now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-waf-aws-shield-advanced-available-asia-pacific-jakarta-region/)
 - [AWS DataSync adds support for Amazon EFS security features](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/)
-- [AWS Marketplace introduces free trials for SaaS contracts](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-marketplace-free-trials-saas-contracts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

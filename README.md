@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Proton introduces service components](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-proton-introduces-service-components/)
 - [Amazon Route 53 announces IP-Based Routing for DNS Queries](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-route-53-ip-based-routing-dns-queries/)
 - [Amazon Pinpoint launches journey custom channel input and response support](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-pinpoint-journey-custom-channel-input-response-support/)
 - [Amazon RDS adds support for publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-support-publishing-events-encrypted-amazon-sns-topics/)
@@ -67,7 +68,6 @@
 - [Announcing Geofence Management in Amplify Geo &lpar;JavaScript&rpar;, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/06/geofence-management-amplify-geo-javascript-amazon-location-service/)
 - [Amazon Transcribe now supports automatic language identification for multi-lingual audio](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-supports-automatic-language-identification-multi-lingual-audio/)
 - [Announcing Metered Billing for AWS Data Exchange for APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/metered-billing-aws-data-exchange-apis/)
-- [AWS Storage Gateway Hardware Appliance now available for purchase through resellers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-storage-gateway-hardware-appliance-purchase-resellers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

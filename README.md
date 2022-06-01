@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions launches an interactive workshop for building and deploying application workflows](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-step-functions-interactive-workshop-building-deploying-application-workflows/)
 - [Amazon EMR Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-serverless-generally-available/)
 - [Amazon S3 on Outposts now supports AWS PrivateLink for management of buckets and access points](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-s3-outposts-aws-privatelink-buckets-access-points/)
 - [Announcing Geofence Management in Amplify Geo &lpar;JavaScript&rpar;, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/06/geofence-management-amplify-geo-javascript-amazon-location-service/)
@@ -67,7 +68,6 @@
 - [Price reductions on Amazon EC2  instances running SUSE Linux Enterprise Server &lpar;SLES&rpar; OS](https://aws.amazon.com/about-aws/whats-new/2022/06/price-reductions-amazon-ec2-instances-suse-linux-enterprise-server-sles-os/)
 - [Amazon SageMaker supports incremental training for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-incremental-training-jumpstart-models/)
 - [Amazon EC2 Dedicated Hosts are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/)
-- [AWS Elastic Disaster Recovery now supports multiple staging and target accounts](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-multiple-staging-target-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

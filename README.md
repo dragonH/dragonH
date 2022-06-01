@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Metered Billing for AWS Data Exchange for APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/metered-billing-aws-data-exchange-apis/)
+- [AWS Storage Gateway Hardware Appliance now available for purchase through resellers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-storage-gateway-hardware-appliance-purchase-resellers/)
+- [Price reductions on Amazon EC2  instances running SUSE Linux Enterprise Server &lpar;SLES&rpar; OS](https://aws.amazon.com/about-aws/whats-new/2022/06/price-reductions-amazon-ec2-instances-suse-linux-enterprise-server-sles-os/)
 - [Amazon SageMaker supports incremental training for JumpStart models](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-incremental-training-jumpstart-models/)
 - [Amazon EC2 Dedicated Hosts are now available on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-dedicated-hosts-available-aws-outposts/)
 - [AWS Elastic Disaster Recovery now supports multiple staging and target accounts](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-multiple-staging-target-accounts/)
@@ -65,9 +68,6 @@
 - [Amazon Timestream achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-timestream-achieves-fedramp-moderate-compliance/)
 - [Announcing Athena connector for Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/05/athena-connector-amazon-lookout-metrics/)
 - [Amazon Cognito improves risk evaluation for Advanced Security Features](https://aws.amazon.com/about-aws/whats-new/2022/05/amazon-cognito-risk-evaluation-advanced-security-features/)
-- [Access the AWS re:Post community from the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-community-well-architected-tool/)
-- [AWS WAF and AWS Shield Advanced are now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-waf-aws-shield-advanced-available-asia-pacific-jakarta-region/)
-- [AWS DataSync adds support for Amazon EFS security features](https://aws.amazon.com/about-aws/whats-new/2022/05/aws-datasync-support-amazon-efs-security-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

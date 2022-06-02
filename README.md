@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket adds support for Borealis, the first publicly accessible quantum computer that is claimed to offer quantum advantage](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/)
+- [NoSQL Workbench for Amazon DynamoDB adds support for CreateTable, UpdateTable, and DeleteTable operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/)
+- [You can now update the storage and IOPS capacity on your Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/)
 - [Amazon CloudWatch adds Elemental MediaTailor to Vended Logs pricing](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudwatch-elemental-mediatailor-vended-logs-pricing/)
 - [AWS Proton introduces service components](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-proton-introduces-service-components/)
 - [Amazon Route 53 announces IP-Based Routing for DNS Queries](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-route-53-ip-based-routing-dns-queries/)
@@ -65,9 +68,6 @@
 - [Amazon RDS adds support for publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-support-publishing-events-encrypted-amazon-sns-topics/)
 - [AWS Step Functions launches an interactive workshop for building and deploying application workflows](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-step-functions-interactive-workshop-building-deploying-application-workflows/)
 - [Amazon EMR Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-serverless-generally-available/)
-- [Amazon S3 on Outposts now supports AWS PrivateLink for management of buckets and access points](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-s3-outposts-aws-privatelink-buckets-access-points/)
-- [Announcing Geofence Management in Amplify Geo &lpar;JavaScript&rpar;, powered by Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/06/geofence-management-amplify-geo-javascript-amazon-location-service/)
-- [Amazon Transcribe now supports automatic language identification for multi-lingual audio](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-supports-automatic-language-identification-multi-lingual-audio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

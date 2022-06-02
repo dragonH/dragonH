@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches an API to programmatically transfer tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-api-programmatically-transfer-tasks/)
+- [Announcing AWS PrivateLink support for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-privatelink-support-aws-panorama/)
+- [Amazon Chime SDK now supports centralized attendee controls](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-centralized-attendee-controls/)
+- [Amazon Kendra releases GitHub OnPrem connectors](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-kendra-github-onprem-connectors/)
+- [Amazon Kendra releases GitHub SaaS Connector](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-kendra-github-saas-connector/)
 - [SageMaker JumpStart now supports automatic tuning](https://aws.amazon.com/about-aws/whats-new/2022/06/sagemaker-jumpstart-supports-automatic-tuning/)
 - [Amazon Braket adds support for Borealis, the first publicly accessible quantum computer that is claimed to offer quantum advantage](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/)
 - [NoSQL Workbench for Amazon DynamoDB adds support for CreateTable, UpdateTable, and DeleteTable operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/)
 - [You can now update the storage and IOPS capacity on your Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/)
 - [Amazon CloudWatch adds Elemental MediaTailor to Vended Logs pricing](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudwatch-elemental-mediatailor-vended-logs-pricing/)
-- [AWS Proton introduces service components](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-proton-introduces-service-components/)
-- [Amazon Route 53 announces IP-Based Routing for DNS Queries](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-route-53-ip-based-routing-dns-queries/)
-- [Amazon Pinpoint launches journey custom channel input and response support](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-pinpoint-journey-custom-channel-input-response-support/)
-- [Amazon RDS adds support for publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-support-publishing-events-encrypted-amazon-sns-topics/)
-- [AWS Step Functions launches an interactive workshop for building and deploying application workflows](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-step-functions-interactive-workshop-building-deploying-application-workflows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

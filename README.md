@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports custom templates for agent tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-custom-templates-agent-tasks/)
 - [Amazon Connect launches an API to programmatically transfer tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-api-programmatically-transfer-tasks/)
 - [Announcing AWS PrivateLink support for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-privatelink-support-aws-panorama/)
 - [Amazon Chime SDK now supports centralized attendee controls](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-centralized-attendee-controls/)
@@ -67,7 +68,6 @@
 - [Amazon Braket adds support for Borealis, the first publicly accessible quantum computer that is claimed to offer quantum advantage](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/)
 - [NoSQL Workbench for Amazon DynamoDB adds support for CreateTable, UpdateTable, and DeleteTable operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/)
 - [You can now update the storage and IOPS capacity on your Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/)
-- [Amazon CloudWatch adds Elemental MediaTailor to Vended Logs pricing](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudwatch-elemental-mediatailor-vended-logs-pricing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

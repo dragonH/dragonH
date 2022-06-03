@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup adds AWS PrivateLink support for VMware workloads](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/)
+- [Amazon EKS now supports DNS resolution of the cluster private endpoint in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/)
 - [Amazon Lookout for Metrics enables anomaly detection on your historical CloudWatch data](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lookout-metrics-enables-anomaly-detection-historical-cloudwatch-data/)
 - [Amazon Managed Streaming for Apache Kafka is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/)
 - [Shared account customization now available for AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/)
@@ -66,8 +68,6 @@
 - [Announcing AWS PrivateLink support for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-privatelink-support-aws-panorama/)
 - [Amazon Chime SDK now supports centralized attendee controls](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-centralized-attendee-controls/)
 - [Amazon Kendra releases GitHub OnPrem connectors](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-kendra-github-onprem-connectors/)
-- [Amazon Kendra releases GitHub SaaS Connector](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-kendra-github-saas-connector/)
-- [SageMaker JumpStart now supports automatic tuning](https://aws.amazon.com/about-aws/whats-new/2022/06/sagemaker-jumpstart-supports-automatic-tuning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

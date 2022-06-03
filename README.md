@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Streaming for Apache Kafka is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/)
+- [Shared account customization now available for AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/)
 - [Amazon Connect now supports custom templates for agent tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-custom-templates-agent-tasks/)
 - [Amazon Connect launches an API to programmatically transfer tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-api-programmatically-transfer-tasks/)
 - [Announcing AWS PrivateLink support for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-privatelink-support-aws-panorama/)
@@ -66,8 +68,6 @@
 - [Amazon Kendra releases GitHub SaaS Connector](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-kendra-github-saas-connector/)
 - [SageMaker JumpStart now supports automatic tuning](https://aws.amazon.com/about-aws/whats-new/2022/06/sagemaker-jumpstart-supports-automatic-tuning/)
 - [Amazon Braket adds support for Borealis, the first publicly accessible quantum computer that is claimed to offer quantum advantage](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/)
-- [NoSQL Workbench for Amazon DynamoDB adds support for CreateTable, UpdateTable, and DeleteTable operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-nosql-workbench-dynamodb-createtable-updatetable-deletetable-operations/)
-- [You can now update the storage and IOPS capacity on your Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/06/update-storage-iops-capacity-amazon-fsx-for-openzfs-file-systems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

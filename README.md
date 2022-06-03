@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lookout for Metrics enables anomaly detection on your historical CloudWatch data](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lookout-metrics-enables-anomaly-detection-historical-cloudwatch-data/)
 - [Amazon Managed Streaming for Apache Kafka is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/)
 - [Shared account customization now available for AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/)
 - [Amazon Connect now supports custom templates for agent tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-custom-templates-agent-tasks/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra releases GitHub OnPrem connectors](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-kendra-github-onprem-connectors/)
 - [Amazon Kendra releases GitHub SaaS Connector](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-kendra-github-saas-connector/)
 - [SageMaker JumpStart now supports automatic tuning](https://aws.amazon.com/about-aws/whats-new/2022/06/sagemaker-jumpstart-supports-automatic-tuning/)
-- [Amazon Braket adds support for Borealis, the first publicly accessible quantum computer that is claimed to offer quantum advantage](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-braket-adds-support-borealis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio and SageMaker Notebook Instance now come with JupyterLab 3 notebooks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/)
+- [Amazon Personalize adds support for unstructured text in six new languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/)
 - [Amazon AppStream 2.0 adds larger instance sizes to the General Purpose instance family](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/)
 - [AWS DeepRacer introduces quota management](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-deepracer-quota-management/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.38 and 8.0.29](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-mysql-supports-minor-versions/)
@@ -66,8 +68,6 @@
 - [Amazon Lookout for Metrics enables anomaly detection on your historical CloudWatch data](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lookout-metrics-enables-anomaly-detection-historical-cloudwatch-data/)
 - [Amazon Managed Streaming for Apache Kafka is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/)
 - [Shared account customization now available for AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-control-tower-factory-terraform-shared-account-customization/)
-- [Amazon Connect now supports custom templates for agent tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-custom-templates-agent-tasks/)
-- [Amazon Connect launches an API to programmatically transfer tasks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-api-programmatically-transfer-tasks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

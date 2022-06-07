@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB Standard-Infrequent Access table class is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-aws-asia-pacific-jakarta-region/)
+- [Amazon EMR 6.6 adds support for Apache Spark 3.2, HUDI 0.10.1, Iceberg 0.13, Trino 0.367, PrestoDB 0.267, and more](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-6-6-apache-spark-hudi-iceberg-trino-prestodb/)
+- [Amazon CloudFront now supports TLS 1.3 session resumption for viewer connections](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudfront-supports-tls-1-3-session-resumption-viewer-connections/)
 - [AWS Security Hub now receives AWS Config managed and custom rule evaluation results](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-config-managed-custom-rule-evaluation-results/)
 - [New Amplify Flutter supports customizable authentication flows](https://aws.amazon.com/about-aws/whats-new/2022/06/amplify-flutter-supports-customizable-authentication-flows/)
 - [Amazon Chime SDK announces messaging conversation APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-messaging-conversation-apis/)
@@ -65,9 +68,6 @@
 - [Amazon Personalize adds support for unstructured text in six new languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/)
 - [Amazon AppStream 2.0 adds larger instance sizes to the General Purpose instance family](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/)
 - [AWS DeepRacer introduces quota management](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-deepracer-quota-management/)
-- [Amazon RDS for MySQL supports new minor versions 5.7.38 and 8.0.29](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-mysql-supports-minor-versions/)
-- [AWS Backup adds AWS PrivateLink support for VMware workloads](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/)
-- [Amazon EKS now supports DNS resolution of the cluster private endpoint in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

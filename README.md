@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management announces an 80% price reduction for Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-device-management-price-reduction-secure-tunneling/)
 - [AWS Security Hub is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-available-asia-pacific-jakarta-region/)
 - [Amazon DynamoDB Standard-Infrequent Access table class is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-aws-asia-pacific-jakarta-region/)
 - [Amazon EMR 6.6 adds support for Apache Spark 3.2, HUDI 0.10.1, Iceberg 0.13, Trino 0.367, PrestoDB 0.267, and more](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-6-6-apache-spark-hudi-iceberg-trino-prestodb/)
@@ -67,7 +68,6 @@
 - [Amazon Chime SDK announces messaging conversation APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-messaging-conversation-apis/)
 - [Amazon SageMaker Studio and SageMaker Notebook Instance now come with JupyterLab 3 notebooks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/)
 - [Amazon Personalize adds support for unstructured text in six new languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/)
-- [Amazon AppStream 2.0 adds larger instance sizes to the General Purpose instance family](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-larger-instance-sizes-general-purpose-instance-family/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

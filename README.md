@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune simplifies graph analytics and machine learning workflows with Python integration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-neptune-simplifies-graph-analytics-machine-learning-workflows-python-integration/)
+- [Amazon GuardDuty EKS Protection now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-guardduty-eks-protection-jakarta-region/)
 - [AWS IoT Device Management announces an 80% price reduction for Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-device-management-price-reduction-secure-tunneling/)
 - [AWS Security Hub is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-available-asia-pacific-jakarta-region/)
 - [Amazon DynamoDB Standard-Infrequent Access table class is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-aws-asia-pacific-jakarta-region/)
@@ -66,8 +68,6 @@
 - [AWS Security Hub now receives AWS Config managed and custom rule evaluation results](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-config-managed-custom-rule-evaluation-results/)
 - [New Amplify Flutter supports customizable authentication flows](https://aws.amazon.com/about-aws/whats-new/2022/06/amplify-flutter-supports-customizable-authentication-flows/)
 - [Amazon Chime SDK announces messaging conversation APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-messaging-conversation-apis/)
-- [Amazon SageMaker Studio and SageMaker Notebook Instance now come with JupyterLab 3 notebooks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/)
-- [Amazon Personalize adds support for unstructured text in six new languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

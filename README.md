@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub now receives AWS Config managed and custom rule evaluation results](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-config-managed-custom-rule-evaluation-results/)
+- [New Amplify Flutter supports customizable authentication flows](https://aws.amazon.com/about-aws/whats-new/2022/06/amplify-flutter-supports-customizable-authentication-flows/)
 - [Amazon Chime SDK announces messaging conversation APIs](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-messaging-conversation-apis/)
 - [Amazon SageMaker Studio and SageMaker Notebook Instance now come with JupyterLab 3 notebooks](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-studio-sagemaker-notebook-instance-jupyterlab-3-notebooks/)
 - [Amazon Personalize adds support for unstructured text in six new languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-personalize-support-unstructured-text-six-new-languages/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for MySQL supports new minor versions 5.7.38 and 8.0.29](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-mysql-supports-minor-versions/)
 - [AWS Backup adds AWS PrivateLink support for VMware workloads](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-adds-privatelink-vmware-workloads/)
 - [Amazon EKS now supports DNS resolution of the cluster private endpoint in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eks-supports-dns-resolution-cluster-private-endpoint-aws-govcloud-us-regions/)
-- [Amazon Lookout for Metrics enables anomaly detection on your historical CloudWatch data](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lookout-metrics-enables-anomaly-detection-historical-cloudwatch-data/)
-- [Amazon Managed Streaming for Apache Kafka is now FedRAMP compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-managed-streaming-apache-kafka-fedramp-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-mainframe-modernization-generally-available/)
 - [AWS Application Migration Service now supports automated application modernizations](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-application-migration-service-automated-application-modernizations/)
 - [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Europe &lpar;London&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-available-europe-london-aws-region/)
 - [Amazon DynamoDB Standard-Infrequent Access table class is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-aws-asia-pacific-jakarta-region/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-available-asia-pacific-jakarta-region/)
 - [Amazon EMR 6.6 adds support for Apache Spark 3.2, HUDI 0.10.1, Iceberg 0.13, Trino 0.367, PrestoDB 0.267, and more](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-6-6-apache-spark-hudi-iceberg-trino-prestodb/)
 - [Amazon CloudFront now supports TLS 1.3 session resumption for viewer connections](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-cloudfront-supports-tls-1-3-session-resumption-viewer-connections/)
-- [AWS Security Hub now receives AWS Config managed and custom rule evaluation results](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-config-managed-custom-rule-evaluation-results/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

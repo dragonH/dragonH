@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Wrangler now enables model training with Amazon SageMaker Autopilot](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/)
+- [AWS Service Catalog is now available in &lpar;Jakarta&rpar; Indonesia](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/)
+- [Amazon Chime SDK now supports live transcription in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/)
 - [AWS Health Dashboard streamlines service transparency via Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-health-dashboard-service-transparency-connector-servicenow/)
 - [AWS Systems Manager Change Manager integration now displays AWS CloudTrail events associated with ServiceNow change requests.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/)
 - [Incident Manager from AWS Systems Manager now streamlines responses to ServiceNow Incidents](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-incident-manager-streamlines-responses-servicenow-incidents/)
@@ -65,9 +68,6 @@
 - [Amazon Transcribe real-time streaming is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-real-time-streaming-aws-govcloud-us/)
 - [Amazon RDS for SQL Server now supports SQL Server 2014 SP3 CU4 SU](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/)
 - [Split data into train and test sets in a few clicks with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/split-data-train-test-sets-amazon-sagemaker-data-wrangler/)
-- [Export features into Amazon SageMaker Feature Store faster than ever with export functionality now available in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/export-features-amazon-sagemaker-functionality-data-wrangler/)
-- [Amazon EC2 R5n instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-r5n-instances-additional-regions/)
-- [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R5n instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-r5n-instances-additional-regions/)
 - [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
 - [AWS Mainframe Modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-mainframe-modernization-generally-available/)
 - [AWS Application Migration Service now supports automated application modernizations](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-application-migration-service-automated-application-modernizations/)
@@ -67,7 +68,6 @@
 - [Amazon GuardDuty EKS Protection now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-guardduty-eks-protection-jakarta-region/)
 - [AWS IoT Device Management announces an 80% price reduction for Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-device-management-price-reduction-secure-tunneling/)
 - [AWS Security Hub is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-available-asia-pacific-jakarta-region/)
-- [Amazon EMR 6.6 adds support for Apache Spark 3.2, HUDI 0.10.1, Iceberg 0.13, Trino 0.367, PrestoDB 0.267, and more](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-emr-6-6-apache-spark-hudi-iceberg-trino-prestodb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

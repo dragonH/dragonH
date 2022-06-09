@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Export features into Amazon SageMaker Feature Store faster than ever with export functionality now available in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/export-features-amazon-sagemaker-functionality-data-wrangler/)
 - [Amazon EC2 R5n instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-r5n-instances-additional-regions/)
 - [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
 - [AWS Mainframe Modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-mainframe-modernization-generally-available/)
@@ -67,7 +68,6 @@
 - [Amazon Neptune simplifies graph analytics and machine learning workflows with Python integration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-neptune-simplifies-graph-analytics-machine-learning-workflows-python-integration/)
 - [Amazon GuardDuty EKS Protection now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-guardduty-eks-protection-jakarta-region/)
 - [AWS IoT Device Management announces an 80% price reduction for Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-device-management-price-reduction-secure-tunneling/)
-- [AWS Security Hub is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-security-hub-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

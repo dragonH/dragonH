@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Asia Pacific &lpar;Sydney&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/)
+- [Amazon SageMaker Experiments now supports common chart types to visualize model training results](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-supports-chart-model-training-results/)
 - [Amazon AppFlow now supports Salesforce Marketing Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appflow-supports-salesforce-marketing-cloud-source/)
 - [Amazon SageMaker Data Wrangler now enables model training with Amazon SageMaker Autopilot](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/)
 - [AWS Service Catalog is now available in &lpar;Jakarta&rpar; Indonesia](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/)
@@ -66,8 +68,6 @@
 - [AWS Systems Manager Change Manager integration now displays AWS CloudTrail events associated with ServiceNow change requests.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/)
 - [Incident Manager from AWS Systems Manager now streamlines responses to ServiceNow Incidents](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-incident-manager-streamlines-responses-servicenow-incidents/)
 - [Introducing Amazon R6id instances](https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/)
-- [Amazon Transcribe real-time streaming is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-real-time-streaming-aws-govcloud-us/)
-- [Amazon RDS for SQL Server now supports SQL Server 2014 SP3 CU4 SU](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

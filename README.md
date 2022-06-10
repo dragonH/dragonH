@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now supports Salesforce Marketing Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appflow-supports-salesforce-marketing-cloud-source/)
 - [Amazon SageMaker Data Wrangler now enables model training with Amazon SageMaker Autopilot](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/)
 - [AWS Service Catalog is now available in &lpar;Jakarta&rpar; Indonesia](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/)
 - [Amazon Chime SDK now supports live transcription in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon R6id instances](https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/)
 - [Amazon Transcribe real-time streaming is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-transcribe-real-time-streaming-aws-govcloud-us/)
 - [Amazon RDS for SQL Server now supports SQL Server 2014 SP3 CU4 SU](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-2014-sp3-cu4-su/)
-- [Split data into train and test sets in a few clicks with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/split-data-train-test-sets-amazon-sagemaker-data-wrangler/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

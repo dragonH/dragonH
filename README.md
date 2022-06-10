@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL-compatible edition now supports zero-downtime patching](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/)
 - [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Asia Pacific &lpar;Sydney&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/)
 - [Amazon SageMaker Experiments now supports common chart types to visualize model training results](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-supports-chart-model-training-results/)
 - [Amazon AppFlow now supports Salesforce Marketing Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appflow-supports-salesforce-marketing-cloud-source/)
@@ -67,7 +68,6 @@
 - [AWS Health Dashboard streamlines service transparency via Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-health-dashboard-service-transparency-connector-servicenow/)
 - [AWS Systems Manager Change Manager integration now displays AWS CloudTrail events associated with ServiceNow change requests.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/)
 - [Incident Manager from AWS Systems Manager now streamlines responses to ServiceNow Incidents](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-incident-manager-streamlines-responses-servicenow-incidents/)
-- [Introducing Amazon R6id instances](https://aws.amazon.com/about-aws/whats-new/2022/06/introducing-amazon-r6id-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

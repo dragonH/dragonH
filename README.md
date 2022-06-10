@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL supports LO module](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/)
+- [Amazon SageMaker Canvas accelerates onboarding with new interactive product tours and sample datasets](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-interactive-product-sample-datasets/)
 - [Amazon Aurora PostgreSQL-compatible edition now supports zero-downtime patching](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/)
 - [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Asia Pacific &lpar;Sydney&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/)
 - [Amazon SageMaker Experiments now supports common chart types to visualize model training results](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-supports-chart-model-training-results/)
@@ -66,8 +68,6 @@
 - [AWS Service Catalog is now available in &lpar;Jakarta&rpar; Indonesia](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/)
 - [Amazon Chime SDK now supports live transcription in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/)
 - [AWS Health Dashboard streamlines service transparency via Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-health-dashboard-service-transparency-connector-servicenow/)
-- [AWS Systems Manager Change Manager integration now displays AWS CloudTrail events associated with ServiceNow change requests.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-change-manager-integration-displays-cloudtrail-servicenow-requests/)
-- [Incident Manager from AWS Systems Manager now streamlines responses to ServiceNow Incidents](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-incident-manager-streamlines-responses-servicenow-incidents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

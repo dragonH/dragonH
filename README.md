@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Catalog announces support for Attribute Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-support-abac/)
 - [Amazon Aurora supports PostgreSQL 13.7, 12.11, 11.16, and 10.21 versions, and updated extensions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-versions-extensions/)
 - [Amazon Aurora PostgreSQL supports LO module](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/)
 - [Amazon SageMaker Canvas accelerates onboarding with new interactive product tours and sample datasets](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-interactive-product-sample-datasets/)
@@ -67,7 +68,6 @@
 - [Amazon AppFlow now supports Salesforce Marketing Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appflow-supports-salesforce-marketing-cloud-source/)
 - [Amazon SageMaker Data Wrangler now enables model training with Amazon SageMaker Autopilot](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-enables-model-training-autopilot/)
 - [AWS Service Catalog is now available in &lpar;Jakarta&rpar; Indonesia](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-now-available-jakarta-indonesia/)
-- [Amazon Chime SDK now supports live transcription in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-live-transcription-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

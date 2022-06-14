@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quicksight now provides drag controller for rows and columns for table and pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-drag-controller-rows-columns-pivot-table/)
+- [AWS Transfer Family expands server configuration options to support a broader set of clients](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-transfer-family-expands-server-configuration-options-set-clients/)
 - [Announcing support for cross-region search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2022/06/support-cross-region-search-amazon-opensearch-service/)
 - [Amazon RDS for SQL Server Now Supports TDE enabled SQL Server Database Migration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-tde-enabled-sql-server-database-migration/)
 - [AWS Service Catalog announces support for Attribute Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-support-abac/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Canvas accelerates onboarding with new interactive product tours and sample datasets](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-interactive-product-sample-datasets/)
 - [Amazon Aurora PostgreSQL-compatible edition now supports zero-downtime patching](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/)
 - [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Asia Pacific &lpar;Sydney&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/)
-- [Amazon SageMaker Experiments now supports common chart types to visualize model training results](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-supports-chart-model-training-results/)
-- [Amazon AppFlow now supports Salesforce Marketing Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appflow-supports-salesforce-marketing-cloud-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

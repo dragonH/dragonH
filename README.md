@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Recycle Bin for EBS Snapshots and EBS-backed AMIs now supports IAM condition keys to manage retention rules](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/)
 - [Amazon EC2 VT1 now supports the AMD-Xilinx Video SDK 2.0 that enables GStreamer and 10-bit video transcoding](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-vt1-supports-amd-xilinx-video-sdk-gstreamer-video-transcoding/)
 - [Amazon EC2 C6gn instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c6gn-instances-available-additional-regions/)
 - [Amazon Keyspaces now helps you monitor table storage costs through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-keyspaces-monitor-table-storage-costs-amazon-cloudwatch/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for SQL Server Now Supports TDE enabled SQL Server Database Migration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-tde-enabled-sql-server-database-migration/)
 - [AWS Service Catalog announces support for Attribute Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalog-support-abac/)
 - [Amazon Aurora supports PostgreSQL 13.7, 12.11, 11.16, and 10.21 versions, and updated extensions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-versions-extensions/)
-- [Amazon Aurora PostgreSQL supports LO module](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

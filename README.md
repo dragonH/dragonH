@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces now helps you monitor table storage costs through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-keyspaces-monitor-table-storage-costs-amazon-cloudwatch/)
 - [Amazon Quicksight now provides drag controller for rows and columns for table and pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-drag-controller-rows-columns-pivot-table/)
 - [AWS Transfer Family expands server configuration options to support a broader set of clients](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-transfer-family-expands-server-configuration-options-set-clients/)
 - [Announcing support for cross-region search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2022/06/support-cross-region-search-amazon-opensearch-service/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora PostgreSQL supports LO module](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-supports-lo-module/)
 - [Amazon SageMaker Canvas accelerates onboarding with new interactive product tours and sample datasets](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-interactive-product-sample-datasets/)
 - [Amazon Aurora PostgreSQL-compatible edition now supports zero-downtime patching](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-postgresql-compatible-edition-supports-zero-downtime-patching/)
-- [Amazon Connect forecasting, capacity planning, and scheduling, now available in the Asia Pacific &lpar;Sydney&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-forecasting-capacity-planning-scheduling-sydney/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

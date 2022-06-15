@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Bottlerocket ECS variant for NVIDIA GPUs](https://aws.amazon.com/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/)
 - [AWS Elastic Disaster Recovery is now available in 12 additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-12-additional-regions/)
 - [Easily customize your notifications while using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/customize-notifications-using-amazon-lookout-metrics/)
 - [AWS Recycle Bin for EBS Snapshots and EBS-backed AMIs now supports IAM condition keys to manage retention rules](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/)
@@ -67,7 +68,6 @@
 - [Amazon Quicksight now provides drag controller for rows and columns for table and pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-drag-controller-rows-columns-pivot-table/)
 - [AWS Transfer Family expands server configuration options to support a broader set of clients](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-transfer-family-expands-server-configuration-options-set-clients/)
 - [Announcing support for cross-region search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2022/06/support-cross-region-search-amazon-opensearch-service/)
-- [Amazon RDS for SQL Server Now Supports TDE enabled SQL Server Database Migration](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-sql-server-supports-tde-enabled-sql-server-database-migration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

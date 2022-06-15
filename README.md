@@ -58,8 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing enhanced integration with Service Quotas for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2022/06/enhanced-integration-service-quotas-amazon-dynamodb/)
 - [Amazon DynamoDB Standard Infrequent Access table class is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-govcloud-us/)
-- [Announcing Bottlerocket ECS variant for NVIDIA GPUs](https://aws.amazon.com/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/)
+- [Bottlerocket adds ECS variant to support GPU-based Amazon EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/)
 - [AWS Elastic Disaster Recovery is now available in 12 additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-12-additional-regions/)
 - [Easily customize your notifications while using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/customize-notifications-using-amazon-lookout-metrics/)
 - [AWS Recycle Bin for EBS Snapshots and EBS-backed AMIs now supports IAM condition keys to manage retention rules](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C6gn instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c6gn-instances-available-additional-regions/)
 - [Amazon Keyspaces now helps you monitor table storage costs through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-keyspaces-monitor-table-storage-costs-amazon-cloudwatch/)
 - [Amazon Quicksight now provides drag controller for rows and columns for table and pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-drag-controller-rows-columns-pivot-table/)
-- [AWS Transfer Family expands server configuration options to support a broader set of clients](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-transfer-family-expands-server-configuration-options-set-clients/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

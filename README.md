@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/)
+- [AWS Service Catalog&#39;s Application Registry now supports cross-account applications.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalogs-application-registry-cross-account-applications/)
 - [Use PySpark and Altair code snippets to prepare and visualize data faster than ever in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-pyspark-altair-code-snippets-data-faster/)
 - [UI Improvements in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-budgets-ui-improvements/)
 - [Amazon Quicksight now supports show/hide fields on pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-supports-show-hide-fields-pivot-table/)
@@ -66,8 +68,6 @@
 - [Amazon DynamoDB Standard Infrequent Access table class is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-govcloud-us/)
 - [Bottlerocket adds ECS variant to support GPU-based Amazon EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/)
 - [AWS Elastic Disaster Recovery is now available in 12 additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-12-additional-regions/)
-- [Easily customize your notifications while using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/customize-notifications-using-amazon-lookout-metrics/)
-- [AWS Recycle Bin for EBS Snapshots and EBS-backed AMIs now supports IAM condition keys to manage retention rules](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

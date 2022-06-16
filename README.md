@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas announces support for VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-vpc-endpoints/)
 - [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/)
 - [AWS Service Catalog&#39;s Application Registry now supports cross-account applications.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalogs-application-registry-cross-account-applications/)
 - [Use PySpark and Altair code snippets to prepare and visualize data faster than ever in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-pyspark-altair-code-snippets-data-faster/)
@@ -67,7 +68,6 @@
 - [Announcing enhanced integration with Service Quotas for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2022/06/enhanced-integration-service-quotas-amazon-dynamodb/)
 - [Amazon DynamoDB Standard Infrequent Access table class is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-govcloud-us/)
 - [Bottlerocket adds ECS variant to support GPU-based Amazon EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/)
-- [AWS Elastic Disaster Recovery is now available in 12 additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-12-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

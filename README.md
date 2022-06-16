@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Enable Amazon DevOps Guru for RDS from within the Amazon RDS Console](https://aws.amazon.com/about-aws/whats-new/2022/06/enable-amazon-devops-guru-rds-within-amazon-rds-console/)
+- [Amazon OpenSearch Service now supports tag-based authorization for data read and write operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-opensearch-service-tag-based-authorization/)
+- [Amazon Connect launches 15 minute scheduled reports](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-launches-15-minute-scheduled-reports/)
 - [AWS Single Sign-On is now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-single-sign-on-available-europe-milan/)
 - [Amazon Connect launches API to retrieve agents’ current activity](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-launches-api-retrieve-agents-current-activity/)
 - [Amazon Aurora Serverless v1 supports in-place upgrade from MySQL 5.6  to 5.7](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-serverless-v1-in-place-upgrade-mysql-5-6-5-7/)
@@ -65,9 +68,6 @@
 - [Amazon SageMaker Canvas announces support for VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-vpc-endpoints/)
 - [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/)
 - [AWS Service Catalog&#39;s Application Registry now supports cross-account applications.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalogs-application-registry-cross-account-applications/)
-- [Use PySpark and Altair code snippets to prepare and visualize data faster than ever in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-pyspark-altair-code-snippets-data-faster/)
-- [UI Improvements in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-budgets-ui-improvements/)
-- [Amazon Quicksight now supports show/hide fields on pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-supports-show-hide-fields-pivot-table/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

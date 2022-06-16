@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Use PySpark and Altair code snippets to prepare and visualize data faster than ever in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-pyspark-altair-code-snippets-data-faster/)
+- [UI Improvements in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-budgets-ui-improvements/)
+- [Amazon Quicksight now supports show/hide fields on pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-supports-show-hide-fields-pivot-table/)
 - [AWS Elastic Beanstalk is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-beanstalk-jakarta-region/)
 - [Announcing enhanced integration with Service Quotas for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2022/06/enhanced-integration-service-quotas-amazon-dynamodb/)
 - [Amazon DynamoDB Standard Infrequent Access table class is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-govcloud-us/)
@@ -65,9 +68,6 @@
 - [AWS Elastic Disaster Recovery is now available in 12 additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-disaster-recovery-12-additional-regions/)
 - [Easily customize your notifications while using Amazon Lookout for Metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/customize-notifications-using-amazon-lookout-metrics/)
 - [AWS Recycle Bin for EBS Snapshots and EBS-backed AMIs now supports IAM condition keys to manage retention rules](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-recycle-bin-ebs-snapshots-ebs-backed-amis-iam-condition-keys-retention-rules/)
-- [Amazon EC2 VT1 now supports the AMD-Xilinx Video SDK 2.0 that enables GStreamer and 10-bit video transcoding](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-vt1-supports-amd-xilinx-video-sdk-gstreamer-video-transcoding/)
-- [Amazon EC2 C6gn instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c6gn-instances-available-additional-regions/)
-- [Amazon Keyspaces now helps you monitor table storage costs through Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-keyspaces-monitor-table-storage-costs-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

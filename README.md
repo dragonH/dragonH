@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Single Sign-On is now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-single-sign-on-available-europe-milan/)
+- [Amazon Connect launches API to retrieve agents’ current activity](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-launches-api-retrieve-agents-current-activity/)
+- [Amazon Aurora Serverless v1 supports in-place upgrade from MySQL 5.6  to 5.7](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-serverless-v1-in-place-upgrade-mysql-5-6-5-7/)
+- [Amazon Chime SDK now supports 100 webcam video streams](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-100-webcam-video-streams/)
 - [Amazon SageMaker Canvas announces support for VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-vpc-endpoints/)
 - [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/)
 - [AWS Service Catalog&#39;s Application Registry now supports cross-account applications.](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-service-catalogs-application-registry-cross-account-applications/)
 - [Use PySpark and Altair code snippets to prepare and visualize data faster than ever in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-data-wrangler-pyspark-altair-code-snippets-data-faster/)
 - [UI Improvements in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-budgets-ui-improvements/)
 - [Amazon Quicksight now supports show/hide fields on pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-supports-show-hide-fields-pivot-table/)
-- [AWS Elastic Beanstalk is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-elastic-beanstalk-jakarta-region/)
-- [Announcing enhanced integration with Service Quotas for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2022/06/enhanced-integration-service-quotas-amazon-dynamodb/)
-- [Amazon DynamoDB Standard Infrequent Access table class is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-dynamodb-standard-infrequent-access-table-class-govcloud-us/)
-- [Bottlerocket adds ECS variant to support GPU-based Amazon EC2 instance types powered by NVIDIA](https://aws.amazon.com/about-aws/whats-new/2022/06/bottlerocket-ecs-variant-nvidia-gpus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

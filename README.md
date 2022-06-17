@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now supports Facebook Ads, Google Ads, and Mixpanel as sources](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appflow-supports-facebook-google-ads-mixpanel-sources/)
 - [Amazon EC2 C6i instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c6i-instances-available-additional-region/)
 - [Enable Amazon DevOps Guru for RDS from within the Amazon RDS Console](https://aws.amazon.com/about-aws/whats-new/2022/06/enable-amazon-devops-guru-rds-within-amazon-rds-console/)
 - [Amazon OpenSearch Service now supports tag-based authorization for data read and write operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-opensearch-service-tag-based-authorization/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora Serverless v1 supports in-place upgrade from MySQL 5.6  to 5.7](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-serverless-v1-in-place-upgrade-mysql-5-6-5-7/)
 - [Amazon Chime SDK now supports 100 webcam video streams](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-chime-sdk-supports-100-webcam-video-streams/)
 - [Amazon SageMaker Canvas announces support for VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-canvas-vpc-endpoints/)
-- [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-config-15-new-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

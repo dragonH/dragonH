@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Cases, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-cases-preview/)
+- [Amazon Connect offers general availability of outbound campaigns for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-general-availability-outbound-campaigns-calls-texts-emails/)
 - [Amazon QuickSight Q Embedding SDK now supports programmatic question submission](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-q-embedding-sdk-programmatic-question-submission/)
 - [Announcing a new AWS Bills page experience](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-bills-page-experience/)
 - [Amazon EC2 D3 Instances are now available in AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-d3-instances-aws-canada-central-region/)
@@ -66,8 +68,6 @@
 - [Enable Amazon DevOps Guru for RDS from within the Amazon RDS Console](https://aws.amazon.com/about-aws/whats-new/2022/06/enable-amazon-devops-guru-rds-within-amazon-rds-console/)
 - [Amazon OpenSearch Service now supports tag-based authorization for data read and write operations](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-opensearch-service-tag-based-authorization/)
 - [Amazon Connect launches 15 minute scheduled reports](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-launches-15-minute-scheduled-reports/)
-- [AWS Single Sign-On is now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-single-sign-on-available-europe-milan/)
-- [Amazon Connect launches API to retrieve agents’ current activity](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-launches-api-retrieve-agents-current-activity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

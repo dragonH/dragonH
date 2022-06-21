@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Open Data on AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2022/06/announcing-open-data-aws-data-exchange/)
 - [AWS App2Container now supports Azure DevOps for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/)
 - [AWS Well-Architected Tool adds multiple enhancements to custom lenses](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-adds-enhancements-custom-lenses/)
 - [Amazon QuickSight launches custom subtotals at all levels and ability to show/ hide column for pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-custom-subtotals-levels-show-hide-pivot-table/)
@@ -67,7 +68,6 @@
 - [Amazon Lex Automated Chatbot Designer is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lex-automated-chatbox-designer-available/)
 - [AWS Managed Microsoft AD enables flexible control over directory settings](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-managed-microsoft-ad-flexible-control-directory-settings/)
 - [Amazon Connect Cases, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-cases-preview/)
-- [Amazon Connect offers general availability of outbound campaigns for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-general-availability-outbound-campaigns-calls-texts-emails/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

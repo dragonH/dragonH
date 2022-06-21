@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fargate now fully supports multiline logging powered by AWS for Fluent Bit](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-supports-multiline-logging-powered-fluent-bit/)
+- [Amazon Textract announces quality update to its Forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-textract-announces-quality-updates-extraction-feature/)
 - [AWS IoT ExpressLink is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-expresslink-generally-available/)
 - [Announcing Open Data on AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2022/06/announcing-open-data-aws-data-exchange/)
 - [AWS App2Container now supports Azure DevOps for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/)
@@ -66,8 +68,6 @@
 - [AWS WAF Captcha is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-captcha-generally-available/)
 - [Amazon ECR now supports AWS PrivateLink in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/)
 - [AWS WAF adds support for inspecting multiple request headers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-support-inspecting-multiple-request-headers/)
-- [Amazon Lex Automated Chatbot Designer is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lex-automated-chatbox-designer-available/)
-- [AWS Managed Microsoft AD enables flexible control over directory settings](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-managed-microsoft-ad-flexible-control-directory-settings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

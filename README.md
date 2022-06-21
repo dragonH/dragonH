@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT ExpressLink is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-expresslink-generally-available/)
 - [Announcing Open Data on AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2022/06/announcing-open-data-aws-data-exchange/)
 - [AWS App2Container now supports Azure DevOps for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/)
 - [AWS Well-Architected Tool adds multiple enhancements to custom lenses](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-adds-enhancements-custom-lenses/)
@@ -67,7 +68,6 @@
 - [AWS WAF adds support for inspecting multiple request headers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-support-inspecting-multiple-request-headers/)
 - [Amazon Lex Automated Chatbot Designer is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-lex-automated-chatbox-designer-available/)
 - [AWS Managed Microsoft AD enables flexible control over directory settings](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-managed-microsoft-ad-flexible-control-directory-settings/)
-- [Amazon Connect Cases, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-cases-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

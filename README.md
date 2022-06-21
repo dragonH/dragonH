@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App2Container now supports Azure DevOps for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/)
 - [AWS Well-Architected Tool adds multiple enhancements to custom lenses](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-adds-enhancements-custom-lenses/)
 - [Amazon QuickSight launches custom subtotals at all levels and ability to show/ hide column for pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-custom-subtotals-levels-show-hide-pivot-table/)
 - [AWS WAF Captcha is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-captcha-generally-available/)
@@ -67,7 +68,6 @@
 - [AWS Managed Microsoft AD enables flexible control over directory settings](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-managed-microsoft-ad-flexible-control-directory-settings/)
 - [Amazon Connect Cases, now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-cases-preview/)
 - [Amazon Connect offers general availability of outbound campaigns for calls, texts, and emails](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-general-availability-outbound-campaigns-calls-texts-emails/)
-- [Amazon QuickSight Q Embedding SDK now supports programmatic question submission](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-q-embedding-sdk-programmatic-question-submission/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Site-to-Site VPN introduces Private IP VPNs for enhanced security and privacy](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/)
 - [AWS Fargate now fully supports multiline logging powered by AWS for Fluent Bit](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-supports-multiline-logging-powered-fluent-bit/)
 - [Amazon Textract announces quality update to its Forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-textract-announces-quality-updates-extraction-feature/)
 - [AWS IoT ExpressLink is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-expresslink-generally-available/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight launches custom subtotals at all levels and ability to show/ hide column for pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-custom-subtotals-levels-show-hide-pivot-table/)
 - [AWS WAF Captcha is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-captcha-generally-available/)
 - [Amazon ECR now supports AWS PrivateLink in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/)
-- [AWS WAF adds support for inspecting multiple request headers](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-support-inspecting-multiple-request-headers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

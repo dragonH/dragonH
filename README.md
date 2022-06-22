@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now available in Frankfurt and Stockholm Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-standby-database-instances-available-frankfurt-stockholm-regions/)
+- [Announcing new Console Query Editor for Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-console-query-editor-qldb/)
 - [Amazon RDS Custom is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-custom-available-additional-aws-regions/)
 - [AWS CodeBuild is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-codebuild-available-aws-asia-pacific-jakarta-region/)
 - [AWS Lake Formation is now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-lake-formation-aws-govcloud-us-east-region/)
@@ -66,8 +68,6 @@
 - [AWS Site-to-Site VPN introduces Private IP VPNs for enhanced security and privacy](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/)
 - [AWS Fargate now fully supports multiline logging powered by AWS for Fluent Bit](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-supports-multiline-logging-powered-fluent-bit/)
 - [Amazon Textract announces quality update to its Forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-textract-announces-quality-updates-extraction-feature/)
-- [AWS IoT ExpressLink is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-expresslink-generally-available/)
-- [Announcing Open Data on AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2022/06/announcing-open-data-aws-data-exchange/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for Oracle now supports Oracle database 12.2 and 18c](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-custom-oracle-supports-database-12-2-18c/)
+- [Amazon Aurora now supports PostgreSQL 14](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-aurora-supports-postgresql-14/)
 - [AWS Site-to-Site VPN introduces Private IP VPNs for enhanced security and privacy](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/)
 - [AWS Fargate now fully supports multiline logging powered by AWS for Fluent Bit](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-supports-multiline-logging-powered-fluent-bit/)
 - [Amazon Textract announces quality update to its Forms extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-textract-announces-quality-updates-extraction-feature/)
@@ -66,8 +68,6 @@
 - [AWS App2Container now supports Azure DevOps for setting up a CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-app2container-azure-devops-ci-cd-pipeline/)
 - [AWS Well-Architected Tool adds multiple enhancements to custom lenses](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-adds-enhancements-custom-lenses/)
 - [Amazon QuickSight launches custom subtotals at all levels and ability to show/ hide column for pivot table](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-custom-subtotals-levels-show-hide-pivot-table/)
-- [AWS WAF Captcha is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-waf-captcha-generally-available/)
-- [Amazon ECR now supports AWS PrivateLink in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ecr-aws-privatelink-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

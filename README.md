@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom now enables you to integrate agent assistance capabilities into custom agent applications](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-wisdom-integrate-agent-assistance-capabilities-applications/)
+- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-graviton2-based-amazon-ec2-c6gd-instances-available-asia-pacific-seoul-region/)
 - [Amazon QuickSight launches monitoring with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-monitoring-cloudwatch-metrics/)
 - [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for SageMaker Ground Truth](https://aws.amazon.com/about-aws/whats-new/2022/06/virtual-private-cloud-vpc-support-sagemaker-ground-truth/)
 - [Amazon SageMaker Ground Truth now supports synthetic data generation](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-ground-truth-supports-synthetic-data-generation/)
@@ -66,8 +68,6 @@
 - [Amazon MSK adds support for Apache Kafka version 3.1.1 and 3.2.0](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-msk-adds-support-apache-kafka-version-3-1-1-3-2-0/)
 - [Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now support M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-readable-standby-database-instances-m5d-r5d/)
 - [Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now available in Frankfurt and Stockholm Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-standby-database-instances-available-frankfurt-stockholm-regions/)
-- [Announcing new Console Query Editor for Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-console-query-editor-qldb/)
-- [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

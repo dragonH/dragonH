@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for SageMaker Ground Truth](https://aws.amazon.com/about-aws/whats-new/2022/06/virtual-private-cloud-vpc-support-sagemaker-ground-truth/)
 - [Amazon SageMaker Ground Truth now supports synthetic data generation](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-ground-truth-supports-synthetic-data-generation/)
 - [AWS announces Amazon CodeWhisperer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-announces-amazon-codewhisperer-preview/)
 - [AWS Direct Connect adds support for all AWS Local Zones in the United States](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-support-local-zones-united-states/)
@@ -67,7 +68,6 @@
 - [Announcing new Console Query Editor for Amazon QLDB](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-console-query-editor-qldb/)
 - [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
 - [Amazon RDS Custom is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-custom-available-additional-aws-regions/)
-- [AWS CodeBuild is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-codebuild-available-aws-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

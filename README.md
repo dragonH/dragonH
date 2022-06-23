@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Ground Truth now supports synthetic data generation](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-ground-truth-supports-synthetic-data-generation/)
+- [AWS announces Amazon CodeWhisperer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-announces-amazon-codewhisperer-preview/)
 - [AWS Direct Connect adds support for all AWS Local Zones in the United States](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-support-local-zones-united-states/)
 - [Amazon MSK adds support for Apache Kafka version 3.1.1 and 3.2.0](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-msk-adds-support-apache-kafka-version-3-1-1-3-2-0/)
 - [Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now support M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-readable-standby-database-instances-m5d-r5d/)
@@ -66,8 +68,6 @@
 - [Announcing AWS Cost Allocation Tag API](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/)
 - [Amazon RDS Custom is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-custom-available-additional-aws-regions/)
 - [AWS CodeBuild is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-codebuild-available-aws-asia-pacific-jakarta-region/)
-- [AWS Lake Formation is now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-lake-formation-aws-govcloud-us-east-region/)
-- [Amazon RDS Custom for Oracle now supports Oracle database 12.2 and 18c](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-custom-oracle-supports-database-12-2-18c/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

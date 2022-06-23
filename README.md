@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 G5 instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-g5-instances-available-additional-regions/)
 - [Amazon EC2 C7g instances powered by AWS Graviton3 processors now available in US East &lpar;Ohio&rpar; and Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c7g-instances-powered-aws-graviton3-available-us-east-ohio-europe-ireland/)
 - [Amazon Connect Wisdom now enables you to integrate agent assistance capabilities into custom agent applications](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-wisdom-integrate-agent-assistance-capabilities-applications/)
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-graviton2-based-amazon-ec2-c6gd-instances-available-asia-pacific-seoul-region/)
@@ -67,7 +68,6 @@
 - [AWS announces Amazon CodeWhisperer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-announces-amazon-codewhisperer-preview/)
 - [AWS Direct Connect adds support for all AWS Local Zones in the United States](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-support-local-zones-united-states/)
 - [Amazon MSK adds support for Apache Kafka version 3.1.1 and 3.2.0](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-msk-adds-support-apache-kafka-version-3-1-1-3-2-0/)
-- [Amazon RDS Multi-AZ deployments with one primary and two readable standby database instances now support M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-multi-az-deployments-readable-standby-database-instances-m5d-r5d/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

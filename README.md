@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/dragonH/JDBC-connect/pull/1) in [dragonH/JDBC-connect](https://github.com/dragonH/JDBC-connect)
-2. 🎉 Merged PR [#28](https://github.com/dragonH/shopping-site-practice/pull/28) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-3. 🎉 Merged PR [#36](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/36) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-4. 💪 Opened PR [#24](https://github.com/neilkuan/telegram-bot-sample/pull/24) in [neilkuan/telegram-bot-sample](https://github.com/neilkuan/telegram-bot-sample)
-5. 🎉 Merged PR [#35](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/35) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+1. 🎉 Merged PR [#37](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/37) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+2. 🎉 Merged PR [#1](https://github.com/dragonH/JDBC-connect/pull/1) in [dragonH/JDBC-connect](https://github.com/dragonH/JDBC-connect)
+3. 🎉 Merged PR [#28](https://github.com/dragonH/shopping-site-practice/pull/28) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+4. 🎉 Merged PR [#36](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/36) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+5. 💪 Opened PR [#24](https://github.com/neilkuan/telegram-bot-sample/pull/24) in [neilkuan/telegram-bot-sample](https://github.com/neilkuan/telegram-bot-sample)
 <!--END_SECTION:activity-->
 
 </details>

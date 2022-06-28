@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Support announces an improved create case experience](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-support-improved-create-case-experience/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; enables dynamic resizing for storage space](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-documentdb-mongodb-dynamic-resizing-storage/)
 - [AWS Fargate for Amazon Elastic Kubernetes Service is now available in the Amazon Web Services China Beijing and Ningxia Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-elastic-kubernetes-beijing-ningxia-regions/)
 - [Amazon EC2 Auto Scaling announces increased Auto Scaling group default limit per account](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/)
@@ -67,7 +68,6 @@
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-graviton2-based-amazon-ec2-c6gd-instances-available-asia-pacific-seoul-region/)
 - [Amazon QuickSight launches monitoring with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-monitoring-cloudwatch-metrics/)
 - [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for SageMaker Ground Truth](https://aws.amazon.com/about-aws/whats-new/2022/06/virtual-private-cloud-vpc-support-sagemaker-ground-truth/)
-- [Amazon SageMaker Ground Truth now supports synthetic data generation](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-ground-truth-supports-synthetic-data-generation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

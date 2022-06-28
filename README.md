@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync can now copy data to and from Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-datasync-copy-data-amazon-fsx-netapp-ontap/)
+- [Amazon QuickSight launches Level Aware Calculation &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculation-lac/)
 - [Amazon RDS increases concurrent copy limit to 20 snapshots per destination region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-increases-concurrent-copy-limit-snapshots-destination-region/)
 - [Amazon Polly adds new male Neural TTS voices in 4 languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-polly-adds-male-neural-tts-voices-languages/)
 - [AWS Glue Streaming ETL now supports auto-decompression](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-glue-streaming-etl-support-auto-decompression/)
@@ -66,8 +68,6 @@
 - [AWS Fargate for Amazon Elastic Kubernetes Service is now available in the Amazon Web Services China Beijing and Ningxia Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-fargate-elastic-kubernetes-beijing-ningxia-regions/)
 - [Amazon EC2 Auto Scaling announces increased Auto Scaling group default limit per account](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-auto-scaling-increased-auto-scaling-group-default-limit-per-account/)
 - [Amazon EC2 G5 instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-g5-instances-available-additional-regions/)
-- [Amazon EC2 C7g instances powered by AWS Graviton3 processors now available in US East &lpar;Ohio&rpar; and Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-c7g-instances-powered-aws-graviton3-available-us-east-ohio-europe-ireland/)
-- [Amazon Connect Wisdom now enables you to integrate agent assistance capabilities into custom agent applications](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-wisdom-integrate-agent-assistance-capabilities-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

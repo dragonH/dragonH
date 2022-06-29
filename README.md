@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches rolling date functionality](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-rolling-date-functionality/)
+- [AWS Direct Connect announces new location in Ireland](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-new-location-ireland/)
+- [Amazon AppStream 2.0 enables UDP streaming for Windows native client](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-udp-streaming-windows-native-client/)
 - [AWS Toolkit for Visual Studio adds Amazon CloudWatch Logs Integration](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-toolkit-visual-studio-amazon-cloudwatch-logs-integration/)
 - [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris/)
 - [AWS Single Sign-On is now available in the Middle East &lpar;Bahrain&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-single-sign-on-available-bahrain-hong-kong/)
@@ -65,9 +68,6 @@
 - [Amazon S3 on Outposts now supports presigned URLs](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-s3-outposts-presigned-urls/)
 - [AWS Application Migration Service is now in scope for AWS SOC reports and supports temporary IAM credentials](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-application-migration-service-in-scope-aws-soc-reports-supports-temporary-iam-credentials/)
 - [Amazon QuickSight launches Level Aware Calculation &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculation-lac/)
-- [Amazon AppStream 2.0 is now available in the AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-aws-east-ohio-region/)
-- [Amazon SageMaker built-in algorithms now provides four new Tabular Data Modeling Algorithms](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-built-in-algorithms-four-new-tabular-data-modeling-algorithms/)
-- [Amazon EC2 placement groups now support host-level spread on AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-placement-groups-support-host-level-spread-aws-outposts-rack/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

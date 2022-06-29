@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 on Outposts now supports presigned URLs](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-s3-outposts-presigned-urls/)
+- [AWS Application Migration Service is now in scope for AWS SOC reports and supports temporary IAM credentials](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-application-migration-service-in-scope-aws-soc-reports-supports-temporary-iam-credentials/)
+- [Amazon QuickSight launches Level Aware Calculation &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculation-lac/)
 - [Amazon AppStream 2.0 is now available in the AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-aws-east-ohio-region/)
 - [Amazon SageMaker built-in algorithms now provides four new Tabular Data Modeling Algorithms](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-built-in-algorithms-four-new-tabular-data-modeling-algorithms/)
 - [Amazon EC2 placement groups now support host-level spread on AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-ec2-placement-groups-support-host-level-spread-aws-outposts-rack/)
 - [Amazon GameLift launches new console experience](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-gamelift-new-console-experience/)
-- [Amazon QuickSight launches Level Aware Calculation &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculation-lac/)
 - [AWS DataSync can now copy data to and from Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-datasync-copy-data-amazon-fsx-netapp-ontap/)
 - [Amazon RDS increases concurrent copy limit to 20 snapshots per destination region](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-rds-increases-concurrent-copy-limit-snapshots-destination-region/)
 - [Amazon Polly adds new male Neural TTS voices in 4 languages](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-polly-adds-male-neural-tts-voices-languages/)
-- [AWS Glue Streaming ETL now supports auto-decompression](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-glue-streaming-etl-support-auto-decompression/)
-- [AWS Support announces an improved create case experience](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-support-improved-create-case-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

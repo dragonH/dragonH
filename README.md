@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service launches edge location in Colombia](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-interactive-video-service-edge-location-colombia/)
+- [AWS Systems Manager now supports patching Windows Server 2022 and other Linux operating systems](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-patching-windows-server-2022-other-linux-operating-systems/)
+- [Announcing general availability of Amplify UI for React](https://aws.amazon.com/about-aws/whats-new/2022/06/general-availability-amplify-ui-react/)
 - [AWS SAM Accelerate is now generally available - quickly test code changes against the cloud](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/)
 - [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
 - [Amazon MemoryDB for Redis is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-memorydb-redis-pci-dss-compliant/)
@@ -65,9 +68,6 @@
 - [Amazon QuickSight launches rolling date functionality](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-rolling-date-functionality/)
 - [AWS Direct Connect announces new location in Ireland](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-new-location-ireland/)
 - [Amazon AppStream 2.0 enables UDP streaming for Windows native client](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-udp-streaming-windows-native-client/)
-- [AWS Toolkit for Visual Studio adds Amazon CloudWatch Logs Integration](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-toolkit-visual-studio-amazon-cloudwatch-logs-integration/)
-- [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris/)
-- [AWS Single Sign-On is now available in the Middle East &lpar;Bahrain&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-single-sign-on-available-bahrain-hong-kong/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

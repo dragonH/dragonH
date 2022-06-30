@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SAM Accelerate is now generally available - quickly test code changes against the cloud](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/)
 - [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
 - [Amazon MemoryDB for Redis is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-memorydb-redis-pci-dss-compliant/)
 - [Now bring your own development environment in a custom image to RStudio on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-development-environment-custom-image-rstudio/)
@@ -67,7 +68,6 @@
 - [AWS Toolkit for Visual Studio adds Amazon CloudWatch Logs Integration](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-toolkit-visual-studio-amazon-cloudwatch-logs-integration/)
 - [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris/)
 - [AWS Single Sign-On is now available in the Middle East &lpar;Bahrain&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-single-sign-on-available-bahrain-hong-kong/)
-- [NICE DCV releases version 2022.1 with performance improvements and support for additional Linux distributions](https://aws.amazon.com/about-aws/whats-new/2022/06/nice-dcv-version-2022-1-improvements-linux-distributions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

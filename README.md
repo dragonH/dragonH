@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports branching of flows based on Lex confidence scores](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-supports-branching-flows-lex-confidence-scores/)
+- [Amazon Connect now supports personalization of the customer experience using Lex sentiment analysis in flows](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-supports-personalization-customer-experience-lex-sentiment-analysis-flows/)
 - [Amazon FinSpace releases APIs to assign granular user permissions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-finspace-apis-assign-granular-user-permissions/)
 - [Amazon Connect Customer Profiles now provides confidence scores to help companies merge duplicate customer records](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-customer-profiles-confidence-scores-help-merge-duplicate-customer-records/)
 - [AWS Database Migration Service now supports VPC source and target endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/)
@@ -66,8 +68,6 @@
 - [AWS Systems Manager now supports patching Windows Server 2022 and other Linux operating systems](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-patching-windows-server-2022-other-linux-operating-systems/)
 - [Announcing general availability of Amplify UI for React](https://aws.amazon.com/about-aws/whats-new/2022/06/general-availability-amplify-ui-react/)
 - [AWS SAM Accelerate is now generally available - quickly test code changes against the cloud](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-sam-accelerate-test-code-against-cloud/)
-- [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
-- [Amazon MemoryDB for Redis is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-memorydb-redis-pci-dss-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

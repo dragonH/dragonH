@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports VPC source and target endpoints](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-database-migration-vpc-source-target-endpoints/)
+- [Announcing bare metal support for Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/)
 - [Amazon Interactive Video Service launches edge location in Colombia](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-interactive-video-service-edge-location-colombia/)
 - [AWS Systems Manager now supports patching Windows Server 2022 and other Linux operating systems](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-systems-manager-patching-windows-server-2022-other-linux-operating-systems/)
 - [Announcing general availability of Amplify UI for React](https://aws.amazon.com/about-aws/whats-new/2022/06/general-availability-amplify-ui-react/)
@@ -66,8 +68,6 @@
 - [Amazon MemoryDB for Redis is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-memorydb-redis-pci-dss-compliant/)
 - [Now bring your own development environment in a custom image to RStudio on Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-sagemaker-development-environment-custom-image-rstudio/)
 - [Amazon QuickSight launches rolling date functionality](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-rolling-date-functionality/)
-- [AWS Direct Connect announces new location in Ireland](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-direct-connect-new-location-ireland/)
-- [Amazon AppStream 2.0 enables UDP streaming for Windows native client](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-appstream-2-0-udp-streaming-windows-native-client/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

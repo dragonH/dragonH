@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-greengrass-supports-mqtt-v5/)
+- [AWS CloudFormation Guard 2.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudformation-guard-2-1-available/)
 - [Amazon QuickSight Authors can now learn and experience Q before signing up](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-authors-learn-experience-q-signing-up/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; customer-managed prefix lists is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-virtual-private-cloud-vpc-customer-managed-prefix-lists-additional-regions/)
 - [Amazon EventBridge cross-Region routing is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eventbridge-cross-region-routing-aws-govcloud-regions/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight launches Level Aware Calculations &lpar;LAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-launches-level-aware-calculations-lac/)
 - [Integration of AWS Well-Architected Tool with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-well-architected-tool-organizations-integration/)
 - [Amazon Connect now supports branching of flows based on Lex confidence scores](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-supports-branching-flows-lex-confidence-scores/)
-- [Amazon Connect now supports personalization of the customer experience using Lex sentiment analysis in flows](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-connect-supports-personalization-customer-experience-lex-sentiment-analysis-flows/)
-- [Amazon FinSpace releases APIs to assign granular user permissions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-finspace-apis-assign-granular-user-permissions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

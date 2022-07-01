@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Deploy scale-out SAP HANA deployments using AWS Launch Wizard and Amazon EC2 x2idn/ r6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/scale-sap-hana-deployments-aws-launch-wizard-amazon-ec2-x2idn-r6i-instances/)
 - [Announcing availability of AWS Outposts rack in Panama](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-panama/)
 - [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-greengrass-mqtt-v5/)
 - [Amazon WorkMail now supports invoking Lambdas to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/)
@@ -67,7 +68,6 @@
 - [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-greengrass-supports-mqtt-v5/)
 - [AWS CloudFormation Guard 2.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudformation-guard-2-1-available/)
 - [Amazon QuickSight Authors can now learn and experience Q before signing up](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-authors-learn-experience-q-signing-up/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; customer-managed prefix lists is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-virtual-private-cloud-vpc-customer-managed-prefix-lists-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

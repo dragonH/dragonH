@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of AWS Outposts rack in Panama](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-panama/)
+- [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-greengrass-mqtt-v5/)
 - [Amazon WorkMail now supports invoking Lambdas to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/)
 - [AWS Migration Hub Refactor Spaces can now enable and disable active routes](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-enable-disable-active-routes/)
 - [AWS Database Migration Service now supports IBM Db2 z/OS as a source](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-ibm-db2-zos-source/)
@@ -66,8 +68,6 @@
 - [AWS CloudFormation Guard 2.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudformation-guard-2-1-available/)
 - [Amazon QuickSight Authors can now learn and experience Q before signing up](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-authors-learn-experience-q-signing-up/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; customer-managed prefix lists is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-virtual-private-cloud-vpc-customer-managed-prefix-lists-additional-regions/)
-- [Amazon EventBridge cross-Region routing is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-eventbridge-cross-region-routing-aws-govcloud-regions/)
-- [Amazon Pinpoint launches journey schedule for more precise communication delivery](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-pinpoint-launches-journey-schedule-communication-delivery/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

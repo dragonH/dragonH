@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
 - [Deploy scale-out SAP HANA deployments using AWS Launch Wizard and Amazon EC2 x2idn/ r6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/scale-sap-hana-deployments-aws-launch-wizard-amazon-ec2-x2idn-r6i-instances/)
 - [Announcing availability of AWS Outposts rack in Panama](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-panama/)
 - [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-greengrass-mqtt-v5/)
@@ -67,7 +68,6 @@
 - [AWS Database Migration Service now supports Babelfish for Aurora PostgreSQL as a target](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-database-migration-babelfish-aurora-postgresql/)
 - [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-iot-greengrass-supports-mqtt-v5/)
 - [AWS CloudFormation Guard 2.1 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-cloudformation-guard-2-1-available/)
-- [Amazon QuickSight Authors can now learn and experience Q before signing up](https://aws.amazon.com/about-aws/whats-new/2022/06/amazon-quicksight-authors-learn-experience-q-signing-up/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

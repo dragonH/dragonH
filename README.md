@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Identity and Access Management introduces IAM Roles Anywhere for workloads outside of AWS](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-identity-access-management-iam-roles-anywhere-workloads-outside-aws/)
+- [AWS Security Hub launches 36 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-36-new-security-best-practice-controls/)
+- [Amazon SageMaker Feature Store now supports feature metadata and search](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-supports-metadata-search/)
+- [Amazon RDS Performance Insights supports additional performance history retention periods](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-performance-insights-additional-performance-history-retention-periods/)
 - [Amazon SageMaker Feature Store adds operational metrics to easily monitor feature groups](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-operational-metrics-monitor-groups/)
 - [Announcing quota management for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-location-service-quota-management/)
 - [Amazon SageMaker Feature Store now allows adding new features to existing feature groups](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-new-features-existing-feature-groups/)
 - [Amazon QuickSight launches APIs for account create](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-apis-account-create-delete/)
 - [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
 - [Deploy scale-out SAP HANA deployments using AWS Launch Wizard and Amazon EC2 x2idn/ r6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/scale-sap-hana-deployments-aws-launch-wizard-amazon-ec2-x2idn-r6i-instances/)
-- [Announcing availability of AWS Outposts rack in Panama](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-panama/)
-- [AWS IoT Greengrass now supports MQTT v5](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-greengrass-mqtt-v5/)
-- [Amazon WorkMail now supports invoking Lambdas to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambdas-fetch-availability-free-busy/)
-- [AWS Migration Hub Refactor Spaces can now enable and disable active routes](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-enable-disable-active-routes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

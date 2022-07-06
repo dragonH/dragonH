@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces a streamlined deployment experience for .NET applications in .NET CLI and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-streamlined-deployment-net-applications-cli-visual-studio/)
 - [AWS Identity and Access Management introduces IAM Roles Anywhere for workloads outside of AWS](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-identity-access-management-iam-roles-anywhere-workloads-outside-aws/)
 - [AWS Security Hub launches 36 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-36-new-security-best-practice-controls/)
 - [Amazon SageMaker Feature Store now supports feature metadata and search](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-supports-metadata-search/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Feature Store now allows adding new features to existing feature groups](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-new-features-existing-feature-groups/)
 - [Amazon QuickSight launches APIs for account create](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-apis-account-create-delete/)
 - [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
-- [Deploy scale-out SAP HANA deployments using AWS Launch Wizard and Amazon EC2 x2idn/ r6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/scale-sap-hana-deployments-aws-launch-wizard-amazon-ec2-x2idn-r6i-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

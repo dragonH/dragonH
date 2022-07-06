@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-announces-quota-information/)
 - [Amazon GuardDuty introduces new machine learning capabilities to more accurately detect potentially malicious access to data stored in S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-guardduty-machine-learning-detect-malicious-access-data-s3/)
 - [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris-region/)
 - [Amazon WorkMail now supports invoking Lambda to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambda-fetch-availability-free-busy/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Feature Store now supports feature metadata and search](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-supports-metadata-search/)
 - [Amazon RDS Performance Insights supports additional performance history retention periods](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-performance-insights-additional-performance-history-retention-periods/)
 - [Amazon SageMaker Feature Store adds operational metrics to easily monitor feature groups](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-operational-metrics-monitor-groups/)
-- [Announcing quota management for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-location-service-quota-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

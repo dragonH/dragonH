@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris-region/)
+- [Amazon WorkMail now supports invoking Lambda to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambda-fetch-availability-free-busy/)
 - [AWS announces a streamlined deployment experience for .NET applications in .NET CLI and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-streamlined-deployment-net-applications-cli-visual-studio/)
 - [AWS Identity and Access Management introduces IAM Roles Anywhere for workloads outside of AWS](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-identity-access-management-iam-roles-anywhere-workloads-outside-aws/)
 - [AWS Security Hub launches 36 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-36-new-security-best-practice-controls/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Feature Store adds operational metrics to easily monitor feature groups](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-operational-metrics-monitor-groups/)
 - [Announcing quota management for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-location-service-quota-management/)
 - [Amazon SageMaker Feature Store now allows adding new features to existing feature groups](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-new-features-existing-feature-groups/)
-- [Amazon QuickSight launches APIs for account create](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-apis-account-create-delete/)
-- [AWS Backup Audit Manager adds new control to audit recovery point objective &lpar;RPO&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-backup-audit-manager-adds-audit-recovery-point-objective-rpo/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

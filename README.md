@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation StackSets announces support for account level targeting in an Organizational Unit](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/)
+- [AWS CloudFormation StackSets is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-available-aws-asia-pacific-jakarta-region/)
 - [Amazon OpenSearch Service announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-announces-quota-information/)
 - [Amazon GuardDuty introduces new machine learning capabilities to more accurately detect potentially malicious access to data stored in S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-guardduty-machine-learning-detect-malicious-access-data-s3/)
 - [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris-region/)
@@ -66,8 +68,6 @@
 - [AWS Identity and Access Management introduces IAM Roles Anywhere for workloads outside of AWS](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-identity-access-management-iam-roles-anywhere-workloads-outside-aws/)
 - [AWS Security Hub launches 36 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-36-new-security-best-practice-controls/)
 - [Amazon SageMaker Feature Store now supports feature metadata and search](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-supports-metadata-search/)
-- [Amazon RDS Performance Insights supports additional performance history retention periods](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-performance-insights-additional-performance-history-retention-periods/)
-- [Amazon SageMaker Feature Store adds operational metrics to easily monitor feature groups](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-store-operational-metrics-monitor-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

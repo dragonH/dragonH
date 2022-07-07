@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds console access for the BillableTableSizeInBytes CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-keyspaces-apache-cassandra-console-access-billabletablesizeinbytes-cloudwatch-metric/)
+- [AWS IoT Core now makes it easier to provision IoT devices to different AWS accounts and simplifies registrations of certificate authorities—general availability](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-core-provision-iot-devices-aws-accounts-registrations-certificate-authorities/)
 - [Amazon EC2 Auto Scaling customers can now monitor their predictive scaling policy using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/)
 - [Announcing general availability of Amazon EC2 M1 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-amazon-ec2-m1-mac-instances-macos/)
 - [AWS CloudFormation StackSets announces support for account level targeting in an Organizational Unit](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/)
@@ -66,8 +68,6 @@
 - [Amazon GuardDuty introduces new machine learning capabilities to more accurately detect potentially malicious access to data stored in S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-guardduty-machine-learning-detect-malicious-access-data-s3/)
 - [AWS Snowcone SSD is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/06/aws-snowcone-ssd-available-aws-europe-paris-region/)
 - [Amazon WorkMail now supports invoking Lambda to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambda-fetch-availability-free-busy/)
-- [AWS announces a streamlined deployment experience for .NET applications in .NET CLI and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-streamlined-deployment-net-applications-cli-visual-studio/)
-- [AWS Identity and Access Management introduces IAM Roles Anywhere for workloads outside of AWS](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-identity-access-management-iam-roles-anywhere-workloads-outside-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

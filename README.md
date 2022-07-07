@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling customers can now monitor their predictive scaling policy using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/)
+- [Announcing general availability of Amazon EC2 M1 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-amazon-ec2-m1-mac-instances-macos/)
 - [AWS CloudFormation StackSets announces support for account level targeting in an Organizational Unit](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/)
 - [AWS CloudFormation StackSets is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-available-aws-asia-pacific-jakarta-region/)
 - [Amazon OpenSearch Service announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-announces-quota-information/)
@@ -66,8 +68,6 @@
 - [Amazon WorkMail now supports invoking Lambda to fetch availability &lpar;free/busy&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workmail-supports-invoking-lambda-fetch-availability-free-busy/)
 - [AWS announces a streamlined deployment experience for .NET applications in .NET CLI and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-streamlined-deployment-net-applications-cli-visual-studio/)
 - [AWS Identity and Access Management introduces IAM Roles Anywhere for workloads outside of AWS](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-identity-access-management-iam-roles-anywhere-workloads-outside-aws/)
-- [AWS Security Hub launches 36 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-36-new-security-best-practice-controls/)
-- [Amazon SageMaker Feature Store now supports feature metadata and search](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-feature-supports-metadata-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports new minor versions 10.6.8, 10.5.16, 10.4.25, 10.3.35, 10.2.44](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-for-mariadb-supports-new-minor-versions/)
 - [Amazon SageMaker Autopilot experiments are now up to 2x faster](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-autopilot-experiments-2x-faster/)
 - [Amazon EC2 I4i Instances are now available in nine additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-i4i-instances-nine-additional-regions/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds console access for the BillableTableSizeInBytes CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-keyspaces-apache-cassandra-console-access-billabletablesizeinbytes-cloudwatch-metric/)
@@ -67,7 +68,6 @@
 - [AWS CloudFormation StackSets announces support for account level targeting in an Organizational Unit](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-support-account-level-targeting-organizational-unit/)
 - [AWS CloudFormation StackSets is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-stacksets-available-aws-asia-pacific-jakarta-region/)
 - [Amazon OpenSearch Service announces the availability of quota information through Service Quotas](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-announces-quota-information/)
-- [Amazon GuardDuty introduces new machine learning capabilities to more accurately detect potentially malicious access to data stored in S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-guardduty-machine-learning-detect-malicious-access-data-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

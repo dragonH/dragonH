@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena enhances console and API support for parameterized queries](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/)
 - [AWS re:Post introduces profile pictures and inline images](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-profile-pictures-inline-images/)
 - [Amazon CloudFront supports header names of up to 1024 characters in CloudFront policies](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-cloudfront-header-names-1024-characters-cloudfront-policies/)
 - [Use Result Fragment Caching with EMR runtime for Apache Spark to boost query performance by up to 15x](https://aws.amazon.com/about-aws/whats-new/2022/07/use-result-fragment-caching-emr-runtime-apache-spark-boost-query-performace-15x/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 I4i Instances are now available in nine additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-i4i-instances-nine-additional-regions/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds console access for the BillableTableSizeInBytes CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-keyspaces-apache-cassandra-console-access-billabletablesizeinbytes-cloudwatch-metric/)
 - [AWS IoT Core now makes it easier to provision IoT devices to different AWS accounts and simplifies registrations of certificate authorities—general availability](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-core-provision-iot-devices-aws-accounts-registrations-certificate-authorities/)
-- [Amazon EC2 Auto Scaling customers can now monitor their predictive scaling policy using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-predictive-scaling-forecast-cloudwatch-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

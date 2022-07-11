@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Nimble Studio seamless IAM access for studio components](https://aws.amazon.com/about-aws/whats-new/2022/07/nimble-studio-seamless-iam-access-studio-components/)
 - [AWS Firewall Manager now supports VPC security group tag distribution with common security group policies](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-vpc-security-group-distribution-policies/)
 - [Amazon Athena enhances console and API support for parameterized queries](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/)
 - [AWS re:Post introduces profile pictures and inline images](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-profile-pictures-inline-images/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MariaDB supports new minor versions 10.6.8, 10.5.16, 10.4.25, 10.3.35, 10.2.44](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-for-mariadb-supports-new-minor-versions/)
 - [Amazon SageMaker Autopilot experiments are now up to 2x faster](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-autopilot-experiments-2x-faster/)
 - [Amazon EC2 I4i Instances are now available in nine additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-i4i-instances-nine-additional-regions/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds console access for the BillableTableSizeInBytes CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-keyspaces-apache-cassandra-console-access-billabletablesizeinbytes-cloudwatch-metric/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

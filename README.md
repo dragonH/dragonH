@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift improves cluster resize performance and flexibility of cluster restore](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-improves-cluster-resize-performance-flexibility-cluster-restore/)
 - [AWS announces AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-appconfig-extensions/)
 - [Amazon Redshift announces support for Row-Level Security &lpar;RLS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/)
 - [Introducing Log Anomaly Detection and Recommendations for Amazon DevOps Guru](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub adds four new integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-four-new-integration-partners/)
 - [Introducing Nimble Studio seamless IAM access for studio components](https://aws.amazon.com/about-aws/whats-new/2022/07/nimble-studio-seamless-iam-access-studio-components/)
 - [AWS Firewall Manager now supports VPC security group tag distribution with common security group policies](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-vpc-security-group-distribution-policies/)
-- [Amazon Athena enhances console and API support for parameterized queries](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-enhances-console-api-parameterized-queries/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

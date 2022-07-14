@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports AWS Network Firewall strict rule order with alert and drop configurations](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/)
+- [Amazon VPC Flow Logs adds Transit Gateway support for improved visibility and monitoring](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-vpc-flow-logs-transit-gateway-improved-visibility-monitoring/)
 - [Amazon QuickSight support for IE11 is ending by July 31, 2022](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-support-ie11-ending-july-31-2022/)
 - [Amazon Redshift improves cluster resize performance and flexibility of cluster restore](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-improves-cluster-resize-performance-flexibility-cluster-restore/)
 - [AWS announces AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-appconfig-extensions/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/)
 - [Announcing general availability &lpar;GA&rpar; of Automated Materialized View for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/)
 - [Announcing the general availability of AWS Cloud WAN](https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/)
-- [AWS Security Hub adds four new integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-four-new-integration-partners/)
-- [Introducing Nimble Studio seamless IAM access for studio components](https://aws.amazon.com/about-aws/whats-new/2022/07/nimble-studio-seamless-iam-access-studio-components/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

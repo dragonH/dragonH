@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Simulator is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-available-aws-govcloud-us-regions/)
 - [AWS Firewall Manager now supports AWS Network Firewall strict rule order with alert and drop configurations](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/)
 - [Amazon VPC Flow Logs adds Transit Gateway support for improved visibility and monitoring](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-vpc-flow-logs-transit-gateway-improved-visibility-monitoring/)
 - [Amazon QuickSight support for IE11 is ending by July 31, 2022](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-support-ie11-ending-july-31-2022/)
@@ -67,7 +68,6 @@
 - [Introducing Log Anomaly Detection and Recommendations for Amazon DevOps Guru](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/)
 - [Amazon Redshift Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/)
 - [Announcing general availability &lpar;GA&rpar; of Automated Materialized View for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/)
-- [Announcing the general availability of AWS Cloud WAN](https://aws.amazon.com/about-aws/whats-new/2022/07/general-availability-aws-cloud-wan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

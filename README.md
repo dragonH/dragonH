@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Resolver DNS Firewall now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-route-53-resolver-dns-firewall-asia-pacific-jakarta-region/)
+- [AWS Lambda Powertools for TypeScript is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-powertools-typescript-available/)
+- [Amazon Aurora PostgreSQL-compatible edition now supports R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-aurora-postgresql-compatible-edition-r6i-instances/)
 - [Amazon SageMaker Automatic Model Tuning now supports increased limits to improve the accuracy of your models](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-automatic-model-tuning-supports-increased-limits-improve-accuracy-models/)
 - [AWS Fault Injection Simulator is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-available-aws-govcloud-us-regions/)
 - [AWS Firewall Manager now supports AWS Network Firewall strict rule order with alert and drop configurations](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/)
@@ -65,9 +68,6 @@
 - [Amazon QuickSight support for IE11 is ending by July 31, 2022](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-support-ie11-ending-july-31-2022/)
 - [Amazon Redshift improves cluster resize performance and flexibility of cluster restore](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-improves-cluster-resize-performance-flexibility-cluster-restore/)
 - [AWS announces AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-appconfig-extensions/)
-- [Amazon Redshift announces support for Row-Level Security &lpar;RLS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/)
-- [Introducing Log Anomaly Detection and Recommendations for Amazon DevOps Guru](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/)
-- [Amazon Redshift Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

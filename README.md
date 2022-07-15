@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker adds ml.g5, ml.p4d, and ml.c6i instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-adds-ml-g5-ml-p4d-ml-c6i-instances-model-deployment/)
 - [Amazon Route 53 Resolver DNS Firewall now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-route-53-resolver-dns-firewall-asia-pacific-jakarta-region/)
 - [AWS Lambda Powertools for TypeScript is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-powertools-typescript-available/)
 - [Amazon Aurora PostgreSQL-compatible edition now supports R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-aurora-postgresql-compatible-edition-r6i-instances/)
@@ -67,7 +68,6 @@
 - [Amazon VPC Flow Logs adds Transit Gateway support for improved visibility and monitoring](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-vpc-flow-logs-transit-gateway-improved-visibility-monitoring/)
 - [Amazon QuickSight support for IE11 is ending by July 31, 2022](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-support-ie11-ending-july-31-2022/)
 - [Amazon Redshift improves cluster resize performance and flexibility of cluster restore](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-improves-cluster-resize-performance-flexibility-cluster-restore/)
-- [AWS announces AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-appconfig-extensions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

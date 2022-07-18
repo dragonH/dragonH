@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon EBS Elastic Volumes automated performance settings make it even easier to modify volumes and save costs](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ebs-elastic-volumes-automated-settings-modify-volumes-costs/)
+- [Amazon WorkSpaces Web is now available in Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Singapore&rpar;, Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workspaces-web-available-new-regions/)
 - [Amazon Redshift announces open source ODBC driver with binary protocol support and enhanced performance](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-open-source-odbc-driver-binary-protocol-support-enhanced-performance/)
 - [Porting Assistant for .NET adds support for assessment and porting of VB.NET applications to .NET Core](https://aws.amazon.com/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/)
 - [Amazon Timestream announces improved cost-effectiveness with updates to metadata metering](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-timestream-improved-cost-effectiveness-updates-metadata-metering/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker adds ml.g5, ml.p4d, and ml.c6i instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-adds-ml-g5-ml-p4d-ml-c6i-instances-model-deployment/)
 - [Amazon Route 53 Resolver DNS Firewall now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-route-53-resolver-dns-firewall-asia-pacific-jakarta-region/)
 - [AWS Lambda Powertools for TypeScript is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-powertools-typescript-available/)
-- [Amazon Aurora PostgreSQL-compatible edition now supports R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-aurora-postgresql-compatible-edition-r6i-instances/)
-- [Amazon SageMaker Automatic Model Tuning now supports increased limits to improve the accuracy of your models](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-automatic-model-tuning-supports-increased-limits-improve-accuracy-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

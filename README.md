@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces open source ODBC driver with binary protocol support and enhanced performance](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-open-source-odbc-driver-binary-protocol-support-enhanced-performance/)
+- [Porting Assistant for .NET adds support for assessment and porting of VB.NET applications to .NET Core](https://aws.amazon.com/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/)
 - [Amazon Timestream announces improved cost-effectiveness with updates to metadata metering](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-timestream-improved-cost-effectiveness-updates-metadata-metering/)
 - [AWS Glue now supports smaller instance types for streaming](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-glue-supports-smaller-instance-types-streaming/)
 - [Amazon Connect Customer Profiles now enables you to integrate unified customer information into your custom agent applications](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-connect-customer-profiles-enables-integrate-unified-customer-information-custom-agent-applications/)
@@ -66,8 +68,6 @@
 - [AWS Lambda Powertools for TypeScript is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-powertools-typescript-available/)
 - [Amazon Aurora PostgreSQL-compatible edition now supports R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-aurora-postgresql-compatible-edition-r6i-instances/)
 - [Amazon SageMaker Automatic Model Tuning now supports increased limits to improve the accuracy of your models](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-automatic-model-tuning-supports-increased-limits-improve-accuracy-models/)
-- [AWS Fault Injection Simulator is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-available-aws-govcloud-us-regions/)
-- [AWS Firewall Manager now supports AWS Network Firewall strict rule order with alert and drop configurations](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

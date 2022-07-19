@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda announces support for Attribute-Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-support-abac/)
+- [AWS Migration Hub Refactor Spaces adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-support-aws-privatelink/)
+- [Amazon Corretto July, 2022 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-corretto-july-2022-quarterly-updates/)
+- [Amazon QuickSight adds Bookmarks in dashboards](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-adds-bookmarks-dashboards/)
+- [The AI Use Case Explorer is now available](https://aws.amazon.com/about-aws/whats-new/2022/07/available-ai-use-case-explorer/)
+- [Announcing Reseller contract in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-marketplace-reseller-contract/)
 - [Amazon Braket SDK adds support for near-real time cost tracking](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-braket-sdk-near-real-time-cost-tracking/)
 - [AWS Glue Streaming ETL Auto Scaling is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-glue-streaming-etl-auto-scaling-available/)
 - [AWS Single Sign-On &lpar;AWS SSO&rpar; adds support for AWS Identity and Access Management &lpar;IAM&rpar; customer managed policies &lpar;CMPs&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/)
 - [AWS re:Post introduces community-generated articles](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-community-generated-articles/)
-- [AWS Snowball Edge Storage Optimized devices now supports high performance NFS data transfer in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-snowball-edge-storage-optimized-devices-nfs-data-transfer-govcloud/)
-- [Announcing Cloudscape Design System, an open source solution for building intuitive web applications](https://aws.amazon.com/about-aws/whats-new/2022/07/cloudscape-design-system-open-source-solution-building-intuitive-web-applications/)
-- [New Amazon EBS Elastic Volumes automated performance settings make it even easier to modify volumes and save costs](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ebs-elastic-volumes-automated-settings-modify-volumes-costs/)
-- [Amazon WorkSpaces Web is now available in Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Singapore&rpar;, Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workspaces-web-available-new-regions/)
-- [Amazon Redshift announces open source ODBC driver with binary protocol support and enhanced performance](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-open-source-odbc-driver-binary-protocol-support-enhanced-performance/)
-- [Porting Assistant for .NET adds support for assessment and porting of VB.NET applications to .NET Core](https://aws.amazon.com/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

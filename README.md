@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket SDK adds support for near-real time cost tracking](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-braket-sdk-near-real-time-cost-tracking/)
 - [AWS Glue Streaming ETL Auto Scaling is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-glue-streaming-etl-auto-scaling-available/)
 - [AWS Single Sign-On &lpar;AWS SSO&rpar; adds support for AWS Identity and Access Management &lpar;IAM&rpar; customer managed policies &lpar;CMPs&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/)
 - [AWS re:Post introduces community-generated articles](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-re-post-community-generated-articles/)
@@ -67,7 +68,6 @@
 - [Amazon WorkSpaces Web is now available in Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Singapore&rpar;, Asia Pacific &lpar;Sydney&rpar;, and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-workspaces-web-available-new-regions/)
 - [Amazon Redshift announces open source ODBC driver with binary protocol support and enhanced performance](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-open-source-odbc-driver-binary-protocol-support-enhanced-performance/)
 - [Porting Assistant for .NET adds support for assessment and porting of VB.NET applications to .NET Core](https://aws.amazon.com/about-aws/whats-new/2022/07/porting-assistant-net-support-assessment-vb-net-applications-core/)
-- [Amazon Timestream announces improved cost-effectiveness with updates to metadata metering](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-timestream-improved-cost-effectiveness-updates-metadata-metering/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

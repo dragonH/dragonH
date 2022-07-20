@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CodeBuild supports Arm-based workloads in South America &lpar;São Paulo&rpar; and Europe &lpar;Stockholm&rpar;.](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/)
-- [Introducing Amazon EC2 R6a instances](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/)
-- [AWS Lambda announces support for Attribute-Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-support-abac/)
-- [AWS Migration Hub Refactor Spaces adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-support-aws-privatelink/)
-- [Amazon Corretto July, 2022 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-corretto-july-2022-quarterly-updates/)
-- [Amazon QuickSight adds Bookmarks in dashboards](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-adds-bookmarks-dashboards/)
-- [The AI Use Case Explorer is now available](https://aws.amazon.com/about-aws/whats-new/2022/07/available-ai-use-case-explorer/)
-- [Announcing Reseller contract in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-marketplace-reseller-contract/)
-- [Amazon Braket SDK adds support for near-real time cost tracking](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-braket-sdk-near-real-time-cost-tracking/)
-- [AWS Glue Streaming ETL Auto Scaling is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-glue-streaming-etl-auto-scaling-available/)
+- [AWS Fault Injection Simulator is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-available-aws-govcloud-us-regions/)
+- [AWS Firewall Manager now supports AWS Network Firewall strict rule order with alert and drop configurations](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-firewall-manager-supports-network-strict-rule-alert-configurations/)
+- [Amazon VPC Flow Logs adds Transit Gateway support for improved visibility and monitoring](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-vpc-flow-logs-transit-gateway-improved-visibility-monitoring/)
+- [Amazon QuickSight support for IE11 is ending by July 31, 2022](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-support-ie11-ending-july-31-2022/)
+- [Amazon Redshift improves cluster resize performance and flexibility of cluster restore](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-improves-cluster-resize-performance-flexibility-cluster-restore/)
+- [AWS announces AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-appconfig-extensions/)
+- [Amazon Redshift announces support for Row-Level Security &lpar;RLS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-row-level-security/)
+- [Introducing Log Anomaly Detection and Recommendations for Amazon DevOps Guru](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-devops-guru-log-anomaly-detection-recommendations/)
+- [Amazon Redshift Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-redshift-serverless-generally-available/)
+- [Announcing general availability &lpar;GA&rpar; of Automated Materialized View for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/07/automated-materialized-view-amazon-redshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

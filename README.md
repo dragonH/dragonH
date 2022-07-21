@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management Fleet Indexing now supports two additional data sources](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-management-fleet-indexing-supports-additional-data-sources/)
 - [AWS Backup adds support for Amazon RDS Multi-AZ clusters](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/)
 - [AWS CloudFormation event notifications with Amazon EventBridge help you create event-driven applications](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/)
 - [AWS CodeBuild supports Arm-based workloads in South America &lpar;São Paulo&rpar; and Europe &lpar;Stockholm&rpar;.](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/)
@@ -67,7 +68,6 @@
 - [Amazon Corretto July, 2022 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-corretto-july-2022-quarterly-updates/)
 - [Amazon QuickSight adds Bookmarks in dashboards](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-adds-bookmarks-dashboards/)
 - [The AI Use Case Explorer is now available](https://aws.amazon.com/about-aws/whats-new/2022/07/available-ai-use-case-explorer/)
-- [Announcing Reseller contract in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-marketplace-reseller-contract/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

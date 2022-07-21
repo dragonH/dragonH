@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Fine-grained access controls with job-scoped IAM Roles and Integration with AWS Lake Formation for Apache Spark and Apache Hive on Amazon EMR on EC2 Clusters](https://aws.amazon.com/about-aws/whats-new/2022/07/fine-grained-access-controls-job-scoped-iam-roles-integration-aws-lake-formation-apache-spark-hive-amazon-emr-ec2-clusters/)
+- [AWS Managed Services is now available in Asia Pacific &lpar;Hong Kong&rpar; and Middle East &lpar;Bahrain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-managed-services-available-asia-pacific-hong-kong-middle-east-bahrain-regions/)
+- [AWS Transfer Family now supports ED25519 and ECDSA keys for user authentication](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-ed25519-ecdsa-keys-user-authentication/)
 - [AWS IoT Device Client v1.7 now available with enhanced functionality and security features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-client-v1-7-enhanced-functionality-security-features/)
 - [AWS IoT Device Management Fleet Indexing now supports two additional data sources](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-management-fleet-indexing-supports-additional-data-sources/)
 - [AWS Backup adds support for Amazon RDS Multi-AZ clusters](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/)
@@ -65,9 +68,6 @@
 - [AWS CodeBuild supports Arm-based workloads in South America &lpar;São Paulo&rpar; and Europe &lpar;Stockholm&rpar;.](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/)
 - [Introducing Amazon EC2 R6a instances](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/)
 - [AWS Lambda announces support for Attribute-Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-support-abac/)
-- [AWS Migration Hub Refactor Spaces adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-migration-hub-refactor-spaces-support-aws-privatelink/)
-- [Amazon Corretto July, 2022 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-corretto-july-2022-quarterly-updates/)
-- [Amazon QuickSight adds Bookmarks in dashboards](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-quicksight-adds-bookmarks-dashboards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

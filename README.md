@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service now includes web broadcast SDK](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-interactive-video-service-includes-web-broadcast-sdk/)
+- [Amazon Fraud Detector launches Account Takeover Insights &lpar;ATI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-fraud-detector-account-takeover-insights/)
+- [Amazon EC2 C6i, M6i and R6i Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-c6i-m6i-r6i-instances-available-additional-regions/)
+- [Amazon RDS Performance Insights now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-performance-insights-available-asia-pacifc-jakarta-region/)
+- [AWS Network Firewall now supports VPC prefix lists](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-vpc-prefix-lists/)
 - [Amazon Athena adds visual query analysis and tuning tools](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-visual-query-analysis-tuning-tools/)
 - [Introducing Fine-grained access controls with job-scoped IAM Roles and Integration with AWS Lake Formation for Apache Spark and Apache Hive on Amazon EMR on EC2 Clusters](https://aws.amazon.com/about-aws/whats-new/2022/07/fine-grained-access-controls-job-scoped-iam-roles-integration-aws-lake-formation-apache-spark-hive-amazon-emr-ec2-clusters/)
 - [AWS Managed Services is now available in Asia Pacific &lpar;Hong Kong&rpar; and Middle East &lpar;Bahrain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-managed-services-available-asia-pacific-hong-kong-middle-east-bahrain-regions/)
 - [AWS Transfer Family now supports ED25519 and ECDSA keys for user authentication](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-ed25519-ecdsa-keys-user-authentication/)
 - [AWS IoT Device Client v1.7 now available with enhanced functionality and security features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-client-v1-7-enhanced-functionality-security-features/)
-- [AWS IoT Device Management Fleet Indexing now supports two additional data sources](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-device-management-fleet-indexing-supports-additional-data-sources/)
-- [AWS Backup adds support for Amazon RDS Multi-AZ clusters](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-amazon-rds-multi-az-clusters/)
-- [AWS CloudFormation event notifications with Amazon EventBridge help you create event-driven applications](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloudformation-event-notifications-amazon-eventbridge-event-driven-applications/)
-- [AWS CodeBuild supports Arm-based workloads in South America &lpar;São Paulo&rpar; and Europe &lpar;Stockholm&rpar;.](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-codebuild-arm-based-workloads-south-america-europe/)
-- [Introducing Amazon EC2 R6a instances](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-amazon-ec2-r6a-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

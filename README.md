@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Console adds ‘Verified Provider’ label for public AMIs](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/)
+- [AWS Lambda announces support for a new IAM condition key, lambda:SourceFunctionArn](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/)
+- [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-multi-az-option-faster-transaction-commit-latency-asia-pacific-sydney-region/)
 - [AWS Backup Audit Manager adds support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-audit-manager-fsx-netapp-ontap/)
 - [Combined OU and Accounts page now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/07/combined-ou-accounts-page-available-aws-control-tower/)
 - [Amazon Interactive Video Service now includes web broadcast SDK](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-interactive-video-service-includes-web-broadcast-sdk/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 C6i, M6i and R6i Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-c6i-m6i-r6i-instances-available-additional-regions/)
 - [Amazon RDS Performance Insights now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-performance-insights-available-asia-pacifc-jakarta-region/)
 - [AWS Network Firewall now supports VPC prefix lists](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-vpc-prefix-lists/)
-- [Amazon Athena adds visual query analysis and tuning tools](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-athena-visual-query-analysis-tuning-tools/)
-- [Introducing Fine-grained access controls with job-scoped IAM Roles and Integration with AWS Lake Formation for Apache Spark and Apache Hive on Amazon EMR on EC2 Clusters](https://aws.amazon.com/about-aws/whats-new/2022/07/fine-grained-access-controls-job-scoped-iam-roles-integration-aws-lake-formation-apache-spark-hive-amazon-emr-ec2-clusters/)
-- [AWS Managed Services is now available in Asia Pacific &lpar;Hong Kong&rpar; and Middle East &lpar;Bahrain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-managed-services-available-asia-pacific-hong-kong-middle-east-bahrain-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports fast database cloning](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-documentdb-mongodb-fast-database-cloning/)
 - [Now programmatically manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/07/programmatically-manage-primary-contact-information-aws-accounts/)
 - [AWS Fault Injection Simulator now supports ChaosMesh and Litmus experiments](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-supports-chaosmesh-litmus-experiments/)
 - [Amazon EC2 Console adds ‘Verified Provider’ label for public AMIs](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/)
@@ -67,7 +68,6 @@
 - [Combined OU and Accounts page now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/07/combined-ou-accounts-page-available-aws-control-tower/)
 - [Amazon Interactive Video Service now includes web broadcast SDK](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-interactive-video-service-includes-web-broadcast-sdk/)
 - [Amazon Fraud Detector launches Account Takeover Insights &lpar;ATI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-fraud-detector-account-takeover-insights/)
-- [Amazon EC2 C6i, M6i and R6i Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-c6i-m6i-r6i-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

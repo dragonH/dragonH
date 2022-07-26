@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing specialization categories for the AWS Level 1 MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2022/07/specialization-categories-aws-level1-mssp-competency/)
 - [AWS WAF adds sensitivity levels for SQL injection rule statements](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-waf-sensitivity-levels-sql-injection-rule-statements/)
 - [AWS Security Hub adds Fortinet and JFrog as integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-fortinet-jfrog-integration-partners/)
 - [Announcing AWS Transfer Family support for Applicability Statement 2 &lpar;AS2&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/)
@@ -67,7 +68,6 @@
 - [Amazon Macie introduces new capability to securely review and validate sensitive data found in an Amazon S3 object](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-macie-capability-securely-review-validate-sensitive-data-amazon-s3-object/)
 - [Malware protection now a feature of Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2022/07/malware-protection-feature-amazon-guardduty/)
 - [AWS announces AWS Wickr &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/)
-- [AWS Security Hub now receives Amazon GuardDuty Malware Protection findings](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

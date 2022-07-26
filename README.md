@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Transfer Family support for Applicability Statement 2 &lpar;AS2&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/)
 - [AWS Single Sign-On &lpar;AWS SSO&rpar; is now AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/)
 - [AWS Config conformance packs now provide scores to help you track resource compliance](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/)
 - [Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments-preview/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub now receives Amazon GuardDuty Malware Protection findings](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/)
 - [Amazon RDS for MariaDB now supports R5b instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-mariadb-supports-r5b-instances/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports fast database cloning](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-documentdb-mongodb-fast-database-cloning/)
-- [Now programmatically manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/07/programmatically-manage-primary-contact-information-aws-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

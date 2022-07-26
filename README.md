@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Single Sign-On &lpar;AWS SSO&rpar; is now AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/)
+- [AWS Config conformance packs now provide scores to help you track resource compliance](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/)
+- [Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments-preview/)
+- [Amazon Macie introduces new capability to securely review and validate sensitive data found in an Amazon S3 object](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-macie-capability-securely-review-validate-sensitive-data-amazon-s3-object/)
+- [Malware protection now a feature of Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2022/07/malware-protection-feature-amazon-guardduty/)
+- [AWS announces AWS Wickr &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/)
+- [AWS Security Hub now receives Amazon GuardDuty Malware Protection findings](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/)
 - [Amazon RDS for MariaDB now supports R5b instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-mariadb-supports-r5b-instances/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports fast database cloning](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-documentdb-mongodb-fast-database-cloning/)
 - [Now programmatically manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/07/programmatically-manage-primary-contact-information-aws-accounts/)
-- [AWS Fault Injection Simulator now supports ChaosMesh and Litmus experiments](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-fault-injection-simulator-supports-chaosmesh-litmus-experiments/)
-- [Amazon EC2 Console adds ‘Verified Provider’ label for public AMIs](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ec2-console-verified-provider-label-public-amis/)
-- [AWS Lambda announces support for a new IAM condition key, lambda:SourceFunctionArn](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-iam-condition-key-lambda-source-function-arn/)
-- [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-multi-az-option-faster-transaction-commit-latency-asia-pacific-sydney-region/)
-- [AWS Backup Audit Manager adds support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-audit-manager-fsx-netapp-ontap/)
-- [Combined OU and Accounts page now available in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/07/combined-ou-accounts-page-available-aws-control-tower/)
-- [Amazon Interactive Video Service now includes web broadcast SDK](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-interactive-video-service-includes-web-broadcast-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

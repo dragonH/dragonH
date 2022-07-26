@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds Fortinet and JFrog as integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-fortinet-jfrog-integration-partners/)
 - [Announcing AWS Transfer Family support for Applicability Statement 2 &lpar;AS2&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/)
 - [AWS Single Sign-On &lpar;AWS SSO&rpar; is now AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/)
 - [AWS Config conformance packs now provide scores to help you track resource compliance](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/)
@@ -67,7 +68,6 @@
 - [AWS announces AWS Wickr &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/)
 - [AWS Security Hub now receives Amazon GuardDuty Malware Protection findings](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/)
 - [Amazon RDS for MariaDB now supports R5b instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-mariadb-supports-r5b-instances/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports fast database cloning](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-documentdb-mongodb-fast-database-cloning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

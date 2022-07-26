@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF adds sensitivity levels for SQL injection rule statements](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-waf-sensitivity-levels-sql-injection-rule-statements/)
 - [AWS Security Hub adds Fortinet and JFrog as integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-fortinet-jfrog-integration-partners/)
 - [Announcing AWS Transfer Family support for Applicability Statement 2 &lpar;AS2&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/)
 - [AWS Single Sign-On &lpar;AWS SSO&rpar; is now AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/)
@@ -67,7 +68,6 @@
 - [Malware protection now a feature of Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2022/07/malware-protection-feature-amazon-guardduty/)
 - [AWS announces AWS Wickr &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/)
 - [AWS Security Hub now receives Amazon GuardDuty Malware Protection findings](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-receives-amazon-guardduty-malware-protection-findings/)
-- [Amazon RDS for MariaDB now supports R5b instances](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-mariadb-supports-r5b-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

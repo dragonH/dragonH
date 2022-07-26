@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECR Public now supports tag listing API for public repositories](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-ecr-public-supports-tag-listing-api-public-repositories/)
+- [Introducing the re-Launched AWS Security Competency](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-re-launched-aws-security-competency/)
+- [Amazon RDS Proxy now supports Amazon RDS for MariaDB running on version 10.3, 10.4 or 10.5](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-rds-proxy-mariadb-version-10-support/)
 - [AWS Single Sign-On &lpar;AWS SSO&rpar; is now AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-now-aws-iam-identity-center/)
 - [Introducing specialization categories for the AWS Level 1 MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2022/07/specialization-categories-aws-level1-mssp-competency/)
 - [AWS WAF adds sensitivity levels for SQL injection rule statements](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-waf-sensitivity-levels-sql-injection-rule-statements/)
@@ -65,9 +68,6 @@
 - [Announcing AWS Transfer Family support for Applicability Statement 2 &lpar;AS2&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/)
 - [AWS Config conformance packs now provide scores to help you track resource compliance](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/)
 - [Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments-preview/)
-- [Amazon Macie introduces new capability to securely review and validate sensitive data found in an Amazon S3 object](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-macie-capability-securely-review-validate-sensitive-data-amazon-s3-object/)
-- [Malware protection now a feature of Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2022/07/malware-protection-feature-amazon-guardduty/)
-- [AWS announces AWS Wickr &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

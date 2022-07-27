@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches Contact Lens integration with Contact Control Panel and Salesforce CTI Adapter](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-connect-contact-lens-integration-contact-control-panel-salesforce-cti-adapter/)
 - [AWS announces AWS Billing Conductor OU Import](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-billing-conductor-ou-import/)
 - [Amazon Polly now offers Neural TTS support for Hindi and Indian English](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-polly-neural-tts-support-hindi-indian-english/)
 - [Introducing the re-Launched AWS Security Competency](https://aws.amazon.com/about-aws/whats-new/2022/07/introducing-re-launched-aws-security-competency/)
@@ -67,7 +68,6 @@
 - [AWS WAF adds sensitivity levels for SQL injection rule statements](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-waf-sensitivity-levels-sql-injection-rule-statements/)
 - [AWS Security Hub adds Fortinet and JFrog as integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-fortinet-jfrog-integration-partners/)
 - [Announcing AWS Transfer Family support for Applicability Statement 2 &lpar;AS2&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/)
-- [AWS Config conformance packs now provide scores to help you track resource compliance](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-config-conformance-packs-scores-track-resource-compliance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Ground Station announces a new antenna location in the Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-ground-station-new-antenna-location-asia-pacific-singapore-region/)
 - [AWS Outposts rack is now supported in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-supported-aws-asia-pacific-jakarta-region/)
 - [Announcing Amazon WorkSpaces API to create WorkSpace Image](https://aws.amazon.com/about-aws/whats-new/2022/07/announcing-amazon-workspaces-api-create-image/)
 - [AWS AppSync launches new API command to test GraphQL resolvers](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/)
@@ -67,7 +68,6 @@
 - [AWS Step Functions continues to expand its AWS SDK integrations with support for 3 additional AWS Services and 195 more API Actions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-step-functions-expand-aws-sdk-integrations-support-additional-aws-services-more-api-actions/)
 - [Amazon Connect launches Contact Lens integration with Contact Control Panel and Salesforce CTI Adapter](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-connect-contact-lens-integration-contact-control-panel-salesforce-cti-adapter/)
 - [AWS announces AWS Billing Conductor OU Import](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-billing-conductor-ou-import/)
-- [Amazon Polly now offers Neural TTS support for Hindi and Indian English](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-polly-neural-tts-support-hindi-indian-english/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

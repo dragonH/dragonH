@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions continues to expand its AWS SDK integrations with support for 3 additional AWS Services and 195 more API Actions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-step-functions-expand-aws-sdk-integrations-support-additional-aws-services-more-api-actions/)
 - [Amazon Connect launches Contact Lens integration with Contact Control Panel and Salesforce CTI Adapter](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-connect-contact-lens-integration-contact-control-panel-salesforce-cti-adapter/)
 - [AWS announces AWS Billing Conductor OU Import](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-billing-conductor-ou-import/)
 - [Amazon Polly now offers Neural TTS support for Hindi and Indian English](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-polly-neural-tts-support-hindi-indian-english/)
@@ -67,7 +68,6 @@
 - [Introducing specialization categories for the AWS Level 1 MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2022/07/specialization-categories-aws-level1-mssp-competency/)
 - [AWS WAF adds sensitivity levels for SQL injection rule statements](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-waf-sensitivity-levels-sql-injection-rule-statements/)
 - [AWS Security Hub adds Fortinet and JFrog as integration partners](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-security-hub-adds-fortinet-jfrog-integration-partners/)
-- [Announcing AWS Transfer Family support for Applicability Statement 2 &lpar;AS2&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-transfer-family-support-applicability-statement-2-as2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas announces encryption support with customer managed keys](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-sagemaker-canvas-encryption-managed-keys/)
 - [AWS Backup now supports copying Amazon S3 backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-supports-copying-amazon-s3-aws-regions-accounts/)
 - [AWS ParallelCluster 3.2: file system enhancements and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-parallelcluster-3-2-file-system-enhancements-top-requested-features/)
 - [Amazon OpenSearch Service now supports OpenSearch version 1.3](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-supports-version-1-3/)
@@ -67,7 +68,6 @@
 - [AWS Ground Station announces a new antenna location in the Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-ground-station-new-antenna-location-asia-pacific-singapore-region/)
 - [AWS Outposts rack is now supported in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-supported-aws-asia-pacific-jakarta-region/)
 - [Announcing Amazon WorkSpaces API to create WorkSpace Image](https://aws.amazon.com/about-aws/whats-new/2022/07/announcing-amazon-workspaces-api-create-image/)
-- [AWS AppSync launches new API command to test GraphQL resolvers](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

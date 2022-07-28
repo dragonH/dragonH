@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports copying Amazon S3 backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-backup-supports-copying-amazon-s3-aws-regions-accounts/)
 - [AWS ParallelCluster 3.2: file system enhancements and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-parallelcluster-3-2-file-system-enhancements-top-requested-features/)
 - [Amazon OpenSearch Service now supports OpenSearch version 1.3](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-supports-version-1-3/)
 - [Amazon OpenSearch Service announces support for EBS gp3 volume type](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-support-ebs-gp3-volume-type/)
@@ -67,7 +68,6 @@
 - [AWS Outposts rack is now supported in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-supported-aws-asia-pacific-jakarta-region/)
 - [Announcing Amazon WorkSpaces API to create WorkSpace Image](https://aws.amazon.com/about-aws/whats-new/2022/07/announcing-amazon-workspaces-api-create-image/)
 - [AWS AppSync launches new API command to test GraphQL resolvers](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/)
-- [Amazon Neptune now supports fine grained access control with IAM](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-neptune-supports-fine-grained-access-control-iam/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

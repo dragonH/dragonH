@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/)
 - [AWS Global Accelerator announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-global-accelerator-announces-ipv6-support/)
 - [AWS Ground Station announces a new antenna location in the Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-ground-station-new-antenna-location-asia-pacific-singapore-region/)
 - [AWS Outposts rack is now supported in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-outposts-rack-supported-aws-asia-pacific-jakarta-region/)
@@ -67,7 +68,6 @@
 - [Announcing Amazon Neptune Global Database](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-neptune-global-database/)
 - [Amazon S3 increases the maximum number of S3 Access Points and adds support for Amazon Redshift, Amazon CloudFront, and Amazon SageMaker Feature Store](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/)
 - [AWS Step Functions continues to expand its AWS SDK integrations with support for 3 additional AWS Services and 195 more API Actions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-step-functions-expand-aws-sdk-integrations-support-additional-aws-services-more-api-actions/)
-- [Amazon Connect launches Contact Lens integration with Contact Control Panel and Salesforce CTI Adapter](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-connect-contact-lens-integration-contact-control-panel-salesforce-cti-adapter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

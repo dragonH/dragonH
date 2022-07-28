@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS ParallelCluster 3.2: file system enhancements and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-parallelcluster-3-2-file-system-enhancements-top-requested-features/)
+- [Amazon OpenSearch Service now supports OpenSearch version 1.3](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-supports-version-1-3/)
+- [Amazon OpenSearch Service announces support for EBS gp3 volume type](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-support-ebs-gp3-volume-type/)
 - [AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/)
 - [AWS Global Accelerator announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-global-accelerator-announces-ipv6-support/)
 - [AWS Ground Station announces a new antenna location in the Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-ground-station-new-antenna-location-asia-pacific-singapore-region/)
@@ -65,9 +68,6 @@
 - [Announcing Amazon WorkSpaces API to create WorkSpace Image](https://aws.amazon.com/about-aws/whats-new/2022/07/announcing-amazon-workspaces-api-create-image/)
 - [AWS AppSync launches new API command to test GraphQL resolvers](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-appsync-launches-api-command-test-graphql-resolvers/)
 - [Amazon Neptune now supports fine grained access control with IAM](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-neptune-supports-fine-grained-access-control-iam/)
-- [Announcing Amazon Neptune Global Database](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-neptune-global-database/)
-- [Amazon S3 increases the maximum number of S3 Access Points and adds support for Amazon Redshift, Amazon CloudFront, and Amazon SageMaker Feature Store](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-s3-increases-access-points-redshift-cloudfront-sagemaker-feature-store/)
-- [AWS Step Functions continues to expand its AWS SDK integrations with support for 3 additional AWS Services and 195 more API Actions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-step-functions-expand-aws-sdk-integrations-support-additional-aws-services-more-api-actions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

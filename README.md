@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map is available in two new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloud-map-available-regions/)
+- [AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/)
 - [AWS Control Tower adopts AWS CloudTrail Organization logging](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-adopts-aws-cloudtrail-organization-logging/)
 - [AWS Control Tower now reduces AWS Config configuration items by only recording global resources in home Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-reduces-aws-config-items-recording-global-resources-home-regions/)
 - [AWS IoT SiteWise is now available in US East &lpar;Ohio&rpar; and Canada &lpar;Central&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-iot-sitewise-canada-ohio-regions/)
@@ -66,8 +68,6 @@
 - [AWS ParallelCluster 3.2: file system enhancements and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-parallelcluster-3-2-file-system-enhancements-top-requested-features/)
 - [Amazon OpenSearch Service now supports OpenSearch version 1.3](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-supports-version-1-3/)
 - [Amazon OpenSearch Service announces support for EBS gp3 volume type](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-opensearch-service-support-ebs-gp3-volume-type/)
-- [AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/)
-- [AWS Global Accelerator announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-global-accelerator-announces-ipv6-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL now supports enforcing SSL/TLS connections](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-mysql-supports-ssl-tls-connections/)
 - [Amazon QuickSight launches new base maps for geospatial visualizations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-base-maps-geospatial-visualizations/)
 - [Bottlerocket is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/bottlerocket-available-amazon-web-services-china-regions/)
 - [AWS Application Migration Service now supports automated tagging for MAP 2.0 credits](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-automated-tagging-map-2-0-credits/)
@@ -67,7 +68,6 @@
 - [Amazon Nimble Studio now supports EC2 G3 and G5 instances for virtual workstations](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-nimble-studio-ec2-g3-g5-instances-virtual-workstations/)
 - [Amazon Lookout for Vision now provides anomaly localization and CPU inference on the edge](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-lookout-vision-anomaly-localization-cpu-inference-edge/)
 - [AWS Lambda support for AWS X-Ray now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-supports-aws-x-ray-govcloud-us-regions/)
-- [AWS Systems Manager announces a simplified onboarding experience for Application Manager](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-systems-manager-simplified-onboarding-experience-application-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

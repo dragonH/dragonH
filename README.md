@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service now supports automated tagging for MAP 2.0 credits](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-automated-tagging-map-2-0-credits/)
+- [AWS Support launches a new AWS Support Center console domain](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/)
+- [Amazon Connect launches historical actuals in the forecasting UI](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-historical-actuals-forecasting-ui/)
 - [AWS Network Firewall adds coin mining, phishing, and mobile operating systems categories to AWS Managed Threat Signatures](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-coin-mining-phishing-mobile-operating-systems-categories-managed-threat-signatures/)
 - [Amazon Nimble Studio now supports EC2 G3 and G5 instances for virtual workstations](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-nimble-studio-ec2-g3-g5-instances-virtual-workstations/)
 - [Amazon Lookout for Vision now provides anomaly localization and CPU inference on the edge](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-lookout-vision-anomaly-localization-cpu-inference-edge/)
@@ -65,9 +68,6 @@
 - [AWS Systems Manager announces a simplified onboarding experience for Application Manager](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-systems-manager-simplified-onboarding-experience-application-manager/)
 - [AWS Console Mobile Application adds support for recently visited services feature](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-console-mobile-application-adds-service-feature/)
 - [AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/)
-- [AWS Cloud Map is available in two new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-cloud-map-available-regions/)
-- [AWS Control Tower adopts AWS CloudTrail Organization logging](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-adopts-aws-cloudtrail-organization-logging/)
-- [AWS Control Tower now reduces AWS Config configuration items by only recording global resources in home Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-reduces-aws-config-items-recording-global-resources-home-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

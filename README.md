@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now includes advanced log and application analytics](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-opensearch-service-includes-log-application-analytics/)
+- [Bottlerocket is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/bottlerocket-available-amazon-web-services-china-regions/)
 - [AWS Application Migration Service now supports automated tagging for MAP 2.0 credits](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-automated-tagging-map-2-0-credits/)
 - [AWS Support launches a new AWS Support Center console domain](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/)
 - [Amazon Connect launches historical actuals in the forecasting UI](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-historical-actuals-forecasting-ui/)
@@ -66,8 +68,6 @@
 - [Amazon Lookout for Vision now provides anomaly localization and CPU inference on the edge](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-lookout-vision-anomaly-localization-cpu-inference-edge/)
 - [AWS Lambda support for AWS X-Ray now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-supports-aws-x-ray-govcloud-us-regions/)
 - [AWS Systems Manager announces a simplified onboarding experience for Application Manager](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-systems-manager-simplified-onboarding-experience-application-manager/)
-- [AWS Console Mobile Application adds support for recently visited services feature](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-console-mobile-application-adds-service-feature/)
-- [AWS Control Tower’s Region deny guardrail expands to include additional AWS Chatbot, Amazon S3 Storage Lens, and Amazon S3 Multi Region Access points APIs](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-control-tower-region-deny-guardrail-expands-aws-chatbot-s3-storage-lens-s3-multi-region-access-points-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

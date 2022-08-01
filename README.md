@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon OpenSearch Service now includes advanced log and application analytics](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-opensearch-service-includes-log-application-analytics/)
+- [Amazon QuickSight launches new base maps for geospatial visualizations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-base-maps-geospatial-visualizations/)
 - [Bottlerocket is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/bottlerocket-available-amazon-web-services-china-regions/)
 - [AWS Application Migration Service now supports automated tagging for MAP 2.0 credits](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-automated-tagging-map-2-0-credits/)
 - [AWS Support launches a new AWS Support Center console domain](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/)

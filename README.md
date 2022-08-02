@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Secrets Manager connections now support the latest hybrid post-quantum TLS with Kyber](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-secrets-manager-connections-support-hybrid-post-quantum-tls-kyber/)
 - [Announcing the availability of license included Microsoft Visual Studio Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/)
 - [AWS Security Hub now supports cross-Region aggregation of findings in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-cross-region-aggregation-findings-govcloud-us/)
 - [AWS Microservice Extractor for .NET now provides automated refactoring recommendations](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-microservice-extractor-net-automated-refactoring-recommendations/)
@@ -67,7 +68,6 @@
 - [Build AWS Config rules using AWS CloudFormation Guard](https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/)
 - [Amazon Connect schedule adherence, now available in preview.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-schedule-adherence-preview/)
 - [AWS Amplify Flutter announces web and desktop support &lpar;Developer Preview&rpar; for Authentication](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-amplify-flutter-announces-web-desktop-support-preview-authentication/)
-- [Now in Preview - Amazon WorkSpaces Integration with SAML 2.0](https://aws.amazon.com/about-aws/whats-new/2022/08/preview-amazon-workspaces-integration-saml-2-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

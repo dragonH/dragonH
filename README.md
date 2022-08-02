@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VM Import/Export now supports Windows 11](https://aws.amazon.com/about-aws/whats-new/2022/08/vm-import-export-windows-11/)
+- [Announcing Amazon Pinpoint toll-free number registration workflow](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-pinpoint-toll-free-number-registration-workflow/)
 - [Amazon RDS for Oracle now supports April 2022 patch set update &lpar;PSU&rpar; for 12.1 and release updates &lpar;RU&rpar; for 19c &amp; 21c](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-april-2022-patch-set-update-19c-21c/)
 - [Build AWS Config rules using AWS CloudFormation Guard](https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/)
 - [Amazon Connect schedule adherence, now available in preview.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-schedule-adherence-preview/)
@@ -66,8 +68,6 @@
 - [AWS Training and Certification announces AWS Skill Builder subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-training-certification-aws-skill-builder-subscriptions/)
 - [Amazon RDS for MySQL now supports enforcing SSL/TLS connections](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-mysql-supports-ssl-tls-connections/)
 - [Amazon QuickSight launches new base maps for geospatial visualizations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-base-maps-geospatial-visualizations/)
-- [Bottlerocket is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/bottlerocket-available-amazon-web-services-china-regions/)
-- [AWS Application Migration Service now supports automated tagging for MAP 2.0 credits](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-automated-tagging-map-2-0-credits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

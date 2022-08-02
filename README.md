@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now in Preview - Amazon WorkSpaces Integration with SAML 2.0](https://aws.amazon.com/about-aws/whats-new/2022/08/preview-amazon-workspaces-integration-saml-2-0/)
+- [AWS Amplify Flutter announces web and desktop support &lpar;Developer Preview&rpar; for Authentication](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-amplify-flutter-announces-web-desktop-support-preview-authentication/)
+- [AWS Training and Certification announces AWS Skill Builder subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-training-certification-aws-skill-builder-subscriptions/)
 - [Amazon RDS for MySQL now supports enforcing SSL/TLS connections](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-mysql-supports-ssl-tls-connections/)
 - [Amazon QuickSight launches new base maps for geospatial visualizations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-base-maps-geospatial-visualizations/)
 - [Bottlerocket is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/bottlerocket-available-amazon-web-services-china-regions/)
@@ -65,9 +68,6 @@
 - [AWS Support launches a new AWS Support Center console domain](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/)
 - [Amazon Connect launches historical actuals in the forecasting UI](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-historical-actuals-forecasting-ui/)
 - [AWS Network Firewall adds coin mining, phishing, and mobile operating systems categories to AWS Managed Threat Signatures](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-coin-mining-phishing-mobile-operating-systems-categories-managed-threat-signatures/)
-- [Amazon Nimble Studio now supports EC2 G3 and G5 instances for virtual workstations](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-nimble-studio-ec2-g3-g5-instances-virtual-workstations/)
-- [Amazon Lookout for Vision now provides anomaly localization and CPU inference on the edge](https://aws.amazon.com/about-aws/whats-new/2022/07/amazon-lookout-vision-anomaly-localization-cpu-inference-edge/)
-- [AWS Lambda support for AWS X-Ray now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-lambda-supports-aws-x-ray-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

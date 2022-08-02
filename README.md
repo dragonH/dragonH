@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports April 2022 patch set update &lpar;PSU&rpar; for 12.1 and release updates &lpar;RU&rpar; for 19c &amp; 21c](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-april-2022-patch-set-update-19c-21c/)
+- [Build AWS Config rules using AWS CloudFormation Guard](https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/)
+- [Amazon Connect schedule adherence, now available in preview.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-schedule-adherence-preview/)
 - [Now in Preview - Amazon WorkSpaces Integration with SAML 2.0](https://aws.amazon.com/about-aws/whats-new/2022/08/preview-amazon-workspaces-integration-saml-2-0/)
 - [AWS Amplify Flutter announces web and desktop support &lpar;Developer Preview&rpar; for Authentication](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-amplify-flutter-announces-web-desktop-support-preview-authentication/)
 - [AWS Training and Certification announces AWS Skill Builder subscriptions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-training-certification-aws-skill-builder-subscriptions/)
@@ -65,9 +68,6 @@
 - [Amazon QuickSight launches new base maps for geospatial visualizations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-base-maps-geospatial-visualizations/)
 - [Bottlerocket is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/bottlerocket-available-amazon-web-services-china-regions/)
 - [AWS Application Migration Service now supports automated tagging for MAP 2.0 credits](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-automated-tagging-map-2-0-credits/)
-- [AWS Support launches a new AWS Support Center console domain](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-aws-support-center-console-domain/)
-- [Amazon Connect launches historical actuals in the forecasting UI](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-historical-actuals-forecasting-ui/)
-- [AWS Network Firewall adds coin mining, phishing, and mobile operating systems categories to AWS Managed Threat Signatures](https://aws.amazon.com/about-aws/whats-new/2022/07/aws-network-firewall-coin-mining-phishing-mobile-operating-systems-categories-managed-threat-signatures/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

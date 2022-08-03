@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lookout for Metrics announcing increased quota from 50K to 500K metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lookout-metrics-increased-quota-50k-500k-metrics/)
 - [AWS Comprehend lowers annotation limits for training custom entity recognition models](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-comprehend-lowers-annotation-limits-custom-entry-recognition-models/)
 - [AWS Compute Optimizer is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-compute-optimizer-5-additional-regions/)
 - [Amazon CloudWatch metrics increases throughput by 150x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-metrics-increases-throughput/)
@@ -67,7 +68,6 @@
 - [AWS Microservice Extractor for .NET now provides automated refactoring recommendations](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-microservice-extractor-net-automated-refactoring-recommendations/)
 - [VM Import/Export now supports Windows 11](https://aws.amazon.com/about-aws/whats-new/2022/08/vm-import-export-windows-11/)
 - [Announcing Amazon Pinpoint toll-free number registration workflow](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-pinpoint-toll-free-number-registration-workflow/)
-- [Amazon RDS for Oracle now supports April 2022 patch set update &lpar;PSU&rpar; for 12.1 and release updates &lpar;RU&rpar; for 19c &amp; 21c](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-april-2022-patch-set-update-19c-21c/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

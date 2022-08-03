@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch metrics increases throughput by 150x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-metrics-increases-throughput/)
 - [AWS Secrets Manager connections now support the latest hybrid post-quantum TLS with Kyber](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-secrets-manager-connections-support-hybrid-post-quantum-tls-kyber/)
 - [Announcing the availability of license included Microsoft Visual Studio Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/)
 - [AWS Security Hub now supports cross-Region aggregation of findings in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-cross-region-aggregation-findings-govcloud-us/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for Oracle now supports April 2022 patch set update &lpar;PSU&rpar; for 12.1 and release updates &lpar;RU&rpar; for 19c &amp; 21c](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-april-2022-patch-set-update-19c-21c/)
 - [Build AWS Config rules using AWS CloudFormation Guard](https://aws.amazon.com/about-aws/whats-new/2022/08/build-aws-config-rules-cloudformation-guard/)
 - [Amazon Connect schedule adherence, now available in preview.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-schedule-adherence-preview/)
-- [AWS Amplify Flutter announces web and desktop support &lpar;Developer Preview&rpar; for Authentication](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-amplify-flutter-announces-web-desktop-support-preview-authentication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

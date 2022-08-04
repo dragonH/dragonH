@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-tiered-pricing/)
+- [Amazon Keyspaces is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-keyspaces-available-aws-govcloud-us-regions/)
+- [AWS Data Exchange increases the asset size limit to 100GB](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-data-exchange-increases-asset-size-limit-100gb/)
 - [Amazon QuickSight launches API-based domain allow listing for developers to scale embedded analytics across different applications](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-api-based-domain-listing-developers-scale-embedded-analytics-across-applications/)
 - [Amazon ElastiCache now supports AWS Graviton2-based T4g, M6g, R6g instances in the Europe &lpar;Paris, Milan&rpar; regions and R6gd instances in the Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-t4g-m6g-r6g-instances-europe-paris-milan/)
 - [Amazon RDS for PostgreSQL supports new minor versions 14.3, 13.7, 12.11, 11.16, and 10.21](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-postgresql-supports-minor-versions/)
@@ -65,9 +68,6 @@
 - [AWS Comprehend lowers annotation limits for training custom entity recognition models](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-comprehend-lowers-annotation-limits-custom-entry-recognition-models/)
 - [AWS Compute Optimizer is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-compute-optimizer-5-additional-regions/)
 - [Amazon CloudWatch metrics increases throughput by 150x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-metrics-increases-throughput/)
-- [AWS Secrets Manager connections now support the latest hybrid post-quantum TLS with Kyber](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-secrets-manager-connections-support-hybrid-post-quantum-tls-kyber/)
-- [Announcing the availability of license included Microsoft Visual Studio Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/)
-- [AWS Security Hub now supports cross-Region aggregation of findings in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-cross-region-aggregation-findings-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

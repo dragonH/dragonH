@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache now supports AWS Graviton2-based T4g, M6g, R6g instances in the Europe &lpar;Paris, Milan&rpar; regions and R6gd instances in the Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-t4g-m6g-r6g-instances-europe-paris-milan/)
 - [Amazon RDS for PostgreSQL supports new minor versions 14.3, 13.7, 12.11, 11.16, and 10.21](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-postgresql-supports-minor-versions/)
 - [AWS Lookout for Metrics announcing increased quota from 50K to 500K metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lookout-metrics-increased-quota-50k-500k-metrics/)
 - [AWS Comprehend lowers annotation limits for training custom entity recognition models](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-comprehend-lowers-annotation-limits-custom-entry-recognition-models/)
@@ -67,7 +68,6 @@
 - [Announcing the availability of license included Microsoft Visual Studio Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-license-included-microsoft-visual-studio-amazon-machine-images-amis-amazon-ec2/)
 - [AWS Security Hub now supports cross-Region aggregation of findings in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-cross-region-aggregation-findings-govcloud-us/)
 - [AWS Microservice Extractor for .NET now provides automated refactoring recommendations](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-microservice-extractor-net-automated-refactoring-recommendations/)
-- [VM Import/Export now supports Windows 11](https://aws.amazon.com/about-aws/whats-new/2022/08/vm-import-export-windows-11/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

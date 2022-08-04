@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core launches a new device provisioning console experience](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-core-launches-device-provisioning-console-experience/)
 - [AWS Lambda announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-tiered-pricing/)
 - [Amazon Keyspaces is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-keyspaces-available-aws-govcloud-us-regions/)
 - [AWS Data Exchange increases the asset size limit to 100GB](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-data-exchange-increases-asset-size-limit-100gb/)
@@ -67,7 +68,6 @@
 - [AWS Lookout for Metrics announcing increased quota from 50K to 500K metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lookout-metrics-increased-quota-50k-500k-metrics/)
 - [AWS Comprehend lowers annotation limits for training custom entity recognition models](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-comprehend-lowers-annotation-limits-custom-entry-recognition-models/)
 - [AWS Compute Optimizer is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-compute-optimizer-5-additional-regions/)
-- [Amazon CloudWatch metrics increases throughput by 150x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-metrics-increases-throughput/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

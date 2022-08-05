@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Evidently adds support for creating target customer segments for feature launches and experiments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/)
+- [Amazon EC2 Is4gen and Im4gn instances are now available in four additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-is4gen-im4gn-instances-four-regions/)
 - [AWS IoT SiteWise now supports payload compression for data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-payload-compression-data-ingestion/)
 - [AWS IoT Core launches a new device provisioning console experience](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-core-launches-device-provisioning-console-experience/)
 - [AWS Lambda announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-tiered-pricing/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight launches API-based domain allow listing for developers to scale embedded analytics across different applications](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-api-based-domain-listing-developers-scale-embedded-analytics-across-applications/)
 - [Amazon ElastiCache now supports AWS Graviton2-based T4g, M6g, R6g instances in the Europe &lpar;Paris, Milan&rpar; regions and R6gd instances in the Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-t4g-m6g-r6g-instances-europe-paris-milan/)
 - [Amazon RDS for PostgreSQL supports new minor versions 14.3, 13.7, 12.11, 11.16, and 10.21](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-postgresql-supports-minor-versions/)
-- [AWS Lookout for Metrics announcing increased quota from 50K to 500K metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lookout-metrics-increased-quota-50k-500k-metrics/)
-- [AWS Comprehend lowers annotation limits for training custom entity recognition models](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-comprehend-lowers-annotation-limits-custom-entry-recognition-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
 - [AWS IoT Greengrass v2 updates Stream Manager to report new telemetry metrics and more](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-greengrass-v2-updates-stream-manager-report-telemetry-metrics/)
 - [AWS Graviton2-based Amazon EC2 C6g, C6gd, and M6gd are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6g-c6gd-m6gd-available-additional-regions/)
 - [Amazon Timestream is now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-timestream-available-asia-pacific-sydney-tokyo-regions/)
@@ -67,7 +68,6 @@
 - [AWS IoT Core launches a new device provisioning console experience](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-core-launches-device-provisioning-console-experience/)
 - [AWS Lambda announces tiered pricing](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-tiered-pricing/)
 - [Amazon Keyspaces is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-keyspaces-available-aws-govcloud-us-regions/)
-- [AWS Data Exchange increases the asset size limit to 100GB](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-data-exchange-increases-asset-size-limit-100gb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect expands AWS Transit Gateway support at more connection speeds](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-direct-connect-expands-transit-gateway-support-connection-speeds/)
 - [Amazon RDS Custom for Oracle now supports promotion of managed in-region read replica](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports DML query auditing with Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/)
 - [Amazon S3 adds a new policy condition key to require or restrict server-side encryption with customer-provided keys &lpar;SSE-C&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-s3-policy-condition-key-require-restrict-server-side-encryption-customer-provided-keys-sse-c/)
@@ -67,7 +68,6 @@
 - [Amazon Timestream is now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-timestream-available-asia-pacific-sydney-tokyo-regions/)
 - [Amazon CloudWatch Evidently adds support for creating target customer segments for feature launches and experiments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/)
 - [Amazon EC2 Is4gen and Im4gn instances are now available in four additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-is4gen-im4gn-instances-four-regions/)
-- [AWS IoT SiteWise now supports payload compression for data ingestion](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-payload-compression-data-ingestion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Graviton2-based Amazon EC2 C6g, C6gd, and M6gd are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6g-c6gd-m6gd-available-additional-regions/)
 - [Amazon Timestream is now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-timestream-available-asia-pacific-sydney-tokyo-regions/)
 - [Amazon CloudWatch Evidently adds support for creating target customer segments for feature launches and experiments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/)
 - [Amazon EC2 Is4gen and Im4gn instances are now available in four additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-is4gen-im4gn-instances-four-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Keyspaces is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-keyspaces-available-aws-govcloud-us-regions/)
 - [AWS Data Exchange increases the asset size limit to 100GB](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-data-exchange-increases-asset-size-limit-100gb/)
 - [Amazon QuickSight launches API-based domain allow listing for developers to scale embedded analytics across different applications](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-api-based-domain-listing-developers-scale-embedded-analytics-across-applications/)
-- [Amazon ElastiCache now supports AWS Graviton2-based T4g, M6g, R6g instances in the Europe &lpar;Paris, Milan&rpar; regions and R6gd instances in the Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-t4g-m6g-r6g-instances-europe-paris-milan/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

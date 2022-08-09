@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas expands capabilities to better prepare and analyze data for machine learning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-expands-capabilities-prepare-analyze-data-machine-learning/)
+- [Amazon SageMaker Automatic Model Tuning now supports alternate SageMaker training instance types for more robust tuning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-alternate-sagemaker-instances-robust-tuning/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports the Decimal128 data type](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongo-db-compatibility-decimal128-data-type/)
 - [Amazon Aurora Serverless v1 now supports PostgreSQL 11 and In-Place upgrade from PostgreSQL 10](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-serverless-v1-postgresql-11-in-place-upgrade-postgresql-10/)
 - [Amazon SageMaker Pipelines now supports sharing of pipeline entities across accounts](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-sharing-pipeline-entities-across-accounts/)
@@ -66,8 +68,6 @@
 - [Amazon RDS Custom for Oracle now supports promotion of managed in-region read replica](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports DML query auditing with Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/)
 - [Amazon S3 adds a new policy condition key to require or restrict server-side encryption with customer-provided keys &lpar;SSE-C&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-s3-policy-condition-key-require-restrict-server-side-encryption-customer-provided-keys-sse-c/)
-- [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
-- [AWS IoT Greengrass v2 updates Stream Manager to report new telemetry metrics and more](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-greengrass-v2-updates-stream-manager-report-telemetry-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

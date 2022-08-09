@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Pipelines now supports sharing of pipeline entities across accounts](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-sharing-pipeline-entities-across-accounts/)
+- [AWS Glue now supports Flex execution option](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-supports-flex-execution-option/)
 - [AWS Direct Connect expands AWS Transit Gateway support at more connection speeds](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-direct-connect-expands-transit-gateway-support-connection-speeds/)
 - [Amazon RDS Custom for Oracle now supports promotion of managed in-region read replica](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports DML query auditing with Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/)
@@ -66,8 +68,6 @@
 - [AWS IoT Greengrass v2 updates Stream Manager to report new telemetry metrics and more](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-greengrass-v2-updates-stream-manager-report-telemetry-metrics/)
 - [AWS Graviton2-based Amazon EC2 C6g, C6gd, and M6gd are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6g-c6gd-m6gd-available-additional-regions/)
 - [Amazon Timestream is now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-timestream-available-asia-pacific-sydney-tokyo-regions/)
-- [Amazon CloudWatch Evidently adds support for creating target customer segments for feature launches and experiments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-evidently-customer-segments-feature-launches-experiments/)
-- [Amazon EC2 Is4gen and Im4gn instances are now available in four additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-is4gen-im4gn-instances-four-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

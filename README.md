@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing the AWS Transfer Family Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-transfer-family-delivery-program/)
+- [Amazon EBS adds the ability to take crash-consistent snapshots of a subset of EBS volumes attached to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ebs-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/)
 - [Amazon SageMaker Canvas expands capabilities to better prepare and analyze data for machine learning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-expands-capabilities-prepare-analyze-data-machine-learning/)
 - [Amazon SageMaker Automatic Model Tuning now supports alternate SageMaker training instance types for more robust tuning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-alternate-sagemaker-instances-robust-tuning/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports the Decimal128 data type](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongo-db-compatibility-decimal128-data-type/)
@@ -66,8 +68,6 @@
 - [AWS Glue now supports Flex execution option](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-supports-flex-execution-option/)
 - [AWS Direct Connect expands AWS Transit Gateway support at more connection speeds](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-direct-connect-expands-transit-gateway-support-connection-speeds/)
 - [Amazon RDS Custom for Oracle now supports promotion of managed in-region read replica](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-supports-promotion-replica/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports DML query auditing with Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-documentdb-mongodb-compatibility-dml-query-auditing-amazon-cloudwatch-logs/)
-- [Amazon S3 adds a new policy condition key to require or restrict server-side encryption with customer-provided keys &lpar;SSE-C&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-s3-policy-condition-key-require-restrict-server-side-encryption-customer-provided-keys-sse-c/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

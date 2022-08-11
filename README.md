@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito enables native support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cognito-enables-native-support-aws-waf/)
+- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.23](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-distro-support-kubernetes-version-1-23/)
+- [Amazon AppFlow now supports Zendesk Chat and Zendesk Sell as sources](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-zendesk-chat-sell-sources/)
 - [Amazon Location Service now supports circular geofences](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-circular-geofences/)
 - [Amazon EventBridge now supports receiving events from GitHub, Stripe and Twilio using Webhooks](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eventbridge-supports-receiving-events-github-stripe-twilio-using-webhooks/)
 - [Introducing the AWS Supply Chain Competency Partner Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-supply-chain-competency-partner-program/)
@@ -65,9 +68,6 @@
 - [AWS Console Mobile Application adds support for Cost Explorer service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-console-mobile-cost-explorer/)
 - [Application Insights adds AppRegistry support and faster problem reporting](https://aws.amazon.com/about-aws/whats-new/2022/08/application-insights-appregistry-support-faster-problem-reporting/)
 - [Introducing the AWS Transfer Family Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-transfer-family-delivery-program/)
-- [Amazon EBS adds the ability to take crash-consistent snapshots of a subset of EBS volumes attached to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ebs-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/)
-- [Amazon SageMaker Canvas expands capabilities to better prepare and analyze data for machine learning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-expands-capabilities-prepare-analyze-data-machine-learning/)
-- [Amazon SageMaker Automatic Model Tuning now supports alternate SageMaker training instance types for more robust tuning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-alternate-sagemaker-instances-robust-tuning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics adds support for custom canary groups with group-level availability metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-synthetics-support-custom-canary-groups-group-level-availability-metrics/)
 - [Amazon Cognito enables native support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cognito-enables-native-support-aws-waf/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.23](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-distro-support-kubernetes-version-1-23/)
 - [Amazon AppFlow now supports Zendesk Chat and Zendesk Sell as sources](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-zendesk-chat-sell-sources/)
@@ -67,7 +68,6 @@
 - [Amazon AppFlow now supports data transfers from SAP applications to AWS Services using SAP Operational Data Provisioning &lpar;ODP&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-data-sap-applications-aws-services-operational-data-provisioning/)
 - [AWS Console Mobile Application adds support for Cost Explorer service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-console-mobile-cost-explorer/)
 - [Application Insights adds AppRegistry support and faster problem reporting](https://aws.amazon.com/about-aws/whats-new/2022/08/application-insights-appregistry-support-faster-problem-reporting/)
-- [Introducing the AWS Transfer Family Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-transfer-family-delivery-program/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

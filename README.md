@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize launches support for range queries on dynamic filters](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-range-queries-dynamic-filters/)
+- [Amazon RDS Custom for Oracle now supports Scale Compute](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-scale-compute/)
 - [The Amazon Chime SDK announces elastic channels](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-elastic-channels/)
 - [AWS Graviton2-based Amazon EC2 M6g, M6gd, C6g, and R6g are now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-m6g-m6gd-c6g-r6g-available-asia-pacific-jakarta-region/)
 - [Amazon Personalize now supports incremental bulk dataset imports](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-incremental-bulk-dataset-imports/)
@@ -66,8 +68,6 @@
 - [AWS Private 5G is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-private-5g-now-generally-available/)
 - [Amazon CloudWatch Synthetics adds support for custom canary groups with group-level availability metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-synthetics-support-custom-canary-groups-group-level-availability-metrics/)
 - [Amazon Cognito enables native support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cognito-enables-native-support-aws-waf/)
-- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.23](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-distro-support-kubernetes-version-1-23/)
-- [Amazon AppFlow now supports Zendesk Chat and Zendesk Sell as sources](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-zendesk-chat-sell-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

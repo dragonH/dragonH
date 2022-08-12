@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now supports incremental bulk dataset imports](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-incremental-bulk-dataset-imports/)
 - [AWS DeepRacer Student now offers community races and new Intel learning content with a look under the hood of the DeepRacer vehicle](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-deepracer-student-community-races-intel-learning-content-look-under-hood-deepracer-vehicle/)
 - [Amazon Kinesis Data Analytics is now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-kenesis-data-available-asia-pacific-jakarta-region/)
 - [AWS Private 5G is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-private-5g-now-generally-available/)
@@ -67,7 +68,6 @@
 - [Amazon AppFlow now supports Zendesk Chat and Zendesk Sell as sources](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-zendesk-chat-sell-sources/)
 - [Amazon Location Service now supports circular geofences](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-circular-geofences/)
 - [Amazon EventBridge now supports receiving events from GitHub, Stripe and Twilio using Webhooks](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eventbridge-supports-receiving-events-github-stripe-twilio-using-webhooks/)
-- [Introducing the AWS Supply Chain Competency Partner Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-supply-chain-competency-partner-program/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

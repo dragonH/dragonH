@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics is now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-kenesis-data-available-asia-pacific-jakarta-region/)
 - [AWS Private 5G is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-private-5g-now-generally-available/)
 - [Amazon CloudWatch Synthetics adds support for custom canary groups with group-level availability metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-synthetics-support-custom-canary-groups-group-level-availability-metrics/)
 - [Amazon Cognito enables native support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cognito-enables-native-support-aws-waf/)
@@ -67,7 +68,6 @@
 - [Amazon EventBridge now supports receiving events from GitHub, Stripe and Twilio using Webhooks](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eventbridge-supports-receiving-events-github-stripe-twilio-using-webhooks/)
 - [Introducing the AWS Supply Chain Competency Partner Program](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-supply-chain-competency-partner-program/)
 - [Amazon AppFlow now supports data transfers from SAP applications to AWS Services using SAP Operational Data Provisioning &lpar;ODP&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-data-sap-applications-aws-services-operational-data-provisioning/)
-- [AWS Console Mobile Application adds support for Cost Explorer service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-console-mobile-cost-explorer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

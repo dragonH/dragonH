@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-config-supports-20-new-resource-types/)
 - [Amazon Personalize allows rule-based promotions in recommendations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-rule-based-promotions-recommendations/)
 - [Amazon Personalize launches support for range queries on dynamic filters](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-range-queries-dynamic-filters/)
 - [Amazon RDS Custom for Oracle now supports Scale Compute](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-scale-compute/)
@@ -67,7 +68,6 @@
 - [AWS DeepRacer Student now offers community races and new Intel learning content with a look under the hood of the DeepRacer vehicle](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-deepracer-student-community-races-intel-learning-content-look-under-hood-deepracer-vehicle/)
 - [Amazon Kinesis Data Analytics is now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-kenesis-data-available-asia-pacific-jakarta-region/)
 - [AWS Private 5G is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-private-5g-now-generally-available/)
-- [Amazon CloudWatch Synthetics adds support for custom canary groups with group-level availability metrics](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudwatch-synthetics-support-custom-canary-groups-group-level-availability-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise now supports bulk import of historical measurement data](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-bulk-import-historical-measurement-data/)
+- [Amazon RDS for SQL Server supports M6i, R6i and R5b instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-m6i-r6i-r5b-instances-additional-regions/)
 - [Optimize resources across your organization using AWS Compute Optimizer from a designated account](https://aws.amazon.com/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/)
 - [Amazon WorkSpaces Web is now available in Canada &lpar;Central&rpar;, Europe &lpar;Frankfurt&rpar;, and Europe &lpar;London&rpar; regions.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-workspaces-web-available-canada-frankfurt-london-regions/)
 - [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-config-supports-20-new-resource-types/)
@@ -66,8 +68,6 @@
 - [Amazon RDS Custom for Oracle now supports Scale Compute](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-custom-oracle-scale-compute/)
 - [The Amazon Chime SDK announces elastic channels](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-elastic-channels/)
 - [AWS Graviton2-based Amazon EC2 M6g, M6gd, C6g, and R6g are now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-m6g-m6gd-c6g-r6g-available-asia-pacific-jakarta-region/)
-- [Amazon Personalize now supports incremental bulk dataset imports](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-incremental-bulk-dataset-imports/)
-- [AWS DeepRacer Student now offers community races and new Intel learning content with a look under the hood of the DeepRacer vehicle](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-deepracer-student-community-races-intel-learning-content-look-under-hood-deepracer-vehicle/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

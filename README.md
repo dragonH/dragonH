@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK Serverless is now integrated with AWS CloudFormation and Terraform](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-msk-serverless-integrated-aws-cloudformation-terraform/)
+- [AWS Glue Python Shell jobs now offer Python 3.9 and additional pre-loaded libraries](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-python-shell-jobs-python-3-9-additional-pre-loaded-libraries/)
 - [Amazon Rekognition Custom Labels now supports autoscaling of inference units](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rekognition-custom-labels-supports-autoscaling-inference-units/)
 - [Amazon Kinesis Data Analytics is now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-kinesis-data-analytics-available-asia-pacific-jakarta-region/)
 - [Amazon CloudFront now supports HTTP/3 powered by QUIC](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-supports-http-3-quic/)
@@ -66,8 +68,6 @@
 - [Optimize resources across your organization using AWS Compute Optimizer from a designated account](https://aws.amazon.com/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/)
 - [Amazon WorkSpaces Web is now available in Canada &lpar;Central&rpar;, Europe &lpar;Frankfurt&rpar;, and Europe &lpar;London&rpar; regions.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-workspaces-web-available-canada-frankfurt-london-regions/)
 - [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-config-supports-20-new-resource-types/)
-- [Amazon Personalize allows rule-based promotions in recommendations](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-rule-based-promotions-recommendations/)
-- [Amazon Personalize launches support for range queries on dynamic filters](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-range-queries-dynamic-filters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

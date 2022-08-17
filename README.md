@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Ground Station adds support for wideband Digital Intermediate Frequency in Africa &lpar;Cape Town&rpar;, Europe &lpar;Ireland&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-ground-station-wideband-digital-intermediate-frequency-africa-cape-town-europe-ireland-asia-pacific-singapore/)
+- [Amazon EKS announces cluster-level cost allocation tagging](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-cluster-level-cost-allocation-tagging/)
 - [Amazon Lex now supports conditional branching for simplified dialog management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-lex-conditional-branching-simplified-dialog-management/)
 - [AWS Trusted Advisor Priority is now generally available for AWS Enterprise Support customers](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-trusted-advisor-priority-enterprise-support-customers/)
 - [Amazon Redshift announces federated SSO support with ease of use and security capabilities enhancements for Query Editor V2.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-redshift-federated-sso-security-enhancements-query-editor-v2/)
@@ -66,8 +68,6 @@
 - [Amazon Rekognition Custom Labels now offers the ability to copy trained computer vision models across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rekognition-custom-labels-copy-trained-computer-vision-models-across-aws-accounts/)
 - [Amazon EC2 P4d Instances now available in AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-p4d-instances-aws-govcloud-us-region/)
 - [Amazon SageMaker Pipelines now supports the testing of machine learning workflows in your local environment](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-testing-machine-learning-workflows-local-environment/)
-- [Amazon EC2 High Memory instances are now available in US East &lpar;Ohio&rpar;, South America &lpar;Sao Paulo&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-high-memory-instances-ohio-sao-paulo-sydney-regions/)
-- [Amazon Interactive Video Service basic channels now support HD and Full HD inputs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-interactive-video-service-basic-channels-support-hd-full-hd-inputs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Resilience Hub support for Elastic Load Balancing and Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-resilience-hub-elastic-load-balancing-amazon-route-53-application-recovery-controller/)
+- [AWS Cost Anomaly Detection gets a simplified interface for anomaly exploration](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-cost-anomaly-detection-simplified-interface-anomaly-exploration/)
+- [Amazon Rekognition Custom Labels now offers the ability to copy trained computer vision models across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rekognition-custom-labels-copy-trained-computer-vision-models-across-aws-accounts/)
+- [Amazon EC2 P4d Instances now available in AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-p4d-instances-aws-govcloud-us-region/)
+- [Amazon SageMaker Pipelines now supports the testing of machine learning workflows in your local environment](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-pipelines-testing-machine-learning-workflows-local-environment/)
 - [Amazon EC2 High Memory instances are now available in US East &lpar;Ohio&rpar;, South America &lpar;Sao Paulo&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-high-memory-instances-ohio-sao-paulo-sydney-regions/)
 - [Amazon Interactive Video Service basic channels now support HD and Full HD inputs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-interactive-video-service-basic-channels-support-hd-full-hd-inputs/)
 - [Amazon MSK Serverless is now integrated with AWS CloudFormation and Terraform](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-msk-serverless-integrated-aws-cloudformation-terraform/)
 - [AWS Glue Python Shell jobs now offer Python 3.9 and additional pre-loaded libraries](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-python-shell-jobs-python-3-9-additional-pre-loaded-libraries/)
 - [Amazon Rekognition Custom Labels now supports autoscaling of inference units](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rekognition-custom-labels-supports-autoscaling-inference-units/)
-- [Amazon Kinesis Data Analytics is now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-kinesis-data-analytics-available-asia-pacific-jakarta-region/)
-- [Amazon CloudFront now supports HTTP/3 powered by QUIC](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-supports-http-3-quic/)
-- [AWS IoT SiteWise now supports bulk import of historical measurement data](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-bulk-import-historical-measurement-data/)
-- [Amazon RDS for SQL Server supports M6i, R6i and R5b instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-m6i-r6i-r5b-instances-additional-regions/)
-- [Optimize resources across your organization using AWS Compute Optimizer from a designated account](https://aws.amazon.com/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

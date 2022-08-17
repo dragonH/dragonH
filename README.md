@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-supports-ipv6/)
+- [Amazon OpenSearch Service now provides improved visibility into validation errors during blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-opensearch-improved-visibility-validation-errors-blue-green-deployments/)
+- [AWS App Mesh adds support for multiple listeners](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-support-multiple-listeners/)
+- [AWS App Mesh introduces configurable Envoy access log format](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-introduces-configurable-envoy-access-log-format/)
 - [Amazon SageMaker Canvas enables faster onboarding with automatic data import from local disk](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-enables-faster-onboarding-automatic-data-import-local-disk/)
 - [AWS Lambda now supports custom Consumer Group IDs for Amazon MSK and Self-Managed Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-consumer-group-ids-msk-kafka-event-sources/)
 - [AWS Ground Station adds support for wideband Digital Intermediate Frequency in Africa &lpar;Cape Town&rpar;, Europe &lpar;Ireland&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-ground-station-wideband-digital-intermediate-frequency-africa-cape-town-europe-ireland-asia-pacific-singapore/)
 - [Amazon EKS announces cluster-level cost allocation tagging](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-cluster-level-cost-allocation-tagging/)
 - [Amazon Lex now supports conditional branching for simplified dialog management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-lex-conditional-branching-simplified-dialog-management/)
 - [AWS Trusted Advisor Priority is now generally available for AWS Enterprise Support customers](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-trusted-advisor-priority-enterprise-support-customers/)
-- [Amazon Redshift announces federated SSO support with ease of use and security capabilities enhancements for Query Editor V2.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-redshift-federated-sso-security-enhancements-query-editor-v2/)
-- [Announcing AWS Resilience Hub support for Elastic Load Balancing and Amazon Route 53 Application Recovery Controller](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-resilience-hub-elastic-load-balancing-amazon-route-53-application-recovery-controller/)
-- [AWS Cost Anomaly Detection gets a simplified interface for anomaly exploration](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-cost-anomaly-detection-simplified-interface-anomaly-exploration/)
-- [Amazon Rekognition Custom Labels now offers the ability to copy trained computer vision models across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rekognition-custom-labels-copy-trained-computer-vision-models-across-aws-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

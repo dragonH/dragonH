@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances are now available in US East &lpar;Ohio&rpar;, South America &lpar;Sao Paulo&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-high-memory-instances-ohio-sao-paulo-sydney-regions/)
 - [Amazon Interactive Video Service basic channels now support HD and Full HD inputs](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-interactive-video-service-basic-channels-support-hd-full-hd-inputs/)
 - [Amazon MSK Serverless is now integrated with AWS CloudFormation and Terraform](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-msk-serverless-integrated-aws-cloudformation-terraform/)
 - [AWS Glue Python Shell jobs now offer Python 3.9 and additional pre-loaded libraries](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-python-shell-jobs-python-3-9-additional-pre-loaded-libraries/)
@@ -67,7 +68,6 @@
 - [AWS IoT SiteWise now supports bulk import of historical measurement data](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-supports-bulk-import-historical-measurement-data/)
 - [Amazon RDS for SQL Server supports M6i, R6i and R5b instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-m6i-r6i-r5b-instances-additional-regions/)
 - [Optimize resources across your organization using AWS Compute Optimizer from a designated account](https://aws.amazon.com/about-aws/whats-new/2022/08/optimize-resources-organization-aws-compute-optimizer-designated-account/)
-- [Amazon WorkSpaces Web is now available in Canada &lpar;Central&rpar;, Europe &lpar;Frankfurt&rpar;, and Europe &lpar;London&rpar; regions.](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-workspaces-web-available-canada-frankfurt-london-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

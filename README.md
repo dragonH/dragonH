@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Well-Architected Tool now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-well-architected-tool-available-aws-govcloud-us-regions/)
+- [Announcing wildcard support in Amazon EKS Fargate Profile Selectors](https://aws.amazon.com/about-aws/whats-new/2022/08/wildcard-support-amazon-eks-fargate-profile-selectors/)
 - [Amazon Aurora now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-supports-ipv6/)
 - [Amazon OpenSearch Service now provides improved visibility into validation errors during blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-opensearch-improved-visibility-validation-errors-blue-green-deployments/)
 - [AWS App Mesh adds support for multiple listeners](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-support-multiple-listeners/)
@@ -66,8 +68,6 @@
 - [AWS Lambda now supports custom Consumer Group IDs for Amazon MSK and Self-Managed Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-consumer-group-ids-msk-kafka-event-sources/)
 - [AWS Ground Station adds support for wideband Digital Intermediate Frequency in Africa &lpar;Cape Town&rpar;, Europe &lpar;Ireland&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-ground-station-wideband-digital-intermediate-frequency-africa-cape-town-europe-ireland-asia-pacific-singapore/)
 - [Amazon EKS announces cluster-level cost allocation tagging](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-cluster-level-cost-allocation-tagging/)
-- [Amazon Lex now supports conditional branching for simplified dialog management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-lex-conditional-branching-simplified-dialog-management/)
-- [AWS Trusted Advisor Priority is now generally available for AWS Enterprise Support customers](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-trusted-advisor-priority-enterprise-support-customers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK supports video compositing merging &lpar;concatenation&rpar; for WebRTC media capture](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/)
+- [Center for Internet Security &lpar;CIS&rpar; Benchmark for Bottlerocket is now available](https://aws.amazon.com/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/)
+- [Amazon Chime SDK now supports streaming to Amazon IVS and Elemental MediaLive](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-streaming-ivs-elemental-medialive/)
 - [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
 - [AWS Well-Architected Tool now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-well-architected-tool-available-aws-govcloud-us-regions/)
 - [Announcing wildcard support in Amazon EKS Fargate Profile Selectors](https://aws.amazon.com/about-aws/whats-new/2022/08/wildcard-support-amazon-eks-fargate-profile-selectors/)
@@ -65,9 +68,6 @@
 - [Amazon OpenSearch Service now provides improved visibility into validation errors during blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-opensearch-improved-visibility-validation-errors-blue-green-deployments/)
 - [AWS App Mesh adds support for multiple listeners](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-support-multiple-listeners/)
 - [AWS App Mesh introduces configurable Envoy access log format](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-introduces-configurable-envoy-access-log-format/)
-- [Amazon SageMaker Canvas enables faster onboarding with automatic data import from local disk](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-enables-faster-onboarding-automatic-data-import-local-disk/)
-- [AWS Lambda now supports custom Consumer Group IDs for Amazon MSK and Self-Managed Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-consumer-group-ids-msk-kafka-event-sources/)
-- [AWS Ground Station adds support for wideband Digital Intermediate Frequency in Africa &lpar;Cape Town&rpar;, Europe &lpar;Ireland&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-ground-station-wideband-digital-intermediate-frequency-africa-cape-town-europe-ireland-asia-pacific-singapore/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

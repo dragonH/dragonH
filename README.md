@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB now supports bulk imports from Amazon S3 to new DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/)
 - [AWS App Mesh is available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/)
+- [Amazon Chime SDK supports video compositing and merging &lpar;concatenation&rpar; for WebRTC media capture](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/)
 - [Amazon Personalize launches new recommender “Trending-Now” for Video on Demand domain](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-recommender-trending-now-video-on-demand-domain/)
-- [Amazon Chime SDK supports video compositing merging &lpar;concatenation&rpar; for WebRTC media capture](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/)
 - [Center for Internet Security &lpar;CIS&rpar; Benchmark for Bottlerocket is now available](https://aws.amazon.com/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/)
 - [Amazon Chime SDK now supports streaming to Amazon IVS and Elemental MediaLive](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-streaming-ivs-elemental-medialive/)
 - [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
 - [AWS Well-Architected Tool now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-well-architected-tool-available-aws-govcloud-us-regions/)
 - [Announcing wildcard support in Amazon EKS Fargate Profile Selectors](https://aws.amazon.com/about-aws/whats-new/2022/08/wildcard-support-amazon-eks-fargate-profile-selectors/)
 - [Amazon Aurora now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-supports-ipv6/)
-- [Amazon OpenSearch Service now provides improved visibility into validation errors during blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-opensearch-improved-visibility-validation-errors-blue-green-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

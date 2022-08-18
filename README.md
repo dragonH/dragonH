@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/)
 - [Amazon DynamoDB now supports bulk imports from Amazon S3 to new DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/)
 - [AWS App Mesh is available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/)
 - [Amazon Chime SDK supports video compositing and merging &lpar;concatenation&rpar; for WebRTC media capture](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
 - [AWS Well-Architected Tool now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-well-architected-tool-available-aws-govcloud-us-regions/)
 - [Announcing wildcard support in Amazon EKS Fargate Profile Selectors](https://aws.amazon.com/about-aws/whats-new/2022/08/wildcard-support-amazon-eks-fargate-profile-selectors/)
-- [Amazon Aurora now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-supports-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

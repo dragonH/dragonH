@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Categories now support Out of Cycle cost categorization](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-cost-categories-out-of-cycle-cost-categorization/)
 - [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/)
 - [Amazon DynamoDB now supports bulk imports from Amazon S3 to new DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/)
 - [AWS App Mesh is available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Chime SDK now supports streaming to Amazon IVS and Elemental MediaLive](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-streaming-ivs-elemental-medialive/)
 - [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
 - [AWS Well-Architected Tool now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-well-architected-tool-available-aws-govcloud-us-regions/)
-- [Announcing wildcard support in Amazon EKS Fargate Profile Selectors](https://aws.amazon.com/about-aws/whats-new/2022/08/wildcard-support-amazon-eks-fargate-profile-selectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

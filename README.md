@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
 - [AWS Well-Architected Tool now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-well-architected-tool-available-aws-govcloud-us-regions/)
 - [Announcing wildcard support in Amazon EKS Fargate Profile Selectors](https://aws.amazon.com/about-aws/whats-new/2022/08/wildcard-support-amazon-eks-fargate-profile-selectors/)
 - [Amazon Aurora now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-aurora-supports-ipv6/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Canvas enables faster onboarding with automatic data import from local disk](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-canvas-enables-faster-onboarding-automatic-data-import-local-disk/)
 - [AWS Lambda now supports custom Consumer Group IDs for Amazon MSK and Self-Managed Kafka as event sources](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-lambda-consumer-group-ids-msk-kafka-event-sources/)
 - [AWS Ground Station adds support for wideband Digital Intermediate Frequency in Africa &lpar;Cape Town&rpar;, Europe &lpar;Ireland&rpar;, and Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-ground-station-wideband-digital-intermediate-frequency-africa-cape-town-europe-ireland-asia-pacific-singapore/)
-- [Amazon EKS announces cluster-level cost allocation tagging](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-cluster-level-cost-allocation-tagging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

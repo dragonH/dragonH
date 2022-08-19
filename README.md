@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now supports signaling client in C++](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/)
+- [AWS Graviton2-based Amazon EC2 C6gd instances now available in South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6gd-instances-available-south-america-sao-paulo-region/)
+- [Amazon MemoryDB for Redis is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-memorydb-redis-hipaa-eligible/)
 - [Now capture AWS Site-to-Site VPN connection logs using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/)
 - [Smithy Interface Definition Language &lpar;IDL&rpar; 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/smithy-interface-definition-language-idl-2-0-generally-available/)
 - [AWS Control Tower customized log retention](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-control-tower-customized-log-retention/)
@@ -65,9 +68,6 @@
 - [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/)
 - [Amazon DynamoDB now supports bulk imports from Amazon S3 to new DynamoDB tables](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-dynamodb-supports-bulk-imports-amazon-s3-new-dynamodb-tables/)
 - [AWS App Mesh is available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-app-mesh-available-additional-regions/)
-- [Amazon Chime SDK supports video compositing and merging &lpar;concatenation&rpar; for WebRTC media capture](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/)
-- [Amazon Personalize launches new recommender “Trending-Now” for Video on Demand domain](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-recommender-trending-now-video-on-demand-domain/)
-- [Center for Internet Security &lpar;CIS&rpar; Benchmark for Bottlerocket is now available](https://aws.amazon.com/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

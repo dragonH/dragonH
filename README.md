@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now capture AWS Site-to-Site VPN connection logs using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/)
+- [Smithy Interface Definition Language &lpar;IDL&rpar; 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/smithy-interface-definition-language-idl-2-0-generally-available/)
 - [AWS Control Tower customized log retention](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-control-tower-customized-log-retention/)
 - [AWS Cost Categories now support Out of Cycle cost categorization](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-cost-categories-out-of-cycle-cost-categorization/)
 - [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-privatelink-integration-amazon-cloudwatch-contributor-insights/)
@@ -66,8 +68,6 @@
 - [Amazon Chime SDK supports video compositing and merging &lpar;concatenation&rpar; for WebRTC media capture](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-video-compositing-merging-concatenation-webrtc-media-capture/)
 - [Amazon Personalize launches new recommender “Trending-Now” for Video on Demand domain](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-recommender-trending-now-video-on-demand-domain/)
 - [Center for Internet Security &lpar;CIS&rpar; Benchmark for Bottlerocket is now available](https://aws.amazon.com/about-aws/whats-new/2022/08/center-for-internet-security-bottlerocket-available/)
-- [Amazon Chime SDK now supports streaming to Amazon IVS and Elemental MediaLive](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-streaming-ivs-elemental-medialive/)
-- [Amazon QuickSight launches redesigned dashboard experience](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-redesigned-dashboard-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

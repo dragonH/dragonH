@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service now supports refined access control for geofences and tracked devices](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-refined-access-control-geofences-tracked-devices/)
+- [Amazon Forecast now supports what-if analyses](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-forecast-what-if-analyses/)
 - [AWS IoT SiteWise now supports non-unique asset names under different hierarchies](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-non-unique-asset-names-different-hierarchies/)
 - [Amazon Polly now offers Neural TTS support for Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-polly-neural-tts-support-mandarin-chinese/)
 - [Amazon SageMaker is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-available-aws-asia-pacific-jakarta-region/)
@@ -66,8 +68,6 @@
 - [Amazon Chime SDK now supports signaling client in C++](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/)
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-graviton2-based-amazon-ec2-c6gd-instances-available-south-america-sao-paulo-region/)
 - [Amazon MemoryDB for Redis is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-memorydb-redis-hipaa-eligible/)
-- [Now capture AWS Site-to-Site VPN connection logs using Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-site-vpn-connection-logs-amazon-cloudwatch/)
-- [Smithy Interface Definition Language &lpar;IDL&rpar; 2.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/smithy-interface-definition-language-idl-2-0-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS Anywhere Curated Packages now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-anywhere-curated-packages-generally-available/)
 - [Amazon SageMaker Automatic Model Tuning now reuses SageMaker Training instances to reduce start-up overheads by 20x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/)
 - [Amazon RDS for Oracle now supports managed Oracle Data Guard Switchover and Automated Backups for replicas](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/)
 - [Amazon Location Service now supports refined access control for geofences and tracked devices](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-refined-access-control-geofences-tracked-devices/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-available-aws-asia-pacific-jakarta-region/)
 - [Amazon RDS now supports setting up connectivity between your RDS database and EC2 compute instance in 1-click](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-setting-up-connectivity-rds-database-ec2-compute-instance-1-click/)
 - [Amazon Connect launches API to search for security profiles by permission, description, and tags](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-launches-api-search-security-profiles-permission-description-tags/)
-- [Amazon Chime SDK now supports signaling client in C++](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-chime-sdk-supports-signaling-client-c-plus-plus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

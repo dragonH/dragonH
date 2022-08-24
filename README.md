@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF Fraud Control - Account takeover prevention for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-waf-fraud-control-account-takeover-prevention-cloudfront/)
 - [AWS Application Migration Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-available-asia-pacific-jakarta-region/)
 - [AWS Glue is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-available-aws-jakarta-region/)
 - [AWS Support launches support for managing cases in Slack](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-managing-cases-slack/)
@@ -67,7 +68,6 @@
 - [Amazon Location Service now supports refined access control for geofences and tracked devices](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-refined-access-control-geofences-tracked-devices/)
 - [Amazon Forecast now supports what-if analyses](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-forecast-what-if-analyses/)
 - [AWS IoT SiteWise now supports non-unique asset names under different hierarchies](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-non-unique-asset-names-different-hierarchies/)
-- [Amazon Polly now offers Neural TTS support for Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-polly-neural-tts-support-mandarin-chinese/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

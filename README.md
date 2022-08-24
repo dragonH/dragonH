@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Customers can now pay upfront or with scheduled payments using AWS IQ](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iq-customers-pay-upfront-scheduled-payments/)
+- [Amazon EC2 X2idn and X2iedn instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-x2idn-x2iedn-instances-available-asia-pacific-jakarta-region/)
 - [AWS WAF Fraud Control - Account takeover prevention for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-waf-fraud-control-account-takeover-prevention-cloudfront/)
 - [AWS Application Migration Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-available-asia-pacific-jakarta-region/)
 - [AWS Glue is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-available-aws-jakarta-region/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Automatic Model Tuning now reuses SageMaker Training instances to reduce start-up overheads by 20x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/)
 - [Amazon RDS for Oracle now supports managed Oracle Data Guard Switchover and Automated Backups for replicas](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/)
 - [Amazon Location Service now supports refined access control for geofences and tracked devices](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-location-service-supports-refined-access-control-geofences-tracked-devices/)
-- [Amazon Forecast now supports what-if analyses](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-forecast-what-if-analyses/)
-- [AWS IoT SiteWise now supports non-unique asset names under different hierarchies](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-non-unique-asset-names-different-hierarchies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

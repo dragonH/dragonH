@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-available-asia-pacific-jakarta-region/)
+- [AWS Glue is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-available-aws-jakarta-region/)
+- [AWS Support launches support for managing cases in Slack](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-managing-cases-slack/)
 - [Amazon EKS Anywhere Curated Packages now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-anywhere-curated-packages-generally-available/)
 - [Amazon SageMaker Automatic Model Tuning now reuses SageMaker Training instances to reduce start-up overheads by 20x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/)
 - [Amazon RDS for Oracle now supports managed Oracle Data Guard Switchover and Automated Backups for replicas](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/)
@@ -65,9 +68,6 @@
 - [Amazon Forecast now supports what-if analyses](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-forecast-what-if-analyses/)
 - [AWS IoT SiteWise now supports non-unique asset names under different hierarchies](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-sitewise-non-unique-asset-names-different-hierarchies/)
 - [Amazon Polly now offers Neural TTS support for Mandarin Chinese](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-polly-neural-tts-support-mandarin-chinese/)
-- [Amazon SageMaker is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-available-aws-asia-pacific-jakarta-region/)
-- [Amazon RDS now supports setting up connectivity between your RDS database and EC2 compute instance in 1-click](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-setting-up-connectivity-rds-database-ec2-compute-instance-1-click/)
-- [Amazon Connect launches API to search for security profiles by permission, description, and tags](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-launches-api-search-security-profiles-permission-description-tags/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

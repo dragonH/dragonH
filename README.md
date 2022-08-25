@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift now supports AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-gamelift-supports-aws-local-zones/)
 - [AWS IoT TwinMaker launches enhancements for scaling digital twins and building data connectors](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-twinmaker-enhancements-scaling-digital-twins-data-connectors/)
 - [Announcing availability of AWS Outposts rack in Kenya and Oman](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-outposts-rack-kenya-oman/)
 - [Amazon CloudFront launches Origin Access Control &lpar;OAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 X2idn and X2iedn instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-x2idn-x2iedn-instances-available-asia-pacific-jakarta-region/)
 - [AWS WAF Fraud Control - Account takeover prevention for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-waf-fraud-control-account-takeover-prevention-cloudfront/)
 - [AWS Application Migration Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-available-asia-pacific-jakarta-region/)
-- [AWS Glue is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-available-aws-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

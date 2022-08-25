@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT TwinMaker launches enhancements for scaling digital twins and building data connectors](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-twinmaker-enhancements-scaling-digital-twins-data-connectors/)
 - [Announcing availability of AWS Outposts rack in Kenya and Oman](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-outposts-rack-kenya-oman/)
 - [Amazon CloudFront launches Origin Access Control &lpar;OAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/)
 - [Amazon Connect launches the ability to configure business operation days per week for capacity planning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-ability-configure-business-operation-days-week-capacity-planning/)
@@ -67,7 +68,6 @@
 - [AWS WAF Fraud Control - Account takeover prevention for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-waf-fraud-control-account-takeover-prevention-cloudfront/)
 - [AWS Application Migration Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-available-asia-pacific-jakarta-region/)
 - [AWS Glue is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-glue-available-aws-jakarta-region/)
-- [AWS Support launches support for managing cases in Slack](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-managing-cases-slack/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

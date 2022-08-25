@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches the ability to configure business operation days per week for capacity planning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-ability-configure-business-operation-days-week-capacity-planning/)
 - [Amazon QuickSight announces fine-grained visual embedding](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-announces-fine-grained-visual-embedding/)
 - [Customers can now pay upfront or with scheduled payments using AWS IQ](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iq-customers-pay-upfront-scheduled-payments/)
 - [Amazon EC2 X2idn and X2iedn instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-x2idn-x2iedn-instances-available-asia-pacific-jakarta-region/)
@@ -67,7 +68,6 @@
 - [AWS Support launches support for managing cases in Slack](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-support-launches-managing-cases-slack/)
 - [Amazon EKS Anywhere Curated Packages now generally available](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-eks-anywhere-curated-packages-generally-available/)
 - [Amazon SageMaker Automatic Model Tuning now reuses SageMaker Training instances to reduce start-up overheads by 20x](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-reuses-sagemaker-training-instances-reduce-start-up-overheads/)
-- [Amazon RDS for Oracle now supports managed Oracle Data Guard Switchover and Automated Backups for replicas](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-supports-managed-oracle-data-guard-switchover-automated-backups-replicas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

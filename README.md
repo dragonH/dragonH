@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Automatic Model Tuning is now available in the Europe &lpar;Milan&rpar;, Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Osaka&rpar;, and Asia Pacific &lpar;Jakarta&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-available-new-regions/)
 - [Amazon RDS for SQL Server now supports email subscription for SQL Server Reporting Services &lpar;SSRS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-email-subscription-sql-server-reporting-services/)
 - [AWS announces new edge locations in Vietnam](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-new-edge-locations-vietnam/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/red-hat-openshift-service-aws-rosa-available-asia-pacific-jakarta-region/)
@@ -67,7 +68,6 @@
 - [Amazon CloudFront launches Origin Access Control &lpar;OAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/)
 - [Amazon Connect launches the ability to configure business operation days per week for capacity planning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-ability-configure-business-operation-days-week-capacity-planning/)
 - [Amazon QuickSight announces fine-grained visual embedding](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-announces-fine-grained-visual-embedding/)
-- [Customers can now pay upfront or with scheduled payments using AWS IQ](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iq-customers-pay-upfront-scheduled-payments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

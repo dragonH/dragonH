@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports email subscription for SQL Server Reporting Services &lpar;SSRS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-email-subscription-sql-server-reporting-services/)
+- [AWS announces new edge locations in Vietnam](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-new-edge-locations-vietnam/)
+- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/red-hat-openshift-service-aws-rosa-available-asia-pacific-jakarta-region/)
 - [Amazon GameLift now supports AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-gamelift-supports-aws-local-zones/)
 - [AWS IoT TwinMaker launches enhancements for scaling digital twins and building data connectors](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-twinmaker-enhancements-scaling-digital-twins-data-connectors/)
 - [Announcing availability of AWS Outposts rack in Kenya and Oman](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-outposts-rack-kenya-oman/)
@@ -65,9 +68,6 @@
 - [Amazon Connect launches the ability to configure business operation days per week for capacity planning](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-connect-ability-configure-business-operation-days-week-capacity-planning/)
 - [Amazon QuickSight announces fine-grained visual embedding](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-announces-fine-grained-visual-embedding/)
 - [Customers can now pay upfront or with scheduled payments using AWS IQ](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iq-customers-pay-upfront-scheduled-payments/)
-- [Amazon EC2 X2idn and X2iedn instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-ec2-x2idn-x2iedn-instances-available-asia-pacific-jakarta-region/)
-- [AWS WAF Fraud Control - Account takeover prevention for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-waf-fraud-control-account-takeover-prevention-cloudfront/)
-- [AWS Application Migration Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-migration-service-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

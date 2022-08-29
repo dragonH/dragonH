@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub launches announcements notification topic](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-announcements-notification-topic/)
 - [Announcing support for Crawler history in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-crawler-history-aws-glue/)
 - [AWS Firewall Manager adds support for AWS Managed Rules for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-firewall-manager-support-aws-managed-rules-aws-network-firewall/)
 - [Amazon SageMaker Automatic Model Tuning is now available in the Europe &lpar;Milan&rpar;, Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Osaka&rpar;, and Asia Pacific &lpar;Jakarta&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-available-new-regions/)
@@ -67,7 +68,6 @@
 - [Amazon GameLift now supports AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-gamelift-supports-aws-local-zones/)
 - [AWS IoT TwinMaker launches enhancements for scaling digital twins and building data connectors](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-iot-twinmaker-enhancements-scaling-digital-twins-data-connectors/)
 - [Announcing availability of AWS Outposts rack in Kenya and Oman](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-outposts-rack-kenya-oman/)
-- [Amazon CloudFront launches Origin Access Control &lpar;OAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-cloudfront-origin-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

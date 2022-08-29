@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Wrangler accelerates onboarding with sample dataset and guided feature discovery](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-data-wrangler-accelerates-onboarding-sample-dataset-guided-feature-discovery/)
 - [Amazon ElastiCache for Memcached is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-memcached-hipaa-eligible/)
 - [Amazon AppFlow now supports Jira Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-jira-cloud-source/)
 - [Introducing AWS Application Discovery Service Agentless Collector, a new discovery tool for AWS Application Discovery Service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-discovery-service-agentless-collector-discovery-tool-application-discovery-service/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Automatic Model Tuning is now available in the Europe &lpar;Milan&rpar;, Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Osaka&rpar;, and Asia Pacific &lpar;Jakarta&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-automatic-model-tuning-available-new-regions/)
 - [Amazon RDS for SQL Server now supports email subscription for SQL Server Reporting Services &lpar;SSRS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-sql-server-email-subscription-sql-server-reporting-services/)
 - [AWS announces new edge locations in Vietnam](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-new-edge-locations-vietnam/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/red-hat-openshift-service-aws-rosa-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AppFlow now supports Salesforce version 55.0 and additional AWS PrivateLink regions](https://aws.amazon.com/about-aws/whats-new/2022/08/appflow-supports-salesforce-version-55-0-additional-aws-privatelink-regions/)
+- [Amazon Macie adds ability to tune findings with allow lists, and enhances machine learning models to better identify sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-macie-tune-findings-allow-lists-enhances-machine-learning-models-identify-sensitive-data/)
 - [Amazon RDS for Oracle now supports M6i and R6i instances in new regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-m6i-r6i-instances-new-regions/)
 - [Amazon QuickSight launches a new user interface for dataset management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-launches-new-user-interface-dataset-management/)
 - [Announcing VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/)
@@ -66,8 +68,6 @@
 - [Amazon Route 53 Resolver Endpoints announces 99.99% Service Level Agreement and updates its Service Level Agreement for Route 53 hosted zones](https://aws.amazon.com/about-aws/whats-new/2022/08/announces-amazon-route-resolver-endpoints-service-level-agreement-updates-hosted-zones/)
 - [Amazon SageMaker Data Wrangler accelerates onboarding with sample dataset and guided feature discovery](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-data-wrangler-accelerates-onboarding-sample-dataset-guided-feature-discovery/)
 - [Amazon ElastiCache for Memcached is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-memcached-hipaa-eligible/)
-- [Amazon AppFlow now supports Jira Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-jira-cloud-source/)
-- [Introducing AWS Application Discovery Service Agentless Collector, a new discovery tool for AWS Application Discovery Service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-discovery-service-agentless-collector-discovery-tool-application-discovery-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

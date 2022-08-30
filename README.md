@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/)
 - [A new sign-in experience is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-new-sign-in-experience/)
 - [Amazon Personalize expands the number of events considered by filters to make recommendations even more relevant](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-expands-number-events-filters-recommendations-relevant/)
 - [Amazon Route 53 Resolver Endpoints announces 99.99% Service Level Agreement and updates its Service Level Agreement for Route 53 hosted zones](https://aws.amazon.com/about-aws/whats-new/2022/08/announces-amazon-route-resolver-endpoints-service-level-agreement-updates-hosted-zones/)
@@ -67,7 +68,6 @@
 - [Introducing AWS Application Discovery Service Agentless Collector, a new discovery tool for AWS Application Discovery Service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-discovery-service-agentless-collector-discovery-tool-application-discovery-service/)
 - [AWS Security Hub launches announcements notification topic](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-announcements-notification-topic/)
 - [Announcing support for Crawler history in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-crawler-history-aws-glue/)
-- [AWS Firewall Manager adds support for AWS Managed Rules for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-firewall-manager-support-aws-managed-rules-aws-network-firewall/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

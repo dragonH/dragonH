@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports M6i and R6i instances in new regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-m6i-r6i-instances-new-regions/)
 - [Amazon QuickSight launches a new user interface for dataset management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-launches-new-user-interface-dataset-management/)
 - [Announcing VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/)
 - [A new sign-in experience is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-new-sign-in-experience/)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache for Memcached is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-elasticache-memcached-hipaa-eligible/)
 - [Amazon AppFlow now supports Jira Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-jira-cloud-source/)
 - [Introducing AWS Application Discovery Service Agentless Collector, a new discovery tool for AWS Application Discovery Service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-discovery-service-agentless-collector-discovery-tool-application-discovery-service/)
-- [AWS Security Hub launches announcements notification topic](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-announcements-notification-topic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

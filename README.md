@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches a new user interface for dataset management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-launches-new-user-interface-dataset-management/)
 - [Announcing VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/)
 - [A new sign-in experience is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-new-sign-in-experience/)
 - [Amazon Personalize expands the number of events considered by filters to make recommendations even more relevant](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-expands-number-events-filters-recommendations-relevant/)
@@ -67,7 +68,6 @@
 - [Amazon AppFlow now supports Jira Cloud as a source](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-appflow-supports-jira-cloud-source/)
 - [Introducing AWS Application Discovery Service Agentless Collector, a new discovery tool for AWS Application Discovery Service](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-application-discovery-service-agentless-collector-discovery-tool-application-discovery-service/)
 - [AWS Security Hub launches announcements notification topic](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-security-hub-announcements-notification-topic/)
-- [Announcing support for Crawler history in AWS Glue](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-crawler-history-aws-glue/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Workload Consolidation for Karpenter](https://aws.amazon.com/about-aws/whats-new/2022/08/workload-consolidation-karpenter/)
+- [EBS Recycle Bin is now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/08/ebs-recycle-bin-aws-govcloud-us-regions/)
 - [EBS Recycle Bin is now available in  the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/ebs-recycle-bin-asia-pacific-jakarta-region/)
 - [AWS Fargate announces availability of Microsoft Windows Server 2022 images for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-fargate-microsoft-windows-server-2022-images-amazon-ecs/)
 - [AWS Step Functions adds 14 new intrinsic functions so you can process data more efficiently in workflows.](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-step-functions-14-new-intrinsic-features-process-data-workflows/)
@@ -66,8 +68,6 @@
 - [Amazon Macie adds ability to tune findings with allow lists, and enhances machine learning models to better identify sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-macie-tune-findings-allow-lists-enhances-machine-learning-models-identify-sensitive-data/)
 - [Amazon RDS for Oracle now supports M6i and R6i instances in new regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-m6i-r6i-instances-new-regions/)
 - [Amazon QuickSight launches a new user interface for dataset management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-launches-new-user-interface-dataset-management/)
-- [Announcing VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2022/08/announcing-vmware-cloud-aws-integration-amazon-fsx-netapp-ontap/)
-- [A new sign-in experience is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-new-sign-in-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions adds 14 new intrinsic functions so you can process data more efficiently in workflows.](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-step-functions-14-new-intrinsic-features-process-data-workflows/)
 - [AWS announces open-sourced credentials-fetcher to simplify Microsoft AD access from Linux containers](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-open-sourced-credentials-fetcher-simplify-microsoft-ad-access-linux-containers/)
 - [AppFlow now supports Salesforce version 55.0 and additional AWS PrivateLink regions](https://aws.amazon.com/about-aws/whats-new/2022/08/appflow-supports-salesforce-version-55-0-additional-aws-privatelink-regions/)
 - [Amazon Macie adds ability to tune findings with allow lists, and enhances machine learning models to better identify sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-macie-tune-findings-allow-lists-enhances-machine-learning-models-identify-sensitive-data/)
@@ -67,7 +68,6 @@
 - [A new sign-in experience is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-new-sign-in-experience/)
 - [Amazon Personalize expands the number of events considered by filters to make recommendations even more relevant](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-personalize-expands-number-events-filters-recommendations-relevant/)
 - [Amazon Route 53 Resolver Endpoints announces 99.99% Service Level Agreement and updates its Service Level Agreement for Route 53 hosted zones](https://aws.amazon.com/about-aws/whats-new/2022/08/announces-amazon-route-resolver-endpoints-service-level-agreement-updates-hosted-zones/)
-- [Amazon SageMaker Data Wrangler accelerates onboarding with sample dataset and guided feature discovery](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-sagemaker-data-wrangler-accelerates-onboarding-sample-dataset-guided-feature-discovery/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

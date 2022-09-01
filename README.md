@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Inspector now supports Windows operating system &lpar;OS&rpar; for continual software vulnerability scanning of EC2 workloads](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-inspector-windows-os-continual-software-vulnerability-scanning-ec2-workloads/)
+- [Amazon Athena is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-athena-available-asia-pacific-jakarta-region/)
+- [Amazon RDS for PostgreSQL supports new minor version 14.4](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-postgresql-supports-new-minor-version-14-4/)
+- [Amazon Polly NTTS voices now available in Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-ntts-voices-available-asia-pacific-mumbai/)
 - [Announcing new AWS IAM Identity Center &lpar;successor to AWS SSO&rpar; APIs to manage users and groups at scale](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iam-identity-center-apis-manage-users-groups-scale/)
 - [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-directory-service-microsoft-active-directory-ad-connector-jakarta-region/)
 - [Announcing Workload Consolidation for Karpenter](https://aws.amazon.com/about-aws/whats-new/2022/08/workload-consolidation-karpenter/)
 - [EBS Recycle Bin is now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/08/ebs-recycle-bin-aws-govcloud-us-regions/)
 - [EBS Recycle Bin is now available in  the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/ebs-recycle-bin-asia-pacific-jakarta-region/)
 - [AWS Fargate announces availability of Microsoft Windows Server 2022 images for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-fargate-microsoft-windows-server-2022-images-amazon-ecs/)
-- [AWS Step Functions adds 14 new intrinsic functions so you can process data more efficiently in workflows.](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-step-functions-14-new-intrinsic-features-process-data-workflows/)
-- [AWS announces open-sourced credentials-fetcher to simplify Microsoft AD access from Linux containers](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-open-sourced-credentials-fetcher-simplify-microsoft-ad-access-linux-containers/)
-- [AppFlow now supports Salesforce version 55.0 and additional AWS PrivateLink regions](https://aws.amazon.com/about-aws/whats-new/2022/08/appflow-supports-salesforce-version-55-0-additional-aws-privatelink-regions/)
-- [Amazon Macie adds ability to tune findings with allow lists, and enhances machine learning models to better identify sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-macie-tune-findings-allow-lists-enhances-machine-learning-models-identify-sensitive-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

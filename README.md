@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new AWS IAM Identity Center &lpar;successor to AWS SSO&rpar; APIs to manage users and groups at scale](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iam-identity-center-apis-manage-users-groups-scale/)
+- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-directory-service-microsoft-active-directory-ad-connector-jakarta-region/)
 - [Announcing Workload Consolidation for Karpenter](https://aws.amazon.com/about-aws/whats-new/2022/08/workload-consolidation-karpenter/)
 - [EBS Recycle Bin is now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/08/ebs-recycle-bin-aws-govcloud-us-regions/)
 - [EBS Recycle Bin is now available in  the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/08/ebs-recycle-bin-asia-pacific-jakarta-region/)
@@ -66,8 +68,6 @@
 - [AWS announces open-sourced credentials-fetcher to simplify Microsoft AD access from Linux containers](https://aws.amazon.com/about-aws/whats-new/2022/08/aws-open-sourced-credentials-fetcher-simplify-microsoft-ad-access-linux-containers/)
 - [AppFlow now supports Salesforce version 55.0 and additional AWS PrivateLink regions](https://aws.amazon.com/about-aws/whats-new/2022/08/appflow-supports-salesforce-version-55-0-additional-aws-privatelink-regions/)
 - [Amazon Macie adds ability to tune findings with allow lists, and enhances machine learning models to better identify sensitive data](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-macie-tune-findings-allow-lists-enhances-machine-learning-models-identify-sensitive-data/)
-- [Amazon RDS for Oracle now supports M6i and R6i instances in new regions](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-rds-oracle-m6i-r6i-instances-new-regions/)
-- [Amazon QuickSight launches a new user interface for dataset management](https://aws.amazon.com/about-aws/whats-new/2022/08/amazon-quicksight-launches-new-user-interface-dataset-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

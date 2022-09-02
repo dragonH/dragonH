@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Trusted Advisor adds check for Microsoft Windows Server end of support on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/)
+- [AWS Fargate is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-available-middle-east-uae-region/)
 - [Amazon Connect launches AWS CloudFormation support for instance creation](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-aws-cloudformation-support-instance-creation/)
 - [Automate AWS Control Tower guardrail management through APIs](https://aws.amazon.com/about-aws/whats-new/2022/09/automate-aws-control-tower-guardrail-management-apis/)
 - [AWS GameKit adds Unity Support](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-gamekit-unity-support/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight Q Authors can now identify questions that Q did not answer or required user disambiguation to generate an answer](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-q-authors-identify-questions-q-did-not-answer-required-user-disambiguation-generate-answer/)
 - [AWS Config conformance pack templates can now be stored in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-conformance-pack-templates-stored-aws-systems-manager/)
 - [AWS SAM CLI esbuild support is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-sam-cli-esbuild-support-available/)
-- [Amazon EBS adds the ability to take crash-consistent snapshots of a subset of EBS volumes attached  to an Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ebs-ability-take-crash-consistent-snapshots-subset-ebs-volumes-attached-amazon-ec2-instance/)
-- [Enterprise On-Ramp Support is now supported with AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2022/09/enterprise-on-ramp-supported-aws-outposts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Prometheus Alert Manager &amp; Ruler logs now available in Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-service-prometheus-alert-manager-ruler-logs-available-amazon-cloudwatch-logs/)
 - [AWS Trusted Advisor adds check for Microsoft Windows Server end of support on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/)
 - [AWS Fargate is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-available-middle-east-uae-region/)
 - [Amazon Connect launches AWS CloudFormation support for instance creation](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-aws-cloudformation-support-instance-creation/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Autopilot now provides custom data split options along with an improved experience for creating  an AutoML experiment](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-custom-data-split-improved-automl-experiment/)
 - [Amazon QuickSight Q Authors can now identify questions that Q did not answer or required user disambiguation to generate an answer](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-q-authors-identify-questions-q-did-not-answer-required-user-disambiguation-generate-answer/)
 - [AWS Config conformance pack templates can now be stored in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-conformance-pack-templates-stored-aws-systems-manager/)
-- [AWS SAM CLI esbuild support is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-sam-cli-esbuild-support-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

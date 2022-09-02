@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches API to search for queues by name, description and tags](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-launches-api-search-queues-name-description-tags/)
+- [Amazon Connect launches API to search for routing profiles by name, description, and tags.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-api-search-routing-profiles-name-description-tags/)
 - [Amazon Managed Service for Prometheus Alert Manager &amp; Ruler logs now available in Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-service-prometheus-alert-manager-ruler-logs-available-amazon-cloudwatch-logs/)
 - [AWS Trusted Advisor adds check for Microsoft Windows Server end of support on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/)
 - [AWS Fargate is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-available-middle-east-uae-region/)
@@ -66,8 +68,6 @@
 - [AWS GameKit adds Unity Support](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-gamekit-unity-support/)
 - [Custom forecast frequencies now supported in Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2022/09/custom-forecast-frequencies-supported-amazon-forecast/)
 - [Amazon SageMaker Autopilot now provides custom data split options along with an improved experience for creating  an AutoML experiment](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-custom-data-split-improved-automl-experiment/)
-- [Amazon QuickSight Q Authors can now identify questions that Q did not answer or required user disambiguation to generate an answer](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-q-authors-identify-questions-q-did-not-answer-required-user-disambiguation-generate-answer/)
-- [AWS Config conformance pack templates can now be stored in AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-conformance-pack-templates-stored-aws-systems-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

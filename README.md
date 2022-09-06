@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Voice ID now detects fraud risk from voice spoofing during customer calls](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-voice-id-detects-fraud-risk-voice-spoofing-customer-calls/)
+- [AWS App Runner now supports Amazon Route 53 alias record for root domain name](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/)
 - [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon RDS, AWS Lambda, AWS Step Functions, Amazon Managed Service for Prometheus, and AWS KMS now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/)
 - [Amazon DynamoDB now supports up to 100 actions per transaction](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-dynamodb-supports-100-actions-per-transaction/)
 - [Amazon Connect launches API to search for queues by name, description and tags](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-launches-api-search-queues-name-description-tags/)
@@ -66,8 +68,6 @@
 - [AWS Trusted Advisor adds check for Microsoft Windows Server end of support on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/)
 - [AWS Fargate is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-available-middle-east-uae-region/)
 - [Amazon Connect launches AWS CloudFormation support for instance creation](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-aws-cloudformation-support-instance-creation/)
-- [Automate AWS Control Tower guardrail management through APIs](https://aws.amazon.com/about-aws/whats-new/2022/09/automate-aws-control-tower-guardrail-management-apis/)
-- [AWS GameKit adds Unity Support](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-gamekit-unity-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

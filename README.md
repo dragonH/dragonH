@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowball is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-snowball-available-asia-pacific-jakarta-region/)
 - [Amazon Lookout for Metrics increases limits on number of measures and dimensions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-increases-limits-number-measures-dimensions/)
 - [Announcing new AWS Console Home widgets for recent AWS blog posts and launch announcements](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-console-home-widgets-blog-post-launch-announcements/)
 - [Easily process your data while using Amazon Lookout for metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-easily-process-data/)
@@ -67,7 +68,6 @@
 - [Amazon DynamoDB now supports up to 100 actions per transaction](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-dynamodb-supports-100-actions-per-transaction/)
 - [Amazon Connect launches API to search for queues by name, description and tags](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-launches-api-search-queues-name-description-tags/)
 - [Amazon Connect launches API to search for routing profiles by name, description, and tags.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-api-search-routing-profiles-name-description-tags/)
-- [Amazon Managed Service for Prometheus Alert Manager &amp; Ruler logs now available in Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-service-prometheus-alert-manager-ruler-logs-available-amazon-cloudwatch-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

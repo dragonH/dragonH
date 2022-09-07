@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lookout for Metrics increases limits on number of measures and dimensions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-increases-limits-number-measures-dimensions/)
 - [Announcing new AWS Console Home widgets for recent AWS blog posts and launch announcements](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-console-home-widgets-blog-post-launch-announcements/)
 - [Easily process your data while using Amazon Lookout for metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-easily-process-data/)
 - [Amazon Connect Voice ID now detects fraud risk from voice spoofing during customer calls](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-voice-id-detects-fraud-risk-voice-spoofing-customer-calls/)
@@ -67,7 +68,6 @@
 - [Amazon Connect launches API to search for queues by name, description and tags](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-launches-api-search-queues-name-description-tags/)
 - [Amazon Connect launches API to search for routing profiles by name, description, and tags.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-api-search-routing-profiles-name-description-tags/)
 - [Amazon Managed Service for Prometheus Alert Manager &amp; Ruler logs now available in Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-service-prometheus-alert-manager-ruler-logs-available-amazon-cloudwatch-logs/)
-- [AWS Trusted Advisor adds check for Microsoft Windows Server end of support on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-trusted-advisor-check-microsoft-windows-server-end-of-support-amazon-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

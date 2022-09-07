@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MemoryDB for Redis is now available in the AWS Europe &lpar;Paris and Milan&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-memorydb-redis-aws-europe-paris-milan-regions/)
 - [AWS Snowball is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-snowball-available-asia-pacific-jakarta-region/)
 - [Amazon Lookout for Metrics increases limits on number of measures and dimensions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-increases-limits-number-measures-dimensions/)
 - [Announcing new AWS Console Home widgets for recent AWS blog posts and launch announcements](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-console-home-widgets-blog-post-launch-announcements/)
@@ -67,7 +68,6 @@
 - [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon RDS, AWS Lambda, AWS Step Functions, Amazon Managed Service for Prometheus, and AWS KMS now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/)
 - [Amazon DynamoDB now supports up to 100 actions per transaction](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-dynamodb-supports-100-actions-per-transaction/)
 - [Amazon Connect launches API to search for queues by name, description and tags](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-launches-api-search-queues-name-description-tags/)
-- [Amazon Connect launches API to search for routing profiles by name, description, and tags.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-api-search-routing-profiles-name-description-tags/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

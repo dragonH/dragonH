@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas announces additional capabilities to explore and analyze data with advanced visualizations](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-additional-capabilities-explore-analyze-data-advanced-visualizations/)
 - [Introducing Seekable OCI for lazy loading container images](https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/)
 - [AWS Transit Gateway Connect is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-two-additional-regions/)
 - [AWS Transit Gateway adds Internet Group Management Protocol &lpar;IGMP&rpar; Multicast support in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-internet-group-management-protocol-igmp-multicast-support-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight Q is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-q-available-new-regions/)
 - [Amazon EC2 C6id, M6id and R6id instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-c6id-m6id-r6id-instances-additional-region/)
 - [SageMaker built-in algorithms now provides TensorFlow Image Classification algorithms](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-built-in-algorithms-tensorflow-image-classification-algorithms/)
-- [Amazon Managed Blockchain &lpar;AMB&rpar; is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-blockchain-amb-available-aws-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

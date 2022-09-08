@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Seekable OCI for lazy loading container images](https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/)
+- [AWS Transit Gateway Connect is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-two-additional-regions/)
+- [AWS Transit Gateway adds Internet Group Management Protocol &lpar;IGMP&rpar; Multicast support in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-internet-group-management-protocol-igmp-multicast-support-additional-regions/)
+- [AWS Backup adds Amazon CloudWatch metrics to its console dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-amazon-cloudwatch-metrics-console-dashboard/)
+- [AWS CloudFormation announces new language extensions transform](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-new-language-extensions-transform/)
 - [Now track user identity for API calls from Amazon SageMaker Studio in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/09/track-user-identity-api-calls-amazon-sagemaker-studio-aws-cloudtrail/)
 - [Amazon QuickSight Q is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-q-available-new-regions/)
 - [Amazon EC2 C6id, M6id and R6id instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-c6id-m6id-r6id-instances-additional-region/)
 - [SageMaker built-in algorithms now provides TensorFlow Image Classification algorithms](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-built-in-algorithms-tensorflow-image-classification-algorithms/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-blockchain-amb-available-aws-govcloud-us-west-region/)
-- [Amazon MemoryDB for Redis is now available in the AWS Europe &lpar;Paris and Milan&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-memorydb-redis-aws-europe-paris-milan-regions/)
-- [AWS Snowball is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-snowball-available-asia-pacific-jakarta-region/)
-- [Amazon Lookout for Metrics increases limits on number of measures and dimensions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-increases-limits-number-measures-dimensions/)
-- [Announcing new AWS Console Home widgets for recent AWS blog posts and launch announcements](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-console-home-widgets-blog-post-launch-announcements/)
-- [Easily process your data while using Amazon Lookout for metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-easily-process-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

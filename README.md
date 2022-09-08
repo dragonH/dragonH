@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; Flow Logs can now be delivered to Amazon Kinesis Firehose](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-vpc-flow-logs-delivered-amazon-kinesis-firehose/)
+- [AWS Security Hub launches 2 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-2-new-security-best-practice-controls/)
+- [AWS Fargate announces migration of service quotas to vCPU-based quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-announces-migration-service-quotas-vcpu-based/)
 - [Amazon SageMaker Canvas announces additional capabilities to explore and analyze data with advanced visualizations](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-additional-capabilities-explore-analyze-data-advanced-visualizations/)
 - [Introducing Seekable OCI for lazy loading container images](https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/)
 - [AWS Transit Gateway Connect is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-two-additional-regions/)
@@ -65,9 +68,6 @@
 - [AWS Backup adds Amazon CloudWatch metrics to its console dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-amazon-cloudwatch-metrics-console-dashboard/)
 - [AWS CloudFormation announces new language extensions transform](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-new-language-extensions-transform/)
 - [Now track user identity for API calls from Amazon SageMaker Studio in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/09/track-user-identity-api-calls-amazon-sagemaker-studio-aws-cloudtrail/)
-- [Amazon QuickSight Q is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-q-available-new-regions/)
-- [Amazon EC2 C6id, M6id and R6id instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-c6id-m6id-r6id-instances-additional-region/)
-- [SageMaker built-in algorithms now provides TensorFlow Image Classification algorithms](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-built-in-algorithms-tensorflow-image-classification-algorithms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

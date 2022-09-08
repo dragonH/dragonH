@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6id, M6id and R6id instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-c6id-m6id-r6id-instances-additional-region/)
+- [SageMaker built-in algorithms now provides TensorFlow Image Classification algorithms](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-built-in-algorithms-tensorflow-image-classification-algorithms/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-blockchain-amb-available-aws-govcloud-us-west-region/)
 - [Amazon MemoryDB for Redis is now available in the AWS Europe &lpar;Paris and Milan&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-memorydb-redis-aws-europe-paris-milan-regions/)
 - [AWS Snowball is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-snowball-available-asia-pacific-jakarta-region/)
@@ -66,8 +68,6 @@
 - [Easily process your data while using Amazon Lookout for metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lookout-metrics-easily-process-data/)
 - [Amazon Connect Voice ID now detects fraud risk from voice spoofing during customer calls](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-voice-id-detects-fraud-risk-voice-spoofing-customer-calls/)
 - [AWS App Runner now supports Amazon Route 53 alias record for root domain name](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-amazon-route-53-alias-record-root-domain-name/)
-- [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon RDS, AWS Lambda, AWS Step Functions, Amazon Managed Service for Prometheus, and AWS KMS now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-controllers-kubernetes-ack-rds-lambda-step-functions-prometheus-kms/)
-- [Amazon DynamoDB now supports up to 100 actions per transaction](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-dynamodb-supports-100-actions-per-transaction/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

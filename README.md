@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize increases limits for all customers, simplifying large scale deployments](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-personalize-increases-limits-customers-large-scale-deployments/)
 - [Amazon Kinesis Data Analytics for Apache Flink supports three new container level metrics and improved CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kinesis-data-analytics-apache-flink-three-container-level-metrics-cloudformation-support/)
 - [Amazon SageMaker now supports deploying large models through configurable volume size and timeout quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-deploying-large-models-volume-size-timeout-quotas/)
 - [Amazon Quicksight adds Missing Data control for line and area charts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-adds-missing-data-control-line-area-charts/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub launches 2 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-2-new-security-best-practice-controls/)
 - [AWS Fargate announces migration of service quotas to vCPU-based quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-announces-migration-service-quotas-vcpu-based/)
 - [Amazon SageMaker Canvas announces additional capabilities to explore and analyze data with advanced visualizations](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-additional-capabilities-explore-analyze-data-advanced-visualizations/)
-- [Introducing Seekable OCI for lazy loading container images](https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

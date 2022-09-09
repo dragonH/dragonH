@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS introduces the public preview of message data protection to help discover and protect sensitive data in motion](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-preview-message-data-protection-sensitive-data-in-motion/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Flow Logs can now be delivered to Amazon Kinesis Firehose](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-vpc-flow-logs-delivered-amazon-kinesis-firehose/)
 - [AWS Security Hub launches 2 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-2-new-security-best-practice-controls/)
 - [AWS Fargate announces migration of service quotas to vCPU-based quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-announces-migration-service-quotas-vcpu-based/)
@@ -67,7 +68,6 @@
 - [AWS Transit Gateway adds Internet Group Management Protocol &lpar;IGMP&rpar; Multicast support in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-internet-group-management-protocol-igmp-multicast-support-additional-regions/)
 - [AWS Backup adds Amazon CloudWatch metrics to its console dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-amazon-cloudwatch-metrics-console-dashboard/)
 - [AWS CloudFormation announces new language extensions transform](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-new-language-extensions-transform/)
-- [Now track user identity for API calls from Amazon SageMaker Studio in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/09/track-user-identity-api-calls-amazon-sagemaker-studio-aws-cloudtrail/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

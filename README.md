@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quicksight adds Missing Data control for line and area charts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-adds-missing-data-control-line-area-charts/)
+- [Amazon Cognito enables time-based-one-time-password &lpar;TOTP&rpar; self-enrollment in hosted UI](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cognito-enables-time-based-one-time-password-totp-self-enrollment-hosted-ui/)
 - [Amazon WorkDocs adds support for Apple Silicon MacBooks](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-workdocs-support-apple-silicon-macbooks/)
 - [Amazon SNS introduces the public preview of message data protection to help discover and protect sensitive data in motion](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-preview-message-data-protection-sensitive-data-in-motion/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Flow Logs can now be delivered to Amazon Kinesis Firehose](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-vpc-flow-logs-delivered-amazon-kinesis-firehose/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Canvas announces additional capabilities to explore and analyze data with advanced visualizations](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-additional-capabilities-explore-analyze-data-advanced-visualizations/)
 - [Introducing Seekable OCI for lazy loading container images](https://aws.amazon.com/about-aws/whats-new/2022/09/introducing-seekable-oci-lazy-loading-container-images/)
 - [AWS Transit Gateway Connect is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-two-additional-regions/)
-- [AWS Transit Gateway adds Internet Group Management Protocol &lpar;IGMP&rpar; Multicast support in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transit-gateway-internet-group-management-protocol-igmp-multicast-support-additional-regions/)
-- [AWS Backup adds Amazon CloudWatch metrics to its console dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-amazon-cloudwatch-metrics-console-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

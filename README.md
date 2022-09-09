@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the composite slot type for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lex-composite-slot-type/)
+- [AWS Firewall Manager adds support for AWS WAF custom requests and responses](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-firewall-manager-support-aws-waf-custom-requests-responses/)
+- [AWS Security Hub launches a new security best practice control](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-new-security-best-practice-control/)
+- [Applications using Amazon SNS to send SMS can now be hosted in four new regions](https://aws.amazon.com/about-aws/whats-new/2022/09/applications-amazon-sns-send-sms-now-hosted-new-regions/)
+- [Amazon RDS for MySQL supports new minor version 8.0.30](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version/)
 - [Amazon Personalize increases limits for all customers, simplifying large scale deployments](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-personalize-increases-limits-customers-large-scale-deployments/)
 - [Amazon Kinesis Data Analytics for Apache Flink supports three new container level metrics and improved CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kinesis-data-analytics-apache-flink-three-container-level-metrics-cloudformation-support/)
 - [Amazon SageMaker now supports deploying large models through configurable volume size and timeout quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-deploying-large-models-volume-size-timeout-quotas/)
 - [Amazon Quicksight adds Missing Data control for line and area charts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-adds-missing-data-control-line-area-charts/)
 - [Amazon Cognito enables time-based-one-time-password &lpar;TOTP&rpar; self-enrollment in hosted UI](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cognito-enables-time-based-one-time-password-totp-self-enrollment-hosted-ui/)
-- [Amazon SNS introduces the public preview of message data protection to help discover and protect sensitive data in motion](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-preview-message-data-protection-sensitive-data-in-motion/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; Flow Logs can now be delivered to Amazon Kinesis Firehose](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-vpc-flow-logs-delivered-amazon-kinesis-firehose/)
-- [AWS Security Hub launches 2 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-2-new-security-best-practice-controls/)
-- [AWS Fargate announces migration of service quotas to vCPU-based quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-announces-migration-service-quotas-vcpu-based/)
-- [Amazon SageMaker Canvas announces additional capabilities to explore and analyze data with advanced visualizations](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-additional-capabilities-explore-analyze-data-advanced-visualizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

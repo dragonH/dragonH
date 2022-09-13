@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker Studio now supports Glue Interactive Sessions](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-studio-supports-glue-interactive-sessions/)
+- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-stockholm-region/)
 - [Amazon SWF launches new console experience](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-swf-new-console-experience/)
 - [Amazon EC2 X2idn and X2iedn instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-x2idn-x2iedn-instances-available-europe-paris-region/)
 - [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-lustre-available-jakarta-region/)
@@ -66,8 +68,6 @@
 - [AWS Security Hub launches a new security best practice control](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-new-security-best-practice-control/)
 - [Applications using Amazon SNS to send SMS can now be hosted in four new regions](https://aws.amazon.com/about-aws/whats-new/2022/09/applications-amazon-sns-send-sms-now-hosted-new-regions/)
 - [Amazon RDS for MySQL supports new minor version 8.0.30](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version/)
-- [Amazon Personalize increases limits for all customers, simplifying large scale deployments](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-personalize-increases-limits-customers-large-scale-deployments/)
-- [Amazon Kinesis Data Analytics for Apache Flink supports three new container level metrics and improved CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kinesis-data-analytics-apache-flink-three-container-level-metrics-cloudformation-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Monitor Amazon EMR Serverless applications in near real-time with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/monitor-amazon-emr-serverless-applications-near-real-time-cloudwatch-metrics/)
 - [SageMaker Studio now supports Glue Interactive Sessions](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-studio-supports-glue-interactive-sessions/)
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-stockholm-region/)
 - [Amazon SWF launches new console experience](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-swf-new-console-experience/)
@@ -67,7 +68,6 @@
 - [AWS Firewall Manager adds support for AWS WAF custom requests and responses](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-firewall-manager-support-aws-waf-custom-requests-responses/)
 - [AWS Security Hub launches a new security best practice control](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-new-security-best-practice-control/)
 - [Applications using Amazon SNS to send SMS can now be hosted in four new regions](https://aws.amazon.com/about-aws/whats-new/2022/09/applications-amazon-sns-send-sms-now-hosted-new-regions/)
-- [Amazon RDS for MySQL supports new minor version 8.0.30](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SWF launches new console experience](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-swf-new-console-experience/)
+- [Amazon EC2 X2idn and X2iedn instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-x2idn-x2iedn-instances-available-europe-paris-region/)
+- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-lustre-available-jakarta-region/)
 - [Announcing the composite slot type for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lex-composite-slot-type/)
 - [AWS Firewall Manager adds support for AWS WAF custom requests and responses](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-firewall-manager-support-aws-waf-custom-requests-responses/)
 - [AWS Security Hub launches a new security best practice control](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-security-hub-new-security-best-practice-control/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for MySQL supports new minor version 8.0.30](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version/)
 - [Amazon Personalize increases limits for all customers, simplifying large scale deployments](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-personalize-increases-limits-customers-large-scale-deployments/)
 - [Amazon Kinesis Data Analytics for Apache Flink supports three new container level metrics and improved CloudFormation support](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kinesis-data-analytics-apache-flink-three-container-level-metrics-cloudformation-support/)
-- [Amazon SageMaker now supports deploying large models through configurable volume size and timeout quotas](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-deploying-large-models-volume-size-timeout-quotas/)
-- [Amazon Quicksight adds Missing Data control for line and area charts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-quicksight-adds-missing-data-control-line-area-charts/)
-- [Amazon Cognito enables time-based-one-time-password &lpar;TOTP&rpar; self-enrollment in hosted UI](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cognito-enables-time-based-one-time-password-totp-self-enrollment-hosted-ui/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

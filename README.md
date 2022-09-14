@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Direct VPC routing for AWS Outposts rack is now available](https://aws.amazon.com/about-aws/whats-new/2022/09/direct-vpc-routing-aws-outposts-rack/)
 - [Amazon RDS for Oracle now supports the instance store for temporary tablespace and the Database Smart Flash Cache for M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-oracle-instance-store-temporary-tablespace-database-smart-flash-cache-m5d-r5d/)
 - [AWS Config announces a price reduction up to 58% for conformance packs](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-price-reduction-58-percent-conformance-packs/)
 - [Introducing Visual Conversation builder for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-visual-conversation-builder/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer Profiles now supports Amazon AppFlow connectors](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-customer-profiles-supports-amazon-appflow-connectors/)
 - [AWS Cloud Development Kit &lpar;CDK&rpar; announces CDK Construct tree view in the AWS CloudFormation console](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-development-kit-cdk-announces-cdk-construct-tree-view-cloudformation-console/)
 - [AWS Transfer Family now supports multiple host keys and key types per server](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/)
-- [Amazon RDS Performance Insights now supports displaying top 25 SQL queries](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-performance-insights-displaying-top-25-sql-queries/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

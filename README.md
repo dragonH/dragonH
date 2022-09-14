@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports the instance store for temporary tablespace and the Database Smart Flash Cache for M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-oracle-instance-store-temporary-tablespace-database-smart-flash-cache-m5d-r5d/)
+- [AWS Config announces a price reduction up to 58% for conformance packs](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-price-reduction-58-percent-conformance-packs/)
+- [Introducing Visual Conversation builder for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-visual-conversation-builder/)
 - [AWS Backup Audit Manager is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-audit-manager-available-africa-cape-town-europe-milan/)
 - [AWS IoT Device Defender ML Detect Custom Metrics and Dimensions support](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-defender-ml-detect-custom-metrics-dimensions-support/)
 - [AWS Certificate Manager &lpar;ACM&rpar; for Nitro Enclaves now supports Apache HTTP webservers](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-certificate-manager-nitro-enclaves-supports-apache-http-webservers/)
@@ -65,9 +68,6 @@
 - [AWS Cloud Development Kit &lpar;CDK&rpar; announces CDK Construct tree view in the AWS CloudFormation console](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-development-kit-cdk-announces-cdk-construct-tree-view-cloudformation-console/)
 - [AWS Transfer Family now supports multiple host keys and key types per server](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/)
 - [Amazon RDS Performance Insights now supports displaying top 25 SQL queries](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-performance-insights-displaying-top-25-sql-queries/)
-- [Amazon WorkSpaces is available in the  Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-workspaces-available-africa-cape-town-region/)
-- [Monitor Amazon EMR Serverless applications in near real-time with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/monitor-amazon-emr-serverless-applications-near-real-time-cloudwatch-metrics/)
-- [SageMaker Studio now supports Glue Interactive Sessions](https://aws.amazon.com/about-aws/whats-new/2022/09/sagemaker-studio-supports-glue-interactive-sessions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

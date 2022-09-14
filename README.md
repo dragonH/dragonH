@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family now supports multiple host keys and key types per server](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/)
 - [Amazon RDS Performance Insights now supports displaying top 25 SQL queries](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-performance-insights-displaying-top-25-sql-queries/)
 - [Amazon WorkSpaces is available in the  Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-workspaces-available-africa-cape-town-region/)
 - [Monitor Amazon EMR Serverless applications in near real-time with CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/09/monitor-amazon-emr-serverless-applications-near-real-time-cloudwatch-metrics/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 X2idn and X2iedn instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-x2idn-x2iedn-instances-available-europe-paris-region/)
 - [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-lustre-available-jakarta-region/)
 - [Announcing the composite slot type for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-lex-composite-slot-type/)
-- [AWS Firewall Manager adds support for AWS WAF custom requests and responses](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-firewall-manager-support-aws-waf-custom-requests-responses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

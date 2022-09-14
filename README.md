@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles now supports Amazon AppFlow connectors](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-customer-profiles-supports-amazon-appflow-connectors/)
 - [AWS Cloud Development Kit &lpar;CDK&rpar; announces CDK Construct tree view in the AWS CloudFormation console](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-development-kit-cdk-announces-cdk-construct-tree-view-cloudformation-console/)
 - [AWS Transfer Family now supports multiple host keys and key types per server](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/)
 - [Amazon RDS Performance Insights now supports displaying top 25 SQL queries](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-performance-insights-displaying-top-25-sql-queries/)
@@ -67,7 +68,6 @@
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-stockholm-region/)
 - [Amazon SWF launches new console experience](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-swf-new-console-experience/)
 - [Amazon EC2 X2idn and X2iedn instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ec2-x2idn-x2iedn-instances-available-europe-paris-region/)
-- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-lustre-available-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

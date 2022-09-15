@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink announces enhanced tagging capability for service owners](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-privatelink-announces-enhanced-tagging-capability-service-owners/)
+- [Local gateway ingress routing for AWS Outposts rack is now available](https://aws.amazon.com/about-aws/whats-new/2022/09/local-gateway-ingress-routing-aws-outposts-rack-now-available/)
 - [AWS Systems Manager now supports patching newer versions of SUSE Linux Enterprise Server, Oracle Linux, and Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-newer-versions-suse-linux-enterprise-server-oracle-linux-red-hat-enterprise-linux/)
 - [FreeRTOS Extended Maintenance Plan registration now open](https://aws.amazon.com/about-aws/whats-new/2022/09/freertos-extended-maintenance-plan-registration-open/)
 - [AWS Enterprise Support launches AWS Incident Detection and Response](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-enterprise-support-aws-incident-detection-response/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Oracle now supports the instance store for temporary tablespace and the Database Smart Flash Cache for M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-oracle-instance-store-temporary-tablespace-database-smart-flash-cache-m5d-r5d/)
 - [AWS Config announces a price reduction up to 58% for conformance packs](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-price-reduction-58-percent-conformance-packs/)
 - [Introducing Visual Conversation builder for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-visual-conversation-builder/)
-- [AWS Backup Audit Manager is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-audit-manager-available-africa-cape-town-europe-milan/)
-- [AWS IoT Device Defender ML Detect Custom Metrics and Dimensions support](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-defender-ml-detect-custom-metrics-dimensions-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

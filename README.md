@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AppFlow now supports deleting records in Salesforce](https://aws.amazon.com/about-aws/whats-new/2022/09/appflow-now-supports-deleting-records-salesforce/)
 - [Direct VPC routing for AWS Outposts rack is now available](https://aws.amazon.com/about-aws/whats-new/2022/09/direct-vpc-routing-aws-outposts-rack/)
 - [Amazon RDS for Oracle now supports the instance store for temporary tablespace and the Database Smart Flash Cache for M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-oracle-instance-store-temporary-tablespace-database-smart-flash-cache-m5d-r5d/)
 - [AWS Config announces a price reduction up to 58% for conformance packs](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-price-reduction-58-percent-conformance-packs/)
@@ -67,7 +68,6 @@
 - [AWS Certificate Manager &lpar;ACM&rpar; for Nitro Enclaves now supports Apache HTTP webservers](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-certificate-manager-nitro-enclaves-supports-apache-http-webservers/)
 - [Amazon Connect Customer Profiles now supports Amazon AppFlow connectors](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-customer-profiles-supports-amazon-appflow-connectors/)
 - [AWS Cloud Development Kit &lpar;CDK&rpar; announces CDK Construct tree view in the AWS CloudFormation console](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-development-kit-cdk-announces-cdk-construct-tree-view-cloudformation-console/)
-- [AWS Transfer Family now supports multiple host keys and key types per server](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-transfer-family-multiple-host-keys-types-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

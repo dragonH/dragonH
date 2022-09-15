@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports patching newer versions of SUSE Linux Enterprise Server, Oracle Linux, and Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-newer-versions-suse-linux-enterprise-server-oracle-linux-red-hat-enterprise-linux/)
 - [FreeRTOS Extended Maintenance Plan registration now open](https://aws.amazon.com/about-aws/whats-new/2022/09/freertos-extended-maintenance-plan-registration-open/)
 - [AWS Enterprise Support launches AWS Incident Detection and Response](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-enterprise-support-aws-incident-detection-response/)
 - [AppFlow now supports deleting records in Salesforce](https://aws.amazon.com/about-aws/whats-new/2022/09/appflow-now-supports-deleting-records-salesforce/)
@@ -67,7 +68,6 @@
 - [Introducing Visual Conversation builder for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-visual-conversation-builder/)
 - [AWS Backup Audit Manager is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-backup-audit-manager-available-africa-cape-town-europe-milan/)
 - [AWS IoT Device Defender ML Detect Custom Metrics and Dimensions support](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-defender-ml-detect-custom-metrics-dimensions-support/)
-- [AWS Certificate Manager &lpar;ACM&rpar; for Nitro Enclaves now supports Apache HTTP webservers](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-certificate-manager-nitro-enclaves-supports-apache-http-webservers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

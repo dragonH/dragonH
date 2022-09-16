@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT TwinMaker Launches v1.2.0 of the TwinMaker Grafana Plugin](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-twinmaker-launches-v-1-2-0-twinmaker-grafana-plugin/)
 - [AWS PrivateLink announces enhanced tagging capability for service owners](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-privatelink-announces-enhanced-tagging-capability-service-owners/)
 - [Local gateway ingress routing for AWS Outposts rack is now available](https://aws.amazon.com/about-aws/whats-new/2022/09/local-gateway-ingress-routing-aws-outposts-rack-now-available/)
 - [AWS Systems Manager now supports patching newer versions of SUSE Linux Enterprise Server, Oracle Linux, and Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-newer-versions-suse-linux-enterprise-server-oracle-linux-red-hat-enterprise-linux/)
@@ -67,7 +68,6 @@
 - [Direct VPC routing for AWS Outposts rack is now available](https://aws.amazon.com/about-aws/whats-new/2022/09/direct-vpc-routing-aws-outposts-rack/)
 - [Amazon RDS for Oracle now supports the instance store for temporary tablespace and the Database Smart Flash Cache for M5d and R5d instances](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-oracle-instance-store-temporary-tablespace-database-smart-flash-cache-m5d-r5d/)
 - [AWS Config announces a price reduction up to 58% for conformance packs](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-config-price-reduction-58-percent-conformance-packs/)
-- [Introducing Visual Conversation builder for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-visual-conversation-builder/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

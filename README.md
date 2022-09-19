@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Proxy now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-proxy-rds-sql-server/)
 - [Amazon EMR on EKS now supports Spark SQL through the StartJobRun API](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-eks-supports-spark-sql-through-startjobrun-api/)
 - [Easily install and update the CloudWatch Agent with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2022/09/easily-install-update-cloudwatch-agent-quick-setup/)
 - [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
@@ -67,7 +68,6 @@
 - [AWS Fargate increases compute and memory resource configurations by 4x](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/)
 - [Amazon SageMaker Automatic Model Tuning now provides up to 3x faster hyperparameter tuning with Hyperband as a new search strategy](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-provides-faster-hyperparameter-tuning-hyperband-search-strategy/)
 - [AWS IoT TwinMaker Launches v1.2.0 of the TwinMaker Grafana Plugin](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-twinmaker-launches-v-1-2-0-twinmaker-grafana-plugin/)
-- [AWS PrivateLink announces enhanced tagging capability for service owners](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-privatelink-announces-enhanced-tagging-capability-service-owners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

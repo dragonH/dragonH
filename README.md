@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces enhanced system logs with consistent durability](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-redshift-announces-enhanced-system-logs-consistent-durability/)
+- [AWS CloudTrail Lake now supports import of CloudTrail Logs from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudtrail-lake-supports-import-cloudtrail-logs-s3/)
 - [AWS Elemental MediaLive adds encoding for Dolby Atmos and Dolby Vision](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-medialive-adds-encoding-dolby-atmos-vision/)
 - [Amazon SNS now supports message signatures based on SHA256 hashing](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-supports-message-signatures-based-sha256-hashing/)
 - [Amazon RDS Proxy now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-proxy-rds-sql-server/)
@@ -66,8 +68,6 @@
 - [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
 - [AWS Batch extends the job report retention period from 24 hours to 7 days](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-batch-extends-job-report-retention-period-24-hours-7-days/)
 - [Amazon RDS for MariaDB supports new minor versions 10.5.17, 10.4.26, 10.3.36](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-new-minor-versions/)
-- [AWS App Runner now supports deployment using cross-region Amazon ECR image](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-deployment-cross-region-amazon-ecr-image/)
-- [AWS Fargate increases compute and memory resource configurations by 4x](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

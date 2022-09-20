@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect adds support for SRT caller mode](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-mediaconnect-support-srt-caller-mode/)
+- [Amazon SageMaker Automatic Model Tuning is now available through SageMaker Search](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-available-sagemaker-search/)
 - [Announcing local clusters for Amazon EKS on Outposts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-eks-outposts-local-clusters/)
 - [Amazon Polly adds Cantonese language support](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-cantonese-language-support/)
 - [Amazon Redshift announces enhanced system logs with consistent durability](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-redshift-announces-enhanced-system-logs-consistent-durability/)
@@ -66,8 +68,6 @@
 - [Amazon SNS now supports message signatures based on SHA256 hashing](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-supports-message-signatures-based-sha256-hashing/)
 - [Amazon RDS Proxy now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-proxy-rds-sql-server/)
 - [Amazon EMR on EKS now supports Spark SQL through the StartJobRun API](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-eks-supports-spark-sql-through-startjobrun-api/)
-- [Easily install and update the CloudWatch Agent with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2022/09/easily-install-update-cloudwatch-agent-quick-setup/)
-- [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

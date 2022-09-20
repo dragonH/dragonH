@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing local clusters for Amazon EKS on Outposts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-eks-outposts-local-clusters/)
+- [Amazon Polly adds Cantonese language support](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-cantonese-language-support/)
 - [Amazon Redshift announces enhanced system logs with consistent durability](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-redshift-announces-enhanced-system-logs-consistent-durability/)
 - [AWS CloudTrail Lake now supports import of CloudTrail Logs from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudtrail-lake-supports-import-cloudtrail-logs-s3/)
 - [AWS Elemental MediaLive adds encoding for Dolby Atmos and Dolby Vision](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-medialive-adds-encoding-dolby-atmos-vision/)
@@ -66,8 +68,6 @@
 - [Amazon EMR on EKS now supports Spark SQL through the StartJobRun API](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-eks-supports-spark-sql-through-startjobrun-api/)
 - [Easily install and update the CloudWatch Agent with Quick Setup](https://aws.amazon.com/about-aws/whats-new/2022/09/easily-install-update-cloudwatch-agent-quick-setup/)
 - [Amazon ECS now delivers a faster Cluster Auto Scaling experience for scale-in events](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-faster-cluster-auto-scaling-experience-scale-in-events/)
-- [AWS Batch extends the job report retention period from 24 hours to 7 days](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-batch-extends-job-report-retention-period-24-hours-7-days/)
-- [Amazon RDS for MariaDB supports new minor versions 10.5.17, 10.4.26, 10.3.36](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-new-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

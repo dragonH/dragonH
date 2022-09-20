@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Corretto 19 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-corretto-19-available/)
 - [AWS Elemental MediaConnect adds support for SRT caller mode](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-mediaconnect-support-srt-caller-mode/)
 - [Amazon SageMaker Automatic Model Tuning is now available through SageMaker Search](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-available-sagemaker-search/)
 - [Announcing local clusters for Amazon EKS on Outposts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-eks-outposts-local-clusters/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaLive adds encoding for Dolby Atmos and Dolby Vision](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-medialive-adds-encoding-dolby-atmos-vision/)
 - [Amazon SNS now supports message signatures based on SHA256 hashing](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sns-supports-message-signatures-based-sha256-hashing/)
 - [Amazon RDS Proxy now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-proxy-rds-sql-server/)
-- [Amazon EMR on EKS now supports Spark SQL through the StartJobRun API](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-eks-supports-spark-sql-through-startjobrun-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

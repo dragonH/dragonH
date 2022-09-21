@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of AWS Outposts rack in Kazakhstan and Serbia](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-outposts-rack-kazakhstan-serbia/)
+- [Announcing preview of AWS DataSync Discovery](https://aws.amazon.com/about-aws/whats-new/2022/09/preview-aws-datasync-discovery/)
 - [AWS IoT SiteWise now supports definition of asset measurement units at the asset level](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-sitewise-supports-definition-asset-measurement-units-asset-level/)
 - [Amazon EMR Studio is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-studio-available-china-regions/)
 - [Amazon S3 on Outposts now supports object versioning](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-outposts-supports-object-versioning/)
@@ -66,8 +68,6 @@
 - [AWS IoT Device Management Secure Tunneling now supports simultaneous TCP connections](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-device-management-secure-tunneling-tcp-connections/)
 - [Amazon Corretto 19 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-corretto-19-available/)
 - [AWS Elemental MediaConnect adds support for SRT caller mode](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-mediaconnect-support-srt-caller-mode/)
-- [Amazon SageMaker Automatic Model Tuning is now available through SageMaker Search](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-available-sagemaker-search/)
-- [Announcing local clusters for Amazon EKS on Outposts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-eks-outposts-local-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise now supports definition of asset measurement units at the asset level](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-sitewise-supports-definition-asset-measurement-units-asset-level/)
+- [Amazon EMR Studio is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-studio-available-china-regions/)
+- [Amazon S3 on Outposts now supports object versioning](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-outposts-supports-object-versioning/)
+- [Amazon SageMaker Autopilot experiments are now up to 8X faster with new ‘Ensemble’ training mode powered by AutoGluon](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-experiments-faster-ensemble-training-mode-powered-autogluon/)
 - [AWS Elastic Disaster Recovery is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elastic-disaster-recovery-available-asia-pacific-jakarta-region/)
 - [AWS IoT Device Management Secure Tunneling now supports simultaneous TCP connections](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-device-management-secure-tunneling-tcp-connections/)
 - [Amazon Corretto 19 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-corretto-19-available/)
 - [AWS Elemental MediaConnect adds support for SRT caller mode](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-mediaconnect-support-srt-caller-mode/)
 - [Amazon SageMaker Automatic Model Tuning is now available through SageMaker Search](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-automatic-model-tuning-available-sagemaker-search/)
 - [Announcing local clusters for Amazon EKS on Outposts](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-eks-outposts-local-clusters/)
-- [Amazon Polly adds Cantonese language support](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-cantonese-language-support/)
-- [Amazon Redshift announces enhanced system logs with consistent durability](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-redshift-announces-enhanced-system-logs-consistent-durability/)
-- [AWS CloudTrail Lake now supports import of CloudTrail Logs from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudtrail-lake-supports-import-cloudtrail-logs-s3/)
-- [AWS Elemental MediaLive adds encoding for Dolby Atmos and Dolby Vision](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-medialive-adds-encoding-dolby-atmos-vision/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

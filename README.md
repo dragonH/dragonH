@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Health Dashboard displays localized dates and times for Service Health events](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-health-dashboard-displays-localized-dates-times-service-health-events/)
+- [Amazon Route 53 announces support for DNS resource record set permissions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-route-53-support-dns-resource-record-set-permissions/)
+- [AWS CloudFormation event notifications is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-event-notifications-available-jakarta-region/)
 - [Announcing availability of AWS Outposts rack in Kazakhstan and Serbia](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-outposts-rack-kazakhstan-serbia/)
 - [Announcing preview of AWS DataSync Discovery](https://aws.amazon.com/about-aws/whats-new/2022/09/preview-aws-datasync-discovery/)
 - [AWS IoT SiteWise now supports definition of asset measurement units at the asset level](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-sitewise-supports-definition-asset-measurement-units-asset-level/)
@@ -65,9 +68,6 @@
 - [Amazon S3 on Outposts now supports object versioning](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-outposts-supports-object-versioning/)
 - [Amazon SageMaker Autopilot experiments are now up to 8X faster with new ‘Ensemble’ training mode powered by AutoGluon](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-experiments-faster-ensemble-training-mode-powered-autogluon/)
 - [AWS Elastic Disaster Recovery is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elastic-disaster-recovery-available-asia-pacific-jakarta-region/)
-- [AWS IoT Device Management Secure Tunneling now supports simultaneous TCP connections](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-device-management-secure-tunneling-tcp-connections/)
-- [Amazon Corretto 19 is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-corretto-19-available/)
-- [AWS Elemental MediaConnect adds support for SRT caller mode](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elemental-mediaconnect-support-srt-caller-mode/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

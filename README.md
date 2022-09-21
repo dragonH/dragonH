@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Comprehend now supports synchronous processing for targeted sentiment](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-comprehend-supports-synchronous-processing-targeted-sentiment/)
+- [Amazon CloudWatch Evidently adds support for Client Side Evaluations for AWS Lambda &lpar;powered by AWS AppConfig&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-evidently-client-side-evaluations-aws-lambda-aws-appconfig/)
 - [AWS Health Dashboard displays localized dates and times for Service Health events](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-health-dashboard-displays-localized-dates-times-service-health-events/)
 - [Amazon Route 53 announces support for DNS resource record set permissions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-route-53-support-dns-resource-record-set-permissions/)
 - [AWS CloudFormation event notifications is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-event-notifications-available-jakarta-region/)
@@ -66,8 +68,6 @@
 - [AWS IoT SiteWise now supports definition of asset measurement units at the asset level](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-sitewise-supports-definition-asset-measurement-units-asset-level/)
 - [Amazon EMR Studio is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-studio-available-china-regions/)
 - [Amazon S3 on Outposts now supports object versioning](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-outposts-supports-object-versioning/)
-- [Amazon SageMaker Autopilot experiments are now up to 8X faster with new ‘Ensemble’ training mode powered by AutoGluon](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-experiments-faster-ensemble-training-mode-powered-autogluon/)
-- [AWS Elastic Disaster Recovery is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-elastic-disaster-recovery-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

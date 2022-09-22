@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for Windows File Server now provides additional performance metrics and enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-windows-file-server-additional-performance-metrics-enhanced-dashboard/)
 - [Introducing the Smart City Competency program](https://aws.amazon.com/about-aws/whats-new/2022/09/smart-city-competency-program/)
 - [Amazon Polly NTTS voices now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-ntts-voices-available-paris-region/)
 - [Amazon SageMaker Data Wrangler launches new advanced settings for Amazon Athena data sources](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-data-wrangle-launches-advanced-settings-amazon-athena-data-sources/)
@@ -67,7 +68,6 @@
 - [Amazon Route 53 announces support for DNS resource record set permissions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-route-53-support-dns-resource-record-set-permissions/)
 - [AWS CloudFormation event notifications is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-event-notifications-available-jakarta-region/)
 - [Announcing availability of AWS Outposts rack in Kazakhstan and Serbia](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-outposts-rack-kazakhstan-serbia/)
-- [Announcing preview of AWS DataSync Discovery](https://aws.amazon.com/about-aws/whats-new/2022/09/preview-aws-datasync-discovery/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

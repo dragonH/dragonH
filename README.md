@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces updates to the text extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-updates-text-extraction-feature/)
 - [Amazon FSx for Windows File Server now provides additional performance metrics and enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-windows-file-server-additional-performance-metrics-enhanced-dashboard/)
 - [Introducing the Smart City Competency program](https://aws.amazon.com/about-aws/whats-new/2022/09/smart-city-competency-program/)
 - [Amazon Polly NTTS voices now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-ntts-voices-available-paris-region/)
@@ -67,7 +68,6 @@
 - [AWS Health Dashboard displays localized dates and times for Service Health events](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-health-dashboard-displays-localized-dates-times-service-health-events/)
 - [Amazon Route 53 announces support for DNS resource record set permissions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-route-53-support-dns-resource-record-set-permissions/)
 - [AWS CloudFormation event notifications is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudformation-event-notifications-available-jakarta-region/)
-- [Announcing availability of AWS Outposts rack in Kazakhstan and Serbia](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-outposts-rack-kazakhstan-serbia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

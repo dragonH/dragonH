@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora supports in-place upgrades from MySQL 5.7 to 8.0](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/)
 - [Amazon Textract announces self-service quota management and higher default quotas in select AWS Regions.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-self-service-quota-management-higher-default-quotas-select-regions/)
 - [Amazon Connect now provides a queue dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-provides-queue-dashboard/)
 - [Amazon MSK Serverless is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-msk-serverless-hipaa-eligible/)
@@ -67,7 +68,6 @@
 - [Introducing the Smart City Competency program](https://aws.amazon.com/about-aws/whats-new/2022/09/smart-city-competency-program/)
 - [Amazon Polly NTTS voices now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-ntts-voices-available-paris-region/)
 - [Amazon SageMaker Data Wrangler launches new advanced settings for Amazon Athena data sources](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-data-wrangle-launches-advanced-settings-amazon-athena-data-sources/)
-- [AWS Comprehend now supports synchronous processing for targeted sentiment](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-comprehend-supports-synchronous-processing-targeted-sentiment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

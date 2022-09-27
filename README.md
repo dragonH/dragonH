@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing unique place IDs for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/09/unique-place-ids-amazon-location-service/)
+- [AWS Copilot, a CLI for the containerized apps, adds IAM permission boundaries and more](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-copilot-cli-containerized-apps-iam-permission-boundaries/)
+- [Amazon EMR Serverless is now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-serverless-available-additional-aws-regions/)
+- [Amazon DevOps Guru now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-devops-guru-available-seven-additional-regions/)
+- [Amazon CloudWatch Container Insights launches lifecycle events for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-container-insights-lifecycle-events-amazon-ecs/)
 - [Announcing 1-Click templates and tutorials in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-budgets-1-click-templates-tutorials/)
 - [AWS IoT FleetWise is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-fleetwise-now-generally-available/)
 - [Amazon Connect launches updated flows UI and improved flow language](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-updated-flows-ui-improved-flow-language/)
 - [Amazon Aurora supports in-place upgrades from MySQL 5.7 to 8.0](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/)
 - [Amazon Textract announces self-service quota management and higher default quotas in select AWS Regions.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-self-service-quota-management-higher-default-quotas-select-regions/)
-- [Amazon Connect now provides a queue dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-provides-queue-dashboard/)
-- [Amazon MSK Serverless is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-msk-serverless-hipaa-eligible/)
-- [AWS App Runner now supports Node.js 16 managed runtime](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-node-js-managed-runtime/)
-- [Amazon Textract announces updates to the text extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-updates-text-extraction-feature/)
-- [Amazon FSx for Windows File Server now provides additional performance metrics and enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-windows-file-server-additional-performance-metrics-enhanced-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

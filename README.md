@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-is4gen-im4gn-instances-available-asia-pacific-tokyo-region/)
+- [AWS Cost Categories now support retroactive rules application](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cost-categories-support-retroactive-rules-application/)
 - [Amazon DevOps Guru for RDS now available in seven more regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-devops-guru-rds-seven-regions/)
 - [Announcing unique place IDs for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/09/unique-place-ids-amazon-location-service/)
 - [AWS Copilot, a CLI for the containerized apps, adds IAM permission boundaries and more](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-copilot-cli-containerized-apps-iam-permission-boundaries/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch Container Insights launches lifecycle events for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-container-insights-lifecycle-events-amazon-ecs/)
 - [Announcing 1-Click templates and tutorials in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-budgets-1-click-templates-tutorials/)
 - [AWS IoT FleetWise is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-fleetwise-now-generally-available/)
-- [Amazon Connect launches updated flows UI and improved flow language](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-updated-flows-ui-improved-flow-language/)
-- [Amazon Aurora supports in-place upgrades from MySQL 5.7 to 8.0](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

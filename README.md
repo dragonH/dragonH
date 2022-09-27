@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DevOps Guru for RDS now available in seven more regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-devops-guru-rds-seven-regions/)
 - [Announcing unique place IDs for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/09/unique-place-ids-amazon-location-service/)
 - [AWS Copilot, a CLI for the containerized apps, adds IAM permission boundaries and more](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-copilot-cli-containerized-apps-iam-permission-boundaries/)
 - [Amazon EMR Serverless is now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-serverless-available-additional-aws-regions/)
@@ -67,7 +68,6 @@
 - [AWS IoT FleetWise is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-fleetwise-now-generally-available/)
 - [Amazon Connect launches updated flows UI and improved flow language](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-updated-flows-ui-improved-flow-language/)
 - [Amazon Aurora supports in-place upgrades from MySQL 5.7 to 8.0](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/)
-- [Amazon Textract announces self-service quota management and higher default quotas in select AWS Regions.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-self-service-quota-management-higher-default-quotas-select-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

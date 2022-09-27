@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing 1-Click templates and tutorials in AWS Budgets](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-budgets-1-click-templates-tutorials/)
+- [AWS IoT FleetWise is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-iot-fleetwise-now-generally-available/)
 - [Amazon Connect launches updated flows UI and improved flow language](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-updated-flows-ui-improved-flow-language/)
 - [Amazon Aurora supports in-place upgrades from MySQL 5.7 to 8.0](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-aurora-supports-in-place-upgrades-mysql-5-7-8-0/)
 - [Amazon Textract announces self-service quota management and higher default quotas in select AWS Regions.](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-self-service-quota-management-higher-default-quotas-select-regions/)
@@ -66,8 +68,6 @@
 - [AWS App Runner now supports Node.js 16 managed runtime](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-app-runner-supports-node-js-managed-runtime/)
 - [Amazon Textract announces updates to the text extraction feature](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-textract-updates-text-extraction-feature/)
 - [Amazon FSx for Windows File Server now provides additional performance metrics and enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-fsx-windows-file-server-additional-performance-metrics-enhanced-dashboard/)
-- [Introducing the Smart City Competency program](https://aws.amazon.com/about-aws/whats-new/2022/09/smart-city-competency-program/)
-- [Amazon Polly NTTS voices now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-polly-ntts-voices-available-paris-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas is now available in the Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Seoul&rpar;, Asia Pacific &lpar;Singapore&rpar;, and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-available-mumbai-seoul-singapore-sydney-regions/)
 - [Amazon S3 Replication Time Control for predictable replication time now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-replication-time-control-predictable-replication-beijing-ningxia-regions/)
 - [Amazon Kendra releases Dropbox connector](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kendra-releases-dropbox-connector/)
 - [Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-is4gen-im4gn-instances-available-asia-pacific-tokyo-region/)
@@ -67,7 +68,6 @@
 - [AWS Copilot, a CLI for the containerized apps, adds IAM permission boundaries and more](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-copilot-cli-containerized-apps-iam-permission-boundaries/)
 - [Amazon EMR Serverless is now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-emr-serverless-available-additional-aws-regions/)
 - [Amazon DevOps Guru now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-devops-guru-available-seven-additional-regions/)
-- [Amazon CloudWatch Container Insights launches lifecycle events for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-cloudwatch-container-insights-lifecycle-events-amazon-ecs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

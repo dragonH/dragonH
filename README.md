@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudShell is now available in the South America &lpar;São Paulo&rpar;, Canada &lpar;Central&rpar;, and Europe &lpar;London&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudshell-available-south-america-sao-paulo-canada-central-europe-london-regions/)
 - [Amazon Managed Streaming for Apache Kafka &lpar;Amazon MSK&rpar; is now available in Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-managed-streaming-apache-kafka-amazon-msk-available-asia-pacific-jakarta-aws-region/)
 - [AWS Cloud Control API now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-control-api-supports-aws-privatelink/)
 - [AWS X-Ray launches support for tracing PHP applications via OpenTelemetry in public preview](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-x-ray-support-tracing-php-applications-opentelemetry-public-preview/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Canvas supports mathematical functions and operators for richer data exploration](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-mathematical-functions-operators-richer-data-exploration/)
 - [Bottlerocket is now supported by Amazon Inspector](https://aws.amazon.com/about-aws/whats-new/2022/09/bottlerocket-supported-amazon-inspector/)
 - [Snow Amazon Linux 2 &lpar;AL2&rpar; Amazon Machine Image &lpar;AMI&rpar; available on all Snow Family jobs](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-snow-linux-2-ami-snow-family-jobs/)
-- [Amazon EBS Snapshots increases default limit for in-progress EBS Snapshot Archives per account to 25 per region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ebs-snapshots-increases-limit-in-progress-snapshot-archive-25-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

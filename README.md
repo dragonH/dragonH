@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-announces-amazon-workspaces-core/)
+- [AWS introduces Ubuntu Desktop for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-introduces-ubuntu-desktop-amazon-workspaces/)
+- [Amazon SageMaker Canvas supports mathematical functions and operators for richer data exploration](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-mathematical-functions-operators-richer-data-exploration/)
+- [Bottlerocket is now supported by Amazon Inspector](https://aws.amazon.com/about-aws/whats-new/2022/09/bottlerocket-supported-amazon-inspector/)
 - [Snow Amazon Linux 2 &lpar;AL2&rpar; Amazon Machine Image &lpar;AMI&rpar; available on all Snow Family jobs](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-snow-linux-2-ami-snow-family-jobs/)
 - [Amazon EBS Snapshots increases default limit for in-progress EBS Snapshot Archives per account to 25 per region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ebs-snapshots-increases-limit-in-progress-snapshot-archive-25-region/)
 - [AWS Certificate Manager Private Certificate Authority is now AWS Private Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-certificate-manager-private-certificate-authority-now-aws-private-ca/)
 - [Amazon SageMaker Canvas is now available in the Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Seoul&rpar;, Asia Pacific &lpar;Singapore&rpar;, and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-available-mumbai-seoul-singapore-sydney-regions/)
 - [Amazon S3 Replication Time Control for predictable replication time now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-replication-time-control-predictable-replication-beijing-ningxia-regions/)
 - [Amazon Kendra releases Dropbox connector](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kendra-releases-dropbox-connector/)
-- [Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-is4gen-im4gn-instances-available-asia-pacific-tokyo-region/)
-- [AWS Cost Categories now support retroactive rules application](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cost-categories-support-retroactive-rules-application/)
-- [Amazon DevOps Guru for RDS now available in seven more regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-devops-guru-rds-seven-regions/)
-- [Announcing unique place IDs for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/09/unique-place-ids-amazon-location-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

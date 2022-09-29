@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS X-Ray launches support for tracing PHP applications via OpenTelemetry in public preview](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-x-ray-support-tracing-php-applications-opentelemetry-public-preview/)
+- [AWS Compute Optimizer now supports 37 new EC2 instance types and new memory metrics for Windows instances](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-compute-optimizer-37-new-ec2-instance-types-memory-metrics-windows/)
 - [AWS announces Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-announces-amazon-workspaces-core/)
 - [AWS introduces Ubuntu Desktop for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-introduces-ubuntu-desktop-amazon-workspaces/)
 - [Amazon SageMaker Canvas supports mathematical functions and operators for richer data exploration](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-mathematical-functions-operators-richer-data-exploration/)
@@ -66,8 +68,6 @@
 - [Amazon EBS Snapshots increases default limit for in-progress EBS Snapshot Archives per account to 25 per region](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ebs-snapshots-increases-limit-in-progress-snapshot-archive-25-region/)
 - [AWS Certificate Manager Private Certificate Authority is now AWS Private Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-certificate-manager-private-certificate-authority-now-aws-private-ca/)
 - [Amazon SageMaker Canvas is now available in the Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Seoul&rpar;, Asia Pacific &lpar;Singapore&rpar;, and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-available-mumbai-seoul-singapore-sydney-regions/)
-- [Amazon S3 Replication Time Control for predictable replication time now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-s3-replication-time-control-predictable-replication-beijing-ningxia-regions/)
-- [Amazon Kendra releases Dropbox connector](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-kendra-releases-dropbox-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports new minor version 10.6.10](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-supports-new-minor-version-10-6-10/)
 - [AWS Systems Manager adds CloudWatch Alarms to control tasks](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-adds-cloudwatch-alarms-control-tasks/)
 - [Amazon File Cache is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-file-cache-generally-available/)
 - [AWS CloudShell is now available in the South America &lpar;São Paulo&rpar;, Canada &lpar;Central&rpar;, and Europe &lpar;London&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudshell-available-south-america-sao-paulo-canada-central-europe-london-regions/)
@@ -67,7 +68,6 @@
 - [AWS Compute Optimizer now supports 37 new EC2 instance types and new memory metrics for Windows instances](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-compute-optimizer-37-new-ec2-instance-types-memory-metrics-windows/)
 - [AWS announces Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-announces-amazon-workspaces-core/)
 - [AWS introduces Ubuntu Desktop for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-introduces-ubuntu-desktop-amazon-workspaces/)
-- [Amazon SageMaker Canvas supports mathematical functions and operators for richer data exploration](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-canvas-mathematical-functions-operators-richer-data-exploration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches Amazon CloudWatch support for third-party integrations for Wisdom, Tasks, and Customer profiles](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-amazon-cloudwatch-third-party-integrations-wisdom-task-profiles/)
 - [AWS Service Catalog console makes improvements on usability](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-service-catalog-improvements-usability/)
 - [AWS Cloud Map Updates Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloud-map-updates-sevice-level-agreement/)
 - [Amazon RDS for MySQL supports new minor version 5.7.39](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mysql-supports-new-minor-version-5-7-39/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MariaDB supports new minor version 10.6.10](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-supports-new-minor-version-10-6-10/)
 - [AWS Systems Manager adds CloudWatch Alarms to control tasks](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-adds-cloudwatch-alarms-control-tasks/)
 - [Amazon File Cache is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-file-cache-generally-available/)
-- [AWS CloudShell is now available in the South America &lpar;São Paulo&rpar;, Canada &lpar;Central&rpar;, and Europe &lpar;London&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-cloudshell-available-south-america-sao-paulo-canada-central-europe-london-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

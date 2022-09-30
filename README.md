@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Service Discovery now available in the Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-service-discovery-available-osaka-jakarta-regions/)
 - [Amazon Data Lifecycle Manager now automates archival of EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-data-lifecycle-manager-automates-archival-ebs-snapshots/)
 - [Amazon Connect launches Amazon CloudWatch support for third-party integrations for Wisdom, Tasks, and Customer profiles](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-amazon-cloudwatch-third-party-integrations-wisdom-task-profiles/)
 - [AWS Service Catalog console makes improvements on usability](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-service-catalog-improvements-usability/)
@@ -67,7 +68,6 @@
 - [AWS announces updated Support Plans Console with new IAM controls](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-updated-support-plans-console-new-iam-controls/)
 - [Amazon SageMaker Autopilot now includes Amazon SageMaker Data Wrangler feature transforms when deploying models for inference](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-sagemaker-autopilot-data-wrangler-feature-transforms-models-inference/)
 - [Amazon RDS for MariaDB supports new minor version 10.6.10](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-rds-mariadb-supports-new-minor-version-10-6-10/)
-- [AWS Systems Manager adds CloudWatch Alarms to control tasks](https://aws.amazon.com/about-aws/whats-new/2022/09/aws-systems-manager-adds-cloudwatch-alarms-control-tasks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

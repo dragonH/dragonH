@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas supports quicker set up of time-series forecasting models](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quicker-set-up-time-series-forecasting-models/)
 - [Amazon ECS and Amazon EKS optimized Amazon Machine Images for Microsoft Windows Server now use Docker CE runtime](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-eks-optimized-machine-images-microsoft-windows-server-docker-ce-runtime/)
 - [AWS announces new course for practical decision making using no-code ML with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-practical-decision-making-no-code-ml-amazon-sagemaker-canvas/)
 - [Amazon Connect Cases is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-cases-generally-available/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub launches announcements notification topic in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-security-hub-announcements-notification-topic-aws-govcloud-us/)
 - [Amazon ECS Service Discovery now available in the Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-service-discovery-available-osaka-jakarta-regions/)
 - [Amazon Data Lifecycle Manager now automates archival of EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-data-lifecycle-manager-automates-archival-ebs-snapshots/)
-- [Amazon Connect launches Amazon CloudWatch support for third-party integrations for Wisdom, Tasks, and Customer profiles](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-connect-amazon-cloudwatch-third-party-integrations-wisdom-task-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

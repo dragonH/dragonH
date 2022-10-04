@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Nimble Studio announces availability of Windows Server 2022 base image](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-nimble-studio-availability-windows-server-2022-base-image/)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; now supports two new CloudWatch metrics to measure and track network address usage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-now-supports-new-cloudwatch-metrics-measure-track-network-address-usage/)
+- [AWS IoT SiteWise increasing quota limit for Assets and Asset Models](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-sitewise-quota-limit-assests-asset-models/)
+- [IAM Access Analyzer makes it easier to author and validate role trust policies](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-author-validate-role-trust-policies/)
 - [Amazon Machine Images now support Instance Metadata Service Version 2 by default](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-machine-images-support-instance-metadata-service-version-2-default/)
 - [Amazon SageMaker Canvas supports quicker set up of time-series forecasting models](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quicker-set-up-time-series-forecasting-models/)
 - [Amazon ECS and Amazon EKS optimized Amazon Machine Images for Microsoft Windows Server now use Docker CE runtime](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-eks-optimized-machine-images-microsoft-windows-server-docker-ce-runtime/)
 - [AWS announces new course for practical decision making using no-code ML with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-practical-decision-making-no-code-ml-amazon-sagemaker-canvas/)
 - [Amazon Connect Cases is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-cases-generally-available/)
 - [Announcing new development library for building AWS IoT TwinMaker web applications](https://aws.amazon.com/about-aws/whats-new/2022/10/development-library-building-aws-iot-twinmaker-web-applications/)
-- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 21.2](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-oracle-supports-oracle-application-express-apex-version-21-2/)
-- [Amazon FSx for OpenZFS is now available in Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Seoul&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-openzfs-available-new-regions/)
-- [AWS Security Hub launches announcements notification topic in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-security-hub-announcements-notification-topic-aws-govcloud-us/)
-- [Amazon ECS Service Discovery now available in the Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/09/amazon-ecs-service-discovery-available-osaka-jakarta-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

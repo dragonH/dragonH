@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v2 now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/)
 - [AWS Budgets now supports filtering by Invoicing Entity and Legal Entity](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-budgets-supports-filtering-invoicing-entity-legal-entity/)
 - [Amazon SQS announces Server-Side Encryption with Amazon SQS-managed encryption keys &lpar;SSE-SQS&rpar; by default](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-announces-server-side-encryption-ssq-managed-sse-sqs-default/)
 - [Amazon WorkMail now supports Impersonation Roles](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workmail-supports-impersonation-roles/)
@@ -67,7 +68,6 @@
 - [AWS Backup Launches New Backup Vault Lock Console Experience](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-backup-launches-new-backup-vault-lock-console-experience/)
 - [Amazon S3 Object Lambda now supports using your own code to modify the results of S3 HEAD and LIST API requests](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-object-lambda-code-modify-results-s3-head-list-api-requests/)
 - [Amazon Nimble Studio announces availability of Windows Server 2022 base image](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-nimble-studio-availability-windows-server-2022-base-image/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; now supports two new CloudWatch metrics to measure and track network address usage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-now-supports-new-cloudwatch-metrics-measure-track-network-address-usage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

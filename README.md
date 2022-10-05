@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Budgets now supports filtering by Invoicing Entity and Legal Entity](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-budgets-supports-filtering-invoicing-entity-legal-entity/)
+- [Amazon SQS announces Server-Side Encryption with Amazon SQS-managed encryption keys &lpar;SSE-SQS&rpar; by default](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-announces-server-side-encryption-ssq-managed-sse-sqs-default/)
+- [Amazon WorkMail now supports Impersonation Roles](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workmail-supports-impersonation-roles/)
+- [Amazon Redshift Serverless now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-serverless-supports-resource-tagging/)
 - [AWS Cloud WAN is now available in AWS Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-wan-available-asia-pacific-seoul-region/)
 - [Amazon EC2 High Memory instances with 3, 6, 9, and 12TiB of memory are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-3-6-9-12tib-memory-tokyo-region/)
 - [AWS Backup Launches New Backup Vault Lock Console Experience](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-backup-launches-new-backup-vault-lock-console-experience/)
 - [Amazon S3 Object Lambda now supports using your own code to modify the results of S3 HEAD and LIST API requests](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-object-lambda-code-modify-results-s3-head-list-api-requests/)
 - [Amazon Nimble Studio announces availability of Windows Server 2022 base image](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-nimble-studio-availability-windows-server-2022-base-image/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; now supports two new CloudWatch metrics to measure and track network address usage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-now-supports-new-cloudwatch-metrics-measure-track-network-address-usage/)
-- [AWS IoT SiteWise increasing quota limit for Assets and Asset Models](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-sitewise-quota-limit-assests-asset-models/)
-- [IAM Access Analyzer makes it easier to author and validate role trust policies](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-author-validate-role-trust-policies/)
-- [Amazon Machine Images now support Instance Metadata Service Version 2 by default](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-machine-images-support-instance-metadata-service-version-2-default/)
-- [Amazon SageMaker Canvas supports quicker set up of time-series forecasting models](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quicker-set-up-time-series-forecasting-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

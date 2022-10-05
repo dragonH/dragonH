@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Clarify now can provide near real-time explanations for ML predictions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-clarify-provides-near-real-time-explanations-ml-predictions/)
 - [Amazon Aurora Serverless v2 now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/)
 - [AWS Budgets now supports filtering by Invoicing Entity and Legal Entity](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-budgets-supports-filtering-invoicing-entity-legal-entity/)
 - [Amazon SQS announces Server-Side Encryption with Amazon SQS-managed encryption keys &lpar;SSE-SQS&rpar; by default](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-announces-server-side-encryption-ssq-managed-sse-sqs-default/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 High Memory instances with 3, 6, 9, and 12TiB of memory are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-3-6-9-12tib-memory-tokyo-region/)
 - [AWS Backup Launches New Backup Vault Lock Console Experience](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-backup-launches-new-backup-vault-lock-console-experience/)
 - [Amazon S3 Object Lambda now supports using your own code to modify the results of S3 HEAD and LIST API requests](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-object-lambda-code-modify-results-s3-head-list-api-requests/)
-- [Amazon Nimble Studio announces availability of Windows Server 2022 base image](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-nimble-studio-availability-windows-server-2022-base-image/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

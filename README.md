@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate now adds formality customization support for Dutch, Korean, and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-translate-formality-customization-support-dutch-korean-mexican-spanish/)
+- [Announcing the general availability of AWS Local Zones in Delhi and Taipei](https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-aws-local-zones-delhi-taipei/)
 - [Amazon SageMaker Clarify now can provide near real-time explanations for ML predictions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-clarify-provides-near-real-time-explanations-ml-predictions/)
 - [Amazon Aurora Serverless v2 now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-serverless-v2-supports-aws-cloudformation/)
 - [AWS Budgets now supports filtering by Invoicing Entity and Legal Entity](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-budgets-supports-filtering-invoicing-entity-legal-entity/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift Serverless now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-serverless-supports-resource-tagging/)
 - [AWS Cloud WAN is now available in AWS Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-wan-available-asia-pacific-seoul-region/)
 - [Amazon EC2 High Memory instances with 3, 6, 9, and 12TiB of memory are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-3-6-9-12tib-memory-tokyo-region/)
-- [AWS Backup Launches New Backup Vault Lock Console Experience](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-backup-launches-new-backup-vault-lock-console-experience/)
-- [Amazon S3 Object Lambda now supports using your own code to modify the results of S3 HEAD and LIST API requests](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-object-lambda-code-modify-results-s3-head-list-api-requests/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

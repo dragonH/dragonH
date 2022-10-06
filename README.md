@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-config-15-new-resource-types/)
 - [IAM Access Analyzer now reviews your AWS CloudTrail history to identify actions used across 140 AWS services and generates fine-grained policies](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-cloudtrail-history-identify-actions-140-aws-services-fine-grained-policies/)
 - [Amazon Translate now adds formality customization support for Dutch, Korean, and Mexican Spanish](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-translate-formality-customization-support-dutch-korean-mexican-spanish/)
 - [Announcing the general availability of AWS Local Zones in Delhi and Taipei](https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-aws-local-zones-delhi-taipei/)
@@ -67,7 +68,6 @@
 - [Amazon SQS announces Server-Side Encryption with Amazon SQS-managed encryption keys &lpar;SSE-SQS&rpar; by default](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-announces-server-side-encryption-ssq-managed-sse-sqs-default/)
 - [Amazon WorkMail now supports Impersonation Roles](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workmail-supports-impersonation-roles/)
 - [Amazon Redshift Serverless now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-serverless-supports-resource-tagging/)
-- [AWS Cloud WAN is now available in AWS Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-wan-available-asia-pacific-seoul-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

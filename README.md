@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Log announces increased query concurrency](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-log-announces-increased-query-concurrency/)
 - [Amazon Chime announces new mobile apps with features to improve your meeting experience](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-chime-announces-mobile-apps-features-improve-meeting-experience/)
 - [AWS IQ now supports partners and independent consultants in Australia, Europe, Japan, and other regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iq-supports-partners-independent-consultants-australia-europe-japan-other-regions/)
 - [Amazon ECS launches additional metadata attributes for tasks running on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-metadata-attributes-tasks-running-amazon-ec2/)
@@ -67,7 +68,6 @@
 - [Amazon AppStream 2.0 now supports webcams while streaming Linux applications and desktops](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-webcams-streaming-linux-applications-desktops/)
 - [AWS announces AWS SAM serverless connectors](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/)
 - [Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-jdbc-driver-postgresql-faster-database-failover/)
-- [AWS Lambda Functions powered by AWS Graviton2 now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-functions-graviton2-12-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

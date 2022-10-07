@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime announces new mobile apps with features to improve your meeting experience](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-chime-announces-mobile-apps-features-improve-meeting-experience/)
+- [AWS IQ now supports partners and independent consultants in Australia, Europe, Japan, and other regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iq-supports-partners-independent-consultants-australia-europe-japan-other-regions/)
+- [Amazon ECS launches additional metadata attributes for tasks running on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-metadata-attributes-tasks-running-amazon-ec2/)
 - [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/)
 - [Amazon Detective improves search by supporting case insensitivity](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-improves-search-case-insensitivity/)
 - [Amazon AppStream 2.0 now supports creating Linux Images using Graphical User Interface &lpar;GUI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-supports-linux-images-gui/)
@@ -65,9 +68,6 @@
 - [AWS announces AWS SAM serverless connectors](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/)
 - [Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-jdbc-driver-postgresql-faster-database-failover/)
 - [AWS Lambda Functions powered by AWS Graviton2 now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-functions-graviton2-12-regions/)
-- [AWS Storage Gateway simplifies creating new gateways and alarms](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-simplifies-gateways-alarms/)
-- [AWS Storage Gateway now supports 15 TiB tapes](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-15-tib-tapes/)
-- [AWS Storage Gateway increases cloud upload and download performance by up to 2x for Tape Gateway](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-storage-gateway-increases-cloud-upload-download-performance-2x-tape-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

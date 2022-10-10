@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 Trn1 instances for high-performance, cost-effective deep learning training](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-trn1-instances-high-performance-cost-effective-deep-learning-training/)
+- [AWS Neuron adds support for Amazon EC2 Trn1 instances to unlock high-performance, cost-effective deep learning training at scale](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-neuron-amazon-ec2-trn1-instances-high-performance-cost-effective-deep-learning-training-scale/)
+- [Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration](https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/)
 - [Amazon QuickSight Q now supports questions for access restricted datasets that use Row level Security &lpar;RLS&rpar; with user based rules](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-q-access-restricted-datasets-row-level-security-user-based-rules/)
 - [Amazon CloudWatch Log announces increased query concurrency](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-log-announces-increased-query-concurrency/)
 - [Amazon Chime announces new mobile apps with features to improve your meeting experience](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-chime-announces-mobile-apps-features-improve-meeting-experience/)
@@ -65,9 +68,6 @@
 - [Amazon ECS launches additional metadata attributes for tasks running on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-metadata-attributes-tasks-running-amazon-ec2/)
 - [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/)
 - [Amazon Detective improves search by supporting case insensitivity](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-improves-search-case-insensitivity/)
-- [Amazon AppStream 2.0 now supports creating Linux Images using Graphical User Interface &lpar;GUI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-supports-linux-images-gui/)
-- [Amazon AppStream 2.0 now supports webcams while streaming Linux applications and desktops](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-webcams-streaming-linux-applications-desktops/)
-- [AWS announces AWS SAM serverless connectors](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

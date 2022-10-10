@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight Q now supports questions for access restricted datasets that use Row level Security &lpar;RLS&rpar; with user based rules](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-q-access-restricted-datasets-row-level-security-user-based-rules/)
 - [Amazon CloudWatch Log announces increased query concurrency](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-log-announces-increased-query-concurrency/)
 - [Amazon Chime announces new mobile apps with features to improve your meeting experience](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-chime-announces-mobile-apps-features-improve-meeting-experience/)
 - [AWS IQ now supports partners and independent consultants in Australia, Europe, Japan, and other regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iq-supports-partners-independent-consultants-australia-europe-japan-other-regions/)
@@ -67,7 +68,6 @@
 - [Amazon AppStream 2.0 now supports creating Linux Images using Graphical User Interface &lpar;GUI&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-supports-linux-images-gui/)
 - [Amazon AppStream 2.0 now supports webcams while streaming Linux applications and desktops](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-appstream-2-0-webcams-streaming-linux-applications-desktops/)
 - [AWS announces AWS SAM serverless connectors](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-serverless-connectors/)
-- [Achieve faster database failover with Amazon Web Services JDBC Driver for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-jdbc-driver-postgresql-faster-database-failover/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Activate is now open to all startups](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-activate-now-open-startups/)
+- [AWS CloudFormation StackSets increases limits on three service quotas](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-stacksets-increases-limits-three-service-quotas/)
 - [Announcing Amazon EC2 Trn1 instances for high-performance, cost-effective deep learning training](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-trn1-instances-high-performance-cost-effective-deep-learning-training/)
 - [AWS Neuron adds support for Amazon EC2 Trn1 instances to unlock high-performance, cost-effective deep learning training at scale](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-neuron-amazon-ec2-trn1-instances-high-performance-cost-effective-deep-learning-training-scale/)
 - [Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration](https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/)
@@ -66,8 +68,6 @@
 - [Amazon Chime announces new mobile apps with features to improve your meeting experience](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-chime-announces-mobile-apps-features-improve-meeting-experience/)
 - [AWS IQ now supports partners and independent consultants in Australia, Europe, Japan, and other regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iq-supports-partners-independent-consultants-australia-europe-japan-other-regions/)
 - [Amazon ECS launches additional metadata attributes for tasks running on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ecs-metadata-attributes-tasks-running-amazon-ec2/)
-- [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-launches-two-new-edge-locations/)
-- [Amazon Detective improves search by supporting case insensitivity](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-improves-search-case-insensitivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

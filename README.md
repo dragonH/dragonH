@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing a new Cost Explorer console experience](https://aws.amazon.com/about-aws/whats-new/2022/10/new-cost-explorer-console-experience/)
 - [Amazon EC2 C6gn instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6gn-instances-now-available-additional-region/)
 - [AWS Activate is now open to all startups](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-activate-now-open-startups/)
 - [Amazon EC2 now offers an automated connection set-up solution between EC2 instance and RDS Database](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-automated-connection-solution-ec2-instance-rds-database/)
@@ -67,7 +68,6 @@
 - [Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration](https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/)
 - [Amazon QuickSight Q now supports questions for access restricted datasets that use Row level Security &lpar;RLS&rpar; with user based rules](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-q-access-restricted-datasets-row-level-security-user-based-rules/)
 - [Amazon CloudWatch Log announces increased query concurrency](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-log-announces-increased-query-concurrency/)
-- [Amazon Chime announces new mobile apps with features to improve your meeting experience](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-chime-announces-mobile-apps-features-improve-meeting-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling now supports Predictive Scaling in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/)
+- [AWS Cloud Map is available in Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-map-available-middle-east-uae-aws-region/)
 - [AWS Lambda now supports event filtering for Amazon MSK, Self-Manged Kafka, Amazon MQ for Apache ActiveMQ, and Amazon MQ for RabbitMQ as event sources](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/)
 - [RStudio on Amazon SageMaker now comes with new developer productivity and security capabilities](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-rstudio-developer-productivity-security-capabilities/)
 - [Amazon Athena announces upgraded query engine](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-athena-announces-upgraded-query-engine/)
@@ -66,8 +68,6 @@
 - [AWS Gateway Load Balancer launches new option to rebalance flows when target fails or deregisters](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-gateway-load-balancer-launches-new-option-rebalance-flows-target-fails-deregisters/)
 - [AWS Launch Wizard now automates deployment of SAP Solution Manager](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-now-automates-deployment-sap-solution-manager/)
 - [Announcing a new Cost Explorer console experience](https://aws.amazon.com/about-aws/whats-new/2022/10/new-cost-explorer-console-experience/)
-- [Amazon EC2 C6gn instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6gn-instances-now-available-additional-region/)
-- [AWS Activate is now open to all startups](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-activate-now-open-startups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

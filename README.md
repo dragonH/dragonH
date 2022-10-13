@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [RStudio on Amazon SageMaker now comes with new developer productivity and security capabilities](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-rstudio-developer-productivity-security-capabilities/)
 - [Amazon Athena announces upgraded query engine](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-athena-announces-upgraded-query-engine/)
 - [Monitor Amazon EMR Serverless jobs in real-time with native Spark and Hive Tez UI](https://aws.amazon.com/about-aws/whats-new/2022/10/monitor-amazon-emr-serverless-jobs-real-time-native-spark-hiv-tez-ui/)
 - [Improve availability of SAP HANA systems on AWS with Host Auto-Failover](https://aws.amazon.com/about-aws/whats-new/2022/10/improve-availability-sap-hana-systems-aws-host-auto-failover/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C6gn instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6gn-instances-now-available-additional-region/)
 - [AWS Activate is now open to all startups](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-activate-now-open-startups/)
 - [Amazon EC2 now offers an automated connection set-up solution between EC2 instance and RDS Database](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-automated-connection-solution-ec2-instance-rds-database/)
-- [AWS CloudFormation StackSets increases limits on three service quotas](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-stacksets-increases-limits-three-service-quotas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

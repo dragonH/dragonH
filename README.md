@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Gateway Load Balancer launches new option to rebalance flows when target fails or deregisters](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-gateway-load-balancer-launches-new-option-rebalance-flows-target-fails-deregisters/)
+- [AWS Launch Wizard now automates deployment of SAP Solution Manager](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-now-automates-deployment-sap-solution-manager/)
 - [Announcing a new Cost Explorer console experience](https://aws.amazon.com/about-aws/whats-new/2022/10/new-cost-explorer-console-experience/)
 - [Amazon EC2 C6gn instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6gn-instances-now-available-additional-region/)
 - [AWS Activate is now open to all startups](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-activate-now-open-startups/)
@@ -66,8 +68,6 @@
 - [Announcing Amazon EC2 Trn1 instances for high-performance, cost-effective deep learning training](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-trn1-instances-high-performance-cost-effective-deep-learning-training/)
 - [AWS Neuron adds support for Amazon EC2 Trn1 instances to unlock high-performance, cost-effective deep learning training at scale](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-neuron-amazon-ec2-trn1-instances-high-performance-cost-effective-deep-learning-training-scale/)
 - [Spot Instance interruptions can now be tested directly from Amazon EC2 console via AWS Fault Injection Simulator integration](https://aws.amazon.com/about-aws/whats-new/2022/10/spot-instance-interruptions-tested-amazon-ec2-console-fault-injection-simulator-integration/)
-- [Amazon QuickSight Q now supports questions for access restricted datasets that use Row level Security &lpar;RLS&rpar; with user based rules](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-q-access-restricted-datasets-row-level-security-user-based-rules/)
-- [Amazon CloudWatch Log announces increased query concurrency](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-log-announces-increased-query-concurrency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

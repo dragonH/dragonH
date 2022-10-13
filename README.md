@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue introduces Git integration](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-git-integration/)
+- [Amazon Aurora supports PostgreSQL 14.4 version](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-postgresql-14-4-version/)
 - [Amazon EC2 Auto Scaling now supports Predictive Scaling in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/)
 - [AWS Cloud Map is available in Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-map-available-middle-east-uae-aws-region/)
 - [AWS Lambda now supports event filtering for Amazon MSK, Self-Manged Kafka, Amazon MQ for Apache ActiveMQ, and Amazon MQ for RabbitMQ as event sources](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/)
@@ -66,8 +68,6 @@
 - [Monitor Amazon EMR Serverless jobs in real-time with native Spark and Hive Tez UI](https://aws.amazon.com/about-aws/whats-new/2022/10/monitor-amazon-emr-serverless-jobs-real-time-native-spark-hiv-tez-ui/)
 - [Improve availability of SAP HANA systems on AWS with Host Auto-Failover](https://aws.amazon.com/about-aws/whats-new/2022/10/improve-availability-sap-hana-systems-aws-host-auto-failover/)
 - [AWS Gateway Load Balancer launches new option to rebalance flows when target fails or deregisters](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-gateway-load-balancer-launches-new-option-rebalance-flows-target-fails-deregisters/)
-- [AWS Launch Wizard now automates deployment of SAP Solution Manager](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-now-automates-deployment-sap-solution-manager/)
-- [Announcing a new Cost Explorer console experience](https://aws.amazon.com/about-aws/whats-new/2022/10/new-cost-explorer-console-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

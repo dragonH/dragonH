@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex launches support for Hindi and Dutch](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/)
+- [Amazon RDS for SQL Server Supports minor versions 2014 SP3 CU4, 2016 SP3 GDR, 2017 CU 30, and 2019 CU16](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/)
 - [Amazon RDS now supports automating connectivity set up between an existing RDS or Aurora database and an EC2 compute instance](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/)
 - [AWS Glue Crawlers support incremental Amazon S3 crawling on existing AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/)
 - [AWS SAM CLI Pipelines now supports Open ID Connect Protocol](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/)
@@ -66,8 +68,6 @@
 - [AWS Managed Microsoft AD is now available on Windows Server 2019](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-managed-microsoft-ad-available-windows-server-2019/)
 - [Amazon EC2 adds Service Quotas for Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-service-quotas-amazon-machine-images-amis/)
 - [AWS Glue introduces Git integration](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-git-integration/)
-- [Amazon Aurora supports PostgreSQL 14.4 version](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-postgresql-14-4-version/)
-- [Amazon EC2 Auto Scaling now supports Predictive Scaling in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

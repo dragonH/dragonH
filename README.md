@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports automating connectivity set up between an existing RDS or Aurora database and an EC2 compute instance](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/)
+- [AWS Glue Crawlers support incremental Amazon S3 crawling on existing AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/)
 - [AWS SAM CLI Pipelines now supports Open ID Connect Protocol](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/)
 - [Amazon EC2 High Memory instances are now available in Asia Pacific &lpar;Singapore&rpar;, Canada &lpar;Central&rpar;, and AWS GovCloud &lpar;US-East&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/)
 - [AWS Transfer Family now supports post-upload processing of partially uploaded files](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/)
@@ -66,8 +68,6 @@
 - [AWS Glue introduces Git integration](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-git-integration/)
 - [Amazon Aurora supports PostgreSQL 14.4 version](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-postgresql-14-4-version/)
 - [Amazon EC2 Auto Scaling now supports Predictive Scaling in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-auto-scaling-predictive-scaling-asia-pacific-jakarta-region/)
-- [AWS Cloud Map is available in Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-map-available-middle-east-uae-aws-region/)
-- [AWS Lambda now supports event filtering for Amazon MSK, Self-Manged Kafka, Amazon MQ for Apache ActiveMQ, and Amazon MQ for RabbitMQ as event sources](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

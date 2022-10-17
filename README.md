@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing increased AWS IAM Identity Center default quota values](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/)
+- [New FreeRTOS Long Term Support version released](https://aws.amazon.com/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/)
 - [Amazon Lex launches support for Hindi and Dutch](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/)
 - [Amazon RDS for SQL Server Supports minor versions 2014 SP3 CU4, 2016 SP3 GDR, 2017 CU 30, and 2019 CU16](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/)
 - [Amazon RDS now supports automating connectivity set up between an existing RDS or Aurora database and an EC2 compute instance](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 High Memory instances are now available in Asia Pacific &lpar;Singapore&rpar;, Canada &lpar;Central&rpar;, and AWS GovCloud &lpar;US-East&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/)
 - [AWS Transfer Family now supports post-upload processing of partially uploaded files](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/)
 - [AWS Managed Microsoft AD is now available on Windows Server 2019](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-managed-microsoft-ad-available-windows-server-2019/)
-- [Amazon EC2 adds Service Quotas for Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-service-quotas-amazon-machine-images-amis/)
-- [AWS Glue introduces Git integration](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-git-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

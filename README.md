@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective helps reduce time to investigate Amazon GuardDuty findings by grouping related findings](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/)
 - [Announcing increased AWS IAM Identity Center default quota values](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/)
 - [New FreeRTOS Long Term Support version released](https://aws.amazon.com/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/)
 - [Amazon Lex launches support for Hindi and Dutch](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/)
@@ -67,7 +68,6 @@
 - [AWS SAM CLI Pipelines now supports Open ID Connect Protocol](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-sam-cli-pipelines-open-id-connect-protocol/)
 - [Amazon EC2 High Memory instances are now available in Asia Pacific &lpar;Singapore&rpar;, Canada &lpar;Central&rpar;, and AWS GovCloud &lpar;US-East&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-high-memory-instances-singapore-canada-govcloud-east-regions/)
 - [AWS Transfer Family now supports post-upload processing of partially uploaded files](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-transfer-family-supports-post-upload-processing-partially-uploaded-files/)
-- [AWS Managed Microsoft AD is now available on Windows Server 2019](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-managed-microsoft-ad-available-windows-server-2019/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the Middle East &lpar;UAE&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-elastic-file-system-available-middle-east-uae-region/)
+- [Announcing AWS Parameters and Secrets Lambda Extension](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-parameters-secrets-lambda-extension/)
 - [Amazon Interactive Video Service now includes web and mobile SDKs for IVS stream chat](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-interactive-video-service-web-mobile-sdks-ivs-stream-chat/)
 - [Amazon Corretto October 2022 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-corretto-october-2022-quarterly-updates/)
 - [Amazon SageMaker Canvas announces Quick build support for time-series forecast models](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quick-build-support-time-series-forecast-models/)
@@ -66,8 +68,6 @@
 - [Amazon Connect Wisdom now delivers improved machine learning capabilities](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-wisdom-delivers-improved-machine-learning-capabilities/)
 - [PostgreSQL 15 Release Candidate 2 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2022/10/postgresql-15-candidate-2-amazon-rds-database-preview-environment/)
 - [Announcing Red Hat Enterprise Linux &lpar;RHEL&rpar; Workstation on AWS](https://aws.amazon.com/about-aws/whats-new/2022/10/red-hat-enterprise-linux-rhel-workstation-aws/)
-- [Refit transforms to prepare data at scale with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/refit-transforms-data-scale-amazon-sagemaker-data-wrangler/)
-- [AWS Database Migration Service now supports C6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-database-migration-service-supports-c6i-r6i-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom now delivers improved machine learning capabilities](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-wisdom-delivers-improved-machine-learning-capabilities/)
+- [PostgreSQL 15 Release Candidate 2 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2022/10/postgresql-15-candidate-2-amazon-rds-database-preview-environment/)
 - [Announcing Red Hat Enterprise Linux &lpar;RHEL&rpar; Workstation on AWS](https://aws.amazon.com/about-aws/whats-new/2022/10/red-hat-enterprise-linux-rhel-workstation-aws/)
 - [Refit transforms to prepare data at scale with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/refit-transforms-data-scale-amazon-sagemaker-data-wrangler/)
 - [AWS Database Migration Service now supports C6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-database-migration-service-supports-c6i-r6i-instances/)
@@ -66,8 +68,6 @@
 - [New FreeRTOS Long Term Support version released](https://aws.amazon.com/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/)
 - [Amazon Lex launches support for Hindi and Dutch](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/)
 - [Amazon RDS for SQL Server Supports minor versions 2014 SP3 CU4, 2016 SP3 GDR, 2017 CU 30, and 2019 CU16](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/)
-- [Amazon RDS now supports automating connectivity set up between an existing RDS or Aurora database and an EC2 compute instance](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-automating-connectivity-set-up-existing-rds-aurora-database-ec2-compute-instance/)
-- [AWS Glue Crawlers support incremental Amazon S3 crawling on existing AWS Glue Data Catalog tables](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-glue-crawlers-incremental-amazon-s3-crawling-existing-aws-glue-data-catalog-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

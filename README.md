@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Interactive Video Service now includes web and mobile SDKs for IVS stream chat](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-interactive-video-service-web-mobile-sdks-ivs-stream-chat/)
+- [Amazon Corretto October 2022 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-corretto-october-2022-quarterly-updates/)
+- [Amazon SageMaker Canvas announces Quick build support for time-series forecast models](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quick-build-support-time-series-forecast-models/)
+- [Announcing new AWS Amplify Library for Swift, now with support for both iOS and macOS](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-amplify-library-swift-support-ios-macos/)
+- [AWS Snowball Edge Compute Optimized delivers double the compute capacity and is now fully SSD NVMe storage](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-snowball-edge-compute-optimized-double-compute-capacatiy-ssd-nvme-storage/)
 - [Amazon Connect Wisdom now delivers improved machine learning capabilities](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-wisdom-delivers-improved-machine-learning-capabilities/)
 - [PostgreSQL 15 Release Candidate 2 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2022/10/postgresql-15-candidate-2-amazon-rds-database-preview-environment/)
 - [Announcing Red Hat Enterprise Linux &lpar;RHEL&rpar; Workstation on AWS](https://aws.amazon.com/about-aws/whats-new/2022/10/red-hat-enterprise-linux-rhel-workstation-aws/)
 - [Refit transforms to prepare data at scale with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/refit-transforms-data-scale-amazon-sagemaker-data-wrangler/)
 - [AWS Database Migration Service now supports C6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-database-migration-service-supports-c6i-r6i-instances/)
-- [Amazon Detective helps reduce time to investigate Amazon GuardDuty findings by grouping related findings](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-detective-reduce-time-investigate-amazon-guardduty-findings-grouping-related-findings/)
-- [Announcing increased AWS IAM Identity Center default quota values](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iam-identity-center-default-quota-values-increased/)
-- [New FreeRTOS Long Term Support version released](https://aws.amazon.com/about-aws/whats-new/2022/10/new-freertos-long-term-support-version-released/)
-- [Amazon Lex launches support for Hindi and Dutch](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-lex-support-hindi-dutch/)
-- [Amazon RDS for SQL Server Supports minor versions 2014 SP3 CU4, 2016 SP3 GDR, 2017 CU 30, and 2019 CU16](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-sql-server-supports-minor-versions-2014-2016-2017-2019/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

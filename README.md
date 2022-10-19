@@ -58,8 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SES now offers new model to simplify provisioning and managing dedicated IPs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ses-model-provisioning-managing-dedicated-ips/)
 - [Announcing the FreeFormInput Slot Type for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/10/announcing-freeforminput-slot-type-amazon-lex/)
+- [AWS Step Functions adds new execution observability features for Express Workflows](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-step-functions-adds-new-execution-observability-features-express-workflows/)
+- [Amazon SES now offers new model to simplify provisioning and managing dedicated IPs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ses-model-provisioning-managing-dedicated-ips/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the Middle East &lpar;UAE&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-elastic-file-system-available-middle-east-uae-region/)
 - [Announcing AWS Parameters and Secrets Lambda Extension](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-parameters-secrets-lambda-extension/)
 - [Amazon Interactive Video Service now includes web and mobile SDKs for IVS stream chat](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-interactive-video-service-web-mobile-sdks-ivs-stream-chat/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Canvas announces Quick build support for time-series forecast models](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quick-build-support-time-series-forecast-models/)
 - [Announcing new AWS Amplify Library for Swift, now with support for both iOS and macOS](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-amplify-library-swift-support-ios-macos/)
 - [AWS Snowball Edge Compute Optimized delivers double the compute capacity and is now fully SSD NVMe storage](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-snowball-edge-compute-optimized-double-compute-capacatiy-ssd-nvme-storage/)
-- [Amazon Connect Wisdom now delivers improved machine learning capabilities](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-wisdom-delivers-improved-machine-learning-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Visualize application health with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/10/visualize-application-health-amazon-cloudwatch-application-insights/)
 - [Amazon SQS announces increased throughput quota for FIFO High Throughput &lpar;HT&rpar; mode to up to 6,000 Transactions Per Second &lpar;TPS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-ht-mode-6000-transactions-per-second-tps/)
 - [Announcing the FreeFormInput Slot Type for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/10/announcing-freeforminput-slot-type-amazon-lex/)
 - [AWS Step Functions adds new execution observability features for Express Workflows](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-step-functions-adds-new-execution-observability-features-express-workflows/)
@@ -67,7 +68,6 @@
 - [Amazon Interactive Video Service now includes web and mobile SDKs for IVS stream chat](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-interactive-video-service-web-mobile-sdks-ivs-stream-chat/)
 - [Amazon Corretto October 2022 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-corretto-october-2022-quarterly-updates/)
 - [Amazon SageMaker Canvas announces Quick build support for time-series forecast models](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-quick-build-support-time-series-forecast-models/)
-- [Announcing new AWS Amplify Library for Swift, now with support for both iOS and macOS](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-amplify-library-swift-support-ios-macos/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

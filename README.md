@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket now supports pulse-level access to study the performance of today’s quantum computers](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-braket-supports-pulse-level-access-study-performance-todays-quantum-computers/)
+- [Amazon DevOps Guru now provides list view for resources analyzed](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-devops-guru-provides-list-view-resources-analyzed/)
 - [IAM Identity Center adds session management features for improved user experience and cloud security](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-identity-center-session-management-features-improved-user-experience-cloud-security/)
 - [AWS CloudFormation language extensions transform is now available in AWS GovCloud](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-language-extensions-transform-available-aws-govcloud/)
 - [AWS Service Management Connector now streamlines display of AWS Service Catalog products by Account and Region in ServiceNow Service Portal](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-service-management-connector-streamlines-display-aws-service-catalog-products-account-region-servicenow-service-portal/)
@@ -66,8 +68,6 @@
 - [AWS Control Tower now available in GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-available-govcloud-us-regions/)
 - [Amazon FSx for Windows is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-available-aws-asia-pacific-jakarta-region/)
 - [Amazon Aurora MySQL supports faster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-faster-export-s3/)
-- [Announcing Remote Reboot for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/remote-reboot-aws-panorama/)
-- [Announcing Camera Stream Pause and Resume on AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/camera-stream-pause-resume-aws-panorama/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

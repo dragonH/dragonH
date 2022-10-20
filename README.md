@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora MySQL supports faster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-faster-export-s3/)
 - [Announcing Remote Reboot for AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/remote-reboot-aws-panorama/)
 - [Announcing Camera Stream Pause and Resume on AWS Panorama](https://aws.amazon.com/about-aws/whats-new/2022/10/camera-stream-pause-resume-aws-panorama/)
 - [Amazon WorkDocs adds support for Apple Silicon MacBooks](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workdocs-support-apple-silicon-macbooks/)
@@ -67,7 +68,6 @@
 - [AWS Step Functions adds new execution observability features for Express Workflows](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-step-functions-adds-new-execution-observability-features-express-workflows/)
 - [Amazon SES now offers new model to simplify provisioning and managing dedicated IPs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ses-model-provisioning-managing-dedicated-ips/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the Middle East &lpar;UAE&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-elastic-file-system-available-middle-east-uae-region/)
-- [Announcing AWS Parameters and Secrets Lambda Extension](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-parameters-secrets-lambda-extension/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon EKS Anywhere on Apache CloudStack](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-announces-amazon-eks-anywhere-apache-cloudstack/)
+- [Amazon EKS Anywhere now includes support for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-anywhere-includes-support-red-hat-enterprise-linux/)
 - [AWS CloudTrail Lake now supports export of signed query results to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudtrail-lake-export-signed-query-results-amazon-s3/)
 - [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-file-server-available-aws-asia-pacific-jakarta-region/)
 - [AWS Global Accelerator announces AddEndpoint and RemoveEndpoint APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoint-removeendpoint-apis/)
@@ -66,8 +68,6 @@
 - [Amazon Braket now supports pulse-level access to study the performance of today’s quantum computers](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-braket-supports-pulse-level-access-study-performance-todays-quantum-computers/)
 - [Amazon DevOps Guru now provides list view for resources analyzed](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-devops-guru-provides-list-view-resources-analyzed/)
 - [IAM Identity Center adds session management features for improved user experience and cloud security](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-identity-center-session-management-features-improved-user-experience-cloud-security/)
-- [AWS CloudFormation language extensions transform is now available in AWS GovCloud](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudformation-language-extensions-transform-available-aws-govcloud/)
-- [AWS Service Management Connector now streamlines display of AWS Service Catalog products by Account and Region in ServiceNow Service Portal](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-service-management-connector-streamlines-display-aws-service-catalog-products-account-region-servicenow-service-portal/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

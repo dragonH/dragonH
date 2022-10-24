@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS Snapshots Archive is now available in AWS GovCloud &lpar;US&rpar; Regions enabling customers to save up to 75% in snapshot storage costs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ebs-snapshots-archive-aws-govcloud-us-regions-customers-save-snapshot-storage-costs/)
+- [Amazon Cognito now provides user pool deletion protection](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cognito-console-user-pool-deletion-protection/)
 - [Reduce dimensionality using PCA in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-reduce-dimensionality-pca/)
 - [Announcing support for dynamic reference to data sets with parameters in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-dynamic-reference-data-sets-parameters/)
 - [Schedule data preparation jobs with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-schedule-data-preparation-jobs/)
@@ -66,8 +68,6 @@
 - [Amazon EKS Anywhere now includes support for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-anywhere-includes-support-red-hat-enterprise-linux/)
 - [AWS CloudTrail Lake now supports export of signed query results to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloudtrail-lake-export-signed-query-results-amazon-s3/)
 - [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-fsx-windows-file-server-available-aws-asia-pacific-jakarta-region/)
-- [AWS Global Accelerator announces AddEndpoint and RemoveEndpoint APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoint-removeendpoint-apis/)
-- [Amazon S3 on Outposts now supports Access Point aliases to simplify application access to data](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-outposts-access-point-aliases-application-access-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

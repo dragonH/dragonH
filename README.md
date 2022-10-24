@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator announces AddEndpoints and RemoveEndpoints APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoints-removeendpoints-apis/)
+- [Amazon S3 Replication now supports SSE-C encrypted objects](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-replication-sse-c-encrypted-objects/)
 - [Amazon EBS Snapshots Archive is now available in AWS GovCloud &lpar;US&rpar; Regions enabling customers to save up to 75% in snapshot storage costs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ebs-snapshots-archive-aws-govcloud-us-regions-customers-save-snapshot-storage-costs/)
 - [AWS Batch increases compute and memory resource configurations for Fargate type jobs by 4X](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-increases-compute-memory-resource-configurations-fargate-type-jobs-4x/)
 - [Amazon Aurora now supports T4g instances in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-supports-t4g-instances-aws-govcloud-us-regions/)
@@ -66,8 +68,6 @@
 - [Announcing support for dynamic reference to data sets with parameters in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-dynamic-reference-data-sets-parameters/)
 - [Schedule data preparation jobs with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-schedule-data-preparation-jobs/)
 - [AWS Nitro Enclaves is now supported on AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-nitro-enclaves-now-supported-aws-graviton/)
-- [AWS announces Amazon EKS Anywhere on Apache CloudStack](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-announces-amazon-eks-anywhere-apache-cloudstack/)
-- [Amazon EKS Anywhere now includes support for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-anywhere-includes-support-red-hat-enterprise-linux/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

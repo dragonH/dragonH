@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch now supports Amazon Elastic Kubernetes Service &lpar;Amazon EKS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/)
 - [Amazon CloudWatch RUM now supports custom metadata attributes in RUM events for better troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-rum-custom-metadata-attributes-rum-events-troubleshooting/)
 - [AWS Global Accelerator announces AddEndpoints and RemoveEndpoints APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoints-removeendpoints-apis/)
 - [Amazon S3 Replication now supports SSE-C encrypted objects](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-replication-sse-c-encrypted-objects/)
@@ -67,7 +68,6 @@
 - [Amazon Cognito now provides user pool deletion protection](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cognito-console-user-pool-deletion-protection/)
 - [Reduce dimensionality using PCA in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-reduce-dimensionality-pca/)
 - [Announcing support for dynamic reference to data sets with parameters in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-dynamic-reference-data-sets-parameters/)
-- [Schedule data preparation jobs with Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-schedule-data-preparation-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

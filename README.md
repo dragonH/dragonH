@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync adds support for self-signed certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-datasync-support-self-signed-certificates/)
+- [Amazon SageMaker adds eight new Graviton-based instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-adds-new-graviton-based-instances-model-deployment/)
 - [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/two-new-here-map-styles-amazon-location-service/)
 - [Amazon SageMaker now enables customers to cost effectively host 1000s of GPU models using Multi Model Endpoint](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-cost-effectively-host-1000s-gpu-multi-model-endpoint/)
 - [AWS Resource Access Manager is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-resource-manager-available-middle-east-uae-region/)
@@ -66,8 +68,6 @@
 - [AWS Batch now supports Amazon Elastic Kubernetes Service &lpar;Amazon EKS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/)
 - [Amazon CloudWatch RUM now supports custom metadata attributes in RUM events for better troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-rum-custom-metadata-attributes-rum-events-troubleshooting/)
 - [AWS Global Accelerator announces AddEndpoints and RemoveEndpoints APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoints-removeendpoints-apis/)
-- [Amazon S3 Replication now supports SSE-C encrypted objects](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-s3-replication-sse-c-encrypted-objects/)
-- [Amazon EBS Snapshots Archive is now available in AWS GovCloud &lpar;US&rpar; Regions enabling customers to save up to 75% in snapshot storage costs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ebs-snapshots-archive-aws-govcloud-us-regions-customers-save-snapshot-storage-costs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

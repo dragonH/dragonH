@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora MySQL 2.11 with R6i instance support is generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-2-11-r6i-instance-support-generally-available/)
 - [AWS DataSync adds support for self-signed certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-datasync-support-self-signed-certificates/)
 - [Amazon SageMaker adds eight new Graviton-based instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-adds-new-graviton-based-instances-model-deployment/)
 - [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/two-new-here-map-styles-amazon-location-service/)
@@ -67,7 +68,6 @@
 - [AWS Organizations console now allows users to centrally manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-organizations-console-centrally-manage-primary-contact-information-aws-accounts/)
 - [AWS Batch now supports Amazon Elastic Kubernetes Service &lpar;Amazon EKS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/)
 - [Amazon CloudWatch RUM now supports custom metadata attributes in RUM events for better troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-rum-custom-metadata-attributes-rum-events-troubleshooting/)
-- [AWS Global Accelerator announces AddEndpoints and RemoveEndpoints APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoints-removeendpoints-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

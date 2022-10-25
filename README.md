@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 High Memory instances with 18TiB and 24TiB of memory are now available with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-high-memory-instances-18tib-24tib-memory-available-on-demand-savings-plan-purchase-options/)
 - [Amazon Aurora MySQL 2.11 with R6i instance support is generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-2-11-r6i-instance-support-generally-available/)
 - [AWS DataSync adds support for self-signed certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-datasync-support-self-signed-certificates/)
 - [Amazon SageMaker adds eight new Graviton-based instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-adds-new-graviton-based-instances-model-deployment/)
@@ -67,7 +68,6 @@
 - [CDK For Kubernetes &lpar;CDK8s&rpar; announces general availability of CDK8s+ and manifest validation support](https://aws.amazon.com/about-aws/whats-new/2022/10/cdk-kubernetes-cdk8s-availability-manifest-validation-support/)
 - [AWS Organizations console now allows users to centrally manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-organizations-console-centrally-manage-primary-contact-information-aws-accounts/)
 - [AWS Batch now supports Amazon Elastic Kubernetes Service &lpar;Amazon EKS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/)
-- [Amazon CloudWatch RUM now supports custom metadata attributes in RUM events for better troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-rum-custom-metadata-attributes-rum-events-troubleshooting/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

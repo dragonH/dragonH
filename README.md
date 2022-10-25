@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Access Manager is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-resource-manager-available-middle-east-uae-region/)
+- [CDK For Kubernetes &lpar;CDK8s&rpar; announces general availability of CDK8s+ and manifest validation support](https://aws.amazon.com/about-aws/whats-new/2022/10/cdk-kubernetes-cdk8s-availability-manifest-validation-support/)
+- [AWS Organizations console now allows users to centrally manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-organizations-console-centrally-manage-primary-contact-information-aws-accounts/)
 - [AWS Batch now supports Amazon Elastic Kubernetes Service &lpar;Amazon EKS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/)
 - [Amazon CloudWatch RUM now supports custom metadata attributes in RUM events for better troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cloudwatch-rum-custom-metadata-attributes-rum-events-troubleshooting/)
 - [AWS Global Accelerator announces AddEndpoints and RemoveEndpoints APIs](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-global-accelerator-announces-addendpoints-removeendpoints-apis/)
@@ -65,9 +68,6 @@
 - [Amazon EBS Snapshots Archive is now available in AWS GovCloud &lpar;US&rpar; Regions enabling customers to save up to 75% in snapshot storage costs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ebs-snapshots-archive-aws-govcloud-us-regions-customers-save-snapshot-storage-costs/)
 - [AWS Batch increases compute and memory resource configurations for Fargate type jobs by 4X](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-increases-compute-memory-resource-configurations-fargate-type-jobs-4x/)
 - [Amazon Aurora now supports T4g instances in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-supports-t4g-instances-aws-govcloud-us-regions/)
-- [Amazon Cognito now provides user pool deletion protection](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-cognito-console-user-pool-deletion-protection/)
-- [Reduce dimensionality using PCA in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-reduce-dimensionality-pca/)
-- [Announcing support for dynamic reference to data sets with parameters in Amazon SageMaker Data Wrangler](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-data-wrangler-dynamic-reference-data-sets-parameters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

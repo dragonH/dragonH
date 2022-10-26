@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Toolkit for .NET Refactoring, a new Visual Studio extension](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-toolkit-net-refactoring-visual-studio-extension/)
 - [AWS Private Certificate Authority introduces a mode for short-lived certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-private-certificate-authority-introduces-mode-short-lived-certificates/)
 - [Amazon WorkSpaces Web Access for WSP now includes 7 new features, including bi-directional audio/video](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workspaces-web-access-wsp-includes-new-features-bi-directional-audio-video/)
 - [Amazon SageMaker Canvas supports tags to track and allocate costs incurred by users](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-supports-tags-track-allocate-costs-incurred-users/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora MySQL 2.11 with R6i instance support is generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-2-11-r6i-instance-support-generally-available/)
 - [AWS DataSync adds support for self-signed certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-datasync-support-self-signed-certificates/)
 - [Amazon SageMaker adds eight new Graviton-based instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-adds-new-graviton-based-instances-model-deployment/)
-- [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/two-new-here-map-styles-amazon-location-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

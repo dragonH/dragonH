@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Simulator now supports network connectivity disruption](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/)
+- [Amazon Neptune Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-neptune-serverless-generally-available/)
 - [Amazon Connect adds real-time schedule adherence](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-real-time-schedule-adherence/)
 - [Amazon SageMaker Automatic Model Tuning now supports Grid Search](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-automatic-model-tuning-grid-search/)
 - [Introducing AWS Toolkit for .NET Refactoring, a new Visual Studio extension](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-toolkit-net-refactoring-visual-studio-extension/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Canvas supports tags to track and allocate costs incurred by users](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-supports-tags-track-allocate-costs-incurred-users/)
 - [Amazon EC2 C6i, M6i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6i-m6i-available-additional-regions/)
 - [Amazon MSK adds support for Apache Kafka version 3.3.1](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-support-apache-kafka-version-3-3-1/)
-- [EC2 High Memory instances with 18TiB and 24TiB of memory are now available with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-high-memory-instances-18tib-24tib-memory-available-on-demand-savings-plan-purchase-options/)
-- [Amazon Aurora MySQL 2.11 with R6i instance support is generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-2-11-r6i-instance-support-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

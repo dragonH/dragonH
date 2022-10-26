@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect adds real-time schedule adherence](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-real-time-schedule-adherence/)
 - [Amazon SageMaker Automatic Model Tuning now supports Grid Search](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-automatic-model-tuning-grid-search/)
 - [Introducing AWS Toolkit for .NET Refactoring, a new Visual Studio extension](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-toolkit-net-refactoring-visual-studio-extension/)
 - [AWS Private Certificate Authority introduces a mode for short-lived certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-private-certificate-authority-introduces-mode-short-lived-certificates/)
@@ -67,7 +68,6 @@
 - [Amazon MSK adds support for Apache Kafka version 3.3.1](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-support-apache-kafka-version-3-3-1/)
 - [EC2 High Memory instances with 18TiB and 24TiB of memory are now available with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-high-memory-instances-18tib-24tib-memory-available-on-demand-savings-plan-purchase-options/)
 - [Amazon Aurora MySQL 2.11 with R6i instance support is generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-2-11-r6i-instance-support-generally-available/)
-- [AWS DataSync adds support for self-signed certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-datasync-support-self-signed-certificates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

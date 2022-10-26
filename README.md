@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Private Certificate Authority introduces a mode for short-lived certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-private-certificate-authority-introduces-mode-short-lived-certificates/)
+- [Amazon WorkSpaces Web Access for WSP now includes 7 new features, including bi-directional audio/video](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workspaces-web-access-wsp-includes-new-features-bi-directional-audio-video/)
+- [Amazon SageMaker Canvas supports tags to track and allocate costs incurred by users](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-supports-tags-track-allocate-costs-incurred-users/)
+- [Amazon EC2 C6i, M6i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6i-m6i-available-additional-regions/)
+- [Amazon MSK adds support for Apache Kafka version 3.3.1](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-support-apache-kafka-version-3-3-1/)
 - [EC2 High Memory instances with 18TiB and 24TiB of memory are now available with On-Demand and Savings Plan purchase options](https://aws.amazon.com/about-aws/whats-new/2022/10/ec2-high-memory-instances-18tib-24tib-memory-available-on-demand-savings-plan-purchase-options/)
 - [Amazon Aurora MySQL 2.11 with R6i instance support is generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-mysql-2-11-r6i-instance-support-generally-available/)
 - [AWS DataSync adds support for self-signed certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-datasync-support-self-signed-certificates/)
 - [Amazon SageMaker adds eight new Graviton-based instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-adds-new-graviton-based-instances-model-deployment/)
 - [Announcing two new HERE map styles for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/two-new-here-map-styles-amazon-location-service/)
-- [Amazon SageMaker now enables customers to cost effectively host 1000s of GPU models using Multi Model Endpoint](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-cost-effectively-host-1000s-gpu-multi-model-endpoint/)
-- [AWS Resource Access Manager is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-resource-manager-available-middle-east-uae-region/)
-- [CDK For Kubernetes &lpar;CDK8s&rpar; announces general availability of CDK8s+ and manifest validation support](https://aws.amazon.com/about-aws/whats-new/2022/10/cdk-kubernetes-cdk8s-availability-manifest-validation-support/)
-- [AWS Organizations console now allows users to centrally manage primary contact information on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-organizations-console-centrally-manage-primary-contact-information-aws-accounts/)
-- [AWS Batch now supports Amazon Elastic Kubernetes Service &lpar;Amazon EKS&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-batch-supports-amazon-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

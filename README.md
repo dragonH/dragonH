@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK Connect now supports private DNS hostnames for enhanced security](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-connect-supports-private-dns-hostnames-enhanced-security/)
 - [Avoid runaway queries and improve query resiliency to spot interruptions with PrestoDB and Trino on EMR 6.8](https://aws.amazon.com/about-aws/whats-new/2022/10/avoid-runaway-queries-improve-query-resiliency-spot-interruptions-prestodb-trino-emr-6-8/)
 - [AWS Console Mobile Application adds support for AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-console-mobile-application-adds-support-aws-cloudshell/)
 - [Introducing the AWS Control Tower delivery and AWS Control Tower ready program](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-delivery-control-tower-ready-program/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight launches Customer Managed Keys &lpar;CMK&rpar; for SPICE data encryption](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-customer-managed-keys-spice-data-encryption/)
 - [Announcing Amazon EMR Hive improvements: Metastore check &lpar;MSCK&rpar; command optimization and Parquet Modular Encryption](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-emr-hive-metastore-check-msck-command-optimization-parquet-modular-encryption/)
 - [Announcing general availability of SQL Notebooks support in Amazon Redshift Query Editor](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-query-editor-sql-notebooks-support/)
-- [Amazon RDS for Oracle now supports memory optimized R5b instance types](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-oracle-supports-memory-optimized-r5b-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

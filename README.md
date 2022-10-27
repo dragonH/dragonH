@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 G5 instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/)
+- [AWS WAF launches Challenge rule action and Bot Control for Targeted Bots](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-waf-challenge-rule-action-bot-control-targeted-bots/)
+- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-paris-region/)
+- [Amazon Aurora supports cluster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-cluster-export-s3/)
+- [Amazon EC2 enables easier patching of guest operating system and applications with Replace Root Volume](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-enables-patching-guest-operating-system-application-replace-root-volume/)
+- [Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-is4gen-im4gn-instances-available-asia-pacific-singapore-region/)
 - [Amazon MSK Connect now supports private DNS hostnames for enhanced security](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-connect-supports-private-dns-hostnames-enhanced-security/)
 - [Avoid runaway queries and improve query resiliency to spot interruptions with PrestoDB and Trino on EMR 6.8](https://aws.amazon.com/about-aws/whats-new/2022/10/avoid-runaway-queries-improve-query-resiliency-spot-interruptions-prestodb-trino-emr-6-8/)
 - [AWS Console Mobile Application adds support for AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-console-mobile-application-adds-support-aws-cloudshell/)
 - [Introducing the AWS Control Tower delivery and AWS Control Tower ready program](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-delivery-control-tower-ready-program/)
-- [Introducing the Amazon EKS Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-delivery-program/)
-- [Introducing the Amazon OpenSearch Service delivery program](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-opensearch-service-delivery-program/)
-- [AWS Cloud Control API is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-control-api-available-aws-middle-east-uae-region/)
-- [Amazon QuickSight launches Customer Managed Keys &lpar;CMK&rpar; for SPICE data encryption](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-customer-managed-keys-spice-data-encryption/)
-- [Announcing Amazon EMR Hive improvements: Metastore check &lpar;MSCK&rpar; command optimization and Parquet Modular Encryption](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-emr-hive-metastore-check-msck-command-optimization-parquet-modular-encryption/)
-- [Announcing general availability of SQL Notebooks support in Amazon Redshift Query Editor](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-query-editor-sql-notebooks-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

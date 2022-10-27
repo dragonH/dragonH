@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS Local Zones in Hamburg and Warsaw](https://aws.amazon.com/about-aws/whats-new/2022/10/announcing-general-availability-aws-local-zones-hamburg-warsaw/)
 - [IAM Access Analyzer findings now support Amazon SNS topics and five other AWS resource types to help you identify public and cross-account access](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-findings-amazon-sns-topics-5-aws-resource-types-account-access/)
 - [AWS Fault Injection Simulator now supports network connectivity disruption](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/)
 - [Amazon Neptune Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-neptune-serverless-generally-available/)
@@ -67,7 +68,6 @@
 - [AWS Private Certificate Authority introduces a mode for short-lived certificates](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-private-certificate-authority-introduces-mode-short-lived-certificates/)
 - [Amazon WorkSpaces Web Access for WSP now includes 7 new features, including bi-directional audio/video](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-workspaces-web-access-wsp-includes-new-features-bi-directional-audio-video/)
 - [Amazon SageMaker Canvas supports tags to track and allocate costs incurred by users](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-canvas-supports-tags-track-allocate-costs-incurred-users/)
-- [Amazon EC2 C6i, M6i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-c6i-m6i-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

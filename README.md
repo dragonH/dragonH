@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing the AWS Control Tower delivery and AWS Control Tower ready program](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-control-tower-delivery-control-tower-ready-program/)
+- [Introducing the Amazon EKS Delivery Program](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-eks-delivery-program/)
+- [Introducing the Amazon OpenSearch Service delivery program](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-opensearch-service-delivery-program/)
+- [AWS Cloud Control API is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-cloud-control-api-available-aws-middle-east-uae-region/)
+- [Amazon QuickSight launches Customer Managed Keys &lpar;CMK&rpar; for SPICE data encryption](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-customer-managed-keys-spice-data-encryption/)
 - [Announcing Amazon EMR Hive improvements: Metastore check &lpar;MSCK&rpar; command optimization and Parquet Modular Encryption](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-emr-hive-metastore-check-msck-command-optimization-parquet-modular-encryption/)
 - [Announcing general availability of SQL Notebooks support in Amazon Redshift Query Editor](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-redshift-query-editor-sql-notebooks-support/)
 - [Amazon RDS for Oracle now supports memory optimized R5b instance types](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-oracle-supports-memory-optimized-r5b-instance-types/)
 - [Announcing General Availability of Amazon EC2 i4i.metal instance for VMware Cloud on AWS](https://aws.amazon.com/about-aws/whats-new/2022/10/general-availability-amazon-ec2-i4i-metal-instance-vmware-cloud-aws/)
 - [Announcing the general availability of AWS Local Zones in Hamburg and Warsaw](https://aws.amazon.com/about-aws/whats-new/2022/10/announcing-general-availability-aws-local-zones-hamburg-warsaw/)
-- [IAM Access Analyzer findings now support Amazon SNS topics and five other AWS resource types to help you identify public and cross-account access](https://aws.amazon.com/about-aws/whats-new/2022/10/iam-access-analyzer-findings-amazon-sns-topics-5-aws-resource-types-account-access/)
-- [AWS Fault Injection Simulator now supports network connectivity disruption](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-fault-injection-simulator-network-connectivity-disruption/)
-- [Amazon Neptune Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-neptune-serverless-generally-available/)
-- [Amazon Connect adds real-time schedule adherence](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-connect-real-time-schedule-adherence/)
-- [Amazon SageMaker Automatic Model Tuning now supports Grid Search](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-automatic-model-tuning-grid-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

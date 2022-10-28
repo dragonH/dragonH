@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect adds flow alerts for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-elemental-mediaconnect-flow-alerts-easier-troubleshooting/)
+- [Amazon MSK now offers a new low-cost storage tier that scales to virtually unlimited storage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-offers-low-cost-storage-tier-scales-virtually-unlimited-storage/)
 - [Amazon EC2 X2idn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-x2idn-instances-available-asia-pacific-osaka-region/)
 - [Amazon EC2 G5 instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/)
 - [AWS WAF launches Challenge rule action and Bot Control for Targeted Bots](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-waf-challenge-rule-action-bot-control-targeted-bots/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 enables easier patching of guest operating system and applications with Replace Root Volume](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-enables-patching-guest-operating-system-application-replace-root-volume/)
 - [Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-is4gen-im4gn-instances-available-asia-pacific-singapore-region/)
 - [Amazon MSK Connect now supports private DNS hostnames for enhanced security](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-connect-supports-private-dns-hostnames-enhanced-security/)
-- [Avoid runaway queries and improve query resiliency to spot interruptions with PrestoDB and Trino on EMR 6.8](https://aws.amazon.com/about-aws/whats-new/2022/10/avoid-runaway-queries-improve-query-resiliency-spot-interruptions-prestodb-trino-emr-6-8/)
-- [AWS Console Mobile Application adds support for AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-console-mobile-application-adds-support-aws-cloudshell/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

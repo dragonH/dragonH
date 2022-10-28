@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight enables Row Level Security &lpar;RLS&rpar; on Dataset-as-a-source](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-row-level-security-dataset-as-a-source/)
 - [CloudWatch RUM now supports Extended CloudWatch Metrics with additional dimensions](https://aws.amazon.com/about-aws/whats-new/2022/10/cloudwatch-rum-supports-extended-cloudwatch-metrics-additional-dimensions/)
 - [Amazon RDS now supports events for operating system updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-events-operating-system-updates/)
 - [Amazon Pinpoint console now supports pool management](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-pinpoint-console-pool-management/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 G5 instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/)
 - [AWS WAF launches Challenge rule action and Bot Control for Targeted Bots](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-waf-challenge-rule-action-bot-control-targeted-bots/)
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-paris-region/)
-- [Amazon Aurora supports cluster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-cluster-export-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

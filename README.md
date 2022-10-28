@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Model Monitor is now supported for Batch Transform jobs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-model-monitor-batch-transform-jobs/)
+- [AWS App Runner launches support for PHP, Go, .Net, and Ruby managed runtimes](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-app-runner-support-php-go-dot-net-ruby-managed-runtimes/)
 - [Amazon QuickSight enables Row Level Security &lpar;RLS&rpar; on Dataset-as-a-source](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-row-level-security-dataset-as-a-source/)
 - [CloudWatch RUM now supports Extended CloudWatch Metrics with additional dimensions](https://aws.amazon.com/about-aws/whats-new/2022/10/cloudwatch-rum-supports-extended-cloudwatch-metrics-additional-dimensions/)
 - [Amazon RDS now supports events for operating system updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-events-operating-system-updates/)
@@ -66,8 +68,6 @@
 - [Amazon MSK now offers a new low-cost storage tier that scales to virtually unlimited storage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-offers-low-cost-storage-tier-scales-virtually-unlimited-storage/)
 - [Amazon EC2 X2idn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-x2idn-instances-available-asia-pacific-osaka-region/)
 - [Amazon EC2 G5 instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/)
-- [AWS WAF launches Challenge rule action and Bot Control for Targeted Bots](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-waf-challenge-rule-action-bot-control-targeted-bots/)
-- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-paris-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

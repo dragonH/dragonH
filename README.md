@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports events for operating system updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-events-operating-system-updates/)
+- [Amazon Pinpoint console now supports pool management](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-pinpoint-console-pool-management/)
 - [AWS Elemental MediaConnect adds flow alerts for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-elemental-mediaconnect-flow-alerts-easier-troubleshooting/)
 - [Amazon MSK now offers a new low-cost storage tier that scales to virtually unlimited storage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-offers-low-cost-storage-tier-scales-virtually-unlimited-storage/)
 - [Amazon EC2 X2idn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-x2idn-instances-available-asia-pacific-osaka-region/)
@@ -66,8 +68,6 @@
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-graviton2-based-amazon-ec2-c6gd-instances-available-europe-paris-region/)
 - [Amazon Aurora supports cluster export to S3](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-aurora-cluster-export-s3/)
 - [Amazon EC2 enables easier patching of guest operating system and applications with Replace Root Volume](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-enables-patching-guest-operating-system-application-replace-root-volume/)
-- [Amazon EC2 Is4gen and Im4gn Instances are now available in Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-is4gen-im4gn-instances-available-asia-pacific-singapore-region/)
-- [Amazon MSK Connect now supports private DNS hostnames for enhanced security](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-connect-supports-private-dns-hostnames-enhanced-security/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

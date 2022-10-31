@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard adds support for placing Microsoft SQL Server tempdb in an instance store](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-placing-microsoft-sql-server-tempdb-instance-store/)
 - [Amazon SageMaker Model Monitor is now supported for Batch Transform jobs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-model-monitor-batch-transform-jobs/)
 - [AWS App Runner launches support for PHP, Go, .Net, and Ruby managed runtimes](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-app-runner-support-php-go-dot-net-ruby-managed-runtimes/)
 - [Amazon QuickSight enables Row Level Security &lpar;RLS&rpar; on Dataset-as-a-source](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-quicksight-row-level-security-dataset-as-a-source/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaConnect adds flow alerts for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-elemental-mediaconnect-flow-alerts-easier-troubleshooting/)
 - [Amazon MSK now offers a new low-cost storage tier that scales to virtually unlimited storage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-offers-low-cost-storage-tier-scales-virtually-unlimited-storage/)
 - [Amazon EC2 X2idn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-x2idn-instances-available-asia-pacific-osaka-region/)
-- [Amazon EC2 G5 instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-ec2-g5-instances-available-stockholm-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

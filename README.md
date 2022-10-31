@@ -63,7 +63,7 @@
 - [AWS IoT Core announces Location Action to route location data from IoT devices to Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-core-location-action-route-location-data-iot-devices-amazon-location-service/)
 - [Amazon Kinesis Data Streams adds capability to easily inspect data records in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-kinesis-data-streams-capability-inspect-data-records-aws-management-console/)
 - [Amazon EMR release 6.8 now supports Apache Flink 1.15.1](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-emr-release-6-8-supports-apache-flink-1-15-1/)
-- [EMR 6.8 supports Apache Hudi 0.11.1 and Apache Iceberg 0.14.0](https://aws.amazon.com/about-aws/whats-new/2022/10/emr-6-8-supports-apache-hudi-0-11-1-apache-iceberg-0-14-0/)
+- [Amazon EMR 6.8 supports Apache Hudi 0.11.1 and Apache Iceberg 0.14.0](https://aws.amazon.com/about-aws/whats-new/2022/10/emr-6-8-supports-apache-hudi-0-11-1-apache-iceberg-0-14-0/)
 - [AWS Launch Wizard adds support for placing Microsoft SQL Server tempdb in an instance store](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-placing-microsoft-sql-server-tempdb-instance-store/)
 - [Amazon SageMaker Model Monitor is now supported for Batch Transform jobs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-model-monitor-batch-transform-jobs/)
 - [AWS App Runner launches support for PHP, Go, .Net, and Ruby managed runtimes](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-app-runner-support-php-go-dot-net-ruby-managed-runtimes/)

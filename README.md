@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR release 6.8 now supports Apache Flink 1.15.1](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-emr-release-6-8-supports-apache-flink-1-15-1/)
 - [EMR 6.8 supports Apache Hudi 0.11.1 and Apache Iceberg 0.14.0](https://aws.amazon.com/about-aws/whats-new/2022/10/emr-6-8-supports-apache-hudi-0-11-1-apache-iceberg-0-14-0/)
 - [AWS Launch Wizard adds support for placing Microsoft SQL Server tempdb in an instance store](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-launch-wizard-placing-microsoft-sql-server-tempdb-instance-store/)
 - [Amazon SageMaker Model Monitor is now supported for Batch Transform jobs](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-sagemaker-model-monitor-batch-transform-jobs/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports events for operating system updates](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-rds-events-operating-system-updates/)
 - [Amazon Pinpoint console now supports pool management](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-pinpoint-console-pool-management/)
 - [AWS Elemental MediaConnect adds flow alerts for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-elemental-mediaconnect-flow-alerts-easier-troubleshooting/)
-- [Amazon MSK now offers a new low-cost storage tier that scales to virtually unlimited storage](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-msk-offers-low-cost-storage-tier-scales-virtually-unlimited-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

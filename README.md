@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces updates to the Analyze Expense API used for processing documents such as invoices and receipts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-expense-api-processing-documents/)
 - [Amazon RDS Custom for SQL Server now supports scaling storage](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-sql-server-scaling-storage/)
 - [AWS App Runner now supports privately accessible services within Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/)
 - [Amazon Connect launches API to make an agent eligible for new contacts, after a missed contact](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-api-agent-new-contacts-missed-contact/)
@@ -67,7 +68,6 @@
 - [AWS IoT Core announces Location Action to route location data from IoT devices to Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-core-location-action-route-location-data-iot-devices-amazon-location-service/)
 - [Amazon Kinesis Data Streams adds capability to easily inspect data records in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-kinesis-data-streams-capability-inspect-data-records-aws-management-console/)
 - [Amazon EMR release 6.8 now supports Apache Flink 1.15.1](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-emr-release-6-8-supports-apache-flink-1-15-1/)
-- [Amazon EMR 6.8 supports Apache Hudi 0.11.1 and Apache Iceberg 0.14.0](https://aws.amazon.com/about-aws/whats-new/2022/10/emr-6-8-supports-apache-hudi-0-11-1-apache-iceberg-0-14-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

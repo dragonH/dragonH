@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of AWS Outposts rack service in Bangladesh](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-rack-service-bangladesh/)
+- [Amazon Connect Customer Profiles now surfaces additional customer information in the Amazon Connect Agent Application](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-customer-information-connect-agent-application/)
+- [Amazon Polly launches a Dutch NTTS voice](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-launches-dutch-ntts-voice/)
 - [Amazon SageMaker Autopilot experiments are now up to 2x faster in Hyperparameter Optimization training mode](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-experiments-2x-faster-hyperparameter-optimization-training-mode/)
 - [Amazon Simple Email Service announces Virtual Deliverability Manager to help enhance email delivery success rate](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-virtual-deliverability-manager-delivery-rate/)
 - [AWS ParallelCluster 3.3: multiple instance type allocation and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-parallelcluster-3-3-multiple-instance-type-allocation-top-features/)
@@ -65,9 +68,6 @@
 - [Amazon Textract announces updates to the forms and text extraction features](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-forms-text-extraction-features/)
 - [Amazon S3 on Outposts further optimizes storage management with new Lifecycle actions and filters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-outposts-optimizes-storage-management-new-lifecycle-actions-filters/)
 - [Amazon SageMaker Autopilot now provides feature selection and the ability to change data types while creating an AutoML experiment](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-feature-selection-ability-change-data-types-creating-automl-experiment/)
-- [AWS WAF Now Supports Granular Geographic Match](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-waf-supports-granular-geographic-match/)
-- [AWS Launch Wizard now supports Amazon FSx for NetApp ONTAP and SAP HANA Host Auto Failover](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-launch-wizard-amazon-fsx-netapp-ontap-sap-hana-host-auto-failover/)
-- [Amazon Textract announces updates to its Analyze ID API](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-id-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

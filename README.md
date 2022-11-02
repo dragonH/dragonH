@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS ParallelCluster 3.3: multiple instance type allocation and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-parallelcluster-3-3-multiple-instance-type-allocation-top-features/)
+- [AWS Migration Hub Orchestrator now supports Microsoft SQL Server migration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-orchestrator-supports-microsoft-sql-server-migration/)
+- [Amazon Textract announces updates to the forms and text extraction features](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-forms-text-extraction-features/)
+- [Amazon S3 on Outposts further optimizes storage management with new Lifecycle actions and filters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-outposts-optimizes-storage-management-new-lifecycle-actions-filters/)
+- [Amazon SageMaker Autopilot now provides feature selection and the ability to change data types while creating an AutoML experiment](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-feature-selection-ability-change-data-types-creating-automl-experiment/)
+- [AWS WAF Now Supports Granular Geographic Match](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-waf-supports-granular-geographic-match/)
 - [AWS Launch Wizard now supports Amazon FSx for NetApp ONTAP and SAP HANA Host Auto Failover](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-launch-wizard-amazon-fsx-netapp-ontap-sap-hana-host-auto-failover/)
 - [Amazon Textract announces updates to its Analyze ID API](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-id-api/)
 - [Amazon Textract announces updates to the Analyze Expense API used for processing documents such as invoices and receipts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-expense-api-processing-documents/)
 - [Amazon RDS Custom for SQL Server now supports scaling storage](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-sql-server-scaling-storage/)
-- [AWS App Runner now supports privately accessible services within Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-app-runner-supports-privately-accessible-services-amazon-vpc/)
-- [Amazon Connect launches API to make an agent eligible for new contacts, after a missed contact](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-api-agent-new-contacts-missed-contact/)
-- [Amazon Braket adds support for a neutral atom quantum processor named Aquila from QuEra Computing Inc.](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-braket-neutral-atom-quantum-processor-named-aquila-quera-computing-inc/)
-- [Announcing certificate-based authentication for Amazon AppStream 2.0](https://aws.amazon.com/about-aws/whats-new/2022/10/certificate-based-authentication-amazon-appstream-2-0/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; now supports the transfer of Elastic IP addresses between AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/10/amazon-virtual-private-cloud-vpc-transfer-elastic-ip-addresses-between-aws-accounts/)
-- [AWS IoT Core announces Location Action to route location data from IoT devices to Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2022/10/aws-iot-core-location-action-route-location-data-iot-devices-amazon-location-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

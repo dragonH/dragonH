@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Autopilot experiments are now up to 2x faster in Hyperparameter Optimization training mode](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-experiments-2x-faster-hyperparameter-optimization-training-mode/)
+- [Amazon Simple Email Service announces Virtual Deliverability Manager to help enhance email delivery success rate](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-virtual-deliverability-manager-delivery-rate/)
 - [AWS ParallelCluster 3.3: multiple instance type allocation and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-parallelcluster-3-3-multiple-instance-type-allocation-top-features/)
 - [AWS Migration Hub Orchestrator now supports Microsoft SQL Server migration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-orchestrator-supports-microsoft-sql-server-migration/)
 - [Amazon Textract announces updates to the forms and text extraction features](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-forms-text-extraction-features/)
@@ -66,8 +68,6 @@
 - [AWS WAF Now Supports Granular Geographic Match](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-waf-supports-granular-geographic-match/)
 - [AWS Launch Wizard now supports Amazon FSx for NetApp ONTAP and SAP HANA Host Auto Failover](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-launch-wizard-amazon-fsx-netapp-ontap-sap-hana-host-auto-failover/)
 - [Amazon Textract announces updates to its Analyze ID API](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-id-api/)
-- [Amazon Textract announces updates to the Analyze Expense API used for processing documents such as invoices and receipts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-analyze-expense-api-processing-documents/)
-- [Amazon RDS Custom for SQL Server now supports scaling storage](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-sql-server-scaling-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

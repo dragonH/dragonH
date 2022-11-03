@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Copilot adds support for AWS App Runner’s privately accessible services and more](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-copilot-aws-app-runners-privately-services/)
 - [Announcing availability of AWS Outposts rack service in Bangladesh](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-rack-service-bangladesh/)
 - [Amazon Connect Customer Profiles now surfaces additional customer information in the Amazon Connect Agent Application](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-customer-information-connect-agent-application/)
 - [Amazon Polly launches a Dutch NTTS voice](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-launches-dutch-ntts-voice/)
@@ -67,7 +68,6 @@
 - [AWS Migration Hub Orchestrator now supports Microsoft SQL Server migration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-orchestrator-supports-microsoft-sql-server-migration/)
 - [Amazon Textract announces updates to the forms and text extraction features](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-forms-text-extraction-features/)
 - [Amazon S3 on Outposts further optimizes storage management with new Lifecycle actions and filters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-outposts-optimizes-storage-management-new-lifecycle-actions-filters/)
-- [Amazon SageMaker Autopilot now provides feature selection and the ability to change data types while creating an AutoML experiment](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-feature-selection-ability-change-data-types-creating-automl-experiment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

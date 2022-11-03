@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS message data protection is now generally available with real-time data redaction and masking](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-message-data-protection-available-real-time-data-redaction-masking/)
 - [AWS Copilot adds support for AWS App Runner’s privately accessible services and more](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-copilot-aws-app-runners-privately-services/)
 - [Announcing availability of AWS Outposts rack service in Bangladesh](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-rack-service-bangladesh/)
 - [Amazon Connect Customer Profiles now surfaces additional customer information in the Amazon Connect Agent Application](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-customer-information-connect-agent-application/)
@@ -67,7 +68,6 @@
 - [AWS ParallelCluster 3.3: multiple instance type allocation and other top requested features](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-parallelcluster-3-3-multiple-instance-type-allocation-top-features/)
 - [AWS Migration Hub Orchestrator now supports Microsoft SQL Server migration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-orchestrator-supports-microsoft-sql-server-migration/)
 - [Amazon Textract announces updates to the forms and text extraction features](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-updates-forms-text-extraction-features/)
-- [Amazon S3 on Outposts further optimizes storage management with new Lifecycle actions and filters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-outposts-optimizes-storage-management-new-lifecycle-actions-filters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

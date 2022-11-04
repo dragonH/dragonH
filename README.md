@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds Wiz as a new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-wiz-integration-partner/)
+- [AWS CloudFormation now supports Amazon RDS Multi-AZ deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-supports-amazon-rds-multi-az-deployments-readable-standbys/)
 - [Amazon Connect launches updated UI for quick connects with AWS CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-updated-ui-quick-connects-cloudtrail-support/)
 - [Amazon Simple Email Service announces Virtual Deliverability Manager to help enhance email delivery success rate](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-virtual-deliverability-manager-delivery-rate/)
 - [AWS Managed Services &lpar;AMS&rpar; now supports SQL Server on EC2 Operations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-managed-services-supports-sql-server-ec2-operations/)
@@ -66,8 +68,6 @@
 - [Amazon SNS message data protection is now generally available with real-time data redaction and masking](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-message-data-protection-available-real-time-data-redaction-masking/)
 - [AWS Copilot adds support for AWS App Runner’s privately accessible services and more](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-copilot-aws-app-runners-privately-services/)
 - [Announcing availability of AWS Outposts rack service in Bangladesh](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-rack-service-bangladesh/)
-- [Amazon Connect Customer Profiles now surfaces additional customer information in the Amazon Connect Agent Application](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-customer-information-connect-agent-application/)
-- [Amazon Polly launches a Dutch NTTS voice](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-launches-dutch-ntts-voice/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

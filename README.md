@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-available-middle-east-uae-region/)
+- [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in 12 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-multi-az-option-2x-faster-transaction-commit-latency-available-additional-aws-regions/)
 - [Amazon MSK Serverless expands its availability to Asia Pacific &lpar;Mumbai&rpar; and Canada &lpar;Central&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-msk-serverless-expands-availability-additional-regions/)
 - [AWS CloudFormation StackSets improves insights on stack instances for stack set operations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-stacksets-insights-stack-instances-set-operations/)
 - [AWS Security Hub adds Wiz as a new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-wiz-integration-partner/)
@@ -66,8 +68,6 @@
 - [Amazon Simple Email Service announces Virtual Deliverability Manager to help enhance email delivery success rate](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-virtual-deliverability-manager-delivery-rate/)
 - [AWS Managed Services &lpar;AMS&rpar; now supports SQL Server on EC2 Operations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-managed-services-supports-sql-server-ec2-operations/)
 - [Announcing data tiering for Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-data-tiering/)
-- [AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-10-gb-ephemeral-storage-lambda-functions-aws-govcloud-us-regions/)
-- [Amazon SNS message data protection is now generally available with real-time data redaction and masking](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-message-data-protection-available-real-time-data-redaction-masking/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

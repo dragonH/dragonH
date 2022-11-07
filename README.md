@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Private 5G service now includes support for multiple radio-units](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-private-5g-service-support-multiple-radio-units/)
 - [Amazon SageMaker Canvas announces support for correlation matrices for advanced data analysis](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-correlation-matrices-data-analysis/)
 - [Amazon RDS for SQL Server Now Supports Access to Transaction Log Backups](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-supports-access-transaction-log-backups/)
 - [Amazon SageMaker Canvas announces encryption support with customer managed keys for time series forecast models](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-encryption-keys-time-series-forecast-models/)
@@ -67,7 +68,6 @@
 - [AWS Glue Sensitive Data Detection feature can now identify and process sensitive data for Japan and UK entities](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-sensitive-data-detection-identify-process-sensitive-data-japan-uk-entities/)
 - [Amazon EMR on EKS now supports job templates to store and share parameters across job runs](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-job-templates-store-share-parameters-job-runs/)
 - [Amazon EC2 enables you to opt out of directly shared Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-opt-out-shared-amazon-machine-images/)
-- [Amazon Kinesis Data Firehose is now available in the Middle East &lpar;UAE&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-available-middle-east-uae-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

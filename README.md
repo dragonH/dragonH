@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas announces support for correlation matrices for advanced data analysis](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-correlation-matrices-data-analysis/)
+- [Amazon RDS for SQL Server Now Supports Access to Transaction Log Backups](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-supports-access-transaction-log-backups/)
+- [Amazon SageMaker Canvas announces encryption support with customer managed keys for time series forecast models](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-encryption-keys-time-series-forecast-models/)
+- [AWS Well-Architected Tool improves workload discovery and speeds up reviews](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-well-architected-tool-workload-discovery-speeds-reviews/)
 - [Amazon ElastiCache now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-supports-ipv6/)
 - [Announcing General Availability of Amazon Redshift Serverless in the US West &lpar;Northern California&rpar;, Europe &lpar;Paris&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-redshift-serverless-us-west-northern-california-europe-paris-aws-regions/)
 - [AWS Glue Sensitive Data Detection feature can now identify and process sensitive data for Japan and UK entities](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-sensitive-data-detection-identify-process-sensitive-data-japan-uk-entities/)
 - [Amazon EMR on EKS now supports job templates to store and share parameters across job runs](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-job-templates-store-share-parameters-job-runs/)
 - [Amazon EC2 enables you to opt out of directly shared Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-opt-out-shared-amazon-machine-images/)
 - [Amazon Kinesis Data Firehose is now available in the Middle East &lpar;UAE&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-available-middle-east-uae-aws-region/)
-- [RDS Custom for SQL Server Is Now Available in the Seoul, São Paulo and Canada &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/rds-custom-sql-server-available-new-regions/)
-- [Amazon EKS now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-available-middle-east-uae-region/)
-- [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in 12 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-multi-az-option-2x-faster-transaction-commit-latency-available-additional-aws-regions/)
-- [Amazon MSK Serverless expands its availability to Asia Pacific &lpar;Mumbai&rpar; and Canada &lpar;Central&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-msk-serverless-expands-availability-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

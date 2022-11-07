@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing General Availability of Amazon Redshift Serverless in the US West &lpar;Northern California&rpar;, Europe &lpar;Paris&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-redshift-serverless-us-west-northern-california-europe-paris-aws-regions/)
+- [AWS Glue Sensitive Data Detection feature can now identify and process sensitive data for Japan and UK entities](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-sensitive-data-detection-identify-process-sensitive-data-japan-uk-entities/)
 - [Amazon EMR on EKS now supports job templates to store and share parameters across job runs](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-job-templates-store-share-parameters-job-runs/)
 - [Amazon EC2 enables you to opt out of directly shared Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-opt-out-shared-amazon-machine-images/)
 - [Amazon Kinesis Data Firehose is now available in the Middle East &lpar;UAE&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-firehose-available-middle-east-uae-aws-region/)
@@ -66,8 +68,6 @@
 - [Amazon RDS Multi-AZ option with up to 2x faster transaction commit latency is now available in 12 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-multi-az-option-2x-faster-transaction-commit-latency-available-additional-aws-regions/)
 - [Amazon MSK Serverless expands its availability to Asia Pacific &lpar;Mumbai&rpar; and Canada &lpar;Central&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-msk-serverless-expands-availability-additional-regions/)
 - [AWS CloudFormation StackSets improves insights on stack instances for stack set operations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-stacksets-insights-stack-instances-set-operations/)
-- [AWS Security Hub adds Wiz as a new integration partner](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-wiz-integration-partner/)
-- [AWS CloudFormation now supports Amazon RDS Multi-AZ deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudformation-supports-amazon-rds-multi-az-deployments-readable-standbys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

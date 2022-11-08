@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena announces Query Result Reuse to accelerate queries](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-query-result-reuse-accelerate-queries/)
+- [Amazon EC2 placement groups can now be shared across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-placement-groups-shared-across-multiple-aws-accounts/)
 - [AWS Certificate Manager now supports Elliptic Curve Digital Signature Algorithm TLS certificates](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-certificate-manager-elliptic-curve-digital-signature-algorithm-tls-certificates/)
 - [Amazon CloudWatch Logs now supports export to SSE-KMS encrypted S3 buckets](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-logs-supports-export-sse-kms-encrypted-s3-buckets/)
 - [Announcing AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/)
@@ -66,8 +68,6 @@
 - [Amazon Polly adds neural support for Swedish, Norwegian and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-neural-support-swedish-norwegian-finnish/)
 - [Amazon RDS for Oracle now supports July 2022 Release Updates &lpar;RU&rpar; for 21c](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-supports-july-2022-release-updates-ru-21c/)
 - [AWS CloudTrail announces delegated administrator account support for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-delegated-account-support-aws-organizations/)
-- [AWS Private 5G service now includes support for multiple radio-units](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-private-5g-service-support-multiple-radio-units/)
-- [Amazon SageMaker Canvas announces support for correlation matrices for advanced data analysis](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-correlation-matrices-data-analysis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

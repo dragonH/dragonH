@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache adds support for Redis 7](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-redis-7/)
 - [Amazon OpenSearch Service announces support for cross-VPC connectivity powered by AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-cross-vpc-connectivity-aws-privatelink/)
 - [Amazon Polly adds neural support for Swedish, Norwegian and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-neural-support-swedish-norwegian-finnish/)
 - [Amazon RDS for Oracle now supports July 2022 Release Updates &lpar;RU&rpar; for 21c](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-supports-july-2022-release-updates-ru-21c/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for SQL Server Now Supports Access to Transaction Log Backups](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-supports-access-transaction-log-backups/)
 - [Amazon SageMaker Canvas announces encryption support with customer managed keys for time series forecast models](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-canvas-encryption-keys-time-series-forecast-models/)
 - [AWS Well-Architected Tool improves workload discovery and speeds up reviews](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-well-architected-tool-workload-discovery-speeds-reviews/)
-- [Amazon ElastiCache now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-supports-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

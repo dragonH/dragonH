@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new AWS Wavelength Zone in Manchester](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-wavelength-zone-manchester/)
 - [Amazon Lightsail announces support for domain registration and DNS autoconfiguration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-lightsail-domain-registration-dns-autoconfiguration/)
 - [AWS Firewall Manager can now import existing AWS Network Firewall resources](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-firewall-manager-import-existing-aws-network-firewall-resources/)
 - [Amazon Athena announces Query Result Reuse to accelerate queries](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-query-result-reuse-accelerate-queries/)
@@ -67,7 +68,6 @@
 - [Announcing AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-aws-resource-explorer/)
 - [Amazon ElastiCache adds support for Redis 7](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-redis-7/)
 - [Amazon OpenSearch Service announces support for cross-VPC connectivity powered by AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-cross-vpc-connectivity-aws-privatelink/)
-- [Amazon Polly adds neural support for Swedish, Norwegian and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-neural-support-swedish-norwegian-finnish/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

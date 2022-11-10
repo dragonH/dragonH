@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon WorkSpaces API to seamlessly migrate to WSP protocol](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-api-migrate-wsp-protocol/)
+- [AWS Lambda announces Telemetry API, further enriching monitoring and observability capabilities of Lambda Extensions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-telemetry-api-enriching-monitoring-observability-capabilities-lambda-extensions/)
+- [Amazon Aurora supports PostgreSQL 14.5, 13.8, 12.12, and 11.17 versions and logical replication cache](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-supports-postgresql-versions-logical-replication-cache/)
 - [AWS Ground Station adds support for Customer Provided Ephemeris in preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-ground-station-support-customer-provided-ephemeris/)
 - [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-vpc-support/)
 - [Amazon MQ now supports ActiveMQ version 5.17.2 and increased connection limits for ActiveMQ](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-activemq-5-17-2-increased-connection-limits/)
@@ -65,9 +68,6 @@
 - [AWS Security Hub launches support for the Center for Internet Security’s &lpar;CIS&rpar; AWS Foundations Benchmark version 1.4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/security-hub-center-internet-securitys-cis-foundations-benchmark-version-1-4-0/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c6id-m6id-r6id-instances-additional-regions/)
 - [AWS Config now supports 14 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/)
-- [Announcing recurring custom line items for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-recurring-custom-line-items/)
-- [Amazon EC2 announces network bandwidth support in attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-network-bandwith-support-instance-auto-scaling-ec2-fleet-spot-fleet/)
-- [Amazon EC2 now supports specifying list of instance types to use in attribute-based instance type selection for Auto Scaling groups, EC2 Fleet, and Spot Fleet](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-specifying-instance-types-selection-ec2-spot-fleet-auto-scaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

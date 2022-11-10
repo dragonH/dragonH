@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Simple Email Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-available-asia-pacific-jakarta-region/)
+- [Amazon RDS for MySQL supports new minor version 8.0.31](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-mysql-version-8-0-31/)
+- [AWS AppConfig achieves FedRAMP High Authority To Operate](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-appconfig-fedramp-high-authority-to-operate/)
 - [Amazon Aurora Serverless v2 is now available in 20 regions, including Asia Pacific &lpar;Osaka&rpar;, Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;Bahrain&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-serverless-available-v2-20-regions/)
 - [Amazon SNS increases the default quota for subscription filter policies by 50x to 10,000 per account](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-increases-default-quota-subscription-filter-policies-account/)
 - [Announcing Amazon WorkSpaces API to seamlessly migrate to WSP protocol](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-api-migrate-wsp-protocol/)
@@ -65,9 +68,6 @@
 - [Amazon Aurora supports PostgreSQL 14.5, 13.8, 12.12, and 11.17 versions and logical replication cache](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-supports-postgresql-versions-logical-replication-cache/)
 - [AWS Ground Station adds support for Customer Provided Ephemeris in preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-ground-station-support-customer-provided-ephemeris/)
 - [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-vpc-support/)
-- [Amazon MQ now supports ActiveMQ version 5.17.2 and increased connection limits for ActiveMQ](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-activemq-5-17-2-increased-connection-limits/)
-- [Amazon Keyspaces now supports the Murmur3Partioner](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-keyspaces-supports-murmur3partioner/)
-- [AWS Security Hub launches support for the Center for Internet Security’s &lpar;CIS&rpar; AWS Foundations Benchmark version 1.4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/security-hub-center-internet-securitys-cis-foundations-benchmark-version-1-4-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

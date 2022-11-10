@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker JumpStart now provides Stable Diffusion and Bloom models](https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-jumpstart-stable-diffusion-bloom-models/)
 - [Amazon Simple Email Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-available-asia-pacific-jakarta-region/)
 - [Amazon RDS for MySQL supports new minor version 8.0.31](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-mysql-version-8-0-31/)
 - [AWS AppConfig achieves FedRAMP High Authority To Operate](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-appconfig-fedramp-high-authority-to-operate/)
@@ -67,7 +68,6 @@
 - [AWS Lambda announces Telemetry API, further enriching monitoring and observability capabilities of Lambda Extensions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-telemetry-api-enriching-monitoring-observability-capabilities-lambda-extensions/)
 - [Amazon Aurora supports PostgreSQL 14.5, 13.8, 12.12, and 11.17 versions and logical replication cache](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-supports-postgresql-versions-logical-replication-cache/)
 - [AWS Ground Station adds support for Customer Provided Ephemeris in preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-ground-station-support-customer-provided-ephemeris/)
-- [Virtual Private Cloud &lpar;VPC&rpar; support is generally available for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-vpc-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

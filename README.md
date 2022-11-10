@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v2 is now available in 20 regions, including Asia Pacific &lpar;Osaka&rpar;, Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;Bahrain&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-serverless-available-v2-20-regions/)
+- [Amazon SNS increases the default quota for subscription filter policies by 50x to 10,000 per account](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-increases-default-quota-subscription-filter-policies-account/)
 - [Announcing Amazon WorkSpaces API to seamlessly migrate to WSP protocol](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-api-migrate-wsp-protocol/)
 - [AWS Lambda announces Telemetry API, further enriching monitoring and observability capabilities of Lambda Extensions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-telemetry-api-enriching-monitoring-observability-capabilities-lambda-extensions/)
 - [Amazon Aurora supports PostgreSQL 14.5, 13.8, 12.12, and 11.17 versions and logical replication cache](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-supports-postgresql-versions-logical-replication-cache/)
@@ -66,8 +68,6 @@
 - [Amazon MQ now supports ActiveMQ version 5.17.2 and increased connection limits for ActiveMQ](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-activemq-5-17-2-increased-connection-limits/)
 - [Amazon Keyspaces now supports the Murmur3Partioner](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-keyspaces-supports-murmur3partioner/)
 - [AWS Security Hub launches support for the Center for Internet Security’s &lpar;CIS&rpar; AWS Foundations Benchmark version 1.4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/security-hub-center-internet-securitys-cis-foundations-benchmark-version-1-4-0/)
-- [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c6id-m6id-r6id-instances-additional-regions/)
-- [AWS Config now supports 14 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-config-supports-14-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

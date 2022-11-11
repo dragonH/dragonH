@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NICE DCV releases version 2022.2 with support for monitor selection for a full-screen remote session and time zone redirection](https://aws.amazon.com/about-aws/whats-new/2022/11/nice-dcv-version-2022-2-monitor-selection-full-screen-remote-session-time-zone-redirection/)
 - [The IPv6 Subnet default gateway router now supports multiple addresses](https://aws.amazon.com/about-aws/whats-new/2022/11/ipv6-subnet-default-gateway-router-multiple-addresses/)
 - [Amazon RDS for Oracle now supports October 2022 Release Updates &lpar;RU&rpar; for 19c and 21c](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-october-2022-release-updates/)
 - [Amazon EC2 announces new price and capacity optimized allocation strategy for provisioning Amazon EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-price-capacity-optimized-allocation-strategy-provisioning-ec2-spot-instances/)
@@ -67,7 +68,6 @@
 - [AWS Backup now supports restore of VMware workloads to Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-restore-vmware-workloads-amazon-ec2/)
 - [Amazon Kendra is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-fedramp-high-compliant/)
 - [AWS IoT Device Defender now supports audit check of revoked intermediate Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-defender-audit-check-revoked-intermediate-certificate-authority/)
-- [Amazon Time Sync is now available over the internet as a public NTP service](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

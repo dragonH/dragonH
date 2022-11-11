@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-fedramp-high-compliant/)
+- [AWS IoT Device Defender now supports audit check of revoked intermediate Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-defender-audit-check-revoked-intermediate-certificate-authority/)
 - [Amazon Time Sync is now available over the internet as a public NTP service](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/)
 - [Amazon EventBridge Launches New Scheduler](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-launches-new-scheduler/)
 - [AWS Storage Gateway is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-storage-gateway-available-aws-middle-east-uae-region/)
@@ -66,8 +68,6 @@
 - [SageMaker JumpStart now provides TensorFlow Text Classification algorithms](https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-jumpstart-tensorflow-text-classification-algorithms/)
 - [SageMaker JumpStart now provides Stable Diffusion and Bloom models](https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-jumpstart-stable-diffusion-bloom-models/)
 - [Amazon Simple Email Service is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-simple-email-service-available-asia-pacific-jakarta-region/)
-- [Amazon RDS for MySQL supports new minor version 8.0.31](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-mysql-version-8-0-31/)
-- [AWS AppConfig achieves FedRAMP High Authority To Operate](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-appconfig-fedramp-high-authority-to-operate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

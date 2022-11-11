@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudTrail Lake now supports encryption using Customer Managed KMS Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/cloudtrail-lake-supports-encryption-customer-managed-kms-keys-cmk/)
 - [NICE DCV releases version 2022.2 with support for monitor selection for a full-screen remote session and time zone redirection](https://aws.amazon.com/about-aws/whats-new/2022/11/nice-dcv-version-2022-2-monitor-selection-full-screen-remote-session-time-zone-redirection/)
 - [The IPv6 Subnet default gateway router now supports multiple addresses](https://aws.amazon.com/about-aws/whats-new/2022/11/ipv6-subnet-default-gateway-router-multiple-addresses/)
 - [Amazon RDS for Oracle now supports October 2022 Release Updates &lpar;RU&rpar; for 19c and 21c](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-october-2022-release-updates/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MySQL supports new minor version 5.7.40](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-mysql-supports-new-minor-version-5-7-40/)
 - [AWS Backup now supports restore of VMware workloads to Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-restore-vmware-workloads-amazon-ec2/)
 - [Amazon Kendra is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-fedramp-high-compliant/)
-- [AWS IoT Device Defender now supports audit check of revoked intermediate Certificate Authority](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-defender-audit-check-revoked-intermediate-certificate-authority/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

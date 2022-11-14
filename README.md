@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Catalog API now supports Tag-Based Authorization of resources](https://aws.amazon.com/about-aws/whats-new/2022/11/catalog-api-supports-tag-based-authorization-resources/)
+- [AWS re:Post launches a community leaderboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-launches-community-leaderboard/)
+- [Amazon S3 Object Lambda is now available in the Asia Pacific &lpar;Osaka&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-object-lambda-available-asia-pacific-osaka-aws-region/)
+- [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-workflows-apache-airflow-mwaa-hipaa-eligible/)
+- [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon Elastic Compute Cloud &lpar;EC2&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-controllers-kubernetes-ack-elastic-compute-cloud-ec2-generally-available/)
+- [Amazon Athena expands support for AWS Lake Formation fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-support-lake-formation-fine-grained-access-control/)
 - [AWS CloudTrail Lake now supports encryption using Customer Managed KMS Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/cloudtrail-lake-supports-encryption-customer-managed-kms-keys-cmk/)
 - [NICE DCV releases version 2022.2 with support for monitor selection for a full-screen remote session and time zone redirection](https://aws.amazon.com/about-aws/whats-new/2022/11/nice-dcv-version-2022-2-monitor-selection-full-screen-remote-session-time-zone-redirection/)
 - [The IPv6 Subnet default gateway router now supports multiple addresses](https://aws.amazon.com/about-aws/whats-new/2022/11/ipv6-subnet-default-gateway-router-multiple-addresses/)
 - [Amazon RDS for Oracle now supports October 2022 Release Updates &lpar;RU&rpar; for 19c and 21c](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-october-2022-release-updates/)
-- [Amazon EC2 announces new price and capacity optimized allocation strategy for provisioning Amazon EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-price-capacity-optimized-allocation-strategy-provisioning-ec2-spot-instances/)
-- [Announcing Amazon SageMaker Model Training support for ml.trn1 instances](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-model-training-support-ml-trn1-instances/)
-- [AWS Secrets Manager increases the API Requests per Second limits](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-secrets-manager-increases-api-requests-per-second-limits/)
-- [Amazon RDS for MySQL supports new minor version 5.7.40](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-mysql-supports-new-minor-version-5-7-40/)
-- [AWS Backup now supports restore of VMware workloads to Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-restore-vmware-workloads-amazon-ec2/)
-- [Amazon Kendra is now FedRAMP High Compliant](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-fedramp-high-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

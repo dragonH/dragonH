@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon File Cache is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-file-cache-available-additional-aws-regions/)
+- [The next generation of Amazon FSx for Lustre file systems is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-lustre-file-systems-available-additional-aws-regions/)
 - [Catalog API now supports Tag-Based Authorization of resources](https://aws.amazon.com/about-aws/whats-new/2022/11/catalog-api-supports-tag-based-authorization-resources/)
 - [AWS re:Post launches a community leaderboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-launches-community-leaderboard/)
 - [Amazon S3 Object Lambda is now available in the Asia Pacific &lpar;Osaka&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-object-lambda-available-asia-pacific-osaka-aws-region/)
@@ -66,8 +68,6 @@
 - [Amazon Athena expands support for AWS Lake Formation fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-support-lake-formation-fine-grained-access-control/)
 - [AWS CloudTrail Lake now supports encryption using Customer Managed KMS Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/cloudtrail-lake-supports-encryption-customer-managed-kms-keys-cmk/)
 - [NICE DCV releases version 2022.2 with support for monitor selection for a full-screen remote session and time zone redirection](https://aws.amazon.com/about-aws/whats-new/2022/11/nice-dcv-version-2022-2-monitor-selection-full-screen-remote-session-time-zone-redirection/)
-- [The IPv6 Subnet default gateway router now supports multiple addresses](https://aws.amazon.com/about-aws/whats-new/2022/11/ipv6-subnet-default-gateway-router-multiple-addresses/)
-- [Amazon RDS for Oracle now supports October 2022 Release Updates &lpar;RU&rpar; for 19c and 21c](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-october-2022-release-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

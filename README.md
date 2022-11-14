@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkDocs announces Delete Previous Versions capabilities](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workdocs-delete-previous-versions-capabilities/)
 - [Amazon S3 request-level information on use of access control lists &lpar;ACLs&rpar; coming to S3 server access logs and AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/)
 - [AWS IoT Device Management now supports browser-based SSH via Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-management-supports-browser-based-ssh-secure-tunneling/)
 - [Amazon EventBridge now supports enhanced filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-enhanced-filtering-capabilities/)
@@ -67,7 +68,6 @@
 - [AWS re:Post launches a community leaderboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-launches-community-leaderboard/)
 - [Amazon S3 Object Lambda is now available in the Asia Pacific &lpar;Osaka&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-object-lambda-available-asia-pacific-osaka-aws-region/)
 - [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-workflows-apache-airflow-mwaa-hipaa-eligible/)
-- [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon Elastic Compute Cloud &lpar;EC2&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-controllers-kubernetes-ack-elastic-compute-cloud-ec2-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

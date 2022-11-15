@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces now supports the Murmur3Partitioner](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-keyspaces-supports-murmur3partioner/)
 - [Amazon WorkDocs announces Delete Previous Versions capabilities](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workdocs-delete-previous-versions-capabilities/)
 - [Amazon S3 request-level information on use of access control lists &lpar;ACLs&rpar; coming to S3 server access logs and AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/)
 - [AWS IoT Device Management now supports browser-based SSH via Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-management-supports-browser-based-ssh-secure-tunneling/)
@@ -67,7 +68,6 @@
 - [Catalog API now supports Tag-Based Authorization of resources](https://aws.amazon.com/about-aws/whats-new/2022/11/catalog-api-supports-tag-based-authorization-resources/)
 - [AWS re:Post launches a community leaderboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-launches-community-leaderboard/)
 - [Amazon S3 Object Lambda is now available in the Asia Pacific &lpar;Osaka&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-object-lambda-available-asia-pacific-osaka-aws-region/)
-- [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-workflows-apache-airflow-mwaa-hipaa-eligible/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Nitro Enclaves is now available in Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-asia-pacific-osaka-jakarta-regions/)
 - [Amazon RDS for Oracle now supports Amazon Elastic File System &lpar;EFS&rpar; integration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-amazon-elastic-file-system-integration/)
 - [Concurrency scaling for write workloads is now generally available for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-concurrency-scaling-write-workloads/)
 - [Amazon Connect Customer Profiles now supports profile search using multiple search terms through the API](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-search-terms-api/)
@@ -67,7 +68,6 @@
 - [Amazon Managed Service for Prometheus supports 200M active metrics per workspace](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-service-prometheus-200m-active-metrics-workspace/)
 - [AWS Elemental MediaConnect adds support for high-fidelity color workloads](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-elemental-mediaconnect-high-fidelity-color-workloads/)
 - [Introducing Amazon HealthLake Imaging preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-healthlake-imaging-preview/)
-- [Amazon RDS events now include attributes for filtering with Amazon SNS](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-events-include-attributes-filtering-amazon-sns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports Amazon Elastic File System &lpar;EFS&rpar; integration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-oracle-amazon-elastic-file-system-integration/)
+- [Concurrency scaling for write workloads is now generally available for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-concurrency-scaling-write-workloads/)
+- [Amazon Connect Customer Profiles now supports profile search using multiple search terms through the API](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-customer-profiles-search-terms-api/)
+- [Amazon HealthLake announces enhanced analytics feature](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-healthlake-enhanced-analytics-feature/)
 - [AWS re:Post is accessible to users in five additional languages - Traditional Chinese, Simplified Chinese, French, Japanese, and Korean](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-repost-five-additional-languages/)
 - [AWS SAM CLI introduces Terraform support for AWS Lambda local testing and debugging](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sam-cli-terraform-support-lambda-local-testing-debugging/)
 - [Amazon Managed Service for Prometheus supports 200M active metrics per workspace](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-service-prometheus-200m-active-metrics-workspace/)
 - [AWS Elemental MediaConnect adds support for high-fidelity color workloads](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-elemental-mediaconnect-high-fidelity-color-workloads/)
 - [Introducing Amazon HealthLake Imaging preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-healthlake-imaging-preview/)
 - [Amazon RDS events now include attributes for filtering with Amazon SNS](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-events-include-attributes-filtering-amazon-sns/)
-- [Amazon Keyspaces now supports the Murmur3Partitioner](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-keyspaces-supports-murmur3partioner/)
-- [Amazon WorkDocs announces Delete Previous Versions capabilities](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workdocs-delete-previous-versions-capabilities/)
-- [Amazon S3 request-level information on use of access control lists &lpar;ACLs&rpar; coming to S3 server access logs and AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/11/s3-request-level-information-access-control-lists-acls-s3-server-access-logs-cloudtrail/)
-- [AWS IoT Device Management now supports browser-based SSH via Secure Tunneling](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-management-supports-browser-based-ssh-secure-tunneling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

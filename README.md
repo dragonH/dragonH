@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports OpenSearch version 2.3](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-service-supports-opensearch-version-2-3/)
+- [AWS Proton now supports AWS CDK through CodeBuild provisioning](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-supports-cdk-codebuild-provisioning/)
+- [AWS Migration Hub Refactor Spaces now automatically handles DNS changes](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-dns-changes/)
 - [Amazon EC2 increases size limit for AMI store and restore operations](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-increases-size-limit-ami-store-restore-operations/)
 - [App2Container Support for EKS Blueprints](https://aws.amazon.com/about-aws/whats-new/2022/11/app2container-support-eks-blueprints/)
 - [AWS Microservice Extractor for .NET now extracts and ports code from Web Forms and WCF to .NET on Linux](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-microservice-extractor-net-extracts-ports-code-web-forms-linux/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for SQL Server now supports a linked server to Oracle](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-linked-server-oracle/)
 - [Amazon EBS direct APIs are now available in the AWS Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-direct-apis-available-middle-east-uae-region/)
 - [Amazon EC2 High Memory instances are now available in US East &lpar;N. Virginia&rpar;, US East &lpar;Ohio&rpar;, Europe &lpar;Milan&rpar;, Europe &lpar;Ireland&rpar;, and AWS GovCloud &lpar;US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-high-memory-instances-available-additional-regions/)
-- [AWS announces native AOT tooling support for .NET applications on AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/native-aot-tooling-support-net-applications-aws-lambda/)
-- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.24](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-eks-distro-support-kubernetes-version-1-24/)
-- [AWS announces centralized logging support for Windows containers on Amazon ECS and Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-centralized-logging-windows-containers-amazon-ecs-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports Cross Region Read Replica](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-cross-region-read-replica/)
 - [Amazon MQ now supports RabbitMQ version 3.10](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-rabbitmq-version-3-10/)
 - [AWS Systems Manager OpsCenter now supports managing OpsItems across accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-opscenter-supports-managing-opsitems-across-accounts/)
 - [AWS Proton launches dashboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-dashboard/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service now supports OpenSearch version 2.3](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-service-supports-opensearch-version-2-3/)
 - [AWS Proton now supports AWS CDK through CodeBuild provisioning](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-supports-cdk-codebuild-provisioning/)
 - [AWS Migration Hub Refactor Spaces now automatically handles DNS changes](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-dns-changes/)
-- [Amazon EC2 increases size limit for AMI store and restore operations](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-increases-size-limit-ami-store-restore-operations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

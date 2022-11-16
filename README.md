@@ -59,8 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon S3 Glacier improves restore throughput by up to 10x when retrieving large volumes of archived data](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-glacier-restore-throughput-10x-large-volumes-archived-data/)
-- [Amazon EBS direct APIs are now available in the AWS Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-direct-apis-available-middle-east-uae-region/)
 - [Amazon RDS for SQL Server now supports a linked server to Oracle](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-linked-server-oracle/)
+- [Amazon EBS direct APIs are now available in the AWS Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-direct-apis-available-middle-east-uae-region/)
 - [Amazon EC2 High Memory instances are now available in US East &lpar;N. Virginia&rpar;, US East &lpar;Ohio&rpar;, Europe &lpar;Milan&rpar;, Europe &lpar;Ireland&rpar;, and AWS GovCloud &lpar;US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-high-memory-instances-available-additional-regions/)
 - [AWS announces native AOT tooling support for .NET applications on AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/native-aot-tooling-support-net-applications-aws-lambda/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.24](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eks-eks-distro-support-kubernetes-version-1-24/)

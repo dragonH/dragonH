@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing billing entity pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-entity-pricing-rules/)
+- [Incident Manager from AWS Systems Manager launches incident coordination capabilities for Incident Response](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-incident-manager-coordination-incident-response/)
+- [Amazon Timestream is now available in GovCloud&lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-timestream-available-govcloud-us-west-region/)
+- [AWS Identity and Access Management now supports multiple multi-factor authentication &lpar;MFA&rpar; devices](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-identity-access-management-multi-factor-authentication-devices/)
+- [Announcing enhanced operational incident response capabilities with AWS Systems Manager and PagerDuty](https://aws.amazon.com/about-aws/whats-new/2022/11/enhanced-operational-incident-response-capabilities-aws-systems-manager-pagerduty/)
+- [Amazon EC2 C5n instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c5n-instances-available-additional-region/)
 - [Amazon RDS for SQL Server now supports Cross Region Read Replica](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-cross-region-read-replica/)
 - [Amazon MQ now supports RabbitMQ version 3.10](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-rabbitmq-version-3-10/)
 - [AWS Systems Manager OpsCenter now supports managing OpsItems across accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-opscenter-supports-managing-opsitems-across-accounts/)
 - [AWS Proton launches dashboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-dashboard/)
-- [AWS Amplify announces general availability of In-app messaging notifications for React and React Native](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-general-availability-in-app-messaging-notifications-react-react-native/)
-- [Amazon ElastiCache now supports IAM Authentication for Redis clusters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-supports-iam-authentication-redis-clusters/)
-- [AWS DataSync is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-datasync-available-aws-middle-east-uae-region/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.3](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-opensearch-service-supports-opensearch-version-2-3/)
-- [AWS Proton now supports AWS CDK through CodeBuild provisioning](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-supports-cdk-codebuild-provisioning/)
-- [AWS Migration Hub Refactor Spaces now automatically handles DNS changes](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-dns-changes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

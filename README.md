@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Build event-driven applications with AWS CloudFormation StackSets event notifications in Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2022/11/event-driven-applications-cloudformation-stacksets-event-notifications-eventbridge/)
+- [AWS IoT Device Management now supports up to twelve query terms for more granular search and monitoring](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-management-supports-query-terms-granular-search-monitoring/)
+- [AWS Amplify Hosting announces support for Next.js 12 and 13](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-hosting-support-next-js-12-13/)
 - [Amazon SQS announces attribute-based access control &lpar;ABAC&rpar; for flexible and scalable access permissions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sqs-attribute-based-access-control-abac-flexible-scalable-access-permissions/)
 - [Application Load Balancers now support turning off cross zone load balancing per target group](https://aws.amazon.com/about-aws/whats-new/2022/11/application-load-balancers-turning-off-cross-zone-load-balancing-per-target-group/)
 - [Amazon CloudFront now supports JA3 fingerprint headers](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-supports-ja3-fingerprint-headers/)
@@ -65,9 +68,6 @@
 - [Announcing billing entity pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-entity-pricing-rules/)
 - [Incident Manager from AWS Systems Manager launches incident coordination capabilities for Incident Response](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-incident-manager-coordination-incident-response/)
 - [Amazon Timestream is now available in GovCloud&lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-timestream-available-govcloud-us-west-region/)
-- [AWS Identity and Access Management now supports multiple multi-factor authentication &lpar;MFA&rpar; devices](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-identity-access-management-multi-factor-authentication-devices/)
-- [Announcing enhanced operational incident response capabilities with AWS Systems Manager and PagerDuty](https://aws.amazon.com/about-aws/whats-new/2022/11/enhanced-operational-incident-response-capabilities-aws-systems-manager-pagerduty/)
-- [Amazon EC2 C5n instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c5n-instances-available-additional-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS AppSync releases JavaScript support for GraphQL API resolvers](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-appsync-javascript-graphql-api-resolvers/)
-- [Announcing the new Applications widget on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/11/new-applications-widget-aws-console-home/)
-- [Zoom Meeting Media Plugin for Windows is now generally available on Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-zoom-media-plugin-windows/)
-- [AWS Resilience Hub adds support for Amazon Simple Notification Service &lpar;SNS&rpar; and AWS Trusted Advisor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-resilience-hub-amazon-simple-notification-service-sns-trusted-advisor/)
-- [Amazon NAT Gateway Now Allows You to Select Private IP Address for Network Address Translation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-nat-gateway-allows-select-private-ip-address-network-address-translation/)
-- [Monitor your IoT application’s security posture in AWS Security Hub, now integrated with AWS IoT Device Defender](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-iot-device-defender-application-security-posture/)
-- [Amazon SNS announces enhanced integration with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-enhanced-integration-aws-service-quotas/)
-- [AWS IoT ExpressLink Technical Specification v1.1 released](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-expresslink-technical-specification-v1-1-released/)
-- [Amazon ElastiCache simplifies password rotations with Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-simplifies-password-rotations-secrets-manager/)
-- [Amazon Connect launches API for monitoring live contacts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-api-monitoring-live-contacts/)
+- [AWS announces Amazon WorkSpaces Multi-Region Resilience](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-multi-region-resilience/)
+- [Amazon Connect launches new capabilities to help administrators manage saved reports](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-new-capabilities-manage-saved-reports/)
+- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-directory-service-microsoft-active-directory-ad-connector-uae-region/)
+- [Amazon CloudWatch RUM now supports custom events for better troubleshooting and application specific monitoring](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-rum-custom-events-troubleshooting-application-monitoring/)
+- [Amazon GameSparks Now Available in AWS Asia Pacific &lpar;Tokyo&rpar; Region in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-gamesparks-available-aws-asia-pacific-tokyo-region-preview/)
+- [Amazon Transcribe now supports Thai and Hindi languages for streaming audio](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-transcribe-thai-hindi-streaming-audio/)
+- [TwinMaker Knowledge Graph is now generally available for AWS IoT TwinMaker](https://aws.amazon.com/about-aws/whats-new/2022/11/twinmaker-knowledge-graph-generally-available-aws-iot-twinmaker/)
+- [Amazon Polly launches neural TTS support for Polish and Arabic](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-polly-neural-tts-support-polish-arabic/)
+- [Amazon S3 Storage Lens increases organization-wide visibility with 34 new metrics](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-storage-lens-organization-wide-visibility-34-metrics/)
+- [Amazon EBS Snapshots Archive is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-snapshots-archive-available-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

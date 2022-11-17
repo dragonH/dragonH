@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Application Load Balancers now support turning off cross zone load balancing per target group](https://aws.amazon.com/about-aws/whats-new/2022/11/application-load-balancers-turning-off-cross-zone-load-balancing-per-target-group/)
 - [Amazon CloudFront now supports JA3 fingerprint headers](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-supports-ja3-fingerprint-headers/)
 - [Amazon Redshift announces support of the CONNECT BY SQL construct](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-connect-by-sql-construct/)
 - [Announcing billing entity pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-entity-pricing-rules/)
@@ -67,7 +68,6 @@
 - [Announcing enhanced operational incident response capabilities with AWS Systems Manager and PagerDuty](https://aws.amazon.com/about-aws/whats-new/2022/11/enhanced-operational-incident-response-capabilities-aws-systems-manager-pagerduty/)
 - [Amazon EC2 C5n instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c5n-instances-available-additional-region/)
 - [Amazon RDS for SQL Server now supports Cross Region Read Replica](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-cross-region-read-replica/)
-- [Amazon MQ now supports RabbitMQ version 3.10](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-rabbitmq-version-3-10/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

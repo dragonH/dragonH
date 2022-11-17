@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync releases JavaScript support for GraphQL API resolvers](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-appsync-javascript-graphql-api-resolvers/)
+- [Announcing the new Applications widget on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/11/new-applications-widget-aws-console-home/)
+- [Zoom Meeting Media Plugin for Windows is now generally available on Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-zoom-media-plugin-windows/)
+- [AWS Resilience Hub adds support for Amazon Simple Notification Service &lpar;SNS&rpar; and AWS Trusted Advisor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-resilience-hub-amazon-simple-notification-service-sns-trusted-advisor/)
+- [Amazon NAT Gateway Now Allows You to Select Private IP Address for Network Address Translation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-nat-gateway-allows-select-private-ip-address-network-address-translation/)
+- [Monitor your IoT application’s security posture in AWS Security Hub, now integrated with AWS IoT Device Defender](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-iot-device-defender-application-security-posture/)
+- [Amazon SNS announces enhanced integration with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-enhanced-integration-aws-service-quotas/)
 - [AWS IoT ExpressLink Technical Specification v1.1 released](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-expresslink-technical-specification-v1-1-released/)
 - [Amazon ElastiCache simplifies password rotations with Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elasticache-simplifies-password-rotations-secrets-manager/)
 - [Amazon Connect launches API for monitoring live contacts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-api-monitoring-live-contacts/)
-- [Amazon SageMaker Autopilot now supports batch inference in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-batch-inference-sagemaker-studio/)
-- [AWS Security Hub now supports bidirectional integration via AWS Service Management Connector for Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-bidirectional-integration-connector-atlassians-jira-management-cloud/)
-- [AWS Service Management Connector now supports provisioning AWS Service Catalog products in Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-service-management-connector-catalog-jira-service-management-cloud/)
-- [Amazon WorkSpaces announces version 2.0 of WorkSpaces Streaming Protocol](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-version-2-0-streaming-protocol/)
-- [AWS Systems Manager Incident Manager now streamlines responses to Jira Service Management Cloud Incidents via AWS Service Management Connector](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-responses-jira-cloud-service-management-connector/)
-- [Build event-driven applications with AWS CloudFormation StackSets event notifications in Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2022/11/event-driven-applications-cloudformation-stacksets-event-notifications-eventbridge/)
-- [AWS IoT Device Management now supports up to twelve query terms for more granular search and monitoring](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-device-management-supports-query-terms-granular-search-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

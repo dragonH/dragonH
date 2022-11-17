@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Autopilot now supports batch inference in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-autopilot-batch-inference-sagemaker-studio/)
 - [AWS Security Hub now supports bidirectional integration via AWS Service Management Connector for Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-security-hub-bidirectional-integration-connector-atlassians-jira-management-cloud/)
 - [AWS Service Management Connector now supports provisioning AWS Service Catalog products in Atlassian’s Jira Service Management Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-service-management-connector-catalog-jira-service-management-cloud/)
 - [Amazon WorkSpaces announces version 2.0 of WorkSpaces Streaming Protocol](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-version-2-0-streaming-protocol/)
@@ -67,7 +68,6 @@
 - [AWS Amplify Hosting announces support for Next.js 12 and 13](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amplify-hosting-support-next-js-12-13/)
 - [Amazon SQS announces attribute-based access control &lpar;ABAC&rpar; for flexible and scalable access permissions](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sqs-attribute-based-access-control-abac-flexible-scalable-access-permissions/)
 - [Application Load Balancers now support turning off cross zone load balancing per target group](https://aws.amazon.com/about-aws/whats-new/2022/11/application-load-balancers-turning-off-cross-zone-load-balancing-per-target-group/)
-- [Amazon CloudFront now supports JA3 fingerprint headers](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-supports-ja3-fingerprint-headers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

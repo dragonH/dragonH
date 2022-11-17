@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports JA3 fingerprint headers](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-supports-ja3-fingerprint-headers/)
+- [Amazon Redshift announces support of the CONNECT BY SQL construct](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-connect-by-sql-construct/)
 - [Announcing billing entity pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-billing-conductor-entity-pricing-rules/)
 - [Incident Manager from AWS Systems Manager launches incident coordination capabilities for Incident Response](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-incident-manager-coordination-incident-response/)
 - [Amazon Timestream is now available in GovCloud&lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-timestream-available-govcloud-us-west-region/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 C5n instances are now available in additional region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-c5n-instances-available-additional-region/)
 - [Amazon RDS for SQL Server now supports Cross Region Read Replica](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-sql-server-cross-region-read-replica/)
 - [Amazon MQ now supports RabbitMQ version 3.10](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-mq-rabbitmq-version-3-10/)
-- [AWS Systems Manager OpsCenter now supports managing OpsItems across accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-systems-manager-opscenter-supports-managing-opsitems-across-accounts/)
-- [AWS Proton launches dashboard](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

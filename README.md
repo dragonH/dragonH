@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing DTMF slot settings within Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/11/dtmf-slot-settings-amazon-lex/)
 - [Announcing preview of the AWS SDK for SAP ABAP](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sdk-sap-abap-preview/)
 - [Amazon Interactive Video Service Stream Chat now supports logging for chat messages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-interactive-video-service-logging-chat-messages/)
 - [Amazon Connect Voice ID is now available in Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-voice-id-available-canada-central-region/)
@@ -67,7 +68,6 @@
 - [AWS announces Amazon WorkSpaces Multi-Region Resilience](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-multi-region-resilience/)
 - [Amazon Connect launches new capabilities to help administrators manage saved reports](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-new-capabilities-manage-saved-reports/)
 - [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-directory-service-microsoft-active-directory-ad-connector-uae-region/)
-- [Amazon CloudWatch RUM now supports custom events for better troubleshooting and application specific monitoring](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-rum-custom-events-troubleshooting-application-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports new minor versions 10.6.11, 10.5.18, 10.4.27, 10.3.37](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-for-mariadb-supports-new-minor-versions/)
+- [AlexaTM 20B model is now available in SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2022/11/alexatm-20b-model-available-sagemaker-jumpstart/)
+- [Manage your resources from AWS Organizations using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/11/manage-resources-aws-organizations-cloudformation/)
+- [Amazon MemoryDB for Redis is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-memorydb-redis-system-organization-controls-soc-compliant/)
+- [AWS Controllers for Kubernetes &lpar;ACK&rpar; controller for Amazon EMR on EKS is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/ack-controller-amazon-emr-eks/)
+- [Amazon EC2 enables customer created tags to be included during image copy](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-enables-customer-created-tags-included-during-image-copy/)
+- [Amazon Managed Workflows for Apache Airflow &lpar;MWAA&rpar; now offers container, queue, and database metrics](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-workflows-apache-airflow-container-queue-database-metrics/)
+- [AWS Fargate adds support for monitoring the storage utilization](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-fargate-monitoring-storage-utilization/)
+- [Amazon FinSpace supports connections to customer networks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-finspace-connections-customer-networks/)
 - [AWS Launch Wizard now supports additional SAP scaling scenarios, RHEL 8/6, and hourly pricing for 18/24 TB High Memory Instances](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-launch-wizard-sap-scaling-scenarios-high-memory-instances/)
-- [AWS Audit Manager now provides search-based filtering and grouping to help with noncompliance root-cause analysis](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-audit-manager-search-based-filtering-grouping-root-cause-analysis/)
-- [Announcing AWS Service Catalog AppRegistry support for automatic associations based on tags](https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-appregistry-support-automatic-associations-based-tags/)
-- [Simplify cross-account access for your AWS services with AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2022/11/simplify-cross-account-access-aws-services-step-functions/)
-- [Amazon Athena releases data source connector for IBM Db2](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-data-source-connector-ibm-db2/)
-- [AWS Migration Hub Refactor Spaces is now integrated with CloudHedge OmniDeq to speed container modernization](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-migration-hub-refactor-spaces-integrated-cloudhedge-omnideq-speed-container-modernization/)
-- [AWS Transfer Family announces Drummond Group Applicability Statement 2 &lpar;AS2&rpar; Pre-Certification](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-transfer-family-drummond-group-as2-pre-certification/)
-- [AWS Pricing Calculator now supports modernization cost estimates for Microsoft workloads](https://aws.amazon.com/about-aws/whats-new/2022/11/pricing-calculator-modernization-cost-estimates-microsoft-workloads/)
-- [AWS Proton is now available in 6 new regions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-proton-available-new-regions/)
-- [Amazon Forecast generates predictions for products with no historical data that is more accurate than before](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-forecast-generates-predictions-products-historical-data-more-accurate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

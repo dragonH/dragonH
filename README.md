@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/dragonH/shopping-site-practice/pull/34) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-2. 🎉 Merged PR [#50](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/50) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-3. 🎉 Merged PR [#13](https://github.com/dragonH/Crawlers/pull/13) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
-4. 🎉 Merged PR [#12](https://github.com/dragonH/Crawlers/pull/12) in [dragonH/Crawlers](https://github.com/dragonH/Crawlers)
-5. 🎉 Merged PR [#25](https://github.com/dragonH/happy-6-pm/pull/25) in [dragonH/happy-6-pm](https://github.com/dragonH/happy-6-pm)
+1. 🎉 Merged PR [#51](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/51) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+2. 🎉 Merged PR [#52](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/52) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+3. 🎉 Merged PR [#53](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/53) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+4. 🎉 Merged PR [#34](https://github.com/dragonH/shopping-site-practice/pull/34) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+5. 🎉 Merged PR [#50](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/50) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
 <!--END_SECTION:activity-->
 
 </details>

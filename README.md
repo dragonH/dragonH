@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Forecast generates predictions for products with no historical data that is more accurate than before](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-forecast-generates-predictions-products-historical-data-more-accurate/)
+- [Introducing cross-account sharing to direct IAM principals and sharing with AWS Organization units using LF-TBAC in AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2022/11/cross-account-sharing-direct-iam-principals-sharing-organization-units-lf-tbac-lake-formation/)
+- [AWS Organizations tag policies are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/11/organizations-tag-policies-available-aws-govcloud-us-regions/)
 - [Amazon Personalize enables customers to measure the impact of their recommendations](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-personalize-enables-measure-impact-recommendations/)
 - [AWS IoT TwinMaker now supports camera view and sub-model selection](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-camera-view-sub-model-selection/)
 - [AWS IoT TwinMaker now supports data connector to Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-data-connector-amazon-athena/)
@@ -65,9 +68,6 @@
 - [AWS Lambda adds support for Node.js 18](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-node-js-18/)
 - [Amazon Athena enhances Apache Iceberg table operations and file format support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-enhances-apache-iceberg-table-operations-file-format-support/)
 - [Announcing General Availability for Amazon WorkSpaces Integration with SAML 2.0](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-integration-saml-2-0-availability/)
-- [Announcing certificate-based authentication for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-certificate-based-authentication/)
-- [Observe and monitor SAP NetWeaver applications with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/11/observe-monitor-sap-netweaver-applications-cloudwatch-application-insights/)
-- [AWS Database Migration Service now supports Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-database-migration-service-supports-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing DTMF slot settings within Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2022/11/dtmf-slot-settings-amazon-lex/)
-- [Announcing preview of the AWS SDK for SAP ABAP](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-sdk-sap-abap-preview/)
-- [Amazon Interactive Video Service Stream Chat now supports logging for chat messages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-interactive-video-service-logging-chat-messages/)
-- [Amazon Connect Voice ID is now available in Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-voice-id-available-canada-central-region/)
-- [Customers can now access Amazon FinSpace data from other AWS Analytics Services](https://aws.amazon.com/about-aws/whats-new/2022/11/access-amazon-finspace-data-aws-analytics-services/)
-- [Amazon AppFlow now supports AWS Glue Data Catalog integration and provides enhanced data preparation](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-aws-glue-data-catalog-integration-provides-enhanced-data-preparation/)
-- [AWS Trusted Advisor announces new checks from AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-trusted-advisor-new-checks-resilience-hub/)
-- [AWS announces Amazon WorkSpaces Multi-Region Resilience](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-multi-region-resilience/)
-- [Amazon Connect launches new capabilities to help administrators manage saved reports](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-launches-new-capabilities-manage-saved-reports/)
-- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-directory-service-microsoft-active-directory-ad-connector-uae-region/)
+- [Amazon Personalize enables customers to measure the impact of their recommendations](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-personalize-enables-measure-impact-recommendations/)
+- [AWS IoT TwinMaker now supports camera view and sub-model selection](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-camera-view-sub-model-selection/)
+- [AWS IoT TwinMaker now supports data connector to Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-twinmaker-data-connector-amazon-athena/)
+- [Amazon AppFlow launches monitoring with Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-monitoring-amazon-cloudwatch-metrics/)
+- [AWS Lambda adds support for Node.js 18](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-node-js-18/)
+- [Amazon Athena enhances Apache Iceberg table operations and file format support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-enhances-apache-iceberg-table-operations-file-format-support/)
+- [Announcing General Availability for Amazon WorkSpaces Integration with SAML 2.0](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-integration-saml-2-0-availability/)
+- [Announcing certificate-based authentication for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-workspaces-certificate-based-authentication/)
+- [Observe and monitor SAP NetWeaver applications with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2022/11/observe-monitor-sap-netweaver-applications-cloudwatch-application-insights/)
+- [AWS Database Migration Service now supports Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-database-migration-service-supports-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

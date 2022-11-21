@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront launches continuous deployment support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-continuous-deployment-support/)
+- [AWS Secrets Manager now supports rotation of secrets as often as every four hours](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-secrets-manager-rotation-secrets-as-often-as-four-hours/)
 - [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/quicksight-dashboards-seller-reporting-insights-aws-marketplace-preview/)
 - [AWS Service Catalog now supports syncing products with Infrastructure as Code template files from GitHub, GitHub Enterprise, or Bitbucket](https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-syncing-products-infrastructure-code-template-files-github-enterprise-bitbucket/)
 - [AWS Backup announces support for SAP HANA databases on Amazon EC2 in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-sap-hana-databases-amazon-ec2-preview/)
@@ -66,8 +68,6 @@
 - [Run long running fault-tolerant SQL queries with Trino and Amazon EMR with checkpointing on Amazon S3 or HDFS](https://aws.amazon.com/about-aws/whats-new/2022/11/run-long-sql-queries-trino-amazon-emr-checkpointing-amazon-s3-hdfs/)
 - [AWS Lambda announces support for Attribute-Based Access Control &lpar;ABAC&rpar; in AWS GovCloud &lpar;US&rpar; Regions.](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-abac-aws-govcloud-us-regions/)
 - [Amazon EventBridge introduces new capabilities that make it simpler to build rules](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-capabilities-build-rules/)
-- [Amazon Textract launches the ability to detect signatures on any document](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-detect-signatures-any-document/)
-- [AWS X-Ray adds trace linking for event-driven applications built on Amazon SQS and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-x-ray-trace-linking-event-driven-applications-amazon-sqs-lambda/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/quicksight-dashboards-seller-reporting-insights-aws-marketplace-preview/)
+- [AWS Service Catalog now supports syncing products with Infrastructure as Code template files from GitHub, GitHub Enterprise, or Bitbucket](https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-syncing-products-infrastructure-code-template-files-github-enterprise-bitbucket/)
+- [AWS Backup announces support for SAP HANA databases on Amazon EC2 in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-sap-hana-databases-amazon-ec2-preview/)
+- [Amazon RDS Custom for Oracle now supports Oracle Home customization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-oracle-home-customization/)
 - [Amazon S3 Select improves query performance by up to 9x when using Trino](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-select-improves-query-performance-trino/)
 - [Run long running fault-tolerant SQL queries with Trino and Amazon EMR with checkpointing on Amazon S3 or HDFS](https://aws.amazon.com/about-aws/whats-new/2022/11/run-long-sql-queries-trino-amazon-emr-checkpointing-amazon-s3-hdfs/)
 - [AWS Lambda announces support for Attribute-Based Access Control &lpar;ABAC&rpar; in AWS GovCloud &lpar;US&rpar; Regions.](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-abac-aws-govcloud-us-regions/)
 - [Amazon EventBridge introduces new capabilities that make it simpler to build rules](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-capabilities-build-rules/)
 - [Amazon Textract launches the ability to detect signatures on any document](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-detect-signatures-any-document/)
 - [AWS X-Ray adds trace linking for event-driven applications built on Amazon SQS and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-x-ray-trace-linking-event-driven-applications-amazon-sqs-lambda/)
-- [AWS Glue Crawlers Now Support Snowflake](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-crawlers-support-snowflake/)
-- [Amazon QuickSight launches admin asset management console](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-admin-asset-management-console/)
-- [AWS IAM Identity Center now supports session management capabilities for AWS Command Line Interface &lpar;AWS CLI&rpar; and SDKs](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iam-identity-center-session-management-aws-cli-sdks/)
-- [Amazon QuickSight supports NULL in parameter](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-null-parameter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

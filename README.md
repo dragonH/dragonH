@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Select improves query performance by up to 9x when using Trino](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-select-improves-query-performance-trino/)
+- [Run long running fault-tolerant SQL queries with Trino and Amazon EMR with checkpointing on Amazon S3 or HDFS](https://aws.amazon.com/about-aws/whats-new/2022/11/run-long-sql-queries-trino-amazon-emr-checkpointing-amazon-s3-hdfs/)
+- [AWS Lambda announces support for Attribute-Based Access Control &lpar;ABAC&rpar; in AWS GovCloud &lpar;US&rpar; Regions.](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-support-abac-aws-govcloud-us-regions/)
+- [Amazon EventBridge introduces new capabilities that make it simpler to build rules](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-eventbridge-capabilities-build-rules/)
 - [Amazon Textract launches the ability to detect signatures on any document](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-textract-detect-signatures-any-document/)
 - [AWS X-Ray adds trace linking for event-driven applications built on Amazon SQS and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-x-ray-trace-linking-event-driven-applications-amazon-sqs-lambda/)
 - [AWS Glue Crawlers Now Support Snowflake](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-crawlers-support-snowflake/)
 - [Amazon QuickSight launches admin asset management console](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-admin-asset-management-console/)
 - [AWS IAM Identity Center now supports session management capabilities for AWS Command Line Interface &lpar;AWS CLI&rpar; and SDKs](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iam-identity-center-session-management-aws-cli-sdks/)
 - [Amazon QuickSight supports NULL in parameter](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-null-parameter/)
-- [Amazon Connect now supports configurable Lex timeouts within Chat experience](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-configurable-lex-timeouts-chat-experience/)
-- [Amazon QuickSight Now Supports Connectivity to Databricks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-connectivity-databricks/)
-- [AWS Chatbot now supports command aliases to shorten frequently used AWS CLI commands in Slack](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-chatbot-command-aliases-shorten-cli-commands-slack/)
-- [Contact Lens for Amazon Connect now supports real-time email notifications](https://aws.amazon.com/about-aws/whats-new/2022/11/contact-lens-amazon-connect-real-time-email-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

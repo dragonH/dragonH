@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Manage Table metadata in Glue Data Catalog when running Flink workloads on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-emr-table-metadata-glue-data-catalog-flink-workloads/)
 - [Amazon SageMaker Autopilot experiments run with Ensemble training mode provide additional metrics and visibility into the AutoML workflow](https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-autopilot-experiments-run-ensemble-training-mode-additional-metrics-visibility-automl-workflow/)
 - [Support for reading and writing data in Amazon DynamoDB and cross account Amazon S3 access with Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/)
 - [AWS Control Tower now displays compliance status of external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-displays-compliance-status-external-config-rules/)
@@ -67,7 +68,6 @@
 - [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/quicksight-dashboards-seller-reporting-insights-aws-marketplace-preview/)
 - [AWS Service Catalog now supports syncing products with Infrastructure as Code template files from GitHub, GitHub Enterprise, or Bitbucket](https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-syncing-products-infrastructure-code-template-files-github-enterprise-bitbucket/)
 - [AWS Backup announces support for SAP HANA databases on Amazon EC2 in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-sap-hana-databases-amazon-ec2-preview/)
-- [Amazon RDS Custom for Oracle now supports Oracle Home customization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-oracle-home-customization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

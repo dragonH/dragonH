@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Autopilot experiments run with Ensemble training mode provide additional metrics and visibility into the AutoML workflow](https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-autopilot-experiments-run-ensemble-training-mode-additional-metrics-visibility-automl-workflow/)
 - [Support for reading and writing data in Amazon DynamoDB and cross account Amazon S3 access with Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/)
 - [AWS Control Tower now displays compliance status of external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-displays-compliance-status-external-config-rules/)
 - [Amazon EMR on EKS adds support for configuring Spark properties within EMR Studio Jupyter Notebooks](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-configuring-spark-properties-emr-studio-jupyter-notebooks/)
@@ -67,7 +68,6 @@
 - [AWS Service Catalog now supports syncing products with Infrastructure as Code template files from GitHub, GitHub Enterprise, or Bitbucket](https://aws.amazon.com/about-aws/whats-new/2022/11/service-catalog-syncing-products-infrastructure-code-template-files-github-enterprise-bitbucket/)
 - [AWS Backup announces support for SAP HANA databases on Amazon EC2 in Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-sap-hana-databases-amazon-ec2-preview/)
 - [Amazon RDS Custom for Oracle now supports Oracle Home customization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-custom-oracle-home-customization/)
-- [Amazon S3 Select improves query performance by up to 9x when using Trino](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-select-improves-query-performance-trino/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

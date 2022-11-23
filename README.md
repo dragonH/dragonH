@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Grafana now supports connection to data sources hosted in Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-connection-data-sources-hosted-virtual-private-cloud/)
 - [Amazon Rekognition adds new pre-trained labels, and introduces color detection](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rekognition-new-pre-trained-labels-color-detection/)
 - [Amazon QuickSight launches cluster points for Geospatial Visual](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-cluster-points-geospatial-visual/)
 - [AWS IoT RoboRunner is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-roborunner-generally-available/)
@@ -67,7 +68,6 @@
 - [Amazon SNS adds support for payload-based message filtering](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-payload-based-message-filtering/)
 - [Manage Table metadata in Glue Data Catalog when running Flink workloads on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-emr-table-metadata-glue-data-catalog-flink-workloads/)
 - [Amazon SageMaker Autopilot experiments run with Ensemble training mode provide additional metrics and visibility into the AutoML workflow](https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-autopilot-experiments-run-ensemble-training-mode-additional-metrics-visibility-automl-workflow/)
-- [Support for reading and writing data in Amazon DynamoDB and cross account Amazon S3 access with Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

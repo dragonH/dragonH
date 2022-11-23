@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS launches Rule Lock for Recycle Bin to prevent unintended changes to Region-level retention rules for Snapshots and AMIs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-rule-lock-recycle-bin-unintended-changes-region-level-snapshots-amis/)
+- [Amazon Managed Grafana now supports visualizing Prometheus Alertmanager rules and new configuration APIs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-visualizing-prometheus-alertmanager-rules-configuration-apis/)
 - [Amazon Managed Grafana now supports connection to data sources hosted in Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-connection-data-sources-hosted-virtual-private-cloud/)
 - [Amazon Rekognition adds new pre-trained labels, and introduces color detection](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rekognition-new-pre-trained-labels-color-detection/)
 - [Amazon QuickSight launches cluster points for Geospatial Visual](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-cluster-points-geospatial-visual/)
@@ -66,8 +68,6 @@
 - [Announcing AWS Graviton2 support for Amazon EMR Serverless - Get up to 35% better price-performance for your serverless Spark and Hive workload](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/)
 - [AWS announces availability of Microsoft SQL Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-availability-microsoft-sql-server-2022-images-amazon-ec2/)
 - [Amazon SNS adds support for payload-based message filtering](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-payload-based-message-filtering/)
-- [Manage Table metadata in Glue Data Catalog when running Flink workloads on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-emr-table-metadata-glue-data-catalog-flink-workloads/)
-- [Amazon SageMaker Autopilot experiments run with Ensemble training mode provide additional metrics and visibility into the AutoML workflow](https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-autopilot-experiments-run-ensemble-training-mode-additional-metrics-visibility-automl-workflow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

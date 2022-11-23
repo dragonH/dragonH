@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches cluster points for Geospatial Visual](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-cluster-points-geospatial-visual/)
+- [AWS IoT RoboRunner is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-roborunner-generally-available/)
 - [Amazon Kinesis Data Analytics for Apache Flink now supports Apache Flink version 1.15](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-analytics-apache-flink-supports-flink-version-1-15/)
 - [Announcing AWS Graviton2 support for Amazon EMR Serverless - Get up to 35% better price-performance for your serverless Spark and Hive workload](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/)
 - [AWS announces availability of Microsoft SQL Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-availability-microsoft-sql-server-2022-images-amazon-ec2/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Autopilot experiments run with Ensemble training mode provide additional metrics and visibility into the AutoML workflow](https://aws.amazon.com/about-aws/whats-new/2022/11/sagemaker-autopilot-experiments-run-ensemble-training-mode-additional-metrics-visibility-automl-workflow/)
 - [Support for reading and writing data in Amazon DynamoDB and cross account Amazon S3 access with Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2022/11/reading-writing-data-amazon-dynamodb-s3-access-emr-serverless/)
 - [AWS Control Tower now displays compliance status of external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-displays-compliance-status-external-config-rules/)
-- [Amazon EMR on EKS adds support for configuring Spark properties within EMR Studio Jupyter Notebooks](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-configuring-spark-properties-emr-studio-jupyter-notebooks/)
-- [Amazon CloudFront launches continuous deployment support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-continuous-deployment-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics for Apache Flink now supports Apache Flink version 1.15](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-analytics-apache-flink-supports-flink-version-1-15/)
+- [Announcing AWS Graviton2 support for Amazon EMR Serverless - Get up to 35% better price-performance for your serverless Spark and Hive workload](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/)
 - [AWS announces availability of Microsoft SQL Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-availability-microsoft-sql-server-2022-images-amazon-ec2/)
 - [Amazon SNS adds support for payload-based message filtering](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-payload-based-message-filtering/)
 - [Manage Table metadata in Glue Data Catalog when running Flink workloads on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-emr-table-metadata-glue-data-catalog-flink-workloads/)
@@ -66,8 +68,6 @@
 - [AWS Control Tower now displays compliance status of external AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-control-tower-displays-compliance-status-external-config-rules/)
 - [Amazon EMR on EKS adds support for configuring Spark properties within EMR Studio Jupyter Notebooks](https://aws.amazon.com/about-aws/whats-new/2022/11/emr-eks-configuring-spark-properties-emr-studio-jupyter-notebooks/)
 - [Amazon CloudFront launches continuous deployment support](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudfront-continuous-deployment-support/)
-- [AWS Secrets Manager now supports rotation of secrets as often as every four hours](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-secrets-manager-rotation-secrets-as-often-as-four-hours/)
-- [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/quicksight-dashboards-seller-reporting-insights-aws-marketplace-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports connectivity to Databricks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-connectivity-databricks/)
 - [Amazon EBS launches Rule Lock for Recycle Bin to prevent unintended changes to Region-level retention rules for Snapshots and AMIs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-rule-lock-recycle-bin-unintended-changes-region-level-snapshots-amis/)
 - [Amazon Managed Grafana now supports visualizing Prometheus Alertmanager rules and new configuration APIs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-visualizing-prometheus-alertmanager-rules-configuration-apis/)
 - [Amazon Managed Grafana now supports connection to data sources hosted in Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-connection-data-sources-hosted-virtual-private-cloud/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Analytics for Apache Flink now supports Apache Flink version 1.15](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-analytics-apache-flink-supports-flink-version-1-15/)
 - [Announcing AWS Graviton2 support for Amazon EMR Serverless - Get up to 35% better price-performance for your serverless Spark and Hive workload](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/)
 - [AWS announces availability of Microsoft SQL Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-availability-microsoft-sql-server-2022-images-amazon-ec2/)
-- [Amazon SNS adds support for payload-based message filtering](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sns-payload-based-message-filtering/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

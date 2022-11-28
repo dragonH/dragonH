@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing real-time capabilities in Amazon Transcribe Call Analytics API to improve customer experience](https://aws.amazon.com/about-aws/whats-new/2022/11/real-time-capabilities-amazon-transcribe-call-analytics-api-improve-customer-experience/)
+- [Announcing delegated administrator for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-organizations-delegated-administrator/)
 - [Announcing data protection in Amazon CloudWatch Logs, helping you detect, and protect sensitive data-in-transit](https://aws.amazon.com/about-aws/whats-new/2022/11/data-protection-amazon-cloudwatch-logs-detect-protect-sensitive-data-in-transit/)
 - [Amazon RDS Optimized Writes enables up to 2x higher write throughput at no additional cost](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-writes-2x-higher-write-throughput-no-cost/)
 - [Amazon RDS Optimized Reads is now available for up to 50% faster queries on Amazon RDS for MySQL](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-reads-available-faster-queries-amazon-rds-mysql/)
-- [Announcing delegated administrator for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-organizations-delegated-administrator/)
 - [Amazon CodeWhisperer adds Enterprise administrative controls, simple sign-up, and support for new languages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-codewhisperer-enterprise-controls-sign-up-new-languages/)
 - [AWS Application Migration Service supports application-centric migrations, wave planning, and more](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-application-migration-service-wave-custom-actions-launch-template-configuration/)
 - [AWS Backup launches delegation of organization-wide backup administration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-delegation-organization-wide-backup-administration/)
 - [Amazon Kendra launches tabular search for HTML documents](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-tabular-search-html-documents/)
 - [Announcing Amazon RDS Blue/Green Deployments for safer, simpler, and faster updates](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-blue-green-deployments-safer-simpler-faster-updates/)
-- [Amazon Elastic File System introduces 1-Day Lifecycle Management Policy to help customers reduce costs for cold data sets](https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-file-system-1-day-lifecycle-management-policy-reduce-costs-cold-data-sets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

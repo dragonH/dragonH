@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing real-time capabilities in Amazon Transcribe Call Analytics API to improve customer experience](https://aws.amazon.com/about-aws/whats-new/2022/11/real-time-capabilities-amazon-transcribe-call-analytics-api-improve-customer-experience/)
-- [Announcing delegated administrator for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-organizations-delegated-administrator/)
-- [Announcing data protection in Amazon CloudWatch Logs, helping you detect, and protect sensitive data-in-transit](https://aws.amazon.com/about-aws/whats-new/2022/11/data-protection-amazon-cloudwatch-logs-detect-protect-sensitive-data-in-transit/)
-- [Amazon RDS Optimized Writes enables up to 2x higher write throughput at no additional cost](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-writes-2x-higher-write-throughput-no-cost/)
-- [Amazon RDS Optimized Reads is now available for up to 50% faster queries on Amazon RDS for MySQL](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-optimized-reads-available-faster-queries-amazon-rds-mysql/)
-- [Amazon CodeWhisperer adds Enterprise administrative controls, simple sign-up, and support for new languages](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-codewhisperer-enterprise-controls-sign-up-new-languages/)
-- [AWS Application Migration Service supports application-centric migrations, wave planning, and more](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-application-migration-service-wave-custom-actions-launch-template-configuration/)
-- [AWS Backup launches delegation of organization-wide backup administration](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-delegation-organization-wide-backup-administration/)
-- [Amazon Kendra launches tabular search for HTML documents](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-tabular-search-html-documents/)
-- [Announcing Amazon RDS Blue/Green Deployments for safer, simpler, and faster updates](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-blue-green-deployments-safer-simpler-faster-updates/)
+- [Announcing the availability of Microsoft Office Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2 with AWS provided licenses](https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/)
+- [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/)
+- [Announcing the general availability of AWS Wickr](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-aws-wickr/)
+- [Introducing AWS Glue 4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-aws-glue-4-0/)
+- [Amazon Redshift extends SQL capabilities to simplify and speed up data warehouse migrations &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-sql-capabilities-speed-data-warehouse-migrations-preview/)
+- [Amazon Macie introduces automated sensitive data discovery](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-macie-automated-sensitive-data-discovery/)
+- [Announcing AWS Glue for Ray &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-ray-preview/)
+- [Amazon VPC Reachability Analyzer now supports network reachability analysis across accounts in an AWS Organization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-vpc-reachability-analyzer-network-analysis-accounts-aws-organization/)
+- [AWS CloudTrail Lake now supports configuration items from  AWS Config](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-lake-supports-configuration-items-aws-config/)
+- [New Amazon S3 Multi-Region Access Points failover controls enable active-passive configurations and customer-initiated failovers](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-multi-region-access-points-failover-active-passive-configurations-failovers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

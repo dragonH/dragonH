@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Verified Permissions &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-verified-permissions-preview/)
 - [Announcing the availability of Microsoft Office Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2 with AWS provided licenses](https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/)
 - [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/)
 - [Announcing the general availability of AWS Wickr](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-aws-wickr/)
@@ -67,7 +68,6 @@
 - [Announcing AWS Glue for Ray &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-ray-preview/)
 - [Amazon VPC Reachability Analyzer now supports network reachability analysis across accounts in an AWS Organization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-vpc-reachability-analyzer-network-analysis-accounts-aws-organization/)
 - [AWS CloudTrail Lake now supports configuration items from  AWS Config](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-lake-supports-configuration-items-aws-config/)
-- [New Amazon S3 Multi-Region Access Points failover controls enable active-passive configurations and customer-initiated failovers](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-multi-region-access-points-failover-active-passive-configurations-failovers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

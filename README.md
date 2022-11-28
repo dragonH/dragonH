@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight now supports connectivity to Databricks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-supports-connectivity-databricks/)
-- [Amazon EBS launches Rule Lock for Recycle Bin to prevent unintended changes to Region-level retention rules for Snapshots and AMIs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ebs-rule-lock-recycle-bin-unintended-changes-region-level-snapshots-amis/)
-- [Amazon Managed Grafana now supports visualizing Prometheus Alertmanager rules and new configuration APIs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-visualizing-prometheus-alertmanager-rules-configuration-apis/)
-- [Amazon Managed Grafana now supports connection to data sources hosted in Amazon Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-grafana-connection-data-sources-hosted-virtual-private-cloud/)
-- [Amazon Rekognition adds new pre-trained labels, and introduces color detection](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rekognition-new-pre-trained-labels-color-detection/)
-- [Amazon QuickSight launches cluster points for Geospatial Visual](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-cluster-points-geospatial-visual/)
-- [AWS IoT RoboRunner is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-roborunner-generally-available/)
-- [Amazon Kinesis Data Analytics for Apache Flink now supports Apache Flink version 1.15](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kinesis-data-analytics-apache-flink-supports-flink-version-1-15/)
-- [Announcing AWS Graviton2 support for Amazon EMR Serverless - Get up to 35% better price-performance for your serverless Spark and Hive workload](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton2-emr-serverless-35-percent-price-performance-spark-hive-workloads/)
-- [AWS announces availability of Microsoft SQL Server 2022 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-availability-microsoft-sql-server-2022-images-amazon-ec2/)
+- [Announcing Amazon RDS Blue/Green Deployments for safer, simpler, and faster updates](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-rds-blue-green-deployments-safer-simpler-faster-updates/)
+- [Amazon Elastic File System introduces 1-Day Lifecycle Management Policy to help customers reduce costs for cold data sets](https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-file-system-1-day-lifecycle-management-policy-reduce-costs-cold-data-sets/)
+- [AWS Backup launches application-aware data protection for applications defined using AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-application-aware-data-protection-applications-defined-cloudformation/)
+- [AWS Backup adds legal hold capability for extended data retention beyond lifecycle policies](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-backup-legal-hold-data-retention-beyond-lifecycle-policies/)
+- [Amazon Kendra launches expanded language support for semantic search](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-kendra-expanded-language-support-semantic/)
+- [AWS IoT Core announces new Device Location feature](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-iot-core-new-device-location-feature/)
+- [Announcing Amazon CloudWatch Internet Monitor Preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-internet-monitor-preview/)
+- [Amazon CloudWatch launches cross-account observability across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-cloudwatch-cross-account-observability-multiple-aws-accounts/)
+- [Announcing delegated administrator for AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-organizations-delegated-administrator/)
+- [Announcing data protection in Amazon CloudWatch Logs, helping you detect, and protect sensitive data-in-transit](https://aws.amazon.com/about-aws/whats-new/2022/11/data-protection-amazon-cloudwatch-logs-detect-protect-sensitive-data-in-transit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

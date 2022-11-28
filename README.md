@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/51) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-2. 🎉 Merged PR [#52](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/52) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-3. 🎉 Merged PR [#53](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/53) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-4. 🎉 Merged PR [#34](https://github.com/dragonH/shopping-site-practice/pull/34) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-5. 🎉 Merged PR [#50](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/50) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+1. ❗️ Opened issue [#1501](https://github.com/delta-io/delta/issues/1501) in [delta-io/delta](https://github.com/delta-io/delta)
+2. 🎉 Merged PR [#51](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/51) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+3. 🎉 Merged PR [#52](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/52) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+4. 🎉 Merged PR [#53](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/53) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+5. 🎉 Merged PR [#34](https://github.com/dragonH/shopping-site-practice/pull/34) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
 <!--END_SECTION:activity-->
 
 </details>

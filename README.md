@@ -59,12 +59,12 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS announces Amazon Verified Permissions &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-verified-permissions-preview/)
-- [Announcing the availability of Microsoft Office Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2 with AWS provided licenses](https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/)
 - [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/)
+- [Amazon Macie introduces automated sensitive data discovery](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-macie-automated-sensitive-data-discovery/)
+- [Announcing the availability of Microsoft Office Amazon Machine Images &lpar;AMIs&rpar; on Amazon EC2 with AWS provided licenses](https://aws.amazon.com/about-aws/whats-new/2022/11/microsoft-amazon-machine-images-aws-provided-licenses/)
 - [Announcing the general availability of AWS Wickr](https://aws.amazon.com/about-aws/whats-new/2022/11/general-availability-aws-wickr/)
 - [Introducing AWS Glue 4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-aws-glue-4-0/)
 - [Amazon Redshift extends SQL capabilities to simplify and speed up data warehouse migrations &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-sql-capabilities-speed-data-warehouse-migrations-preview/)
-- [Amazon Macie introduces automated sensitive data discovery](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-macie-automated-sensitive-data-discovery/)
 - [Announcing AWS Glue for Ray &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-ray-preview/)
 - [Amazon VPC Reachability Analyzer now supports network reachability analysis across accounts in an AWS Organization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-vpc-reachability-analyzer-network-analysis-accounts-aws-organization/)
 - [AWS CloudTrail Lake now supports configuration items from  AWS Config](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-lake-supports-configuration-items-aws-config/)

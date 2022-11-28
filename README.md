@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces lower latencies for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-lower-latencies-amazon-elastic-file-system/)
+- [Announcing Elastic Throughput for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-elastic-file-system-elastic-throughput/)
 - [AWS announces Amazon Verified Permissions &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-verified-permissions-preview/)
 - [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-r7iz-instances/)
 - [Amazon Macie introduces automated sensitive data discovery](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-macie-automated-sensitive-data-discovery/)
@@ -66,8 +68,6 @@
 - [Introducing AWS Glue 4.0](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-aws-glue-4-0/)
 - [Amazon Redshift extends SQL capabilities to simplify and speed up data warehouse migrations &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-sql-capabilities-speed-data-warehouse-migrations-preview/)
 - [Announcing AWS Glue for Ray &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-glue-ray-preview/)
-- [Amazon VPC Reachability Analyzer now supports network reachability analysis across accounts in an AWS Organization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-vpc-reachability-analyzer-network-analysis-accounts-aws-organization/)
-- [AWS CloudTrail Lake now supports configuration items from  AWS Config](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-cloudtrail-lake-supports-configuration-items-aws-config/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

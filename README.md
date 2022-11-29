@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Lambda SnapStart for Java functions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-snapstart-java-functions/)
 - [AWS Compute Optimizer now supports external metrics from observability partners](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-compute-optimizer-external-metrics-observability-partners/)
 - [Announcing a new generation of Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/11/new-generation-amazon-fsx-openzfs-file-systems/)
 - [AWS Nitro Enclaves now supports Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-supports-amazoneks-kubernetes/)
@@ -67,7 +68,6 @@
 - [Announcing preview for Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-route-53-application-recovery-controller-zonal-shift/)
 - [Expanded API capabilities now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-expanded-api-capabilities/)
 - [AWS announces Amazon Inspector support for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/)
-- [Amazon FSx for NetApp ONTAP doubles the maximum throughput capacity and SSD IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-netapp-ontap-doubles-maximum-throughput-capacity-ssd-iops-file-system/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

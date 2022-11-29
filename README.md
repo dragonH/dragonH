@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS KMS launches External Key Store](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-kms-external-key-store/)
+- [Amazon Redshift announces support for Dynamic Data Masking &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-dynamic-data-masking-preview/)
+- [Amazon Redshift announces general availability of real-time streaming ingestion for Amazon KDS and Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/)
 - [Introducing Amazon Omics](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-omics-generally-available/)
 - [Amazon Connect forecasting, capacity planning, and scheduling is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-forecasting-capacity-planning-scheduling-generally-available/)
 - [Amazon Connect now provides step-by-step guides in agent workspace &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-step-by-step-guides-agent-workspace-preview/)
@@ -65,9 +68,6 @@
 - [Announcing AWS Supply Chain &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-supply-chain-preview/)
 - [Contact Lens for Amazon Connect now provides conversational analytics for chat](https://aws.amazon.com/about-aws/whats-new/2022/11/contact-lens-amazon-connect-provides-conversational-analytics-chat/)
 - [Announcing AWS SimSpace Weaver](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-simspace-weaver-available/)
-- [Announcing Amazon EC2 Hpc6id instances](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-ec2-hpc6id-instances/)
-- [AWS Announces Torn Write Prevention for EC2 I4i instances, EBS, and Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-torn-write-prevention-ec2-i4i-instances-ebs-amazon-rds/)
-- [AWS announces Amazon EC2 Inf2 instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-ec2-inf2-instances-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Introducing Amazon Security Lake &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-security-lake-preview/)
-- [New question types for Amazon QuickSight Q](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-q-question-types/)
-- [Announcing Amazon Redshift integration for Apache Spark with Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-integration-apache-spark-amazon-emr/)
-- [AWS announces Amazon Redshift integration for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-redshift-integration-apache-spark/)
-- [AWS announces Amazon Aurora zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/)
-- [Announcing Amazon OpenSearch Serverless &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-opensearch-serverless-preview/)
-- [Announcing Amazon EC2 M6in, M6idn, R6in, and R6idn network optimized instances](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/)
-- [Introducing Amazon EC2 C6in instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/)
-- [Announcing AWS Lambda SnapStart for Java functions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-snapstart-java-functions/)
-- [AWS Compute Optimizer now supports external metrics from observability partners](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-compute-optimizer-external-metrics-observability-partners/)
+- [Introducing Amazon Omics](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-omics-generally-available/)
+- [Amazon Connect forecasting, capacity planning, and scheduling is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-forecasting-capacity-planning-scheduling-generally-available/)
+- [Amazon Connect now provides step-by-step guides in agent workspace &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-step-by-step-guides-agent-workspace-preview/)
+- [Amazon Connect announces Contact Lens agent performance evaluation forms &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-contact-lens-agent-performance-evaluation-forms/)
+- [Announcing AWS Supply Chain &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-supply-chain-preview/)
+- [Contact Lens for Amazon Connect now provides conversational analytics for chat](https://aws.amazon.com/about-aws/whats-new/2022/11/contact-lens-amazon-connect-provides-conversational-analytics-chat/)
+- [Announcing AWS SimSpace Weaver](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-simspace-weaver-available/)
+- [Announcing Amazon EC2 Hpc6id instances](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-ec2-hpc6id-instances/)
+- [AWS Announces Torn Write Prevention for EC2 I4i instances, EBS, and Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-torn-write-prevention-ec2-i4i-instances-ebs-amazon-rds/)
+- [AWS announces Amazon EC2 Inf2 instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-ec2-inf2-instances-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

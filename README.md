@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon Security Lake &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-security-lake-preview/)
+- [New question types for Amazon QuickSight Q](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-q-question-types/)
+- [Announcing Amazon Redshift integration for Apache Spark with Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-integration-apache-spark-amazon-emr/)
+- [AWS announces Amazon Redshift integration for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-redshift-integration-apache-spark/)
+- [AWS announces Amazon Aurora zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/)
+- [Announcing Amazon OpenSearch Serverless &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/announcing-amazon-opensearch-serverless-preview/)
 - [Announcing Amazon EC2 M6in, M6idn, R6in, and R6idn network optimized instances](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/)
 - [Introducing Amazon EC2 C6in instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/)
 - [Announcing AWS Lambda SnapStart for Java functions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-snapstart-java-functions/)
 - [AWS Compute Optimizer now supports external metrics from observability partners](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-compute-optimizer-external-metrics-observability-partners/)
-- [Announcing a new generation of Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/11/new-generation-amazon-fsx-openzfs-file-systems/)
-- [AWS Nitro Enclaves now supports Amazon EKS and Kubernetes](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-nitro-enclaves-supports-amazoneks-kubernetes/)
-- [Amazon FSx for NetApp ONTAP simplifies access to Multi-AZ file systems from on-premises and peered networks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-fsx-netapp-ontap-access-multi-az-file-systems-on-premises-peered-networks/)
-- [Elastic Load Balancing capabilities for application availability](https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-load-balancing-capabilities-application-availability/)
-- [Amazon QuickSight announces Paginated Reports](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-announces-paginated-reports/)
-- [Announcing preview for Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-route-53-application-recovery-controller-zonal-shift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

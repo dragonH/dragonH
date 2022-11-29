@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Aurora zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-aurora-zero-etl-integration-redshift/)
 - [AWS KMS launches External Key Store](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-kms-external-key-store/)
 - [Amazon Redshift announces support for Dynamic Data Masking &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-support-dynamic-data-masking-preview/)
 - [Amazon Redshift announces general availability of real-time streaming ingestion for Amazon KDS and Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-real-time-streaming-ingestion-kds-msk/)
@@ -67,7 +68,6 @@
 - [Amazon Connect announces Contact Lens agent performance evaluation forms &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-connect-contact-lens-agent-performance-evaluation-forms/)
 - [Announcing AWS Supply Chain &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-supply-chain-preview/)
 - [Contact Lens for Amazon Connect now provides conversational analytics for chat](https://aws.amazon.com/about-aws/whats-new/2022/11/contact-lens-amazon-connect-provides-conversational-analytics-chat/)
-- [Announcing AWS SimSpace Weaver](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-simspace-weaver-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

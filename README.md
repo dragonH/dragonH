@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 M6in, M6idn, R6in, and R6idn network optimized instances](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-m6in-m6idn-r6in-r6idn-network-optimized-instances/)
+- [Introducing Amazon EC2 C6in instances](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-amazon-ec2-c6in-instances/)
 - [Announcing AWS Lambda SnapStart for Java functions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-lambda-snapstart-java-functions/)
 - [AWS Compute Optimizer now supports external metrics from observability partners](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-compute-optimizer-external-metrics-observability-partners/)
 - [Announcing a new generation of Amazon FSx for OpenZFS file systems](https://aws.amazon.com/about-aws/whats-new/2022/11/new-generation-amazon-fsx-openzfs-file-systems/)
@@ -66,8 +68,6 @@
 - [Elastic Load Balancing capabilities for application availability](https://aws.amazon.com/about-aws/whats-new/2022/11/elastic-load-balancing-capabilities-application-availability/)
 - [Amazon QuickSight announces Paginated Reports](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-announces-paginated-reports/)
 - [Announcing preview for Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-route-53-application-recovery-controller-zonal-shift/)
-- [Expanded API capabilities now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-quicksight-expanded-api-capabilities/)
-- [AWS announces Amazon Inspector support for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-amazon-inspector-support-aws-lambda-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)

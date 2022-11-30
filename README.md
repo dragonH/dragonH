@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon GuardDuty RDS Protection now in preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-guardduty-rds-protection-preview/)
-- [Announcing Trusted Language Extensions for PostgreSQL on Amazon Aurora and Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2022/11/trusted-language-extensions-postgresql-amazon-aurora-rds/)
-- [Amazon Redshift now supports Multi-AZ &lpar;Preview&rpar; for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-multi-az-preview-ra3-clusters/)
-- [Amazon SageMaker now supports geospatial ML &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-geospatial-ml-preview/)
-- [Amazon SageMaker Studio launches redesigned user interface](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-redesigned-user-interface/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-documentdb-mongodb-elastic-clusters-available/)
-- [Amazon Athena now supports Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-athena-now-supports-apache-spark/)
-- [AWS announces Amazon VPC Lattice &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-announces-amazon-vpc-lattice-preview/)
-- [Announcing the preview of AWS Verified Access](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-verified-access-preview/)
-- [Announcing availability of AWS Outposts in Qatar, Guatemala, and Trinidad &amp; Tobago](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-outposts-qatar-guatemala-trinidad-tobago/)
+- [Amazon SageMaker Studio now supports automatic conversion of notebook code to production-ready jobs](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-automatic-conversion-notebook-code-production-jobs/)
+- [Amazon SageMaker Data Wrangler now provides built-in data preparation in notebooks](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-data-wrangler-built-in-data-preparation-notebooks/)
+- [Amazon SageMaker Studio now supports real time collaboration](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-studio-supports-real-time-collaboration/)
+- [Introducing Amazon SageMaker support for shadow testing](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-shadow-testing/)
+- [Launch Amazon SageMaker Autopilot experiments from Amazon SageMaker Pipelines to easily automate MLOps workflows](https://aws.amazon.com/about-aws/whats-new/2022/11/launch-amazon-sagemaker-autopilot-experiments-sagemaker-pipelines-automate-mlops/)
+- [Amazon SageMaker JumpStart now enables you to more easily share ML artifacts within your organization](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-jumpstart-enables-share-ml-artifacts-within-organization/)
+- [AWS Machine Learning University announces educator enablement program for higher education](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-machine-learning-university-educator-enablement-program-higher-education/)
+- [Amazon Redshift now supports auto-copy from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-redshift-supports-auto-copy-amazon-s3/)
+- [Amazon AppFlow now supports over 50 Connectors](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-appflow-supports-over-50-connectors/)
+- [Amazon SageMaker Data Wrangler now supports over 40 third-party applications as data sources](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-data-wrangler-over-40-third-party-applications-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

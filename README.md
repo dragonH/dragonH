@@ -70,7 +70,7 @@
 - [Introducing Amazon Omics](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-omics-generally-available/)
 <!-- AWS-NEWS:END -->
 
-➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/2020/)
+➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)
 
 ---
 

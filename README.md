@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon CodeCatalyst &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/announcing-amazon-codecatalyst-preview/)
+- [AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/)
+- [Introducing AWS Application Composer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-application-composer-preview/)
+- [Amazon EventBridge Pipes is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eventbridge-pipes-generally-available/)
 - [Announcing AWS Data Exchange for Amazon S3 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-amazon-s3-preview/)
 - [Announcing AWS Data Exchange for AWS Lake Formation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-aws-lake-formation-preview/)
 - [Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments/)
 - [Introducing AWS Graviton Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-graviton-delivery-partners/)
 - [Introducing Amazon SageMaker Ready Software Products](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-sagemaker-ready-software-products/)
 - [Introducing AWS Glue Delivery](https://aws.amazon.com/about-aws/whats-new/2022/11/introducing-aws-glue-delivery/)
-- [Introducing Amazon Managed Streaming for Apache Kafka &lpar;MSK&rpar; Delivery Partners](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-managed-streaming-apache-kafka-msk-delivery-partners/)
-- [Introducing the Amazon EC2 Spot Ready Software Products](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-ec2-spot-ready-software-products/)
-- [Amazon S3 Access Points can now be used to securely delegate access permissions for shared datasets to other AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-s3-access-points-securely-delegate-permissions-datasets-aws-accounts/)
-- [Amazon GuardDuty RDS Protection now in preview](https://aws.amazon.com/about-aws/whats-new/2022/11/amazon-guardduty-rds-protection-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

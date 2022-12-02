@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppConfig Agent makes feature flags and runtime configuration simpler for containers](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-appconfig-agent-feature-flags-runtime-configuration-containers/)
 - [Amazon Comprehend announces support for classification and entity extraction directly from a variety of document formats](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-comprehend-support-classification-entity-exctraction-document-formats/)
 - [AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/)
 - [AWS re:Post streamlines customers’ community engagement with AWS Builder ID and re:Post Linked logins](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-repost-customers-community-engagement-builder-id-repost-linked-logins/)
@@ -67,7 +68,6 @@
 - [Amazon EventBridge Pipes is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eventbridge-pipes-generally-available/)
 - [Announcing AWS Data Exchange for Amazon S3 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-amazon-s3-preview/)
 - [Announcing AWS Data Exchange for AWS Lake Formation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-aws-lake-formation-preview/)
-- [Announcing AWS Marketplace Vendor Insights to help streamline vendor risk assessments](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-marketplace-vendor-insights-streamline-vendor-risk-assessments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports FortiGate Cloud-Native Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-firewall-manager-fortigate-cloud-native-firewall/)
 - [AWS AppConfig Agent makes feature flags and runtime configuration simpler for containers](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-appconfig-agent-feature-flags-runtime-configuration-containers/)
 - [Amazon Comprehend announces support for classification and entity extraction directly from a variety of document formats](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-comprehend-support-classification-entity-exctraction-document-formats/)
 - [AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/)
@@ -67,7 +68,6 @@
 - [Introducing AWS Application Composer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-application-composer-preview/)
 - [Amazon EventBridge Pipes is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eventbridge-pipes-generally-available/)
 - [Announcing AWS Data Exchange for Amazon S3 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-amazon-s3-preview/)
-- [Announcing AWS Data Exchange for AWS Lake Formation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-aws-lake-formation-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

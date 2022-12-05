@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio now supports Fine-grained data access control with AWS Lake Formation and Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-studio-fine-grained-data-access-control-lake-formation-emr/)
 - [AWS Firewall Manager now supports FortiGate Cloud-Native Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-firewall-manager-fortigate-cloud-native-firewall/)
 - [AWS AppConfig Agent makes feature flags and runtime configuration simpler for containers](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-appconfig-agent-feature-flags-runtime-configuration-containers/)
 - [Amazon Comprehend announces support for classification and entity extraction directly from a variety of document formats](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-comprehend-support-classification-entity-exctraction-document-formats/)
@@ -67,7 +68,6 @@
 - [Announcing Amazon CodeCatalyst &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/announcing-amazon-codecatalyst-preview/)
 - [Introducing AWS Application Composer &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-application-composer-preview/)
 - [Amazon EventBridge Pipes is now generally available](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eventbridge-pipes-generally-available/)
-- [Announcing AWS Data Exchange for Amazon S3 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/11/aws-data-exchange-amazon-s3-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

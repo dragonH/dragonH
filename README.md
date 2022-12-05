@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/dragonH/dragonH/pull/3) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
-2. 💪 Opened PR [#3](https://github.com/dragonH/dragonH/pull/3) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
-3. ❗️ Opened issue [#1501](https://github.com/delta-io/delta/issues/1501) in [delta-io/delta](https://github.com/delta-io/delta)
-4. 🎉 Merged PR [#51](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/51) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-5. 🎉 Merged PR [#52](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/52) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+1. 🎉 Merged PR [#54](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/54) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+2. 🎉 Merged PR [#3](https://github.com/dragonH/dragonH/pull/3) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
+3. 💪 Opened PR [#3](https://github.com/dragonH/dragonH/pull/3) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
+4. ❗️ Opened issue [#1501](https://github.com/delta-io/delta/issues/1501) in [delta-io/delta](https://github.com/delta-io/delta)
+5. 🎉 Merged PR [#51](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/51) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
 <!--END_SECTION:activity-->
 
 </details>

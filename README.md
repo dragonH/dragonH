@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Defender Audit feature now identifies potential misconfiguration in IoT Policies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-defender-audit-identifies-potential-misconfiguration-iot-policies/)
+- [AWS Snow Family Large Data Migration Manager is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/)
+- [NoSQL Workbench for Amazon DynamoDB now includes DynamoDB Local](https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-local/)
+- [NoSQL Workbench for Amazon DynamoDB now supports creating data models directly from sample data model templates](https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-creating-data-models-sample-data-templates/)
 - [Amazon Neptune Workbench is now available in Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, and Middle East &lpar;Bahrain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-available-africa-cape-town-asia-pacific-hong-kong-middle-east-bahrain-regions/)
 - [VMware Cloud on AWS is now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/vmware-cloud-aws-africa-cape-town/)
 - [Amazon Lex launches support for Arabic, Cantonese, Norwegian, Swedish, Polish, and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-lex-support-arabic-cantonese-norwegian-swedish-polish-finnish/)
 - [Amazon FSx receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-dod-impact-level-4-5-authorization/)
 - [Amazon Location Service is now HITRUST CSF certified](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-location-service-hitrust-csf-certified/)
 - [Amazon FSx for NetApp ONTAP announces four new ease-of-use features](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-new-ease-of-use-features/)
-- [AWS IAM Identity Center achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iam-identity-center-fedramp-high-authorization-aws-govcloud-us/)
-- [AWS CloudShell is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloudshell-system-organization-controls-soc-compliant/)
-- [AWS Glue sensitive data detection is available in 18 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-sensitive-data-detection-18-additional-aws-regions/)
-- [Amazon FSx for NetApp ONTAP extends NVMe read cache support to Single-AZ file systems](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-nvme-read-cache-single-az-file-systems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

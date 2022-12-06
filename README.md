@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VMware Cloud on AWS is now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/vmware-cloud-aws-africa-cape-town/)
+- [Amazon Lex launches support for Arabic, Cantonese, Norwegian, Swedish, Polish, and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-lex-support-arabic-cantonese-norwegian-swedish-polish-finnish/)
 - [Amazon FSx receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-dod-impact-level-4-5-authorization/)
 - [Amazon Location Service is now HITRUST CSF certified](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-location-service-hitrust-csf-certified/)
 - [Amazon FSx for NetApp ONTAP announces four new ease-of-use features](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-new-ease-of-use-features/)
@@ -66,8 +68,6 @@
 - [AWS Glue sensitive data detection is available in 18 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-sensitive-data-detection-18-additional-aws-regions/)
 - [Amazon FSx for NetApp ONTAP extends NVMe read cache support to Single-AZ file systems](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-nvme-read-cache-single-az-file-systems/)
 - [Amazon FSx for NetApp ONTAP now supports Nitro-based encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-nitro-based-encryption-data-transit/)
-- [AWS Security Hub now integrates with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-security-hub-integrates-aws-control-tower/)
-- [Amazon SageMaker Studio now supports Fine-grained data access control with AWS Lake Formation and Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-studio-fine-grained-data-access-control-lake-formation-emr/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

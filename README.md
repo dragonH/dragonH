@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Workbench is now available in Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, and Middle East &lpar;Bahrain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-available-africa-cape-town-asia-pacific-hong-kong-middle-east-bahrain-regions/)
 - [VMware Cloud on AWS is now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/vmware-cloud-aws-africa-cape-town/)
 - [Amazon Lex launches support for Arabic, Cantonese, Norwegian, Swedish, Polish, and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-lex-support-arabic-cantonese-norwegian-swedish-polish-finnish/)
 - [Amazon FSx receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-dod-impact-level-4-5-authorization/)
@@ -67,7 +68,6 @@
 - [AWS CloudShell is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloudshell-system-organization-controls-soc-compliant/)
 - [AWS Glue sensitive data detection is available in 18 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-sensitive-data-detection-18-additional-aws-regions/)
 - [Amazon FSx for NetApp ONTAP extends NVMe read cache support to Single-AZ file systems](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-nvme-read-cache-single-az-file-systems/)
-- [Amazon FSx for NetApp ONTAP now supports Nitro-based encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-nitro-based-encryption-data-transit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

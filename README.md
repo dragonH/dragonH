@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-dod-impact-level-4-5-authorization/)
+- [Amazon Location Service is now HITRUST CSF certified](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-location-service-hitrust-csf-certified/)
+- [Amazon FSx for NetApp ONTAP announces four new ease-of-use features](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-new-ease-of-use-features/)
+- [AWS IAM Identity Center achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iam-identity-center-fedramp-high-authorization-aws-govcloud-us/)
+- [AWS CloudShell is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloudshell-system-organization-controls-soc-compliant/)
+- [AWS Glue sensitive data detection is available in 18 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-sensitive-data-detection-18-additional-aws-regions/)
+- [Amazon FSx for NetApp ONTAP extends NVMe read cache support to Single-AZ file systems](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-nvme-read-cache-single-az-file-systems/)
 - [Amazon FSx for NetApp ONTAP now supports Nitro-based encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-nitro-based-encryption-data-transit/)
 - [AWS Security Hub now integrates with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-security-hub-integrates-aws-control-tower/)
 - [Amazon SageMaker Studio now supports Fine-grained data access control with AWS Lake Formation and Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-studio-fine-grained-data-access-control-lake-formation-emr/)
-- [AWS Firewall Manager now supports FortiGate Cloud-Native Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-firewall-manager-fortigate-cloud-native-firewall/)
-- [AWS AppConfig Agent makes feature flags and runtime configuration simpler for containers](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-appconfig-agent-feature-flags-runtime-configuration-containers/)
-- [Amazon Comprehend announces support for classification and entity extraction directly from a variety of document formats](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-comprehend-support-classification-entity-exctraction-document-formats/)
-- [AWS Step Functions launches large-scale parallel workflows for data processing and serverless applications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-step-functions-large-scale-parallel-workflows-data-processing-serverless-applications/)
-- [AWS re:Post streamlines customers’ community engagement with AWS Builder ID and re:Post Linked logins](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-repost-customers-community-engagement-builder-id-repost-linked-logins/)
-- [Amazon GameLift now supports customer-managed compute with GameLift Anywhere](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-gamelift-customer-managed-compute-gamelift-anywhere/)
-- [Announcing Amazon CodeCatalyst &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/announcing-amazon-codecatalyst-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

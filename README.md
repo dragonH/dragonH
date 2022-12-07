@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of Amazon Redshift Serverless in the Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-redshift-serverless-asia-pacific-mumbai-canada-central-regions/)
 - [Target multiple resources type with wildcard configuration for AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/12/target-multiple-resources-wildcard-configuration-aws-cloudformation-hooks/)
 - [AWS IoT Device Defender Audit feature now identifies potential misconfiguration in IoT Policies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-defender-audit-identifies-potential-misconfiguration-iot-policies/)
 - [AWS Snow Family Large Data Migration Manager is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [VMware Cloud on AWS is now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/vmware-cloud-aws-africa-cape-town/)
 - [Amazon Lex launches support for Arabic, Cantonese, Norwegian, Swedish, Polish, and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-lex-support-arabic-cantonese-norwegian-swedish-polish-finnish/)
 - [Amazon FSx receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-dod-impact-level-4-5-authorization/)
-- [Amazon Location Service is now HITRUST CSF certified](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-location-service-hitrust-csf-certified/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

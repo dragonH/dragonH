@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/dragonH/movie-api/pull/12) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
-2. 🎉 Merged PR [#54](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/54) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-3. 🎉 Merged PR [#3](https://github.com/dragonH/dragonH/pull/3) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
-4. 💪 Opened PR [#3](https://github.com/dragonH/dragonH/pull/3) in [dragonH/dragonH](https://github.com/dragonH/dragonH)
-5. ❗️ Opened issue [#1501](https://github.com/delta-io/delta/issues/1501) in [delta-io/delta](https://github.com/delta-io/delta)
+1. 🎉 Merged PR [#55](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/55) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+2. 🎉 Merged PR [#15](https://github.com/dragonH/movie-api/pull/15) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
+3. 🎉 Merged PR [#14](https://github.com/dragonH/movie-api/pull/14) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
+4. 🎉 Merged PR [#13](https://github.com/dragonH/movie-api/pull/13) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
+5. 🎉 Merged PR [#12](https://github.com/dragonH/movie-api/pull/12) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
 <!--END_SECTION:activity-->
 
 </details>

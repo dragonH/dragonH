@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Contact Lens for Amazon Connect launches APIs to manage rules](https://aws.amazon.com/about-aws/whats-new/2022/12/contact-lens-amazon-connect-apis-manage-rules/)
 - [Amazon EC2 Is4gen and Im4gn Instances are now available in Europe &lpar;Paris&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-is4gen-im4gn-instances-europe-paris-region/)
 - [Amazon Cognito is now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cognito-europe-milan-region/)
 - [Recycle Bin for Amazon Machine Images is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/recycle-bin-amazon-machine-images-available-asia-pacific-hyderabad-region/)
@@ -67,7 +68,6 @@
 - [AWS Snow Family Large Data Migration Manager is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/)
 - [NoSQL Workbench for Amazon DynamoDB now includes DynamoDB Local](https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-local/)
 - [NoSQL Workbench for Amazon DynamoDB now supports creating data models directly from sample data model templates](https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-creating-data-models-sample-data-templates/)
-- [Amazon Neptune Workbench is now available in Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Hong Kong&rpar;, and Middle East &lpar;Bahrain&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-available-africa-cape-town-asia-pacific-hong-kong-middle-east-bahrain-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

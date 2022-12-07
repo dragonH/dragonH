@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Data Lifecycle Manager is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-data-lifecycle-manager-aws-middle-east-uae-region/)
+- [Amazon Transcribe now supports Custom Language Models for German and Japanese languages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-custom-language-models-german-japanese/)
 - [Contact Lens for Amazon Connect launches APIs to manage rules](https://aws.amazon.com/about-aws/whats-new/2022/12/contact-lens-amazon-connect-apis-manage-rules/)
 - [Amazon EC2 Is4gen and Im4gn Instances are now available in Europe &lpar;Paris&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-is4gen-im4gn-instances-europe-paris-region/)
 - [Amazon Cognito is now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cognito-europe-milan-region/)
@@ -66,8 +68,6 @@
 - [Target multiple resources type with wildcard configuration for AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/12/target-multiple-resources-wildcard-configuration-aws-cloudformation-hooks/)
 - [AWS IoT Device Defender Audit feature now identifies potential misconfiguration in IoT Policies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-defender-audit-identifies-potential-misconfiguration-iot-policies/)
 - [AWS Snow Family Large Data Migration Manager is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/)
-- [NoSQL Workbench for Amazon DynamoDB now includes DynamoDB Local](https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-local/)
-- [NoSQL Workbench for Amazon DynamoDB now supports creating data models directly from sample data model templates](https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-creating-data-models-sample-data-templates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

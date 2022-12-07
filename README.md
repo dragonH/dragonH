@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Target multiple resources type with wildcard configuration for AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/12/target-multiple-resources-wildcard-configuration-aws-cloudformation-hooks/)
 - [AWS IoT Device Defender Audit feature now identifies potential misconfiguration in IoT Policies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-defender-audit-identifies-potential-misconfiguration-iot-policies/)
 - [AWS Snow Family Large Data Migration Manager is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/)
 - [NoSQL Workbench for Amazon DynamoDB now includes DynamoDB Local](https://aws.amazon.com/about-aws/whats-new/2022/12/nosql-workbench-amazon-dynamodb-local/)
@@ -67,7 +68,6 @@
 - [Amazon Lex launches support for Arabic, Cantonese, Norwegian, Swedish, Polish, and Finnish](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-lex-support-arabic-cantonese-norwegian-swedish-polish-finnish/)
 - [Amazon FSx receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-dod-impact-level-4-5-authorization/)
 - [Amazon Location Service is now HITRUST CSF certified](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-location-service-hitrust-csf-certified/)
-- [Amazon FSx for NetApp ONTAP announces four new ease-of-use features](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fsx-netapp-ontap-new-ease-of-use-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

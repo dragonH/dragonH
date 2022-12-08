@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT TwinMaker launches asset synchronization with AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-twinmaker-launches-asset-synchronization-aws-iot-sitewise/)
+- [Amazon QuickSight supports billion-row dataset with SPICE](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-billion-row-dataset-spice/)
+- [AWS Cost Anomaly Detection adds account name and other important details to its alert notifications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-account-name-alert-notifications/)
+- [Amazon SageMaker Data Wrangler now supports Amazon EMR Presto as a big data query engine](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-supports-amazon-emr-presto-data-source-query-engine/)
+- [AWS Cost Management introduces 1-click experience to refresh Savings Plans Recommendations](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-management-1-click-experience-refresh-savings-plans-recommendations/)
+- [AWS Systems Manager Change Manager now displays AWS CloudTrail events associated with change requests](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-change-manager-displays-aws-cloudtrail-change-requests/)
 - [Amazon RDS Proxy now supports creating proxies in Aurora Global Database primary and secondary regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-creating-proxies-aurora-global-database-primary-secondary-regions/)
 - [Amazon Kinesis Data Firehose now delivers to Logz.io](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-data-firehose-delivers-logz-io/)
 - [AWS Config enables drift detection in Config Recorder](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-drift-detection-config-recorder/)
 - [Amazon VPC IP Address Manager &lpar;IPAM&rpar; is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ipam-available-aws-govcloud-us-regions/)
-- [Announcing availability of AWS Outposts in Egypt](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-outposts-egypt/)
-- [Amazon SageMaker Feature Store now supports Apache Iceberg table format](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-feature-store-apache-iceberg-table-format/)
-- [Amazon Data Lifecycle Manager is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-data-lifecycle-manager-aws-middle-east-uae-region/)
-- [Amazon Transcribe now supports Custom Language Models for German and Japanese languages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-custom-language-models-german-japanese/)
-- [Contact Lens for Amazon Connect launches APIs to manage rules](https://aws.amazon.com/about-aws/whats-new/2022/12/contact-lens-amazon-connect-apis-manage-rules/)
-- [Amazon EC2 Is4gen and Im4gn Instances are now available in Europe &lpar;Paris&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-is4gen-im4gn-instances-europe-paris-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

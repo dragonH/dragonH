@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing availability of AWS Outposts in Egypt](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-outposts-egypt/)
+- [Amazon SageMaker Feature Store now supports Apache Iceberg table format](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-feature-store-apache-iceberg-table-format/)
 - [Amazon Data Lifecycle Manager is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-data-lifecycle-manager-aws-middle-east-uae-region/)
 - [Amazon Transcribe now supports Custom Language Models for German and Japanese languages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-custom-language-models-german-japanese/)
 - [Contact Lens for Amazon Connect launches APIs to manage rules](https://aws.amazon.com/about-aws/whats-new/2022/12/contact-lens-amazon-connect-apis-manage-rules/)
@@ -66,8 +68,6 @@
 - [Recycle Bin for Amazon Machine Images is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/recycle-bin-amazon-machine-images-available-asia-pacific-hyderabad-region/)
 - [Announcing general availability of Amazon Redshift Serverless in the Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-redshift-serverless-asia-pacific-mumbai-canada-central-regions/)
 - [Target multiple resources type with wildcard configuration for AWS CloudFormation Hooks](https://aws.amazon.com/about-aws/whats-new/2022/12/target-multiple-resources-wildcard-configuration-aws-cloudformation-hooks/)
-- [AWS IoT Device Defender Audit feature now identifies potential misconfiguration in IoT Policies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-defender-audit-identifies-potential-misconfiguration-iot-policies/)
-- [AWS Snow Family Large Data Migration Manager is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-snow-family-large-data-migration-manager-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

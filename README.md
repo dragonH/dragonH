@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config enables drift detection in Config Recorder](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-drift-detection-config-recorder/)
 - [Amazon VPC IP Address Manager &lpar;IPAM&rpar; is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ipam-available-aws-govcloud-us-regions/)
 - [Announcing availability of AWS Outposts in Egypt](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-outposts-egypt/)
 - [Amazon SageMaker Feature Store now supports Apache Iceberg table format](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-feature-store-apache-iceberg-table-format/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Is4gen and Im4gn Instances are now available in Europe &lpar;Paris&rpar; region.](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-is4gen-im4gn-instances-europe-paris-region/)
 - [Amazon Cognito is now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cognito-europe-milan-region/)
 - [Recycle Bin for Amazon Machine Images is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/recycle-bin-amazon-machine-images-available-asia-pacific-hyderabad-region/)
-- [Announcing general availability of Amazon Redshift Serverless in the Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-redshift-serverless-asia-pacific-mumbai-canada-central-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

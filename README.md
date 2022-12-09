@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Service Connect now supports AWS Fargate on AWS Graviton Processors](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-supports-aws-fargate-graviton-processors/)
 - [Amazon Managed Grafana adds support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/)
 - [Amazon Braket now supports adjoint gradient computation, unlocking runtime improvements and cost savings](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-braket-adjoint-gradient-computation-runtime-cost-savings/)
 - [Announcing preview of SageMaker Model Training support for ml.p4de instances](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-model-training-ml-p4de-instances-preview/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight supports billion-row dataset with SPICE](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-billion-row-dataset-spice/)
 - [AWS Cost Anomaly Detection adds account name and other important details to its alert notifications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-account-name-alert-notifications/)
 - [Amazon SageMaker Data Wrangler now supports Amazon EMR Presto as a big data query engine](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-supports-amazon-emr-presto-data-source-query-engine/)
-- [AWS Cost Management introduces 1-click experience to refresh Savings Plans Recommendations](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-management-1-click-experience-refresh-savings-plans-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

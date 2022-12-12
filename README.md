@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for queues](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-queues/)
+- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for routing profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-routing-profiles/)
+- [Amazon Translate enables language detection support for batch translation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-language-detection-support-batch-translation/)
 - [Amazon EC2 I4i Instances are now available in the Asia Pacific &lpar;Seoul&rpar; and South America &lpar;São Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-i4i-instances-available-asia-pacific-seoul-south-america-sao-paulo-regions/)
 - [Amazon ECS Service Connect now supports AWS Fargate on AWS Graviton Processors](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-supports-aws-fargate-graviton-processors/)
 - [Amazon Managed Grafana adds support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/)
@@ -65,9 +68,6 @@
 - [Announcing preview of SageMaker Model Training support for ml.p4de instances](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-model-training-ml-p4de-instances-preview/)
 - [Announcing Global Free Tier Pricing Rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/12/global-free-tier-pricing-rules-aws-billing-conductor/)
 - [Amazon EC2 Auto Scaling now supports Metric Math for Target Tracking Policies](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-auto-scaling-supports-metric-math-target-tracking-policies/)
-- [AWS IoT TwinMaker launches asset synchronization with AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-twinmaker-launches-asset-synchronization-aws-iot-sitewise/)
-- [Amazon QuickSight supports billion-row dataset with SPICE](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-billion-row-dataset-spice/)
-- [AWS Cost Anomaly Detection adds account name and other important details to its alert notifications](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-account-name-alert-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-available-middle-east-uae-region/)
+- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for security profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-security-profiles/)
+- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for users](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-users/)
 - [AWS Amplify JavaScript library announces version 5 release](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-amplify-javascript-version-5-release/)
 - [Amazon RDS for Oracle now supports copying option groups during in-region cross-account snapshot copy](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-copying-option-groups-in-region-cross-account-snapshot-copy/)
 - [Amazon Translate enables support for files stored in S3 nested folders](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-support-files-stored-s3-nested-folders/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for Oracle now supports X2idn, X2iedn, and X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-supports-x2idn-x2iedn-x2iezn-instances/)
 - [Amazon DevOps Guru for RDS detects SQL load changes](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-devops-guru-rds-detects-sql-load-changes/)
 - [Amazon Neptune ML now supports Real-time inductive inference](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-ml-supports-real-time-inductive-inference/)
-- [Amazon Connect bulk user import now includes agent hierarchy and tags](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-bulk-user-import-agent-hierarchy-tags/)
-- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for queues](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-queues/)
-- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for routing profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-routing-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Advanced Notice: Amazon S3 will automatically enable S3 Block Public Access and disable access control lists for all new buckets starting in April 2023](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/)
+- [Amazon GuardDuty now available in AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-guardduty-available-aws-europe-zurich-region/)
 - [Amazon MQ is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-available-middle-east-uae-region/)
 - [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for security profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-security-profiles/)
 - [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for users](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-users/)
@@ -66,8 +68,6 @@
 - [Amazon Translate enables support for files stored in S3 nested folders](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-support-files-stored-s3-nested-folders/)
 - [Announcing AWS Amplify Library for Android v2.0](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-amplify-library-android-v2-0/)
 - [Amazon RDS for Oracle now supports X2idn, X2iedn, and X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-supports-x2idn-x2iedn-x2iezn-instances/)
-- [Amazon DevOps Guru for RDS detects SQL load changes](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-devops-guru-rds-detects-sql-load-changes/)
-- [Amazon Neptune ML now supports Real-time inductive inference](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-ml-supports-real-time-inductive-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify JavaScript library announces version 5 release](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-amplify-javascript-version-5-release/)
+- [Amazon RDS for Oracle now supports copying option groups during in-region cross-account snapshot copy](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-copying-option-groups-in-region-cross-account-snapshot-copy/)
+- [Amazon Translate enables support for files stored in S3 nested folders](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-support-files-stored-s3-nested-folders/)
+- [Announcing AWS Amplify Library for Android v2.0](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-amplify-library-android-v2-0/)
+- [Amazon RDS for Oracle now supports X2idn, X2iedn, and X2iezn instances](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-supports-x2idn-x2iedn-x2iezn-instances/)
+- [Amazon DevOps Guru for RDS detects SQL load changes](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-devops-guru-rds-detects-sql-load-changes/)
+- [Amazon Neptune ML now supports Real-time inductive inference](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-ml-supports-real-time-inductive-inference/)
 - [Amazon Connect bulk user import now includes agent hierarchy and tags](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-bulk-user-import-agent-hierarchy-tags/)
 - [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for queues](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-queues/)
 - [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for routing profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-routing-profiles/)
-- [Amazon Translate enables language detection support for batch translation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-language-detection-support-batch-translation/)
-- [Amazon EC2 I4i Instances are now available in the Asia Pacific &lpar;Seoul&rpar; and South America &lpar;São Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-i4i-instances-available-asia-pacific-seoul-south-america-sao-paulo-regions/)
-- [Amazon ECS Service Connect now supports AWS Fargate on AWS Graviton Processors](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-supports-aws-fargate-graviton-processors/)
-- [Amazon Managed Grafana adds support for AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-grafana-support-aws-cloudformation/)
-- [Amazon Braket now supports adjoint gradient computation, unlocking runtime improvements and cost savings](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-braket-adjoint-gradient-computation-runtime-cost-savings/)
-- [Announcing preview of SageMaker Model Training support for ml.p4de instances](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-model-training-ml-p4de-instances-preview/)
-- [Announcing Global Free Tier Pricing Rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2022/12/global-free-tier-pricing-rules-aws-billing-conductor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

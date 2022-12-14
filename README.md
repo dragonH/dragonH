@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization supports new regions, AWS CloudFormation, AWS PrivateLink, AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-mainframe-modernization-regions-cloudformation-privatelink-key-management-service/)
+- [Amazon ECS Service Connect now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-available-aws-china-regions/)
 - [Amazon EMR on EKS now supports Nvidia RAPIDS Accelerator for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-emr-eks-nvidia-rapids-accelerator-apache-spark/)
 - [Amazon Neptune now supports “Concise Bounded Description” queries for SPARQL query language](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-concise-bounded-description-queries-sparql-query-language/)
 - [AWS Cloud WAN helps simplify security inspection with Appliance Mode support](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-wan-security-inspection-appliance-mode-support/)
@@ -66,8 +68,6 @@
 - [Bring ML models built anywhere into Amazon SageMaker Canvas and generate predictions](https://aws.amazon.com/about-aws/whats-new/2022/12/ml-models-built-anywhere-amazon-sagemaker-canvas-generate-predictions/)
 - [Monitor Amazon EMR Serverless jobs in near real-time using CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/12/monitor-amazon-emr-serverless-jobs-near-real-time-cloudwatch-metrics/)
 - [Amazon RDS Proxy now supports PostgreSQL major version 14](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-supports-postgresql-major-version-14/)
-- [Amazon EBS direct APIs now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-direct-apis-internet-protocol-version-ipv6/)
-- [Advanced Notice: Amazon S3 will automatically enable S3 Block Public Access and disable access control lists for all new buckets starting in April 2023](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

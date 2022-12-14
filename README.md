@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS add-ons now supports advanced configuration](https://aws.amazon.com/about-aws/whats-new/2022/12/eks-add-ons-supports-advanced-configuration/)
+- [Amazon Kendra now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-asia-pacific-mumbai-aws-region/)
+- [Amazon Kinesis Video Streams announces edge recording and scheduled cloud streaming capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-video-streams-edge-recording-scheduled-cloud-streaming-preview/)
+- [Contact Lens for Amazon Connect now provides conversational analytics in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-lens-conversational-analytics-africa-cape-town-region/)
+- [SageMaker Data Wrangler now auto-generates feature-level visualizations](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-auto-generates-feature-level-visualizations/)
 - [AWS Mainframe Modernization supports new regions, AWS CloudFormation, AWS PrivateLink, AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-mainframe-modernization-regions-cloudformation-privatelink-key-management-service/)
 - [Amazon ECS Service Connect now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-available-aws-china-regions/)
 - [Amazon EMR on EKS now supports Nvidia RAPIDS Accelerator for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-emr-eks-nvidia-rapids-accelerator-apache-spark/)
 - [Amazon Neptune now supports “Concise Bounded Description” queries for SPARQL query language](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-concise-bounded-description-queries-sparql-query-language/)
 - [AWS Cloud WAN helps simplify security inspection with Appliance Mode support](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-wan-security-inspection-appliance-mode-support/)
-- [Amazon SageMaker Ground Truth synthetic data now supports dynamic 3D environments](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-ground-truth-synthetic-data-supports-dynamic-3d-environments/)
-- [Amazon CloudWatch launches Metrics Insights alarms](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cloudwatch-metrics-insights-alarms/)
-- [Bring ML models built anywhere into Amazon SageMaker Canvas and generate predictions](https://aws.amazon.com/about-aws/whats-new/2022/12/ml-models-built-anywhere-amazon-sagemaker-canvas-generate-predictions/)
-- [Monitor Amazon EMR Serverless jobs in near real-time using CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/12/monitor-amazon-emr-serverless-jobs-near-real-time-cloudwatch-metrics/)
-- [Amazon RDS Proxy now supports PostgreSQL major version 14](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-supports-postgresql-major-version-14/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

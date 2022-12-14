@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS now supports Nvidia RAPIDS Accelerator for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-emr-eks-nvidia-rapids-accelerator-apache-spark/)
+- [Amazon Neptune now supports “Concise Bounded Description” queries for SPARQL query language](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-concise-bounded-description-queries-sparql-query-language/)
+- [AWS Cloud WAN helps simplify security inspection with Appliance Mode support](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-wan-security-inspection-appliance-mode-support/)
 - [Amazon SageMaker Ground Truth synthetic data now supports dynamic 3D environments](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-ground-truth-synthetic-data-supports-dynamic-3d-environments/)
 - [Amazon CloudWatch launches Metrics Insights alarms](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cloudwatch-metrics-insights-alarms/)
 - [Bring ML models built anywhere into Amazon SageMaker Canvas and generate predictions](https://aws.amazon.com/about-aws/whats-new/2022/12/ml-models-built-anywhere-amazon-sagemaker-canvas-generate-predictions/)
@@ -65,9 +68,6 @@
 - [Amazon RDS Proxy now supports PostgreSQL major version 14](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-supports-postgresql-major-version-14/)
 - [Amazon EBS direct APIs now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-direct-apis-internet-protocol-version-ipv6/)
 - [Advanced Notice: Amazon S3 will automatically enable S3 Block Public Access and disable access control lists for all new buckets starting in April 2023](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-automatically-enable-block-public-access-disable-access-control-lists-buckets-april-2023/)
-- [Amazon GuardDuty now available in AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-guardduty-available-aws-europe-zurich-region/)
-- [Amazon MQ is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-available-middle-east-uae-region/)
-- [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for security profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-security-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

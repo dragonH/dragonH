@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch launches Metrics Insights alarms](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-cloudwatch-metrics-insights-alarms/)
+- [Bring ML models built anywhere into Amazon SageMaker Canvas and generate predictions](https://aws.amazon.com/about-aws/whats-new/2022/12/ml-models-built-anywhere-amazon-sagemaker-canvas-generate-predictions/)
 - [Monitor Amazon EMR Serverless jobs in near real-time using CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2022/12/monitor-amazon-emr-serverless-jobs-near-real-time-cloudwatch-metrics/)
 - [Amazon RDS Proxy now supports PostgreSQL major version 14](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-proxy-supports-postgresql-major-version-14/)
 - [Amazon EBS direct APIs now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-direct-apis-internet-protocol-version-ipv6/)
@@ -66,8 +68,6 @@
 - [Amazon MQ is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-available-middle-east-uae-region/)
 - [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for security profiles](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-security-profiles/)
 - [Amazon Connect launches more granular access controls &lpar;using resource tags&rpar; for users](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-granular-access-controls-resource-tags-users/)
-- [AWS Amplify JavaScript library announces version 5 release](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-amplify-javascript-version-5-release/)
-- [Amazon RDS for Oracle now supports copying option groups during in-region cross-account snapshot copy](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-oracle-copying-option-groups-in-region-cross-account-snapshot-copy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

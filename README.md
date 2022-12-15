@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Calculator supports dedicated instance pricing](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-calculator-dedicated-instance-pricing/)
+- [Introducing concurrent account provisioning operations for AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-control-tower-concurrent-account-provisioning-operations/)
+- [AWS Cost Anomaly Detection now supports percentage-based thresholds](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-percentage-based-thresholds/)
 - [Amazon AppFlow now supports Microsoft SharePoint Online as a source](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appflow-microsoft-sharepoint-online-source/)
 - [Amazon Timestream now enables you to protect your data through AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-timestream-enables-protect-data-through-aws-backup/)
 - [Amazon EKS add-ons now supports advanced configuration](https://aws.amazon.com/about-aws/whats-new/2022/12/eks-add-ons-supports-advanced-configuration/)
@@ -65,9 +68,6 @@
 - [Amazon Kinesis Video Streams announces edge recording and scheduled cloud streaming capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-video-streams-edge-recording-scheduled-cloud-streaming-preview/)
 - [Contact Lens for Amazon Connect now provides conversational analytics in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-lens-conversational-analytics-africa-cape-town-region/)
 - [SageMaker Data Wrangler now auto-generates feature-level visualizations](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-auto-generates-feature-level-visualizations/)
-- [AWS Mainframe Modernization supports new regions, AWS CloudFormation, AWS PrivateLink, AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-mainframe-modernization-regions-cloudformation-privatelink-key-management-service/)
-- [Amazon ECS Service Connect now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-available-aws-china-regions/)
-- [Amazon EMR on EKS now supports Nvidia RAPIDS Accelerator for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-emr-eks-nvidia-rapids-accelerator-apache-spark/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

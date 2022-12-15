@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppFlow now supports Microsoft SharePoint Online as a source](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appflow-microsoft-sharepoint-online-source/)
 - [Amazon Timestream now enables you to protect your data through AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-timestream-enables-protect-data-through-aws-backup/)
 - [Amazon EKS add-ons now supports advanced configuration](https://aws.amazon.com/about-aws/whats-new/2022/12/eks-add-ons-supports-advanced-configuration/)
 - [Amazon Kendra now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-asia-pacific-mumbai-aws-region/)
@@ -67,7 +68,6 @@
 - [AWS Mainframe Modernization supports new regions, AWS CloudFormation, AWS PrivateLink, AWS Key Management Service](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-mainframe-modernization-regions-cloudformation-privatelink-key-management-service/)
 - [Amazon ECS Service Connect now available in the AWS China &lpar;Beijing&rpar; and AWS China &lpar;Ningxia&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-service-connect-available-aws-china-regions/)
 - [Amazon EMR on EKS now supports Nvidia RAPIDS Accelerator for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-emr-eks-nvidia-rapids-accelerator-apache-spark/)
-- [Amazon Neptune now supports “Concise Bounded Description” queries for SPARQL query language](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-concise-bounded-description-queries-sparql-query-language/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

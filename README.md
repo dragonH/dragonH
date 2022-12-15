@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service now available in Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar;, Europe &lpar;London&rpar;, and  South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-location-service-available-new-regions/)
+- [Announcing Open Data Maps for Amazon Location Service &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-location-service-open-data-maps-preview/)
+- [AWS Pricing Calculator supports bulk estimation of Amazon EC2 instances](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-pricing-calculator-bulk-estimation-amazon-ec2-instances/)
+- [AWS Marketplace adds new functionality to notify sellers and customers when a private offer is created](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-marketplace-notify-sellers-customers-private-offer-created/)
 - [Amazon EC2 Calculator supports dedicated instance pricing](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-calculator-dedicated-instance-pricing/)
 - [Introducing concurrent account provisioning operations for AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-control-tower-concurrent-account-provisioning-operations/)
 - [AWS Cost Anomaly Detection now supports percentage-based thresholds](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cost-anomaly-detection-percentage-based-thresholds/)
 - [Amazon AppFlow now supports Microsoft SharePoint Online as a source](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appflow-microsoft-sharepoint-online-source/)
 - [Amazon Timestream now enables you to protect your data through AWS Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-timestream-enables-protect-data-through-aws-backup/)
 - [Amazon EKS add-ons now supports advanced configuration](https://aws.amazon.com/about-aws/whats-new/2022/12/eks-add-ons-supports-advanced-configuration/)
-- [Amazon Kendra now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-asia-pacific-mumbai-aws-region/)
-- [Amazon Kinesis Video Streams announces edge recording and scheduled cloud streaming capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-video-streams-edge-recording-scheduled-cloud-streaming-preview/)
-- [Contact Lens for Amazon Connect now provides conversational analytics in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-lens-conversational-analytics-africa-cape-town-region/)
-- [SageMaker Data Wrangler now auto-generates feature-level visualizations](https://aws.amazon.com/about-aws/whats-new/2022/12/sagemaker-data-wrangler-auto-generates-feature-level-visualizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 is now available in the South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appstream-2-0-south-america-sao-paulo-region/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elastic-file-system-efs-available-aws-europe-zurich-region/)
 - [Amazon Chime SDK launches pre-built CodeSandbox developer experience](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-chime-sdk-pre-built-codesandbox-developer-experience/)
 - [AWS Backup adds support for VMware vSphere tags](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-backup-adds-support-vmware-vsphere-tags/)
@@ -67,7 +68,6 @@
 - [Amazon EKS launches automated provisioning and lifecycle management for Windows containers](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-automated-provisioning-lifecycle-management-windows-containers/)
 - [Amazon QuickSight is now available in Stockholm and Paris Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-available-stockholm-paris-regions/)
 - [Announcing 4 new connectors for Amazon AppFlow](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appflow-4-new-connectors/)
-- [Amazon Location Service now available in Asia Pacific &lpar;Mumbai&rpar;, Canada &lpar;Central&rpar;, Europe &lpar;London&rpar;, and  South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-location-service-available-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

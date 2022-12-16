@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M6a and C6a instances now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-m6a-c6a-instances-additional-regions/)
+- [AWS IoT is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-available-aws-middle-east-uae-region/)
+- [Amazon ECS now supports container port ranges for port mapping](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-supports-container-port-ranges-port-mapping/)
+- [AWS IQ launches public profiles for companies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iq-launches-public-profiles-companies/)
+- [Introducing the new Amazon EMR Console](https://aws.amazon.com/about-aws/whats-new/2022/12/new-amazon-emr-console/)
+- [Amazon Personalize extends limits to support more users and longer histories of interactions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-personalize-extends-limits-users-histories-interactions/)
+- [Amazon SageMaker Feature Store extends SageMaker Python SDK to support offline store](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-feature-store-extends-python-sdk-offline-store/)
+- [AWS Copilot announces support for Amazon ECS Service Connect](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-copilot-support-amazon-ecs-service-connect/)
+- [Amazon Fraud Detector launches Data Models Explorer](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fraud-detector-data-models-explorer/)
 - [Amazon AppStream 2.0 is now available in the South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appstream-2-0-south-america-sao-paulo-region/)
-- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elastic-file-system-efs-available-aws-europe-zurich-region/)
-- [Amazon Chime SDK launches pre-built CodeSandbox developer experience](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-chime-sdk-pre-built-codesandbox-developer-experience/)
-- [AWS Backup adds support for VMware vSphere tags](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-backup-adds-support-vmware-vsphere-tags/)
-- [AWS Backup adds schedule-based network throttling for VMware](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-backup-adds-schedule-based-network-throttling-vmware/)
-- [Amazon Athena releases new connector for Amazon Managed Streaming for Kafka &lpar;MSK&rpar; and Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-athena-connector-amazon-managed-streaming-kafka-msk-apache/)
-- [AWS Trusted Advisor adds new fault tolerance checks](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-trusted-advisor-fault-tolerance-checks/)
-- [Amazon EKS launches automated provisioning and lifecycle management for Windows containers](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-automated-provisioning-lifecycle-management-windows-containers/)
-- [Amazon QuickSight is now available in Stockholm and Paris Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-available-stockholm-paris-regions/)
-- [Announcing 4 new connectors for Amazon AppFlow](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-appflow-4-new-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

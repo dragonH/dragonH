@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-c6id-m6id-r6id-instances-available-additional-regions/)
+- [Amazon Route 53 now offers threat intelligence sourced from Recorded Future](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-route-53-threat-intelligence-recorded-future/)
+- [AWS Marketplace introduces free trials for SaaS usage-based pricing products](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-marketplace-free-trials-saas-usage-based-pricing-products/)
 - [Amazon Neptune Serverless is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-serverless-available-5-additional-aws-regions/)
 - [AWS Storage Gateway introduces Terraform modules for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-terraform-modules-amazon-s3-file-gateway/)
 - [Amazon EC2 M6a and C6a instances now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-m6a-c6a-instances-additional-regions/)
@@ -65,9 +68,6 @@
 - [Amazon ECS now supports container port ranges for port mapping](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-supports-container-port-ranges-port-mapping/)
 - [AWS IQ launches public profiles for companies](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iq-launches-public-profiles-companies/)
 - [Introducing the new Amazon EMR Console](https://aws.amazon.com/about-aws/whats-new/2022/12/new-amazon-emr-console/)
-- [Amazon Personalize extends limits to support more users and longer histories of interactions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-personalize-extends-limits-users-histories-interactions/)
-- [Amazon SageMaker Feature Store extends SageMaker Python SDK to support offline store](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-feature-store-extends-python-sdk-offline-store/)
-- [AWS Copilot announces support for Amazon ECS Service Connect](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-copilot-support-amazon-ecs-service-connect/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

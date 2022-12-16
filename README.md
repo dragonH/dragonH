@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Serverless is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-serverless-available-5-additional-aws-regions/)
 - [AWS Storage Gateway introduces Terraform modules for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-terraform-modules-amazon-s3-file-gateway/)
 - [Amazon EC2 M6a and C6a instances now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-m6a-c6a-instances-additional-regions/)
 - [AWS IoT is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-available-aws-middle-east-uae-region/)
@@ -67,7 +68,6 @@
 - [Amazon Personalize extends limits to support more users and longer histories of interactions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-personalize-extends-limits-users-histories-interactions/)
 - [Amazon SageMaker Feature Store extends SageMaker Python SDK to support offline store](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-feature-store-extends-python-sdk-offline-store/)
 - [AWS Copilot announces support for Amazon ECS Service Connect](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-copilot-support-amazon-ecs-service-connect/)
-- [Amazon Fraud Detector launches Data Models Explorer](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-fraud-detector-data-models-explorer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

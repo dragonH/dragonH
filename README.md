@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawlers enhances support for Delta Lake Tables](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-crawlers-support-delta-lake-tables/)
+- [Amazon EKS now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-supports-aws-privatelink/)
+- [Amazon RDS on AWS Outposts now supports read replicas for MySQL and PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-aws-outposts-supports-read-replicas-mysql-postgresql/)
+- [AWS Elemental MediaConvert now available in the Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-elemental-mediaconvert-available-africa-cape-town-region/)
 - [AWS IAM Identity Center is now available in the Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Jakarta&rpar;, and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iam-identity-center-available-new-regions/)
 - [AWS IoT Device Client V1.8 now available through Elastic Container Registry with enhanced functionality](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-client-1-8-release-ecr-enhanced-fuctionality/)
 - [Amazon EC2 High Memory instances are now available in AWS GovCloud &lpar;US-East&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-high-memory-instances-available-aws-govcloud-us-east-region/)
 - [Amazon FinSpace web and data access events now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/)
 - [Renate an open source python library for automatic model re-training](https://aws.amazon.com/about-aws/whats-new/2022/12/renate-open-source-python-library-automatic-model-re-training/)
 - [Fortuna, an open-source library for uncertainty quantification of ML models, is now available](https://aws.amazon.com/about-aws/whats-new/2022/12/fortuna-open-source-library-uncertainty-quantification-ml-models-available/)
-- [Amazon EBS Snapshots Archive is now available in new Middle East, Europe, and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-snapshots-archive-available-new-middle-east-europe-asia-pacific-regions/)
-- [Amazon Managed Service for Prometheus now supports VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-services-prometheus-vpc-endpoint-policies/)
-- [AWS Gateway Load Balancer and Gateway Load Balancer endpoint now support IPv6 traffic](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-gateway-load-balancer-endpoint-ipv6-traffic/)
-- [Amazon QuickSight Q Topic migration APIs now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-q-topic-migration-apis-available-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

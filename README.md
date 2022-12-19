@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center is now available in the Africa &lpar;Cape Town&rpar;, Asia Pacific &lpar;Jakarta&rpar;, and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iam-identity-center-available-new-regions/)
+- [AWS IoT Device Client V1.8 now available through Elastic Container Registry with enhanced functionality](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-client-1-8-release-ecr-enhanced-fuctionality/)
+- [Amazon EC2 High Memory instances are now available in AWS GovCloud &lpar;US-East&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-high-memory-instances-available-aws-govcloud-us-east-region/)
 - [Amazon FinSpace web and data access events now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/)
 - [Renate an open source python library for automatic model re-training](https://aws.amazon.com/about-aws/whats-new/2022/12/renate-open-source-python-library-automatic-model-re-training/)
 - [Fortuna, an open-source library for uncertainty quantification of ML models, is now available](https://aws.amazon.com/about-aws/whats-new/2022/12/fortuna-open-source-library-uncertainty-quantification-ml-models-available/)
@@ -65,9 +68,6 @@
 - [Amazon Managed Service for Prometheus now supports VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-services-prometheus-vpc-endpoint-policies/)
 - [AWS Gateway Load Balancer and Gateway Load Balancer endpoint now support IPv6 traffic](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-gateway-load-balancer-endpoint-ipv6-traffic/)
 - [Amazon QuickSight Q Topic migration APIs now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-q-topic-migration-apis-available-preview/)
-- [AWS DataSync adds support for using tags in task executions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-datasync-support-tags-task-executions/)
-- [Amazon SageMaker Experiments launches new capabilities to manage ML experiments performed in diverse IDEs](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-experiments-ml-experiment-management-diverse-ides/)
-- [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-c6id-m6id-r6id-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

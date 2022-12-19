@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Renate an open source python library for automatic model re-training](https://aws.amazon.com/about-aws/whats-new/2022/12/renate-open-source-python-library-automatic-model-re-training/)
+- [Fortuna, an open-source library for uncertainty quantification of ML models, is now available](https://aws.amazon.com/about-aws/whats-new/2022/12/fortuna-open-source-library-uncertainty-quantification-ml-models-available/)
+- [Amazon EBS Snapshots Archive is now available in new Middle East, Europe, and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-snapshots-archive-available-new-middle-east-europe-asia-pacific-regions/)
+- [Amazon Managed Service for Prometheus now supports VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-managed-services-prometheus-vpc-endpoint-policies/)
 - [AWS Gateway Load Balancer and Gateway Load Balancer endpoint now support IPv6 traffic](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-gateway-load-balancer-endpoint-ipv6-traffic/)
 - [Amazon QuickSight Q Topic migration APIs now available in preview](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-quicksight-q-topic-migration-apis-available-preview/)
 - [AWS DataSync adds support for using tags in task executions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-datasync-support-tags-task-executions/)
 - [Amazon SageMaker Experiments launches new capabilities to manage ML experiments performed in diverse IDEs](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-experiments-ml-experiment-management-diverse-ides/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-c6id-m6id-r6id-instances-available-additional-regions/)
 - [Amazon Route 53 now offers threat intelligence sourced from Recorded Future](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-route-53-threat-intelligence-recorded-future/)
-- [AWS Marketplace introduces free trials for SaaS usage-based pricing products](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-marketplace-free-trials-saas-usage-based-pricing-products/)
-- [Amazon Neptune Serverless is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-serverless-available-5-additional-aws-regions/)
-- [AWS Storage Gateway introduces Terraform modules for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-terraform-modules-amazon-s3-file-gateway/)
-- [Amazon EC2 M6a and C6a instances now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-m6a-c6a-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FinSpace web and data access events now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/)
 - [Renate an open source python library for automatic model re-training](https://aws.amazon.com/about-aws/whats-new/2022/12/renate-open-source-python-library-automatic-model-re-training/)
 - [Fortuna, an open-source library for uncertainty quantification of ML models, is now available](https://aws.amazon.com/about-aws/whats-new/2022/12/fortuna-open-source-library-uncertainty-quantification-ml-models-available/)
 - [Amazon EBS Snapshots Archive is now available in new Middle East, Europe, and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ebs-snapshots-archive-available-new-middle-east-europe-asia-pacific-regions/)
@@ -67,7 +68,6 @@
 - [AWS DataSync adds support for using tags in task executions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-datasync-support-tags-task-executions/)
 - [Amazon SageMaker Experiments launches new capabilities to manage ML experiments performed in diverse IDEs](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-experiments-ml-experiment-management-diverse-ides/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-c6id-m6id-r6id-instances-available-additional-regions/)
-- [Amazon Route 53 now offers threat intelligence sourced from Recorded Future](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-route-53-threat-intelligence-recorded-future/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

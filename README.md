@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of Amazon S3 Transfer Manager in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-transfer-manager-aws-sdk-java-2-x/)
 - [AWS Glue Crawlers enhances support for Delta Lake Tables](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-crawlers-support-delta-lake-tables/)
 - [Amazon EKS now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-supports-aws-privatelink/)
 - [Amazon RDS on AWS Outposts now supports read replicas for MySQL and PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-aws-outposts-supports-read-replicas-mysql-postgresql/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 High Memory instances are now available in AWS GovCloud &lpar;US-East&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-high-memory-instances-available-aws-govcloud-us-east-region/)
 - [Amazon FinSpace web and data access events now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/)
 - [Renate an open source python library for automatic model re-training](https://aws.amazon.com/about-aws/whats-new/2022/12/renate-open-source-python-library-automatic-model-re-training/)
-- [Fortuna, an open-source library for uncertainty quantification of ML models, is now available](https://aws.amazon.com/about-aws/whats-new/2022/12/fortuna-open-source-library-uncertainty-quantification-ml-models-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

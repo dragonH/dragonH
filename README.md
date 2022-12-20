@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS Local Zones in Bangkok and Kolkata](https://aws.amazon.com/about-aws/whats-new/2022/12/general-availability-aws-local-zones-bangkok-kolkata/)
 - [Announcing the general availability of Amazon S3 Transfer Manager in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-s3-transfer-manager-aws-sdk-java-2-x/)
 - [AWS Glue Crawlers enhances support for Delta Lake Tables](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-glue-crawlers-support-delta-lake-tables/)
 - [Amazon EKS now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-supports-aws-privatelink/)
@@ -67,7 +68,6 @@
 - [AWS IoT Device Client V1.8 now available through Elastic Container Registry with enhanced functionality](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-device-client-1-8-release-ecr-enhanced-fuctionality/)
 - [Amazon EC2 High Memory instances are now available in AWS GovCloud &lpar;US-East&rpar; region](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-high-memory-instances-available-aws-govcloud-us-east-region/)
 - [Amazon FinSpace web and data access events now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-finspace-web-data-access-events-aws-cloudtrail/)
-- [Renate an open source python library for automatic model re-training](https://aws.amazon.com/about-aws/whats-new/2022/12/renate-open-source-python-library-automatic-model-re-training/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

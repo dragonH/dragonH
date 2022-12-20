@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 DescribeImages API now supports pagination](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ec2-describeimages-supports-pagination/)
 - [Announcing the new security widget on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-console-home-security-widget/)
 - [Better reproducibility with SageMaker Automatic Model Tuning](https://aws.amazon.com/about-aws/whats-new/2022/12/better-reproducibility-sagemaker-automatic-model-tuning/)
 - [AWS Resource Access Manager is now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-resource-access-manager-asia-pacific-hyderabad-region/)
@@ -67,7 +68,6 @@
 - [AWS announces Systems Manager Quick Setup for Resource Scheduler](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-quick-setup-resource-scheduler/)
 - [Service Quotas is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/service-quotas-available-aws-middle-east-uae-region/)
 - [Amazon Rekognition adds labels and improves accuracy of existing labels for video](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rekognition-labels-improves-accuracy-existing-labels-video/)
-- [AWS Resource Access Manager is now available in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-resource-access-manager-available-aws-europe-spain-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

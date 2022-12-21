@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS Anywhere now supports cluster lifecycle automation with GitOps and IaC tools like Terraform](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-cluster-lifecycle-automation-gitops-lac-tools-terraform/)
+- [AWS announces Amazon EKS Anywhere on Nutanix](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-nutanix/)
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rekognition-accuracy-content-moderation-images/)
 - [Amazon Aurora Serverless v2 is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-aurora-serverless-v2-africa-cape-town-europe-milan/)
 - [PartiQL for DynamoDB now is supported in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/partiql-dynamodb-supported-aws-govcloud-us-regions/)
@@ -66,8 +68,6 @@
 - [Amazon OpenSearch Service now supports Amazon Graviton2 &lpar;M6g, C6g, R6g, and R6gd&rpar; instances in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-opensearch-service-graviton2-m6g-c6g-r6g-r6gd-additional-regions/)
 - [Amazon Kinesis Video Streams announces ingestion and storage support for Kinesis Video Streams WebRTC &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-video-streams-ingestion-storage-webrtc-preview/)
 - [Announcing AWS Systems Manager widgets on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-widgets-aws-console-home/)
-- [Amazon MQ now supports RabbitMQ version 3.9.24](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-supports-rabbitmq-version-3-9-24/)
-- [Amazon RDS Custom for SQL Server now supports AWS CloudFormation Templates](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-supports-aws-cloudformation-templates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

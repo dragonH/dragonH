@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Systems Manager widgets on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-widgets-aws-console-home/)
 - [Amazon MQ now supports RabbitMQ version 3.9.24](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-mq-supports-rabbitmq-version-3-9-24/)
 - [Amazon RDS Custom for SQL Server now supports AWS CloudFormation Templates](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-supports-aws-cloudformation-templates/)
 - [Announcing label feedback API for Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2022/12/label-feedback-api-amazon-lookout-equipment/)
@@ -67,7 +68,6 @@
 - [AWS Resource Access Manager is now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-resource-access-manager-asia-pacific-hyderabad-region/)
 - [AWS Resource Access Manager is now available in the AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-resource-access-manager-aws-europe-zurich-region/)
 - [AWS Migration Hub Refactor Spaces enables AWS Lambda aliases as service endpoints](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-refactor-spaces-lambda-aliases-service-endpoints/)
-- [Amazon ECS now integrates with Amazon CloudWatch alarms to improve safety for deployments](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-ecs-cloudwatch-alarms-safety-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Workbench now supports JupyterLab notebooks](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-supports-jupyterlab-notebooks/)
 - [Nimble Studio now supports configurable persistent storage and new EBS volumes](https://aws.amazon.com/about-aws/whats-new/2022/12/nimble-studio-configurable-persistent-storage-ebs-volumes/)
 - [Amazon Nimble Studio now supports EBS Snapshots with Auto Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-nimble-studio-ebs-snapshots-auto-backup/)
 - [Amazon EKS Anywhere now supports single-node clusters on bare metal](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-single-node-clusters-bare-metal/)
@@ -67,7 +68,6 @@
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rekognition-accuracy-content-moderation-images/)
 - [Amazon Aurora Serverless v2 is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-aurora-serverless-v2-africa-cape-town-europe-milan/)
 - [PartiQL for DynamoDB now is supported in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/partiql-dynamodb-supported-aws-govcloud-us-regions/)
-- [Amazon Transcribe now supports speech to text in 2 new languages: Swedish and Vietnamese](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-speech-text-languages-swedish-vietnamese/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

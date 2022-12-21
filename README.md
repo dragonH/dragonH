@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Nimble Studio now supports configurable persistent storage and new EBS volumes](https://aws.amazon.com/about-aws/whats-new/2022/12/nimble-studio-configurable-persistent-storage-ebs-volumes/)
+- [Amazon Nimble Studio now supports EBS Snapshots with Auto Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-nimble-studio-ebs-snapshots-auto-backup/)
+- [Amazon EKS Anywhere now supports single-node clusters on bare metal](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-single-node-clusters-bare-metal/)
+- [Amazon RDS Custom for Oracle is now available in Asia Pacific &lpar;Seoul&rpar; and Asia Pacific &lpar;Osaka&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-oracle-asia-pacific-seoul-osaka-regions/)
 - [Amazon EKS Anywhere now supports cluster lifecycle automation with GitOps and IaC tools like Terraform](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-cluster-lifecycle-automation-gitops-lac-tools-terraform/)
 - [AWS announces Amazon EKS Anywhere on Nutanix](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-nutanix/)
 - [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rekognition-accuracy-content-moderation-images/)
 - [Amazon Aurora Serverless v2 is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-aurora-serverless-v2-africa-cape-town-europe-milan/)
 - [PartiQL for DynamoDB now is supported in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/partiql-dynamodb-supported-aws-govcloud-us-regions/)
 - [Amazon Transcribe now supports speech to text in 2 new languages: Swedish and Vietnamese](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-transcribe-speech-text-languages-swedish-vietnamese/)
-- [Amazon Relational Database Service &lpar;Amazon RDS&rpar; now supports X2iedn instances for MySQL and PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-relational-database-service-2iedn-instances-mysql-postgresql/)
-- [Amazon OpenSearch Service now supports Amazon Graviton2 &lpar;M6g, C6g, R6g, and R6gd&rpar; instances in four additional regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-opensearch-service-graviton2-m6g-c6g-r6g-r6gd-additional-regions/)
-- [Amazon Kinesis Video Streams announces ingestion and storage support for Kinesis Video Streams WebRTC &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kinesis-video-streams-ingestion-storage-webrtc-preview/)
-- [Announcing AWS Systems Manager widgets on AWS Console Home](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-systems-manager-widgets-aws-console-home/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

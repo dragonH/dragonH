@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager now supports commercial Linux subscriptions discovery and governance](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-license-manager-commercial-linux-subscriptions-discovery-governance/)
 - [AWS Compute Optimizer now supports Amazon ECS services running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-compute-optimizer-amazon-ecs-services-aws-fargate/)
 - [Amazon Connect now allows contact center managers to join ongoing calls](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-center-managers-join-ongoing-calls/)
 - [Amazon RDS announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-integration-aws-secrets-manager/)
@@ -67,7 +68,6 @@
 - [AWS Batch adds visibility for terminated and cancelled jobs](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-batch-visibility-terminated-cancelled-jobs/)
 - [Amazon Connect now supports Edge Chromium](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-supports-edge-chromium/)
 - [Amazon Connect now supports JSON content-type in chat messages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-json-content-type-chat-messages/)
-- [ROSA now provides an AWS Management Console experience for satisfying ROSA prerequisites](https://aws.amazon.com/about-aws/whats-new/2022/12/rosa-provides-aws-management-console-experience-satisfying-rosa-prerequisites/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

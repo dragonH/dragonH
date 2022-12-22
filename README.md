@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch adds visibility for terminated and cancelled jobs](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-batch-visibility-terminated-cancelled-jobs/)
+- [Amazon Connect now supports Edge Chromium](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-supports-edge-chromium/)
+- [Amazon Connect now supports JSON content-type in chat messages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-json-content-type-chat-messages/)
+- [ROSA now provides an AWS Management Console experience for satisfying ROSA prerequisites](https://aws.amazon.com/about-aws/whats-new/2022/12/rosa-provides-aws-management-console-experience-satisfying-rosa-prerequisites/)
+- [Announcing AWS ParallelCluster 3.4 with Multi-AZ support and other important features](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-parallelcluster-3-4-multi-az-support/)
+- [Contact Lens for Amazon Connect now provides enhanced controls for redacting personal identifiable information](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-lens-enhanced-controls-redacting-personal-information/)
 - [Amazon EMR Serverless introduces account-level vCPU-based per-region quotas](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-emr-serverless-account-level-vcpu-based-per-region-quotas/)
 - [AWS Migration Hub Orchestrator adds support for importing virtual machine images](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-migration-hub-orchestrator-importing-virtual-machine-images/)
 - [Amazon Neptune Workbench now supports JupyterLab 3 notebooks](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-neptune-workbench-supports-jupyterlab-notebooks/)
 - [Nimble Studio now supports configurable persistent storage and new EBS volumes](https://aws.amazon.com/about-aws/whats-new/2022/12/nimble-studio-configurable-persistent-storage-ebs-volumes/)
-- [Amazon Nimble Studio now supports EBS Snapshots with Auto Backup](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-nimble-studio-ebs-snapshots-auto-backup/)
-- [Amazon EKS Anywhere now supports single-node clusters on bare metal](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-single-node-clusters-bare-metal/)
-- [Amazon RDS Custom for Oracle is now available in Asia Pacific &lpar;Seoul&rpar; and Asia Pacific &lpar;Osaka&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-oracle-asia-pacific-seoul-osaka-regions/)
-- [Amazon EKS Anywhere now supports cluster lifecycle automation with GitOps and IaC tools like Terraform](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-cluster-lifecycle-automation-gitops-lac-tools-terraform/)
-- [AWS announces Amazon EKS Anywhere on Nutanix](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-eks-anywhere-nutanix/)
-- [Amazon Rekognition improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rekognition-accuracy-content-moderation-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub launches 9 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-security-hub-new-security-best-practice-controls/)
+- [AWS Transfer Family announces built-in PGP decryption for file uploads](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-transfer-family-built-in-pgp-decryption-file-uploads/)
 - [AWS License Manager now supports commercial Linux subscriptions discovery and governance](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-license-manager-commercial-linux-subscriptions-discovery-governance/)
 - [AWS Compute Optimizer now supports Amazon ECS services running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-compute-optimizer-amazon-ecs-services-aws-fargate/)
 - [Amazon Connect now allows contact center managers to join ongoing calls](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-center-managers-join-ongoing-calls/)
@@ -66,8 +68,6 @@
 - [AWS IoT Core’s Rules Engine adds support for Google Protocol Buffer &lpar;Protobuf&rpar; messaging format](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-core-rules-engine-google-protocol-buffer-messaging-format/)
 - [Amazon RDS Optimized Writes now supports R6g, and R6gd instances](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-optimized-writes-r6g-r6gd-instances/)
 - [AWS Batch adds visibility for terminated and cancelled jobs](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-batch-visibility-terminated-cancelled-jobs/)
-- [Amazon Connect now supports Edge Chromium](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-supports-edge-chromium/)
-- [Amazon Connect now supports JSON content-type in chat messages](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-json-content-type-chat-messages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

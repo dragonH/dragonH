@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Organizations console adds support to centrally manage region opt-in settings on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-organizations-console-support-manage-region-opt-in-settings-accounts/)
+- [AWS Cloud Map is now available in Europe &lpar;Spain&rpar;, Europe &lpar;Zurich&rpar; and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-map-available-new-regions/)
 - [AWS Security Hub launches 9 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-security-hub-new-security-best-practice-controls/)
 - [AWS Transfer Family announces built-in PGP decryption for file uploads](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-transfer-family-built-in-pgp-decryption-file-uploads/)
 - [AWS License Manager now supports commercial Linux subscriptions discovery and governance](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-license-manager-commercial-linux-subscriptions-discovery-governance/)
@@ -66,8 +68,6 @@
 - [Amazon RDS announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-integration-aws-secrets-manager/)
 - [Amazon RDS now supports renaming Multi-AZ deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-supports-renaming-multi-az-deployments-two-readable-standbys/)
 - [AWS IoT Core’s Rules Engine adds support for Google Protocol Buffer &lpar;Protobuf&rpar; messaging format](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-iot-core-rules-engine-google-protocol-buffer-messaging-format/)
-- [Amazon RDS Optimized Writes now supports R6g, and R6gd instances](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-optimized-writes-r6g-r6gd-instances/)
-- [AWS Batch adds visibility for terminated and cancelled jobs](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-batch-visibility-terminated-cancelled-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

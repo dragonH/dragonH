@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Specify validation checks for CommaDelimitedList parameter with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/specify-validation-checks-commadelimitedlist-parameter-aws-cloudformation/)
 - [AWS Storage Gateway management console simplifies file share creation for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/)
 - [Amazon Kendra releases ServiceNow Connector to index and search ServiceNow documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-servicenow-connector-index-search-documents/)
 - [Amazon Kendra releases Salesforce Connector for easy and accurate content search in Salesforce](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-salesforce-connector-content-search-salesforce/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub launches 9 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-security-hub-new-security-best-practice-controls/)
 - [AWS Transfer Family announces built-in PGP decryption for file uploads](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-transfer-family-built-in-pgp-decryption-file-uploads/)
 - [AWS License Manager now supports commercial Linux subscriptions discovery and governance](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-license-manager-commercial-linux-subscriptions-discovery-governance/)
-- [AWS Compute Optimizer now supports Amazon ECS services running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-compute-optimizer-amazon-ecs-services-aws-fargate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

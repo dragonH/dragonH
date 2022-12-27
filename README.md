@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway management console simplifies file share creation for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/)
+- [Amazon Kendra releases ServiceNow Connector to index and search ServiceNow documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-servicenow-connector-index-search-documents/)
+- [Amazon Kendra releases Salesforce Connector for easy and accurate content search in Salesforce](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-salesforce-connector-content-search-salesforce/)
 - [AWS Network Firewall is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-network-firewall-available-asia-pacific-jakarta-region/)
 - [AWS Organizations console adds support to centrally manage region opt-in settings on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-organizations-console-support-manage-region-opt-in-settings-accounts/)
 - [AWS Cloud Map is now available in Europe &lpar;Spain&rpar;, Europe &lpar;Zurich&rpar; and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-map-available-new-regions/)
@@ -65,9 +68,6 @@
 - [AWS Transfer Family announces built-in PGP decryption for file uploads](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-transfer-family-built-in-pgp-decryption-file-uploads/)
 - [AWS License Manager now supports commercial Linux subscriptions discovery and governance](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-license-manager-commercial-linux-subscriptions-discovery-governance/)
 - [AWS Compute Optimizer now supports Amazon ECS services running on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-compute-optimizer-amazon-ecs-services-aws-fargate/)
-- [Amazon Connect now allows contact center managers to join ongoing calls](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-contact-center-managers-join-ongoing-calls/)
-- [Amazon RDS announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-integration-aws-secrets-manager/)
-- [Amazon RDS now supports renaming Multi-AZ deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-supports-renaming-multi-az-deployments-two-readable-standbys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache for Redis now supports enabling encryption in transit on existing clusters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elasticache-redis-enabling-encryption-transit-existing-clusters/)
+- [Enable RStudio on Amazon SageMaker support on your existing SageMaker Studio domains](https://aws.amazon.com/about-aws/whats-new/2022/12/rstudio-amazon-sagemaker-existing-sagemaker-studio-domains/)
 - [AWS Config now supports 13 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-supports-new-resource-types/)
 - [Amazon Connect now provides “idle” chat participant events with auto close capability](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-idle-chat-participant-events-auto-close-capability/)
 - [Announcing Reserved Nodes for Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-memorydb-redis-reserved-nodes/)
@@ -66,8 +68,6 @@
 - [Amazon Kendra releases ServiceNow Connector to index and search ServiceNow documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-servicenow-connector-index-search-documents/)
 - [Amazon Kendra releases Salesforce Connector for easy and accurate content search in Salesforce](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-salesforce-connector-content-search-salesforce/)
 - [AWS Network Firewall is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-network-firewall-available-asia-pacific-jakarta-region/)
-- [AWS Organizations console adds support to centrally manage region opt-in settings on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-organizations-console-support-manage-region-opt-in-settings-accounts/)
-- [AWS Cloud Map is now available in Europe &lpar;Spain&rpar;, Europe &lpar;Zurich&rpar; and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-cloud-map-available-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

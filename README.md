@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate doubles its synchronous real-time text translation limits to 10,000 bytes](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-doubles-synchronous-real-time-text-translation-limits/)
 - [Amazon RDS Custom for SQL Server now supports Custom Engine Version to improve resiliency of customizations](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-custom-engine-version-resiliency-customizations/)
 - [Amazon Connect DID &amp; Toll-free numbers available in Brazil](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-available-brazil/)
 - [Amazon SageMaker Automatic Model Tuning now supports 30x higher limits for categorical hyperparameters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-automatic-model-tuning-higher-limits-categorical-hyperparameters/)
@@ -67,7 +68,6 @@
 - [Amazon Connect now provides “idle” chat participant events with auto close capability](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-idle-chat-participant-events-auto-close-capability/)
 - [Announcing Reserved Nodes for Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-memorydb-redis-reserved-nodes/)
 - [Specify validation checks for CommaDelimitedList parameter with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/specify-validation-checks-commadelimitedlist-parameter-aws-cloudformation/)
-- [AWS Storage Gateway management console simplifies file share creation for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Automatic Model Tuning now supports 30x higher limits for categorical hyperparameters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-automatic-model-tuning-higher-limits-categorical-hyperparameters/)
 - [Amazon ElastiCache for Redis now supports enabling encryption in transit on existing clusters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elasticache-redis-enabling-encryption-transit-existing-clusters/)
 - [Enable RStudio on Amazon SageMaker support on your existing SageMaker Studio domains](https://aws.amazon.com/about-aws/whats-new/2022/12/rstudio-amazon-sagemaker-existing-sagemaker-studio-domains/)
 - [AWS Config now supports 13 new resource types](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-config-supports-new-resource-types/)
@@ -67,7 +68,6 @@
 - [AWS Storage Gateway management console simplifies file share creation for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/)
 - [Amazon Kendra releases ServiceNow Connector to index and search ServiceNow documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-servicenow-connector-index-search-documents/)
 - [Amazon Kendra releases Salesforce Connector for easy and accurate content search in Salesforce](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-salesforce-connector-content-search-salesforce/)
-- [AWS Network Firewall is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-network-firewall-available-asia-pacific-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

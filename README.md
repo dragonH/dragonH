@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for SQL Server now supports Custom Engine Version to improve resiliency of customizations](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-custom-engine-version-resiliency-customizations/)
+- [Amazon Connect DID &amp; Toll-free numbers available in Brazil](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-available-brazil/)
 - [Amazon SageMaker Automatic Model Tuning now supports 30x higher limits for categorical hyperparameters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-automatic-model-tuning-higher-limits-categorical-hyperparameters/)
 - [Amazon ElastiCache for Redis now supports enabling encryption in transit on existing clusters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elasticache-redis-enabling-encryption-transit-existing-clusters/)
 - [Enable RStudio on Amazon SageMaker support on your existing SageMaker Studio domains](https://aws.amazon.com/about-aws/whats-new/2022/12/rstudio-amazon-sagemaker-existing-sagemaker-studio-domains/)
@@ -66,8 +68,6 @@
 - [Announcing Reserved Nodes for Amazon MemoryDB for Redis](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-memorydb-redis-reserved-nodes/)
 - [Specify validation checks for CommaDelimitedList parameter with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2022/12/specify-validation-checks-commadelimitedlist-parameter-aws-cloudformation/)
 - [AWS Storage Gateway management console simplifies file share creation for Amazon S3 File Gateway](https://aws.amazon.com/about-aws/whats-new/2022/12/aws-storage-gateway-management-console-file-share-creation-amazon-s3-file-gateway/)
-- [Amazon Kendra releases ServiceNow Connector to index and search ServiceNow documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-servicenow-connector-index-search-documents/)
-- [Amazon Kendra releases Salesforce Connector for easy and accurate content search in Salesforce](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-kendra-salesforce-connector-content-search-salesforce/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

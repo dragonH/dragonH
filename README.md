@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect expands DID &amp; Toll-free numbers available in 6 countries](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-expands-did-toll-free-numbers-available-6-countries/)
 - [Amazon Connect DID &amp; Toll-free numbers available in the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-caribbean/)
 - [Amazon Connect reduces outbound rates to the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-reduces-outbound-rates-caribbean/)
 - [Announcing firewall status message for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/firewall-status-message-aws-network-firewall/)
@@ -67,7 +68,6 @@
 - [Amazon RDS Custom for SQL Server now supports Custom Engine Version to improve resiliency of customizations](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-custom-engine-version-resiliency-customizations/)
 - [Amazon Connect DID &amp; Toll-free numbers available in Brazil](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-available-brazil/)
 - [Amazon SageMaker Automatic Model Tuning now supports 30x higher limits for categorical hyperparameters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-automatic-model-tuning-higher-limits-categorical-hyperparameters/)
-- [Amazon ElastiCache for Redis now supports enabling encryption in transit on existing clusters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-elasticache-redis-enabling-encryption-transit-existing-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

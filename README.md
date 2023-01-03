@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Performance Insights is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-performance-insights-aws-govcloud-us-regions/)
 - [Amazon SageMaker is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-middle-east-uae-region/)
 - [Amazon CloudFront now supports the removal of response headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-supports-removal-response-headers/)
 - [AWS Private Certificate Authority publishes Matter PKI Compliance Customer Guide](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-private-certificate-authority-publishes-matter-pki-compliance-customer-guide/)
@@ -67,7 +68,6 @@
 - [Announcing firewall status message for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2022/12/firewall-status-message-aws-network-firewall/)
 - [Amazon Connect Wisdom now supports PDF &amp; Word documents](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-wisdom-supports-pdf-word-documents/)
 - [Amazon Connect now enables showing message receipts within the Chat experience](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-enables-showing-message-receipts-chat-experience/)
-- [Amazon Translate doubles its synchronous real-time text translation limits to 10,000 bytes](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-doubles-synchronous-real-time-text-translation-limits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

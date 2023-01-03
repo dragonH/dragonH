@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports the removal of response headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-supports-removal-response-headers/)
+- [AWS Private Certificate Authority publishes Matter PKI Compliance Customer Guide](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-private-certificate-authority-publishes-matter-pki-compliance-customer-guide/)
 - [Amazon Connect expands DID &amp; Toll-free numbers available in 6 countries](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-expands-did-toll-free-numbers-available-6-countries/)
 - [Amazon Connect DID &amp; Toll-free numbers available in the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-caribbean/)
 - [Amazon Connect reduces outbound rates to the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-reduces-outbound-rates-caribbean/)
@@ -66,8 +68,6 @@
 - [Amazon Connect now enables showing message receipts within the Chat experience](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-enables-showing-message-receipts-chat-experience/)
 - [Amazon Translate doubles its synchronous real-time text translation limits to 10,000 bytes](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-translate-doubles-synchronous-real-time-text-translation-limits/)
 - [Amazon RDS Custom for SQL Server now supports Custom Engine Version to improve resiliency of customizations](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-rds-custom-sql-server-custom-engine-version-resiliency-customizations/)
-- [Amazon Connect DID &amp; Toll-free numbers available in Brazil](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-available-brazil/)
-- [Amazon SageMaker Automatic Model Tuning now supports 30x higher limits for categorical hyperparameters](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-sagemaker-automatic-model-tuning-higher-limits-categorical-hyperparameters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

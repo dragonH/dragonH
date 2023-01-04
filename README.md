@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Application Auto Scaling now offers better visibility into scaling decisions](https://aws.amazon.com/about-aws/whats-new/2023/01/application-auto-scaling-visibility-scaling-decisions/)
+- [Amazon CloudWatch Logs removes Log Stream transaction quota and SequenceToken requirement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-logs-log-stream-transaction-quota-sequencetoken-requirement/)
 - [Amazon Kinesis Data Streams for Amazon DynamoDB is now available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/)
 - [Backtrack Support for Aurora MySQL Version 3 &lpar;Compatible with MySQL 8.0&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/backtrack-support-aurora-mysql-3-0-compatible-mysql-8-0-available/)
 - [AWS Glue Studio Job Notebooks are now available in the Asia Pacific &lpar;Jakarta&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-job-notebooks-asia-pacific-jakarta-region/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-middle-east-uae-region/)
 - [Amazon CloudFront now supports the removal of response headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-supports-removal-response-headers/)
 - [AWS Private Certificate Authority publishes Matter PKI Compliance Customer Guide](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-private-certificate-authority-publishes-matter-pki-compliance-customer-guide/)
-- [Amazon Connect expands DID &amp; Toll-free numbers available in 6 countries](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-expands-did-toll-free-numbers-available-6-countries/)
-- [Amazon Connect DID &amp; Toll-free numbers available in the Caribbean](https://aws.amazon.com/about-aws/whats-new/2022/12/amazon-connect-did-toll-free-numbers-caribbean/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

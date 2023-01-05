@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Elastic Fabric Adapter Installer v1.21](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elastic-fabric-adapter-installer-v1-21/)
 - [Amazon MWAA now supports Apache Airflow version 2.4 with Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mwaa-supports-apache-airflow-version-2-4-python-3-10/)
 - [Amazon EC2 C5n instances are now available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-c5n-instances-available-asia-pacific-osaka/)
 - [Amazon EC2 R6i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-r6i-instances-available-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Streams for Amazon DynamoDB is now available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kinesis-data-streams-dynamodb-11-additional-regions/)
 - [Backtrack Support for Aurora MySQL Version 3 &lpar;Compatible with MySQL 8.0&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/backtrack-support-aurora-mysql-3-0-compatible-mysql-8-0-available/)
 - [AWS Glue Studio Job Notebooks are now available in the Asia Pacific &lpar;Jakarta&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-job-notebooks-asia-pacific-jakarta-region/)
-- [Amazon Neptune announces graph-explorer, an open-source visual exploration tool for low-code users](https://aws.amazon.com/about-aws/whats-new/2023/01/neptune-graph-explorer-open-source-visual-exploration-tool-low-code-users/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

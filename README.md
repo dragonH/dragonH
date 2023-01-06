@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EMR Serverless Custom images: Bring your own libraries and application dependencies](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-custom-images-libraries-application-dependencies/)
 - [AWS App Runner now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/)
 - [Amazon EC2 M6in and M6idn instances are now available in US West &lpar;Oregon&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-m6in-m6idn-instances-uswest-oregon/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-route-53-resolver-endpoints-hybrid-cloud-middle-east-use-region/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C5n instances are now available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-c5n-instances-available-asia-pacific-osaka/)
 - [Amazon EC2 R6i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-r6i-instances-available-additional-regions/)
 - [Amazon EC2 R6g, R6gd, and M6gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-r6g-r6gd-m6gd-instances-available-additional-regions/)
-- [Application Auto Scaling now offers better visibility into scaling decisions](https://aws.amazon.com/about-aws/whats-new/2023/01/application-auto-scaling-visibility-scaling-decisions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

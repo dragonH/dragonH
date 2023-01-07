@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/dragonH/koa-with-typescript/pull/22) in [dragonH/koa-with-typescript](https://github.com/dragonH/koa-with-typescript)
-2. 🎉 Merged PR [#40](https://github.com/dragonH/shopping-site-practice/pull/40) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
-3. 🎉 Merged PR [#56](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/56) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-4. 🎉 Merged PR [#55](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/55) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
-5. 🎉 Merged PR [#15](https://github.com/dragonH/movie-api/pull/15) in [dragonH/movie-api](https://github.com/dragonH/movie-api)
+1. 💪 Opened PR [#1](https://github.com/dragonH/personal_reason/pull/1) in [dragonH/personal_reason](https://github.com/dragonH/personal_reason)
+2. 🎉 Merged PR [#22](https://github.com/dragonH/koa-with-typescript/pull/22) in [dragonH/koa-with-typescript](https://github.com/dragonH/koa-with-typescript)
+3. 🎉 Merged PR [#40](https://github.com/dragonH/shopping-site-practice/pull/40) in [dragonH/shopping-site-practice](https://github.com/dragonH/shopping-site-practice)
+4. 🎉 Merged PR [#56](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/56) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
+5. 🎉 Merged PR [#55](https://github.com/dragonH/cordova-with-vue-and-codepush/pull/55) in [dragonH/cordova-with-vue-and-codepush](https://github.com/dragonH/cordova-with-vue-and-codepush)
 <!--END_SECTION:activity-->
 
 </details>

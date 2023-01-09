@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive adds POIS signal conditioning](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-pois-signal-conditioning/)
 - [Amazon EC2 Auto Scaling now forecasts frequently for more accurate predictive scaling](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-auto-scaling-forecasts-frequently-predictive-scaling/)
 - [Introducing Amazon EMR Serverless Custom images: Bring your own libraries and application dependencies](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-custom-images-libraries-application-dependencies/)
 - [AWS App Runner now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-app-runner-secrets-configuration-aws-secrets-systems-manager/)
@@ -67,7 +68,6 @@
 - [Announcing Amazon Elastic Fabric Adapter Installer v1.21](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elastic-fabric-adapter-installer-v1-21/)
 - [Amazon MWAA now supports Apache Airflow version 2.4 with Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mwaa-supports-apache-airflow-version-2-4-python-3-10/)
 - [Amazon EC2 C5n instances are now available in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-c5n-instances-available-asia-pacific-osaka/)
-- [Amazon EC2 R6i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-r6i-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

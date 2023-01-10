@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports restoring database snapshots from Multi-AZ with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-restoring-database-snapshots-multi-az-two-readable-standbys/)
 - [Amazon Location Service adds GrabMaps in Southeast Asia](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-location-service-grabmaps-southeast-asia/)
 - [Amazon Personalize now supports tag based resource authorization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-supports-tag-based-resource-authorization/)
 - [Amazon Kendra releases S3 connector with VPC support to enable customers to index and search content from S3](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-s3-connector-vpc-support-enable-customers-index-search-s3/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra launches Kendra Intelligent Ranking for self-managed OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-intelligent-ranking-self-managed-opensearch/)
 - [Amazon S3 Storage Lens introduces tiered pricing for cost-effective monitoring at scale](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-storage-lens-tiered-pricing-cost-effective-monitoring-scale/)
 - [AWS Network Firewall adds support for reject action for TCP traffic](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-support-reject-action-tcp-traffic/)
-- [AWS Elemental MediaLive adds POIS signal conditioning](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-pois-signal-conditioning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

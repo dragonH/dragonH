@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra launches Kendra Intelligent Ranking for self-managed OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-intelligent-ranking-self-managed-opensearch/)
 - [Amazon S3 Storage Lens introduces tiered pricing for cost-effective monitoring at scale](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-storage-lens-tiered-pricing-cost-effective-monitoring-scale/)
 - [AWS Network Firewall adds support for reject action for TCP traffic](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-support-reject-action-tcp-traffic/)
 - [AWS Elemental MediaLive adds POIS signal conditioning](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-pois-signal-conditioning/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M6in and M6idn instances are now available in US West &lpar;Oregon&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-m6in-m6idn-instances-uswest-oregon/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-route-53-resolver-endpoints-hybrid-cloud-middle-east-use-region/)
 - [Amazon S3 now automatically encrypts all new objects](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-automatically-encrypts-new-objects/)
-- [Announcing Amazon Elastic Fabric Adapter Installer v1.21](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elastic-fabric-adapter-installer-v1-21/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

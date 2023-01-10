@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now supports tag based resource authorization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-supports-tag-based-resource-authorization/)
 - [Amazon Kendra releases S3 connector with VPC support to enable customers to index and search content from S3](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-s3-connector-vpc-support-enable-customers-index-search-s3/)
 - [Amazon Personalize launches new recipe “Trending-Now”](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-new-recipe-trending-now/)
 - [Amazon Kendra releases new Google Drive Connector to enable document indexing and search on Google Drive](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-google-drive-connector-document-indexing-search-google-drive/)
@@ -67,7 +68,6 @@
 - [AWS Network Firewall adds support for reject action for TCP traffic](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-support-reject-action-tcp-traffic/)
 - [AWS Elemental MediaLive adds POIS signal conditioning](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-pois-signal-conditioning/)
 - [Amazon EC2 Auto Scaling now forecasts frequently for more accurate predictive scaling](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-auto-scaling-forecasts-frequently-predictive-scaling/)
-- [Introducing Amazon EMR Serverless Custom images: Bring your own libraries and application dependencies](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-custom-images-libraries-application-dependencies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

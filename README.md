@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces changes to AWS Billing, Cost Management, and Account consoles permissions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-changes-billing-cost-management-account-consoles-permissions/)
+- [AWS WAF is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-waf-available-aws-middle-east-uae-region/)
 - [Amazon SageMaker Canvas announces up to 3x faster ML model training time](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-canvas-3x-faster-ml-model-training-time/)
 - [Amazon EC2 G5g instances now available in Frankfurt region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-g5g-instances-available-frankfurt-region/)
 - [Announcing the general availability of Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-amazon-route-53-application-recovery-controller-zonal-shift/)
@@ -66,8 +68,6 @@
 - [Amazon Location Service adds GrabMaps in Southeast Asia](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-location-service-grabmaps-southeast-asia/)
 - [Amazon Personalize now supports tag based resource authorization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-supports-tag-based-resource-authorization/)
 - [Amazon Kendra releases S3 connector with VPC support to enable customers to index and search content from S3](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-s3-connector-vpc-support-enable-customers-index-search-s3/)
-- [Amazon Personalize launches new recipe “Trending-Now”](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-new-recipe-trending-now/)
-- [Amazon Kendra releases new Google Drive Connector to enable document indexing and search on Google Drive](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-google-drive-connector-document-indexing-search-google-drive/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

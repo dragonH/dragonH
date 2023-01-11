@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation enhances Fn::FindInMap language extension to support default values and additional intrinsic functions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudformation-fnfindinmap-language-extension-default-values-additional-intrinsic-functions/)
+- [Announcing Amazon Pinpoint Singapore Sender ID registration workflow](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-pinpoint-singapore-sender-id-registration-workflow/)
 - [AWS announces changes to AWS Billing, Cost Management, and Account consoles permissions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-changes-billing-cost-management-account-consoles-permissions/)
 - [AWS WAF is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-waf-available-aws-middle-east-uae-region/)
 - [Amazon SageMaker Canvas announces up to 3x faster ML model training time](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-canvas-3x-faster-ml-model-training-time/)
@@ -66,8 +68,6 @@
 - [AWS Transit Gateway is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-transit-gateway-available-middle-east-uae-region/)
 - [Amazon RDS now supports restoring database snapshots from Multi-AZ with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-restoring-database-snapshots-multi-az-two-readable-standbys/)
 - [Amazon Location Service adds GrabMaps in Southeast Asia](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-location-service-grabmaps-southeast-asia/)
-- [Amazon Personalize now supports tag based resource authorization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-supports-tag-based-resource-authorization/)
-- [Amazon Kendra releases S3 connector with VPC support to enable customers to index and search content from S3](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-s3-connector-vpc-support-enable-customers-index-search-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

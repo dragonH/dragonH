@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-amazon-route-53-application-recovery-controller-zonal-shift/)
+- [AWS Transit Gateway is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-transit-gateway-available-middle-east-uae-region/)
 - [Amazon RDS now supports restoring database snapshots from Multi-AZ with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-restoring-database-snapshots-multi-az-two-readable-standbys/)
 - [Amazon Location Service adds GrabMaps in Southeast Asia](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-location-service-grabmaps-southeast-asia/)
 - [Amazon Personalize now supports tag based resource authorization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-supports-tag-based-resource-authorization/)
@@ -66,8 +68,6 @@
 - [Amazon Kendra releases new Google Drive Connector to enable document indexing and search on Google Drive](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-google-drive-connector-document-indexing-search-google-drive/)
 - [AWS CloudShell is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudshell-health-insurance-portability-accountability-act-hipaa-eligible/)
 - [Amazon Kendra launches Kendra Intelligent Ranking for self-managed OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-intelligent-ranking-self-managed-opensearch/)
-- [Amazon S3 Storage Lens introduces tiered pricing for cost-effective monitoring at scale](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-storage-lens-tiered-pricing-cost-effective-monitoring-scale/)
-- [AWS Network Firewall adds support for reject action for TCP traffic](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-support-reject-action-tcp-traffic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

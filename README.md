@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Optimized Reads is now available for up to 2X faster queries on Amazon RDS for MariaDB](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-optimized-reads-2x-faster-queries-amazon-rds-mariadb/)
 - [AWS CloudFormation enhances Fn::FindInMap language extension to support default values and additional intrinsic functions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudformation-fnfindinmap-language-extension-default-values-additional-intrinsic-functions/)
 - [Announcing Amazon Pinpoint Singapore Sender ID registration workflow](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-pinpoint-singapore-sender-id-registration-workflow/)
 - [AWS announces changes to AWS Billing, Cost Management, and Account consoles permissions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-changes-billing-cost-management-account-consoles-permissions/)
@@ -67,7 +68,6 @@
 - [Announcing the general availability of Amazon Route 53 Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-amazon-route-53-application-recovery-controller-zonal-shift/)
 - [AWS Transit Gateway is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-transit-gateway-available-middle-east-uae-region/)
 - [Amazon RDS now supports restoring database snapshots from Multi-AZ with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-restoring-database-snapshots-multi-az-two-readable-standbys/)
-- [Amazon Location Service adds GrabMaps in Southeast Asia](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-location-service-grabmaps-southeast-asia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

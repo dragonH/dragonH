@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Groups now emits lifecycle events](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-resource-groups-emits-lifecycle-events/)
+- [Announcing the general availability of AWS Local Zones in Perth and Santiago](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-aws-local-zones-perth-santiago/)
 - [Amazon Kendra releases the Microsoft Teams Connector to enable Microsoft Teams messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-teams-connector-messaging-search/)
 - [Amazon Kendra releases Microsoft Exchange Connector to enable email-messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-exchange-connector-enable-email-messaging-search/)
 - [AWS Config supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-config-22-new-resource-types/)
@@ -66,8 +68,6 @@
 - [AWS AppConfig allows tracking of stale feature flags, improving code hygiene](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-appconfig-tracking-stale-feature-flags-code-hygiene/)
 - [Amazon RDS Optimized Reads is now available for up to 2X faster queries on Amazon RDS for MariaDB](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-optimized-reads-2x-faster-queries-amazon-rds-mariadb/)
 - [AWS CloudFormation enhances Fn::FindInMap language extension to support default values and additional intrinsic functions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudformation-fnfindinmap-language-extension-default-values-additional-intrinsic-functions/)
-- [Announcing Amazon Pinpoint Singapore Sender ID registration workflow](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-pinpoint-singapore-sender-id-registration-workflow/)
-- [AWS announces changes to AWS Billing, Cost Management, and Account consoles permissions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-changes-billing-cost-management-account-consoles-permissions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

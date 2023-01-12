@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases the Microsoft Teams Connector to enable Microsoft Teams messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-teams-connector-messaging-search/)
+- [Amazon Kendra releases Microsoft Exchange Connector to enable email-messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-exchange-connector-enable-email-messaging-search/)
 - [AWS Config supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-config-22-new-resource-types/)
 - [AWS Clean Rooms is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-clean-rooms-now-available-preview/)
 - [Amazon ElastiCache for Redis data tiering is now available in the AWS Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-data-tiering-aws-europe-stockholm-region/)
@@ -66,8 +68,6 @@
 - [AWS CloudFormation enhances Fn::FindInMap language extension to support default values and additional intrinsic functions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudformation-fnfindinmap-language-extension-default-values-additional-intrinsic-functions/)
 - [Announcing Amazon Pinpoint Singapore Sender ID registration workflow](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-pinpoint-singapore-sender-id-registration-workflow/)
 - [AWS announces changes to AWS Billing, Cost Management, and Account consoles permissions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-changes-billing-cost-management-account-consoles-permissions/)
-- [AWS WAF is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-waf-available-aws-middle-east-uae-region/)
-- [Amazon SageMaker Canvas announces up to 3x faster ML model training time](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-canvas-3x-faster-ml-model-training-time/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

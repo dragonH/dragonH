@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports Maximum Concurrency for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/)
 - [AWS Resource Groups now emits lifecycle events](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-resource-groups-emits-lifecycle-events/)
 - [Announcing the general availability of AWS Local Zones in Perth and Santiago](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-aws-local-zones-perth-santiago/)
 - [Amazon Kendra releases the Microsoft Teams Connector to enable Microsoft Teams messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-teams-connector-messaging-search/)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache for Redis data tiering is now available in the AWS Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-data-tiering-aws-europe-stockholm-region/)
 - [AWS AppConfig allows tracking of stale feature flags, improving code hygiene](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-appconfig-tracking-stale-feature-flags-code-hygiene/)
 - [Amazon RDS Optimized Reads is now available for up to 2X faster queries on Amazon RDS for MariaDB](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-optimized-reads-2x-faster-queries-amazon-rds-mariadb/)
-- [AWS CloudFormation enhances Fn::FindInMap language extension to support default values and additional intrinsic functions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudformation-fnfindinmap-language-extension-default-values-additional-intrinsic-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

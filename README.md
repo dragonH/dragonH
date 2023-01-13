@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports the request header order and header count headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-request-header-order-count-headers/)
 - [AWS Nitro Enclaves announces support for multiple enclaves](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-nitro-enclaves-support-multiple-enclaves/)
 - [Amazon RDS now supports new SSL/TLS certificates and certificate controls](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-new-ssl-tls-certificates-certificate-controls/)
 - [AWS Security Hub is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-security-hub-middle-east-uae-region/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra releases the Microsoft Teams Connector to enable Microsoft Teams messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-teams-connector-messaging-search/)
 - [Amazon Kendra releases Microsoft Exchange Connector to enable email-messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-exchange-connector-enable-email-messaging-search/)
 - [AWS Config supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-config-22-new-resource-types/)
-- [AWS Clean Rooms is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-clean-rooms-now-available-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

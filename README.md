@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Nitro Enclaves announces support for multiple enclaves](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-nitro-enclaves-support-multiple-enclaves/)
 - [Amazon RDS now supports new SSL/TLS certificates and certificate controls](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-new-ssl-tls-certificates-certificate-controls/)
 - [AWS Security Hub is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-security-hub-middle-east-uae-region/)
 - [AWS Lambda now supports Maximum Concurrency for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra releases Microsoft Exchange Connector to enable email-messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-exchange-connector-enable-email-messaging-search/)
 - [AWS Config supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-config-22-new-resource-types/)
 - [AWS Clean Rooms is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-clean-rooms-now-available-preview/)
-- [Amazon ElastiCache for Redis data tiering is now available in the AWS Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-data-tiering-aws-europe-stockholm-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

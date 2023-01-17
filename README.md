@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective adds new AWS managed IAM policies to improve secure access for security analysts](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-aws-managed-iam-policies-secure-access-security-analysts/)
+- [AWS Managed Services &lpar;AMS&rpar; is now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-ams-available-africa-cape-town-region/)
 - [AWS Systems Manager announces Patch Policies, enabling cross account and cross Region patching](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-patch-policies-cross-account-region-patching/)
 - [Amazon CloudFront now supports the request header order and header count headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-request-header-order-count-headers/)
 - [AWS Nitro Enclaves announces support for multiple enclaves](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-nitro-enclaves-support-multiple-enclaves/)
@@ -66,8 +68,6 @@
 - [AWS Lambda now supports Maximum Concurrency for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/)
 - [AWS Resource Groups now emits lifecycle events](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-resource-groups-emits-lifecycle-events/)
 - [Announcing the general availability of AWS Local Zones in Perth and Santiago](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-aws-local-zones-perth-santiago/)
-- [Amazon Kendra releases the Microsoft Teams Connector to enable Microsoft Teams messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-teams-connector-messaging-search/)
-- [Amazon Kendra releases Microsoft Exchange Connector to enable email-messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-exchange-connector-enable-email-messaging-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

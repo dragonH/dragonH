@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager announces Patch Policies, enabling cross account and cross Region patching](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-patch-policies-cross-account-region-patching/)
 - [Amazon CloudFront now supports the request header order and header count headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-request-header-order-count-headers/)
 - [AWS Nitro Enclaves announces support for multiple enclaves](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-nitro-enclaves-support-multiple-enclaves/)
 - [Amazon RDS now supports new SSL/TLS certificates and certificate controls](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-new-ssl-tls-certificates-certificate-controls/)
@@ -67,7 +68,6 @@
 - [Announcing the general availability of AWS Local Zones in Perth and Santiago](https://aws.amazon.com/about-aws/whats-new/2023/01/general-availability-aws-local-zones-perth-santiago/)
 - [Amazon Kendra releases the Microsoft Teams Connector to enable Microsoft Teams messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-teams-connector-messaging-search/)
 - [Amazon Kendra releases Microsoft Exchange Connector to enable email-messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-exchange-connector-enable-email-messaging-search/)
-- [AWS Config supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-config-22-new-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

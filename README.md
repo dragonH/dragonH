@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 network performance metrics add support for ConnTrack Utilization metric](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-network-performance-metrics-support-conntrack-utilization-metric/)
+- [AWS Network Firewall announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-ipv6-support/)
+- [Amazon EFS Supports 1,000 Access Points per File System](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-1000-access-points-file-system/)
 - [Amazon CloudWatch announces enhanced error visibility for Embedded Metric Format &lpar;EMF&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-enhanced-error-visibility-embedded-metric-format-emf/)
 - [Amazon Detective adds new AWS managed IAM policies to improve secure access for security analysts](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-aws-managed-iam-policies-secure-access-security-analysts/)
 - [AWS Managed Services &lpar;AMS&rpar; is now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-ams-available-africa-cape-town-region/)
@@ -65,9 +68,6 @@
 - [Amazon CloudFront now supports the request header order and header count headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-request-header-order-count-headers/)
 - [AWS Nitro Enclaves announces support for multiple enclaves](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-nitro-enclaves-support-multiple-enclaves/)
 - [Amazon RDS now supports new SSL/TLS certificates and certificate controls](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-new-ssl-tls-certificates-certificate-controls/)
-- [AWS Security Hub is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-security-hub-middle-east-uae-region/)
-- [AWS Lambda now supports Maximum Concurrency for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/)
-- [AWS Resource Groups now emits lifecycle events](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-resource-groups-emits-lifecycle-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

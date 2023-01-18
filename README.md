@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder can now include AWS Marketplace subscriptions in your custom Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-aws-marketplace-subscriptions-custom-amis/)
+- [EC2 Image Builder adds Center for Internet Security &lpar;CIS&rpar; Benchmarks for security hardening of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-cis-benchmarks-security-hardening-amis/)
+- [Amazon Corretto January, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-corretto-january-2023-quarterly-updates/)
 - [EC2 network performance metrics add support for ConnTrack Utilization metric](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-network-performance-metrics-support-conntrack-utilization-metric/)
 - [AWS Network Firewall announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-ipv6-support/)
 - [Amazon EFS Supports 1,000 Access Points per File System](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-1000-access-points-file-system/)
@@ -65,9 +68,6 @@
 - [Amazon Detective adds new AWS managed IAM policies to improve secure access for security analysts](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-aws-managed-iam-policies-secure-access-security-analysts/)
 - [AWS Managed Services &lpar;AMS&rpar; is now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-ams-available-africa-cape-town-region/)
 - [AWS Systems Manager announces Patch Policies, enabling cross account and cross Region patching](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-patch-policies-cross-account-region-patching/)
-- [Amazon CloudFront now supports the request header order and header count headers](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudfront-request-header-order-count-headers/)
-- [AWS Nitro Enclaves announces support for multiple enclaves](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-nitro-enclaves-support-multiple-enclaves/)
-- [Amazon RDS now supports new SSL/TLS certificates and certificate controls](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-new-ssl-tls-certificates-certificate-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

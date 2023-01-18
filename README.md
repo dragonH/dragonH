@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing SKU pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-billing-conductor-sku-pricing-rules/)
+- [AWS Elemental MediaTailor now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-mediatailor-available-additional-regions/)
 - [EC2 Image Builder can now include AWS Marketplace subscriptions in your custom Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-aws-marketplace-subscriptions-custom-amis/)
 - [EC2 Image Builder adds Center for Internet Security &lpar;CIS&rpar; Benchmarks for security hardening of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-cis-benchmarks-security-hardening-amis/)
 - [Amazon Corretto January, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-corretto-january-2023-quarterly-updates/)
@@ -66,8 +68,6 @@
 - [Amazon EFS Supports 1,000 Access Points per File System](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-1000-access-points-file-system/)
 - [Amazon CloudWatch announces enhanced error visibility for Embedded Metric Format &lpar;EMF&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-enhanced-error-visibility-embedded-metric-format-emf/)
 - [Amazon Detective adds new AWS managed IAM policies to improve secure access for security analysts](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-aws-managed-iam-policies-secure-access-security-analysts/)
-- [AWS Managed Services &lpar;AMS&rpar; is now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-ams-available-africa-cape-town-region/)
-- [AWS Systems Manager announces Patch Policies, enabling cross account and cross Region patching](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-patch-policies-cross-account-region-patching/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

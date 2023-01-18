@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now supports 250 webcam video streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-chime-sdk-250-webcam-video-streams/)
 - [EBS direct APIs are now available in new AWS Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/ebs-direct-apis-aws-europe-asia-pacific-regions/)
 - [Amazon EMR Serverless introduces account-level vCPU-based service quota](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-account-level-vcpu-based-service-quota/)
 - [Validate AWS Serverless Application Model &lpar;SAM&rpar; templates with CloudFormation Linter to speed up development](https://aws.amazon.com/about-aws/whats-new/2023/01/validate-aws-serverless-application-model-templates-cloudformation-linter/)
@@ -67,7 +68,6 @@
 - [EC2 Image Builder adds Center for Internet Security &lpar;CIS&rpar; Benchmarks for security hardening of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-cis-benchmarks-security-hardening-amis/)
 - [Amazon Corretto January, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-corretto-january-2023-quarterly-updates/)
 - [EC2 network performance metrics add support for ConnTrack Utilization metric](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-network-performance-metrics-support-conntrack-utilization-metric/)
-- [AWS Network Firewall announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-network-firewall-ipv6-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

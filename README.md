@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-aws-europe-spain-region/)
+- [Amazon Kendra releases Microsoft Yammer Connector to enable messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-yammer-connector-messaging-search/)
 - [Amazon CloudWatch launches cross-account Metric Streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-cross-account-metric-streams/)
 - [Amazon S3 File Gateway increases maximum file shares per gateway from 10 to 50](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-maximum-file-shares-gateway-10-50/)
 - [Amazon S3 File Gateway now supports DOS attributes](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-dos-attributes/)
@@ -66,8 +68,6 @@
 - [Amazon OpenSearch Service announces enhanced dry run for configuration changes](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-enhanced-dry-run-configuration-changes/)
 - [Amazon MWAA is now PCI DSS compliant](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mwaa-pci-dss-compliant/)
 - [Amazon RDS for MariaDB now supports enforcing SSL/TLS connections](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-mariadb-supports-enforcing-ssl-tls-connections/)
-- [Amazon ECS announces the new default console experience](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ecs-default-console-experience/)
-- [Amazon ElastiCache now supports Memcached 1.6.17](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-supports-memcached-1-6-17/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

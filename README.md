@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Simulator announces increased quotas for target resources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-increased-quotas-target-resources/)
+- [AWS CodeBuild is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-codebuild-aws-uae-region/)
+- [Amazon OpenSearch Service announces enhanced dry run for configuration changes](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-enhanced-dry-run-configuration-changes/)
+- [Amazon MWAA is now PCI DSS compliant](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mwaa-pci-dss-compliant/)
+- [Amazon RDS for MariaDB now supports enforcing SSL/TLS connections](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-mariadb-supports-enforcing-ssl-tls-connections/)
 - [Amazon ECS announces the new default console experience](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ecs-default-console-experience/)
 - [Amazon CloudWatch launches cross-account Metric Streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-account-metric-streams/)
 - [Amazon ElastiCache now supports Memcached 1.6.17](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-supports-memcached-1-6-17/)
 - [Amazon EC2 Auto Scaling now gives recommendations about activating predictive scaling policy](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-auto-scaling-activating-predictive-scaling-policy/)
 - [Amazon EMR on Amazon Elastic Compute Cloud clusters launch up to 30% faster in private subnets with Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-elastic-compute-cloud-clusters-30-percent-faster-private-subnets/)
-- [Amazon Chime SDK now supports 250 webcam video streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-chime-sdk-250-webcam-video-streams/)
-- [EBS direct APIs are now available in new AWS Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/ebs-direct-apis-aws-europe-asia-pacific-regions/)
-- [Amazon EMR Serverless introduces account-level vCPU-based service quota](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-serverless-account-level-vcpu-based-service-quota/)
-- [Validate AWS Serverless Application Model &lpar;SAM&rpar; templates with CloudFormation Linter to speed up development](https://aws.amazon.com/about-aws/whats-new/2023/01/validate-aws-serverless-application-model-templates-cloudformation-linter/)
-- [Announcing SKU pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-billing-conductor-sku-pricing-rules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

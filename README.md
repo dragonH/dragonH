@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache now supports Memcached 1.6.17](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-supports-memcached-1-6-17/)
 - [Amazon EC2 Auto Scaling now gives recommendations about activating predictive scaling policy](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-auto-scaling-activating-predictive-scaling-policy/)
 - [Amazon EMR on Amazon Elastic Compute Cloud clusters launch up to 30% faster in private subnets with Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-emr-elastic-compute-cloud-clusters-30-percent-faster-private-subnets/)
 - [Amazon Chime SDK now supports 250 webcam video streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-chime-sdk-250-webcam-video-streams/)
@@ -67,7 +68,6 @@
 - [Announcing SKU pricing rules for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-billing-conductor-sku-pricing-rules/)
 - [AWS Elemental MediaTailor now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-mediatailor-available-additional-regions/)
 - [EC2 Image Builder can now include AWS Marketplace subscriptions in your custom Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-aws-marketplace-subscriptions-custom-amis/)
-- [EC2 Image Builder adds Center for Internet Security &lpar;CIS&rpar; Benchmarks for security hardening of Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-image-builder-cis-benchmarks-security-hardening-amis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

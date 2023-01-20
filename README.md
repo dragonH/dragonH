@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for Windows File Server is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fx-windows-file-server-aws-middle-east-uae-region/)
+- [Amazon FSx for Lustre is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-lustre-aws-middle-east-uae-region/)
+- [AWS Shield Advanced is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-shield-advanced-middle-east-uae-region/)
+- [Amazon EC2 X2idn and X2iedn instances now available in US West &lpar;N California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-x2idn-x2iedn-instances-us-west-n-california/)
 - [Amazon Connect now enables long lasting, persistent chat experiences](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-connect-persistent-chat-experiences/)
 - [Announcing the new private offers page in the AWS Marketplace Console](https://aws.amazon.com/about-aws/whats-new/2023/01/new-private-offers-page-aws-marketplace-console/)
 - [Amazon EC2 Launch Templates now support AWS Systems Manager parameters for AMIs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-launch-templates-aws-systems-manager-parameters-amis/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-aws-europe-spain-region/)
 - [Amazon Kendra releases Microsoft Yammer Connector to enable messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-yammer-connector-messaging-search/)
 - [Amazon CloudWatch launches cross-account Metric Streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-cross-account-metric-streams/)
-- [Amazon S3 File Gateway increases maximum file shares per gateway from 10 to 50](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-maximum-file-shares-gateway-10-50/)
-- [Amazon S3 File Gateway now supports DOS attributes](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-dos-attributes/)
-- [AWS Fault Injection Simulator announces increased quotas for target resources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-increased-quotas-target-resources/)
-- [AWS CodeBuild is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-codebuild-aws-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

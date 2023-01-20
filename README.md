@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now enables long lasting, persistent chat experiences](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-connect-persistent-chat-experiences/)
 - [Announcing the new private offers page in the AWS Marketplace Console](https://aws.amazon.com/about-aws/whats-new/2023/01/new-private-offers-page-aws-marketplace-console/)
 - [Amazon EC2 Launch Templates now support AWS Systems Manager parameters for AMIs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-launch-templates-aws-systems-manager-parameters-amis/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-aws-europe-spain-region/)
@@ -67,7 +68,6 @@
 - [Amazon S3 File Gateway now supports DOS attributes](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-s3-file-gateway-dos-attributes/)
 - [AWS Fault Injection Simulator announces increased quotas for target resources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-increased-quotas-target-resources/)
 - [AWS CodeBuild is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-codebuild-aws-uae-region/)
-- [Amazon OpenSearch Service announces enhanced dry run for configuration changes](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-enhanced-dry-run-configuration-changes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

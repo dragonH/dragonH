@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Multi-AZ with two readable standbys for RDS PostgreSQL now supports inbound replication](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-multi-az-readable-standbys-rds-postgresql-inbound-replication/)
 - [Amazon Aurora Supports PostgreSQL 14.6, 13.9, 12.13, 11.18](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-aurora-supports-postgresql-versions/)
 - [Amazon Detective adds Amazon VPC Flow Logs visualizations for Amazon EKS workloads](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-vpc-flow-logs-visualizations-eks-workloads/)
 - [Amazon AppFlow announces 10 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-new-connectors/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 X2idn and X2iedn instances now available in US West &lpar;N California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-x2idn-x2iedn-instances-us-west-n-california/)
 - [Amazon Connect now enables long lasting, persistent chat experiences](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-connect-persistent-chat-experiences/)
 - [Announcing the new private offers page in the AWS Marketplace Console](https://aws.amazon.com/about-aws/whats-new/2023/01/new-private-offers-page-aws-marketplace-console/)
-- [Amazon EC2 Launch Templates now support AWS Systems Manager parameters for AMIs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-launch-templates-aws-systems-manager-parameters-amis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

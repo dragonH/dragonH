@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective adds Amazon VPC Flow Logs visualizations for Amazon EKS workloads](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-vpc-flow-logs-visualizations-eks-workloads/)
+- [Amazon AppFlow announces 10 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-new-connectors/)
 - [Amazon FSx for Windows File Server is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fx-windows-file-server-aws-middle-east-uae-region/)
 - [Amazon FSx for Lustre is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-lustre-aws-middle-east-uae-region/)
 - [AWS Shield Advanced is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-shield-advanced-middle-east-uae-region/)
@@ -66,8 +68,6 @@
 - [Announcing the new private offers page in the AWS Marketplace Console](https://aws.amazon.com/about-aws/whats-new/2023/01/new-private-offers-page-aws-marketplace-console/)
 - [Amazon EC2 Launch Templates now support AWS Systems Manager parameters for AMIs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-launch-templates-aws-systems-manager-parameters-amis/)
 - [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-aws-europe-spain-region/)
-- [Amazon Kendra releases Microsoft Yammer Connector to enable messaging search](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-microsoft-yammer-connector-messaging-search/)
-- [Amazon CloudWatch launches cross-account Metric Streams](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-cross-account-metric-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Supports PostgreSQL 14.6, 13.9, 12.13, 11.18](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-aurora-supports-postgresql-versions/)
 - [Amazon Detective adds Amazon VPC Flow Logs visualizations for Amazon EKS workloads](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-vpc-flow-logs-visualizations-eks-workloads/)
 - [Amazon AppFlow announces 10 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-new-connectors/)
 - [Amazon FSx for Windows File Server is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fx-windows-file-server-aws-middle-east-uae-region/)
@@ -67,7 +68,6 @@
 - [Amazon Connect now enables long lasting, persistent chat experiences](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-connect-persistent-chat-experiences/)
 - [Announcing the new private offers page in the AWS Marketplace Console](https://aws.amazon.com/about-aws/whats-new/2023/01/new-private-offers-page-aws-marketplace-console/)
 - [Amazon EC2 Launch Templates now support AWS Systems Manager parameters for AMIs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-ec2-launch-templates-aws-systems-manager-parameters-amis/)
-- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-aws-europe-spain-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

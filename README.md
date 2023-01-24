@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Automatic Model Tuning now allows you to specify environment variables for your tuning jobs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-automatic-model-tuning-environment-variables-tuning-jobs/)
 - [Announcing comprehensive controls management with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/01/controls-management-aws-control-tower/)
 - [Announcing runtime management controls for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/01/runtime-management-controls-aws-lambda/)
 - [AWS Elemental MediaLive adds timecode burn-in](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-timecode-burn-in/)
@@ -67,7 +68,6 @@
 - [Amazon Detective adds Amazon VPC Flow Logs visualizations for Amazon EKS workloads](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-detective-vpc-flow-logs-visualizations-eks-workloads/)
 - [Amazon AppFlow announces 10 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-new-connectors/)
 - [Amazon FSx for Windows File Server is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fx-windows-file-server-aws-middle-east-uae-region/)
-- [Amazon FSx for Lustre is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-lustre-aws-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

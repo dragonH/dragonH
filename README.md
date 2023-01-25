@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS Local Zones in Lagos, Lima, and Querétaro](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-local-zones-lagos-lima-queretaro/)
+- [AWS Pricing Calculator now supports optimized pricing estimation for EC2 Dedicated Hosts](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-pricing-calculator-optimized-pricing-estimation-ec2-dedicated-hosts/)
+- [Amazon OpenSearch Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-serverless-available/)
 - [AWS Managed Services &lpar;AMS&rpar; customers can now change response for Config Rules](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-change-response-config-rules/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-netapp-ontap-aws-middle-east-uae-region/)
 - [Amazon RDS Blue/Green Deployments now supports Aurora MySQL 3 &lpar;with MySQL 8.0 compatibility&rpar; as a source cluster](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-blue-green-deployments-aurora-mysql-3-8-0-source-cluster/)
@@ -65,9 +68,6 @@
 - [Amazon MQ now supports RabbitMQ version 3.8.34](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mq-rabbitmq-version-3-8-34/)
 - [Amazon SageMaker Automatic Model Tuning now allows you to specify environment variables for your tuning jobs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-automatic-model-tuning-environment-variables-tuning-jobs/)
 - [Announcing comprehensive controls management with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/01/controls-management-aws-control-tower/)
-- [Announcing runtime management controls for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/01/runtime-management-controls-aws-lambda/)
-- [AWS Elemental MediaLive adds timecode burn-in](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-timecode-burn-in/)
-- [Amazon EFS increases the maximum number of Access Points per file system](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-increases-access-points-file-system/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

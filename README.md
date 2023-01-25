@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Managed Services &lpar;AMS&rpar; customers can now change response for Config Rules](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-change-response-config-rules/)
+- [Amazon FSx for NetApp ONTAP is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-netapp-ontap-aws-middle-east-uae-region/)
 - [Amazon RDS Blue/Green Deployments now supports Aurora MySQL 3 &lpar;with MySQL 8.0 compatibility&rpar; as a source cluster](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-blue-green-deployments-aurora-mysql-3-8-0-source-cluster/)
 - [Amazon Polly launches five new male NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-male-ntts-voices/)
 - [Amazon MQ now supports RabbitMQ version 3.8.34](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mq-rabbitmq-version-3-8-34/)
@@ -66,8 +68,6 @@
 - [Announcing runtime management controls for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/01/runtime-management-controls-aws-lambda/)
 - [AWS Elemental MediaLive adds timecode burn-in](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-medialive-timecode-burn-in/)
 - [Amazon EFS increases the maximum number of Access Points per file system](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-efs-increases-access-points-file-system/)
-- [Amazon RDS Multi-AZ with two readable standbys for RDS PostgreSQL now supports inbound replication](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-multi-az-readable-standbys-rds-postgresql-inbound-replication/)
-- [Amazon Aurora Supports PostgreSQL 14.6, 13.9, 12.13, 11.18](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-aurora-supports-postgresql-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

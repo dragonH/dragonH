@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Porting Advisor for Graviton](https://aws.amazon.com/about-aws/whats-new/2023/01/porting-advisor-graviton/)
+- [Amazon VPC IP Address Manager &lpar;IPAM&rpar; now manages IP Addresses in your network outside your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-vpc-ipam-ip-addresses-aws-organization/)
+- [Amazon QuickSight launches data bars for tables](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-data-bars-tables/)
+- [Increased field limits and performance improvements for Pivot table in Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-increased-field-limits-improvements-pivot-table/)
+- [AWS announces Amazon provided contiguous IPv6 CIDRs blocks](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-provided-contiguous-ipv6-cidrs-blocks/)
 - [Announcing the general availability of AWS Local Zones in Lagos, Lima, and Querétaro](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-local-zones-lagos-lima-queretaro/)
 - [AWS Pricing Calculator now supports optimized pricing estimation for EC2 Dedicated Hosts](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-pricing-calculator-optimized-pricing-estimation-ec2-dedicated-hosts/)
 - [Amazon OpenSearch Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-serverless-available/)
 - [AWS Managed Services &lpar;AMS&rpar; customers can now change response for Config Rules](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-change-response-config-rules/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-netapp-ontap-aws-middle-east-uae-region/)
-- [Amazon RDS Blue/Green Deployments now supports Aurora MySQL 3 &lpar;with MySQL 8.0 compatibility&rpar; as a source cluster](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-blue-green-deployments-aurora-mysql-3-8-0-source-cluster/)
-- [Amazon Polly launches five new male NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-male-ntts-voices/)
-- [Amazon MQ now supports RabbitMQ version 3.8.34](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-mq-rabbitmq-version-3-8-34/)
-- [Amazon SageMaker Automatic Model Tuning now allows you to specify environment variables for your tuning jobs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-automatic-model-tuning-environment-variables-tuning-jobs/)
-- [Announcing comprehensive controls management with AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/01/controls-management-aws-control-tower/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

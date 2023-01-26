@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker is now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-govcloud-us-east-region/)
+- [Amazon Personalize simplifies onboarding with data insights](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-onboarding-data-insights/)
 - [Announcing Porting Advisor for Graviton](https://aws.amazon.com/about-aws/whats-new/2023/01/porting-advisor-graviton/)
 - [Amazon VPC IP Address Manager &lpar;IPAM&rpar; now manages IP Addresses in your network outside your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-vpc-ipam-ip-addresses-aws-organization/)
 - [Amazon QuickSight launches data bars for tables](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-data-bars-tables/)
@@ -66,8 +68,6 @@
 - [Announcing the general availability of AWS Local Zones in Lagos, Lima, and Querétaro](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-local-zones-lagos-lima-queretaro/)
 - [AWS Pricing Calculator now supports optimized pricing estimation for EC2 Dedicated Hosts](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-pricing-calculator-optimized-pricing-estimation-ec2-dedicated-hosts/)
 - [Amazon OpenSearch Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-serverless-available/)
-- [AWS Managed Services &lpar;AMS&rpar; customers can now change response for Config Rules](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-change-response-config-rules/)
-- [Amazon FSx for NetApp ONTAP is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-fsx-netapp-ontap-aws-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

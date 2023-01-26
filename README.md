@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway is now available in AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-storage-gateway-europe-spain-zurich-regions/)
+- [AWS Managed Services &lpar;AMS&rpar; achieves FedRAMP High Authorization](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-fedramp-high-authorization/)
 - [Amazon SageMaker is now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-govcloud-us-east-region/)
 - [Amazon Personalize simplifies onboarding with data insights](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-onboarding-data-insights/)
 - [Announcing Porting Advisor for Graviton](https://aws.amazon.com/about-aws/whats-new/2023/01/porting-advisor-graviton/)
@@ -66,8 +68,6 @@
 - [Increased field limits and performance improvements for Pivot table in Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-increased-field-limits-improvements-pivot-table/)
 - [AWS announces Amazon provided contiguous IPv6 CIDRs blocks](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-provided-contiguous-ipv6-cidrs-blocks/)
 - [Announcing the general availability of AWS Local Zones in Lagos, Lima, and Querétaro](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-local-zones-lagos-lima-queretaro/)
-- [AWS Pricing Calculator now supports optimized pricing estimation for EC2 Dedicated Hosts](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-pricing-calculator-optimized-pricing-estimation-ec2-dedicated-hosts/)
-- [Amazon OpenSearch Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-serverless-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

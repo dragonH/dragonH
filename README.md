@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker announces preview of ml.p4de instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-preview-mlp4de-instances-model-deployment/)
+- [Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-oracle-aurora-database-activity-streams-3-aws-regions/)
+- [AWS announces three new AWS Direct Connect locations](https://aws.amazon.com/about-aws/whats-new/2023/01/three-aws-direct-connect-locations/)
 - [AWS announces Amazon-provided contiguous IPv6 CIDR blocks](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-provided-contiguous-ipv6-cidr-blocks/)
 - [AWS Compute Optimizer is now available in AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-compute-optimizer-aws-govcloud-us-region/)
 - [AWS Conversational AI Competency Partner&#39;s implement high-quality chatbot solutions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-conversational-ai-competency-partners-chatbot-high-quality-solutions/)
@@ -65,9 +68,6 @@
 - [AWS Managed Services &lpar;AMS&rpar; achieves FedRAMP High Authorization](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-fedramp-high-authorization/)
 - [Amazon SageMaker is now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-govcloud-us-east-region/)
 - [Amazon Personalize simplifies onboarding with data insights](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-personalize-onboarding-data-insights/)
-- [Announcing Porting Advisor for Graviton](https://aws.amazon.com/about-aws/whats-new/2023/01/porting-advisor-graviton/)
-- [Amazon VPC IP Address Manager &lpar;IPAM&rpar; now manages IP Addresses in your network outside your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-vpc-ipam-ip-addresses-aws-organization/)
-- [Amazon QuickSight launches data bars for tables](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-data-bars-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

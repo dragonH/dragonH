@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces access of Simple Monthly Calculator estimates in the AWS Pricing Calculator](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-simple-monthly-calculator-estimates-pricing-calculator/)
 - [AWS Fault Injection Simulator announces Pause I/O action for Amazon Elastic Block Store volumes](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-pause-io-action-elastic-block-store-volumes/)
 - [SageMaker announces preview of ml.p4de instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-preview-mlp4de-instances-model-deployment/)
 - [Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-oracle-aurora-database-activity-streams-3-aws-regions/)
@@ -67,7 +68,6 @@
 - [AWS Conversational AI Competency Partner&#39;s implement high-quality chatbot solutions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-conversational-ai-competency-partners-chatbot-high-quality-solutions/)
 - [AWS Storage Gateway is now available in AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-storage-gateway-europe-spain-zurich-regions/)
 - [AWS Managed Services &lpar;AMS&rpar; achieves FedRAMP High Authorization](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-managed-services-fedramp-high-authorization/)
-- [Amazon SageMaker is now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-sagemaker-aws-govcloud-us-east-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

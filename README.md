@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snow Family now supports software updates on AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-software-updates-aws-snowcone/)
 - [Amazon Kendra Expanded Data Formats Support](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-data-formats/)
 - [Amazon RDS now supports increasing storage size when creating read replicas and restoring databases from snapshots](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-storage-size-read-replicas-databases-snapshots/)
 - [AWS Elemental MediaTailor now supports timeline logs for Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-mediatailor-supports-timeline-logs-channel-assembly/)
@@ -67,7 +68,6 @@
 - [AWS Fault Injection Simulator announces Pause I/O action for Amazon Elastic Block Store volumes](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-pause-io-action-elastic-block-store-volumes/)
 - [SageMaker announces preview of ml.p4de instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-preview-mlp4de-instances-model-deployment/)
 - [Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-oracle-aurora-database-activity-streams-3-aws-regions/)
-- [AWS announces three new AWS Direct Connect locations](https://aws.amazon.com/about-aws/whats-new/2023/01/three-aws-direct-connect-locations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

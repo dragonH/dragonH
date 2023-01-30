@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches Radar chart](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-radar-chart/)
+- [AWS Snow Family now supports Ubuntu 20 and 22 operating systems](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-ubuntu-20-22-operating-systems/)
+- [AWS Outposts rack local gateway now supports VPC prefix lists to simplify routing policy management](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-outposts-rack-local-gateway-vpc-prefix-lists-routing-policy-manager/)
 - [AWS Snow Family now supports software updates on AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-software-updates-aws-snowcone/)
 - [Amazon Kendra Expanded Data Formats Support](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-kendra-data-formats/)
 - [Amazon RDS now supports increasing storage size when creating read replicas and restoring databases from snapshots](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-storage-size-read-replicas-databases-snapshots/)
@@ -65,9 +68,6 @@
 - [Bottlerocket now supports network bonding and VLAN tagging](https://aws.amazon.com/about-aws/whats-new/2023/01/bottlerocket-network-bonding-vlan-tagging/)
 - [AWS Glue Studio Visual ETL now supports 5 new transforms](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-visual-etl-5-new-transforms/)
 - [AWS announces access of Simple Monthly Calculator estimates in the AWS Pricing Calculator](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-simple-monthly-calculator-estimates-pricing-calculator/)
-- [AWS Fault Injection Simulator announces Pause I/O action for Amazon Elastic Block Store volumes](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-fault-injection-simulator-pause-io-action-elastic-block-store-volumes/)
-- [SageMaker announces preview of ml.p4de instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-preview-mlp4de-instances-model-deployment/)
-- [Database Activity Streams for Amazon RDS for Oracle and Amazon Aurora now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-oracle-aurora-database-activity-streams-3-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/)
+- [AWS Glue is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-middle-east-uae-region/)
 - [Amazon QuickSight launches Radar chart](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-radar-chart/)
 - [AWS Snow Family now supports Ubuntu 20 and 22 operating systems](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-ubuntu-20-22-operating-systems/)
 - [AWS Outposts rack local gateway now supports VPC prefix lists to simplify routing policy management](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-outposts-rack-local-gateway-vpc-prefix-lists-routing-policy-manager/)
@@ -66,8 +68,6 @@
 - [Amazon RDS now supports increasing storage size when creating read replicas and restoring databases from snapshots](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-rds-storage-size-read-replicas-databases-snapshots/)
 - [AWS Elemental MediaTailor now supports timeline logs for Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-elemental-mediatailor-supports-timeline-logs-channel-assembly/)
 - [Bottlerocket now supports network bonding and VLAN tagging](https://aws.amazon.com/about-aws/whats-new/2023/01/bottlerocket-network-bonding-vlan-tagging/)
-- [AWS Glue Studio Visual ETL now supports 5 new transforms](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-studio-visual-etl-5-new-transforms/)
-- [AWS announces access of Simple Monthly Calculator estimates in the AWS Pricing Calculator](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-simple-monthly-calculator-estimates-pricing-calculator/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches two new US English NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-two-new-us-english-ntts-voices/)
+- [Amazon ElastiCache for Redis announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-service-level-agreement/)
+- [AWS Systems Manager announces integration of Automation with Change Calendar](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-integration-automation-change-calendar/)
 - [Amazon AppFlow announces 4 new data connectors](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-4-new-data-connectors/)
 - [AWS announces Credential Guard support for Windows instances on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-credential-guard-windows-instances-amazon-ec2/)
 - [AWS Artifact on-demand access to third-party compliance reports is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-artifact-on-demand-third-party-compliance-reports/)
@@ -65,9 +68,6 @@
 - [AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/)
 - [AWS Glue is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-middle-east-uae-region/)
 - [Amazon QuickSight launches Radar chart](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-radar-chart/)
-- [AWS Snow Family now supports Ubuntu 20 and 22 operating systems](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-ubuntu-20-22-operating-systems/)
-- [AWS Outposts rack local gateway now supports VPC prefix lists to simplify routing policy management](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-outposts-rack-local-gateway-vpc-prefix-lists-routing-policy-manager/)
-- [AWS Snow Family now supports software updates on AWS Snowcone](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-software-updates-aws-snowcone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

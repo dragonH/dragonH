@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena releases data source connector for Google Cloud Storage](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-athena-data-source-connector-google-cloud-storage/)
+- [AWS CloudTrail Lake now supports ingestion of activity events from non-AWS sources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudtrail-lake-ingestion-activity-events-non-aws-sources/)
+- [Amazon MemoryDB for Redis Announces 99.99% Availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-memorydb-redis-service-level-agreement/)
 - [Amazon Polly launches two new US English NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-two-new-us-english-ntts-voices/)
 - [Amazon ElastiCache for Redis announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-service-level-agreement/)
 - [AWS Systems Manager announces integration of Automation with Change Calendar](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-integration-automation-change-calendar/)
@@ -65,9 +68,6 @@
 - [AWS announces Credential Guard support for Windows instances on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-credential-guard-windows-instances-amazon-ec2/)
 - [AWS Artifact on-demand access to third-party compliance reports is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-artifact-on-demand-third-party-compliance-reports/)
 - [Amazon Redshift launches Concurrency Scaling in the China &lpar;Beijing, operated by Sinnet&rpar;, and China &lpar;Ningxia, operated by NWCD&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-redshift-concurrency-scaling-china-regions/)
-- [AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/)
-- [AWS Glue is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-glue-middle-east-uae-region/)
-- [Amazon QuickSight launches Radar chart](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-quicksight-radar-chart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

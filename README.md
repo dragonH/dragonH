@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service simplifies remote reindex for VPC domains](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-service-remote-reindex-vpc-domains/)
+- [EC2 Hibernate now supports Amazon EC2 C6i, C6id, M6i, M6id, and I3en instances](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-hibernate-amazon-ec2-c6i-c6id-m6i-m6id-i3en-instances/)
 - [Amazon CloudWatch now simplifies metric extraction from structured logs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-metric-extraction-structured-logs/)
 - [Amazon Athena releases data source connector for Google Cloud Storage](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-athena-data-source-connector-google-cloud-storage/)
 - [AWS CloudTrail Lake now supports ingestion of activity events from non-AWS sources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudtrail-lake-ingestion-activity-events-non-aws-sources/)
@@ -66,8 +68,6 @@
 - [Amazon ElastiCache for Redis announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-service-level-agreement/)
 - [AWS Systems Manager announces integration of Automation with Change Calendar](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-integration-automation-change-calendar/)
 - [Amazon AppFlow announces 4 new data connectors](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-appflow-4-new-data-connectors/)
-- [AWS announces Credential Guard support for Windows instances on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-credential-guard-windows-instances-amazon-ec2/)
-- [AWS Artifact on-demand access to third-party compliance reports is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-artifact-on-demand-third-party-compliance-reports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

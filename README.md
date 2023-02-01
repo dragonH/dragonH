@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon increases NAT Gateway’s capacity to support concurrent connections to a unique destination](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-nat-gateways-capacity-concurrent-connections-unique-destination/)
+- [Amazon Omics Supports PrivateLink &amp; CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-omics-private-link-cloudformation/)
+- [AWS IoT Core’s Rules Engine now supports batching of device logs while routing logs from IoT devices to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-iot-cores-rule-engine-device-logs-routing-amazon-cloudwatch-logs/)
 - [AWS App Runner now supports HTTP 1.0 protocol](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-1-0-protocol/)
 - [AWS CloudFormation StackSets gives quick access to list of Regions for stack instances of a stack set](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-stacksets-access-list-regions-stack-instances-stack-set/)
 - [Amazon RDS for PostgreSQL now supports new minor versions 14.6, 13.9, 12.13, 11.18, and 10.23](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-new-minor-versions/)
@@ -65,9 +68,6 @@
 - [Amazon OpenSearch Service simplifies remote reindex for VPC domains](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-service-remote-reindex-vpc-domains/)
 - [EC2 Hibernate now supports Amazon EC2 C6i, C6id, M6i, M6id, and I3en instances](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-hibernate-amazon-ec2-c6i-c6id-m6i-m6id-i3en-instances/)
 - [Amazon CloudWatch now simplifies metric extraction from structured logs](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-cloudwatch-metric-extraction-structured-logs/)
-- [Amazon Athena releases data source connector for Google Cloud Storage](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-athena-data-source-connector-google-cloud-storage/)
-- [AWS CloudTrail Lake now supports ingestion of activity events from non-AWS sources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudtrail-lake-ingestion-activity-events-non-aws-sources/)
-- [Amazon MemoryDB for Redis Announces 99.99% Availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-memorydb-redis-service-level-agreement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

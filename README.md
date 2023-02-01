@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner now supports HTTP 1.0 protocol](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-1-0-protocol/)
 - [AWS CloudFormation StackSets gives quick access to list of Regions for stack instances of a stack set](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-stacksets-access-list-regions-stack-instances-stack-set/)
 - [Amazon RDS for PostgreSQL now supports new minor versions 14.6, 13.9, 12.13, 11.18, and 10.23](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-new-minor-versions/)
 - [SageMaker Automatic Model Tuning now adds three new completion criteria for tuning jobs](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-automatic-model-tuning-three-completion-criteria-tuning-jobs/)
@@ -67,7 +68,6 @@
 - [Amazon Athena releases data source connector for Google Cloud Storage](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-athena-data-source-connector-google-cloud-storage/)
 - [AWS CloudTrail Lake now supports ingestion of activity events from non-AWS sources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudtrail-lake-ingestion-activity-events-non-aws-sources/)
 - [Amazon MemoryDB for Redis Announces 99.99% Availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-memorydb-redis-service-level-agreement/)
-- [Amazon Polly launches two new US English NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-two-new-us-english-ntts-voices/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation StackSets gives quick access to list of Regions for stack instances of a stack set](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-stacksets-access-list-regions-stack-instances-stack-set/)
+- [Amazon RDS for PostgreSQL now supports new minor versions 14.6, 13.9, 12.13, 11.18, and 10.23](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-new-minor-versions/)
 - [SageMaker Automatic Model Tuning now adds three new completion criteria for tuning jobs](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-automatic-model-tuning-three-completion-criteria-tuning-jobs/)
 - [Amazon OpenSearch Service simplifies remote reindex for VPC domains](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-service-remote-reindex-vpc-domains/)
 - [EC2 Hibernate now supports Amazon EC2 C6i, C6id, M6i, M6id, and I3en instances](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-hibernate-amazon-ec2-c6i-c6id-m6i-m6id-i3en-instances/)
@@ -66,8 +68,6 @@
 - [AWS CloudTrail Lake now supports ingestion of activity events from non-AWS sources](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-cloudtrail-lake-ingestion-activity-events-non-aws-sources/)
 - [Amazon MemoryDB for Redis Announces 99.99% Availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-memorydb-redis-service-level-agreement/)
 - [Amazon Polly launches two new US English NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-polly-two-new-us-english-ntts-voices/)
-- [Amazon ElastiCache for Redis announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-elasticache-redis-service-level-agreement/)
-- [AWS Systems Manager announces integration of Automation with Change Calendar](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-systems-manager-integration-automation-change-calendar/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect outbound campaign capabilities are now generally available in the Canada &lpar;Central&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-outbound-campaign-capabilities-canada-central-aws-region/)
+- [Amazon Connect launches AWS CloudFormation support for instance management APIs](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-aws-cloudformation-support-instance-management-apis/)
+- [Amazon OpenSearch Service now supports enabling SAML during domain creation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-enabling-saml-domain-creation/)
+- [Amazon Inspector is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-inspector-aws-govcloud-us-regions/)
 - [Use your own training image in a private Docker registry with Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2023/02/training-image-private-docker-registry-amazon-sagemaker/)
 - [Amazon increases NAT Gateway’s capacity to support concurrent connections to a unique destination](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-nat-gateways-capacity-concurrent-connections-unique-destination/)
 - [Amazon Omics Supports PrivateLink &amp; CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-omics-private-link-cloudformation/)
 - [AWS IoT Core’s Rules Engine now supports batching of device logs while routing logs from IoT devices to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-iot-cores-rule-engine-device-logs-routing-amazon-cloudwatch-logs/)
 - [AWS App Runner now supports HTTP 1.0 protocol](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-1-0-protocol/)
 - [AWS CloudFormation StackSets gives quick access to list of Regions for stack instances of a stack set](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-stacksets-access-list-regions-stack-instances-stack-set/)
-- [Amazon RDS for PostgreSQL now supports new minor versions 14.6, 13.9, 12.13, 11.18, and 10.23](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-new-minor-versions/)
-- [SageMaker Automatic Model Tuning now adds three new completion criteria for tuning jobs](https://aws.amazon.com/about-aws/whats-new/2023/01/sagemaker-automatic-model-tuning-three-completion-criteria-tuning-jobs/)
-- [Amazon OpenSearch Service simplifies remote reindex for VPC domains](https://aws.amazon.com/about-aws/whats-new/2023/01/amazon-opensearch-service-remote-reindex-vpc-domains/)
-- [EC2 Hibernate now supports Amazon EC2 C6i, C6id, M6i, M6id, and I3en instances](https://aws.amazon.com/about-aws/whats-new/2023/01/ec2-hibernate-amazon-ec2-c6i-c6id-m6i-m6id-i3en-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive adds Dolby E audio decoding](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-medialive-dolby-e-audio-decoding/)
+- [Amazon Kinesis Data Firehose is now available in Europe &lpar;Zurich&rpar;, Europe &lpar;Spain&rpar;, Asia Pacific &lpar;Hyderabad&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-firehose-europe-zurich-spain-hyderabad-regions/)
+- [AWS AppConfig expands encryption capabilities, integrating with AWS Secrets Manager and AWS KMS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-appconfig-expands-encryption-secrets-manager-kms/)
 - [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Europe &lpar;Spain&rpar;, Europe &lpar;Zurich&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-directory-service-microsoft-active-directory-ad-connector-spain-zurich-hyderabad/)
 - [Amazon Connect outbound campaign capabilities are now generally available in the Canada &lpar;Central&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-outbound-campaign-capabilities-canada-central-aws-region/)
 - [Amazon Connect launches AWS CloudFormation support for instance management APIs](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-aws-cloudformation-support-instance-management-apis/)
@@ -65,9 +68,6 @@
 - [Amazon Inspector is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-inspector-aws-govcloud-us-regions/)
 - [Use your own training image in a private Docker registry with Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2023/02/training-image-private-docker-registry-amazon-sagemaker/)
 - [Amazon increases NAT Gateway’s capacity to support concurrent connections to a unique destination](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-nat-gateways-capacity-concurrent-connections-unique-destination/)
-- [Amazon Omics Supports PrivateLink &amp; CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-omics-private-link-cloudformation/)
-- [AWS IoT Core’s Rules Engine now supports batching of device logs while routing logs from IoT devices to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-iot-cores-rule-engine-device-logs-routing-amazon-cloudwatch-logs/)
-- [AWS App Runner now supports HTTP 1.0 protocol](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-1-0-protocol/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Europe &lpar;Spain&rpar;, Europe &lpar;Zurich&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-directory-service-microsoft-active-directory-ad-connector-spain-zurich-hyderabad/)
 - [Amazon Connect outbound campaign capabilities are now generally available in the Canada &lpar;Central&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-outbound-campaign-capabilities-canada-central-aws-region/)
 - [Amazon Connect launches AWS CloudFormation support for instance management APIs](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-aws-cloudformation-support-instance-management-apis/)
 - [Amazon OpenSearch Service now supports enabling SAML during domain creation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-enabling-saml-domain-creation/)
@@ -67,7 +68,6 @@
 - [Amazon Omics Supports PrivateLink &amp; CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-omics-private-link-cloudformation/)
 - [AWS IoT Core’s Rules Engine now supports batching of device logs while routing logs from IoT devices to Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-iot-cores-rule-engine-device-logs-routing-amazon-cloudwatch-logs/)
 - [AWS App Runner now supports HTTP 1.0 protocol](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-1-0-protocol/)
-- [AWS CloudFormation StackSets gives quick access to list of Regions for stack instances of a stack set](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-stacksets-access-list-regions-stack-instances-stack-set/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

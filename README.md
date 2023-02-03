@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SAM CLI introduces ‘sam list’ command to inspect AWS SAM resources](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-sam-list-command-inspect-resources/)
+- [AWS Panorama simplifies ordering of Panorama Appliances](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-panorama-simplifies-ordering-panorama-appliances/)
 - [AWS Elemental MediaLive adds Dolby E audio decoding](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-medialive-dolby-e-audio-decoding/)
 - [Amazon Kinesis Data Firehose is now available in Europe &lpar;Zurich&rpar;, Europe &lpar;Spain&rpar;, Asia Pacific &lpar;Hyderabad&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-firehose-europe-zurich-spain-hyderabad-regions/)
 - [AWS AppConfig expands encryption capabilities, integrating with AWS Secrets Manager and AWS KMS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-appconfig-expands-encryption-secrets-manager-kms/)
@@ -66,8 +68,6 @@
 - [Amazon Connect launches AWS CloudFormation support for instance management APIs](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-aws-cloudformation-support-instance-management-apis/)
 - [Amazon OpenSearch Service now supports enabling SAML during domain creation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-enabling-saml-domain-creation/)
 - [Amazon Inspector is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-inspector-aws-govcloud-us-regions/)
-- [Use your own training image in a private Docker registry with Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2023/02/training-image-private-docker-registry-amazon-sagemaker/)
-- [Amazon increases NAT Gateway’s capacity to support concurrent connections to a unique destination](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-nat-gateways-capacity-concurrent-connections-unique-destination/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

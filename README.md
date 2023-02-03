@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now offers a Windows client library](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-chime-sdk-windows-client-library/)
 - [Amazon EC2 Mac instances now support replacing root volumes for quick instance restoration](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-mac-instances-root-volumes-quick-instance-restoration/)
 - [Amazon RDS for Oracle now supports additional cipher suites for OEM Agent and SSL option](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-cipher-suites-oem-gent-ssl-option/)
 - [AWS SAM CLI introduces ‘sam list’ command to inspect AWS SAM resources](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-sam-list-command-inspect-resources/)
@@ -67,7 +68,6 @@
 - [AWS AppConfig expands encryption capabilities, integrating with AWS Secrets Manager and AWS KMS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-appconfig-expands-encryption-secrets-manager-kms/)
 - [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Europe &lpar;Spain&rpar;, Europe &lpar;Zurich&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-directory-service-microsoft-active-directory-ad-connector-spain-zurich-hyderabad/)
 - [Amazon Connect outbound campaign capabilities are now generally available in the Canada &lpar;Central&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-outbound-campaign-capabilities-canada-central-aws-region/)
-- [Amazon Connect launches AWS CloudFormation support for instance management APIs](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-aws-cloudformation-support-instance-management-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

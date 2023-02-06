@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawlers now support MongoDB Atlas](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-mongodb-atlas/)
+- [AWS Systems Manager Change Manager now supports a more flexible way of approving change requests](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-manager-flexible-approving-change-requests/)
+- [AWS Systems Manager Change Calendar now provides a more comprehensive calendar view of operational events](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-calendar-view-operational-events/)
+- [Amazon RDS for PostgreSQL now supports seg extension](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-supports-seg-extension/)
 - [Amazon Chime SDK now offers a Windows client library](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-chime-sdk-windows-client-library/)
 - [Amazon EC2 Mac instances now support replacing root volumes for quick instance restoration](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-mac-instances-root-volumes-quick-instance-restoration/)
 - [Amazon RDS for Oracle now supports additional cipher suites for OEM Agent and SSL option](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-cipher-suites-oem-gent-ssl-option/)
 - [AWS SAM CLI introduces ‘sam list’ command to inspect AWS SAM resources](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-sam-list-command-inspect-resources/)
 - [AWS Panorama simplifies ordering of Panorama Appliances](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-panorama-simplifies-ordering-panorama-appliances/)
 - [AWS Elemental MediaLive adds Dolby E audio decoding](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-medialive-dolby-e-audio-decoding/)
-- [Amazon Kinesis Data Firehose is now available in Europe &lpar;Zurich&rpar;, Europe &lpar;Spain&rpar;, Asia Pacific &lpar;Hyderabad&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-firehose-europe-zurich-spain-hyderabad-regions/)
-- [AWS AppConfig expands encryption capabilities, integrating with AWS Secrets Manager and AWS KMS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-appconfig-expands-encryption-secrets-manager-kms/)
-- [AWS Directory Service for Microsoft Active Directory and AD Connector are now available in the AWS Europe &lpar;Spain&rpar;, Europe &lpar;Zurich&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-directory-service-microsoft-active-directory-ad-connector-spain-zurich-hyderabad/)
-- [Amazon Connect outbound campaign capabilities are now generally available in the Canada &lpar;Central&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-outbound-campaign-capabilities-canada-central-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

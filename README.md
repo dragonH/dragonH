@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Fraud Detector introduces Cold Start model training for customers with limited historical data](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-cold-start-model-training-limited-historical-data/)
+- [Amazon CloudWatch now supports high resolution metric extraction from structured logs](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-high-resolution-metric-extraction-structured-logs/)
+- [AWS Elemental MediaTailor now supports fast schedule updates in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-mediatailor-fast-schedule-updates-channel-assembly/)
 - [AWS SimSpace Weaver now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-simspace-weaver-cloudformation/)
 - [AWS Glue Crawlers now support MongoDB Atlas](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-mongodb-atlas/)
 - [AWS Systems Manager Change Manager now supports a more flexible way of approving change requests](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-manager-flexible-approving-change-requests/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for PostgreSQL now supports seg extension](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-supports-seg-extension/)
 - [Amazon Chime SDK now offers a Windows client library](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-chime-sdk-windows-client-library/)
 - [Amazon EC2 Mac instances now support replacing root volumes for quick instance restoration](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-mac-instances-root-volumes-quick-instance-restoration/)
-- [Amazon RDS for Oracle now supports additional cipher suites for OEM Agent and SSL option](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-cipher-suites-oem-gent-ssl-option/)
-- [AWS SAM CLI introduces ‘sam list’ command to inspect AWS SAM resources](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-sam-list-command-inspect-resources/)
-- [AWS Panorama simplifies ordering of Panorama Appliances](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-panorama-simplifies-ordering-panorama-appliances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

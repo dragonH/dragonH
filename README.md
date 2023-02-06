@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-high-memory-instances-south-america-sao-paulo-region/)
+- [AWS Firewall Manager is now available in the Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;UAE&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-firewall-manager-asia-pacific-jakarta-middle-east-uae-regions/)
+- [Amazon EKS is now available in Europe &lpar;Zurich&rpar;, Europe &lpar;Spain&rpar;, and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eks-europe-zurich-spain-hyderabad-aws-regions/)
 - [Amazon Fraud Detector introduces Cold Start model training for customers with limited historical data](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-cold-start-model-training-limited-historical-data/)
 - [Amazon CloudWatch now supports high resolution metric extraction from structured logs](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-high-resolution-metric-extraction-structured-logs/)
 - [AWS Elemental MediaTailor now supports fast schedule updates in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-mediatailor-fast-schedule-updates-channel-assembly/)
@@ -65,9 +68,6 @@
 - [AWS Glue Crawlers now support MongoDB Atlas](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-mongodb-atlas/)
 - [AWS Systems Manager Change Manager now supports a more flexible way of approving change requests](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-manager-flexible-approving-change-requests/)
 - [AWS Systems Manager Change Calendar now provides a more comprehensive calendar view of operational events](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-calendar-view-operational-events/)
-- [Amazon RDS for PostgreSQL now supports seg extension](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-supports-seg-extension/)
-- [Amazon Chime SDK now offers a Windows client library](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-chime-sdk-windows-client-library/)
-- [Amazon EC2 Mac instances now support replacing root volumes for quick instance restoration](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-mac-instances-root-volumes-quick-instance-restoration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

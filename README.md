@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7g metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-metal-instances-available/)
 - [Amazon EC2 High Memory instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-high-memory-instances-south-america-sao-paulo-region/)
 - [AWS Firewall Manager is now available in the Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;UAE&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-firewall-manager-asia-pacific-jakarta-middle-east-uae-regions/)
 - [Amazon EKS is now available in Europe &lpar;Zurich&rpar;, Europe &lpar;Spain&rpar;, and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eks-europe-zurich-spain-hyderabad-aws-regions/)
@@ -67,7 +68,6 @@
 - [AWS SimSpace Weaver now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-simspace-weaver-cloudformation/)
 - [AWS Glue Crawlers now support MongoDB Atlas](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-mongodb-atlas/)
 - [AWS Systems Manager Change Manager now supports a more flexible way of approving change requests](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-manager-flexible-approving-change-requests/)
-- [AWS Systems Manager Change Calendar now provides a more comprehensive calendar view of operational events](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-calendar-view-operational-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

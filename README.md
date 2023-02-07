@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports new minor versions 5.7.41 and 8.0.32](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mysql-new-minor-versions-5-8/)
+- [AWS DataSync is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-datasync-3-additional-regions/)
+- [AWS Service Management Connector for Jira Service Management customer portal](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-management-connector-jira-service-management-customer-portal/)
+- [AWS announces new AWS Direct Connect location in Kolkata, India](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-kolkata-india/)
 - [Amazon EC2 C7g metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-metal-instances-available/)
 - [Amazon EC2 High Memory instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-high-memory-instances-south-america-sao-paulo-region/)
 - [AWS Firewall Manager is now available in the Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;UAE&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-firewall-manager-asia-pacific-jakarta-middle-east-uae-regions/)
 - [Amazon EKS is now available in Europe &lpar;Zurich&rpar;, Europe &lpar;Spain&rpar;, and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eks-europe-zurich-spain-hyderabad-aws-regions/)
 - [Amazon Fraud Detector introduces Cold Start model training for customers with limited historical data](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-cold-start-model-training-limited-historical-data/)
 - [Amazon CloudWatch now supports high resolution metric extraction from structured logs](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-high-resolution-metric-extraction-structured-logs/)
-- [AWS Elemental MediaTailor now supports fast schedule updates in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-mediatailor-fast-schedule-updates-channel-assembly/)
-- [AWS SimSpace Weaver now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-simspace-weaver-cloudformation/)
-- [AWS Glue Crawlers now support MongoDB Atlas](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-mongodb-atlas/)
-- [AWS Systems Manager Change Manager now supports a more flexible way of approving change requests](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-change-manager-flexible-approving-change-requests/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches two new Japanese NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-polly-two-japanese-ntts-voices/)
+- [Amazon EC2 R6gd instances now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-r6gd-instances-aws-region-europe-london/)
 - [Amazon Kendra now available in Asia-Pacific &lpar;Tokyo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kendra-asia-pacific-tokyo-region/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.41 and 8.0.32](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mysql-new-minor-versions-5-8/)
 - [AWS DataSync is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-datasync-3-additional-regions/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 C7g metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-metal-instances-available/)
 - [Amazon EC2 High Memory instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-high-memory-instances-south-america-sao-paulo-region/)
 - [AWS Firewall Manager is now available in the Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;UAE&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-firewall-manager-asia-pacific-jakarta-middle-east-uae-regions/)
-- [Amazon EKS is now available in Europe &lpar;Zurich&rpar;, Europe &lpar;Spain&rpar;, and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eks-europe-zurich-spain-hyderabad-aws-regions/)
-- [Amazon Fraud Detector introduces Cold Start model training for customers with limited historical data](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-cold-start-model-training-limited-historical-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

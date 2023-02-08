@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation announces spotlight for latest news on CloudFormation features, blogs, and workshops](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-news-features-blogs-workshops/)
 - [Amazon Polly launches two new Japanese NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-polly-two-japanese-ntts-voices/)
 - [Amazon EC2 R6gd instances now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-r6gd-instances-aws-region-europe-london/)
 - [Amazon Kendra now available in Asia-Pacific &lpar;Tokyo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kendra-asia-pacific-tokyo-region/)
@@ -67,7 +68,6 @@
 - [AWS announces new AWS Direct Connect location in Kolkata, India](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-kolkata-india/)
 - [Amazon EC2 C7g metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-metal-instances-available/)
 - [Amazon EC2 High Memory instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-high-memory-instances-south-america-sao-paulo-region/)
-- [AWS Firewall Manager is now available in the Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;UAE&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-firewall-manager-asia-pacific-jakarta-middle-east-uae-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

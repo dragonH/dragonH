@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GuardDuty now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-guardduty-aws-europe-spain-region/)
 - [AWS CloudFormation announces spotlight for latest news on CloudFormation features, blogs, and workshops](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-news-features-blogs-workshops/)
 - [AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/)
 - [Amazon Polly launches two new Japanese NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-polly-two-japanese-ntts-voices/)
@@ -67,7 +68,6 @@
 - [AWS DataSync is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-datasync-3-additional-regions/)
 - [AWS Service Management Connector for Jira Service Management customer portal](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-management-connector-jira-service-management-customer-portal/)
 - [AWS announces new AWS Direct Connect location in Kolkata, India](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-kolkata-india/)
-- [Amazon EC2 C7g metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-metal-instances-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

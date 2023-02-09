@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda launches new CloudWatch metrics for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-launches-cloudwatch-metrics-asynchronous-invocations/)
 - [Amazon CloudFront now supports OAC with Elemental MediaStore origins](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudfront-oac-elemental-mediastore-regions/)
 - [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-config-20-resource-types/)
 - [AWS Control Tower provides updates to access logging and exceptions to more global services for Region Deny](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-control-tower-logging-exceptions-global-services-region-deny/)
@@ -67,7 +68,6 @@
 - [Announcing the general availability of the AWS CRT HTTP Client in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-crt-http-client-sdk-java-2-x/)
 - [AWS launches AWS SAM connectors as a resource parameter](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-resource-parameter/)
 - [Announcing enhanced I/O multiplexing for Amazon ElastiCache for Redis](https://aws.amazon.com/about-aws/whats-new/2023/02/enhanced-io-multiplexing-amazon-elasticache-redis/)
-- [Amazon ElastiCache for Redis now supports auto scaling in six new regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-elasticache-redis-auto-scaling-six-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

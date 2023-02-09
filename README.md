@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports OAC with Elemental MediaStore origins](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudfront-oac-elemental-mediastore-regions/)
+- [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-config-20-resource-types/)
+- [AWS Control Tower provides updates to access logging and exceptions to more global services for Region Deny](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-control-tower-logging-exceptions-global-services-region-deny/)
 - [Amazon SNS now supports AWS X-Ray active tracing to visualize, analyze, and debug application performance](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sns-x-ray-active-tracing-visualize-analyze-debug-application-performance/)
 - [Amazon EMR Serverless now supports HIPAA, HITRUST, SOC, and PCI DSS workloads](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-serverless-hipaa-hitrust-soc-pci-dss-workloads/)
 - [Amazon GameLift expands SDK support to Go and .NET 6](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-expands-sdk-support-go-net-6/)
@@ -65,9 +68,6 @@
 - [AWS launches AWS SAM connectors as a resource parameter](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-resource-parameter/)
 - [Announcing enhanced I/O multiplexing for Amazon ElastiCache for Redis](https://aws.amazon.com/about-aws/whats-new/2023/02/enhanced-io-multiplexing-amazon-elasticache-redis/)
 - [Amazon ElastiCache for Redis now supports auto scaling in six new regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-elasticache-redis-auto-scaling-six-new-regions/)
-- [Amazon GuardDuty now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-guardduty-aws-europe-spain-region/)
-- [AWS CloudFormation announces spotlight for latest news on CloudFormation features, blogs, and workshops](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-news-features-blogs-workshops/)
-- [AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

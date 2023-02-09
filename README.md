@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS now supports AWS X-Ray active tracing to visualize, analyze, and debug application performance](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sns-x-ray-active-tracing-visualize-analyze-debug-application-performance/)
+- [Amazon EMR Serverless now supports HIPAA, HITRUST, SOC, and PCI DSS workloads](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-serverless-hipaa-hitrust-soc-pci-dss-workloads/)
+- [Amazon GameLift expands SDK support to Go and .NET 6](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-expands-sdk-support-go-net-6/)
+- [Announcing the general availability of the AWS CRT HTTP Client in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-crt-http-client-sdk-java-2-x/)
+- [AWS launches AWS SAM connectors as a resource parameter](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-resource-parameter/)
+- [Announcing enhanced I/O multiplexing for Amazon ElastiCache for Redis](https://aws.amazon.com/about-aws/whats-new/2023/02/enhanced-io-multiplexing-amazon-elasticache-redis/)
 - [Amazon ElastiCache for Redis now supports auto scaling in six new regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-elasticache-redis-auto-scaling-six-new-regions/)
 - [Amazon GuardDuty now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-guardduty-aws-europe-spain-region/)
 - [AWS CloudFormation announces spotlight for latest news on CloudFormation features, blogs, and workshops](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloudformation-news-features-blogs-workshops/)
 - [AWS Snow Family now supports Instance Metadata Service Version 2 for Amazon EC2 instances on Snow](https://aws.amazon.com/about-aws/whats-new/2023/01/aws-snow-family-instance-metadata-service-version-2-amazon-ec2-instances-snow/)
-- [Amazon Polly launches two new Japanese NTTS voices](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-polly-two-japanese-ntts-voices/)
-- [Amazon EC2 R6gd instances now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-r6gd-instances-aws-region-europe-london/)
-- [Amazon Kendra now available in Asia-Pacific &lpar;Tokyo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kendra-asia-pacific-tokyo-region/)
-- [Amazon RDS for MySQL supports new minor versions 5.7.41 and 8.0.32](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mysql-new-minor-versions-5-8/)
-- [AWS DataSync is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-datasync-3-additional-regions/)
-- [AWS Service Management Connector for Jira Service Management customer portal](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-management-connector-jira-service-management-customer-portal/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS adds support for job execution retries](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-job-execution-retries/)
 - [AWS Lambda launches new CloudWatch metrics for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-launches-cloudwatch-metrics-asynchronous-invocations/)
 - [Amazon CloudFront now supports OAC with Elemental MediaStore origins](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudfront-oac-elemental-mediastore-regions/)
 - [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-config-20-resource-types/)
@@ -67,7 +68,6 @@
 - [Amazon GameLift expands SDK support to Go and .NET 6](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-expands-sdk-support-go-net-6/)
 - [Announcing the general availability of the AWS CRT HTTP Client in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-crt-http-client-sdk-java-2-x/)
 - [AWS launches AWS SAM connectors as a resource parameter](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-resource-parameter/)
-- [Announcing enhanced I/O multiplexing for Amazon ElastiCache for Redis](https://aws.amazon.com/about-aws/whats-new/2023/02/enhanced-io-multiplexing-amazon-elasticache-redis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless now supports large worker sizes to run more compute or memory intensive workloads](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-serverless-worker-sizes-compute-memory-workloads/)
 - [AWS Launch Wizard now automates deployment of SAP S/4HANA Foundation and SAP S/4HANA 2022](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-launch-wizard-automates-deployment-sap-s4hana-foundation-2022/)
 - [Amazon EC2 X2idn instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-x2idn-instances-europe-zurich-region/)
 - [AWS Cloud Map increases default limit](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-cloud-map-increases-default-limit/)
@@ -67,7 +68,6 @@
 - [Announcing Network of Bots for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/02/network-bots-amazon-lex/)
 - [Amazon EMR on EKS adds support for job execution retries](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-job-execution-retries/)
 - [AWS Lambda launches new CloudWatch metrics for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-launches-cloudwatch-metrics-asynchronous-invocations/)
-- [Amazon CloudFront now supports OAC with Elemental MediaStore origins](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudfront-oac-elemental-mediastore-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

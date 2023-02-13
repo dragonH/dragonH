@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 M7g and R7g Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/)
 - [Amazon RDS for PostgreSQL now supports tcn extension](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-supports-tcn-extension/)
 - [Amazon VPC Announces General Availability of Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-vpc-resource-map-aws-management-console/)
 - [Amazon Elastic Container Service improves accuracy of Service Load Balancing](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-elastic-container-service-accuracy-service-load-balancing/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Auto Scaling instance refresh now supports rollback](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-auto-scaling-instance-refresh-rollback/)
 - [Amazon EMR Serverless now supports large worker sizes to run more compute or memory intensive workloads](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-serverless-worker-sizes-compute-memory-workloads/)
 - [AWS Launch Wizard now automates deployment of SAP S/4HANA Foundation and SAP S/4HANA 2022](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-launch-wizard-automates-deployment-sap-s4hana-foundation-2022/)
-- [Amazon EC2 X2idn instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-x2idn-instances-europe-zurich-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

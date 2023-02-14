@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Workspot announces Cloud PCs powered by Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-workspaces-core-workspot-cloud-pcs/)
 - [Amazon GameLift now supports publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-publishing-events-encrypted-amazon-sns-topics/)
 - [AWS announces new AWS Direct Connect location in Ashburn, Virginia](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-ashburn-virginia/)
 - [AWS Snow Family now supports Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-snow-family-amazon-eks-anywhere/)
@@ -67,7 +68,6 @@
 - [Amazon VPC Announces General Availability of Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-vpc-resource-map-aws-management-console/)
 - [Amazon Elastic Container Service improves accuracy of Service Load Balancing](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-elastic-container-service-accuracy-service-load-balancing/)
 - [AWS announces AWS Modular Data Center &lpar;MDC&rpar; for U.S. Department of Defense customers](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-modular-data-center-mdc-us-department-defense-customers/)
-- [AWS Mainframe Modernization service is now available in 3 new regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-mainframe-modernization-3-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

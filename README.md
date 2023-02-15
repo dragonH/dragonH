@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Trusted Advisor fault tolerance check for Amazon MemoryDB for Redis is now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-memorydb-redis-additional-regions/)
+- [AWS Trusted Advisor fault tolerance check for Amazon ElastiCache for Redis is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/)
+- [Amazon Fraud Detector&lpar;AFD&rpar; launched AFD-Lists to optimize fraud prevention strategies](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-afd-lists/)
 - [Amazon EC2 Dedicated Hosts now support automated maintenance on rare degradation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-dedicated-hosts-automated-maintenance-rare-degradation/)
 - [Announcing increased AWS Resource Access Manager default quota values](https://aws.amazon.com/about-aws/whats-new/2023/02/increased-aws-resource-access-manager-default-quota-values/)
 - [Database Activity Streams now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-sql-server-database-activity-streams/)
@@ -65,9 +68,6 @@
 - [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-resource-access-manager-asia-pacific-melbourne-region/)
 - [ENA Express now supports 15 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/ena-express-15-new-ec2-instances/)
 - [AWS Network Firewall now supports tag-based resource groups](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-network-firewall-tag-based-resource-groups/)
-- [Amazon EventBridge event buses supports enhanced integration with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eventbridge-event-buses-enhanced-integration-aws-service-quotas/)
-- [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-guardduty-aws-asia-pacific-hyderabad-region/)
-- [Programmatically manage enabled and disabled opt-in AWS Regions on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/02/manage-enabled-disabled-opt-in-aws-regions-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

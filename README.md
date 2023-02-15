@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing increased AWS Resource Access Manager default quota values](https://aws.amazon.com/about-aws/whats-new/2023/02/increased-aws-resource-access-manager-default-quota-values/)
+- [Database Activity Streams now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-sql-server-database-activity-streams/)
 - [Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation/)
 - [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-resource-access-manager-asia-pacific-melbourne-region/)
 - [ENA Express now supports 15 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/ena-express-15-new-ec2-instances/)
@@ -66,8 +68,6 @@
 - [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-guardduty-aws-asia-pacific-hyderabad-region/)
 - [Programmatically manage enabled and disabled opt-in AWS Regions on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/02/manage-enabled-disabled-opt-in-aws-regions-accounts/)
 - [Workspot announces Cloud PCs powered by Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-workspaces-core-workspot-cloud-pcs/)
-- [Amazon GameLift now supports publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-publishing-events-encrypted-amazon-sns-topics/)
-- [AWS announces new AWS Direct Connect location in Ashburn, Virginia](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-ashburn-virginia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

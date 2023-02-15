@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Dedicated Hosts now support automated maintenance on rare degradation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-dedicated-hosts-automated-maintenance-rare-degradation/)
 - [Announcing increased AWS Resource Access Manager default quota values](https://aws.amazon.com/about-aws/whats-new/2023/02/increased-aws-resource-access-manager-default-quota-values/)
 - [Database Activity Streams now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-sql-server-database-activity-streams/)
 - [Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation/)
@@ -67,7 +68,6 @@
 - [Amazon EventBridge event buses supports enhanced integration with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eventbridge-event-buses-enhanced-integration-aws-service-quotas/)
 - [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-guardduty-aws-asia-pacific-hyderabad-region/)
 - [Programmatically manage enabled and disabled opt-in AWS Regions on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/02/manage-enabled-disabled-opt-in-aws-regions-accounts/)
-- [Workspot announces Cloud PCs powered by Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-workspaces-core-workspot-cloud-pcs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

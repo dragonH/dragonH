@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation/)
+- [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-resource-access-manager-asia-pacific-melbourne-region/)
+- [ENA Express now supports 15 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/ena-express-15-new-ec2-instances/)
+- [AWS Network Firewall now supports tag-based resource groups](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-network-firewall-tag-based-resource-groups/)
 - [Amazon EventBridge event buses supports enhanced integration with AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eventbridge-event-buses-enhanced-integration-aws-service-quotas/)
 - [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-guardduty-aws-asia-pacific-hyderabad-region/)
 - [Programmatically manage enabled and disabled opt-in AWS Regions on AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/02/manage-enabled-disabled-opt-in-aws-regions-accounts/)
 - [Workspot announces Cloud PCs powered by Amazon WorkSpaces Core](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-workspaces-core-workspot-cloud-pcs/)
 - [Amazon GameLift now supports publishing events to encrypted Amazon SNS topics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-publishing-events-encrypted-amazon-sns-topics/)
 - [AWS announces new AWS Direct Connect location in Ashburn, Virginia](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-direct-connect-location-ashburn-virginia/)
-- [AWS Snow Family now supports Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-snow-family-amazon-eks-anywhere/)
-- [Organizations-related condition keys for IAM policies now available in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/organizations-related-condition-keys-iam-policies-aws-china-regions/)
-- [Introducing Amazon EC2 M7g and R7g Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-m7g-r7g-instances/)
-- [Amazon RDS for PostgreSQL now supports tcn extension](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-supports-tcn-extension/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

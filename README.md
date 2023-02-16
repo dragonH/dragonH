@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ adds AWS Key Management Service &lpar;AWS KMS&rpar; support for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-mq-kms-support-rabbitmq-brokers/)
+- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-efs-available-aws-asia-pacific-hyderabad-region/)
 - [Request tracing for customizations now available for AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/about-aws/whats-new/2023/02/tracing-customizations-aws-control-tower-account-factory-terraform/)
 - [Amazon EC2 X2iedn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-x2iedn-instances-osaka-region/)
 - [Amazon Managed Grafana now supports network access control](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-managed-grafana-network-access-control/)
@@ -66,8 +68,6 @@
 - [Amazon Pinpoint now supports SMS and voice spending metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-pinpoint-sms-voice-spending-metrics-cloudwatch/)
 - [AWS WAF Captcha adds support for ten additional languages](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-captcha-ten-additional-languages/)
 - [AWS WAF Fraud Control - Account Takeover Protection now allows inspection of origin responses](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-fraud-control-account-takeover-prevention-cloudfront-origin-responses/)
-- [AWS Trusted Advisor fault tolerance check for Amazon MemoryDB for Redis is now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-memorydb-redis-additional-regions/)
-- [AWS Trusted Advisor fault tolerance check for Amazon ElastiCache for Redis is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

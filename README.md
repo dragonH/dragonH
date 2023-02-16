@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X2iedn instances now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-x2iedn-instances-osaka-region/)
+- [Amazon Managed Grafana now supports network access control](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-managed-grafana-network-access-control/)
 - [Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation for Global Tables](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation-global-tables/)
 - [Amazon Cognito identity pool data events are now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cognito-identity-pool-data-events-aws-cloudtrail/)
 - [Amazon Pinpoint now supports SMS and voice spending metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-pinpoint-sms-voice-spending-metrics-cloudwatch/)
@@ -66,8 +68,6 @@
 - [AWS Trusted Advisor fault tolerance check for Amazon MemoryDB for Redis is now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-memorydb-redis-additional-regions/)
 - [AWS Trusted Advisor fault tolerance check for Amazon ElastiCache for Redis is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/)
 - [Amazon Fraud Detector&lpar;AFD&rpar; launched AFD-Lists to optimize fraud prevention strategies](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-afd-lists/)
-- [Amazon EC2 Dedicated Hosts now support automated maintenance on rare degradation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-dedicated-hosts-automated-maintenance-rare-degradation/)
-- [Announcing increased AWS Resource Access Manager default quota values](https://aws.amazon.com/about-aws/whats-new/2023/02/increased-aws-resource-access-manager-default-quota-values/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

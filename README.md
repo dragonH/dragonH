@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito identity pool data events are now available in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cognito-identity-pool-data-events-aws-cloudtrail/)
+- [Amazon Pinpoint now supports SMS and voice spending metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-pinpoint-sms-voice-spending-metrics-cloudwatch/)
+- [AWS WAF Captcha adds support for ten additional languages](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-captcha-ten-additional-languages/)
+- [AWS WAF Fraud Control - Account Takeover Protection now allows inspection of origin responses](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-waf-fraud-control-account-takeover-prevention-cloudfront-origin-responses/)
 - [AWS Trusted Advisor fault tolerance check for Amazon MemoryDB for Redis is now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-memorydb-redis-additional-regions/)
 - [AWS Trusted Advisor fault tolerance check for Amazon ElastiCache for Redis is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-trusted-advisor-fault-tolerance-check-amazon-elasticache-redis-all-regions/)
 - [Amazon Fraud Detector&lpar;AFD&rpar; launched AFD-Lists to optimize fraud prevention strategies](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-fraud-detector-afd-lists/)
 - [Amazon EC2 Dedicated Hosts now support automated maintenance on rare degradation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-dedicated-hosts-automated-maintenance-rare-degradation/)
 - [Announcing increased AWS Resource Access Manager default quota values](https://aws.amazon.com/about-aws/whats-new/2023/02/increased-aws-resource-access-manager-default-quota-values/)
 - [Database Activity Streams now supports Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-sql-server-database-activity-streams/)
-- [Amazon Kinesis Data Streams for Amazon DynamoDB now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-streams-dynamodb-aws-cloudformation/)
-- [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-resource-access-manager-asia-pacific-melbourne-region/)
-- [ENA Express now supports 15 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/02/ena-express-15-new-ec2-instances/)
-- [AWS Network Firewall now supports tag-based resource groups](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-network-firewall-tag-based-resource-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS ParallelCluster 3.5 with a new UI for AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-parallelcluster-cluster-3-5-new-ui/)
+- [Amazon Connect Cases now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-aws-privatelink/)
+- [Amazon Kinesis Data Analytics is now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-analytics-middle-east-uae-region/)
 - [Amazon Detective launches an interactive workshop for investigating potential security issues](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-interactive-workshop-investigating-security-issues/)
 - [Amazon Connect Cases is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-additional-regions/)
 - [Amazon OpenSearch Service now lets you schedule service software updates during off-peak hours](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-schedule-service-software-updates-off-peak-hours/)
@@ -65,9 +68,6 @@
 - [Amazon Connect launches granular access controls for real-time metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-granular-access-controls-real-time-metrics/)
 - [AWS Incident Detection and Response now supports New Relic integration](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-incident-detection-response-new-relic-integration/)
 - [AWS Step Functions adds integration for 35 services including EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-step-functions-integration-35-services-emr-serverless/)
-- [Amazon Data Lifecycle Manager is now available in the AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-data-lifecycle-manager-aws-europe-spain-zurich-regions/)
-- [Announcing the ability to enable AWS Systems Manager by default across all EC2 instances in an account](https://aws.amazon.com/about-aws/whats-new/2023/02/enable-aws-systems-manager-default-all-ec2-instances-account/)
-- [Amazon CloudWatch announces increased quotas for Logs Insights](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-increased-quotas-logs-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

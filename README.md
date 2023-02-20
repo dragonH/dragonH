@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective launches an interactive workshop for investigating potential security issues](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-interactive-workshop-investigating-security-issues/)
+- [Amazon Connect Cases is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-additional-regions/)
+- [Amazon OpenSearch Service now lets you schedule service software updates during off-peak hours](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-schedule-service-software-updates-off-peak-hours/)
 - [AWS App Runner adds service level concurrency, CPU and Memory utilization metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-concurrency-cpu-memory-utilization-metrics/)
 - [Amazon Connect launches granular access controls for real-time metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-granular-access-controls-real-time-metrics/)
 - [AWS Incident Detection and Response now supports New Relic integration](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-incident-detection-response-new-relic-integration/)
@@ -65,9 +68,6 @@
 - [Amazon Data Lifecycle Manager is now available in the AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-data-lifecycle-manager-aws-europe-spain-zurich-regions/)
 - [Announcing the ability to enable AWS Systems Manager by default across all EC2 instances in an account](https://aws.amazon.com/about-aws/whats-new/2023/02/enable-aws-systems-manager-default-all-ec2-instances-account/)
 - [Amazon CloudWatch announces increased quotas for Logs Insights](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-increased-quotas-logs-insights/)
-- [Amazon RDS for Oracle now supports January 2023 Release Updates &lpar;RU&rpar; for 19c and 21c](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-release-updates-19c-21c/)
-- [Amazon MQ adds AWS Key Management Service &lpar;AWS KMS&rpar; support for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-mq-kms-support-rabbitmq-brokers/)
-- [Amazon Elastic File System &lpar;Amazon EFS&rpar; is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-efs-available-aws-asia-pacific-hyderabad-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

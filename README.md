@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports early notifications of Auto minor Version Upgrades &lpar;AmVU&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-early-notifications-auto-minor-version-upgrades/)
 - [Announcing AWS Telco Network Builder](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-telco-network-builder/)
 - [AWS Expands Torn Write Prevention to EC2 Im4gn, Is4gen instances and additional EBS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-expands-torn-write-prevention-ec2-im4gn-is4gen-instances-ebs-regions/)
 - [Launch Amazon SageMaker Model Monitor from SageMaker Model Dashboard](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sagemaker-model-monitor-dashboard/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Analytics is now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-analytics-middle-east-uae-region/)
 - [Amazon Detective launches an interactive workshop for investigating potential security issues](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-interactive-workshop-investigating-security-issues/)
 - [Amazon Connect Cases is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-additional-regions/)
-- [Amazon OpenSearch Service now lets you schedule service software updates during off-peak hours](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-schedule-service-software-updates-off-peak-hours/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

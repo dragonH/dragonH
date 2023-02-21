@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Expands Torn Write Prevention to EC2 Im4gn, Is4gen instances and additional EBS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-expands-torn-write-prevention-ec2-im4gn-is4gen-instances-ebs-regions/)
+- [Announcing AWS Telco Network Builder](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-telco-network-builder/)
+- [Launch Amazon SageMaker Model Monitor from SageMaker Model Dashboard](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sagemaker-model-monitor-dashboard/)
 - [Announcing AWS ParallelCluster 3.5 with a new UI for AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-parallelcluster-cluster-3-5-new-ui/)
 - [Announcing the ability to enable AWS Systems Manager by default across all EC2 instances in an account](https://aws.amazon.com/about-aws/whats-new/2023/02/enable-aws-systems-manager-default-all-ec2-instances-account/)
 - [Amazon Connect Cases now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-aws-privatelink/)
@@ -65,9 +68,6 @@
 - [Amazon Detective launches an interactive workshop for investigating potential security issues](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-interactive-workshop-investigating-security-issues/)
 - [Amazon Connect Cases is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-additional-regions/)
 - [Amazon OpenSearch Service now lets you schedule service software updates during off-peak hours](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-opensearch-service-schedule-service-software-updates-off-peak-hours/)
-- [AWS App Runner adds service level concurrency, CPU and Memory utilization metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-concurrency-cpu-memory-utilization-metrics/)
-- [Amazon Connect launches granular access controls for real-time metrics](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-granular-access-controls-real-time-metrics/)
-- [AWS Incident Detection and Response now supports New Relic integration](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-incident-detection-response-new-relic-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

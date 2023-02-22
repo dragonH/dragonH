@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Smart Data Validation for Amazon Fraud Detector](https://aws.amazon.com/about-aws/whats-new/2023/02/smart-data-validation-amazon-fraud-detector/)
+- [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 3.9](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-synthetics-synthetics-nodejs-runtime-version-3-9/)
 - [Amazon RDS for Oracle now supports early notifications of Auto minor Version Upgrades &lpar;AmVU&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-early-notifications-auto-minor-version-upgrades/)
 - [Announcing AWS Telco Network Builder](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-telco-network-builder/)
 - [AWS Expands Torn Write Prevention to EC2 Im4gn, Is4gen instances and additional EBS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-expands-torn-write-prevention-ec2-im4gn-is4gen-instances-ebs-regions/)
@@ -66,8 +68,6 @@
 - [Announcing the ability to enable AWS Systems Manager by default across all EC2 instances in an account](https://aws.amazon.com/about-aws/whats-new/2023/02/enable-aws-systems-manager-default-all-ec2-instances-account/)
 - [Amazon Connect Cases now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-aws-privatelink/)
 - [Amazon Kinesis Data Analytics is now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-kinesis-data-analytics-middle-east-uae-region/)
-- [Amazon Detective launches an interactive workshop for investigating potential security issues](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-interactive-workshop-investigating-security-issues/)
-- [Amazon Connect Cases is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-connect-cases-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

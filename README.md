@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family announces support for sending AS2 messages over HTTPS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-sending-as2-messages-over-https/)
+- [Amazon QuickSight enables role-based access control to data sources that connect to Amazon S3 and Athena](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-quicksight-role-based-access-control-data-sources-s3-athena/)
+- [Amazon EC2 Hpc6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-hpc6id-instances-additional-regions/)
+- [AWS Transfer Family announces AWS CloudFormation support and enhanced monitoring capabilities for AS2](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-aws-cloudformation-monitoring-capabilities-AS2/)
+- [Amazon Detective adds the ability to export data from Summary page panels and search results](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-export-data-summary-page-panels-search-results/)
+- [AWS Lake Formation is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-aws-asia-pacific-jakarta-region/)
+- [AWS App Runner now supports HTTP to HTTPS redirect](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-https-redirect/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.25](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eks-distro-kubernetes-version-1-25/)
 - [Amazon RDS Custom for Oracle is now available in Canada &lpar;Central&rpar; and South America &lpar;São Paulo&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-custom-oracle-canada-sao-paulo-regions/)
 - [Amazon ECS increases the number of provisioning tasks quota to deliver faster Cluster Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-increases-provisioning-tasks-quota-faster-cluster-auto-scaling/)
-- [Announcing Smart Data Validation for Amazon Fraud Detector](https://aws.amazon.com/about-aws/whats-new/2023/02/smart-data-validation-amazon-fraud-detector/)
-- [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 3.9](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-synthetics-synthetics-nodejs-runtime-version-3-9/)
-- [Amazon RDS for Oracle now supports early notifications of Auto minor Version Upgrades &lpar;AmVU&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-oracle-early-notifications-auto-minor-version-upgrades/)
-- [Announcing AWS Telco Network Builder](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-telco-network-builder/)
-- [AWS Expands Torn Write Prevention to EC2 Im4gn, Is4gen instances and additional EBS regions](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-expands-torn-write-prevention-ec2-im4gn-is4gen-instances-ebs-regions/)
-- [Launch Amazon SageMaker Model Monitor from SageMaker Model Dashboard](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sagemaker-model-monitor-dashboard/)
-- [Announcing AWS ParallelCluster 3.5 with a new UI for AWS ParallelCluster](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-parallelcluster-cluster-3-5-new-ui/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

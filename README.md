@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EMR on EKS adds support for job execution retries](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-job-execution-retries/)
-- [AWS Lambda launches new CloudWatch metrics for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-launches-cloudwatch-metrics-asynchronous-invocations/)
-- [Amazon CloudFront now supports OAC with Elemental MediaStore origins](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudfront-oac-elemental-mediastore-regions/)
-- [AWS Config now supports 20 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-config-20-resource-types/)
-- [AWS Control Tower provides updates to access logging and exceptions to more global services for Region Deny](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-control-tower-logging-exceptions-global-services-region-deny/)
-- [Amazon SNS now supports AWS X-Ray active tracing to visualize, analyze, and debug application performance](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-sns-x-ray-active-tracing-visualize-analyze-debug-application-performance/)
-- [Amazon EMR Serverless now supports HIPAA, HITRUST, SOC, and PCI DSS workloads](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-serverless-hipaa-hitrust-soc-pci-dss-workloads/)
-- [Amazon GameLift expands SDK support to Go and .NET 6](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-gamelift-expands-sdk-support-go-net-6/)
-- [Announcing the general availability of the AWS CRT HTTP Client in the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-crt-http-client-sdk-java-2-x/)
-- [AWS launches AWS SAM connectors as a resource parameter](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-resource-parameter/)
+- [AWS Transfer Family announces support for sending AS2 messages over HTTPS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-sending-as2-messages-over-https/)
+- [Amazon QuickSight enables role-based access control to data sources that connect to Amazon S3 and Athena](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-quicksight-role-based-access-control-data-sources-s3-athena/)
+- [Amazon EC2 Hpc6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-hpc6id-instances-additional-regions/)
+- [AWS Transfer Family announces AWS CloudFormation support and enhanced monitoring capabilities for AS2](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-aws-cloudformation-monitoring-capabilities-AS2/)
+- [Amazon Detective adds the ability to export data from Summary page panels and search results](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-export-data-summary-page-panels-search-results/)
+- [AWS Lake Formation is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-aws-asia-pacific-jakarta-region/)
+- [AWS App Runner now supports HTTP to HTTPS redirect](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-https-redirect/)
+- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.25](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eks-distro-kubernetes-version-1-25/)
+- [Amazon RDS Custom for Oracle is now available in Canada &lpar;Central&rpar; and South America &lpar;São Paulo&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-custom-oracle-canada-sao-paulo-regions/)
+- [Amazon ECS increases the number of provisioning tasks quota to deliver faster Cluster Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-increases-provisioning-tasks-quota-faster-cluster-auto-scaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

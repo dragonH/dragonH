@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-available-aws-govloud-us-regions/)
+- [Amazon RDS for MariaDB adds new disaster recovery &lpar;DR&rpar; capabilities with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mariadb-disaster-recovery-capabilities-cross-region-automated-backups/)
+- [Amazon RDS for MySQL adds new disaster recovery &lpar;DR&rpar; capabilities with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mysql-dr-capabilities-cross-region-automated-backups/)
+- [Amazon EC2 C6in, M6in, M6idn, R6in, and R6idn instances are now available in Asia Pacific &lpar;Tokyo, Singapore&rpar; and AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c6in-m6idn-r6in-r6idn-instances-tokyo-singapore-govcloud-west/)
+- [Amazon CloudWatch RUM now supports customer defined metrics for troubleshooting and monitoring](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-rum-customer-defined-metrics/)
+- [Amazon Forecast now supports built-in holiday data for 251 countries to improve your forecasting accuracy](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-forecast-built-in-holiday-data-251-countries/)
+- [AWS Resilience Hub adds application change capabilities and simplified APIs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-resilience-hub-application-change-capabilities-simplified-apis/)
 - [AWS Transfer Family announces support for sending AS2 messages over HTTPS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-sending-as2-messages-over-https/)
 - [Amazon QuickSight enables role-based access control to data sources that connect to Amazon S3 and Athena](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-quicksight-role-based-access-control-data-sources-s3-athena/)
 - [Amazon EC2 Hpc6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-hpc6id-instances-additional-regions/)
-- [AWS Transfer Family announces AWS CloudFormation support and enhanced monitoring capabilities for AS2](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-aws-cloudformation-monitoring-capabilities-AS2/)
-- [Amazon Detective adds the ability to export data from Summary page panels and search results](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-detective-export-data-summary-page-panels-search-results/)
-- [AWS Lake Formation is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-aws-asia-pacific-jakarta-region/)
-- [AWS App Runner now supports HTTP to HTTPS redirect](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-http-https-redirect/)
-- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.25](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-eks-distro-kubernetes-version-1-25/)
-- [Amazon RDS Custom for Oracle is now available in Canada &lpar;Central&rpar; and South America &lpar;São Paulo&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-custom-oracle-canada-sao-paulo-regions/)
-- [Amazon ECS increases the number of provisioning tasks quota to deliver faster Cluster Auto Scaling](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-increases-provisioning-tasks-quota-faster-cluster-auto-scaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

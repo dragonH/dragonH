@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager for SAP is now generally available, with initial support for backing up SAP HANA databases using AWS Backup](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-sap-generally-available/)
+- [AWS Transit Gateway is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transit-gateway-europe-zurich-region/)
 - [Amazon EMR on EKS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-available-aws-govloud-us-regions/)
 - [Amazon RDS for MariaDB adds new disaster recovery &lpar;DR&rpar; capabilities with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mariadb-disaster-recovery-capabilities-cross-region-automated-backups/)
 - [Amazon RDS for MySQL adds new disaster recovery &lpar;DR&rpar; capabilities with Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mysql-dr-capabilities-cross-region-automated-backups/)
@@ -66,8 +68,6 @@
 - [Amazon Forecast now supports built-in holiday data for 251 countries to improve your forecasting accuracy](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-forecast-built-in-holiday-data-251-countries/)
 - [AWS Resilience Hub adds application change capabilities and simplified APIs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-resilience-hub-application-change-capabilities-simplified-apis/)
 - [AWS Transfer Family announces support for sending AS2 messages over HTTPS](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transfer-family-sending-as2-messages-over-https/)
-- [Amazon QuickSight enables role-based access control to data sources that connect to Amazon S3 and Athena](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-quicksight-role-based-access-control-data-sources-s3-athena/)
-- [Amazon EC2 Hpc6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-hpc6id-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

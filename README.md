@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Catalog now supports the ability to disassociate and delete products in one-action](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-catalog-disassociate-delete-products-one-action/)
+- [SageMaker Autopilot now offers the ability to select algorithms while launching a machine learning training experiment](https://aws.amazon.com/about-aws/whats-new/2023/02/sagemaker-autopilot-select-algorithms-machine-learning-training-experiment/)
 - [Amazon ECS now supports deletion of inactive task definition revisions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-deletion-inactive-task-definition-revisions/)
 - [Amazon CloudWatch Internet Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-internet-monitor-generally-available/)
 - [AWS Lake Formation extends Data Filters to all regions for supported services](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-data-filters-all-regions-supported-services/)
@@ -66,8 +68,6 @@
 - [AWS SAM connectors now supports multiple destinations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-multiple-destinations/)
 - [Announcing Consolidated Control Findings and a Consolidated Controls View for AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-security-hub-consolidated-control-findings-view/)
 - [Amazon EC2 C7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-instances-additional-regions/)
-- [AWS Glue Crawlers now support integration with Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-glue-crawlers-integration-lake-formation/)
-- [Vertical specific bot templates in Lex Console](https://aws.amazon.com/about-aws/whats-new/2023/02/lex-console-vertical-specific-bot-templates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

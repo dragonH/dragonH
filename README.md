@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation extends Data Filters to all regions for supported services](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-data-filters-all-regions-supported-services/)
 - [AWS Security Hub launches 7 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-security-hub-7-security-best-practice-controls/)
 - [AWS App Runner introduces web application firewall &lpar;WAF&rpar; support for enhanced security](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-web-application-firewall-enhanced-security/)
 - [AWS SAM connectors now supports multiple destinations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-multiple-destinations/)
@@ -67,7 +68,6 @@
 - [Vertical specific bot templates in Lex Console](https://aws.amazon.com/about-aws/whats-new/2023/02/lex-console-vertical-specific-bot-templates/)
 - [AWS Systems Manager for SAP is now generally available, with initial support for backing up SAP HANA databases using AWS Backup](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-systems-manager-sap-generally-available/)
 - [AWS Transit Gateway is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-transit-gateway-europe-zurich-region/)
-- [Amazon EMR on EKS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-emr-eks-available-aws-govloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

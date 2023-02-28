@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces general availability of ROLLUP, CUBE, and GROUPING SETS in GROUP BY clause](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-redshift-rollup-cube-grouping-sets-group-by-clause/)
+- [Amazon RDS for PostgreSQL now supports major version PostgreSQL 15](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-major-version-15/)
+- [VMware Cloud on AWS now available in Middle East &lpar;Bahrain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-vmware-cloud-middle-east-bahrain-region/)
+- [AWS Lambda Powertools for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-powertools-net-generally-available/)
 - [Amazon Aurora Serverless v1 now supports customer configurable maintenance windows](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-aurora-serverless-v1-configurable-maintenance-windows/)
 - [AWS Service Catalog now supports the ability to disassociate and delete products in one-action](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-catalog-disassociate-delete-products-one-action/)
 - [SageMaker Autopilot now offers the ability to select algorithms while launching a machine learning training experiment](https://aws.amazon.com/about-aws/whats-new/2023/02/sagemaker-autopilot-select-algorithms-machine-learning-training-experiment/)
 - [Amazon ECS now supports deletion of inactive task definition revisions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-deletion-inactive-task-definition-revisions/)
 - [Amazon CloudWatch Internet Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-internet-monitor-generally-available/)
 - [AWS Lake Formation extends Data Filters to all regions for supported services](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-data-filters-all-regions-supported-services/)
-- [AWS Security Hub launches 7 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-security-hub-7-security-best-practice-controls/)
-- [AWS App Runner introduces web application firewall &lpar;WAF&rpar; support for enhanced security](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-web-application-firewall-enhanced-security/)
-- [AWS SAM connectors now supports multiple destinations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-multiple-destinations/)
-- [Announcing Consolidated Control Findings and a Consolidated Controls View for AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-security-hub-consolidated-control-findings-view/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v1 now supports customer configurable maintenance windows](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-aurora-serverless-v1-configurable-maintenance-windows/)
 - [AWS Service Catalog now supports the ability to disassociate and delete products in one-action](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-catalog-disassociate-delete-products-one-action/)
 - [SageMaker Autopilot now offers the ability to select algorithms while launching a machine learning training experiment](https://aws.amazon.com/about-aws/whats-new/2023/02/sagemaker-autopilot-select-algorithms-machine-learning-training-experiment/)
 - [Amazon ECS now supports deletion of inactive task definition revisions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-deletion-inactive-task-definition-revisions/)
@@ -67,7 +68,6 @@
 - [AWS App Runner introduces web application firewall &lpar;WAF&rpar; support for enhanced security](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-app-runner-web-application-firewall-enhanced-security/)
 - [AWS SAM connectors now supports multiple destinations](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-connectors-multiple-destinations/)
 - [Announcing Consolidated Control Findings and a Consolidated Controls View for AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-security-hub-consolidated-control-findings-view/)
-- [Amazon EC2 C7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ec2-c7g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

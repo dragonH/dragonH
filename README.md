@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports new minor versions 10.6.12, 10.5.19, 10.4.28 and 10.3.38](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mariadb-new-minor-versions/)
+- [AWS Private CA releases open source samples to help create Matter compliant certificate authorities](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-private-ca-open-source-samples-matter-compliant-certificate-authorities/)
+- [AWS SAM CLI announces preview of Rust build support](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-sam-cli-preview-rust-build-support/)
+- [Autocomplete suggestions are now available on AWS Marketplace search](https://aws.amazon.com/about-aws/whats-new/2023/02/autocomplete-suggestions-aws-marketplace-search/)
 - [AWS Lambda now supports Amazon DocumentDB change streams as an event source](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-amazon-documentdb-change-streams-event-source/)
 - [AWS SimSpace Weaver now supports AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-simspace-weaver-iam-identity-center/)
 - [Amazon Redshift announces general availability of ROLLUP, CUBE, and GROUPING SETS in GROUP BY clause](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-redshift-rollup-cube-grouping-sets-group-by-clause/)
 - [Amazon RDS for PostgreSQL now supports major version PostgreSQL 15](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-major-version-15/)
 - [VMware Cloud on AWS now available in Middle East &lpar;Bahrain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-vmware-cloud-middle-east-bahrain-region/)
 - [AWS Lambda Powertools for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-powertools-net-generally-available/)
-- [Amazon Aurora Serverless v1 now supports customer configurable maintenance windows](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-aurora-serverless-v1-configurable-maintenance-windows/)
-- [AWS Service Catalog now supports the ability to disassociate and delete products in one-action](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-catalog-disassociate-delete-products-one-action/)
-- [SageMaker Autopilot now offers the ability to select algorithms while launching a machine learning training experiment](https://aws.amazon.com/about-aws/whats-new/2023/02/sagemaker-autopilot-select-algorithms-machine-learning-training-experiment/)
-- [Amazon ECS now supports deletion of inactive task definition revisions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-deletion-inactive-task-definition-revisions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

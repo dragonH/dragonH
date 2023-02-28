@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports Amazon DocumentDB change streams as an event source](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lambda-amazon-documentdb-change-streams-event-source/)
+- [AWS SimSpace Weaver now supports AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-simspace-weaver-iam-identity-center/)
 - [Amazon Redshift announces general availability of ROLLUP, CUBE, and GROUPING SETS in GROUP BY clause](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-redshift-rollup-cube-grouping-sets-group-by-clause/)
 - [Amazon RDS for PostgreSQL now supports major version PostgreSQL 15](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-major-version-15/)
 - [VMware Cloud on AWS now available in Middle East &lpar;Bahrain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-vmware-cloud-middle-east-bahrain-region/)
@@ -66,8 +68,6 @@
 - [AWS Service Catalog now supports the ability to disassociate and delete products in one-action](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-service-catalog-disassociate-delete-products-one-action/)
 - [SageMaker Autopilot now offers the ability to select algorithms while launching a machine learning training experiment](https://aws.amazon.com/about-aws/whats-new/2023/02/sagemaker-autopilot-select-algorithms-machine-learning-training-experiment/)
 - [Amazon ECS now supports deletion of inactive task definition revisions](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-ecs-deletion-inactive-task-definition-revisions/)
-- [Amazon CloudWatch Internet Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-cloudwatch-internet-monitor-generally-available/)
-- [AWS Lake Formation extends Data Filters to all regions for supported services](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-lake-formation-data-filters-all-regions-supported-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

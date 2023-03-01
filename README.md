@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConvert now Ingests FLAC and Animated GIF Inputs](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-elemental-mediaconvert-ingests-flac-animated-gif-inputs/)
 - [Code scans for Lambda functions within Amazon Inspector now in preview](https://aws.amazon.com/about-aws/whats-new/2023/02/code-scans-lambda-functions-amazon-inspector-preview/)
 - [Amazon RDS for MariaDB supports new minor versions 10.6.12, 10.5.19, 10.4.28 and 10.3.38](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-mariadb-new-minor-versions/)
 - [AWS Private CA releases open source samples to help create Matter compliant certificate authorities](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-private-ca-open-source-samples-matter-compliant-certificate-authorities/)
@@ -67,7 +68,6 @@
 - [AWS SimSpace Weaver now supports AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-simspace-weaver-iam-identity-center/)
 - [Amazon Redshift announces general availability of ROLLUP, CUBE, and GROUPING SETS in GROUP BY clause](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-redshift-rollup-cube-grouping-sets-group-by-clause/)
 - [Amazon RDS for PostgreSQL now supports major version PostgreSQL 15](https://aws.amazon.com/about-aws/whats-new/2023/02/amazon-rds-postgresql-major-version-15/)
-- [VMware Cloud on AWS now available in Middle East &lpar;Bahrain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-vmware-cloud-middle-east-bahrain-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

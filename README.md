@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective adds graph visualization for interactive security investigations](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-graph-visualization-interactive-security-investigations/)
 - [Amazon Aurora MySQL 3.03 &lpar;compatible with MySQL 8.0.26&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-mysql-3-03-compatible-mysql-8-0-26-available/)
 - [Amazon DevOps Guru for RDS supports Proactive Insights](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-devops-guru-rds-proactive-insights/)
 - [Amazon Neptune Serverless now scales down to 1 NCU to save costs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-serverless-scales-down-1-ncu-costs/)
@@ -67,7 +68,6 @@
 - [Amazon EMR Serverless now supports application log encryption with Customer Managed Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-serverless-log-encryption-customer-managed-keys/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; announces general availability of Ethereum Token-Based Access](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-managed-blockchain-ethereum-token-based-access/)
 - [AWS Comprehend simplifies custom model retraining and management](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-comprehend-simplifies-model-retraining-management/)
-- [AWS App Runner is now available in AWS Asia Pacific &lpar;Singapore, Sydney&rpar; and AWS Europe &lpar;Frankfurt&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-app-runner-singapore-frankfurt-sydney-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

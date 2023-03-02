@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Blue/Green Deployments is now available in AWS Asia Pacific &lpar;Hyderabad and Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-blue-green-deployments-hyderabad-melbourne-regions/)
+- [Amazon MSK adds support for Apache Kafka version 3.3.2](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2/)
 - [AWS Step Functions Distributed Map is now available in more Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-step-functions-distributed-map-additional-regions/)
 - [AWS Network Firewall is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-network-firewall-middle-east-uae-region/)
 - [Amazon Timestream now supports batch loading data](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-timestream-supports-batch-loading-data/)
@@ -66,8 +68,6 @@
 - [Amazon Detective adds graph visualization for interactive security investigations](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-graph-visualization-interactive-security-investigations/)
 - [Amazon Aurora MySQL 3.03 &lpar;compatible with MySQL 8.0.26&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-mysql-3-03-compatible-mysql-8-0-26-available/)
 - [Amazon DevOps Guru for RDS supports Proactive Insights](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-devops-guru-rds-proactive-insights/)
-- [Amazon Neptune Serverless now scales down to 1 NCU to save costs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-serverless-scales-down-1-ncu-costs/)
-- [Amazon RDS for SQL Server now supports Cross Region Automated Backups with encryption](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-sql-server-cross-region-automated-backups-encryption/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

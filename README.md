@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-network-firewall-middle-east-uae-region/)
 - [Amazon Timestream now supports batch loading data](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-timestream-supports-batch-loading-data/)
 - [AWS Control Tower announces a progress tracker for landing zone setup and upgrades](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-control-tower-progress-tracker-landing-zone-setup-upgrades/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for MongoDB 5.0 wire protocol and client-side field level encryption](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-documentdb-mongodb-5-0-wire-protocol-client-side-encryption/)
@@ -67,7 +68,6 @@
 - [Amazon Neptune Serverless now scales down to 1 NCU to save costs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-serverless-scales-down-1-ncu-costs/)
 - [Amazon RDS for SQL Server now supports Cross Region Automated Backups with encryption](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-sql-server-cross-region-automated-backups-encryption/)
 - [Amazon Kinesis Data Streams increases On-Demand write throughput limit to 1 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-streams-on-demand-write-throughput-1gb/)
-- [Introducing Amazon Lightsail for Research](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-lightsail-research/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

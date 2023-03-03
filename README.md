@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudShell now supports the modular variant of AWS Tools for PowerShell](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudshell-modular-variant-aws-tools-powershell/)
 - [Amazon OpenSearch Service extends Amazon Graviton2 &lpar;C6g, M6g, R6g&rpar; instances support in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-graviton2-c6g-m6g-rcg-instances-4-regions/)
 - [Amazon RDS Blue/Green Deployments is now available in AWS Asia Pacific &lpar;Hyderabad and Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-blue-green-deployments-hyderabad-melbourne-regions/)
 - [Amazon MSK adds support for Apache Kafka version 3.3.2](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower announces a progress tracker for landing zone setup and upgrades](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-control-tower-progress-tracker-landing-zone-setup-upgrades/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for MongoDB 5.0 wire protocol and client-side field level encryption](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-documentdb-mongodb-5-0-wire-protocol-client-side-encryption/)
 - [Amazon Detective adds graph visualization for interactive security investigations](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-graph-visualization-interactive-security-investigations/)
-- [Amazon Aurora MySQL 3.03 &lpar;compatible with MySQL 8.0.26&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-mysql-3-03-compatible-mysql-8-0-26-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Snowball is now available in the AWS Middle East &lpar;UAE&rpar;  Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-snowball-middle-east-uae-region/)
+- [AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lambda-10-gb-ephemeral-storage-lambda-functions-additional-regions/)
 - [IAM Roles for Amazon EC2 Now Provide Credential Control Properties](https://aws.amazon.com/about-aws/whats-new/2023/03/iam-roles-amazon-ec2-credential-control-properties/)
 - [Amazon EC2 announces the ability to create Amazon Machine Images &lpar;AMIs&rpar; that can boot on UEFI and Legacy BIOS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-create-amis-boot-uefi-legacy-bios/)
 - [Introducing maintenance window feature for AWS IoT Device Management Jobs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-device-management-jobs-maintenance-window-feature/)
@@ -66,8 +68,6 @@
 - [AWS IoT SiteWise now supports Time-Weighted Average and Standard Deviation](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-sitewise-time-weighted-average-standard-deviation/)
 - [AWS CloudShell now supports the modular variant of AWS Tools for PowerShell](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudshell-modular-variant-aws-tools-powershell/)
 - [Amazon OpenSearch Service extends Amazon Graviton2 &lpar;C6g, M6g, R6g&rpar; instances support in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-graviton2-c6g-m6g-rcg-instances-4-regions/)
-- [Amazon RDS Blue/Green Deployments is now available in AWS Asia Pacific &lpar;Hyderabad and Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-blue-green-deployments-hyderabad-melbourne-regions/)
-- [Amazon MSK adds support for Apache Kafka version 3.3.2](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

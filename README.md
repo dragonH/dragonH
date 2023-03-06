@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Roles for Amazon EC2 Now Provide Credential Control Properties](https://aws.amazon.com/about-aws/whats-new/2023/03/iam-roles-amazon-ec2-credential-control-properties/)
+- [Amazon EC2 announces the ability to create Amazon Machine Images &lpar;AMIs&rpar; that can boot on UEFI and Legacy BIOS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-create-amis-boot-uefi-legacy-bios/)
+- [Introducing maintenance window feature for AWS IoT Device Management Jobs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-device-management-jobs-maintenance-window-feature/)
 - [AWS Key Management Service now supports FIPS 140-2 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-key-management-service-fips-140-2-interface-vpc-endpoints/)
 - [AWS announces new AWS Direct Connect location in Hamburg, Germany](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-hamburg-germany/)
 - [AWS IoT SiteWise now supports Time-Weighted Average and Standard Deviation](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-sitewise-time-weighted-average-standard-deviation/)
@@ -65,9 +68,6 @@
 - [Amazon OpenSearch Service extends Amazon Graviton2 &lpar;C6g, M6g, R6g&rpar; instances support in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-graviton2-c6g-m6g-rcg-instances-4-regions/)
 - [Amazon RDS Blue/Green Deployments is now available in AWS Asia Pacific &lpar;Hyderabad and Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-blue-green-deployments-hyderabad-melbourne-regions/)
 - [Amazon MSK adds support for Apache Kafka version 3.3.2](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2/)
-- [AWS Step Functions Distributed Map is now available in more Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-step-functions-distributed-map-additional-regions/)
-- [AWS Network Firewall is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-network-firewall-middle-east-uae-region/)
-- [Amazon Timestream now supports batch loading data](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-timestream-supports-batch-loading-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Migration Hub Refactor Spaces now supports environments without a network bridge](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-migration-hub-refactor-spaces-network-bridge/)
 - [AWS Snowball is now available in the AWS Middle East &lpar;UAE&rpar;  Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-snowball-middle-east-uae-region/)
 - [AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lambda-10-gb-ephemeral-storage-lambda-functions-additional-regions/)
 - [IAM Roles for Amazon EC2 Now Provide Credential Control Properties](https://aws.amazon.com/about-aws/whats-new/2023/03/iam-roles-amazon-ec2-credential-control-properties/)
@@ -67,7 +68,6 @@
 - [AWS announces new AWS Direct Connect location in Hamburg, Germany](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-hamburg-germany/)
 - [AWS IoT SiteWise now supports Time-Weighted Average and Standard Deviation](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-sitewise-time-weighted-average-standard-deviation/)
 - [AWS CloudShell now supports the modular variant of AWS Tools for PowerShell](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudshell-modular-variant-aws-tools-powershell/)
-- [Amazon OpenSearch Service extends Amazon Graviton2 &lpar;C6g, M6g, R6g&rpar; instances support in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-graviton2-c6g-m6g-rcg-instances-4-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

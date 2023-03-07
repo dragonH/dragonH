@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Composer is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-application-composer-generally-available/)
+- [Delegated administrator for AWS Organizations launches in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/delegated-administrator-aws-organizations-aws-govcloud-us-regions/)
+- [AWS Resource Explorer supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-resource-explorer-12-new-resource-types/)
+- [Amazon Redshift Query Editor V2 is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-query-editor-v2-aws-govcloud-us-regions/)
 - [Amazon MSK is now available in Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-middle-east-uae-aws-region/)
 - [Amazon Aurora extends the cross-region disaster recovery capabilities to additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-cross-region-disaster-recovery-capabilities-additional-regions/)
 - [AWS Migration Hub Refactor Spaces now supports environments without a network bridge](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-migration-hub-refactor-spaces-network-bridge/)
 - [AWS Snowball is now available in the AWS Middle East &lpar;UAE&rpar;  Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-snowball-middle-east-uae-region/)
 - [AWS Lambda now supports up to 10 GB of ephemeral storage for Lambda functions in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lambda-10-gb-ephemeral-storage-lambda-functions-additional-regions/)
 - [IAM Roles for Amazon EC2 Now Provide Credential Control Properties](https://aws.amazon.com/about-aws/whats-new/2023/03/iam-roles-amazon-ec2-credential-control-properties/)
-- [Amazon EC2 announces the ability to create Amazon Machine Images &lpar;AMIs&rpar; that can boot on UEFI and Legacy BIOS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-create-amis-boot-uefi-legacy-bios/)
-- [Introducing maintenance window feature for AWS IoT Device Management Jobs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-device-management-jobs-maintenance-window-feature/)
-- [AWS Key Management Service now supports FIPS 140-2 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-key-management-service-fips-140-2-interface-vpc-endpoints/)
-- [AWS announces new AWS Direct Connect location in Hamburg, Germany](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-hamburg-germany/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

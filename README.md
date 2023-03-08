@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL supports minor versions PostgreSQL 14.7, 13.10, 12.14, and 11.19](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-postgresql-support-additional-minor-versions/)
+- [Amazon RDS for MariaDB now supports RDS Optimized Writes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-mariadb-rds-optimized-writes/)
 - [AWS Glue now provides continuous logs in AWS Glue Job Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-continuous-logs-job-monitoring/)
 - [AWS Glue introduces faster and simpler permissions setup](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-faster-simpler-permissions-setup/)
 - [AWS Database Migration Service Fleet Advisor now supports target recommendations](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-fleet-advisor-target-recommendations/)
@@ -66,8 +68,6 @@
 - [Announcing Open Data Maps for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-location-service-open-data-maps/)
 - [Amazon EC2 I3 Bare Metal Instance is now available in the Middle East &lpar;Bahrain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-i3-bare-metal-instance-bahrain-region/)
 - [AWS announces new competition structure for the 2023 Season](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-new-competition-structure-2023-season/)
-- [AWS Glue 4.0 now supports Streaming ETL](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-4-0-streaming-etl/)
-- [AWS Elemental MediaConvert now supports enhanced color processing](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-elemental-mediaconvert-enhanced-color-processing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

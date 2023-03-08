@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Open Data Maps for Amazon Location Service](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-location-service-open-data-maps/)
 - [Amazon EC2 I3 Bare Metal Instance is now available in the Middle East &lpar;Bahrain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-i3-bare-metal-instance-bahrain-region/)
 - [AWS announces new competition structure for the 2023 Season](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-new-competition-structure-2023-season/)
 - [AWS Glue 4.0 now supports Streaming ETL](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-4-0-streaming-etl/)
@@ -67,7 +68,6 @@
 - [AWS Resource Explorer supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-resource-explorer-12-new-resource-types/)
 - [Amazon Redshift Query Editor V2 is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-query-editor-v2-aws-govcloud-us-regions/)
 - [Amazon MSK is now available in Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-middle-east-uae-aws-region/)
-- [Amazon Aurora extends the cross-region disaster recovery capabilities to additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-cross-region-disaster-recovery-capabilities-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

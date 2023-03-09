@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora MySQL-Compatible Edition now supports Microsoft Active Directory authentication](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-mysql-compatible-edition-microsoft-active-directory-authentication/)
 - [Amazon RDS Proxy is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-proxy-asia-pacific-jakarta-region/)
 - [Amazon DynamoDB now supports table deletion protection](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-dynamodb-table-deletion-protection/)
 - [AWS Security Hub launches support for NIST SP 800-53 Rev. 5](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-security-hub-support-nist-sp-800-53-rev-5/)
@@ -67,7 +68,6 @@
 - [AWS Glue now provides continuous logs in AWS Glue Job Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-continuous-logs-job-monitoring/)
 - [AWS Glue introduces faster and simpler permissions setup](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-faster-simpler-permissions-setup/)
 - [AWS Database Migration Service Fleet Advisor now supports target recommendations](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-fleet-advisor-target-recommendations/)
-- [AWS Config now supports 18 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-config-18-new-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

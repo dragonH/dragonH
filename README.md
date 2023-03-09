@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing lower data warehouse base capacity configuration for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/03/lower-data-warehouse-base-capacity-configuration-amazon-redshift-serverless/)
 - [Amazon Aurora MySQL-Compatible Edition now supports Microsoft Active Directory authentication](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-mysql-compatible-edition-microsoft-active-directory-authentication/)
 - [Amazon RDS Proxy is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-proxy-asia-pacific-jakarta-region/)
 - [Amazon DynamoDB now supports table deletion protection](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-dynamodb-table-deletion-protection/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MariaDB now supports RDS Optimized Writes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-mariadb-rds-optimized-writes/)
 - [AWS Glue now provides continuous logs in AWS Glue Job Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-continuous-logs-job-monitoring/)
 - [AWS Glue introduces faster and simpler permissions setup](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-faster-simpler-permissions-setup/)
-- [AWS Database Migration Service Fleet Advisor now supports target recommendations](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-fleet-advisor-target-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

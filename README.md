@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-asia-pacific-melbourne-region/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-prefix-lists-two-regions/)
 - [Amazon SageMaker Data Wrangler now supports Amazon EMR Hive as a big query engine](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-emr-hive-big-query-engine/)
 - [Amazon SES adds email receiving metrics for better visibility and control](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ses-email-receiving-metrics/)
@@ -67,7 +68,6 @@
 - [Amazon MQ now supports RabbitMQ version 3.10.17](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-mq-rabbitmq-version-3-10-17/)
 - [Amazon QuickSight enhances the developer experience with SDK 2.0](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-developer-experience-sdk-2-0/)
 - [Announcing lower data warehouse base capacity configuration for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/03/lower-data-warehouse-base-capacity-configuration-amazon-redshift-serverless/)
-- [Amazon Aurora MySQL-Compatible Edition now supports Microsoft Active Directory authentication](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-mysql-compatible-edition-microsoft-active-directory-authentication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

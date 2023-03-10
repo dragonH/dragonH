@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Wrangler now supports Amazon EMR Hive as a big query engine](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-emr-hive-big-query-engine/)
+- [Amazon SES adds email receiving metrics for better visibility and control](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ses-email-receiving-metrics/)
+- [Announcing Favorites feature to organize AWS Systems Manager documents and runbooks](https://aws.amazon.com/about-aws/whats-new/2023/03/favorites-feature-aws-systems-manager-documents-runbooks/)
+- [AWS License Manager Linux subscriptions expands region and administrator support](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-license-manager-linux-subscriptions-expands-region-administrator-support/)
+- [Amazon Connect launches a new API for customers to access historical metrics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-launches-api-customers-access-historical-metrics/)
 - [Amazon MQ now supports RabbitMQ version 3.10.17](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-mq-rabbitmq-version-3-10-17/)
 - [Amazon QuickSight enhances the developer experience with SDK 2.0](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-developer-experience-sdk-2-0/)
 - [Announcing lower data warehouse base capacity configuration for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/03/lower-data-warehouse-base-capacity-configuration-amazon-redshift-serverless/)
 - [Amazon Aurora MySQL-Compatible Edition now supports Microsoft Active Directory authentication](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-mysql-compatible-edition-microsoft-active-directory-authentication/)
 - [Amazon RDS Proxy is now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-proxy-asia-pacific-jakarta-region/)
-- [Amazon DynamoDB now supports table deletion protection](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-dynamodb-table-deletion-protection/)
-- [AWS Security Hub launches support for NIST SP 800-53 Rev. 5](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-security-hub-support-nist-sp-800-53-rev-5/)
-- [Amazon Redshift now supports 200K tables in a single cluster](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-200K-tables-single-cluster/)
-- [Amazon RDS for PostgreSQL supports minor versions PostgreSQL 14.7, 13.10, 12.14, and 11.19](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-postgresql-support-additional-minor-versions/)
-- [Amazon RDS for MariaDB now supports RDS Optimized Writes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-mariadb-rds-optimized-writes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

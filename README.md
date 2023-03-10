@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports RabbitMQ version 3.10.17](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-mq-rabbitmq-version-3-10-17/)
 - [Amazon QuickSight enhances the developer experience with SDK 2.0](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-developer-experience-sdk-2-0/)
 - [Announcing lower data warehouse base capacity configuration for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/03/lower-data-warehouse-base-capacity-configuration-amazon-redshift-serverless/)
 - [Amazon Aurora MySQL-Compatible Edition now supports Microsoft Active Directory authentication](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-mysql-compatible-edition-microsoft-active-directory-authentication/)
@@ -67,7 +68,6 @@
 - [Amazon Redshift now supports 200K tables in a single cluster](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-200K-tables-single-cluster/)
 - [Amazon RDS for PostgreSQL supports minor versions PostgreSQL 14.7, 13.10, 12.14, and 11.19](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-postgresql-support-additional-minor-versions/)
 - [Amazon RDS for MariaDB now supports RDS Optimized Writes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-mariadb-rds-optimized-writes/)
-- [AWS Glue now provides continuous logs in AWS Glue Job Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-continuous-logs-job-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

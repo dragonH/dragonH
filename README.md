@@ -88,11 +88,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/dragonH/automation-report/pull/5) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
-2. 🎉 Merged PR [#1](https://github.com/dragonH/Get-excel-embed-files/pull/1) in [dragonH/Get-excel-embed-files](https://github.com/dragonH/Get-excel-embed-files)
-3. 🎉 Merged PR [#2](https://github.com/dragonH/sudoku-auto/pull/2) in [dragonH/sudoku-auto](https://github.com/dragonH/sudoku-auto)
-4. 💪 Opened PR [#1](https://github.com/dragonH/personal_reason/pull/1) in [dragonH/personal_reason](https://github.com/dragonH/personal_reason)
-5. 🎉 Merged PR [#22](https://github.com/dragonH/koa-with-typescript/pull/22) in [dragonH/koa-with-typescript](https://github.com/dragonH/koa-with-typescript)
+1. 🎉 Merged PR [#7](https://github.com/dragonH/automation-report/pull/7) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
+2. 🎉 Merged PR [#6](https://github.com/dragonH/automation-report/pull/6) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
+3. 🎉 Merged PR [#2](https://github.com/dragonH/Get-excel-embed-files/pull/2) in [dragonH/Get-excel-embed-files](https://github.com/dragonH/Get-excel-embed-files)
+4. 🎉 Merged PR [#3](https://github.com/dragonH/sudoku-auto/pull/3) in [dragonH/sudoku-auto](https://github.com/dragonH/sudoku-auto)
+5. 🎉 Merged PR [#5](https://github.com/dragonH/automation-report/pull/5) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
 <!--END_SECTION:activity-->
 
 </details>

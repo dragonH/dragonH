@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces new AWS Direct Connect location in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-auckland-new-zealand/)
+- [Amazon Route 53 Resolver endpoints for hybrid cloud announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-ipv6-support/)
 - [Amazon EMR on EKS adds support for emitting customer metrics for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-emitting-customer-metrics-managed-endpoints/)
 - [Amazon EKS is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-asia-pacific-melbourne-region/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-prefix-lists-two-regions/)
@@ -66,8 +68,6 @@
 - [Announcing Favorites feature to organize AWS Systems Manager documents and runbooks](https://aws.amazon.com/about-aws/whats-new/2023/03/favorites-feature-aws-systems-manager-documents-runbooks/)
 - [AWS License Manager Linux subscriptions expands region and administrator support](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-license-manager-linux-subscriptions-expands-region-administrator-support/)
 - [Amazon Connect launches a new API for customers to access historical metrics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-launches-api-customers-access-historical-metrics/)
-- [Amazon MQ now supports RabbitMQ version 3.10.17](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-mq-rabbitmq-version-3-10-17/)
-- [Amazon QuickSight enhances the developer experience with SDK 2.0](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-developer-experience-sdk-2-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

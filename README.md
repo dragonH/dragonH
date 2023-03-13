@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing R6i instances for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2023/03/r6i-instances-amazon-neptune/)
+- [Amazon Neptune announces support for Slow Query Logs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-slow-query-logs/)
+- [Amazon Kinesis Data Firehose is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-firehose-asia-pacific-melbourne-aws-region/)
 - [Amazon Connect Wisdom now supports Microsoft SharePoint Online](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-wisdom-microsoft-sharepoint-online/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-zurich/)
 - [Amazon QuickSight adds hide collapsed columns control for Pivot table](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-hide-collapsed-columns-control-pivot-table/)
@@ -65,9 +68,6 @@
 - [Amazon Redshift adds support for 200K tables](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-200K-tables-single-cluster/)
 - [AWS announces new AWS Direct Connect location in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-auckland-new-zealand/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-ipv6-support/)
-- [Delegated administrator for AWS Organizations launches in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/delegated-administrator-aws-organizations-aws-govcloud-us-regions/)
-- [Amazon EMR on EKS adds support for emitting customer metrics for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-emitting-customer-metrics-managed-endpoints/)
-- [Amazon EKS is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune introduces graph summary API](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-graph-summary-api/)
 - [Announcing R6i instances for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2023/03/r6i-instances-amazon-neptune/)
 - [Amazon Neptune announces support for Slow Query Logs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-slow-query-logs/)
 - [Amazon Kinesis Data Firehose is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-firehose-asia-pacific-melbourne-aws-region/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service now supports OpenSearch version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-opensearch-version-2-5/)
 - [Amazon Redshift adds support for 200K tables](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-200K-tables-single-cluster/)
 - [AWS announces new AWS Direct Connect location in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-auckland-new-zealand/)
-- [Amazon Route 53 Resolver endpoints for hybrid cloud announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-ipv6-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

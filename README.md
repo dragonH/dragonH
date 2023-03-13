@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Wisdom now supports Microsoft SharePoint Online](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-wisdom-microsoft-sharepoint-online/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-zurich/)
 - [Amazon QuickSight adds hide collapsed columns control for Pivot table](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-quicksight-hide-collapsed-columns-control-pivot-table/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-opensearch-version-2-5/)
@@ -67,7 +68,6 @@
 - [Delegated administrator for AWS Organizations launches in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/delegated-administrator-aws-organizations-aws-govcloud-us-regions/)
 - [Amazon EMR on EKS adds support for emitting customer metrics for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-emitting-customer-metrics-managed-endpoints/)
 - [Amazon EKS is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-asia-pacific-melbourne-region/)
-- [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-prefix-lists-two-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

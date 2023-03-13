@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports OpenSearch version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-opensearch-version-2-5/)
 - [Amazon Redshift adds support for 200K tables](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-redshift-200K-tables-single-cluster/)
 - [AWS announces new AWS Direct Connect location in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-auckland-new-zealand/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud announces IPv6 support](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-route-53-resolver-endpoints-hybrid-cloud-ipv6-support/)
@@ -67,7 +68,6 @@
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; Prefix Lists now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-prefix-lists-two-regions/)
 - [Amazon SageMaker Data Wrangler now supports Amazon EMR Hive as a big query engine](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-emr-hive-big-query-engine/)
 - [Amazon SES adds email receiving metrics for better visibility and control](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ses-email-receiving-metrics/)
-- [Announcing Favorites feature to organize AWS Systems Manager documents and runbooks](https://aws.amazon.com/about-aws/whats-new/2023/03/favorites-feature-aws-systems-manager-documents-runbooks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

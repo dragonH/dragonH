@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing an updated console experience for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2023/03/updated-console-amazon-gamelift/)
 - [Amazon Kendra releases Confluence Server Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-server-connector/)
 - [Amazon Kendra releases SharePoint OnPrem Connectors](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-sharepoint-onprem-connectors/)
 - [Amazon Kendra releases Confluence Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-cloud-connector/)
@@ -67,7 +68,6 @@
 - [AWS Data Exchange for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-data-exchange-amazon-s3/)
 - [Introducing Mountpoint for Amazon S3, a high performance open source file client](https://aws.amazon.com/about-aws/whats-new/2023/03/mountpoint-amazon-s3/)
 - [Use S3 Object Lambda with Amazon CloudFront to tailor content for end users](https://aws.amazon.com/about-aws/whats-new/2023/03/s3-object-lambda-amazon-cloudfront-tailor-content-end-users/)
-- [Amazon S3 on Outposts now supports local S3 Replication on Outposts](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-s3-outposts-local-s3-replication-outposts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

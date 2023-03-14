@@ -58,8 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Application Auto Scaling now supports Metric Math for Target Tracking policies](https://aws.amazon.com/about-aws/whats-new/2023/03/application-auto-scaling-metric-math-target-tracking-policies/)
+- [Introducing fine-grained access controls with AWS Lake Formation and Apache Hive on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-apache-hive-emr-fine-grained-access-controls/)
 - [Amazon EC2 M1 Mac instances now support in-place operating system updates](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m1-mac-instances-system-updates-mac-versions/)
-- [Amazon EC2 M6a and C6a instances now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m6a-c6a-instances-sao-paulo-region/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports client-side timestamps](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-keyspace-apache-cassandra-client-side-timestamps/)
 - [Announcing an updated console experience for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2023/03/updated-console-amazon-gamelift/)
 - [Amazon Kendra releases Confluence Server Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-server-connector/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra releases Confluence Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-cloud-connector/)
 - [Amazon OpenSearch Service introduces security analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-security-analytics/)
 - [Announcing cross-account support for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/about-aws/whats-new/2023/03/cross-account-support-amazon-s3-multi-region-access-points/)
-- [Amazon S3 simplifies private connectivity from on-premises networks](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-s3-private-connectivity-on-premises-networks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

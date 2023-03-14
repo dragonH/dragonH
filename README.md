@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service introduces security analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-security-analytics/)
+- [Announcing cross-account support for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/about-aws/whats-new/2023/03/cross-account-support-amazon-s3-multi-region-access-points/)
+- [Amazon S3 simplifies private connectivity from on-premises networks](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-s3-private-connectivity-on-premises-networks/)
 - [AWS Data Exchange for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-data-exchange-amazon-s3/)
 - [Introducing Mountpoint for Amazon S3, a high performance open source file client](https://aws.amazon.com/about-aws/whats-new/2023/03/mountpoint-amazon-s3/)
 - [Use S3 Object Lambda with Amazon CloudFront to tailor content for end users](https://aws.amazon.com/about-aws/whats-new/2023/03/s3-object-lambda-amazon-cloudfront-tailor-content-end-users/)
@@ -65,9 +68,6 @@
 - [Amazon Chime SDK now supports Amazon Voice Focus for carriers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-amazon-voice-focus-carriers/)
 - [Amazon Neptune introduces graph summary API](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-graph-summary-api/)
 - [Announcing R6i instances for Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2023/03/r6i-instances-amazon-neptune/)
-- [Amazon Neptune announces support for Slow Query Logs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-neptune-slow-query-logs/)
-- [Amazon Kinesis Data Firehose is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kinesis-data-firehose-asia-pacific-melbourne-aws-region/)
-- [Amazon Connect Wisdom now supports Microsoft SharePoint Online](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-wisdom-microsoft-sharepoint-online/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

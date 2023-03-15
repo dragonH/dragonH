@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-linux-2023/)
 - [Amazon Kendra releases Microsoft SharePoint Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-microsoft-sharepoint-cloud-connector/)
 - [AWS Storage Gateway is now available in AWS Asia Pacific &lpar;Hyderabad&rpar; and AWS Asia Pacific &lpar;Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-storage-gateway-new-regions/)
 - [Amazon EC2 M6a and C6a instances now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m6a-c6a-instances-sao-paulo-region/)
@@ -67,7 +68,6 @@
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports client-side timestamps](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-keyspace-apache-cassandra-client-side-timestamps/)
 - [Announcing an updated console experience for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2023/03/updated-console-amazon-gamelift/)
 - [Amazon Kendra releases Confluence Server Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-server-connector/)
-- [Amazon Kendra releases SharePoint OnPrem Connectors](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-sharepoint-onprem-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

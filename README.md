@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway is now available in AWS Asia Pacific &lpar;Hyderabad&rpar; and AWS Asia Pacific &lpar;Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-storage-gateway-new-regions/)
+- [Amazon EC2 M6a and C6a instances now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m6a-c6a-instances-sao-paulo-region/)
 - [Application Auto Scaling now supports Metric Math for Target Tracking policies](https://aws.amazon.com/about-aws/whats-new/2023/03/application-auto-scaling-metric-math-target-tracking-policies/)
 - [Introducing fine-grained access controls with AWS Lake Formation and Apache Hive on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-apache-hive-emr-fine-grained-access-controls/)
 - [Amazon EC2 M1 Mac instances now support in-place operating system updates](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m1-mac-instances-system-updates-mac-versions/)
@@ -66,8 +68,6 @@
 - [Amazon Kendra releases Confluence Server Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-server-connector/)
 - [Amazon Kendra releases SharePoint OnPrem Connectors](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-sharepoint-onprem-connectors/)
 - [Amazon Kendra releases Confluence Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-confluence-cloud-connector/)
-- [Amazon OpenSearch Service introduces security analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-opensearch-service-security-analytics/)
-- [Announcing cross-account support for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/about-aws/whats-new/2023/03/cross-account-support-amazon-s3-multi-region-access-points/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

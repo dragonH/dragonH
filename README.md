@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Chatbot now available in Microsoft Teams](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-chatbot-available-microsoft-teams/)
 - [AWS Private CA releases open source samples to help create Matter compliant certificate authorities](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-private-ca-open-source-samples-matter-compliant-certificate-authorities/)
 - [Announcing Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-linux-2023/)
 - [Amazon Kendra releases Microsoft SharePoint Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-microsoft-sharepoint-cloud-connector/)
@@ -67,7 +68,6 @@
 - [Introducing fine-grained access controls with AWS Lake Formation and Apache Hive on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-apache-hive-emr-fine-grained-access-controls/)
 - [Amazon EC2 M1 Mac instances now support in-place operating system updates](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m1-mac-instances-system-updates-mac-versions/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports client-side timestamps](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-keyspace-apache-cassandra-client-side-timestamps/)
-- [Announcing an updated console experience for Amazon GameLift](https://aws.amazon.com/about-aws/whats-new/2023/03/updated-console-amazon-gamelift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

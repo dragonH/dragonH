@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild now supports a small GPU machine type](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-small-gpu-machine-type/)
 - [AWS Cloud Map is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudmap-melbourne-region/)
 - [Amazon GuardDuty RDS Protection for Amazon Aurora is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-rds-protection-aurora-generally-available/)
 - [AWS Chatbot now available in Microsoft Teams](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-chatbot-available-microsoft-teams/)
@@ -67,7 +68,6 @@
 - [AWS Storage Gateway is now available in AWS Asia Pacific &lpar;Hyderabad&rpar; and AWS Asia Pacific &lpar;Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-storage-gateway-new-regions/)
 - [Amazon EC2 M6a and C6a instances now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-m6a-c6a-instances-sao-paulo-region/)
 - [Application Auto Scaling now supports Metric Math for Target Tracking policies](https://aws.amazon.com/about-aws/whats-new/2023/03/application-auto-scaling-metric-math-target-tracking-policies/)
-- [Introducing fine-grained access controls with AWS Lake Formation and Apache Hive on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-apache-hive-emr-fine-grained-access-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

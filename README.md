@@ -58,12 +58,12 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports S3 data validation](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-s3-data-validation/)
 - [Amazon CloudWatch Logs adds support for new Amazon VPC Flow Logs metadata](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-cloudwatch-logs-amazon-vpc-flow-logs-metadata/)
 - [AWS CodeBuild now supports a small GPU machine type](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-small-gpu-machine-type/)
 - [AWS Cloud Map is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudmap-melbourne-region/)
 - [Amazon GuardDuty RDS Protection for Amazon Aurora is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-rds-protection-aurora-generally-available/)
 - [AWS Chatbot now available in Microsoft Teams](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-chatbot-available-microsoft-teams/)
-- [AWS Private CA releases open source samples to help create Matter compliant certificate authorities](https://aws.amazon.com/about-aws/whats-new/2023/02/aws-private-ca-open-source-samples-matter-compliant-certificate-authorities/)
 - [Announcing Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-linux-2023/)
 - [Amazon Kendra releases Microsoft SharePoint Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-microsoft-sharepoint-cloud-connector/)
 - [AWS Storage Gateway is now available in AWS Asia Pacific &lpar;Hyderabad&rpar; and AWS Asia Pacific &lpar;Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-storage-gateway-new-regions/)

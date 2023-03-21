@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-clean-rooms-generally-available/)
+- [Amazon Corretto 20 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-corretto-20/)
 - [Amazon EMR now supports Amazon EC2 C7g &lpar;Graviton3&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-amazon-ec2-c7g-graviton3-instances/)
 - [Amazon Connect launches support for multiple SAML 2.0 identity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-multiple-saml-2-0-identity-providers/)
 - [AWS Backup now supports VMware vSphere 8 and multiple virtual NICs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backups-vmware-vsphere-8-virtual-nics/)
@@ -66,8 +68,6 @@
 - [AWS Migration Hub Strategy Recommendations adds support for binary analysis](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-migration-hub-strategy-recommendations-binary-analysis/)
 - [AWS Database Migration Service now supports S3 data validation](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-s3-data-validation/)
 - [Amazon CloudWatch Logs adds support for new Amazon VPC Flow Logs metadata](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-cloudwatch-logs-amazon-vpc-flow-logs-metadata/)
-- [AWS CodeBuild now supports a small GPU machine type](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-small-gpu-machine-type/)
-- [AWS Cloud Map is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudmap-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

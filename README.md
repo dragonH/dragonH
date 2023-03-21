@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Application Auto Scaling now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2023/03/application-auto-scaling-resource-tagging/)
 - [AWS now allows you to bring your Windows 11 licenses to Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-windows-11-licenses-workspaces/)
 - [Amazon VPC Reachability Analyzer now supports 3 additional AWS networking services](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-reachability-analyzer-3-networking-services/)
 - [AWS Clean Rooms is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-clean-rooms-generally-available/)
@@ -67,7 +68,6 @@
 - [AWS Backup now supports VMware vSphere 8 and multiple virtual NICs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backups-vmware-vsphere-8-virtual-nics/)
 - [AWS Database Migration Service now generates an AWS Glue Data Catalog when migrating to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/)
 - [AWS Transfer Family is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-transfer-family-aws-middle-east-uae-region/)
-- [AWS Migration Hub Strategy Recommendations adds support for binary analysis](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-migration-hub-strategy-recommendations-binary-analysis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

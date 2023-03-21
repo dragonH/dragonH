@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS now allows you to bring your Windows 11 licenses to Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-windows-11-licenses-workspaces/)
+- [Amazon VPC Reachability Analyzer now supports 3 additional AWS networking services](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-reachability-analyzer-3-networking-services/)
 - [AWS Clean Rooms is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-clean-rooms-generally-available/)
 - [Amazon Corretto 20 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-corretto-20/)
 - [Amazon EMR now supports Amazon EC2 C7g &lpar;Graviton3&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-amazon-ec2-c7g-graviton3-instances/)
@@ -66,8 +68,6 @@
 - [AWS Database Migration Service now generates an AWS Glue Data Catalog when migrating to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-aws-glue-data-catalog-amazon-s3/)
 - [AWS Transfer Family is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-transfer-family-aws-middle-east-uae-region/)
 - [AWS Migration Hub Strategy Recommendations adds support for binary analysis](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-migration-hub-strategy-recommendations-binary-analysis/)
-- [AWS Database Migration Service now supports S3 data validation](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-database-migration-service-s3-data-validation/)
-- [Amazon CloudWatch Logs adds support for new Amazon VPC Flow Logs metadata](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-cloudwatch-logs-amazon-vpc-flow-logs-metadata/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

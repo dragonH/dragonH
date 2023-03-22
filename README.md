@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Application Load Balancer now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2023/03/application-load-balancer-tls-1-3/)
 - [Amazon RDS Proxy now supports PostgreSQL major version 15](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-proxy-postgresql-version-15/)
 - [AWS announces new edge location in Peru](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-edge-location-peru/)
 - [Amazon SageMaker Data Wrangler now enables OAuth based access to Snowflake](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-oauth-based-access-snowflake/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C6in, M6in, M6idn, R6in, and R6idn metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-metal-instances/)
 - [AWS announces new AWS Direct Connect location in Muscat, Oman](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-muscat-oman/)
 - [Application Auto Scaling now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2023/03/application-auto-scaling-resource-tagging/)
-- [AWS now allows you to bring your Windows 11 licenses to Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-windows-11-licenses-workspaces/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

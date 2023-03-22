@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Wrangler now enables OAuth based access to Snowflake](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-data-wrangler-oauth-based-access-snowflake/)
+- [AWS Security Hub is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-security-hub-available-additional-aws-regions/)
+- [VPC DNS Query Logging Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/vpc-dns-query-logging-asia-pacific-jakarta-region/)
+- [AWS CloudFormation language extensions transform is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloudformation-language-extensions-transform-5-regions/)
 - [Amazon EC2 C6in, M6in, M6idn, R6in, and R6idn metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-metal-instances/)
 - [AWS announces new AWS Direct Connect location in Muscat, Oman](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-muscat-oman/)
 - [Application Auto Scaling now supports resource tagging](https://aws.amazon.com/about-aws/whats-new/2023/03/application-auto-scaling-resource-tagging/)
 - [AWS now allows you to bring your Windows 11 licenses to Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-windows-11-licenses-workspaces/)
 - [Amazon VPC Reachability Analyzer now supports 3 additional AWS networking services](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-vpc-reachability-analyzer-3-networking-services/)
 - [AWS Clean Rooms is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-clean-rooms-generally-available/)
-- [Amazon Corretto 20 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-corretto-20/)
-- [Amazon EMR now supports Amazon EC2 C7g &lpar;Graviton3&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-amazon-ec2-c7g-graviton3-instances/)
-- [Amazon Connect launches support for multiple SAML 2.0 identity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-multiple-saml-2-0-identity-providers/)
-- [AWS Backup now supports VMware vSphere 8 and multiple virtual NICs](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backups-vmware-vsphere-8-virtual-nics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SNS announces support for setting content-type request headers for HTTP/S notifications](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-content-type-request-headers-http-s-notifications/)
 - [Announcing per-second billing for all Amazon GameLift instances](https://aws.amazon.com/about-aws/whats-new/2023/03/per-second-billing-amazon-gamelift-instances/)
 - [Allow Listing tool for testing new Billing, Cost Management and Account console permissions](https://aws.amazon.com/about-aws/whats-new/2023/03/allow-listing-tool-testing-billing-cost-management-account-console-permissions/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-documentdb-mongodb-compatibility-elastic-clusters-3-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Security Lake &lpar;Preview&rpar; is now available in three additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-security-lake-preview-three-regions/)
 - [AWS Backup for Amazon S3 is now available in Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;UAE&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backup-s3-jakarta-uae-regions/)
 - [AWS Resilience Hub adds support for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-resilience-hub-amazon-eks/)
-- [AWS Batch launches support for configurable Ephemeral Storage on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-configurable-ephemeral-storage-fargate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS provides contextual failure reasons for troubleshooting task launches with capacity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ecs-contextual-task-launches-capacity-providers/)
+- [Amazon IVS now supports multiple hosts in live streams](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ivs-multiple-hosts-live-streams/)
+- [AWS announces a new guided Amazon Redshift getting started experience](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-guided-amazon-redshift-getting-started-experience/)
 - [Amazon SNS announces support for setting content-type request headers for HTTP/S notifications](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-content-type-request-headers-http-s-notifications/)
 - [Announcing per-second billing for all Amazon GameLift instances](https://aws.amazon.com/about-aws/whats-new/2023/03/per-second-billing-amazon-gamelift-instances/)
 - [Allow Listing tool for testing new Billing, Cost Management and Account console permissions](https://aws.amazon.com/about-aws/whats-new/2023/03/allow-listing-tool-testing-billing-cost-management-account-console-permissions/)
@@ -65,9 +68,6 @@
 - [AWS Service Catalog now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-service-catalog-aws-middle-east-uae-region/)
 - [AWS IoT TwinMaker is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-twinmaker-aws-govcloud-us-west-region/)
 - [Amazon Aurora cross-region disaster recovery capabilities now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-cross-region-disaster-recovery-capabilities-melbourne/)
-- [Amazon Security Lake &lpar;Preview&rpar; is now available in three additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-security-lake-preview-three-regions/)
-- [AWS Backup for Amazon S3 is now available in Asia Pacific &lpar;Jakarta&rpar; and Middle East &lpar;UAE&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-backup-s3-jakarta-uae-regions/)
-- [AWS Resilience Hub adds support for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-resilience-hub-amazon-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

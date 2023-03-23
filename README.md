@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the latest release of AWS Thinkbox Deadline 10.2](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-thinkbox-deadline-10-2/)
 - [Amazon ECS provides contextual failure reasons for troubleshooting task launches with capacity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ecs-contextual-task-launches-capacity-providers/)
 - [Amazon IVS now supports multiple hosts in live streams](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ivs-multiple-hosts-live-streams/)
 - [AWS announces a new guided Amazon Redshift getting started experience](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-guided-amazon-redshift-getting-started-experience/)
@@ -67,7 +68,6 @@
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-documentdb-mongodb-compatibility-elastic-clusters-3-additional-regions/)
 - [AWS Service Catalog now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-service-catalog-aws-middle-east-uae-region/)
 - [AWS IoT TwinMaker is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-twinmaker-aws-govcloud-us-west-region/)
-- [Amazon Aurora cross-region disaster recovery capabilities now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-aurora-cross-region-disaster-recovery-capabilities-melbourne/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

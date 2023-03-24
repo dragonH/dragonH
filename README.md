@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective announces increased quota limits for data volumes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-quota-limits-data-volumes/)
 - [Analyze log patterns, metrics and Jaeger traces with new observability features in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/03/log-patterns-metrics-jaeger-traces-amazon-opensearch-service/)
 - [AWS Batch launches support for configurable Ephemeral Storage on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-configurable-ephemeral-storage-fargate/)
 - [Announcing the latest release of AWS Thinkbox Deadline 10.2](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-thinkbox-deadline-10-2/)
@@ -67,7 +68,6 @@
 - [Amazon SNS announces support for setting content-type request headers for HTTP/S notifications](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-content-type-request-headers-http-s-notifications/)
 - [Announcing per-second billing for all Amazon GameLift instances](https://aws.amazon.com/about-aws/whats-new/2023/03/per-second-billing-amazon-gamelift-instances/)
 - [Allow Listing tool for testing new Billing, Cost Management and Account console permissions](https://aws.amazon.com/about-aws/whats-new/2023/03/allow-listing-tool-testing-billing-cost-management-account-console-permissions/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-documentdb-mongodb-compatibility-elastic-clusters-3-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

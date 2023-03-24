@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Tasks now supports custom task templates in flows](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-tasks-custom-templates-flow/)
 - [Amazon EMR on EKS adds managed and self-managed node groups support for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-managed-node-groups-endpoints/)
 - [Amazon EMR on EKS adds support for JEG pod placement for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-jeg-pod-placement-managed-endpoints/)
 - [Amazon MSK adds support for Apache Kafka version 3.3.2 in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Announcing the latest release of AWS Thinkbox Deadline 10.2](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-thinkbox-deadline-10-2/)
 - [Amazon ECS provides contextual failure reasons for troubleshooting task launches with capacity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ecs-contextual-task-launches-capacity-providers/)
 - [Amazon IVS now supports multiple hosts in live streams](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ivs-multiple-hosts-live-streams/)
-- [AWS announces a new guided Amazon Redshift getting started experience](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-guided-amazon-redshift-getting-started-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

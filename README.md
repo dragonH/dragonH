@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds support for Apache Kafka version 3.3.2 in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2-aws-govcloud-us-regions/)
 - [Amazon Detective announces increased quota limits for data volumes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-quota-limits-data-volumes/)
 - [Analyze log patterns, metrics and Jaeger traces with new observability features in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/03/log-patterns-metrics-jaeger-traces-amazon-opensearch-service/)
 - [AWS Batch launches support for configurable Ephemeral Storage on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-configurable-ephemeral-storage-fargate/)
@@ -67,7 +68,6 @@
 - [AWS announces a new guided Amazon Redshift getting started experience](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-guided-amazon-redshift-getting-started-experience/)
 - [Amazon SNS announces support for setting content-type request headers for HTTP/S notifications](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-content-type-request-headers-http-s-notifications/)
 - [Announcing per-second billing for all Amazon GameLift instances](https://aws.amazon.com/about-aws/whats-new/2023/03/per-second-billing-amazon-gamelift-instances/)
-- [Allow Listing tool for testing new Billing, Cost Management and Account console permissions](https://aws.amazon.com/about-aws/whats-new/2023/03/allow-listing-tool-testing-billing-cost-management-account-console-permissions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

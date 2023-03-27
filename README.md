@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK launches call analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-call-analytics/)
+- [AWS MGN now supports inventory import and export, server status dashboard, and new modernization actions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-mgn-inventory-import-export-server-status-dashboard-modernization-actions/)
+- [Amazon Chime SDK now supports Amazon Lex chatbots](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-amazon-lex-chatbots/)
 - [Amazon Connect Tasks now supports custom task templates in flows](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-tasks-custom-templates-flow/)
 - [Amazon EMR on EKS adds managed and self-managed node groups support for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-managed-node-groups-endpoints/)
 - [Amazon EMR on EKS adds support for JEG pod placement for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-jeg-pod-placement-managed-endpoints/)
@@ -65,9 +68,6 @@
 - [Amazon Detective announces increased quota limits for data volumes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-quota-limits-data-volumes/)
 - [Analyze log patterns, metrics and Jaeger traces with new observability features in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/03/log-patterns-metrics-jaeger-traces-amazon-opensearch-service/)
 - [AWS Batch launches support for configurable Ephemeral Storage on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-configurable-ephemeral-storage-fargate/)
-- [Announcing the latest release of AWS Thinkbox Deadline 10.2](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-thinkbox-deadline-10-2/)
-- [Amazon ECS provides contextual failure reasons for troubleshooting task launches with capacity providers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ecs-contextual-task-launches-capacity-providers/)
-- [Amazon IVS now supports multiple hosts in live streams](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ivs-multiple-hosts-live-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

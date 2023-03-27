@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawler now supports enhanced crawl capabilities in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-crawler-crawl-capabilities-aws-govcloud-regions/)
 - [Automate JAVA Stack deployment with AWS Launch Wizard for SAP](https://aws.amazon.com/about-aws/whats-new/2023/03/automate-java-stack-deployment-aws-launch-wizard-sap/)
 - [Amazon Chime SDK launches call analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-call-analytics/)
 - [AWS MGN now supports inventory import and export, server status dashboard, and new modernization actions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-mgn-inventory-import-export-server-status-dashboard-modernization-actions/)
@@ -67,7 +68,6 @@
 - [Amazon EMR on EKS adds support for JEG pod placement for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-jeg-pod-placement-managed-endpoints/)
 - [Amazon MSK adds support for Apache Kafka version 3.3.2 in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2-aws-govcloud-us-regions/)
 - [Amazon Detective announces increased quota limits for data volumes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-quota-limits-data-volumes/)
-- [Analyze log patterns, metrics and Jaeger traces with new observability features in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/03/log-patterns-metrics-jaeger-traces-amazon-opensearch-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now provides step-by-step guides in agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-step-by-step-guides-agent-workspace/)
 - [AWS Glue Crawler now supports enhanced crawl capabilities in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-crawler-crawl-capabilities-aws-govcloud-regions/)
 - [Automate JAVA Stack deployment with AWS Launch Wizard for SAP](https://aws.amazon.com/about-aws/whats-new/2023/03/automate-java-stack-deployment-aws-launch-wizard-sap/)
 - [Amazon Chime SDK launches call analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-call-analytics/)
@@ -67,7 +68,6 @@
 - [Amazon EMR on EKS adds managed and self-managed node groups support for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-managed-node-groups-endpoints/)
 - [Amazon EMR on EKS adds support for JEG pod placement for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-emr-eks-jeg-pod-placement-managed-endpoints/)
 - [Amazon MSK adds support for Apache Kafka version 3.3.2 in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-msk-apache-kafka-version-3-3-2-aws-govcloud-us-regions/)
-- [Amazon Detective announces increased quota limits for data volumes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-detective-quota-limits-data-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GuardDuty simplifies enforcement of threat detection across all accounts in an Organization](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-enforcement-threat-detection-organization/)
 - [Amazon SageMaker is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-europe-zurich-region/)
 - [AWS CodeBuild supports Arm-based workloads in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-arm-based-workloads-additional-regions/)
 - [AWS Systems Manager Incident Manager announces the launch of on-call schedules](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-systems-manager-on-call-schedules/)
@@ -67,7 +68,6 @@
 - [Amazon Athena adds minimum encryption to enhance query result security](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-athena-minimum-encryption-query-result-security/)
 - [AWS IoT Core deepens integration with Amazon Sidewalk](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-core-deepens-integration-amazon-sidewalk/)
 - [AWS Cost Anomaly Detection now automatically configured for all new Cost Explorer users](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cost-anomaly-detection-configured-cost-explorer-users/)
-- [Amazon EKS adds domainless gMSA authentication for Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-domainless-gmsa-authentication-windows-containers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core deepens integration with Amazon Sidewalk](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-core-deepens-integration-amazon-sidewalk/)
 - [AWS Cost Anomaly Detection now automatically configured for all new Cost Explorer users](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cost-anomaly-detection-configured-cost-explorer-users/)
 - [Amazon EKS adds domainless gMSA authentication for Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eks-domainless-gmsa-authentication-windows-containers/)
 - [Amazon EC2 High Memory instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-high-memory-instances-aws-govlcoud-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Chime SDK launches call analytics](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-call-analytics/)
 - [AWS MGN now supports inventory import and export, server status dashboard, and new modernization actions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-mgn-inventory-import-export-server-status-dashboard-modernization-actions/)
 - [Amazon Chime SDK now supports Amazon Lex chatbots](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-chime-sdk-amazon-lex-chatbots/)
-- [Amazon Connect Tasks now supports custom task templates in flows](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-tasks-custom-templates-flow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Python SDK now supports setting default values for parameters](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-python-sdk-default-values-parameters/)
 - [AWS announces Amazon DataZone &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-amazon-datazone-preview/)
 - [Amazon Translate launches Batch Translation in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-translate-batch-translation-eight-regions/)
 - [Amazon EC2 C6in instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-instances-additional-regions/)
@@ -67,7 +68,6 @@
 - [AWS CodeBuild supports Arm-based workloads in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-codebuild-arm-based-workloads-additional-regions/)
 - [AWS Systems Manager Incident Manager announces the launch of on-call schedules](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-systems-manager-on-call-schedules/)
 - [NICE DCV releases version 2023.0 with support for Red Hat Enterprise Linux 9](https://aws.amazon.com/about-aws/whats-new/2023/03/nice-dcv-2023-0-red-hat-enterprise-linux9/)
-- [AWS Copilot adds support for full customization with AWS CDK or YAML overrides](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-copilot-customization-cdk-yaml-overrides/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

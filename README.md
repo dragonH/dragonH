@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon DataZone &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-amazon-datazone-preview/)
+- [Amazon Translate launches Batch Translation in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-translate-batch-translation-eight-regions/)
+- [Amazon EC2 C6in instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-c6in-instances-additional-regions/)
 - [AWS Application Migration Service is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-application-migration-service-middle-east-uae-region/)
 - [Amazon GuardDuty simplifies enforcement of threat detection across all accounts in an Organization](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-enforcement-threat-detection-organization/)
 - [Amazon SageMaker is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-europe-zurich-region/)
@@ -65,9 +68,6 @@
 - [AWS Systems Manager Incident Manager announces the launch of on-call schedules](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-systems-manager-on-call-schedules/)
 - [NICE DCV releases version 2023.0 with support for Red Hat Enterprise Linux 9](https://aws.amazon.com/about-aws/whats-new/2023/03/nice-dcv-2023-0-red-hat-enterprise-linux9/)
 - [AWS Copilot adds support for full customization with AWS CDK or YAML overrides](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-copilot-customization-cdk-yaml-overrides/)
-- [Bottlerocket adds support for FireLens](https://aws.amazon.com/about-aws/whats-new/2023/03/bottlerocket-support-firelens/)
-- [Amazon Athena adds minimum encryption to enhance query result security](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-athena-minimum-encryption-query-result-security/)
-- [AWS IoT Core deepens integration with Amazon Sidewalk](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-iot-core-deepens-integration-amazon-sidewalk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

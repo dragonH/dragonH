@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena for Apache Spark is now available in 4 new regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-athena-apache-spark-4-regions/)
+- [AWS Network Firewall announces support for ingress TLS inspection](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-network-firewall-support-ingress-tls-inspection/)
+- [AWS Chatbot now supports search of AWS resources and AWS content](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-chatbot-search-resources-content/)
+- [AWS Compute Optimizer now supports 61 new EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-new-ec2-instance-types/)
 - [AWS Well-Architected Tool Announces Consolidated Report and Enhanced Search functionality](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-well-architected-tool-consolidated-report-enhanced-search/)
 - [Amazon EC2 High Memory instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-high-memory-instances-aws-govcloud-regions/)
 - [AWS WickrGov now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-wickrgov-govcloud-us-west-region/)
 - [Announcing the ACK Controllers for Amazon EventBridge and Pipes](https://aws.amazon.com/about-aws/whats-new/2023/03/ack-controllers-amazon-eventbridge-pipes/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 22.2](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-oracle-apex-version-22-2/)
 - [AWS Batch now supports user-defined pod labels on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-user-defined-pod-labels-amazon-eks/)
-- [Amazon SNS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-extended-client-library-python/)
-- [AWS Elastic Disaster Recovery supports automated replication of new disks](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-elastic-disaster-recovery-automated-replication-disks/)
-- [Amazon EC2 R5b instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-r5b-instances-additional-regions/)
-- [AWS Lake Formation now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-available-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudFront announces support for HTTP status and response generation using CloudFront Functions](https://aws.amazon.com/about-aws/whats-new/2023/03/http-status-response-generation-cloudfront-functions/)
-- [AWS re:Post now includes AWS Knowledge Center articles](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-re-post-includes-knowledge-center-articles/)
-- [AWS Service Catalog is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-service-catalog-four-regions/)
-- [AWS WAF is now available in the Zurich, Spain, Hyderabad, and Melbourne regions](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-waf-additional-regions/)
-- [AWS DataSync now supports copying data from Azure Blob Storage &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-datasync-copying-data-azure-blob-storage-preview/)
-- [AWS Toolkits for JetBrains and VS Code now support AWS SAM Accelerate to speed up application iteration](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-toolkits-jetbrains-vs-code-sam-accelerate/)
-- [Amazon SageMaker is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-europe-spain-region/)
-- [Amazon SageMaker Python SDK now supports setting default values for parameters](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-python-sdk-default-values-parameters/)
-- [AWS announces Amazon DataZone &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-amazon-datazone-preview/)
-- [Amazon Translate launches Batch Translation in eight additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-translate-batch-translation-eight-regions/)
+- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 22.2](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-oracle-apex-version-22-2/)
+- [AWS Batch now supports user-defined pod labels on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-user-defined-pod-labels-amazon-eks/)
+- [Amazon SNS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-extended-client-library-python/)
+- [AWS Elastic Disaster Recovery supports automated replication of new disks](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-elastic-disaster-recovery-automated-replication-disks/)
+- [AWS Wickr now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-wickr-govcloud-us-west-region/)
+- [Amazon EC2 R5b instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-r5b-instances-additional-regions/)
+- [AWS Lake Formation now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-available-middle-east-uae-region/)
+- [Amazon Connect launches expanded JSON attribute support in flows](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-json-attribute-support-flows/)
+- [Amazon RDS Custom now supports new General Purpose gp3 storage volumes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-custom-general-purpose-gp3-storage-volumes/)
+- [Amazon Omics now enables batch variant store imports](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-omics-batch-variant-store-imports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Kendra launches Featured Results](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-featured-results/)
+- [AWS Site-to-Site VPN adds support for better visibility and control of VPN tunnel maintenance updates](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-site-vpn-visibility-control-tunnel-maintenance-updates/)
+- [Amazon GuardDuty now monitors runtime activity from containers running on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-monitors-runtime-activity-containers-eks/)
 - [AWS Compute Optimizer now supports HDD and io2 Block Express EBS volume types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-hdd-io2-block-express-ebs-voulme-types/)
-- [Amazon SageMaker Canvas now supports NLP and CV use cases](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-canvas-nlp-cv-use-cases/)
+- [Amazon EventBridge Scheduler is now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eventbridge-scheduler-18-regions/)
+- [Amazon Kendra launches Featured Results](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-featured-results/)
 - [EC2 Image Builder adds real-time build tracking and improves build speeds for image pipelines](https://aws.amazon.com/about-aws/whats-new/2023/03/ec2-image-builder-real-time-build-tracking-build-speeds-image-pipelines/)
 - [AWS Compute Optimizer now supports EC2 instances with non-consecutive utilization data](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-ec2-instances-non-consecutive-utilization-data/)
 - [Amazon DevOps Guru for RDS supports RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-devops-guru-rds-postgresql/)
 - [Amazon Athena for Apache Spark is now available in 4 new regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-athena-apache-spark-4-regions/)
 - [AWS Network Firewall announces support for ingress TLS inspection](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-network-firewall-support-ingress-tls-inspection/)
-- [AWS Chatbot now supports search of AWS resources and AWS content](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-chatbot-search-resources-content/)
-- [AWS Compute Optimizer now supports 61 new EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-new-ec2-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

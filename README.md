@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WickrGov now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-wickrgov-govcloud-us-west-region/)
+- [Announcing the ACK Controllers for Amazon EventBridge and Pipes](https://aws.amazon.com/about-aws/whats-new/2023/03/ack-controllers-amazon-eventbridge-pipes/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 22.2](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-oracle-apex-version-22-2/)
 - [AWS Batch now supports user-defined pod labels on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-batch-user-defined-pod-labels-amazon-eks/)
 - [Amazon SNS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sns-extended-client-library-python/)
 - [AWS Elastic Disaster Recovery supports automated replication of new disks](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-elastic-disaster-recovery-automated-replication-disks/)
-- [AWS Wickr now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-wickr-govcloud-us-west-region/)
 - [Amazon EC2 R5b instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-ec2-r5b-instances-additional-regions/)
 - [AWS Lake Formation now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-lake-formation-available-middle-east-uae-region/)
 - [Amazon Connect launches expanded JSON attribute support in flows](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-connect-json-attribute-support-flows/)
 - [Amazon RDS Custom now supports new General Purpose gp3 storage volumes](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-rds-custom-general-purpose-gp3-storage-volumes/)
-- [Amazon Omics now enables batch variant store imports](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-omics-batch-variant-store-imports/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

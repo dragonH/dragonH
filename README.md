@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces new AWS Direct Connect location in Mumbai, India](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-mumbai-india/)
+- [AWS Cloud Map enables service editing in AWS Console](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloud-map-service-editing-console/)
+- [Console Toolbar is now generally available for AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2023/03/console-toolbar-generally-available-aws-cloudshell/)
 - [AWS Glue Studio visual ETL adds 10 new visual transforms](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-studio-visual-etl-new-visual-transforms/)
 - [Service Quotas is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/service-quotas-additional-regions/)
 - [Amazon Managed Service for Prometheus supports 500M active metrics per workspace](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-managed-service-prometheus-500m-metrics-workspace/)
 - [AWS Blu Insights enhances user access with single sign-on](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-blu-insights-user-access-single-sign-on/)
 - [Announcing the general availability of Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/03/general-availability-amazon-vpc-lattice/)
-- [AWS Site-to-Site VPN adds support for better visibility and control of VPN tunnel maintenance updates](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-site-vpn-visibility-control-tunnel-maintenance-updates/)
-- [Amazon GuardDuty now monitors runtime activity from containers running on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-monitors-runtime-activity-containers-eks/)
 - [Amazon SageMaker Canvas now supports NLP and CV use cases](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-canvas-nlp-cv-use-cases/)
-- [AWS Compute Optimizer now supports HDD and io2 Block Express EBS volume types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-hdd-io2-block-express-ebs-voulme-types/)
-- [Amazon EventBridge Scheduler is now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eventbridge-scheduler-18-regions/)
+- [AWS Site-to-Site VPN adds support for better visibility and control of VPN tunnel maintenance updates](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-site-vpn-visibility-control-tunnel-maintenance-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Simple Email Service now detects gaps in BIMI configuration](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-detects-gaps-bimi-configuration/)
+- [Amazon Simple Email Service now supports delivery and engagement graphs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-delivery-engagement-graphs/)
 - [AWS announces new AWS Direct Connect location in Mumbai, India](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-mumbai-india/)
 - [AWS Cloud Map enables service editing in AWS Console](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-cloud-map-service-editing-console/)
 - [Console Toolbar is now generally available for AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2023/03/console-toolbar-generally-available-aws-cloudshell/)
@@ -66,8 +68,6 @@
 - [Amazon Managed Service for Prometheus supports 500M active metrics per workspace](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-managed-service-prometheus-500m-metrics-workspace/)
 - [AWS Blu Insights enhances user access with single sign-on](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-blu-insights-user-access-single-sign-on/)
 - [Announcing the general availability of Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/03/general-availability-amazon-vpc-lattice/)
-- [Amazon SageMaker Canvas now supports NLP and CV use cases](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-canvas-nlp-cv-use-cases/)
-- [AWS Site-to-Site VPN adds support for better visibility and control of VPN tunnel maintenance updates](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-site-vpn-visibility-control-tunnel-maintenance-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

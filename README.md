@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager now offers improved license visibility and distribution across your organization](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-license-manager-license-visibility-distribution-organization/)
 - [Amazon Simple Email Service now detects gaps in BIMI configuration](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-detects-gaps-bimi-configuration/)
 - [Amazon Simple Email Service now supports delivery and engagement graphs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-delivery-engagement-graphs/)
 - [AWS announces new AWS Direct Connect location in Mumbai, India](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-mumbai-india/)
@@ -67,7 +68,6 @@
 - [Service Quotas is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/service-quotas-additional-regions/)
 - [Amazon Managed Service for Prometheus supports 500M active metrics per workspace](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-managed-service-prometheus-500m-metrics-workspace/)
 - [AWS Blu Insights enhances user access with single sign-on](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-blu-insights-user-access-single-sign-on/)
-- [Announcing the general availability of Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/03/general-availability-amazon-vpc-lattice/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

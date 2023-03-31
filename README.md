@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio visual ETL adds 10 new visual transforms](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-glue-studio-visual-etl-new-visual-transforms/)
+- [Service Quotas is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/03/service-quotas-additional-regions/)
 - [Amazon Managed Service for Prometheus supports 500M active metrics per workspace](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-managed-service-prometheus-500m-metrics-workspace/)
 - [AWS Blu Insights enhances user access with single sign-on](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-blu-insights-user-access-single-sign-on/)
 - [Announcing the general availability of Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/03/general-availability-amazon-vpc-lattice/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Canvas now supports NLP and CV use cases](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-sagemaker-canvas-nlp-cv-use-cases/)
 - [AWS Compute Optimizer now supports HDD and io2 Block Express EBS volume types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-hdd-io2-block-express-ebs-voulme-types/)
 - [Amazon EventBridge Scheduler is now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eventbridge-scheduler-18-regions/)
-- [Amazon Kendra launches Featured Results](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-featured-results/)
-- [EC2 Image Builder adds real-time build tracking and improves build speeds for image pipelines](https://aws.amazon.com/about-aws/whats-new/2023/03/ec2-image-builder-real-time-build-tracking-build-speeds-image-pipelines/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

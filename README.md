@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Prometheus supports 500M active metrics per workspace](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-managed-service-prometheus-500m-metrics-workspace/)
+- [AWS Blu Insights enhances user access with single sign-on](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-blu-insights-user-access-single-sign-on/)
 - [Announcing the general availability of Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/03/general-availability-amazon-vpc-lattice/)
 - [AWS Site-to-Site VPN adds support for better visibility and control of VPN tunnel maintenance updates](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-site-vpn-visibility-control-tunnel-maintenance-updates/)
 - [Amazon GuardDuty now monitors runtime activity from containers running on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-guardduty-monitors-runtime-activity-containers-eks/)
@@ -66,8 +68,6 @@
 - [Amazon EventBridge Scheduler is now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-eventbridge-scheduler-18-regions/)
 - [Amazon Kendra launches Featured Results](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-kendra-featured-results/)
 - [EC2 Image Builder adds real-time build tracking and improves build speeds for image pipelines](https://aws.amazon.com/about-aws/whats-new/2023/03/ec2-image-builder-real-time-build-tracking-build-speeds-image-pipelines/)
-- [AWS Compute Optimizer now supports EC2 instances with non-consecutive utilization data](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-ec2-instances-non-consecutive-utilization-data/)
-- [Amazon DevOps Guru for RDS supports RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-devops-guru-rds-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

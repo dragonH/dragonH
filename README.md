@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA now supports Shell Launch Scripts](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-shell-launch-scripts/)
+- [Announcing policies validations during synthesis time with AWS Cloud Development Kit &lpar;CDK&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-development-kit-cdk-policies-validations/)
+- [Import data from 45+ sources for no-code ML with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-canvas-import-data-no-code-ml/)
 - [The sixth generation of Amazon EC2 instances powered by AMD processors now support faster Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2023/04/sixth-generation-amazon-ec2-instances-ebs-optimized-instance-performance/)
 - [Amazon ElastiCache for Redis simplifies creating new clusters in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-redis-clusters-management-console/)
 - [Amazon SWF now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-swf-aws-privatelink/)
@@ -65,9 +68,6 @@
 - [Amazon Textract announces updates to the AnalyzeDocument - Tables feature](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-analyzedocument-tables-feature/)
 - [AWS License Manager now offers improved license visibility and distribution across your organization](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-license-manager-license-visibility-distribution-organization/)
 - [Amazon Simple Email Service now detects gaps in BIMI configuration](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-detects-gaps-bimi-configuration/)
-- [Amazon Simple Email Service now supports delivery and engagement graphs](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-delivery-engagement-graphs/)
-- [AWS Compute Optimizer now supports EC2 instances with non-consecutive utilization data](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-ec2-instances-non-consecutive-utilization-data/)
-- [AWS announces new AWS Direct Connect location in Mumbai, India](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-direct-connect-location-mumbai-india/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

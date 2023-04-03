@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces Bulk Document Uploader to test Textract on multiple documents](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-bulk-document-uploader-test-documents/)
+- [AWS Config now supports 23 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-config-23-new-resource-types/)
 - [Amazon MWAA now supports Shell Launch Scripts](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-shell-launch-scripts/)
 - [Announcing policies validations during synthesis time with AWS Cloud Development Kit &lpar;CDK&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-development-kit-cdk-policies-validations/)
 - [Import data from 45+ sources for no-code ML with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-canvas-import-data-no-code-ml/)
@@ -66,8 +68,6 @@
 - [Amazon SWF now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-swf-aws-privatelink/)
 - [AWS Trusted Advisor now includes fault tolerance checks for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-trusted-advisor-fault-tolerance-checks-amazon-ecs/)
 - [Amazon Textract announces updates to the AnalyzeDocument - Tables feature](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-analyzedocument-tables-feature/)
-- [AWS License Manager now offers improved license visibility and distribution across your organization](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-license-manager-license-visibility-distribution-organization/)
-- [Amazon Simple Email Service now detects gaps in BIMI configuration](https://aws.amazon.com/about-aws/whats-new/2023/03/amazon-simple-email-service-detects-gaps-bimi-configuration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

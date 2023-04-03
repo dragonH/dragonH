@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Utilization Notifications for EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2023/04/utilization-notifications-ec2-on-demand-capacity-reservations/)
+- [AWS Compute Optimizer now supports HDD and io2 Block Express EBS volume types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-hdd-io2-block-express-ebs-voulme-types/)
+- [AWS Billing Conductor pricing change](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-billing-conductor-pricing-change/)
 - [Amazon Textract announces Bulk Document Uploader to test Textract on multiple documents](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-bulk-document-uploader-test-documents/)
 - [AWS Config now supports 23 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-config-23-new-resource-types/)
 - [Amazon MWAA now supports Shell Launch Scripts](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-shell-launch-scripts/)
@@ -65,9 +68,6 @@
 - [Import data from 45+ sources for no-code ML with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-canvas-import-data-no-code-ml/)
 - [The sixth generation of Amazon EC2 instances powered by AMD processors now support faster Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2023/04/sixth-generation-amazon-ec2-instances-ebs-optimized-instance-performance/)
 - [Amazon ElastiCache for Redis simplifies creating new clusters in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-redis-clusters-management-console/)
-- [Amazon SWF now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-swf-aws-privatelink/)
-- [AWS Trusted Advisor now includes fault tolerance checks for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-trusted-advisor-fault-tolerance-checks-amazon-ecs/)
-- [Amazon Textract announces updates to the AnalyzeDocument - Tables feature](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-analyzedocument-tables-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Migration Hub now supports High Availability SAP HANA systems](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-migration-hub-high-availability-sap-hana-systems/)
+- [Amplify Studio is now available in the Europe South &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amplify-studio-europe-south-milan-region/)
+- [AWS CodePipeline is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codepipeline-additional-regions/)
+- [Amazon SageMaker Feature Store now supports hard deletion in online store](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-feature-store-hard-deletion-online-store/)
+- [AWS Supply Chain is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-supply-chain-generally-available/)
 - [AWS Service Catalog announces support for Terraform open source](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-service-catalog-terraform-open-source/)
 - [Announcing Utilization Notifications for EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2023/04/utilization-notifications-ec2-on-demand-capacity-reservations/)
 - [AWS Compute Optimizer now supports HDD and io2 Block Express EBS volume types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-hdd-io2-block-express-ebs-voulme-types/)
 - [AWS Billing Conductor pricing change](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-billing-conductor-pricing-change/)
 - [Amazon Textract announces Bulk Document Uploader to test Textract on multiple documents](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-bulk-document-uploader-test-documents/)
-- [AWS Config now supports 23 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-config-23-new-resource-types/)
-- [Amazon MWAA now supports Shell Launch Scripts](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-shell-launch-scripts/)
-- [Announcing policies validations during synthesis time with AWS Cloud Development Kit &lpar;CDK&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-development-kit-cdk-policies-validations/)
-- [Import data from 45+ sources for no-code ML with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-canvas-import-data-no-code-ml/)
-- [The sixth generation of Amazon EC2 instances powered by AMD processors now support faster Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2023/04/sixth-generation-amazon-ec2-instances-ebs-optimized-instance-performance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

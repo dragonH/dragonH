@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability for macOS Support on Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/04/mac-os-support-amplify-library-swift/)
+- [Amazon Athena adds view support for external data sources](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-view-support-external-data-sources/)
 - [AWS Migration Hub now supports High Availability SAP HANA systems](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-migration-hub-high-availability-sap-hana-systems/)
 - [Amplify Studio is now available in the Europe South &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amplify-studio-europe-south-milan-region/)
 - [AWS CodePipeline is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codepipeline-additional-regions/)
@@ -66,8 +68,6 @@
 - [AWS Service Catalog announces support for Terraform open source](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-service-catalog-terraform-open-source/)
 - [Announcing Utilization Notifications for EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2023/04/utilization-notifications-ec2-on-demand-capacity-reservations/)
 - [AWS Compute Optimizer now supports HDD and io2 Block Express EBS volume types](https://aws.amazon.com/about-aws/whats-new/2023/03/aws-compute-optimizer-hdd-io2-block-express-ebs-voulme-types/)
-- [AWS Billing Conductor pricing change](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-billing-conductor-pricing-change/)
-- [Amazon Textract announces Bulk Document Uploader to test Textract on multiple documents](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-textract-bulk-document-uploader-test-documents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

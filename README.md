@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 adds new visibility into object replication status](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-visibility-object-replication-status/)
+- [Announcing CSV Export for AWS Resource Explorer Search Results](https://aws.amazon.com/about-aws/whats-new/2023/04/csv-export-aws-resource-explorer-search-results/)
 - [Amazon AppStream 2.0 Is Now Available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appstream-2-0-aws-govcloud-us-east-region/)
 - [Amazon Polly offers full support in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-polly-support-osaka-region/)
 - [AWS Glue now available in AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-available-europe-spain-zurich/)
@@ -66,8 +68,6 @@
 - [Announcing general availability for macOS Support on Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/04/mac-os-support-amplify-library-swift/)
 - [Amazon Athena adds view support for external data sources](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-view-support-external-data-sources/)
 - [AWS Migration Hub now supports High Availability SAP HANA systems](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-migration-hub-high-availability-sap-hana-systems/)
-- [Amplify Studio is now available in the Europe South &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amplify-studio-europe-south-milan-region/)
-- [AWS CodePipeline is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codepipeline-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall now supports IPv6-only subnets](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-network-firewall-ipv6-only-subnets/)
+- [AWS CloudFormation StackSets is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudformation-stacksets-2-regions/)
 - [AWS App Runner adds 7 new compute configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-app-runner-compute-configurations/)
 - [Amazon S3 adds new visibility into object replication status](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-visibility-object-replication-status/)
 - [Announcing CSV Export for AWS Resource Explorer Search Results](https://aws.amazon.com/about-aws/whats-new/2023/04/csv-export-aws-resource-explorer-search-results/)
@@ -66,8 +68,6 @@
 - [AWS Glue now available in AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-available-europe-spain-zurich/)
 - [AWS CodeBuild is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codebuild-three-additional-regions/)
 - [Amazon Kendra releases Microsoft OneDrive Connector](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kendra-microsoft-onedrive-connector/)
-- [Announcing general availability for macOS Support on Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/04/mac-os-support-amplify-library-swift/)
-- [Amazon Athena adds view support for external data sources](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-view-support-external-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

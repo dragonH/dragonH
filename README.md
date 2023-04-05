@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Analytics is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kinesis-data-analytics-additional-regions/)
+- [Amazon HealthLake now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-healthlake-asia-pacific-mumbai-region/)
+- [Amazon Virtual Private Cloud now supports Bring your own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-virtual-private-cloud-byoip-two-regions/)
+- [Amazon SageMaker is now available in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-asia-pacific-hyderabad-region/)
+- [Amazon CloudFront supports S3 Object Lambda Access Point origin](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudfront-s3-object-lambda-access-point-origin/)
+- [Amazon S3 beginning to apply two security best practices to all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
 - [AWS Network Firewall now supports IPv6-only subnets](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-network-firewall-ipv6-only-subnets/)
 - [AWS CloudFormation StackSets is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudformation-stacksets-2-regions/)
 - [AWS App Runner adds 7 new compute configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-app-runner-compute-configurations/)
 - [Amazon S3 adds new visibility into object replication status](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-visibility-object-replication-status/)
-- [Announcing CSV Export for AWS Resource Explorer Search Results](https://aws.amazon.com/about-aws/whats-new/2023/04/csv-export-aws-resource-explorer-search-results/)
-- [Amazon AppStream 2.0 Is Now Available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appstream-2-0-aws-govcloud-us-east-region/)
-- [Amazon Polly offers full support in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-polly-support-osaka-region/)
-- [AWS Glue now available in AWS Europe &lpar;Spain&rpar; and AWS Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-available-europe-spain-zurich/)
-- [AWS CodeBuild is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-codebuild-three-additional-regions/)
-- [Amazon Kendra releases Microsoft OneDrive Connector](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kendra-microsoft-onedrive-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner adds 7 new compute configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-app-runner-compute-configurations/)
 - [Amazon S3 adds new visibility into object replication status](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-visibility-object-replication-status/)
 - [Announcing CSV Export for AWS Resource Explorer Search Results](https://aws.amazon.com/about-aws/whats-new/2023/04/csv-export-aws-resource-explorer-search-results/)
 - [Amazon AppStream 2.0 Is Now Available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appstream-2-0-aws-govcloud-us-east-region/)
@@ -67,7 +68,6 @@
 - [Amazon Kendra releases Microsoft OneDrive Connector](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kendra-microsoft-onedrive-connector/)
 - [Announcing general availability for macOS Support on Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/04/mac-os-support-amplify-library-swift/)
 - [Amazon Athena adds view support for external data sources](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-view-support-external-data-sources/)
-- [AWS Migration Hub now supports High Availability SAP HANA systems](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-migration-hub-high-availability-sap-hana-systems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

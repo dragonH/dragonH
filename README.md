@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Core introduces Microsoft Office 2019 Professional Plus bundle](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-workspaces-core-ms-office-2019-plus-bundle/)
 - [AWS Security Hub launches 4 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-security-hub-4-security-best-practice-controls/)
 - [Introducing AWS Cloud Operations Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-operations-competency-partners/)
 - [AWS Proton introduces Git management of service configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-proton-git-management-service-configurations/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Analytics is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kinesis-data-analytics-additional-regions/)
 - [Amazon HealthLake now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-healthlake-asia-pacific-mumbai-region/)
 - [Amazon Virtual Private Cloud now supports Bring your own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-virtual-private-cloud-byoip-two-regions/)
-- [Amazon SageMaker is now available in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-asia-pacific-hyderabad-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

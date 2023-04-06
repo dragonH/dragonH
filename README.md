@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Cloud Operations Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-operations-competency-partners/)
+- [AWS Proton introduces Git management of service configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-proton-git-management-service-configurations/)
 - [Amazon CodeCatalyst Dev Environments now supports GitHub repositories](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-dev-environments-github-repositories/)
 - [Amazon Monitron extends data stream with closure codes and status from sensors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-monitron-data-stream-codes-status-sensors/)
 - [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon MemoryDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-controllers-kubernetes-amazon-memorydb/)
@@ -66,8 +68,6 @@
 - [Amazon Virtual Private Cloud now supports Bring your own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-virtual-private-cloud-byoip-two-regions/)
 - [Amazon SageMaker is now available in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-asia-pacific-hyderabad-region/)
 - [Amazon CloudFront supports S3 Object Lambda Access Point origin](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudfront-s3-object-lambda-access-point-origin/)
-- [Amazon S3 beginning to apply two security best practices to all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-two-security-best-practices-buckets-default/)
-- [AWS Network Firewall now supports IPv6-only subnets](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-network-firewall-ipv6-only-subnets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

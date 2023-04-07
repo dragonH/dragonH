@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda introduces response payload streaming](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-response-payload-streaming/)
 - [Add an Amazon ElastiCache cache to Amazon RDS databases in the RDS console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-cache-rds-databases-console/)
 - [AWS Graviton2-based Amazon EC2 instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-graviton2-based-amazon-ec2-instances-additional-regions/)
 - [NICE DCV announces the general availability of the DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv-extension-sdk/)
@@ -67,7 +68,6 @@
 - [RDS Custom for SQL Server now supports Multi-AZ deployments](https://aws.amazon.com/about-aws/whats-new/2023/04/rds-custom-sql-server-multi-az-deployments/)
 - [Amazon Aurora now supports PostgreSQL 15](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-postgresql-15/)
 - [AWS Trusted Advisor introduces Engage for AWS Enterprise On-Ramp Support customers &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-trusted-advisor-engage-enterprise-on-ramp-support-customers/)
-- [Amazon Aurora supports PostgreSQL 14.7, 13.10, 12.14, and 11.19 versions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-supports-postgresql-additional-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

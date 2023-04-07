@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon WorkSpaces Core introduces Microsoft Office 2019 Professional Plus bundle](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-workspaces-core-ms-office-2019-plus-bundle/)
-- [AWS Security Hub launches 4 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-security-hub-4-security-best-practice-controls/)
-- [Introducing AWS Cloud Operations Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-operations-competency-partners/)
-- [AWS Proton introduces Git management of service configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-proton-git-management-service-configurations/)
-- [Amazon CodeCatalyst Dev Environments now supports GitHub repositories](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-dev-environments-github-repositories/)
-- [Amazon Monitron extends data stream with closure codes and status from sensors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-monitron-data-stream-codes-status-sensors/)
-- [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon MemoryDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-controllers-kubernetes-amazon-memorydb/)
-- [Amazon Kinesis Data Analytics is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kinesis-data-analytics-additional-regions/)
-- [Amazon HealthLake now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-healthlake-asia-pacific-mumbai-region/)
-- [Amazon Virtual Private Cloud now supports Bring your own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-virtual-private-cloud-byoip-two-regions/)
+- [NICE DCV announces the general availability of the DCV](https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv/)
+- [Amazon RDS for MySQL supports inbound replication for RDS Multi-AZ deployment option with two readable standby DB instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-inbound-replication-multi-az-two-readable-instances/)
+- [Amazon RDS for MySQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-15-read-replicas-multi-az-two-readable-instances/)
+- [EMR on EKS now supports Apache Spark with Java 11](https://aws.amazon.com/about-aws/whats-new/2023/04/emr-eks-apache-spark-java-11/)
+- [RDS Custom for SQL Server now supports Multi-AZ deployments](https://aws.amazon.com/about-aws/whats-new/2023/04/rds-custom-sql-server-multi-az-deployments/)
+- [Amazon Aurora now supports PostgreSQL 15](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-postgresql-15/)
+- [AWS Trusted Advisor introduces Engage for AWS Enterprise On-Ramp Support customers &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-trusted-advisor-engage-enterprise-on-ramp-support-customers/)
+- [Amazon Aurora supports PostgreSQL 14.7, 13.10, 12.14, and 11.19 versions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-supports-postgresql-additional-versions/)
+- [AWS CloudTrail Lake is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudtrail-lake-aws-govcloud-us-regions/)
+- [Amazon SageMaker now supports sharing predictions with Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-sharing-predictions-quicksight/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

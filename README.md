@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [NICE DCV announces the general availability of the DCV](https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv/)
+- [NICE DCV announces the general availability of the DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv-extension-sdk/)
 - [Amazon RDS for MySQL supports inbound replication for RDS Multi-AZ deployment option with two readable standby DB instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-inbound-replication-multi-az-two-readable-instances/)
 - [Amazon RDS for MySQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-15-read-replicas-multi-az-two-readable-instances/)
 - [EMR on EKS now supports Apache Spark with Java 11](https://aws.amazon.com/about-aws/whats-new/2023/04/emr-eks-apache-spark-java-11/)

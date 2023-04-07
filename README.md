@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Add an Amazon ElastiCache cache to Amazon RDS databases in the RDS console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-cache-rds-databases-console/)
+- [AWS Graviton2-based Amazon EC2 instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-graviton2-based-amazon-ec2-instances-additional-regions/)
 - [NICE DCV announces the general availability of the DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv-extension-sdk/)
 - [Amazon RDS for MySQL supports inbound replication for RDS Multi-AZ deployment option with two readable standby DB instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-inbound-replication-multi-az-two-readable-instances/)
 - [Amazon RDS for MySQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-15-read-replicas-multi-az-two-readable-instances/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora now supports PostgreSQL 15](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-postgresql-15/)
 - [AWS Trusted Advisor introduces Engage for AWS Enterprise On-Ramp Support customers &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-trusted-advisor-engage-enterprise-on-ramp-support-customers/)
 - [Amazon Aurora supports PostgreSQL 14.7, 13.10, 12.14, and 11.19 versions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-supports-postgresql-additional-versions/)
-- [AWS CloudTrail Lake is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudtrail-lake-aws-govcloud-us-regions/)
-- [Amazon SageMaker now supports sharing predictions with Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-sharing-predictions-quicksight/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

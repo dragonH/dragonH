@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GuardDuty Adds Three New Threat Detections to Alert Customers on Suspicious DNS Traffic](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-threat-detections-dns-traffic/)
+- [Amazon ECS on AWS Fargate now supports FIPS 140-2 on AWS Fargate in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-fips-140-2-govcloud-us-regions/)
 - [AWS Lambda introduces response payload streaming](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-response-payload-streaming/)
 - [Add an Amazon ElastiCache cache to Amazon RDS databases in the RDS console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-cache-rds-databases-console/)
 - [AWS Graviton2-based Amazon EC2 instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-graviton2-based-amazon-ec2-instances-additional-regions/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for MySQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-15-read-replicas-multi-az-two-readable-instances/)
 - [EMR on EKS now supports Apache Spark with Java 11](https://aws.amazon.com/about-aws/whats-new/2023/04/emr-eks-apache-spark-java-11/)
 - [RDS Custom for SQL Server now supports Multi-AZ deployments](https://aws.amazon.com/about-aws/whats-new/2023/04/rds-custom-sql-server-multi-az-deployments/)
-- [Amazon Aurora now supports PostgreSQL 15](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-aurora-postgresql-15/)
-- [AWS Trusted Advisor introduces Engage for AWS Enterprise On-Ramp Support customers &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-trusted-advisor-engage-enterprise-on-ramp-support-customers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Inference Recommender improves usability and launches new features](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-inference-recommender-new-features/)
+- [Amazon Connect now enables agents to handle voice calls, chats, and tasks concurrently](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-agents-calls-chats-tasks/)
 - [AWS Firewall Manager adds support for six additional AWS WAF features](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-waf-features/)
 - [AWS Glue visual ETL now supports new native Amazon Redshift capabilities](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-visual-etl-native-amazon-redshift-capabilities/)
 - [Amazon Connect Voice ID now supports multiple fraudster watchlists per Voice ID domain](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-voice-id-fraudster-watchlists-voice-id-domain/)
@@ -66,8 +68,6 @@
 - [Amazon GuardDuty Adds Three New Threat Detections to Alert Customers on Suspicious DNS Traffic](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-threat-detections-dns-traffic/)
 - [Amazon ECS on AWS Fargate now supports FIPS 140-2 on AWS Fargate in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-fips-140-2-govcloud-us-regions/)
 - [AWS Lambda introduces response payload streaming](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-response-payload-streaming/)
-- [Add an Amazon ElastiCache cache to Amazon RDS databases in the RDS console](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-elasticache-cache-rds-databases-console/)
-- [AWS Graviton2-based Amazon EC2 instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-graviton2-based-amazon-ec2-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Optimized Reads now offers up to 2X faster queries on RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-optimized-reads-2x-faster-queries-rds-postgresql/)
+- [Amazon QuickSight now supports Row Level Security tags with OR condition](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-rls-tags-or-condition/)
 - [Amazon GuardDuty Adds Three New Threat Detections to Alert Customers on Suspicious DNS Traffic](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-threat-detections-dns-traffic/)
 - [Amazon ECS on AWS Fargate now supports FIPS 140-2 on AWS Fargate in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-fips-140-2-govcloud-us-regions/)
 - [AWS Lambda introduces response payload streaming](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-response-payload-streaming/)
@@ -66,8 +68,6 @@
 - [NICE DCV announces the general availability of the DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/04/nice-dcv-general-availability-dcv-extension-sdk/)
 - [Amazon RDS for MySQL supports inbound replication for RDS Multi-AZ deployment option with two readable standby DB instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-inbound-replication-multi-az-two-readable-instances/)
 - [Amazon RDS for MySQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-mysql-15-read-replicas-multi-az-two-readable-instances/)
-- [EMR on EKS now supports Apache Spark with Java 11](https://aws.amazon.com/about-aws/whats-new/2023/04/emr-eks-apache-spark-java-11/)
-- [RDS Custom for SQL Server now supports Multi-AZ deployments](https://aws.amazon.com/about-aws/whats-new/2023/04/rds-custom-sql-server-multi-az-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

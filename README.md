@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA now supports Apache Airflow version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-apache-airflow-version-2-5/)
 - [AWS Lambda supports Maximum Concurrency for Amazon SQS as an event source in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-maximum-concurrency-amazon-sqs-event-source-govcloud/)
 - [AWS Firewall Manager is now available in three more regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-new-regions/)
 - [Amazon AppFlow announces 6 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appflow-new-connectors/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Inference Recommender improves usability and launches new features](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-inference-recommender-new-features/)
 - [Amazon Connect now enables agents to handle voice calls, chats, and tasks concurrently](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-agents-calls-chats-tasks/)
 - [AWS Firewall Manager adds support for six additional AWS WAF features](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-waf-features/)
-- [AWS Glue visual ETL now supports new native Amazon Redshift capabilities](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-visual-etl-native-amazon-redshift-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync now supports publishing events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-publishing-events-amazon-eventbridge/)
 - [Announcing media metrics for AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-mediaconvert-media-metrics/)
 - [AWS Well-Architected Framework strengthens prescriptive guidance](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-well-architected-framework-prescriptive-guidance/)
 - [Amazon SageMaker Inference Recommender improves usability and launches new features](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-inference-recommender-new-features/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Voice ID now supports multiple fraudster watchlists per Voice ID domain](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-voice-id-fraudster-watchlists-voice-id-domain/)
 - [Amazon RDS Optimized Reads now offers up to 2X faster queries on RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-optimized-reads-2x-faster-queries-rds-postgresql/)
 - [Amazon QuickSight now supports Row Level Security tags with OR condition](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-rls-tags-or-condition/)
-- [Amazon GuardDuty Adds Three New Threat Detections to Alert Customers on Suspicious DNS Traffic](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-threat-detections-dns-traffic/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

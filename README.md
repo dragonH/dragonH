@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.26](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-eks-distro-kubernetes-version-1-26/)
+- [AWS launches Split Cost Allocation Data for Amazon ECS and AWS Batch](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-split-cost-allocation-data-amazon-ecs-batch/)
 - [AWS Lake Formation is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-europe-spain-region/)
 - [AWS Lake Formation is now available in AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-europe-zurich-region/)
-- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.26](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-eks-distro-kubernetes-version-1-26/)
 - [AWS Lambda adds support for Node.js 18 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-node-js-18-govcloud-regions/)
 - [EC2 Image Builder supports vulnerability detection with Amazon Inspector for custom images](https://aws.amazon.com/about-aws/whats-new/2023/04/ec2-image-builder-vulnerability-detection-amazon-inspector-custom-images/)
 - [AWS WAF increases web ACL capacity units limits](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-web-acl-capacity-units-limits/)
 - [AWS WAF supports larger request body inspections for Amazon CloudFront distributions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-body-inspections-amazon-cloudfront-distributions/)
 - [Amazon EC2 Serial Console is now available on EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-serial-console-bare-metal-instances/)
 - [Amazon Pinpoint now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-pinpoint-supports-aws-privatelink/)
-- [Amazon Rekognition launches Face Liveness to deter fraud in facial verification](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rekognition-face-liveness-deter-fraud-facial-verification/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

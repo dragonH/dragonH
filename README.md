@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS WAF increases web ACL capacity units limits](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-web-acl-capacity-units-limits/)
-- [AWS WAF supports larger request body inspections for Amazon CloudFront distributions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-body-inspections-amazon-cloudfront-distributions/)
-- [Amazon EC2 Serial Console is now available on EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-serial-console-bare-metal-instances/)
-- [Amazon Pinpoint now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-pinpoint-supports-aws-privatelink/)
-- [Amazon Rekognition launches Face Liveness to deter fraud in facial verification](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rekognition-face-liveness-deter-fraud-facial-verification/)
-- [AWS Config advanced queries supports 27 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-config-advanced-queries-new-resource-types/)
-- [Amazon MWAA now supports Apache Airflow version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-apache-airflow-version-2-5/)
-- [AWS Lambda supports Maximum Concurrency for Amazon SQS as an event source in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-maximum-concurrency-amazon-sqs-event-source-govcloud/)
-- [AWS Firewall Manager is now available in three more regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-new-regions/)
-- [Amazon AppFlow announces 6 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appflow-new-connectors/)
+- [Amazon WorkSpaces Core introduces Microsoft Office 2019 Professional Plus bundle](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-workspaces-core-ms-office-2019-plus-bundle/)
+- [AWS Security Hub launches 4 new security best practice controls](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-security-hub-4-security-best-practice-controls/)
+- [Introducing AWS Cloud Operations Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloud-operations-competency-partners/)
+- [AWS Proton introduces Git management of service configurations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-proton-git-management-service-configurations/)
+- [Amazon CodeCatalyst Dev Environments now supports GitHub repositories](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-dev-environments-github-repositories/)
+- [Amazon Monitron extends data stream with closure codes and status from sensors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-monitron-data-stream-codes-status-sensors/)
+- [AWS Controllers for Kubernetes &lpar;ACK&rpar; for Amazon MemoryDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-controllers-kubernetes-amazon-memorydb/)
+- [Amazon Kinesis Data Analytics is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-kinesis-data-analytics-additional-regions/)
+- [Amazon HealthLake now available in Asia-Pacific &lpar;Mumbai&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-healthlake-asia-pacific-mumbai-region/)
+- [Amazon Virtual Private Cloud now supports Bring your own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-virtual-private-cloud-byoip-two-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Node.js 18 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-node-js-18-govcloud-regions/)
+- [EC2 Image Builder supports vulnerability detection with Amazon Inspector for custom images](https://aws.amazon.com/about-aws/whats-new/2023/04/ec2-image-builder-vulnerability-detection-amazon-inspector-custom-images/)
 - [AWS WAF increases web ACL capacity units limits](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-web-acl-capacity-units-limits/)
 - [AWS WAF supports larger request body inspections for Amazon CloudFront distributions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-body-inspections-amazon-cloudfront-distributions/)
 - [Amazon EC2 Serial Console is now available on EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-serial-console-bare-metal-instances/)
@@ -66,8 +68,6 @@
 - [AWS Config advanced queries supports 27 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-config-advanced-queries-new-resource-types/)
 - [Amazon MWAA now supports Apache Airflow version 2.5](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mwaa-apache-airflow-version-2-5/)
 - [AWS Lambda supports Maximum Concurrency for Amazon SQS as an event source in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-maximum-concurrency-amazon-sqs-event-source-govcloud/)
-- [AWS Firewall Manager is now available in three more regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-new-regions/)
-- [Amazon AppFlow announces 6 new connectors](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-appflow-new-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

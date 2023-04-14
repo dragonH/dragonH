@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing the Media &amp; Entertainment Competency](https://aws.amazon.com/about-aws/whats-new/2023/04/media-entertainment-competency/)
+- [Amazon EMR on EKS is now available in the Middle East and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-eks-middle-east-asia-pacific-regions/)
+- [Amazon ECS on AWS Fargate supports extensible ephemeral storage for Windows Tasks](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-aws-fargate-extensible-ephemeral-storage-windows-tasks/)
+- [AWS Transit Gateway is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-transit-gateway-europe-spain-region/)
+- [AWS Transit Gateway is now available in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-transit-gateway-asia-pacific-hyderabad-region/)
 - [Amazon MSK is now available in Hyderabad, Spain, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-msk-hyderabad-spain-zurich-regions/)
 - [Announcing updated video background blur and replacement in Amazon Chime SDK](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-chime-sdk-background-blur/)
 - [Amazon FSx for NetApp ONTAP is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-fsx-netapp-ontap-three-regions/)
 - [Amazon FSx for Windows File Server is now available in the three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-fsx-windows-file-server-aws-new-regions/)
 - [Amazon FSx for Lustre is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-fsx-lustre-three-regions/)
-- [Amazon Chime SDK updates Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-chime-sdk-service-level-agreement/)
-- [AWS Lambda now supports SnapStart for Java functions in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-snapstart-java-functions-additional-regions/)
-- [Amazon GameLift adds support for Unreal Engine 5](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-gamelift-unreal-engine-5/)
-- [Amazon Redshift enhances string query performance by up to 63x](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-string-query-performance-up-to-63x/)
-- [Announcing AWS Elemental MediaConnect Gateway](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-mediaconnect-gateway/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

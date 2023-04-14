@@ -58,7 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Backup now available 3 new regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-new-regions/)
+- [Announcing availability of AL2023 and gMSA support on Amazon ECS Linux containers](https://aws.amazon.com/about-aws/whats-new/2023/04/al2023-gmsas-amazon-ecs-linux-containers/)
+- [AWS Backup now available in 3 new Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-new-regions/)
 - [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-directory-service-microsoft-ad-connector-melbourne/)
 - [Introducing the Media &amp; Entertainment Competency](https://aws.amazon.com/about-aws/whats-new/2023/04/media-entertainment-competency/)
 - [Amazon EMR on EKS is now available in the Middle East and Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-eks-middle-east-asia-pacific-regions/)
@@ -67,7 +68,6 @@
 - [AWS Transit Gateway is now available in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-transit-gateway-asia-pacific-hyderabad-region/)
 - [Amazon MSK is now available in Hyderabad, Spain, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-msk-hyderabad-spain-zurich-regions/)
 - [Announcing updated video background blur and replacement in Amazon Chime SDK](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-chime-sdk-background-blur/)
-- [Amazon FSx for NetApp ONTAP is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-fsx-netapp-ontap-three-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

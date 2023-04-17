@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; provides ODBC driver to connect from BI tools](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-documentdb-mongodb-odbc-driver-bi-tools/)
+- [Amazon EFS now supports up to 10 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-efs-10-gibs-throughput/)
+- [Amazon DynamoDB now supports up to 50 concurrent table restores](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-dynamodb-concurrent-table-restores/)
 - [Introducing the AWS CloudFormation Template Sync Controller for Flux](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudformation-template-sync-controller-flux/)
 - [AWS Elastic Disaster Recovery now simplifies launch settings management](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elastic-disaster-recovery-launch-settings-management/)
 - [AWS Glue launches new capability to monitor usage of Glue resources](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-monitor-usage-resources/)
@@ -65,9 +68,6 @@
 - [AWS announces the Manufacturing and Industrial Competency](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-manufacturing-industrial-competency/)
 - [AWS Systems Manager Incident Manager now supports Microsoft Teams for Collaboration](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-systems-manager-incident-manager-microsoft-teams-collaboration/)
 - [Announcing availability of AL2023 and gMSA support on Amazon ECS Linux containers](https://aws.amazon.com/about-aws/whats-new/2023/04/al2023-gmsas-amazon-ecs-linux-containers/)
-- [AWS Backup now available in 3 new Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-new-regions/)
-- [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-directory-service-microsoft-ad-connector-melbourne/)
-- [Introducing the Media &amp; Entertainment Competency](https://aws.amazon.com/about-aws/whats-new/2023/04/media-entertainment-competency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

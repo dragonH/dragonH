@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-python-3-10/)
+- [AWS Backup announces support for SAP HANA databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/)
+- [Amazon RDS events now include tags for filtering and routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-events-tags-filtering-routing/)
 - [Prepare data easily with Amazon Personalize and Amazon SageMaker Data Wrangler integration](https://aws.amazon.com/about-aws/whats-new/2023/04/prepare-data-amazon-personalize-sagemaker-data-wrangler-integration/)
 - [Amazon Connect Customer Profiles now shows cases information in the agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-customer-profiles-cases-information-agent-workspace/)
 - [Amazon EMR Studio now available in Middle East &lpar;Bahrain&rpar;, Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-studio-bahrain-hong-kong-regions/)
@@ -65,9 +68,6 @@
 - [Amazon EFS now supports up to 10 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-efs-10-gibs-throughput/)
 - [Amazon DynamoDB now supports up to 50 concurrent table restores](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-dynamodb-concurrent-table-restores/)
 - [Introducing the AWS CloudFormation Template Sync Controller for Flux](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-cloudformation-template-sync-controller-flux/)
-- [AWS Elastic Disaster Recovery now simplifies launch settings management](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elastic-disaster-recovery-launch-settings-management/)
-- [AWS Glue launches new capability to monitor usage of Glue resources](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-monitor-usage-resources/)
-- [Amazon SageMaker Collections is a new capability to organize models in the Model Registry](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-collections-organize-model-registry/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation and Glue Data Catalog now manage Apache Hive Metastore resources](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-glue-catalog-apache-hive-metastore-resources/)
+- [AWS Backup for Amazon S3 is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-govcloud-us-regions/)
+- [AWS Amplify supports Push Notifications for mobile and cross platform apps](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-push-notifications-mobile-cross-platform-apps/)
 - [AWS Control Tower is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-control-tower-additional-regions/)
 - [Amazon EMR Serverless adds job-level billed resources for efficient cost management](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-job-billed-resources-cost-management/)
 - [AWS IoT Core for LoRaWAN supports public LoRaWAN network and roaming with Everynet &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-lorawan-public-lorawan-network-roaming-everynet-preview/)
@@ -65,9 +68,6 @@
 - [AWS Lambda adds support for Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-python-3-10/)
 - [AWS Backup announces support for SAP HANA databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/)
 - [Amazon RDS events now include tags for filtering and routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-events-tags-filtering-routing/)
-- [Prepare data easily with Amazon Personalize and Amazon SageMaker Data Wrangler integration](https://aws.amazon.com/about-aws/whats-new/2023/04/prepare-data-amazon-personalize-sagemaker-data-wrangler-integration/)
-- [Amazon Connect Customer Profiles now shows cases information in the agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-customer-profiles-cases-information-agent-workspace/)
-- [Amazon EMR Studio now available in Middle East &lpar;Bahrain&rpar;, Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-studio-bahrain-hong-kong-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

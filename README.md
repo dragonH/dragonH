@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-control-tower-additional-regions/)
 - [Amazon EMR Serverless adds job-level billed resources for efficient cost management](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-job-billed-resources-cost-management/)
 - [AWS IoT Core for LoRaWAN supports public LoRaWAN network and roaming with Everynet &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-lorawan-public-lorawan-network-roaming-everynet-preview/)
 - [Amazon EMR now makes troubleshooting easier with enhanced error details](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-enhanced-error-details/)
@@ -67,7 +68,6 @@
 - [Prepare data easily with Amazon Personalize and Amazon SageMaker Data Wrangler integration](https://aws.amazon.com/about-aws/whats-new/2023/04/prepare-data-amazon-personalize-sagemaker-data-wrangler-integration/)
 - [Amazon Connect Customer Profiles now shows cases information in the agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-customer-profiles-cases-information-agent-workspace/)
 - [Amazon EMR Studio now available in Middle East &lpar;Bahrain&rpar;, Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-studio-bahrain-hong-kong-regions/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; provides ODBC driver to connect from BI tools](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-documentdb-mongodb-odbc-driver-bi-tools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

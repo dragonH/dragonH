@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Dev Environment dashboard for Amazon CodeCatalyst &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-preview-dev-environment-dashboard/)
+- [Amazon SageMaker Studio Lab combats bots with CAPTCHA](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-studiolab-combats-bots-captcha/)
+- [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-asia-pacific-melbourne-region/)
+- [Amazon Corretto April, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-corretto-april-quarterly-updates/)
+- [Amazon WorkSpaces Web Access with WSP is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-workspaces-web-access-wsp-aws-govcloud-us-west-region/)
 - [AWS Lake Formation and Glue Data Catalog now manage Apache Hive Metastore resources](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-glue-catalog-apache-hive-metastore-resources/)
 - [AWS Backup for Amazon S3 is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-govcloud-us-regions/)
 - [AWS Amplify supports Push Notifications for mobile and cross platform apps](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-push-notifications-mobile-cross-platform-apps/)
 - [AWS Control Tower is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-control-tower-additional-regions/)
 - [Amazon EMR Serverless adds job-level billed resources for efficient cost management](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-job-billed-resources-cost-management/)
-- [AWS IoT Core for LoRaWAN supports public LoRaWAN network and roaming with Everynet &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-lorawan-public-lorawan-network-roaming-everynet-preview/)
-- [Amazon EMR now makes troubleshooting easier with enhanced error details](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-enhanced-error-details/)
-- [AWS Lambda adds support for Python 3.10](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-python-3-10/)
-- [AWS Backup announces support for SAP HANA databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-support-sap-hana-databases-amazon-ec2/)
-- [Amazon RDS events now include tags for filtering and routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-events-tags-filtering-routing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

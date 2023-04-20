@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces general availability of MERGE SQL command](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-merge-sql-command/)
+- [AWS Snowball Edge Compute Optimized now supports Amazon S3 compatible storage](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-snowball-edge-compute-optimized-amazon-s3-compatible-storage/)
 - [Announcing the general availability of Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/04/general-availability-amazon-codecatalyst/)
 - [AWS Amplify Flutter announces general availability for web and desktop support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-flutter-web-desktop-support/)
 - [Amazon Redshift announces centralized access control for data sharing with AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-access-control-data-sharing-lake-formation/)
@@ -66,8 +68,6 @@
 - [Amazon Comprehend improves accuracy of document classification using layout data](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-comprehend-document-classification-layout-data/)
 - [Announcing Dev Environment dashboard for Amazon CodeCatalyst &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-codecatalyst-preview-dev-environment-dashboard/)
 - [Amazon SageMaker Studio Lab combats bots with CAPTCHA](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-studiolab-combats-bots-captcha/)
-- [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-asia-pacific-melbourne-region/)
-- [Amazon Corretto April, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-corretto-april-quarterly-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

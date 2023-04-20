@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/04/general-availability-amazon-codecatalyst/)
+- [AWS Amplify Flutter announces general availability for web and desktop support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-flutter-web-desktop-support/)
+- [Amazon Redshift announces centralized access control for data sharing with AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-access-control-data-sharing-lake-formation/)
 - [Amazon VPC Prefix Lists now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-vpc-prefix-lists-new-regions/)
 - [Amazon Inspector now supports deep inspection of EC2 instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-inspector-deep-inspection-ec2-instances/)
 - [Amazon Comprehend improves accuracy of document classification using layout data](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-comprehend-document-classification-layout-data/)
@@ -65,9 +68,6 @@
 - [Amazon SageMaker Studio Lab combats bots with CAPTCHA](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-studiolab-combats-bots-captcha/)
 - [Amazon GuardDuty now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-asia-pacific-melbourne-region/)
 - [Amazon Corretto April, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-corretto-april-quarterly-updates/)
-- [Amazon WorkSpaces Web Access with WSP is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-workspaces-web-access-wsp-aws-govcloud-us-west-region/)
-- [AWS Lake Formation and Glue Data Catalog now manage Apache Hive Metastore resources](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lake-formation-glue-catalog-apache-hive-metastore-resources/)
-- [AWS Backup for Amazon S3 is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

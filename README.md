@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Redesigned opportunity management experience in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-partner-central-redesigned-management-experience/)
+- [Amazon EC2 supports Ubuntu Pro operating system in a subscription-included model](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-ubuntu-pro-subscription-model/)
 - [Amazon Chime SDK now supports Hindi and Thai languages for live transcription](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-chime-sdk-hindi-thai-live-transcription/)
 - [AWS SAM CLI announces local testing support for API Gateway Lambda authorizers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-sam-cli-local-testing-api-gateway-lambda-authorizers/)
 - [Announcing Amazon GuardDuty support for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-lambda/)
@@ -66,8 +68,6 @@
 - [Amazon ECS Service Connect now available in the Middle East &lpar;UAE&rpar; and Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-service-connect-uae-zurich-regions/)
 - [Amazon Redshift announces general availability of MERGE SQL command](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-merge-sql-command/)
 - [AWS Snowball Edge Compute Optimized now supports Amazon S3 compatible storage](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-snowball-edge-compute-optimized-amazon-s3-compatible-storage/)
-- [Announcing the general availability of Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/04/general-availability-amazon-codecatalyst/)
-- [AWS Amplify Flutter announces general availability for web and desktop support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-flutter-web-desktop-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now supports Hindi and Thai languages for live transcription](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-chime-sdk-hindi-thai-live-transcription/)
+- [AWS SAM CLI announces local testing support for API Gateway Lambda authorizers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-sam-cli-local-testing-api-gateway-lambda-authorizers/)
+- [Announcing Amazon GuardDuty support for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-guardduty-aws-lambda/)
 - [Amazon Redshift announces general availability of Dynamic Data Masking](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-availability-dynamic-data-masking/)
 - [Introducing AWS WAF Ready Partner Offerings](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-ready-partner-offerings/)
 - [Amazon ECS Service Connect now available in the Middle East &lpar;UAE&rpar; and Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ecs-service-connect-uae-zurich-regions/)
@@ -65,9 +68,6 @@
 - [AWS Snowball Edge Compute Optimized now supports Amazon S3 compatible storage](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-snowball-edge-compute-optimized-amazon-s3-compatible-storage/)
 - [Announcing the general availability of Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/04/general-availability-amazon-codecatalyst/)
 - [AWS Amplify Flutter announces general availability for web and desktop support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-amplify-flutter-web-desktop-support/)
-- [Amazon Redshift announces centralized access control for data sharing with AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-redshift-access-control-data-sharing-lake-formation/)
-- [Amazon VPC Prefix Lists now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-vpc-prefix-lists-new-regions/)
-- [Amazon Inspector now supports deep inspection of EC2 instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-inspector-deep-inspection-ec2-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

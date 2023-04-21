@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize enables popularity tuning for similar item recommendations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-popularity-tuning-item-recommendations/)
+- [AWS Backup is now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-asia-pacific-melbourne/)
 - [AWS Backup for Amazon S3 is now available in South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-sao-paulo-region/)
 - [AWS announces new AWS Direct Connect location in Querétaro, Mexico](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-direct-connect-location-queretaro-mexico/)
 - [AWS Migration Hub Refactor Spaces is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-migration-hub-refactor-spaces-7-regions/)
@@ -66,8 +68,6 @@
 - [AWS WAF Captcha launches JavaScript API support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-captcha-javascript-api-support/)
 - [Redesigned opportunity management experience in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-partner-central-redesigned-management-experience/)
 - [Amazon EC2 supports Ubuntu Pro operating system in a subscription-included model](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-ubuntu-pro-subscription-model/)
-- [Amazon Chime SDK now supports Hindi and Thai languages for live transcription](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-chime-sdk-hindi-thai-live-transcription/)
-- [AWS SAM CLI announces local testing support for API Gateway Lambda authorizers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-sam-cli-local-testing-api-gateway-lambda-authorizers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

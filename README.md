@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Crawlers now support creating partition indexes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-crawlers-creating-partition-indexes/)
 - [AWS IoT TwinMaker now supports data overlays and text annotations in 3D scenes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-twinmaker-data-overlays-text-annotations-3d-scenes/)
 - [Amazon Personalize enables popularity tuning for similar item recommendations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-popularity-tuning-item-recommendations/)
 - [AWS Backup is now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-asia-pacific-melbourne/)
@@ -67,7 +68,6 @@
 - [Apache Kafka support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/04/apache-kafka-aws-distro-opentelemetry/)
 - [Amazon Personalize now supports Kafka Sink connector to ingest real-time data with ease](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-kafka-sink-connector/)
 - [AWS WAF Captcha launches JavaScript API support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-captcha-javascript-api-support/)
-- [Redesigned opportunity management experience in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-partner-central-redesigned-management-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

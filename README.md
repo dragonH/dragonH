@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports AWS Cloud Development Kit &lpar;CDK&rpar; applications](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-systems-manager-cloud-development-kit-cdk-applications/)
+- [AWS License Manager now supports upgrading of EC2 Instances from Ubuntu to Ubuntu Pro operating system](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-license-manager-ec2-instances-ubuntu-pro-operating-system/)
 - [AWS Glue Crawlers now support creating partition indexes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-crawlers-creating-partition-indexes/)
 - [AWS IoT TwinMaker now supports data overlays and text annotations in 3D scenes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-twinmaker-data-overlays-text-annotations-3d-scenes/)
 - [Amazon Personalize enables popularity tuning for similar item recommendations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-popularity-tuning-item-recommendations/)
@@ -66,8 +68,6 @@
 - [AWS announces new AWS Direct Connect location in Querétaro, Mexico](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-direct-connect-location-queretaro-mexico/)
 - [AWS Migration Hub Refactor Spaces is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-migration-hub-refactor-spaces-7-regions/)
 - [Apache Kafka support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/04/apache-kafka-aws-distro-opentelemetry/)
-- [Amazon Personalize now supports Kafka Sink connector to ingest real-time data with ease](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-kafka-sink-connector/)
-- [AWS WAF Captcha launches JavaScript API support](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-waf-captcha-javascript-api-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

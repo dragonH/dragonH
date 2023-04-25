@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; supports IN operator for SELECT queries](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-keyspaces-cassandra-in-operator-select-queries/)
 - [AWS Resource Access Manager supports fine-grained customer managed permissions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-resource-access-manager-fine-grained-managed-permissions/)
 - [AWS Elemental Link UHD now supports Dolby Digital and Digital Plus](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-link-uhd-dolby-digital-digital-plus/)
 - [AWS Support in Korean is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-support-korean-generally-available/)
@@ -67,7 +68,6 @@
 - [AWS License Manager now supports upgrading of EC2 Instances from Ubuntu to Ubuntu Pro operating system](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-license-manager-ec2-instances-ubuntu-pro-operating-system/)
 - [AWS Glue Crawlers now support creating partition indexes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-crawlers-creating-partition-indexes/)
 - [AWS IoT TwinMaker now supports data overlays and text annotations in 3D scenes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-twinmaker-data-overlays-text-annotations-3d-scenes/)
-- [Amazon Personalize enables popularity tuning for similar item recommendations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-popularity-tuning-item-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

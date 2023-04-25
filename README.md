@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Access Manager supports fine-grained customer managed permissions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-resource-access-manager-fine-grained-managed-permissions/)
+- [AWS Elemental Link UHD now supports Dolby Digital and Digital Plus](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-link-uhd-dolby-digital-digital-plus/)
 - [AWS Support in Korean is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-support-korean-generally-available/)
 - [AWS Firewall Manager adds support for multiple administrators](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-multiple-administrators/)
 - [Amazon EC2 High Memory instances are now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-high-memory-instances-zurich-region/)
@@ -66,8 +68,6 @@
 - [AWS Glue Crawlers now support creating partition indexes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-crawlers-creating-partition-indexes/)
 - [AWS IoT TwinMaker now supports data overlays and text annotations in 3D scenes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-twinmaker-data-overlays-text-annotations-3d-scenes/)
 - [Amazon Personalize enables popularity tuning for similar item recommendations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-personalize-popularity-tuning-item-recommendations/)
-- [AWS Backup is now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-asia-pacific-melbourne/)
-- [AWS Backup for Amazon S3 is now available in South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-backup-s3-sao-paulo-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

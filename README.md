@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker accelerates local ML code conversion to remote jobs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-local-ml-code-conversion-jobs/)
+- [AWS IoT Core Device Advisor announces support for MQTT over WebSocket](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-device-advisor-mqtt-websocket/)
 - [Announcing AWS DataSync Discovery general availability &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-datasync-discovery-general-availability/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; supports IN operator for SELECT queries](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-keyspaces-cassandra-in-operator-select-queries/)
 - [AWS Resource Access Manager supports fine-grained customer managed permissions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-resource-access-manager-fine-grained-managed-permissions/)
@@ -66,8 +68,6 @@
 - [AWS Firewall Manager adds support for multiple administrators](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-multiple-administrators/)
 - [Amazon EC2 High Memory instances are now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-high-memory-instances-zurich-region/)
 - [AWS Systems Manager now supports AWS Cloud Development Kit &lpar;CDK&rpar; applications](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-systems-manager-cloud-development-kit-cdk-applications/)
-- [AWS License Manager now supports upgrading of EC2 Instances from Ubuntu to Ubuntu Pro operating system](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-license-manager-ec2-instances-ubuntu-pro-operating-system/)
-- [AWS Glue Crawlers now support creating partition indexes](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-glue-crawlers-creating-partition-indexes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Contact Lens for Amazon Connect evaluation capabilities is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/contact-lens-amazon-connect-evaluation-capabilities/)
+- [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-global-accelerator-new-edge-locations/)
 - [Amazon SageMaker accelerates local ML code conversion to remote jobs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-local-ml-code-conversion-jobs/)
 - [AWS IoT Core Device Advisor announces support for MQTT over WebSocket](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-device-advisor-mqtt-websocket/)
 - [Announcing AWS DataSync Discovery general availability &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-datasync-discovery-general-availability/)
@@ -66,8 +68,6 @@
 - [AWS Elemental Link UHD now supports Dolby Digital and Digital Plus](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-link-uhd-dolby-digital-digital-plus/)
 - [AWS Support in Korean is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-support-korean-generally-available/)
 - [AWS Firewall Manager adds support for multiple administrators](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-firewall-manager-multiple-administrators/)
-- [Amazon EC2 High Memory instances are now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-high-memory-instances-zurich-region/)
-- [AWS Systems Manager now supports AWS Cloud Development Kit &lpar;CDK&rpar; applications](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-systems-manager-cloud-development-kit-cdk-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

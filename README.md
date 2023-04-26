@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Contact Lens for Amazon Connect evaluation capabilities is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/contact-lens-amazon-connect-evaluation-capabilities/)
+- [Contact Lens for Amazon Connect evaluation capabilities are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/contact-lens-amazon-connect-evaluation-capabilities/)
 - [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-global-accelerator-new-edge-locations/)
 - [Amazon SageMaker accelerates local ML code conversion to remote jobs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-local-ml-code-conversion-jobs/)
 - [AWS IoT Core Device Advisor announces support for MQTT over WebSocket](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-device-advisor-mqtt-websocket/)

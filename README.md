@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service adds support for long distance matrix routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-location-service-long-distance-matrix-routing/)
+- [AWS AppSync supports TypeScript and source maps in JavaScript resolvers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-typescript-maps-javascript-resolvers/)
+- [Amazon MQ now supports RabbitMQ version 3.10.20 and 3.9.27](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mq-rabbitmq-supports-additional-versions/)
 - [Amazon QuickSight launches two suites of data ingestion APIs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-data-ingestion-apis/)
 - [AWS Lambda adds support for Java 17](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-java-17/)
 - [Amazon EC2 T4g instances are now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-t4g-instances-africa-cape-town-region/)
@@ -65,9 +68,6 @@
 - [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-global-accelerator-new-edge-locations/)
 - [Amazon SageMaker accelerates local ML code conversion to remote jobs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-local-ml-code-conversion-jobs/)
 - [AWS IoT Core Device Advisor announces support for MQTT over WebSocket](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-iot-core-device-advisor-mqtt-websocket/)
-- [Announcing AWS DataSync Discovery general availability &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-datasync-discovery-general-availability/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; supports IN operator for SELECT queries](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-keyspaces-cassandra-in-operator-select-queries/)
-- [AWS Resource Access Manager supports fine-grained customer managed permissions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-resource-access-manager-fine-grained-managed-permissions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

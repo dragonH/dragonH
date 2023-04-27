@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs data protection is now available in all AWS Commercial Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudwatch-logs-data-protection-aws-commercial-regions/)
 - [Amazon OpenSearch Service announces Amazon OpenSearch Ingestion](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-opensearch-service-ingestion/)
 - [Amazon Location Service adds support for long distance matrix routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-location-service-long-distance-matrix-routing/)
 - [AWS AppSync supports TypeScript and source maps in JavaScript resolvers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-typescript-maps-javascript-resolvers/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 T4g instances are now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-t4g-instances-africa-cape-town-region/)
 - [Contact Lens for Amazon Connect evaluation capabilities are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/contact-lens-amazon-connect-evaluation-capabilities/)
 - [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-global-accelerator-new-edge-locations/)
-- [Amazon SageMaker accelerates local ML code conversion to remote jobs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-local-ml-code-conversion-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

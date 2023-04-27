@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches two suites of data ingestion APIs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-data-ingestion-apis/)
+- [AWS Lambda adds support for Java 17](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-java-17/)
 - [Amazon EC2 T4g instances are now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-t4g-instances-africa-cape-town-region/)
 - [Contact Lens for Amazon Connect evaluation capabilities are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/contact-lens-amazon-connect-evaluation-capabilities/)
 - [AWS Global Accelerator launches two new edge locations](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-global-accelerator-new-edge-locations/)
@@ -66,8 +68,6 @@
 - [Announcing AWS DataSync Discovery general availability &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-datasync-discovery-general-availability/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; supports IN operator for SELECT queries](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-keyspaces-cassandra-in-operator-select-queries/)
 - [AWS Resource Access Manager supports fine-grained customer managed permissions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-resource-access-manager-fine-grained-managed-permissions/)
-- [AWS Elemental Link UHD now supports Dolby Digital and Digital Plus](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-elemental-link-uhd-dolby-digital-digital-plus/)
-- [AWS Support in Korean is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-support-korean-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

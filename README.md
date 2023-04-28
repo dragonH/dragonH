@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless is now available in Bahrain and Hong Kong Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-bahrain-hong-kong-regions/)
 - [Amazon RDS now supports M7g and R7g database &lpar;DB&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-c6id-m6id-r6id-instances-new-regions/)
 - [Amazon MSK now offers multi-VPC private connectivity and cross-account access](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-msk-multi-vpc-private-connectivity-cross-account-access/)
@@ -67,7 +68,6 @@
 - [Amazon Connect reduces Japan toll-free inbound minute rate](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-reduces-japan-toll-free-inbound-minute-rate/)
 - [Amazon Managed Grafana now supports workspace configuration with version 9.4 option](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-managed-grafana-workspace-configuration-version-9-4-option/)
 - [AWS Verified Access is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-verified-access-generally-available/)
-- [Amazon S3 now applies two security best practices to all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-security-best-practices-buckets-default/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

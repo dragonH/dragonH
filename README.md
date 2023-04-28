@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 now applies two security best practices to all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-security-best-practices-buckets-default/)
+- [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-route-53-resolver-endpoints-hybrid-cloud-new-regions/)
+- [Amazon CloudWatch adds new console capabilities and data visualizations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudwatch-console-capabilities-data-visualizations/)
 - [Amazon SageMaker now supports a hosted TensorBoard experience](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-sagemaker-hosted-tensorboard/)
 - [AWS Systems Manager Fleet Manager console based access to Windows instances now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-systems-manager-fleet-manager-windows-instances-govcloud-regions/)
 - [AWS Network Firewall ingress TLS inspection is now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-network-firewall-ingress-tls-inspection-new-regions/)
@@ -65,9 +68,6 @@
 - [Amazon OpenSearch Service announces Amazon OpenSearch Ingestion](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-opensearch-service-ingestion/)
 - [Amazon Location Service adds support for long distance matrix routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-location-service-long-distance-matrix-routing/)
 - [AWS AppSync supports TypeScript and source maps in JavaScript resolvers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-typescript-maps-javascript-resolvers/)
-- [Amazon MQ now supports RabbitMQ version 3.10.20 and 3.9.27](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-mq-rabbitmq-supports-additional-versions/)
-- [Amazon QuickSight launches two suites of data ingestion APIs](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-quicksight-data-ingestion-apis/)
-- [AWS Lambda adds support for Java 17](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-lambda-java-17/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

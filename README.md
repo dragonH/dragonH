@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports M7g and R7g database &lpar;DB&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
+- [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-c6id-m6id-r6id-instances-new-regions/)
 - [Amazon MSK now offers multi-VPC private connectivity and cross-account access](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-msk-multi-vpc-private-connectivity-cross-account-access/)
 - [Announcing Provisioned Capacity for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-provisioned-capacity/)
 - [AWS Fault Injection Simulator now supports Amazon EC2 Instance disk fill](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-fault-injection-simulator-amazon-ec2-instance-disk-fill/)
@@ -66,8 +68,6 @@
 - [Amazon Managed Grafana now supports workspace configuration with version 9.4 option](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-managed-grafana-workspace-configuration-version-9-4-option/)
 - [AWS Verified Access is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-verified-access-generally-available/)
 - [Amazon S3 now applies two security best practices to all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-security-best-practices-buckets-default/)
-- [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-route-53-resolver-endpoints-hybrid-cloud-new-regions/)
-- [Amazon CloudWatch adds new console capabilities and data visualizations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudwatch-console-capabilities-data-visualizations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Grafana now supports workspace configuration with version 9.4 option](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-managed-grafana-workspace-configuration-version-9-4-option/)
+- [AWS Verified Access is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-verified-access-generally-available/)
 - [Amazon S3 now applies two security best practices to all new buckets by default](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-s3-security-best-practices-buckets-default/)
 - [Amazon Route 53 Resolver endpoints for hybrid cloud are now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-route-53-resolver-endpoints-hybrid-cloud-new-regions/)
 - [Amazon CloudWatch adds new console capabilities and data visualizations](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudwatch-console-capabilities-data-visualizations/)
@@ -66,8 +68,6 @@
 - [AWS Network Firewall ingress TLS inspection is now available in 8 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-network-firewall-ingress-tls-inspection-new-regions/)
 - [Amazon CloudWatch Logs data protection is now available in all AWS Commercial Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-cloudwatch-logs-data-protection-aws-commercial-regions/)
 - [Amazon OpenSearch Service announces Amazon OpenSearch Ingestion](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-opensearch-service-ingestion/)
-- [Amazon Location Service adds support for long distance matrix routing](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-location-service-long-distance-matrix-routing/)
-- [AWS AppSync supports TypeScript and source maps in JavaScript resolvers](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-appsync-typescript-maps-javascript-resolvers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

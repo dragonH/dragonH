@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now supports AMD SEV-SNP](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-amd-sev-snp/)
 - [Amazon EMR Serverless is now available in Bahrain and Hong Kong Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-bahrain-hong-kong-regions/)
 - [Amazon RDS now supports M7g and R7g database &lpar;DB&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-c6id-m6id-r6id-instances-new-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Connect reduces South Korea DID rates](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-reduces-south-korea-did-rates/)
 - [Amazon Connect reduces Japan toll-free inbound minute rate](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-connect-reduces-japan-toll-free-inbound-minute-rate/)
 - [Amazon Managed Grafana now supports workspace configuration with version 9.4 option](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-managed-grafana-workspace-configuration-version-9-4-option/)
-- [AWS Verified Access is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/04/aws-verified-access-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

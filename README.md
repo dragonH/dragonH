@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core announces TLS 1.3 support through Configurable Endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-tls-1-3-configurable-endpoints/)
 - [Amazon Redshift launches ra3.xlplus instances in additional Middle East, Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-ra3-xlplus-instances-additional-regions/)
 - [Amazon GuardDuty Malware Protection adds on-demand scanning](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-guardduty-malware-protection-on-demand-scanning/)
 - [AWS SimSpace Weaver Snapshots are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-simspace-weaver-snapshots/)
@@ -67,7 +68,6 @@
 - [Amazon EMR Serverless is now available in Bahrain and Hong Kong Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-bahrain-hong-kong-regions/)
 - [Amazon RDS now supports M7g and R7g database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
 - [Amazon EC2 C6id, M6id, R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-c6id-m6id-r6id-instances-new-regions/)
-- [Announcing Provisioned Capacity for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-athena-provisioned-capacity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

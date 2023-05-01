@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Sagemaker Data Wrangler now supports image data preparation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-data-wrangler-image-data-preparation/)
+- [AWS Elemental MediaConnect adds support for SRT failover](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconnect-srt-failover/)
+- [AWS Compute Optimizer now supports filtering by tags](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-filtering-tags/)
+- [Announcing the general availability of AWS Local Zones in Auckland](https://aws.amazon.com/about-aws/whats-new/2023/05/general-availability-aws-local-zones-auckland/)
+- [AWS Security Hub adds four new integration partners](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-four-integration-partners/)
+- [Amazon Aurora Serverless v1 now supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v1-postgresql-13/)
 - [AWS Compute Optimizer identifies and filters Microsoft SQL Server workloads](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-identifies-filters-sql-server-workloads/)
 - [AWS IoT Core announces TLS 1.3 support through Configurable Endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-tls-1-3-configurable-endpoints/)
 - [Amazon Redshift launches ra3.xlplus instances in additional Middle East, Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-ra3-xlplus-instances-additional-regions/)
 - [Amazon GuardDuty Malware Protection adds on-demand scanning](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-guardduty-malware-protection-on-demand-scanning/)
-- [AWS SimSpace Weaver Snapshots are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-simspace-weaver-snapshots/)
-- [AWS Config now supports 23 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-new-resource-types/)
-- [Amazon EC2 now supports AMD SEV-SNP](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-ec2-amd-sev-snp/)
-- [Amazon MSK now offers multi-VPC private connectivity and cross-account access](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-msk-multi-vpc-private-connectivity-cross-account-access/)
-- [Amazon EMR Serverless is now available in Bahrain and Hong Kong Regions](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-emr-serverless-bahrain-hong-kong-regions/)
-- [Amazon RDS now supports M7g and R7g database instances](https://aws.amazon.com/about-aws/whats-new/2023/04/amazon-rds-m7g-r7g-database-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

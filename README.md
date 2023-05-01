@@ -65,9 +65,9 @@
 - [AWS Security Hub adds four new integration partners](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-four-integration-partners/)
 - [Amazon Aurora Serverless v1 now supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v1-postgresql-13/)
 - [AWS Compute Optimizer identifies and filters Microsoft SQL Server workloads](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-identifies-filters-sql-server-workloads/)
+- [AWS Config now supports 24 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-new-resource-types/)
 - [AWS IoT Core announces TLS 1.3 support through Configurable Endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-tls-1-3-configurable-endpoints/)
 - [Amazon Redshift launches ra3.xlplus instances in additional Middle East, Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-ra3-xlplus-instances-additional-regions/)
-- [Amazon GuardDuty Malware Protection adds on-demand scanning](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-guardduty-malware-protection-on-demand-scanning/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

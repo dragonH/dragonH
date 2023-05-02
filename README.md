@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Health now publishes service health events to Amazon EventBridge in primary and backup Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-health-publishes-events-eventbridge-primary-backup-regions/)
+- [Amazon SNS now supports message data protection in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-message-data-protection-additional-regions/)
+- [Amazon SNS now supports FIFO topics in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-fifo-topics-five-regions/)
+- [Amazon Inspector now allows customers to search its vulnerability intelligence database](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-inspector-vulnerability-intelligence-database/)
+- [Amazon EFS Replication is now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-efs-replication-aws-regions/)
 - [AWS Config now supports 24 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-new-resource-types/)
 - [Amazon Sagemaker Data Wrangler now supports image data preparation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-data-wrangler-image-data-preparation/)
 - [AWS Elemental MediaConnect adds support for SRT failover](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconnect-srt-failover/)
 - [AWS Compute Optimizer now supports filtering by tags](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-filtering-tags/)
 - [Announcing the general availability of AWS Local Zones in Auckland](https://aws.amazon.com/about-aws/whats-new/2023/05/general-availability-aws-local-zones-auckland/)
-- [AWS Security Hub adds four new integration partners](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-four-integration-partners/)
-- [Amazon Aurora Serverless v1 now supports PostgreSQL 13](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v1-postgresql-13/)
-- [AWS Compute Optimizer identifies and filters Microsoft SQL Server workloads](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-identifies-filters-sql-server-workloads/)
-- [AWS IoT Core announces TLS 1.3 support through Configurable Endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-tls-1-3-configurable-endpoints/)
-- [Amazon Redshift launches ra3.xlplus instances in additional Middle East, Europe and Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-ra3-xlplus-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

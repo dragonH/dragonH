@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL now supports pgvector for simplified ML model integration](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-pgvector-ml-model-integration/)
 - [AWS announces Amazon WorkSpaces Core in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amazon-workspaces-core-govcloud-regions/)
 - [Announcing AWS User Notifications general availability](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-available/)
 - [AWS Console Mobile Application launches push notifications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-console-mobile-application-launches-push-notifications/)
@@ -67,7 +68,6 @@
 - [Amazon Neptune is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-aws-middle-east-uae-region/)
 - [AWS Health now publishes service health events to Amazon EventBridge in primary and backup Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-health-publishes-events-eventbridge-primary-backup-regions/)
 - [Amazon SNS now supports message data protection in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-message-data-protection-additional-regions/)
-- [Amazon SNS now supports FIFO topics in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-fifo-topics-five-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

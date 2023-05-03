@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Directory Service supports smart card authentication in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-directory-service-smart-card-authentication-govcloud-us-east-region/)
+- [Announcing Private API support for AWS AppSync GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-appsync-graphql-apis-private-api-support/)
+- [Amazon Virtual Private Cloud now supports Bring Your Own IP in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-byoip-asia-pacific-hyderabad-region/)
+- [Aurora Serverless v2 is now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v2-govcloud-regions/)
 - [AWS CloudFormation Hooks is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudformation-hooks-additional-regions/)
 - [AWS announces Multi-AZ with Standby for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-multi-az-standby-amazon-opensearch-service/)
 - [AWS Network Firewall now supports Suricata HOME_NET variable override](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-suricata-home-net-variable-override/)
 - [Amazon Rekognition improves accuracy of content moderation for images and videos](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-content-moderation-images-videos/)
-- [Amazon Virtual Private Cloud now supports Bring Your Own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-byoip-additional-aws-regions/)
 - [Amazon WorkSpaces is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-workspace-aws-govcloud-us-east-region/)
 - [AWS Well-Architected Tool Deepens Integration with AWS Service Catalog AppRegistry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-well-architected-tool-integration-service-catalog-appregistry/)
-- [Amazon RDS for PostgreSQL now supports pgvector for simplified ML model integration](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-pgvector-ml-model-integration/)
-- [AWS announces Amazon WorkSpaces Core in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amazon-workspaces-core-govcloud-regions/)
-- [Announcing AWS User Notifications general availability](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation Hooks is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudformation-hooks-additional-regions/)
+- [AWS announces Multi-AZ with Standby for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-multi-az-standby-amazon-opensearch-service/)
+- [AWS Network Firewall now supports Suricata HOME_NET variable override](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-suricata-home-net-variable-override/)
+- [Amazon Rekognition improves accuracy of content moderation for images and videos](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-content-moderation-images-videos/)
 - [Amazon Virtual Private Cloud now supports Bring Your Own IP in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-byoip-additional-aws-regions/)
 - [Amazon WorkSpaces is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-workspace-aws-govcloud-us-east-region/)
 - [AWS Well-Architected Tool Deepens Integration with AWS Service Catalog AppRegistry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-well-architected-tool-integration-service-catalog-appregistry/)
 - [Amazon RDS for PostgreSQL now supports pgvector for simplified ML model integration](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-pgvector-ml-model-integration/)
 - [AWS announces Amazon WorkSpaces Core in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amazon-workspaces-core-govcloud-regions/)
 - [Announcing AWS User Notifications general availability](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-available/)
-- [AWS Console Mobile Application launches push notifications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-console-mobile-application-launches-push-notifications/)
-- [Amazon Kendra now supports content-based query suggestions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-content-based-query-suggestions/)
-- [AWS announces new AWS Direct Connect location in Phoenix](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-phoenix/)
-- [Amazon Connect forecasting, capacity planning, and scheduling is now available in Canada Central](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-forecasting-capacity-planning-scheduling-canada/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

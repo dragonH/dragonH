@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon WorkSpaces Core in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amazon-workspaces-core-govcloud-regions/)
+- [Announcing AWS User Notifications general availability](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-available/)
+- [AWS Console Mobile Application launches push notifications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-console-mobile-application-launches-push-notifications/)
+- [Amazon Kendra now supports content-based query suggestions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-content-based-query-suggestions/)
+- [AWS announces new AWS Direct Connect location in Phoenix](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-phoenix/)
 - [Amazon Connect forecasting, capacity planning, and scheduling is now available in Canada Central](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-forecasting-capacity-planning-scheduling-canada/)
 - [Amazon Neptune is now available in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-aws-middle-east-uae-region/)
 - [AWS Health now publishes service health events to Amazon EventBridge in primary and backup Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-health-publishes-events-eventbridge-primary-backup-regions/)
 - [Amazon SNS now supports message data protection in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-message-data-protection-additional-regions/)
 - [Amazon SNS now supports FIFO topics in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-fifo-topics-five-regions/)
-- [Amazon Inspector now allows customers to search its vulnerability intelligence database](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-inspector-vulnerability-intelligence-database/)
-- [Amazon EFS Replication is now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-efs-replication-aws-regions/)
-- [AWS Config now supports 24 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-new-resource-types/)
-- [Amazon Sagemaker Data Wrangler now supports image data preparation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-data-wrangler-image-data-preparation/)
-- [AWS Elemental MediaConnect adds support for SRT failover](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconnect-srt-failover/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

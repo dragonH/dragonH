@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall now supports Reject action in stream exception policy](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-reject-action-stream-exception-policy/)
+- [SageMaker announces ml.inf2 and ml.trn1 instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-ml-inf2-ml-trn1-instances-model-deployment/)
+- [Amazon VPC IP Address Manager &lpar;IPAM&rpar; is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ipam-additional-aws-regions/)
 - [AWS VSS application-consistent backups now supports PowerShell logging](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-vss-application-backups-powershell-logging/)
 - [AWS CodePipeline is now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codepipeline-govcloud-us-east/)
 - [Amazon EMR on EKS now supports self-hosted notebooks for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-self-hosted-notebooks-managed-endpoints/)
@@ -65,9 +68,6 @@
 - [New in AWS Security Hub: detailed tracking of finding changes with finding history feature](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-tracking-changes-finding-history-feature/)
 - [Amazon EMR on EKS launches vertical autoscaling to auto-tune application resources](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-vertical-auto-scaling/)
 - [AWS Elemental MediaConvert now supports video passthrough](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconvert-video-pass-through/)
-- [AWS Resilience Hub expands AWS Trusted Advisor and Amazon DynamoDB support](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-resilience-hub-trust-advisor-dynamodb-support/)
-- [Zonal shift for Amazon Route 53 Application Recovery Controller now available in 18 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/zonal-shift-amazon-route-53-recovery-controller-18-regions/)
-- [Amazon MSK adds support for Apache Kafka version 3.4.0](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-msk-apache-kafka-version-3-4-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

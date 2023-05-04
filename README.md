@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConvert now supports video passthrough](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconvert-video-pass-through/)
 - [AWS Resilience Hub expands AWS Trusted Advisor and Amazon DynamoDB support](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-resilience-hub-trust-advisor-dynamodb-support/)
 - [Zonal shift for Amazon Route 53 Application Recovery Controller now available in 18 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/zonal-shift-amazon-route-53-recovery-controller-18-regions/)
 - [Amazon MSK adds support for Apache Kafka version 3.4.0](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-msk-apache-kafka-version-3-4-0/)
@@ -67,7 +68,6 @@
 - [Amazon Virtual Private Cloud now supports Bring Your Own IP in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-byoip-asia-pacific-hyderabad-region/)
 - [Aurora Serverless v2 is now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v2-govcloud-regions/)
 - [AWS CloudFormation Hooks is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudformation-hooks-additional-regions/)
-- [AWS announces Multi-AZ with Standby for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-multi-az-standby-amazon-opensearch-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

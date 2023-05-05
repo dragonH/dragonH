@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v2 is now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v2-additional-regions/)
 - [Amazon Rekognition launches face occlusion detection to improve identity verification accuracy](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-face-occlusion-identity-verification-accuracy/)
 - [AWS Backup supports cross-Region backups in four new Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-cross-region-backups-four-regions/)
 - [Amazon CloudWatch Metric Streams adds support for filtering by metric name](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudwatch-metric-streams-filtering-name/)
@@ -67,7 +68,6 @@
 - [Amazon VPC IP Address Manager &lpar;IPAM&rpar; is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ipam-additional-aws-regions/)
 - [AWS VSS application-consistent backups now supports PowerShell logging](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-vss-application-backups-powershell-logging/)
 - [AWS CodePipeline is now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codepipeline-govcloud-us-east/)
-- [Amazon EMR on EKS now supports self-hosted notebooks for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-self-hosted-notebooks-managed-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

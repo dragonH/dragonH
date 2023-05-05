@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition launches face occlusion detection to improve identity verification accuracy](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-face-occlusion-identity-verification-accuracy/)
+- [AWS Backup supports cross-Region backups in four new Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-cross-region-backups-four-regions/)
+- [Amazon CloudWatch Metric Streams adds support for filtering by metric name](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudwatch-metric-streams-filtering-name/)
+- [Amazon QuickSight launches dataset parameters to optimize slicing and dicing experiences](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-dataset-parameters-slicing-dicing-experiences/)
 - [AWS Network Firewall now supports Reject action in stream exception policy](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-reject-action-stream-exception-policy/)
 - [SageMaker announces ml.inf2 and ml.trn1 instances for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-ml-inf2-ml-trn1-instances-model-deployment/)
 - [Amazon VPC IP Address Manager &lpar;IPAM&rpar; is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ipam-additional-aws-regions/)
 - [AWS VSS application-consistent backups now supports PowerShell logging](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-vss-application-backups-powershell-logging/)
 - [AWS CodePipeline is now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codepipeline-govcloud-us-east/)
 - [Amazon EMR on EKS now supports self-hosted notebooks for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-self-hosted-notebooks-managed-endpoints/)
-- [Amazon Kinesis Data Analytics is now available in the Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kinesis-data-analytics-melbourne-region/)
-- [New in AWS Security Hub: detailed tracking of finding changes with finding history feature](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-tracking-changes-finding-history-feature/)
-- [Amazon EMR on EKS launches vertical autoscaling to auto-tune application resources](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-eks-vertical-auto-scaling/)
-- [AWS Elemental MediaConvert now supports video passthrough](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediaconvert-video-pass-through/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

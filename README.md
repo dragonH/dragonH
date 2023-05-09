@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight adds new scatterplot options supporting additional use cases](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-scatterplot-options-additional-use-cases/)
+- [Amazon Athena now supports Apache Hudi 0.12.2](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-apache-hudi/)
 - [Amazon QuickSight now supports State Persistence and Bookmarks for embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-state-persistence-bookmarks-embedded-dashboards/)
 - [Amazon QuickSight now supports VPC Connections via public APIs with Multi-AZ support](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-vpc-public-apis-multi-az-support/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-high-memory-instances-asia-pacific-mumbai-region/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 4.0](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudwatch-synthetics-synthetics-nodejs-runtime-version-4-0/)
 - [AWS Device Farm announces support for Rooted Android Private Devices](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-device-farm-rooted-android-private-devices/)
 - [Amazon Aurora Serverless v2 is now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-serverless-v2-additional-regions/)
-- [AWS Health now publishes service health events to Amazon EventBridge in primary and backup Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-health-publishes-events-eventbridge-primary-backup-regions/)
-- [Amazon Rekognition launches face occlusion detection to improve identity verification accuracy](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-face-occlusion-identity-verification-accuracy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

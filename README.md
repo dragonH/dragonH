@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 I4g storage-optimized instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/)
+- [AWS Network Firewall ingress TLS inspection is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-ingress-tls-inspection-all-regions/)
+- [AWS CloudTrail Lake enhances query support for all Presto SQL SELECT functions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudtrail-lake-query-presto-sql-select-functions/)
 - [AWS IoT SiteWise now supports 15-minute intervals for automatically computing aggregated asset property values](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-15-minute-intervals/)
 - [AWS Glue large instance types are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-large-instance-types-generally-available/)
 - [AWS IoT SiteWise enhances optimized storage in hot path data for higher throughput](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-optimized-storage-hot-path-data/)
@@ -65,9 +68,6 @@
 - [Amazon QuickSight adds new scatterplot options supporting additional use cases](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-scatterplot-options-additional-use-cases/)
 - [Amazon Athena now supports Apache Hudi 0.12.2](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-apache-hudi/)
 - [Amazon QuickSight now supports State Persistence and Bookmarks for embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-state-persistence-bookmarks-embedded-dashboards/)
-- [Amazon QuickSight now supports VPC Connections via public APIs with Multi-AZ support](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-vpc-public-apis-multi-az-support/)
-- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-high-memory-instances-asia-pacific-mumbai-region/)
-- [Amazon Redshift Data Sharing now available in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-data-sharing-aws-china-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

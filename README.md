@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Private Access to the AWS Management Console is generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-management-console-private-access/)
 - [Amazon CloudFront announces one-click security protections](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudfront-one-click-security-protections/)
 - [AWS Lambda now supports AWS X-Ray tracing for SnapStart-enabled functions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/)
 - [AWS announces new AWS Direct in Atlanta Georgia](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-atlanta-georgia/)
@@ -67,7 +68,6 @@
 - [Amazon MemoryDB for Redis now supports IAM Authentication](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-redis-iam-authentication/)
 - [Amazon CodeGuru Security plugin for SageMaker Studio and Jupyter Notebooks now in preview](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codeguru-security-plugin-sagemaker-studio-jupyter-notebooks-preview/)
 - [Amazon SageMaker Canvas can now operationalize ML models in production](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-canvas-operationalize-ml-models-production/)
-- [Introducing Cedar, an open-source language for access control](https://aws.amazon.com/about-aws/whats-new/2023/05/cedar-open-source-language-access-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

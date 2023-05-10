@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront announces one-click security protections](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudfront-one-click-security-protections/)
+- [AWS Lambda now supports AWS X-Ray tracing for SnapStart-enabled functions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-x-ray-tracing-snapstart-enabled-functions/)
+- [AWS announces new AWS Direct in Atlanta Georgia](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-atlanta-georgia/)
+- [Amazon SNS now supports faster automatic deletion of unconfirmed subscriptions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sns-automatic-deletion-unconfirmed-subscriptions/)
+- [SageMaker Autopilot supports training ML models with weights, eight additional objective metrics](https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-autopilot-training-ml-models-weights-eight-objective-metrics/)
 - [AWS Backup now supports AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-aws-user-notifications/)
 - [Amazon MemoryDB for Redis now supports IAM Authentication](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-redis-iam-authentication/)
 - [Amazon CodeGuru Security plugin for SageMaker Studio and Jupyter Notebooks now in preview](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codeguru-security-plugin-sagemaker-studio-jupyter-notebooks-preview/)
 - [Amazon SageMaker Canvas can now operationalize ML models in production](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-canvas-operationalize-ml-models-production/)
 - [Introducing Cedar, an open-source language for access control](https://aws.amazon.com/about-aws/whats-new/2023/05/cedar-open-source-language-access-control/)
-- [Amazon MemoryDB for Redis adds support for Redis 7](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-support-redis-7/)
-- [Announcing Provisioned Concurrency for Amazon SageMaker Serverless Inference](https://aws.amazon.com/about-aws/whats-new/2023/05/provisioned-concurrency-amazon-sagemaker-serverless-inference/)
-- [AWS Systems Manager now allows customers to optimize the compute costs of their applications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-optimize-compute-costs-applications/)
-- [Amazon SageMaker notebooks now support ml.p4d, ml.p4de and ml.inf1 instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-notebooks-ml-p4d-ml-p4de-ml-inf1-instances/)
-- [AWS announces new AWS Direct Connect location in Lagos, Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-lagos-nigeria/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

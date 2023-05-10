@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-aws-user-notifications/)
+- [Amazon MemoryDB for Redis now supports IAM Authentication](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-redis-iam-authentication/)
 - [Amazon CodeGuru Security plugin for SageMaker Studio and Jupyter Notebooks now in preview](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-codeguru-security-plugin-sagemaker-studio-jupyter-notebooks-preview/)
 - [Amazon SageMaker Canvas can now operationalize ML models in production](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-canvas-operationalize-ml-models-production/)
 - [Introducing Cedar, an open-source language for access control](https://aws.amazon.com/about-aws/whats-new/2023/05/cedar-open-source-language-access-control/)
@@ -66,8 +68,6 @@
 - [AWS Systems Manager now allows customers to optimize the compute costs of their applications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-optimize-compute-costs-applications/)
 - [Amazon SageMaker notebooks now support ml.p4d, ml.p4de and ml.inf1 instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-notebooks-ml-p4d-ml-p4de-ml-inf1-instances/)
 - [AWS announces new AWS Direct Connect location in Lagos, Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-lagos-nigeria/)
-- [AWS IoT Device Defender and secure tunneling is now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-device-defender-secure-tunneling-uae-region/)
-- [Introducing Amazon EC2 I4g storage-optimized instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

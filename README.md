@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Defender and secure tunneling is now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-device-defender-secure-tunneling-uae-region/)
 - [Introducing Amazon EC2 I4g storage-optimized instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/)
 - [AWS Network Firewall ingress TLS inspection is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-ingress-tls-inspection-all-regions/)
 - [AWS CloudTrail Lake enhances query support for all Presto SQL SELECT functions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudtrail-lake-query-presto-sql-select-functions/)
@@ -67,7 +68,6 @@
 - [Amazon Managed Service for Prometheus now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-managed-services-prometheus-4-regions/)
 - [Amazon QuickSight adds new scatterplot options supporting additional use cases](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-scatterplot-options-additional-use-cases/)
 - [Amazon Athena now supports Apache Hudi 0.12.2](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-apache-hudi/)
-- [Amazon QuickSight now supports State Persistence and Bookmarks for embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-state-persistence-bookmarks-embedded-dashboards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

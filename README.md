@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas can now operationalize ML models in production](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-canvas-operationalize-ml-models-production/)
+- [Introducing Cedar, an open-source language for access control](https://aws.amazon.com/about-aws/whats-new/2023/05/cedar-open-source-language-access-control/)
+- [Amazon MemoryDB for Redis adds support for Redis 7](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-memorydb-support-redis-7/)
+- [Announcing Provisioned Concurrency for Amazon SageMaker Serverless Inference](https://aws.amazon.com/about-aws/whats-new/2023/05/provisioned-concurrency-amazon-sagemaker-serverless-inference/)
+- [AWS Systems Manager now allows customers to optimize the compute costs of their applications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-optimize-compute-costs-applications/)
+- [Amazon SageMaker notebooks now support ml.p4d, ml.p4de and ml.inf1 instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-notebooks-ml-p4d-ml-p4de-ml-inf1-instances/)
+- [AWS announces new AWS Direct Connect location in Lagos, Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-lagos-nigeria/)
 - [AWS IoT Device Defender and secure tunneling is now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-device-defender-secure-tunneling-uae-region/)
 - [Introducing Amazon EC2 I4g storage-optimized instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-storage-optimized-instances/)
 - [AWS Network Firewall ingress TLS inspection is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-network-firewall-ingress-tls-inspection-all-regions/)
-- [AWS CloudTrail Lake enhances query support for all Presto SQL SELECT functions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudtrail-lake-query-presto-sql-select-functions/)
-- [AWS IoT SiteWise now supports 15-minute intervals for automatically computing aggregated asset property values](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-15-minute-intervals/)
-- [AWS Glue large instance types are now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-large-instance-types-generally-available/)
-- [AWS IoT SiteWise enhances optimized storage in hot path data for higher throughput](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-optimized-storage-hot-path-data/)
-- [Amazon Managed Service for Prometheus now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-managed-services-prometheus-4-regions/)
-- [Amazon QuickSight adds new scatterplot options supporting additional use cases](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-scatterplot-options-additional-use-cases/)
-- [Amazon Athena now supports Apache Hudi 0.12.2](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-apache-hudi/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

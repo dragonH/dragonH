@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace introduces new self-service listing feature for single AMI products](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-marketplace-self-service-listing-feature-single-ami-products/)
 - [Amazon RDS now supports M6g and R6g database instances in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-m6g-r6g-database-instances-four-regions/)
 - [Amazon Connect Contact Lens now provides supervisor alerts on agent performance](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-supervisor-alerts-agent-performance/)
 - [AWS Glue Crawler now support custom JDBC drivers](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-crawler-custom-jdbc-drivers/)
@@ -67,7 +68,6 @@
 - [Monitor the health of your Amazon IVS channels with multiple hosts](https://aws.amazon.com/about-aws/whats-new/2023/05/monitor-health-amazon-ivs-channels-multiple-hosts/)
 - [AWS announces Amazon Aurora I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-i-o-optimized/)
 - [Amazon Aurora MySQL and PostgreSQL support for Graviton3 based R7g instance family](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-mysql-postgresql-graviton3-based-r7g-instance-family/)
-- [Amazon ElastiCache for Redis now supports enabling Cluster Mode configuration on existing clusters](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-elasticache-redis-cluster-mode-configuration-existing-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

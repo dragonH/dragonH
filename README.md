@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-clean-room-hipaa-eligible/)
 - [AWS IoT Core registry adds additional AWS CloudFormation resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-registry-cloudformation-resource-types/)
 - [AWS Marketplace introduces new self-service listing feature for single AMI products](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-marketplace-self-service-listing-feature-single-ami-products/)
 - [Amazon RDS now supports M6g and R6g database instances in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-m6g-r6g-database-instances-four-regions/)
@@ -67,7 +68,6 @@
 - [AWS Lambda now supports Kafka and Amazon MQ event sources in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-lambda-kafka-mq-event-sources-govcloud-regions/)
 - [Amazon FSx for NetApp ONTAP is now available in US West &lpar;N. California&rpar; and Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-netapp-ontap-california-jakarta/)
 - [Monitor the health of your Amazon IVS channels with multiple hosts](https://aws.amazon.com/about-aws/whats-new/2023/05/monitor-health-amazon-ivs-channels-multiple-hosts/)
-- [AWS announces Amazon Aurora I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-i-o-optimized/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

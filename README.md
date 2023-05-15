@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches Common Sub-expression Elimination for SPICE performance optimization](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-common-sub-expression-elimination/)
 - [Advanced sampling now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-distro-opentelemetry-advanced-sampling/)
 - [Amazon Timestream now supports unloading data to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-timestream-unloading-data-amazon-s3/)
 - [Amazon Textract updates its Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-textract-updates-queries-analyze-document-api/)
@@ -67,7 +68,6 @@
 - [Amazon Omics adds pre-built bioinformatic workflows with predictable pricing](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-pre-built-bioinformatic-workflows-predictable-pricing/)
 - [AWS Systems Manager Patch Manager now supports Ubuntu 22.04](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-patch-manager-ubuntu-22-04/)
 - [AWS Clean Rooms is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-clean-room-hipaa-eligible/)
-- [AWS IoT Core registry adds additional AWS CloudFormation resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-core-registry-cloudformation-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

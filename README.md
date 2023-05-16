@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports query parameter pass through](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediatailor-query-parameter-pass-through/)
+- [Amazon Kendra releases Adobe Experience Manager Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-adobe-experience-manager-cloud-connector/)
+- [Amazon Omics adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-integration-eventbridge/)
 - [AWS Systems Manager Patch Manager now supports Alma Linux](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-patch-manager-alma-linux/)
 - [Amazon QuickSight launches Common Sub-expression Elimination for SPICE performance optimization](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-common-sub-expression-elimination/)
 - [Advanced sampling now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-distro-opentelemetry-advanced-sampling/)
@@ -65,9 +68,6 @@
 - [Amazon Textract updates its Queries feature within Analyze Document API](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-textract-updates-queries-analyze-document-api/)
 - [AWS Config advanced queries support 62 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-config-advanced-queries-new-resource-types/)
 - [Amazon Omics now supports direct upload to Omics storage and automatic variant data parsing](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omic-direct-upload-storage-automatic-variant-data-parsing/)
-- [Amazon Omics announces support for Graphical Processing Units for workflows](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-graphical-processing-units-workflows/)
-- [Amazon Omics adds pre-built bioinformatic workflows with predictable pricing](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-pre-built-bioinformatic-workflows-predictable-pricing/)
-- [AWS Systems Manager Patch Manager now supports Ubuntu 22.04](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-patch-manager-ubuntu-22-04/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

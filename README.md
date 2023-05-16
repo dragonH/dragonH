@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Patch Manager now supports Alma Linux](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-patch-manager-alma-linux/)
 - [Amazon QuickSight launches Common Sub-expression Elimination for SPICE performance optimization](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-common-sub-expression-elimination/)
 - [Advanced sampling now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-distro-opentelemetry-advanced-sampling/)
 - [Amazon Timestream now supports unloading data to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-timestream-unloading-data-amazon-s3/)
@@ -67,7 +68,6 @@
 - [Amazon Omics announces support for Graphical Processing Units for workflows](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-graphical-processing-units-workflows/)
 - [Amazon Omics adds pre-built bioinformatic workflows with predictable pricing](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-pre-built-bioinformatic-workflows-predictable-pricing/)
 - [AWS Systems Manager Patch Manager now supports Ubuntu 22.04](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-patch-manager-ubuntu-22-04/)
-- [AWS Clean Rooms is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-clean-room-hipaa-eligible/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

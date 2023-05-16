@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket supports new trapped-ion quantum computer named Aria from IonQ](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-braket-trapped-ion-quantum-computer-aria-ionq/)
+- [Amazon RDS now supports M6i and R6i database instances in 16 new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-m6i-r6i-database-instances-16-regions/)
 - [AWS Cost Categories now supports “Usage Type” dimension](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cost-categories-usage-type-dimension/)
 - [AWS WAF enhances rate-based rules to support request headers and composite keys](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-waf-rate-based-rules-request-headers-composite-keys/)
 - [Amazon Kendra releases Gmail Connector to enable messaging search](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-gmail-connector-messaging-search/)
@@ -66,8 +68,6 @@
 - [Amazon Kendra releases Adobe Experience Manager Cloud Connector](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-adobe-experience-manager-cloud-connector/)
 - [Amazon Omics adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-omics-integration-eventbridge/)
 - [AWS Systems Manager Patch Manager now supports Alma Linux](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-patch-manager-alma-linux/)
-- [Amazon QuickSight launches Common Sub-expression Elimination for SPICE performance optimization](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-quicksight-common-sub-expression-elimination/)
-- [Advanced sampling now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-distro-opentelemetry-advanced-sampling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

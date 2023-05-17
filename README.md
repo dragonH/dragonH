@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Device Farm announces VPC integration for Private Devices](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-device-farm-vpc-integration-private-devices/)
 - [Amazon CloudFront now supports stale-while-revalidate and stale-if-error cache control directives](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cloudfront-stale-while-revalidate-stale-if-error-cache-control-directives/)
 - [Amazon Rekognition launches eye gaze direction detection in Face APIs](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rekognition-eye-gaze-direction-detection-face-apis/)
 - [AWS Systems Manager Distributor now supports the CrowdStrike Falcon Sensor agent](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-systems-manager-distributor-crowdstrike-falcon-sensor-agent/)
@@ -67,7 +68,6 @@
 - [AWS WAF enhances rate-based rules to support request headers and composite keys](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-waf-rate-based-rules-request-headers-composite-keys/)
 - [Amazon Kendra releases Gmail Connector to enable messaging search](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-gmail-connector-messaging-search/)
 - [Amazon Kendra releases Adobe Experience Manager On-Premise Connector](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-adobe-experience-manager-on-premise-connector/)
-- [AWS Elemental MediaTailor now supports query parameter pass through](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediatailor-query-parameter-pass-through/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

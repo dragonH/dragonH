@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The new Amazon EMR Console is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-console-aws-govcloud-us-regions/)
+- [Amazon Neptune announces AWS CloudFormation support for Neptune Serverless](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-cloudformation-serverless/)
+- [Amazon Detective now supports investigations for additional AWS services](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-detective-investigations-additional-services/)
 - [AWS DataSync can now copy data to and from Amazon S3 compatible storage on Snow](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-datasync-copy-data-amazon-s3-compatible-storage-snow/)
 - [Amazon MQ is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-mq-new-regions/)
 - [Announcing the general availability of EC2 G5 instances in Los Angeles Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/05/general-availability-ec2-g5-instances-los-angeles-local-zones/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for Oracle now supports April 2023 Release Update for 19c](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-oracle-april-2023-update-19c/)
 - [AWS Global Accelerator extends TCP termination to IPv6 traffic](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-global-accelerator-extends-tcp-termination-ipv6-traffic/)
 - [AWS User Notifications is now generally available for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-aws-data-exchange/)
-- [Amazon Kendra releases Alfresco Enterprise Connector](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-alfresco-enterprise-connector/)
-- [Amazon Kendra releases Alfresco PaaS Connector](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-kendra-alfresco-paas-connector/)
-- [AWS IoT SiteWise formula builder improvements](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-iot-sitewise-formula-builder-improvements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

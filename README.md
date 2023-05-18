@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC IP Address Manager is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-uae-region/)
+- [Amazon EC2 C6in instances are now available in 20 AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c6in-instances-new-aws-regions/)
 - [The new Amazon EMR Console is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-console-aws-govcloud-us-regions/)
 - [Amazon Neptune announces AWS CloudFormation support for Neptune Serverless](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-cloudformation-serverless/)
 - [Amazon Detective now supports investigations for additional AWS services](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-detective-investigations-additional-services/)
@@ -66,8 +68,6 @@
 - [Announcing the general availability of EC2 G5 instances in Los Angeles Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/05/general-availability-ec2-g5-instances-los-angeles-local-zones/)
 - [Amazon Athena now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-ipv6-endpoints-inbound-connections/)
 - [Amazon RDS for Oracle now supports April 2023 Release Update for 19c](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-oracle-april-2023-update-19c/)
-- [AWS Global Accelerator extends TCP termination to IPv6 traffic](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-global-accelerator-extends-tcp-termination-ipv6-traffic/)
-- [AWS User Notifications is now generally available for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-user-notifications-aws-data-exchange/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

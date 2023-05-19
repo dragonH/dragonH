@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces improved end-to-end latencies for Amazon EventBridge Event Buses](https://aws.amazon.com/about-aws/whats-new/2023/05/improved-end-to-end-latencies-amazon-eventbridge-event-buses/)
+- [Amazon Connect launches APIs to programmatically configure prompts](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-api-programmatically-configure-prompts/)
+- [AWS Application Discovery Service Agentless Collector now supports on-premises databases](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-discovery-service-agentless-collector-on-premises-databases/)
+- [Amazon SageMaker now supports geospatial ML &lpar;Generally Available&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-supports-geospatial-ml-generally-available/)
 - [Amazon VPC IP Address Manager is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-uae-region/)
 - [Amazon EC2 C6in instances are now available in 20 AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c6in-instances-new-aws-regions/)
 - [The new Amazon EMR Console is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-console-aws-govcloud-us-regions/)
 - [Amazon Neptune announces AWS CloudFormation support for Neptune Serverless](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-cloudformation-serverless/)
 - [Amazon Detective now supports investigations for additional AWS services](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-detective-investigations-additional-services/)
 - [AWS DataSync can now copy data to and from Amazon S3 compatible storage on Snow](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-datasync-copy-data-amazon-s3-compatible-storage-snow/)
-- [Amazon MQ is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-mq-new-regions/)
-- [Announcing the general availability of EC2 G5 instances in Los Angeles Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/05/general-availability-ec2-g5-instances-los-angeles-local-zones/)
-- [Amazon Athena now supports IPv6 endpoints for inbound connections](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-ipv6-endpoints-inbound-connections/)
-- [Amazon RDS for Oracle now supports April 2023 Release Update for 19c](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-oracle-april-2023-update-19c/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

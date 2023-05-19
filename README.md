@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower launches 28 new proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-control-tower-new-proactive-controls/)
 - [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/05/quicksight-dashboards-reporting-insights-aws-marketplace/)
 - [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-instances-available-additional-regions/)
 - [AWS announces improved end-to-end latencies for Amazon EventBridge Event Buses](https://aws.amazon.com/about-aws/whats-new/2023/05/improved-end-to-end-latencies-amazon-eventbridge-event-buses/)
@@ -67,7 +68,6 @@
 - [Amazon VPC IP Address Manager is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-uae-region/)
 - [Amazon EC2 C6in instances are now available in 20 AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c6in-instances-new-aws-regions/)
 - [The new Amazon EMR Console is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-console-aws-govcloud-us-regions/)
-- [Amazon Neptune announces AWS CloudFormation support for Neptune Serverless](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-cloudformation-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

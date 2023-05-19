@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-instances-available-additional-regions/)
 - [AWS announces improved end-to-end latencies for Amazon EventBridge Event Buses](https://aws.amazon.com/about-aws/whats-new/2023/05/improved-end-to-end-latencies-amazon-eventbridge-event-buses/)
 - [Amazon Connect launches APIs to programmatically configure prompts](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-api-programmatically-configure-prompts/)
 - [AWS Application Discovery Service Agentless Collector now supports on-premises databases](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-discovery-service-agentless-collector-on-premises-databases/)
@@ -67,7 +68,6 @@
 - [The new Amazon EMR Console is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-console-aws-govcloud-us-regions/)
 - [Amazon Neptune announces AWS CloudFormation support for Neptune Serverless](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-neptune-cloudformation-serverless/)
 - [Amazon Detective now supports investigations for additional AWS services](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-detective-investigations-additional-services/)
-- [AWS DataSync can now copy data to and from Amazon S3 compatible storage on Snow](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-datasync-copy-data-amazon-s3-compatible-storage-snow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

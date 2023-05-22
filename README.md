@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports restoring resources with tags](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-restoring-resources-tags/)
 - [Aurora MySQL improves performance and failover recovery time when binlog is enabled](https://aws.amazon.com/about-aws/whats-new/2023/05/aurora-mysql-performance-failover-recovery-time-binlog-enabled/)
 - [AWS Chatbot supports access to Amazon CloudWatch dashboards and Logs Insights in chat channels](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-chatbot-cloudwatch-dashboards-logs-insights-chat-channels/)
 - [Announcing AWS ParallelCluster 3.6 with GPU instance health checks and RHEL8 support](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-parallelcluster-3-6-gpu-instance-health-checks-rhel8/)
@@ -67,7 +68,6 @@
 - [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/05/quicksight-dashboards-reporting-insights-aws-marketplace/)
 - [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-instances-available-additional-regions/)
 - [AWS announces improved end-to-end latencies for Amazon EventBridge Event Buses](https://aws.amazon.com/about-aws/whats-new/2023/05/improved-end-to-end-latencies-amazon-eventbridge-event-buses/)
-- [Amazon Connect launches APIs to programmatically configure prompts](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-api-programmatically-configure-prompts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

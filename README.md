@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe now supports streaming transcription in 3 more AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-transcribe-streaming-transcription-3-aws-regions/)
+- [AWS partners bring choice of temporary elevated access capabilities to IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-partners-temporary-elevated-access-capabilities-iam-identity-center/)
 - [AWS Control Tower launches 28 new proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-control-tower-new-proactive-controls/)
 - [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/05/quicksight-dashboards-reporting-insights-aws-marketplace/)
 - [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-instances-available-additional-regions/)
@@ -66,8 +68,6 @@
 - [AWS Application Discovery Service Agentless Collector now supports on-premises databases](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-discovery-service-agentless-collector-on-premises-databases/)
 - [Amazon SageMaker now supports geospatial ML &lpar;Generally Available&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-supports-geospatial-ml-generally-available/)
 - [Amazon VPC IP Address Manager is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-uae-region/)
-- [Amazon EC2 C6in instances are now available in 20 AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c6in-instances-new-aws-regions/)
-- [The new Amazon EMR Console is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-emr-console-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

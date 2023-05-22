@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Chatbot supports access to Amazon CloudWatch dashboards and Logs Insights in chat channels](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-chatbot-cloudwatch-dashboards-logs-insights-chat-channels/)
+- [Announcing AWS ParallelCluster 3.6 with GPU instance health checks and RHEL8 support](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-parallelcluster-3-6-gpu-instance-health-checks-rhel8/)
 - [Amazon Transcribe now supports streaming transcription in 3 more AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-transcribe-streaming-transcription-3-aws-regions/)
 - [AWS partners bring choice of temporary elevated access capabilities to IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-partners-temporary-elevated-access-capabilities-iam-identity-center/)
 - [AWS Control Tower launches 28 new proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-control-tower-new-proactive-controls/)
@@ -66,8 +68,6 @@
 - [AWS announces improved end-to-end latencies for Amazon EventBridge Event Buses](https://aws.amazon.com/about-aws/whats-new/2023/05/improved-end-to-end-latencies-amazon-eventbridge-event-buses/)
 - [Amazon Connect launches APIs to programmatically configure prompts](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-api-programmatically-configure-prompts/)
 - [AWS Application Discovery Service Agentless Collector now supports on-premises databases](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-discovery-service-agentless-collector-on-premises-databases/)
-- [Amazon SageMaker now supports geospatial ML &lpar;Generally Available&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-supports-geospatial-ml-generally-available/)
-- [Amazon VPC IP Address Manager is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL now supports Rust to build high performance database functions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-rust/)
+- [AWS Wickr is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-wickr-hipaa-eligible/)
 - [AWS Backup now supports restoring resources with tags](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-backup-restoring-resources-tags/)
 - [Aurora MySQL improves performance and failover recovery time when binlog is enabled](https://aws.amazon.com/about-aws/whats-new/2023/05/aurora-mysql-performance-failover-recovery-time-binlog-enabled/)
 - [AWS Chatbot supports access to Amazon CloudWatch dashboards and Logs Insights in chat channels](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-chatbot-cloudwatch-dashboards-logs-insights-chat-channels/)
@@ -66,8 +68,6 @@
 - [AWS partners bring choice of temporary elevated access capabilities to IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-partners-temporary-elevated-access-capabilities-iam-identity-center/)
 - [AWS Control Tower launches 28 new proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-control-tower-new-proactive-controls/)
 - [QuickSight dashboards now available for seller reporting and insights in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/05/quicksight-dashboards-reporting-insights-aws-marketplace/)
-- [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-i4g-instances-available-additional-regions/)
-- [AWS announces improved end-to-end latencies for Amazon EventBridge Event Buses](https://aws.amazon.com/about-aws/whats-new/2023/05/improved-end-to-end-latencies-amazon-eventbridge-event-buses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6i and M6i instances are now available in AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c6i-m6i-instances-hyderabad/)
+- [AWS Global Accelerator now supports endpoints in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-global-accelerator-endpoints-additional-regions/)
+- [AWS re:Post now supports adding multiple email addresses to your profile](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-re-post-multiple-email-addresses-profile/)
 - [Amazon Redshift announces support for auto-commit statements in stored procedure](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-auto-commit-statements-stored-procedures/)
 - [Amazon RDS for PostgreSQL now supports Rust to build high performance database functions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-rust/)
 - [AWS Wickr is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-wickr-hipaa-eligible/)
@@ -65,9 +68,6 @@
 - [Aurora MySQL improves performance and failover recovery time when binlog is enabled](https://aws.amazon.com/about-aws/whats-new/2023/05/aurora-mysql-performance-failover-recovery-time-binlog-enabled/)
 - [AWS Chatbot supports access to Amazon CloudWatch dashboards and Logs Insights in chat channels](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-chatbot-cloudwatch-dashboards-logs-insights-chat-channels/)
 - [Announcing AWS ParallelCluster 3.6 with GPU instance health checks and RHEL8 support](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-parallelcluster-3-6-gpu-instance-health-checks-rhel8/)
-- [Amazon Transcribe now supports streaming transcription in 3 more AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-transcribe-streaming-transcription-3-aws-regions/)
-- [AWS partners bring choice of temporary elevated access capabilities to IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-partners-temporary-elevated-access-capabilities-iam-identity-center/)
-- [AWS Control Tower launches 28 new proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-control-tower-new-proactive-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

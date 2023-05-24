@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate launches real time document translation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-translate-document-translation/)
+- [Amazon EC2 M1 Mac instances now support beta macOS versions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-m1-mac-instances-beta-macos-versions/)
 - [Amazon MWAA is now SOC Compliant](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-mwaa-soc-compliant/)
 - [AWS Elemental MediaPackage now supports Low-Latency HLS](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediapackage-low-latency-hls/)
 - [AWS announces new AWS Direct Connect location in Toronto](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-toronto/)
@@ -66,8 +68,6 @@
 - [AWS Global Accelerator now supports endpoints in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-global-accelerator-endpoints-additional-regions/)
 - [AWS re:Post now supports adding multiple email addresses to your profile](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-re-post-multiple-email-addresses-profile/)
 - [Amazon Redshift announces support for auto-commit statements in stored procedure](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-redshift-auto-commit-statements-stored-procedures/)
-- [Amazon RDS for PostgreSQL now supports Rust to build high performance database functions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-rust/)
-- [AWS Wickr is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-wickr-hipaa-eligible/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

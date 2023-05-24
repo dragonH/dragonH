@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens launches theme detection](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-theme-detection/)
+- [AWS Amplify announces Authenticator UI Library for Swift and Android](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amplify-authenticator-ul-library-swift-android/)
+- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-windows-file-server-aws-asia-pacific-melbourne-region/)
+- [AWS KMS HSMs upgraded to FIPS 140-2 Security Level 3](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-kms-hsm-fips-security-level-3/)
+- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-lustre-aws-asia-pacific-melbourne-region/)
+- [Amazon RDS for PostgreSQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-15-read-replicas-multi-az-readable-instances/)
+- [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-netapp-ontap-aws-asia-pacific-melbourne-region/)
 - [Amazon RDS Performance Insights provides an enhanced console experience](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-performance-insights-enhanced-console/)
 - [Amazon SES adds new enhancements to its dedicated IPs &lpar;managed&rpar; feature](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ses-enhancements-dedicated-ips-managed-feature/)
 - [Amazon Translate launches real time document translation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-translate-document-translation/)
-- [Amazon EC2 M1 Mac instances now support beta macOS versions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-m1-mac-instances-beta-macos-versions/)
-- [Amazon MWAA is now SOC Compliant](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-mwaa-soc-compliant/)
-- [AWS Elemental MediaPackage now supports Low-Latency HLS](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediapackage-low-latency-hls/)
-- [AWS announces new AWS Direct Connect location in Toronto](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-toronto/)
-- [Amazon EC2 X2idn and X2iedn instances now available in &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-x2idn-x2iedn-instances-hyderabad-region/)
-- [Amazon EC2 C6i and M6i instances are now available in AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c6i-m6i-instances-hyderabad/)
-- [AWS Global Accelerator now supports endpoints in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-global-accelerator-endpoints-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

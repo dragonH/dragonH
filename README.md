@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild is now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codebuild-asia-pacific-melbourne-region/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.27](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eks-eks-distro-kubernetes-version-1-27/)
 - [AWS DataSync is now available in the Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-datasync-asia-pacific-melbourne-region/)
 - [Amazon Connect Contact Lens launches theme detection](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-theme-detection/)
@@ -67,7 +68,6 @@
 - [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-lustre-aws-asia-pacific-melbourne-region/)
 - [Amazon RDS for PostgreSQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-15-read-replicas-multi-az-readable-instances/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-netapp-ontap-aws-asia-pacific-melbourne-region/)
-- [Amazon RDS Performance Insights provides an enhanced console experience](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-performance-insights-enhanced-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

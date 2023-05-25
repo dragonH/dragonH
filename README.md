@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-msk-asia-pacific-melbourne-region/)
+- [AWS Security Hub is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-security-hub-asia-pacific-melbourne-region/)
+- [AWS Shield Advanced is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-shield-advanced-four-regions/)
 - [Introducing AWS Glue 4.0 for AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-4-0-govcloud-us-west-region/)
+- [Amazon Translate launches real time document translation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-translate-document-translation/)
 - [Amazon Athena updates data source connectors to improve performance and reduce cost](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-data-source-connectors-performance-cost/)
 - [Amazon ElastiCache for Redis data tiering now supports auto scaling](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-elasticache-redis-data-tiering-auto-scaling/)
 - [AWS Copilot announces Static Site pattern to host single-page web applications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-copilot-static-site-pattern-single-page-web-applications/)
 - [AWS Compute Optimizer supports external performance metrics in 5 new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-performance-metrics-5-regions/)
 - [Amazon SageMaker JumpStart now supports fine-tuning of Foundation Models with domain adaptation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-jumpstart-fine-tuning-foundation-models-domain-adaptation/)
-- [Amazon RDS for PostgreSQL supports minor versions 15.3, 14.8, 13.11, 12.15, and 11.20](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-supports-new-minor-versions/)
-- [Amazon Cognito launches an improved console experience for identity pools](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cognito-console-identity-pools/)
-- [AWS CloudFormation StackSets is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudformation-stacksets-additional-regions/)
-- [Announcing AWS AppSync Merged APIs for GraphQL federation](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-appsync-merged-apis-graphql-federation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

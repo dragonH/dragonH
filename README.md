@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Glue 4.0 for AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-glue-4-0-govcloud-us-west-region/)
 - [Amazon Athena updates data source connectors to improve performance and reduce cost](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-athena-data-source-connectors-performance-cost/)
 - [Amazon ElastiCache for Redis data tiering now supports auto scaling](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-elasticache-redis-data-tiering-auto-scaling/)
 - [AWS Copilot announces Static Site pattern to host single-page web applications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-copilot-static-site-pattern-single-page-web-applications/)
@@ -67,7 +68,6 @@
 - [Amazon Cognito launches an improved console experience for identity pools](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cognito-console-identity-pools/)
 - [AWS CloudFormation StackSets is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudformation-stacksets-additional-regions/)
 - [Announcing AWS AppSync Merged APIs for GraphQL federation](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-appsync-merged-apis-graphql-federation/)
-- [AWS CodeBuild is now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codebuild-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

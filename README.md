@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Copilot announces Static Site pattern to host single-page web applications](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-copilot-static-site-pattern-single-page-web-applications/)
+- [AWS Compute Optimizer supports external performance metrics in 5 new regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-compute-optimizer-performance-metrics-5-regions/)
 - [Amazon SageMaker JumpStart now supports fine-tuning of Foundation Models with domain adaptation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-jumpstart-fine-tuning-foundation-models-domain-adaptation/)
 - [Amazon RDS for PostgreSQL supports minor versions 15.3, 14.8, 13.11, 12.15, and 11.20](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-supports-new-minor-versions/)
 - [Amazon Cognito launches an improved console experience for identity pools](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cognito-console-identity-pools/)
@@ -66,8 +68,6 @@
 - [AWS CodeBuild is now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codebuild-asia-pacific-melbourne-region/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.27](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eks-eks-distro-kubernetes-version-1-27/)
 - [AWS DataSync is now available in the Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-datasync-asia-pacific-melbourne-region/)
-- [Amazon Connect Contact Lens launches theme detection](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-theme-detection/)
-- [AWS Amplify announces Authenticator UI Library for Swift and Android](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amplify-authenticator-ul-library-swift-android/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

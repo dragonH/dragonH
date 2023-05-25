@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker JumpStart now supports fine-tuning of Foundation Models with domain adaptation](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-jumpstart-fine-tuning-foundation-models-domain-adaptation/)
+- [Amazon RDS for PostgreSQL supports minor versions 15.3, 14.8, 13.11, 12.15, and 11.20](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-supports-new-minor-versions/)
+- [Amazon Cognito launches an improved console experience for identity pools](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-cognito-console-identity-pools/)
+- [AWS CloudFormation StackSets is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-cloudformation-stacksets-additional-regions/)
+- [Announcing AWS AppSync Merged APIs for GraphQL federation](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-appsync-merged-apis-graphql-federation/)
 - [AWS CodeBuild is now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-codebuild-asia-pacific-melbourne-region/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.27](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eks-eks-distro-kubernetes-version-1-27/)
 - [AWS DataSync is now available in the Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-datasync-asia-pacific-melbourne-region/)
 - [Amazon Connect Contact Lens launches theme detection](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-lens-theme-detection/)
 - [AWS Amplify announces Authenticator UI Library for Swift and Android](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-amplify-authenticator-ul-library-swift-android/)
-- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-windows-file-server-aws-asia-pacific-melbourne-region/)
-- [AWS KMS HSMs upgraded to FIPS 140-2 Security Level 3](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-kms-hsm-fips-security-level-3/)
-- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-lustre-aws-asia-pacific-melbourne-region/)
-- [Amazon RDS for PostgreSQL now supports up to 15 read replicas for RDS Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-postgresql-15-read-replicas-multi-az-readable-instances/)
-- [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-fsx-netapp-ontap-aws-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

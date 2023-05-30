@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 announces support for DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-appstream-2-0-dcv-extension-sdk/)
+- [AWS announces new AWS Direct Connect location in Santiago, Chile](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-santiago-chile/)
+- [Amazon SageMaker Ground Truth Plus now supports human feedback and fine-tuning data for Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-ground-truth-plus-human-feedback-fine-tuning-data-generative-ai/)
+- [AWS Shield Advanced now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-shield-advanced-cloudformation/)
+- [Amazon WorkSpaces announces support for NICE DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-workspaces-nice-dcv-extension-sdk/)
+- [Amazon Polly launches two new female NTTS voices in Irish English and Danish](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-polly-new-female-ntts-voices/)
 - [AWS Transfer Family is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-transfer-family-three-regions/)
 - [AWS announces new AWS Direct Connect location in Manila, Philippines](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-manila-philippines/)
 - [Amazon Connect now provides contact records and events for external third-party calls](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-connect-contact-records-events-third-party-calls/)
 - [AWS Firewall Manager is now available in the Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-firewall-manager-asia-pacific-melbourne/)
-- [AWS Graviton2-based Amazon EC2 instances available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-graviton-2-based-ec2-instances-additional-regions/)
-- [Amazon GameLift improves FleetIQ game session placement logic](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-gamelift-fleetiq-game-session-placement-logic/)
-- [Amazon SageMaker is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-sagemaker-asia-pacific-melbourne-region/)
-- [PostgreSQL 16 Beta 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/05/postgresql-16-beta-1-amazon-rds-database-preview-environment/)
-- [Amazon Aurora PostgreSQL improves availability of read replicas](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-aurora-postgresql-read-replicas/)
-- [Amazon EC2 C7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-ec2-c7g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

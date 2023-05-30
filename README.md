@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Security Lake is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-security-lake-generally-available/)
+- [Amazon RDS for MySQL supports Optimized Reads on Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-mysql-optimized-reads-multi-az-readable-instances/)
 - [Invoice Summary is now available](https://aws.amazon.com/about-aws/whats-new/2023/05/invoice-summary-now-available/)
 - [AWS Direct Connect new location in Bogotá, Colombia](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-bogota-colombia/)
 - [Amazon AppStream 2.0 announces support for DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-appstream-2-0-dcv-extension-sdk/)
@@ -66,8 +68,6 @@
 - [AWS Shield Advanced now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-shield-advanced-cloudformation/)
 - [Amazon WorkSpaces announces support for NICE DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-workspaces-nice-dcv-extension-sdk/)
 - [Amazon Polly launches two new female NTTS voices in Irish English and Danish](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-polly-new-female-ntts-voices/)
-- [AWS Transfer Family is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-transfer-family-three-regions/)
-- [AWS announces new AWS Direct Connect location in Manila, Philippines](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-manila-philippines/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

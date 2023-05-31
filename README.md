@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 now integrates with Amazon GuardDuty threat intelligence](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-route-53-amazon-guardduty-threat-intelligence/)
+- [AWS Elemental MediaTailor now supports delivery of client-side overlay ads](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediatailor-client-side-overlay-ads/)
+- [AWS Snow Family quickens multi-PB data migration with new 210TB device](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-snow-family-multi-pb-data-migration-210tb-device/)
 - [Amazon EventBridge announces open-source connector for Kafka Connect](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eventbridge-open-source-connector-kafka-connect/)
 - [AWS announces new AWS Direct Connect location in Inzai, Japan](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-location-inzai-japan/)
 - [Amazon Personalize now offers more flexibility in model training](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-personalize-model-training/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for MySQL supports Optimized Reads on Multi-AZ deployment option with two readable standby database instances](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-rds-mysql-optimized-reads-multi-az-readable-instances/)
 - [Invoice Summary is now available](https://aws.amazon.com/about-aws/whats-new/2023/05/invoice-summary-now-available/)
 - [AWS Direct Connect new location in Bogotá, Colombia](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-bogota-colombia/)
-- [Amazon AppStream 2.0 announces support for DCV Extension SDK](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-appstream-2-0-dcv-extension-sdk/)
-- [AWS announces new AWS Direct Connect location in Santiago, Chile](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-connect-location-santiago-chile/)
-- [Amazon SageMaker Ground Truth Plus now supports human feedback and fine-tuning data for Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/05/sagemaker-ground-truth-plus-human-feedback-fine-tuning-data-generative-ai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

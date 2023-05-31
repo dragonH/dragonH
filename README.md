@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-migration-service-govcloud-regions/)
 - [AWS Pricing Calculator now offers visibility of point in time cost estimations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-pricing-calculator-point-in-time-cost-estimations/)
 - [AWS Service Catalog now supports wildcards in IAM principal name associations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-service-catalog-wildcards-iam-principal-name-associations/)
 - [Amazon VPC IP Address Manager introduces a customizable dashboard with new insights](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-customizable-dashboard/)
@@ -67,7 +68,6 @@
 - [Amazon EventBridge announces open-source connector for Kafka Connect](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eventbridge-open-source-connector-kafka-connect/)
 - [AWS announces new AWS Direct Connect location in Inzai, Japan](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-location-inzai-japan/)
 - [Amazon Personalize now offers more flexibility in model training](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-personalize-model-training/)
-- [Amazon Security Lake is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-security-lake-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

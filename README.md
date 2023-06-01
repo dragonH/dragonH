@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Simulator adds new actions for Amazon EKS and Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-fault-injection-simulator-new-actions-amazon-eks-ecs/)
 - [AWS Lambda supports Kafka and Amazon MQ event sources in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/)
 - [Amazon ECR adds registry.k8s.io as a supported upstream for pull through cache repositories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecr-registry-k8s-io-upstream-pull-through-cache-repositories/)
 - [Amazon RDS for PostgreSQL now supports HypoPG for creating hypothetical indexes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-postgresql-hypopg-hypothetical-indexes/)
@@ -67,7 +68,6 @@
 - [Amazon Managed Grafana is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-managed-grafana-soc-compliant/)
 - [AWS Application Migration Service available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-migration-service-govcloud-regions/)
 - [AWS Pricing Calculator now offers visibility of point in time cost estimations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-pricing-calculator-point-in-time-cost-estimations/)
-- [AWS Service Catalog now supports wildcards in IAM principal name associations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-service-catalog-wildcards-iam-principal-name-associations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective extends investigations for new threat detections](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-detective-investigations-new-threat-detections/)
+- [Amazon Managed Grafana is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-managed-grafana-soc-compliant/)
 - [AWS Application Migration Service available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-migration-service-govcloud-regions/)
 - [AWS Pricing Calculator now offers visibility of point in time cost estimations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-pricing-calculator-point-in-time-cost-estimations/)
 - [AWS Service Catalog now supports wildcards in IAM principal name associations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-service-catalog-wildcards-iam-principal-name-associations/)
@@ -66,8 +68,6 @@
 - [AWS Elemental MediaTailor now supports delivery of client-side overlay ads](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediatailor-client-side-overlay-ads/)
 - [AWS Snow Family quickens multi-PB data migration with new 210TB device](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-snow-family-multi-pb-data-migration-210tb-device/)
 - [Amazon EventBridge announces open-source connector for Kafka Connect](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eventbridge-open-source-connector-kafka-connect/)
-- [AWS announces new AWS Direct Connect location in Inzai, Japan](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-direct-location-inzai-japan/)
-- [Amazon Personalize now offers more flexibility in model training](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-personalize-model-training/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

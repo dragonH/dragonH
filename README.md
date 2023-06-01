@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda supports Kafka and Amazon MQ event sources in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/)
+- [Amazon ECR adds registry.k8s.io as a supported upstream for pull through cache repositories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecr-registry-k8s-io-upstream-pull-through-cache-repositories/)
 - [Amazon RDS for PostgreSQL now supports HypoPG for creating hypothetical indexes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-postgresql-hypopg-hypothetical-indexes/)
 - [Amazon SNS now supports AWS X-Ray active tracing for FIFO topics](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sns-x-ray-active-tracing-fifo-topics/)
 - [New Instance Metadata Service &lpar;IMDS&rpar; Packet Analyzer simplifies migration to IMDSv2](https://aws.amazon.com/about-aws/whats-new/2023/06/imds-packet-analyzer-simplifies-migration-imdsv2/)
@@ -66,8 +68,6 @@
 - [AWS Application Migration Service available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-migration-service-govcloud-regions/)
 - [AWS Pricing Calculator now offers visibility of point in time cost estimations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-pricing-calculator-point-in-time-cost-estimations/)
 - [AWS Service Catalog now supports wildcards in IAM principal name associations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-service-catalog-wildcards-iam-principal-name-associations/)
-- [Amazon VPC IP Address Manager introduces a customizable dashboard with new insights](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-customizable-dashboard/)
-- [Amazon Route 53 now integrates with Amazon GuardDuty threat intelligence](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-route-53-amazon-guardduty-threat-intelligence/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL now supports HypoPG for creating hypothetical indexes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-postgresql-hypopg-hypothetical-indexes/)
+- [Amazon SNS now supports AWS X-Ray active tracing for FIFO topics](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sns-x-ray-active-tracing-fifo-topics/)
+- [New Instance Metadata Service &lpar;IMDS&rpar; Packet Analyzer simplifies migration to IMDSv2](https://aws.amazon.com/about-aws/whats-new/2023/06/imds-packet-analyzer-simplifies-migration-imdsv2/)
 - [Amazon Detective extends investigations for new threat detections](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-detective-investigations-new-threat-detections/)
 - [Amazon Managed Grafana is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-managed-grafana-soc-compliant/)
 - [AWS Application Migration Service available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-migration-service-govcloud-regions/)
@@ -65,9 +68,6 @@
 - [AWS Service Catalog now supports wildcards in IAM principal name associations](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-service-catalog-wildcards-iam-principal-name-associations/)
 - [Amazon VPC IP Address Manager introduces a customizable dashboard with new insights](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-vpc-ip-address-manager-customizable-dashboard/)
 - [Amazon Route 53 now integrates with Amazon GuardDuty threat intelligence](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-route-53-amazon-guardduty-threat-intelligence/)
-- [AWS Elemental MediaTailor now supports delivery of client-side overlay ads](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-elemental-mediatailor-client-side-overlay-ads/)
-- [AWS Snow Family quickens multi-PB data migration with new 210TB device](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-snow-family-multi-pb-data-migration-210tb-device/)
-- [Amazon EventBridge announces open-source connector for Kafka Connect](https://aws.amazon.com/about-aws/whats-new/2023/05/amazon-eventbridge-open-source-connector-kafka-connect/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

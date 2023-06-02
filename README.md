@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Fraud Detector announces Event Orchestration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-fraud-detector-event-orchestration-eventbridge/)
 - [Announcing fine-grained seller permissions access to AWS Marketplace Management Portal](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-management-portal-fine-grained-seller-permissions/)
 - [Amazon RDS for Oracle now supports converting instances to CDB architecture](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-instances-cdb-architecture/)
 - [Amazon Interactive Video Service introduces Advanced channel types for flexible input encoding](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ivs-advanced-channel-types-input-encoding/)
@@ -67,7 +68,6 @@
 - [AWS Fault Injection Simulator adds new actions for Amazon EKS and Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-fault-injection-simulator-new-actions-amazon-eks-ecs/)
 - [AWS Lambda supports Kafka and Amazon MQ event sources in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/)
 - [Amazon ECR adds registry.k8s.io as a supported upstream for pull through cache repositories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecr-registry-k8s-io-upstream-pull-through-cache-repositories/)
-- [Amazon RDS for PostgreSQL now supports HypoPG for creating hypothetical indexes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-postgresql-hypopg-hypothetical-indexes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

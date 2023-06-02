@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS Database Migration Service Serverless](https://aws.amazon.com/about-aws/whats-new/2023/06/general-availability-aws-database-migration-service-serverless/)
 - [AWS IoT FleetWise now supports object storage in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-iot-fleetwise-object-storage-amazon-s3/)
 - [AWS Fault Injection Simulator adds new actions for Amazon EKS and Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-fault-injection-simulator-new-actions-amazon-eks-ecs/)
 - [AWS Lambda supports Kafka and Amazon MQ event sources in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/)
@@ -67,7 +68,6 @@
 - [New Instance Metadata Service &lpar;IMDS&rpar; Packet Analyzer simplifies migration to IMDSv2](https://aws.amazon.com/about-aws/whats-new/2023/06/imds-packet-analyzer-simplifies-migration-imdsv2/)
 - [Amazon Detective extends investigations for new threat detections](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-detective-investigations-new-threat-detections/)
 - [Amazon Managed Grafana is now System and Organization Controls &lpar;SOC&rpar; compliant](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-managed-grafana-soc-compliant/)
-- [AWS Application Migration Service available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/05/aws-application-migration-service-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports enhanced homogeneous migration capabilities](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-database-migration-service-homogeneous-migration/)
+- [AWS CloudFormation StackSets launches APIs to allow programmatic trust access with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-apis-organizations/)
+- [AWS Trusted Advisor adds new checks for Amazon EFS](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-trusted-advisor-checks-amazon-efs/)
+- [AWS Config advanced queries support 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-advanced-queries-new-resource-types/)
 - [AWS Glue for Ray is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-ray-generally-available/)
 - [Amazon QuickSight launches geospatial heatmap for points on maps](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-quicksight-geospatial-heatmap-points-maps/)
 - [AWS WAF now supports Header Order match statement for request inspection](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-waf-header-order-match-statement-request-inspection/)
 - [AWS Transit Gateway is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transit-gateway-asia-pacific-melbourne-region/)
 - [Amazon Fraud Detector announces Event Orchestration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-fraud-detector-event-orchestration-eventbridge/)
 - [Announcing fine-grained seller permissions access to AWS Marketplace Management Portal](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-management-portal-fine-grained-seller-permissions/)
-- [Amazon RDS for Oracle now supports converting instances to CDB architecture](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-instances-cdb-architecture/)
-- [Amazon Interactive Video Service introduces Advanced channel types for flexible input encoding](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ivs-advanced-channel-types-input-encoding/)
-- [Amazon HealthLake capabilities help customers meet interoperability-related ONC and CMS patient access rules](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-healthlake-interoperability-related-onc-cms-patient-access-rules/)
-- [Announcing the general availability of AWS Database Migration Service Serverless](https://aws.amazon.com/about-aws/whats-new/2023/06/general-availability-aws-database-migration-service-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

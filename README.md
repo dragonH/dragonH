@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue for Ray is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-ray-generally-available/)
+- [Amazon QuickSight launches geospatial heatmap for points on maps](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-quicksight-geospatial-heatmap-points-maps/)
+- [AWS WAF now supports Header Order match statement for request inspection](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-waf-header-order-match-statement-request-inspection/)
 - [AWS Transit Gateway is now available in Asia Pacific &lpar;Melbourne&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transit-gateway-asia-pacific-melbourne-region/)
 - [Amazon Fraud Detector announces Event Orchestration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-fraud-detector-event-orchestration-eventbridge/)
 - [Announcing fine-grained seller permissions access to AWS Marketplace Management Portal](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-management-portal-fine-grained-seller-permissions/)
@@ -65,9 +68,6 @@
 - [Amazon Interactive Video Service introduces Advanced channel types for flexible input encoding](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ivs-advanced-channel-types-input-encoding/)
 - [Amazon HealthLake capabilities help customers meet interoperability-related ONC and CMS patient access rules](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-healthlake-interoperability-related-onc-cms-patient-access-rules/)
 - [Announcing the general availability of AWS Database Migration Service Serverless](https://aws.amazon.com/about-aws/whats-new/2023/06/general-availability-aws-database-migration-service-serverless/)
-- [AWS IoT FleetWise now supports object storage in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-iot-fleetwise-object-storage-amazon-s3/)
-- [AWS Fault Injection Simulator adds new actions for Amazon EKS and Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-fault-injection-simulator-new-actions-amazon-eks-ecs/)
-- [AWS Lambda supports Kafka and Amazon MQ event sources in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-kafka-mq-event-sources-four-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

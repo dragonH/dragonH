@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS introduces container image signing](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-container-image-signing/)
+- [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
 - [Announcing Live Tail in Amazon CloudWatch Logs, providing real-time exploration of logs](https://aws.amazon.com/about-aws/whats-new/2023/06/live-tail-amazon-cloudwatch-logs/)
 - [AWS Migration Hub Refactor Spaces now provides more flexibility routing with path parameters](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-migration-hub-refactor-spaces-flexibility-routing-path-parameters/)
 - [AWS Glue Data Quality is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-data-quality-generally-available/)
@@ -66,8 +68,6 @@
 - [AWS CloudTrail Lake now supports selective start or stop ingestion of CloudTrail events](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-start-stop-ingestion-cloudtrail-events/)
 - [Amazon FinSpace with Managed kdb Insights is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-finspace-managed-kdb-insights/)
 - [Amazon MWAA now supports in-place version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mwaa-in-place-version-upgrades/)
-- [AWS KMS now supports importing asymmetric and HMAC keys](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-kms-importing-asymmetric-hmac-keys/)
-- [Amazon Kendra now available in Europe &lpar;London&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-europe-london-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

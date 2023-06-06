@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Live Tail in Amazon CloudWatch Logs, providing real-time exploration of logs](https://aws.amazon.com/about-aws/whats-new/2023/06/live-tail-amazon-cloudwatch-logs/)
+- [AWS Migration Hub Refactor Spaces now provides more flexibility routing with path parameters](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-migration-hub-refactor-spaces-flexibility-routing-path-parameters/)
 - [AWS Glue Data Quality is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-data-quality-generally-available/)
 - [SageMaker Automatic Model Tuning automatically chooses tuning configurations](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-automatic-model-tuning-configurations/)
 - [AWS Lambda launches CloudWatch metrics for asynchronous invocations in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-cloudwatch-metrics-invocations-govcloud/)
@@ -66,8 +68,6 @@
 - [Amazon MWAA now supports in-place version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mwaa-in-place-version-upgrades/)
 - [AWS KMS now supports importing asymmetric and HMAC keys](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-kms-importing-asymmetric-hmac-keys/)
 - [Amazon Kendra now available in Europe &lpar;London&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-europe-london-aws-region/)
-- [Announcing Multi-Region Replication for Amazon Keyspaces &lpar;for Apache Cassandra&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/multi-region-replication-amazon-keyspaces-apache-cassandra/)
-- [AWS Database Migration Service now supports enhanced homogeneous migration capabilities](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-database-migration-service-homogeneous-migration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower increases account access configuration flexibility](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-account-access-configuration-flexibility/)
+- [AWS Marketplace Vendor Insights security profiles now include FedRAMP authorization](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-vendor-insights-security-profiles-fedramp/)
 - [AWS IoT Device Management introduces Software Package Catalog](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-device-management-software-package-catalog/)
 - [AWS introduces container image signing](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-container-image-signing/)
 - [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
@@ -66,8 +68,6 @@
 - [AWS Glue Data Quality is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-data-quality-generally-available/)
 - [SageMaker Automatic Model Tuning automatically chooses tuning configurations](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-automatic-model-tuning-configurations/)
 - [AWS Lambda launches CloudWatch metrics for asynchronous invocations in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-cloudwatch-metrics-invocations-govcloud/)
-- [AWS CloudTrail Lake now supports selective start or stop ingestion of CloudTrail events](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-start-stop-ingestion-cloudtrail-events/)
-- [Amazon FinSpace with Managed kdb Insights is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-finspace-managed-kdb-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

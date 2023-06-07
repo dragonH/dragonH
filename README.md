@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing AWS Snowblade for U.S Department of Defense JWCC customers](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-snowblade-us-defense-jwcc-customers/)
+- [Announcing AWS Snowblade for U.S. Department of Defense JWCC customers](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-snowblade-us-defense-jwcc-customers/)
 - [AWS Control Tower increases account access configuration flexibility](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-account-access-configuration-flexibility/)
 - [AWS Marketplace Vendor Insights security profiles now include FedRAMP authorization](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-vendor-insights-security-profiles-fedramp/)
 - [AWS IoT Device Management introduces Software Package Catalog](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-device-management-software-package-catalog/)

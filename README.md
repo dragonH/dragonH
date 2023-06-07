@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas supports retraining ML models, automating prediction workflows on updated datasets](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-ml-models-workflows-datasets/)
+- [AWS CloudFormation StackSets skips suspended accounts for faster deployments](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-suspended-accounts-deployments/)
+- [Announcing Test Workbench for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-lex-test-workbench/)
+- [AWS Lambda adds support for Ruby 3.2](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-support-ruby-3-2/)
+- [Amazon Redshift Serverless now supports query scheduling and Single sign-on support](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-query-scheduling-single-sign-on/)
 - [Amazon EC2 High Memory instances now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-high-memory-instances-new-regions/)
 - [AWS SimSpace Weaver is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-simspace-weaver-govcloud-us-regions/)
 - [AWS Mainframe Modernization service is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-mainframe-modernization-service-hipaa-eligible/)
 - [Daily invoice consolidation is now available in AWS EMEA SARL](https://aws.amazon.com/about-aws/whats-new/2023/06/daily-invoice-consolidation-aws-emea-sarl/)
 - [Announcing AWS Snowblade for U.S. Department of Defense JWCC customers](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-snowblade-us-defense-jwcc-customers/)
-- [AWS Control Tower increases account access configuration flexibility](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-account-access-configuration-flexibility/)
-- [AWS Marketplace Vendor Insights security profiles now include FedRAMP authorization](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-vendor-insights-security-profiles-fedramp/)
-- [AWS IoT Device Management introduces Software Package Catalog](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-device-management-software-package-catalog/)
-- [AWS introduces container image signing](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-container-image-signing/)
-- [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

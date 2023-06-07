@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-high-memory-instances-new-regions/)
+- [AWS SimSpace Weaver is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-simspace-weaver-govcloud-us-regions/)
+- [AWS Mainframe Modernization service is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-mainframe-modernization-service-hipaa-eligible/)
+- [Daily invoice consolidation is now available in AWS EMEA SARL](https://aws.amazon.com/about-aws/whats-new/2023/06/daily-invoice-consolidation-aws-emea-sarl/)
 - [Announcing AWS Snowblade for U.S. Department of Defense JWCC customers](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-snowblade-us-defense-jwcc-customers/)
 - [AWS Control Tower increases account access configuration flexibility](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-account-access-configuration-flexibility/)
 - [AWS Marketplace Vendor Insights security profiles now include FedRAMP authorization](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-vendor-insights-security-profiles-fedramp/)
 - [AWS IoT Device Management introduces Software Package Catalog](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-device-management-software-package-catalog/)
 - [AWS introduces container image signing](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-container-image-signing/)
 - [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
-- [Announcing Live Tail in Amazon CloudWatch Logs, providing real-time exploration of logs](https://aws.amazon.com/about-aws/whats-new/2023/06/live-tail-amazon-cloudwatch-logs/)
-- [AWS Migration Hub Refactor Spaces now provides more flexibility routing with path parameters](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-migration-hub-refactor-spaces-flexibility-routing-path-parameters/)
-- [AWS Glue Data Quality is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-data-quality-generally-available/)
-- [SageMaker Automatic Model Tuning automatically chooses tuning configurations](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-automatic-model-tuning-configurations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

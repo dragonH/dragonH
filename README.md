@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Pipelines now supports Selective Executions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-pipelines-selective-executions/)
 - [Amazon QuickSight now supports APIs to automate and accelerate assets deployment](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-quicksight-apis-automate-accelerate-assets-deployment/)
 - [AWS Application Migration Service is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-application-migration-service-additional-regions/)
 - [Amazon Polly launches a new female NTTS voice in Belgian Dutch &lpar;Flemish&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-polly-female-ntts-voice-belgian-dutch-flemish/)
@@ -67,7 +68,6 @@
 - [AWS Lambda adds support for Ruby 3.2](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-support-ruby-3-2/)
 - [Amazon Redshift Serverless now supports query scheduling and Single sign-on support](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-query-scheduling-single-sign-on/)
 - [Amazon EC2 High Memory instances now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-high-memory-instances-new-regions/)
-- [AWS SimSpace Weaver is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-simspace-weaver-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Managed Microsoft AD simplifies directory administrative tools access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-managed-microsoft-ad-directory-administrative-tools-access/)
+- [Amazon CloudWatch Logs data protection account level policy configuration](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-logs-data-protection-policy-configuration/)
+- [RDS Custom for SQL Server lets you Bring Your Own Media](https://aws.amazon.com/about-aws/whats-new/2023/06/rds-custom-sql-server-bring-your-own-media/)
+- [Amazon RDS for Oracle now supports April 2023 Release Update for 21c](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-april-2023-ru-21c/)
+- [QuickSight now provides standardized user level cost and usage data](https://aws.amazon.com/about-aws/whats-new/2023/06/quicksight-standardized-user-level-cost-usage-data/)
 - [Single Region Terraform support now available for AWS Control Tower Account Factory](https://aws.amazon.com/about-aws/whats-new/2023/06/single-region-terraform-control-tower-account-factory/)
 - [Amazon EC2 I4i is available in AWS GovCloud &lpar;US&rpar; and Africa Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-i4i-govcloud-africa-regions/)
 - [Amazon DocumentDB 5.0 now supports Amazon EC2 t3.medium and r5 instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-documentdb-5-0-amazon-ec2-t3-medium-r5-instances/)
 - [Amazon Aurora now supports R6i  database instance in Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-r6i-database-instance-europe-frankfurt-region/)
 - [Amazon SageMaker Pipelines now supports Selective Executions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-pipelines-selective-executions/)
-- [Amazon QuickSight now supports APIs to automate and accelerate assets deployment](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-quicksight-apis-automate-accelerate-assets-deployment/)
-- [AWS Application Migration Service is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-application-migration-service-additional-regions/)
-- [Amazon Polly launches a new female NTTS voice in Belgian Dutch &lpar;Flemish&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-polly-female-ntts-voice-belgian-dutch-flemish/)
-- [Amazon SageMaker Canvas supports retraining ML models, automating prediction workflows on updated datasets](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-ml-models-workflows-datasets/)
-- [AWS CloudFormation StackSets skips suspended accounts for faster deployments](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-stacksets-suspended-accounts-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

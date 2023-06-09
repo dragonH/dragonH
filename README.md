@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Falcon 40B foundation model from TII available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/06/falcon-40b-foundation-model-tii-sagemaker-jumpstart/)
+- [AWS Config supports recording exclusions by resource type](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-recording-exclusions-resource-type/)
 - [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
 - [AWS Lambda now supports SnapStart for Java in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-snapstart-java-7-additional-regions/)
 - [AWS announces scripts to bulk updates policies per new AWS Billing and Cost Management permissions](https://aws.amazon.com/about-aws/whats-new/2023/06/scripts-bulk-updates-policies-aws-billing-cost-management-permissions/)
@@ -66,8 +68,6 @@
 - [Amazon Timestream now supports Customer Defined Partition Keys](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-timestream-customer-defined-partition-keys/)
 - [Amazon Athena for Apache Spark now supports custom Java libraries](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-custom-java-libraries/)
 - [Amazon Athena for Apache Spark now supports Apache Hudi, Apache Iceberg, and Delta Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-hudi-iceberg-delta-lake/)
-- [Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli/)
-- [AWS Managed Microsoft AD simplifies directory administrative tools access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-managed-microsoft-ad-directory-administrative-tools-access/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

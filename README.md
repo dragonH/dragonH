@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
 - [AWS Lambda now supports SnapStart for Java in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-snapstart-java-7-additional-regions/)
 - [AWS announces scripts to bulk updates policies per new AWS Billing and Cost Management permissions](https://aws.amazon.com/about-aws/whats-new/2023/06/scripts-bulk-updates-policies-aws-billing-cost-management-permissions/)
 - [AWS announces Amazon Aurora I/O-Optimized in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-i-o-optimized-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Athena for Apache Spark now supports Apache Hudi, Apache Iceberg, and Delta Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-hudi-iceberg-delta-lake/)
 - [Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli/)
 - [AWS Managed Microsoft AD simplifies directory administrative tools access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-managed-microsoft-ad-directory-administrative-tools-access/)
-- [Amazon CloudWatch Logs data protection account level policy configuration](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-logs-data-protection-policy-configuration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

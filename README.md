@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces AWS Payment Cryptography](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-payment-cryptography/)
 - [Falcon 40B foundation model from TII available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/06/falcon-40b-foundation-model-tii-sagemaker-jumpstart/)
 - [AWS Config supports recording exclusions by resource type](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-recording-exclusions-resource-type/)
 - [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer Profiles now exports profile updates in real-time](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-customer-profiles-real-time/)
 - [Amazon Timestream now supports Customer Defined Partition Keys](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-timestream-customer-defined-partition-keys/)
 - [Amazon Athena for Apache Spark now supports custom Java libraries](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-custom-java-libraries/)
-- [Amazon Athena for Apache Spark now supports Apache Hudi, Apache Iceberg, and Delta Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-hudi-iceberg-delta-lake/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

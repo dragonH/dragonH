@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family announces quantum-safe key exchange for SFTP](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-quantum-safe-key-exchange-sftp/)
+- [Amazon EC2 R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6id-instances-additional-regions/)
 - [AWS announces AWS Payment Cryptography](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-payment-cryptography/)
 - [Falcon 40B foundation model from TII available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/06/falcon-40b-foundation-model-tii-sagemaker-jumpstart/)
 - [AWS Config supports recording exclusions by resource type](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-recording-exclusions-resource-type/)
@@ -66,8 +68,6 @@
 - [AWS announces scripts to bulk updates policies per new AWS Billing and Cost Management permissions](https://aws.amazon.com/about-aws/whats-new/2023/06/scripts-bulk-updates-policies-aws-billing-cost-management-permissions/)
 - [AWS announces Amazon Aurora I/O-Optimized in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-i-o-optimized-aws-govcloud-us-regions/)
 - [Amazon Connect Customer Profiles now exports profile updates in real-time](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-customer-profiles-real-time/)
-- [Amazon Timestream now supports Customer Defined Partition Keys](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-timestream-customer-defined-partition-keys/)
-- [Amazon Athena for Apache Spark now supports custom Java libraries](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-apache-spark-custom-java-libraries/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

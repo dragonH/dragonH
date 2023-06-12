@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches search APIs for three more resources](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-search-apis-three-resources/)
 - [Amazon EventBridge Archive and Replay now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-eventbridge-archive-replay-additional-regions/)
 - [Amazon EMR supports price-capacity-optimized allocation strategy for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-price-allocation-ec2-spot-instances/)
 - [AWS Transfer Family announces quantum-safe key exchange for SFTP](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-quantum-safe-key-exchange-sftp/)
@@ -67,7 +68,6 @@
 - [AWS Config supports recording exclusions by resource type](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-recording-exclusions-resource-type/)
 - [Amazon EMR on EKS now supports Spark Operator and spark-submit](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-eks-spark-operator-submit/)
 - [AWS Lambda now supports SnapStart for Java in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-snapstart-java-7-additional-regions/)
-- [AWS announces scripts to bulk updates policies per new AWS Billing and Cost Management permissions](https://aws.amazon.com/about-aws/whats-new/2023/06/scripts-bulk-updates-policies-aws-billing-cost-management-permissions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

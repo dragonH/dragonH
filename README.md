@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower adds 10 new AWS Security Hub controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-new-aws-security-hub-controls/)
 - [Announcing preview of the AWS Database Encryption SDK for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/06/preview-aws-database-encryption-sdk-amazon-dynamodb/)
 - [Amazon Route 53 DNS resource record set permissions now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-route-53-dns-resource-record-set-permissions-aws-govcloud-regions/)
 - [Amazon Connect launches search APIs for three more resources](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-search-apis-three-resources/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6id-instances-additional-regions/)
 - [AWS announces AWS Payment Cryptography](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-payment-cryptography/)
 - [Falcon 40B foundation model from TII available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/06/falcon-40b-foundation-model-tii-sagemaker-jumpstart/)
-- [AWS Config supports recording exclusions by resource type](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-config-recording-exclusions-resource-type/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

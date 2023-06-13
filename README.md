@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing the AWS Global Partner Security Initiative](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-partner-security-initiative/)
-- [AWS announces Software Bill of Materials export capability in Amazon Inspector](https://aws.amazon.com/about-aws/whats-new/2023/06/software-bill-materials-export-capability-amazon-inspector/)
-- [Amazon Inspector announces the general availability of Code Scans for AWS Lambda function](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-inspector-code-scans-aws-lambda-function/)
-- [Amazon Verified Permissions is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-verified-permissions-generally-available/)
-- [Amazon EC2 Instance Connect supports SSH and RDP connectivity without public IP address](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-instance-connect-ssh-rdp-public-ip-address/)
-- [AWS Control Tower adds 10 new AWS Security Hub controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-new-aws-security-hub-controls/)
-- [Announcing preview of the AWS Database Encryption SDK for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/06/preview-aws-database-encryption-sdk-amazon-dynamodb/)
-- [Amazon Route 53 DNS resource record set permissions now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-route-53-dns-resource-record-set-permissions-aws-govcloud-regions/)
-- [Amazon Connect launches search APIs for three more resources](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-search-apis-three-resources/)
-- [Amazon EventBridge Archive and Replay now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-eventbridge-archive-replay-additional-regions/)
+- [Amazon GuardDuty enhances console experience with findings summary view](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-guardduty-console-summary-view/)
+- [Amazon CodeGuru Security is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-codeguru-security-available-preview/)
+- [AWS WAF Fraud Control launches account creation fraud prevention and reduced pricing](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-waf-fraud-control-account-creation-prevention-pricing/)
+- [AWS CloudTrail Lake launches curated dashboards for visualizing top CloudTrail trends](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudtrail-lake-curated-dashboards-visualizing-trends/)
+- [Well-Architected introduces Profiles](https://aws.amazon.com/about-aws/whats-new/2023/06/well-architected-introduces-profiles/)
+- [AWS Elastic Disaster Recovery now supports VPC configurations recover](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elastic-disaster-recovery-vpc-configurations-recover/)
+- [Announcing AWS Security Hub automation rules](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-automation-rules/)
+- [Amazon S3 announces dual-layer server-side encryption for compliance workloads](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-dual-layer-encryption-compliance-workloads/)
+- [Amazon Detective extends finding groups to Amazon Inspector](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-detective-finding-groups-amazon-inspector/)
+- [New AWS built-in partner software automates installation for customers](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-built-in-partner-software-automates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

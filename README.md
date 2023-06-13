@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the AWS Global Partner Security Initiative](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-partner-security-initiative/)
+- [AWS announces Software Bill of Materials export capability in Amazon Inspector](https://aws.amazon.com/about-aws/whats-new/2023/06/software-bill-materials-export-capability-amazon-inspector/)
+- [Amazon Inspector announces the general availability of Code Scans for AWS Lambda function](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-inspector-code-scans-aws-lambda-function/)
+- [Amazon Verified Permissions is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-verified-permissions-generally-available/)
+- [Amazon EC2 Instance Connect supports SSH and RDP connectivity without public IP address](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-instance-connect-ssh-rdp-public-ip-address/)
 - [AWS Control Tower adds 10 new AWS Security Hub controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-new-aws-security-hub-controls/)
 - [Announcing preview of the AWS Database Encryption SDK for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/06/preview-aws-database-encryption-sdk-amazon-dynamodb/)
 - [Amazon Route 53 DNS resource record set permissions now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-route-53-dns-resource-record-set-permissions-aws-govcloud-regions/)
 - [Amazon Connect launches search APIs for three more resources](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-search-apis-three-resources/)
 - [Amazon EventBridge Archive and Replay now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-eventbridge-archive-replay-additional-regions/)
-- [Amazon EMR supports price-capacity-optimized allocation strategy for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-price-allocation-ec2-spot-instances/)
-- [AWS Transfer Family announces quantum-safe key exchange for SFTP](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-quantum-safe-key-exchange-sftp/)
-- [Amazon EC2 R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6id-instances-additional-regions/)
-- [AWS announces AWS Payment Cryptography](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-payment-cryptography/)
-- [Falcon 40B foundation model from TII available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/06/falcon-40b-foundation-model-tii-sagemaker-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

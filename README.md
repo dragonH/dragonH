@@ -64,10 +64,10 @@
 - [ECR basic scanning now uses version 3 of the Common Vulnerability Scoring System &lpar;CVSS&rpar; framework](https://aws.amazon.com/about-aws/whats-new/2023/06/ecr-basic-scanning-version-3-cvss-framework/)
 - [Amazon Connect now publishes new contact lifecycle events for callbacks](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-publishes-contact-lifecycle-events-callbacks/)
 - [AWS IAM Identity Center now supports automated user provisioning from Google Workspace](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iam-identity-center-automated-user-provisioning-google-workspace/)
+- [Amazon EC2 Instance Connect supports SSH and RDP connectivity without public IP address](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-instance-connect-ssh-rdp-public-ip-address/)
 - [EMR on EKS now supports container log rotation for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2023/06/emr-eks-container-log-rotation-apache-spark/)
 - [Amazon Rekognition improves face search accuracy with user vectors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rekognition-face-search-accuracy-user-vectors/)
 - [Amazon Personalize now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-personalize-vpc-endpoints/)
-- [Announcing third-party risk assessments and CSV exports in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2023/06/third-party-risk-assessments-csv-exports-aws-audit-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

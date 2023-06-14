@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports T4g database instances in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-t4g-database-instances-additional-aws-regions/)
 - [AWS Security Hub launches 6 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-new-security-controls/)
 - [Skip unavailable clusters during cross-cluster search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-skip-cross-cluster-search/)
 - [ECR basic scanning now uses version 3 of the Common Vulnerability Scoring System &lpar;CVSS&rpar; framework](https://aws.amazon.com/about-aws/whats-new/2023/06/ecr-basic-scanning-version-3-cvss-framework/)
@@ -67,7 +68,6 @@
 - [Amazon Rekognition improves face search accuracy with user vectors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rekognition-face-search-accuracy-user-vectors/)
 - [Amazon Personalize now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-personalize-vpc-endpoints/)
 - [Announcing third-party risk assessments and CSV exports in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2023/06/third-party-risk-assessments-csv-exports-aws-audit-manager/)
-- [Amazon GuardDuty enhances console experience with findings summary view](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-guardduty-console-summary-view/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service adds support for place categories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-place-categories/)
 - [Amazon RDS now supports T4g database instances in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-t4g-database-instances-additional-aws-regions/)
 - [AWS Security Hub launches 6 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-new-security-controls/)
 - [Skip unavailable clusters during cross-cluster search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-skip-cross-cluster-search/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Instance Connect supports SSH and RDP connectivity without public IP address](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-instance-connect-ssh-rdp-public-ip-address/)
 - [EMR on EKS now supports container log rotation for Apache Spark](https://aws.amazon.com/about-aws/whats-new/2023/06/emr-eks-container-log-rotation-apache-spark/)
 - [Amazon Rekognition improves face search accuracy with user vectors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rekognition-face-search-accuracy-user-vectors/)
-- [Amazon Personalize now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-personalize-vpc-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

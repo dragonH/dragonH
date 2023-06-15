@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-edge-location-nigeria/)
+- [Amazon RDS for Oracle supports migration via RMAN Transportable Tablespaces](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-migration-rman-tablespaces/)
+- [Amazon RDS for MariaDB supports minor versions 10.6.13, 10.5.20, 10.4.29, 10.3.39](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-maria-db-minor-versions/)
 - [Amazon Location Service now supports geofence metadata](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-geofence-metadata/)
+- [AWS announces new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-edge-location-nigeria/)
 - [Amazon AppFlow announces 4 new data connectors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-appflow-new-data-connectors/)
 - [Amazon EC2 M6i and R6i instances are now available in AWS Region Middle East &lpar;UAE&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m6i-r6i-instances-middle-east/)
 - [AWS Global Accelerator now supports endpoints in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-accelerator-endpoints-jakarta-region/)
 - [Amazon Location Service adds support for place categories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-place-categories/)
 - [Amazon RDS now supports T4g database instances in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-t4g-database-instances-additional-aws-regions/)
 - [AWS Security Hub launches 6 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-new-security-controls/)
-- [Skip unavailable clusters during cross-cluster search in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-skip-cross-cluster-search/)
-- [ECR basic scanning now uses version 3 of the Common Vulnerability Scoring System &lpar;CVSS&rpar; framework](https://aws.amazon.com/about-aws/whats-new/2023/06/ecr-basic-scanning-version-3-cvss-framework/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

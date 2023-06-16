@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Disaster Recovery now supports VPC configurations recovery](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elastic-disaster-recovery-vpc-configurations-recovery/)
 - [Amazon RDS for Oracle supports migration via RMAN Transportable Tablespaces](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-migration-rman-tablespaces/)
 - [Amazon RDS for MariaDB supports minor versions 10.6.13, 10.5.20, 10.4.29, 10.3.39](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-maria-db-minor-versions/)
 - [Amazon Location Service now supports geofence metadata](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-geofence-metadata/)
@@ -67,7 +68,6 @@
 - [AWS Global Accelerator now supports endpoints in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-accelerator-endpoints-jakarta-region/)
 - [Amazon Location Service adds support for place categories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-place-categories/)
 - [Amazon RDS now supports T4g database instances in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-t4g-database-instances-additional-aws-regions/)
-- [AWS Security Hub launches 6 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-new-security-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

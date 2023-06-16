@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms launches two capabilities to make it easier to collaborate at scale](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-clean-rooms-two-capabilities-collaborate-scale/)
+- [AWS CloudShell is now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudshell-additional-regions/)
+- [Introducing Amazon EC2 M7a instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m7a-instances-preview/)
 - [AWS Elastic Disaster Recovery now supports VPC configurations recovery](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elastic-disaster-recovery-vpc-configurations-recovery/)
 - [Amazon RDS for Oracle supports migration via RMAN Transportable Tablespaces](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-migration-rman-tablespaces/)
 - [Amazon RDS for MariaDB supports minor versions 10.6.13, 10.5.20, 10.4.29, 10.3.39](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-maria-db-minor-versions/)
@@ -65,9 +68,6 @@
 - [AWS announces new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-edge-location-nigeria/)
 - [Amazon AppFlow announces 4 new data connectors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-appflow-new-data-connectors/)
 - [Amazon EC2 M6i and R6i instances are now available in AWS Region Middle East &lpar;UAE&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m6i-r6i-instances-middle-east/)
-- [AWS Global Accelerator now supports endpoints in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-accelerator-endpoints-jakarta-region/)
-- [Amazon Location Service adds support for place categories](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-place-categories/)
-- [Amazon RDS now supports T4g database instances in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-t4g-database-instances-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

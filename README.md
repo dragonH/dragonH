@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Partner Analytics Dashboard for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-partner-analytics-dashboard-partner-central/)
 - [AWS Clean Rooms launches two capabilities to make it easier to collaborate at scale](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-clean-rooms-two-capabilities-collaborate-scale/)
 - [AWS CloudShell is now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudshell-additional-regions/)
 - [Introducing Amazon EC2 M7a instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m7a-instances-preview/)
@@ -67,7 +68,6 @@
 - [Amazon Location Service now supports geofence metadata](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-geofence-metadata/)
 - [AWS announces new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-edge-location-nigeria/)
 - [Amazon AppFlow announces 4 new data connectors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-appflow-new-data-connectors/)
-- [Amazon EC2 M6i and R6i instances are now available in AWS Region Middle East &lpar;UAE&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m6i-r6i-instances-middle-east/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

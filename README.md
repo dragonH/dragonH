@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens now offers screen recording](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-contact-lens-offers-screen-recording/)
 - [Announcing AWS Partner Analytics Dashboard for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-partner-analytics-dashboard-partner-central/)
 - [AWS Clean Rooms launches two capabilities to make it easier to collaborate at scale](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-clean-rooms-two-capabilities-collaborate-scale/)
 - [AWS CloudShell is now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudshell-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MariaDB supports minor versions 10.6.13, 10.5.20, 10.4.29, 10.3.39](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-maria-db-minor-versions/)
 - [Amazon Location Service now supports geofence metadata](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-location-service-geofence-metadata/)
 - [AWS announces new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-edge-location-nigeria/)
-- [Amazon AppFlow announces 4 new data connectors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-appflow-new-data-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

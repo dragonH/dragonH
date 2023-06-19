@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing simplified cross-account management of operational issues in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2023/06/simplified-cross-account-management-aws-systems-manager-opscenter/)
 - [Amazon VPC CNI now supports IPv6 Egress for Pods in IPv4 enabled Kubernetes Clusters](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-cni-ipv6-egress-pods-ipv4-kubernetes-clusters/)
 - [Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-firehose-data-stream-delivery-redshift-serverless/)
 - [Announcing general availability of AWS Control Tower&#39;s integration with Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-account-integration-security-hub/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Internet Monitor now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-internet-monitor-additional-regions/)
 - [AWS Trusted Advisor adds new fault tolerance checks](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-trusted-advisor-new-fault-tolerance-checks/)
 - [ENA Express now supports 10 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/06/ena-express-new-ec2-instances/)
-- [Amazon RDS for MySQL supports new minor versions 5.7.42 and 8.0.33](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mysql-new-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

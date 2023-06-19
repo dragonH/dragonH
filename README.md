@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager Quick Setup enables automatic updates for EC2 launch agents](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-systems-manager-quick-setup-automatic-updates-ec2-launch-agents/)
+- [AWS Lake Formation and Glue Data Catalog now support cross-Region table access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lake-formation-glue-data-catalog-cross-region-access/)
 - [Announcing simplified cross-account management of operational issues in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2023/06/simplified-cross-account-management-aws-systems-manager-opscenter/)
 - [Amazon VPC CNI now supports IPv6 Egress for Pods in IPv4 enabled Kubernetes Clusters](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-cni-ipv6-egress-pods-ipv4-kubernetes-clusters/)
 - [Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-firehose-data-stream-delivery-redshift-serverless/)
@@ -66,8 +68,6 @@
 - [EMR on EKS now supports custom job scheduling](https://aws.amazon.com/about-aws/whats-new/2023/06/emr-eks-custom-job-scheduling/)
 - [Announcing the general availability of AWS Local Zones in Manila](https://aws.amazon.com/about-aws/whats-new/2023/06/general-availability-aws-local-zones-manila/)
 - [Amazon CloudWatch Internet Monitor now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-internet-monitor-additional-regions/)
-- [AWS Trusted Advisor adds new fault tolerance checks](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-trusted-advisor-new-fault-tolerance-checks/)
-- [ENA Express now supports 10 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/06/ena-express-new-ec2-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

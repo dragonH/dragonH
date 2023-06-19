@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Trusted Advisor adds new fault tolerance checks](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-trusted-advisor-new-fault-tolerance-checks/)
+- [ENA Express now supports 10 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/06/ena-express-new-ec2-instances/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.42 and 8.0.33](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mysql-new-minor-versions/)
 - [AWS Step Functions adds integration for 7 services including Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-7-services-vpc-lattice/)
 - [Amazon Connect Contact Lens now offers screen recording](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-contact-lens-offers-screen-recording/)
@@ -66,8 +68,6 @@
 - [AWS CloudShell is now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudshell-additional-regions/)
 - [Introducing Amazon EC2 M7a instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m7a-instances-preview/)
 - [AWS Elastic Disaster Recovery now supports VPC configurations recovery](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elastic-disaster-recovery-vpc-configurations-recovery/)
-- [Amazon RDS for Oracle supports migration via RMAN Transportable Tablespaces](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-oracle-migration-rman-tablespaces/)
-- [Amazon RDS for MariaDB supports minor versions 10.6.13, 10.5.20, 10.4.29, 10.3.39](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-maria-db-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

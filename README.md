@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC CNI now supports IPv6 Egress for Pods in IPv4 enabled Kubernetes Clusters](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-cni-ipv6-egress-pods-ipv4-kubernetes-clusters/)
+- [Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-firehose-data-stream-delivery-redshift-serverless/)
+- [Announcing general availability of AWS Control Tower&#39;s integration with Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-account-integration-security-hub/)
+- [AWS Verified Access adds a new logging functionality to improve troubleshooting](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-verified-access-logging-functionality/)
+- [EMR on EKS now supports custom job scheduling](https://aws.amazon.com/about-aws/whats-new/2023/06/emr-eks-custom-job-scheduling/)
+- [Announcing the general availability of AWS Local Zones in Manila](https://aws.amazon.com/about-aws/whats-new/2023/06/general-availability-aws-local-zones-manila/)
+- [Amazon CloudWatch Internet Monitor now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-internet-monitor-additional-regions/)
 - [AWS Trusted Advisor adds new fault tolerance checks](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-trusted-advisor-new-fault-tolerance-checks/)
 - [ENA Express now supports 10 new EC2 Instances](https://aws.amazon.com/about-aws/whats-new/2023/06/ena-express-new-ec2-instances/)
 - [Amazon RDS for MySQL supports new minor versions 5.7.42 and 8.0.33](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mysql-new-minor-versions/)
-- [AWS Step Functions adds integration for 7 services including Amazon VPC Lattice](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-7-services-vpc-lattice/)
-- [Amazon Connect Contact Lens now offers screen recording](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-contact-lens-offers-screen-recording/)
-- [Announcing AWS Partner Analytics Dashboard for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-partner-analytics-dashboard-partner-central/)
-- [AWS Clean Rooms launches two capabilities to make it easier to collaborate at scale](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-clean-rooms-two-capabilities-collaborate-scale/)
-- [AWS CloudShell is now available in 12 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudshell-additional-regions/)
-- [Introducing Amazon EC2 M7a instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m7a-instances-preview/)
-- [AWS Elastic Disaster Recovery now supports VPC configurations recovery](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elastic-disaster-recovery-vpc-configurations-recovery/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

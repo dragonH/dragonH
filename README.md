@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Dedicated Hosts now support targeted allocations in AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-dedicated-hosts-allocations-outposts-rack/)
 - [Announcing Amazon EC2 C7gn instances general availability](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/)
 - [Announcing nightly builds of Amazon Corretto](https://aws.amazon.com/about-aws/whats-new/2023/06/nightly-builds-amazon-corretto/)
 - [Amazon CloudWatch Logs announces new Log Insights dedup command](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-clouwatch-logs-insights-dedup-command/)
@@ -67,7 +68,6 @@
 - [AWS Lake Formation and Glue Data Catalog now support cross-Region table access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lake-formation-glue-data-catalog-cross-region-access/)
 - [Announcing simplified cross-account management of operational issues in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2023/06/simplified-cross-account-management-aws-systems-manager-opscenter/)
 - [Amazon VPC CNI now supports IPv6 Egress for Pods in IPv4 enabled Kubernetes Clusters](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-cni-ipv6-egress-pods-ipv4-kubernetes-clusters/)
-- [Amazon Kinesis Data Firehose adds support for data stream delivery to Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-firehose-data-stream-delivery-redshift-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

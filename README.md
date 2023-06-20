@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EC2 Hpc7g instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-hpc7g-instances/)
 - [Amazon EC2 Dedicated Hosts now support targeted allocations in AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-dedicated-hosts-allocations-outposts-rack/)
 - [Announcing Amazon EC2 C7gn instances general availability](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/)
 - [Announcing nightly builds of Amazon Corretto](https://aws.amazon.com/about-aws/whats-new/2023/06/nightly-builds-amazon-corretto/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager Quick Setup enables automatic updates for EC2 launch agents](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-systems-manager-quick-setup-automatic-updates-ec2-launch-agents/)
 - [AWS Lake Formation and Glue Data Catalog now support cross-Region table access](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lake-formation-glue-data-catalog-cross-region-access/)
 - [Announcing simplified cross-account management of operational issues in AWS Systems Manager OpsCenter](https://aws.amazon.com/about-aws/whats-new/2023/06/simplified-cross-account-management-aws-systems-manager-opscenter/)
-- [Amazon VPC CNI now supports IPv6 Egress for Pods in IPv4 enabled Kubernetes Clusters](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-cni-ipv6-egress-pods-ipv4-kubernetes-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

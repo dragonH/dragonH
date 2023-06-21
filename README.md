@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift improves the experience for encrypting the data warehouse](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-experience-encrypting-data-warehouse/)
 - [Transform data into ML features using SageMaker Feature Store feature processing](https://aws.amazon.com/about-aws/whats-new/2023/06/data-ml-features-sagemaker-feature-store-processing/)
 - [AWS Application Discovery Service introduces Amazon EC2 recommendations](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-application-discovery-service-amazon-ec2-recommendations/)
 - [Amazon EMR now publishes events for insufficient instance capacity errors](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-emr-insufficient-capacity-errors/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 T4g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-t4g-instances-additional-regions/)
 - [Announcing Amazon EC2 Hpc7g instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-hpc7g-instances/)
 - [Amazon EC2 Dedicated Hosts now support targeted allocations in AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-dedicated-hosts-allocations-outposts-rack/)
-- [Announcing Amazon EC2 C7gn instances general availability](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-c7gn-instances-general-availability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

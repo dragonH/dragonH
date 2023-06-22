@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports minor versions 10.6.14, 10.5.21, 10.4.30](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mariadb-new-minor-version-support/)
 - [AWS Transfer Family announces structured JSON log format](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-structured-json-log-format/)
 - [AWS Step Functions launches Versions and Aliases](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-versions-aliases/)
 - [Amazon EC2 R6i instances now available in AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6i-instances-asia-pacific-hyderabad/)
@@ -67,7 +68,6 @@
 - [AWS Lambda adds support for Python 3.10 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-python-3-10-aws-govcloud-regions/)
 - [AWS launches AWS AppSync abstraction](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-appsync-abstraction/)
 - [Amazon RDS for SQL Server supports minor versions 2014 GDR, 2016 GDR, 2017 CU31 GDR, and 2019 CU20](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-sql-server-new-minor-versions/)
-- [Announcing the AWS Amplify UI Builder Figma plugin](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-amplify-ui-builder-figma-plugin/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

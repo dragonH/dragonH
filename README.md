@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Ruby 3.2 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-ruby-3-2-aws-govcloud-us-regions/)
+- [AWS Lambda adds support for Java 17 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-java-17-aws-govcloud-regions/)
 - [AWS Lambda adds support for Python 3.10 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-python-3-10-aws-govcloud-regions/)
 - [AWS launches AWS AppSync abstraction](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-appsync-abstraction/)
 - [Amazon RDS for SQL Server supports minor versions 2014 GDR, 2016 GDR, 2017 CU31 GDR, and 2019 CU20](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-sql-server-new-minor-versions/)
@@ -66,8 +68,6 @@
 - [Tagging support for AWS Purchase Order Management](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-purchase-order-management-tagging/)
 - [AWS Elemental MediaConvert releases bandwidth reduction filter for HEVC and AVC](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconvert-bandwidth-reduction-filter-hevc-avc/)
 - [AWS Lambda supports starting from timestamp for Kafka event sources](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-starting-timestamp-kafka-sources/)
-- [Amazon EC2 M6gd instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m6gd-instances-europe-paris-region/)
-- [Amazon Redshift improves the experience for encrypting the data warehouse](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-experience-encrypting-data-warehouse/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

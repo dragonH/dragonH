@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS now supports up to 10 GiB/s of Provisioned Throughput](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-efs-up-to-10-gibs-provisioned-throughput/)
 - [Amazon MQ now supports cross-region data replication for ActiveMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mq-cross-region-data-replication-activemq/)
 - [Amazon SageMaker Inference Recommender now in AWS Console, gives recommendations at model creation](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-inference-recommender-console-recommendations-model-creation/)
 - [AWS Glue Studio now provides data previews for Glue Streaming jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-studio-data-previews-glue-streaming-jobs/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub announces enhanced management capabilities with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-enhanced-management-capabilities-cloudformation/)
 - [Amazon RDS for MariaDB supports minor versions 10.6.14, 10.5.21, 10.4.30](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mariadb-new-minor-version-support/)
 - [AWS Transfer Family announces structured JSON log format](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-structured-json-log-format/)
-- [AWS Step Functions launches Versions and Aliases](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-versions-aliases/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports cross-region data replication for ActiveMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mq-cross-region-data-replication-activemq/)
 - [Amazon SageMaker Inference Recommender now in AWS Console, gives recommendations at model creation](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-inference-recommender-console-recommendations-model-creation/)
 - [AWS Glue Studio now provides data previews for Glue Streaming jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-studio-data-previews-glue-streaming-jobs/)
 - [AWS IAM now supports FIDO2 for multi-factor authentication in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iam-fido2-multi-authentication-govcloud-regions/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MariaDB supports minor versions 10.6.14, 10.5.21, 10.4.30](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mariadb-new-minor-version-support/)
 - [AWS Transfer Family announces structured JSON log format](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-structured-json-log-format/)
 - [AWS Step Functions launches Versions and Aliases](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-versions-aliases/)
-- [Amazon EC2 R6i instances now available in AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6i-instances-asia-pacific-hyderabad/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

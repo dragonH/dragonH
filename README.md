@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue Studio now provides data previews for Glue Streaming jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-studio-data-previews-glue-streaming-jobs/)
+- [AWS IAM now supports FIDO2 for multi-factor authentication in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iam-fido2-multi-authentication-govcloud-regions/)
+- [AWS Glue now can detect 250 sensitive entity types from over 50 countries](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-250-entity-types-50-countries/)
+- [Amazon MemoryDB for Redis achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-memorydb-redis-fedramp-moderate-compliance/)
+- [AWS Security Hub announces enhanced management capabilities with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-enhanced-management-capabilities-cloudformation/)
 - [Amazon RDS for MariaDB supports minor versions 10.6.14, 10.5.21, 10.4.30](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mariadb-new-minor-version-support/)
 - [AWS Transfer Family announces structured JSON log format](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-structured-json-log-format/)
 - [AWS Step Functions launches Versions and Aliases](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-step-functions-versions-aliases/)
 - [Amazon EC2 R6i instances now available in AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6i-instances-asia-pacific-hyderabad/)
 - [Amazon Managed Grafana now supports OpenSearch Trace Analytics](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-managed-grafana-opensearch-trace-analytics/)
-- [AWS Lambda adds support for Ruby 3.2 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-ruby-3-2-aws-govcloud-us-regions/)
-- [AWS Lambda adds support for Java 17 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-java-17-aws-govcloud-regions/)
-- [AWS Lambda adds support for Python 3.10 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-python-3-10-aws-govcloud-regions/)
-- [AWS launches AWS AppSync abstraction](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-appsync-abstraction/)
-- [Amazon RDS for SQL Server supports minor versions 2014 GDR, 2016 GDR, 2017 CU31 GDR, and 2019 CU20](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-sql-server-new-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

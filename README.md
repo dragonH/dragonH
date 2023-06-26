@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Role Manager now provides CDK library to create fine-grained permissions within minutes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-role-manager-cdk-library-fine-grained-permissions/)
 - [Amazon OpenSearch Ingestion now supports ingesting events from Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-ingestion-events-security-lake/)
 - [AWS Glue now supports native Snowflake connectivity with new ETL capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-native-snowflake-connectivity-etl-capabilities-preview/)
 - [Amazon SageMaker Data Wrangler now enables direct connection to Snowflake data](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-data-wrangler-direct-connection-snowflake-data/)
@@ -67,7 +68,6 @@
 - [AWS SAM CLI announces remote invoke feature for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sam-cli-announces-remote-invoke-aws-lambda/)
 - [Amazon EFS now supports up to 10 GiB/s of Provisioned Throughput](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-efs-up-to-10-gibs-provisioned-throughput/)
 - [Amazon MQ now supports cross-region data replication for ActiveMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mq-cross-region-data-replication-activemq/)
-- [Amazon SageMaker Inference Recommender now in AWS Console, gives recommendations at model creation](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-inference-recommender-console-recommendations-model-creation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

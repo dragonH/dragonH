@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue now supports native Snowflake connector with new ETL capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-native-snowflake-connector-etl-capabilities-preview/)
+- [Amazon SageMaker Neo now supports compilation of PyTorch and TensorFlow models for Inferentia 2 and Trainium 1 instances](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-neo-pytorch-tensorflow-models-inferentia-2-trainium-1-instances/)
+- [AWS Control Tower achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-fedramp-high-authorization-aws-govcloud-us-regions/)
+- [Amazon Redshift announces native console integration with ThoughtSpot](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-native-console-integration-thoughtspot/)
+- [AWS SAM CLI announces remote invoke feature for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sam-cli-announces-remote-invoke-aws-lambda/)
 - [Amazon EFS now supports up to 10 GiB/s of Provisioned Throughput](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-efs-up-to-10-gibs-provisioned-throughput/)
 - [Amazon MQ now supports cross-region data replication for ActiveMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mq-cross-region-data-replication-activemq/)
 - [Amazon SageMaker Inference Recommender now in AWS Console, gives recommendations at model creation](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-inference-recommender-console-recommendations-model-creation/)
 - [AWS Glue Studio now provides data previews for Glue Streaming jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-studio-data-previews-glue-streaming-jobs/)
 - [AWS IAM now supports FIDO2 for multi-factor authentication in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iam-fido2-multi-authentication-govcloud-regions/)
-- [AWS Glue now can detect 250 sensitive entity types from over 50 countries](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-250-entity-types-50-countries/)
-- [Amazon MemoryDB for Redis achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-memorydb-redis-fedramp-moderate-compliance/)
-- [AWS Security Hub announces enhanced management capabilities with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-security-hub-enhanced-management-capabilities-cloudformation/)
-- [Amazon RDS for MariaDB supports minor versions 10.6.14, 10.5.21, 10.4.30](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-mariadb-new-minor-version-support/)
-- [AWS Transfer Family announces structured JSON log format](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-transfer-family-structured-json-log-format/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,8 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Ingestion now supports ingesting events from Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-ingestion-events-security-lake/)
+- [AWS Glue now supports native Snowflake connectivity with new ETL capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-native-snowflake-connectivity-etl-capabilities-preview/)
 - [Amazon SageMaker Data Wrangler now enables direct connection to Snowflake data](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-data-wrangler-direct-connection-snowflake-data/)
-- [AWS Glue now supports native Snowflake connector with new ETL capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-native-snowflake-connector-etl-capabilities-preview/)
 - [Amazon SageMaker Neo now supports compilation of PyTorch and TensorFlow models for Inferentia 2 and Trainium 1 instances](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-neo-pytorch-tensorflow-models-inferentia-2-trainium-1-instances/)
 - [AWS Control Tower achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-fedramp-high-authorization-aws-govcloud-us-regions/)
 - [Amazon Redshift announces native console integration with ThoughtSpot](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-native-console-integration-thoughtspot/)
@@ -67,7 +68,6 @@
 - [Amazon EFS now supports up to 10 GiB/s of Provisioned Throughput](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-efs-up-to-10-gibs-provisioned-throughput/)
 - [Amazon MQ now supports cross-region data replication for ActiveMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mq-cross-region-data-replication-activemq/)
 - [Amazon SageMaker Inference Recommender now in AWS Console, gives recommendations at model creation](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-inference-recommender-console-recommendations-model-creation/)
-- [AWS Glue Studio now provides data previews for Glue Streaming jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-studio-data-previews-glue-streaming-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

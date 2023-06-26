@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Optimized Writes for MySQL and MariaDB supports m5d, r5d, and m6gd database instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-optimized-writes-mysql-mariadb-instances/)
+- [Amazon Connect now allows you to search for tags within an instance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-search-tags-within-instance/)
+- [Amazon Pinpoint journeys now supports time zone estimation for endpoints](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-pinpoint-journey-time-zone-estimation-endpoints/)
 - [Amazon SageMaker Role Manager now provides CDK library to create fine-grained permissions within minutes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-role-manager-cdk-library-fine-grained-permissions/)
 - [Amazon OpenSearch Ingestion now supports ingesting events from Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-ingestion-events-security-lake/)
 - [AWS Glue now supports native Snowflake connectivity with new ETL capabilities &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-glue-native-snowflake-connectivity-etl-capabilities-preview/)
@@ -65,9 +68,6 @@
 - [Amazon SageMaker Neo now supports compilation of PyTorch and TensorFlow models for Inferentia 2 and Trainium 1 instances](https://aws.amazon.com/about-aws/whats-new/2023/06/sagemaker-neo-pytorch-tensorflow-models-inferentia-2-trainium-1-instances/)
 - [AWS Control Tower achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-control-tower-fedramp-high-authorization-aws-govcloud-us-regions/)
 - [Amazon Redshift announces native console integration with ThoughtSpot](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-redshift-native-console-integration-thoughtspot/)
-- [AWS SAM CLI announces remote invoke feature for AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sam-cli-announces-remote-invoke-aws-lambda/)
-- [Amazon EFS now supports up to 10 GiB/s of Provisioned Throughput](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-efs-up-to-10-gibs-provisioned-throughput/)
-- [Amazon MQ now supports cross-region data replication for ActiveMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-mq-cross-region-data-replication-activemq/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

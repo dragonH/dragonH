@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports creative ad id signaling in video manifests](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediatailor-creative-ad-id-signaling-video-manifests/)
 - [Announcing general availability for watchOS and tvOS support on AWS Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/06/watchos-tvos-aws-amplify-library-swift/)
 - [Amazon Connect Chat now offers additional customization options for the chat widget](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-options-chat-widget/)
 - [AWS announces AWS AppFabric](https://aws.amazon.com/about-aws/whats-new/2023/06/announcing-aws-appfabric/)
@@ -67,7 +68,6 @@
 - [AWS announces general availability of AWS Wavelength in Manchester with British Telecom](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-wavelength-manchester-british-telecom/)
 - [Amazon OpenSearch Service now lets you update cluster manager nodes without blue/green](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-cluster-manager-nodes-blue-green/)
 - [Amazon EC2 G5 instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-g5-instances-additional-regions/)
-- [Amazon RDS Optimized Writes for MySQL and MariaDB supports m5d, r5d, and m6gd database instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-optimized-writes-mysql-mariadb-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

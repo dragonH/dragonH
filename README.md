@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Chat now offers additional customization options for the chat widget](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-options-chat-widget/)
 - [AWS announces AWS AppFabric](https://aws.amazon.com/about-aws/whats-new/2023/06/announcing-aws-appfabric/)
 - [AWS Resilience Hub Expands Amazon EC2 Support](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-resilience-hub-amazon-ec2-support/)
 - [Amazon EC2 R6in and R6idn instances are now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6in-r6idn-instances-europe-frankfurt/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 G5 instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-g5-instances-additional-regions/)
 - [Amazon RDS Optimized Writes for MySQL and MariaDB supports m5d, r5d, and m6gd database instances](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-rds-optimized-writes-mysql-mariadb-instances/)
 - [Amazon Connect now allows you to search for tags within an instance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-search-tags-within-instance/)
-- [Amazon Pinpoint journeys now supports time zone estimation for endpoints](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-pinpoint-journey-time-zone-estimation-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

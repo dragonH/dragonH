@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-timestream-free-trial/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-rosa-middle-east-uae-region/)
 - [AWS Elemental MediaTailor now supports creative ad id signaling in video manifests](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediatailor-creative-ad-id-signaling-video-manifests/)
 - [Announcing general availability for watchOS and tvOS support on AWS Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/06/watchos-tvos-aws-amplify-library-swift/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 R6in and R6idn instances are now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6in-r6idn-instances-europe-frankfurt/)
 - [Amazon EC2 M6in and M6idn instances are now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-m6in-m6idn-instances-europe-frankfurt/)
 - [AWS announces general availability of AWS Wavelength in Manchester with British Telecom](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-wavelength-manchester-british-telecom/)
-- [Amazon OpenSearch Service now lets you update cluster manager nodes without blue/green](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-opensearch-service-cluster-manager-nodes-blue-green/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

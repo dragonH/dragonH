@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Aurora MySQL improves performance when binlog is enabled in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aurora-mysql-recovery-time-binlog-enabled-govcloud/)
+- [Amazon Linux announces support for secure boot with AL2023.1](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-linux-secure-boot-al2023-1/)
 - [Amazon Aurora Serverless v2 is now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-serverless-v2-melbourne/)
 - [New commitment pricing is now generally available for AWS Private 5G](https://aws.amazon.com/about-aws/whats-new/2023/06/commitment-pricing-aws-private-5g/)
 - [Amazon Timestream now offers a free trial](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-timestream-free-trial/)
@@ -66,8 +68,6 @@
 - [Announcing general availability for watchOS and tvOS support on AWS Amplify Library for Swift](https://aws.amazon.com/about-aws/whats-new/2023/06/watchos-tvos-aws-amplify-library-swift/)
 - [Amazon Connect Chat now offers additional customization options for the chat widget](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-options-chat-widget/)
 - [AWS announces AWS AppFabric](https://aws.amazon.com/about-aws/whats-new/2023/06/announcing-aws-appfabric/)
-- [AWS Resilience Hub Expands Amazon EC2 Support](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-resilience-hub-amazon-ec2-support/)
-- [Amazon EC2 R6in and R6idn instances are now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6in-r6idn-instances-europe-frankfurt/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Batch now supports ‘Min vCPUs’ for Multi-Node Parallel Jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-batch-min-vcpus-multi-node-parallel-jobs/)
-- [Amazon S3 provides restore status of S3 Glacier objects using the S3 LIST API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-restore-status-s3-glacier-objects-list-api/)
-- [Amazon Kinesis Video Streams Edge Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-video-streams-edge-agent/)
-- [Amazon Athena now supports querying restored data in S3 Glacier](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-querying-restored-data-s3-glacier/)
-- [Amazon EC2 R6a instances now support faster Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6a-instances-ebs-performance/)
-- [NoSQL Workbench is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/nosql-workbench-govcloud-regions/)
-- [AWS Backup Audit Manager is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-audit-manager-aws-govcloud-us-regions/)
-- [Amazon Kendra launches Retrieval API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-retrieval-api/)
-- [AWS announces general availability of AWS Wavelength in Manchester with BT](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-wavelength-manchester-bt/)
-- [AWS Amplify Hosting announces support for monorepo frameworks](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-amplify-hosting-monorepo-frameworks/)
+- [AWS Backup expands cross-account management in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-cross-account-management-govcloud/)
+- [Amazon Simple Email Service now supports metric export](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-simple-email-service-metric-export/)
+- [AWS Global Accelerator adds new edge location](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-global-accelerator-new-edge-location/)
+- [AWS Cloud WAN is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloud-wan-asia-pacific-osaka-region/)
+- [Amazon VPC IP Address Manager is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-vpc-ip-address-manager-three-regions/)
+- [Amazon Virtual Private Cloud now supports Bring Your Own IP in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-virtual-private-cloud-byoip-three-regions/)
+- [AWS Lambda simplifies copying environment variables in the console code editor](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-lambda-copying-environment-variables-console-code-editor/)
+- [Announcing applications manager for Amazon AppStream 2.0](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-stream-2-0-applications-manager/)
+- [Announcing AWS Marketplace transaction purchase order support for server products](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-marketplace-transaction-purchase-order-server-products/)
+- [New ODBC driver now available for Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/06/new-odbc-driver-amazon-athena/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

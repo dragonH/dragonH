@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch now supports ‘Min vCPUs’ for Multi-Node Parallel Jobs](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-batch-min-vcpus-multi-node-parallel-jobs/)
 - [Amazon S3 provides restore status of S3 Glacier objects using the S3 LIST API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-restore-status-s3-glacier-objects-list-api/)
+- [Amazon Kinesis Video Streams Edge Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-video-streams-edge-agent/)
 - [Amazon Athena now supports querying restored data in S3 Glacier](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-querying-restored-data-s3-glacier/)
 - [Amazon EC2 R6a instances now support faster Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6a-instances-ebs-performance/)
 - [NoSQL Workbench is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/nosql-workbench-govcloud-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Kendra launches Retrieval API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-retrieval-api/)
 - [AWS announces general availability of AWS Wavelength in Manchester with BT](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-wavelength-manchester-bt/)
 - [AWS Amplify Hosting announces support for monorepo frameworks](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-amplify-hosting-monorepo-frameworks/)
-- [Amazon Kinesis Video Streams Edge Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-video-streams-edge-agent/)
-- [Amazon DevOps Guru now supports encryption using customer managed keys](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-devops-guru-encryption-customer-managed-keys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

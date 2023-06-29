@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 provides restore status of S3 Glacier objects using the S3 LIST API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-s3-restore-status-s3-glacier-objects-list-api/)
+- [Amazon Athena now supports querying restored data in S3 Glacier](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-querying-restored-data-s3-glacier/)
+- [Amazon EC2 R6a instances now support faster Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ec2-r6a-instances-ebs-performance/)
 - [NoSQL Workbench is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/nosql-workbench-govcloud-regions/)
 - [AWS Backup Audit Manager is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-audit-manager-aws-govcloud-us-regions/)
 - [Amazon Kendra launches Retrieval API](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kendra-retrieval-api/)
@@ -65,9 +68,6 @@
 - [AWS Amplify Hosting announces support for monorepo frameworks](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-amplify-hosting-monorepo-frameworks/)
 - [Amazon Kinesis Video Streams Edge Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-video-streams-edge-agent/)
 - [Amazon DevOps Guru now supports encryption using customer managed keys](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-devops-guru-encryption-customer-managed-keys/)
-- [Amazon Athena is now available in the AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-athena-aws-middle-east-uae-region/)
-- [Amazon Kinesis Data Analytics Studio now supports Apache Flink version 1.15](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-kinesis-data-analytics-studio-apache-flink-version-1-15/)
-- [AWS announces Amazon Aurora MySQL zero-ETL integration with Amazon Redshift &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-aurora-mysql-zero-etl-integration-redshift-public-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

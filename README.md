@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Translate enhances its custom terminology feature](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-translate-enhances-terminology-feature/)
+- [AWS introduces CSI Driver for Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2023/06/csi-driver-amazon-fsx-openzfs/)
 - [AWS SDK for SAP ABAP now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sdk-sap-abap-available/)
 - [Amazon DynamoDB now simplifies and lowers the cost of handling failed conditional writes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-dynamodb-cost-failed-conditional-writes/)
 - [Mountpoint for Amazon S3 adds support for creating new files](https://aws.amazon.com/about-aws/whats-new/2023/06/mountpoint-amazon-s3-creating-new-files/)
@@ -66,8 +68,6 @@
 - [3rd Party Event Ingestion for AWS Incident Detection &amp; Response](https://aws.amazon.com/about-aws/whats-new/2023/06/3rd-party-event-ingestion-aws-incident-detection-response/)
 - [AWS Elemental MediaConnect now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-additional-aws-regions/)
 - [AWS App Runner adds support to update and rebuild a failed service](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-app-runner-update-rebuild-failed-service/)
-- [AWS IoT TwinMaker Knowledge Graph now supports showing query results in scenes](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-twinmaker-knowledge-graph-showing-query-results-scenes/)
-- [RStudio on Amazon SageMaker now provides improved developer productivity](https://aws.amazon.com/about-aws/whats-new/2023/06/rstudio-amazon-sagemaker-developer-productivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

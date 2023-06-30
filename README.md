@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect now publishes higher frequency metrics](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-publishes-higher-frequency-metrics/)
 - [Amazon Translate enhances its custom terminology feature](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-translate-enhances-terminology-feature/)
 - [AWS introduces CSI Driver for Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2023/06/csi-driver-amazon-fsx-openzfs/)
 - [AWS SDK for SAP ABAP now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sdk-sap-abap-available/)
@@ -67,7 +68,6 @@
 - [Amazon Omics now supports Common Workflow Language](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-omics-common-workflow-language/)
 - [3rd Party Event Ingestion for AWS Incident Detection &amp; Response](https://aws.amazon.com/about-aws/whats-new/2023/06/3rd-party-event-ingestion-aws-incident-detection-response/)
 - [AWS Elemental MediaConnect now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-additional-aws-regions/)
-- [AWS App Runner adds support to update and rebuild a failed service](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-app-runner-update-rebuild-failed-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

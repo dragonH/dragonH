@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Chat now supports quick reply and carousel messages](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-quick-reply-carousel-messages/)
+- [AWS CloudFormation launches Guard 3.0 with support for stateful rules](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-guard-3-0-stateful-rules/)
+- [AWS Database Migration Service now provides more comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-database-migration-service-premigration-assessments/)
 - [AWS Elemental MediaConnect now publishes higher frequency metrics](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-publishes-higher-frequency-metrics/)
 - [Amazon Translate enhances its custom terminology feature](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-translate-enhances-terminology-feature/)
 - [AWS introduces CSI Driver for Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2023/06/csi-driver-amazon-fsx-openzfs/)
@@ -65,9 +68,6 @@
 - [Amazon DynamoDB now simplifies and lowers the cost of handling failed conditional writes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-dynamodb-cost-failed-conditional-writes/)
 - [Mountpoint for Amazon S3 adds support for creating new files](https://aws.amazon.com/about-aws/whats-new/2023/06/mountpoint-amazon-s3-creating-new-files/)
 - [Amazon ECS now launches tasks faster alongside tasks with prolonged shutdown](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecs-tasks-faster-prolonged-shutdown/)
-- [Amazon Omics now supports Common Workflow Language](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-omics-common-workflow-language/)
-- [3rd Party Event Ingestion for AWS Incident Detection &amp; Response](https://aws.amazon.com/about-aws/whats-new/2023/06/3rd-party-event-ingestion-aws-incident-detection-response/)
-- [AWS Elemental MediaConnect now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

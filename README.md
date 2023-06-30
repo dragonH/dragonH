@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Mountpoint for Amazon S3 adds support for creating new files](https://aws.amazon.com/about-aws/whats-new/2023/06/mountpoint-amazon-s3-creating-new-files/)
+- [Amazon ECS now launches tasks faster alongside tasks with prolonged shutdown](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecs-tasks-faster-prolonged-shutdown/)
+- [Amazon Omics now supports Common Workflow Language](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-omics-common-workflow-language/)
 - [3rd Party Event Ingestion for AWS Incident Detection &amp; Response](https://aws.amazon.com/about-aws/whats-new/2023/06/3rd-party-event-ingestion-aws-incident-detection-response/)
 - [AWS Elemental MediaConnect now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-elemental-mediaconnect-additional-aws-regions/)
 - [AWS App Runner adds support to update and rebuild a failed service](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-app-runner-update-rebuild-failed-service/)
@@ -65,9 +68,6 @@
 - [RStudio on Amazon SageMaker now provides improved developer productivity](https://aws.amazon.com/about-aws/whats-new/2023/06/rstudio-amazon-sagemaker-developer-productivity/)
 - [Amazon CloudWatch now supports dashboard variables](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-dashboard-variables/)
 - [Amazon SageMaker Canvas announces support for Apache Parquet file format](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-apache-parquet-file-format/)
-- [Amazon SageMaker Feature Store now supports time to live &lpar;TTL&rpar; in online store](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-feature-store-ttl-online-store/)
-- [Amazon GameLift adds support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-gamelift-support-linux-2023/)
-- [AWS Backup expands cross-account management in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-backup-cross-account-management-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

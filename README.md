@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SDK for SAP ABAP now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sdk-sap-abap-available/)
+- [Amazon DynamoDB now simplifies and lowers the cost of handling failed conditional writes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-dynamodb-cost-failed-conditional-writes/)
 - [Mountpoint for Amazon S3 adds support for creating new files](https://aws.amazon.com/about-aws/whats-new/2023/06/mountpoint-amazon-s3-creating-new-files/)
 - [Amazon ECS now launches tasks faster alongside tasks with prolonged shutdown](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecs-tasks-faster-prolonged-shutdown/)
 - [Amazon Omics now supports Common Workflow Language](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-omics-common-workflow-language/)
@@ -66,8 +68,6 @@
 - [AWS App Runner adds support to update and rebuild a failed service](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-app-runner-update-rebuild-failed-service/)
 - [AWS IoT TwinMaker Knowledge Graph now supports showing query results in scenes](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-iot-twinmaker-knowledge-graph-showing-query-results-scenes/)
 - [RStudio on Amazon SageMaker now provides improved developer productivity](https://aws.amazon.com/about-aws/whats-new/2023/06/rstudio-amazon-sagemaker-developer-productivity/)
-- [Amazon CloudWatch now supports dashboard variables](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-cloudwatch-dashboard-variables/)
-- [Amazon SageMaker Canvas announces support for Apache Parquet file format](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-sagemaker-canvas-apache-parquet-file-format/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

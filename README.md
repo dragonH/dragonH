@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Wickr is now available in the Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-wickr-canada-central-region/)
+- [Amazon Personalize improves quality for batch recommendations by using the latest streamed data](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-personalize-quality-batch-recommendations/)
 - [Amazon Connect Chat now supports quick reply and carousel messages](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-connect-chat-quick-reply-carousel-messages/)
 - [AWS CloudFormation launches Guard 3.0 with support for stateful rules](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-cloudformation-guard-3-0-stateful-rules/)
 - [AWS Database Migration Service now provides more comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-database-migration-service-premigration-assessments/)
@@ -66,8 +68,6 @@
 - [AWS introduces CSI Driver for Amazon FSx for OpenZFS](https://aws.amazon.com/about-aws/whats-new/2023/06/csi-driver-amazon-fsx-openzfs/)
 - [AWS SDK for SAP ABAP now generally available](https://aws.amazon.com/about-aws/whats-new/2023/06/aws-sdk-sap-abap-available/)
 - [Amazon DynamoDB now simplifies and lowers the cost of handling failed conditional writes](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-dynamodb-cost-failed-conditional-writes/)
-- [Mountpoint for Amazon S3 adds support for creating new files](https://aws.amazon.com/about-aws/whats-new/2023/06/mountpoint-amazon-s3-creating-new-files/)
-- [Amazon ECS now launches tasks faster alongside tasks with prolonged shutdown](https://aws.amazon.com/about-aws/whats-new/2023/06/amazon-ecs-tasks-faster-prolonged-shutdown/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

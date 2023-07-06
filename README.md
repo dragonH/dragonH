@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS increases pod density limits for Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-eks-pod-density-limits-windows-containers/)
 - [AWS Backup support for Amazon S3 is now available in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-backup-s3-4-regions/)
 - [PostgreSQL 16 Beta 2 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/07/postgresql-16-beta-2-amazon-rds-database-preview-environment/)
 - [Amazon CloudWatch now supports Cross-Account Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-cross-account-service-quotas/)
@@ -67,7 +68,6 @@
 - [AWS Application Migration Service now supports multi-account migrations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-application-migration-service-multi-account-migrations/)
 - [Amazon OpenSearch Service now lets you provision higher IOPS and throughput for gp3 volumes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-opensearch-service-provision-iops-throughput-gp3-volumes/)
 - [Amazon Connect now allows flows to automatically run based on agent activity](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-flows-run-based-agent-activity/)
-- [AWS Systems Manager Parameter Store increases API throughput limit](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-systems-manager-parameter-store-api-limit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

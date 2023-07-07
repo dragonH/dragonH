@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive adds support for input thumbnail images](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-input-thumbnail-images/)
+- [Amazon GuardDuty EKS Runtime Monitoring expands operating systems and processor support](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-guardduty-eks-monitoring-systems-processor/)
+- [AWS Glue Crawlers now supports Apache Iceberg Tables](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-crawlers-apache-iceberg-tables/)
 - [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-asia-pacific-melbourne-region/)
 - [AWS CodeBuild now supports GitHub Actions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-codebuild-github-actions/)
 - [Introducing the AWS .NET Distributed Cache Provider for DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-net-distributed-cache-provider-dynamodb/)
@@ -65,9 +68,6 @@
 - [AWS Config now supports 16 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-16-new-resource-types/)
 - [Amazon RDS for PostgreSQL Multi-AZ Deployment with two readable standbys supports logical replication](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-postgresql-multi-az-logical-replication/)
 - [AWS Network Firewall is now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-network-firewall-four-regions/)
-- [Amazon Textract announces updates to AnalyzeDocument - Forms](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-textract-updates-analyzedocument-forms/)
-- [AWS Blu Age runtime is now available packaged for easier Amazon EC2 deployment](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-blu-runtime-packaged-ec2-deployment/)
-- [Amazon EKS increases pod density limits for Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-eks-pod-density-limits-windows-containers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

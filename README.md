@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-asia-pacific-melbourne-region/)
 - [AWS CodeBuild now supports GitHub Actions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-codebuild-github-actions/)
 - [Introducing the AWS .NET Distributed Cache Provider for DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-net-distributed-cache-provider-dynamodb/)
 - [Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Textract announces updates to AnalyzeDocument - Forms](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-textract-updates-analyzedocument-forms/)
 - [AWS Blu Age runtime is now available packaged for easier Amazon EC2 deployment](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-blu-runtime-packaged-ec2-deployment/)
 - [Amazon EKS increases pod density limits for Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-eks-pod-density-limits-windows-containers/)
-- [AWS Backup support for Amazon S3 is now available in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-backup-s3-4-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Omics achieves FedRAMP Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-fedramp-authorization/)
 - [AWS Elemental MediaLive now publishes 1-second metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-publishes-1-second-metrics/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.7](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-opensearch-service-opensearch-version-2-7/)
 - [Amazon Location Service now supports API Keys for Maps, Places, and Routes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-services-api-keys-maps-places-routes/)
@@ -67,7 +68,6 @@
 - [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-asia-pacific-melbourne-region/)
 - [AWS CodeBuild now supports GitHub Actions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-codebuild-github-actions/)
 - [Introducing the AWS .NET Distributed Cache Provider for DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-net-distributed-cache-provider-dynamodb/)
-- [Amazon SQS announces support for dead-letter queue redrive via AWS SDK or CLI in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sqs-dead-letter-queue-redrive-aws-sdk-cli-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

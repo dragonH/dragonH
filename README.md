@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service now supports publishing device position updates on EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-service-device-updates-eventbridge/)
 - [Amazon RDS for SQL Server now supports self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-self-managed-active-directory/)
 - [Amazon Omics achieves FedRAMP Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-fedramp-authorization/)
 - [AWS Elemental MediaLive now publishes 1-second metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-publishes-1-second-metrics/)
@@ -67,7 +68,6 @@
 - [Amazon GuardDuty EKS Runtime Monitoring expands operating systems and processor support](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-guardduty-eks-monitoring-systems-processor/)
 - [AWS Glue Crawlers now supports Apache Iceberg Tables](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-crawlers-apache-iceberg-tables/)
 - [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-asia-pacific-melbourne-region/)
-- [AWS CodeBuild now supports GitHub Actions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-codebuild-github-actions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; launches index improvements](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-documentdb-mongodb-index-improvements/)
 - [AWS Mainframe Modernization expands control and visibility of runtime environments](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-control-visibility-runtime-environments/)
 - [Amazon QuickSight launches unified color experience for analysis and dashboards](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-unified-color-experience-analysis-dashboards/)
 - [Amazon QuickSight adds axis customization options for small multiples and radar chart](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-axis-customization-multiples-radar-chart/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaLive now publishes 1-second metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-publishes-1-second-metrics/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.7](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-opensearch-service-opensearch-version-2-7/)
 - [Amazon Location Service now supports API Keys for Maps, Places, and Routes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-services-api-keys-maps-places-routes/)
-- [AWS Elemental MediaLive adds support for input thumbnail images](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-input-thumbnail-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

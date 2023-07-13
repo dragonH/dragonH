@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-karpenter-windows-containers/)
+- [Amazon FSx for NetApp ONTAP announces two additional monitoring and troubleshooting capabilities](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-additional-monitoring-troubleshooting-capabilities/)
+- [Amazon FSx for NetApp ONTAP now supports IPSec encryption of data in transit](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-ipsec-encryption-data-transit/)
+- [Amazon FSx for NetApp ONTAP supports write once, read many &lpar;WORM&rpar; protection with SnapLock](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-fsx-netapp-ontap-worm-protection/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; launches index improvements](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-documentdb-mongodb-index-improvements/)
 - [AWS Mainframe Modernization expands control and visibility of runtime environments](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-control-visibility-runtime-environments/)
 - [Amazon QuickSight launches unified color experience for analysis and dashboards](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-unified-color-experience-analysis-dashboards/)
 - [Amazon QuickSight adds axis customization options for small multiples and radar chart](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-axis-customization-multiples-radar-chart/)
 - [Amazon Location Service now supports publishing device position updates on EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-service-device-updates-eventbridge/)
 - [Amazon RDS for SQL Server now supports self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-self-managed-active-directory/)
-- [Amazon Omics achieves FedRAMP Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-fedramp-authorization/)
-- [AWS Elemental MediaLive now publishes 1-second metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-publishes-1-second-metrics/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.7](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-opensearch-service-opensearch-version-2-7/)
-- [Amazon Location Service now supports API Keys for Maps, Places, and Routes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-location-services-api-keys-maps-places-routes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

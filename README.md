@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches APIs to programmatically delete Routing Profiles and Queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-apis-programmatically-delete-routing-profiles-queues/)
 - [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in CLI/SDK](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-batch-fargate-linux-arm64-windows-x86-containers-cli-sdk/)
 - [Amazon EMR on EKS adds programmatic execution for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-programmatic-execution-managed-endpoints/)
 - [Amazon S3 Inventory can include ACLs as object metadata in inventory reports](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-s3-inventory-access-control-lists-metadata-inventory/)
@@ -67,7 +68,6 @@
 - [Amazon Personalize now makes it easier to add columns to existing datasets](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-personalize-add-columns-existing-datasets/)
 - [AWS DMS now supports Amazon Redshift Serverless as a target](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-dms-amazon-redshift-target/)
 - [AWS Elemental MediaTailor introduces alert categories in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediatailor-alert-categories-channel-assembly/)
-- [AWS Lambda now detects and stops recursive loops in Lambda functions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-detects-recursive-loops-lambda-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

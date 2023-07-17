@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda and Amazon EventBridge Pipes now support enhanced filtering](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-eventbridge-pipes-enhanced-filtering/)
 - [AWS simplifies writing  .NET 6 Lambda functions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simplifies-writing-net-6-lambda-functions/)
 - [Amazon Connect Wisdom is now available for chat agents](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-wisdom-chat-agents/)
 - [AWS Fargate enables faster container startup using Seekable OCI](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-fargate-container-startup-seekable-oci/)
@@ -67,7 +68,6 @@
 - [Amazon Redshift announces support of QUALIFY clause in SELECT SQL statement](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-qualify-clause-select-sql-statement/)
 - [AWS Elemental MediaPackage now available in AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediapackage-canada-central/)
 - [Amazon Connect launches APIs to programmatically delete Routing Profiles and Queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-apis-programmatically-delete-routing-profiles-queues/)
-- [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in CLI/SDK](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-batch-fargate-linux-arm64-windows-x86-containers-cli-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports cue ad tags in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediatailor-cue-ad-tags-channel-assembly/)
+- [Amazon Redshift announces support of QUALIFY clause in SELECT SQL statement](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-qualify-clause-select-sql-statement/)
+- [AWS Elemental MediaPackage now available in AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediapackage-canada-central/)
 - [Amazon Connect launches APIs to programmatically delete Routing Profiles and Queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-apis-programmatically-delete-routing-profiles-queues/)
 - [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in CLI/SDK](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-batch-fargate-linux-arm64-windows-x86-containers-cli-sdk/)
 - [Amazon EMR on EKS adds programmatic execution for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-programmatic-execution-managed-endpoints/)
@@ -65,9 +68,6 @@
 - [AWS Proton introduces deployment history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-proton-deployment-history/)
 - [Amazon CloudFront announces support for 3072-bit RSA certificates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudfront-3072-bit-rsa-certificates/)
 - [Amazon EC2 M7g and R7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-m7g-r7g-instances-additional-regions/)
-- [Amazon Personalize now makes it easier to add columns to existing datasets](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-personalize-add-columns-existing-datasets/)
-- [AWS DMS now supports Amazon Redshift Serverless as a target](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-dms-amazon-redshift-target/)
-- [AWS Elemental MediaTailor introduces alert categories in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediatailor-alert-categories-channel-assembly/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

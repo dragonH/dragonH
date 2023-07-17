@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS now supports rendition filtering and higher frequency thumbnails for the Record to S3 feature](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ivs-rendition-filtering-thumbnails-record-s3-feature/)
+- [Amazon ECS adds domainless gMSA authentication for Linux and Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-domainless-gmsa-authentication-linux-windows-containers/)
 - [AWS Elemental MediaTailor now supports cue ad tags in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediatailor-cue-ad-tags-channel-assembly/)
 - [Amazon Redshift announces support of QUALIFY clause in SELECT SQL statement](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-qualify-clause-select-sql-statement/)
 - [AWS Elemental MediaPackage now available in AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediapackage-canada-central/)
@@ -66,8 +68,6 @@
 - [Amazon EMR on EKS adds programmatic execution for managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-programmatic-execution-managed-endpoints/)
 - [Amazon S3 Inventory can include ACLs as object metadata in inventory reports](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-s3-inventory-access-control-lists-metadata-inventory/)
 - [AWS Proton introduces deployment history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-proton-deployment-history/)
-- [Amazon CloudFront announces support for 3072-bit RSA certificates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudfront-3072-bit-rsa-certificates/)
-- [Amazon EC2 M7g and R7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-m7g-r7g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

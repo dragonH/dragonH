@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Llama 2 foundation models from Meta now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/07/llama-2-foundation-models-meta-amazon-sagemaker-jumpstart/)
 - [AWS Lambda and Amazon EventBridge Pipes now support enhanced filtering](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-eventbridge-pipes-enhanced-filtering/)
 - [AWS simplifies writing  .NET 6 Lambda functions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simplifies-writing-net-6-lambda-functions/)
 - [Amazon Connect Wisdom is now available for chat agents](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-wisdom-chat-agents/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaTailor now supports cue ad tags in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediatailor-cue-ad-tags-channel-assembly/)
 - [Amazon Redshift announces support of QUALIFY clause in SELECT SQL statement](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-qualify-clause-select-sql-statement/)
 - [AWS Elemental MediaPackage now available in AWS Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-mediapackage-canada-central/)
-- [Amazon Connect launches APIs to programmatically delete Routing Profiles and Queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-apis-programmatically-delete-routing-profiles-queues/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

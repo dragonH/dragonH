@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeCatalyst now supports workflows triggered by GitHub pull requests](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-workflows-triggered-github-pull-requests/)
+- [AWS Amplify JavaScript library enhances the performance of Auth, Storage, Notifications, and Analytics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-amplify-javascript-library-auth-storage-notifications-analytics/)
+- [Amazon EC2 X2idn instances now available in Middle East &lpar;Dubai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-x2idn-instances-middle-east-dubai-region/)
 - [Introducing Analytics on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/07/analytics-amazon-lex/)
 - [Amazon Connect launches pre-defined Contact Lens conversational analytics metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-pre-defined-contact-lens-conversational-analytics-metrics/)
 - [Amazon Corretto July, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-corretto-july-2023-quarterly-updates/)
@@ -65,9 +68,6 @@
 - [Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/karpenter-windows-containers/)
 - [Amazon Aurora PostgreSQL supports Microsoft AD authentication in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-ad-authentication-govcloud-regions/)
 - [AWS Mainframe Modernization service is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-pci-dss-compliant/)
-- [Llama 2 foundation models from Meta now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/07/llama-2-foundation-models-meta-amazon-sagemaker-jumpstart/)
-- [AWS Lambda and Amazon EventBridge Pipes now support enhanced filtering](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-eventbridge-pipes-enhanced-filtering/)
-- [AWS simplifies writing  .NET 6 Lambda functions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simplifies-writing-net-6-lambda-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

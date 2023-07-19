@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch announces ML backed Logs Insights pattern query command](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-ml-backed-logs-insights-pattern-query-command/)
 - [Amazon CodeCatalyst now supports workflows triggered by GitHub pull requests](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-workflows-triggered-github-pull-requests/)
 - [AWS Amplify JavaScript library enhances the performance of Auth, Storage, Notifications, and Analytics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-amplify-javascript-library-auth-storage-notifications-analytics/)
 - [Amazon EC2 X2idn instances now available in Middle East &lpar;Dubai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-x2idn-instances-middle-east-dubai-region/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C6in instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c6in-instances-additional-regions/)
 - [Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/karpenter-windows-containers/)
 - [Amazon Aurora PostgreSQL supports Microsoft AD authentication in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-ad-authentication-govcloud-regions/)
-- [AWS Mainframe Modernization service is now PCI DSS Compliant](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-mainframe-modernization-pci-dss-compliant/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

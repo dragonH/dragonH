@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Grafana now supports in-place update for version 9.4](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-managed-grafana-in-place-update-version-9-4/)
+- [Amazon Translate enables real time translation of Docx files](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-translate-real-time-translation-docx-files/)
 - [Amazon CloudWatch announces ML backed Logs Insights pattern query command](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-ml-backed-logs-insights-pattern-query-command/)
 - [Amazon CodeCatalyst now supports workflows triggered by GitHub pull requests](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-workflows-triggered-github-pull-requests/)
 - [AWS Amplify JavaScript library enhances the performance of Auth, Storage, Notifications, and Analytics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-amplify-javascript-library-auth-storage-notifications-analytics/)
@@ -66,8 +68,6 @@
 - [Amazon Connect launches pre-defined Contact Lens conversational analytics metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-pre-defined-contact-lens-conversational-analytics-metrics/)
 - [Amazon Corretto July, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-corretto-july-2023-quarterly-updates/)
 - [Amazon EC2 C6in instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c6in-instances-additional-regions/)
-- [Karpenter now supports Windows containers](https://aws.amazon.com/about-aws/whats-new/2023/07/karpenter-windows-containers/)
-- [Amazon Aurora PostgreSQL supports Microsoft AD authentication in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-postgresql-ad-authentication-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

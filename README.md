@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SNS can now deliver mobile push notifications in twelve new regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sns-mobile-notifications-twelve-regions/)
+- [Amazon SNS can now deliver mobile push notifications in twelve new AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sns-mobile-notifications-twelve-regions/)
 - [Amazon Managed Grafana now supports in-place update for version 9.4](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-managed-grafana-in-place-update-version-9-4/)
 - [Amazon Translate enables real time translation of Docx files](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-translate-real-time-translation-docx-files/)
 - [Amazon CloudWatch announces ML backed Logs Insights pattern query command](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-ml-backed-logs-insights-pattern-query-command/)

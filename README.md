@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SNS can now deliver mobile push notifications in twelve new AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sns-mobile-notifications-twelve-regions/)
+- [Amazon Redshift ML announces integration with Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/)
+- [AWS IoT Device Defender now supports monitoring of device disconnect durations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-device-defender-monitoring-device-disconnect-durations/)
+- [AWS WAF now supports URI path aggregation key for rate-based rules](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-waf-uri-path-aggregation-key-rate-based-rules/)
+- [Amazon Connect Cases now provides case assignment](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-cases-case-assignment/)
+- [Amazon SNS now supports mobile push notifications in twelve new AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sns-mobile-notifications-twelve-regions/)
 - [Amazon Managed Grafana now supports in-place update for version 9.4](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-managed-grafana-in-place-update-version-9-4/)
 - [Amazon Translate enables real time translation of Docx files](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-translate-real-time-translation-docx-files/)
 - [Amazon CloudWatch announces ML backed Logs Insights pattern query command](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-ml-backed-logs-insights-pattern-query-command/)
 - [Amazon CodeCatalyst now supports workflows triggered by GitHub pull requests](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-workflows-triggered-github-pull-requests/)
 - [AWS Amplify JavaScript library enhances the performance of Auth, Storage, Notifications, and Analytics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-amplify-javascript-library-auth-storage-notifications-analytics/)
-- [Amazon EC2 X2idn instances now available in Middle East &lpar;Dubai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-x2idn-instances-middle-east-dubai-region/)
-- [Introducing Analytics on Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/07/analytics-amazon-lex/)
-- [Amazon Connect launches pre-defined Contact Lens conversational analytics metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-pre-defined-contact-lens-conversational-analytics-metrics/)
-- [Amazon Corretto July, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-corretto-july-2023-quarterly-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

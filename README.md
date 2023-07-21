@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config advanced queries support 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-advanced-queries-65-resource-types/)
+- [AWS Lake Formation now supports delegation of LF-Tag management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-delegation-lf-tag-management/)
 - [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-privatelink-integration-cloudwatch-insights/)
 - [Amazon Route 53 Resolver now available on AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-resolver-aws-outposts-rack/)
 - [AWS Supply Chain extends availability in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-additional-regions/)
@@ -66,8 +68,6 @@
 - [AWS IoT Device Defender now supports monitoring of device disconnect durations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-device-defender-monitoring-device-disconnect-durations/)
 - [AWS WAF now supports URI path aggregation key for rate-based rules](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-waf-uri-path-aggregation-key-rate-based-rules/)
 - [Amazon Connect Cases now provides case assignment](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-cases-case-assignment/)
-- [Amazon SNS now supports mobile push notifications in twelve new AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sns-mobile-notifications-twelve-regions/)
-- [Amazon Managed Grafana now supports in-place update for version 9.4](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-managed-grafana-in-place-update-version-9-4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

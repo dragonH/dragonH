@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Resolver now available on AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-resolver-aws-outposts-rack/)
+- [AWS Supply Chain extends availability in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-additional-regions/)
+- [Amazon Connect launches CloudFormation support for routing profiles and queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-cloudformation-routing-profiles-queues/)
 - [Amazon Redshift ML announces integration with Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/)
 - [AWS IoT Device Defender now supports monitoring of device disconnect durations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-device-defender-monitoring-device-disconnect-durations/)
 - [AWS WAF now supports URI path aggregation key for rate-based rules](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-waf-uri-path-aggregation-key-rate-based-rules/)
@@ -65,9 +68,6 @@
 - [Amazon SNS now supports mobile push notifications in twelve new AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sns-mobile-notifications-twelve-regions/)
 - [Amazon Managed Grafana now supports in-place update for version 9.4](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-managed-grafana-in-place-update-version-9-4/)
 - [Amazon Translate enables real time translation of Docx files](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-translate-real-time-translation-docx-files/)
-- [Amazon CloudWatch announces ML backed Logs Insights pattern query command](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-ml-backed-logs-insights-pattern-query-command/)
-- [Amazon CodeCatalyst now supports workflows triggered by GitHub pull requests](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-workflows-triggered-github-pull-requests/)
-- [AWS Amplify JavaScript library enhances the performance of Auth, Storage, Notifications, and Analytics](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-amplify-javascript-library-auth-storage-notifications-analytics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

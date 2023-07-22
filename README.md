@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppConfig Agent simplifies feature flag and configuration use for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-appconfig-agent-feature-flag-configuration-amazon-ec2/)
 - [AWS Glue Crawlers now supports Apache Hudi Tables](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-crawlers-apache-hudi-tables/)
 - [EMR on EKS now supports Apache Spark with Java 17](https://aws.amazon.com/about-aws/whats-new/2023/07/emr-eks-apache-spark-java-17/)
 - [AWS Config advanced queries support 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-advanced-queries-65-resource-types/)
@@ -67,7 +68,6 @@
 - [AWS Supply Chain extends availability in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-additional-regions/)
 - [Amazon Connect launches CloudFormation support for routing profiles and queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-cloudformation-routing-profiles-queues/)
 - [Amazon Redshift ML announces integration with Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/)
-- [AWS IoT Device Defender now supports monitoring of device disconnect durations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-device-defender-monitoring-device-disconnect-durations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

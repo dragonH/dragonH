@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports document compression](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-document-db-mongo-db-document-compression/)
 - [AWS Supply Chain Demand Planning announces AWS CloudTrail support for event history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-cloudtrail-event-history/)
 - [AWS Supply Chain Demand Planning supports multiple override management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-multiple-override-management/)
 - [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 5.0](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-synthetics-node-js-runtime-version-5-0/)
@@ -67,7 +68,6 @@
 - [EMR on EKS now supports Apache Spark with Java 17](https://aws.amazon.com/about-aws/whats-new/2023/07/emr-eks-apache-spark-java-17/)
 - [AWS Config advanced queries support 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-advanced-queries-65-resource-types/)
 - [AWS Lake Formation now supports delegation of LF-Tag management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-delegation-lf-tag-management/)
-- [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-privatelink-integration-cloudwatch-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

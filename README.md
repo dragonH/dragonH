@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace Vendor Insights now includes PCI DSS, HIPAA, and GDPR certifications](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-marketplace-vendor-insights-pci-dss-hipaa-gdpr/)
+- [Amazon Omics now provides workflow run queuing](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-workflow-run-queuing/)
 - [Access resource and stack drift information directly in AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2023/07/access-resource-stack-drift-information-aws-cloudformation-stacksets/)
 - [AWS Control Tower launches additional proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-control-tower-proactive-controls/)
 - [Amazon SageMaker Feature Store now supports cross account sharing, discovery and access](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-feature-store-account-sharing-discovery-access/)
@@ -66,8 +68,6 @@
 - [AWS Supply Chain Demand Planning announces AWS CloudTrail support for event history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-cloudtrail-event-history/)
 - [AWS Supply Chain Demand Planning supports multiple override management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-multiple-override-management/)
 - [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 5.0](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-synthetics-node-js-runtime-version-5-0/)
-- [Announcing enhanced user interface for AWS Supply Chain Demand Planning](https://aws.amazon.com/about-aws/whats-new/2023/07/ui-aws-supply-chain-demand-planning/)
-- [AWS AppConfig Agent simplifies feature flag and configuration use for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-appconfig-agent-feature-flag-configuration-amazon-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

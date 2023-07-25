@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Marketplace Vendor Insights now includes PCI DSS, HIPAA, and GDPR certifications](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-marketplace-vendor-insights-pci-dss-hipaa-gdpr/)
-- [Amazon Omics now provides workflow run queuing](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-workflow-run-queuing/)
-- [Access resource and stack drift information directly in AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2023/07/access-resource-stack-drift-information-aws-cloudformation-stacksets/)
-- [AWS Control Tower launches additional proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-control-tower-proactive-controls/)
-- [Amazon SageMaker Feature Store now supports cross account sharing, discovery and access](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-feature-store-account-sharing-discovery-access/)
-- [Amazon EMR launches new capabilities to enhance EMR on EC2 cluster scaling experience](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-capabilities-emr-ec2-cluster-scaling-experience/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports document compression](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-document-db-mongo-db-document-compression/)
-- [AWS Supply Chain Demand Planning announces AWS CloudTrail support for event history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-cloudtrail-event-history/)
-- [AWS Supply Chain Demand Planning supports multiple override management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-multiple-override-management/)
-- [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 5.0](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-synthetics-node-js-runtime-version-5-0/)
+- [Amazon Redshift announces automatic mounting of AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/)
+- [Amazon CloudWatch Internet Monitor now supports Network Load Balancers as a resource type](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-internet-monitor-load-balancers/)
+- [Amazon QuickSight now supports Snapshot Export APIs](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-snapshot-export-apis/)
+- [AWS Transfer Family launches SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-sftp-connectors/)
+- [AWS Cost Management introduces visual Savings Plans recommendations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cost-management-visual-savings-plans-recommendations/)
+- [Announcing auto-account association for AWS Billing Conductor billing groups](https://aws.amazon.com/about-aws/whats-new/2023/07/auto-account-association-aws-billing-conductor-groups/)
+- [AWS IoT Core announces MQTT support for Device Location feature](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-core-mqtt-device-location-feature/)
+- [Personalize your search results with Amazon Personalize and OpenSearch integration](https://aws.amazon.com/about-aws/whats-new/2023/07/personalize-search-results-amazon-personalize-opensearch-integration/)
+- [Amazon Chime SDK provides additional compositing options for live connector and media capture](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-chime-sdk-compositing-options-live-connector-media-capture/)
+- [AWS Elemental MediaLive now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-now-available-in-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

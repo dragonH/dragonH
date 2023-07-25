@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EC2 announces support for native LDAP authentication](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-ec2-native-ldap-authentication/)
 - [Amazon Redshift announces automatic mounting of AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/)
 - [Amazon CloudWatch Internet Monitor now supports Network Load Balancers as a resource type](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-internet-monitor-load-balancers/)
 - [Amazon QuickSight now supports Snapshot Export APIs](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-snapshot-export-apis/)
@@ -67,7 +68,6 @@
 - [AWS IoT Core announces MQTT support for Device Location feature](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-core-mqtt-device-location-feature/)
 - [Personalize your search results with Amazon Personalize and OpenSearch integration](https://aws.amazon.com/about-aws/whats-new/2023/07/personalize-search-results-amazon-personalize-opensearch-integration/)
 - [Amazon Chime SDK provides additional compositing options for live connector and media capture](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-chime-sdk-compositing-options-live-connector-media-capture/)
-- [AWS Elemental MediaLive now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elemental-medialive-now-available-in-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

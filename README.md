@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Marketplace Vendor Insights now includes PCI DSS, HIPAA, and GDPR certifications](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-marketplace-vendor-insights-pci-dss-hipaa-gdpr/)
-- [Amazon Omics now provides workflow run queuing](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-omics-workflow-run-queuing/)
-- [Access resource and stack drift information directly in AWS CloudFormation StackSets](https://aws.amazon.com/about-aws/whats-new/2023/07/access-resource-stack-drift-information-aws-cloudformation-stacksets/)
-- [AWS Control Tower launches additional proactive controls](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-control-tower-proactive-controls/)
-- [Amazon SageMaker Feature Store now supports cross account sharing, discovery and access](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-feature-store-account-sharing-discovery-access/)
-- [Amazon EMR launches new capabilities to enhance EMR on EC2 cluster scaling experience](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-capabilities-emr-ec2-cluster-scaling-experience/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports document compression](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-document-db-mongo-db-document-compression/)
-- [AWS Supply Chain Demand Planning announces AWS CloudTrail support for event history](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-cloudtrail-event-history/)
-- [AWS Supply Chain Demand Planning supports multiple override management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-demand-planning-multiple-override-management/)
-- [Amazon CloudWatch Synthetics announces new Synthetics NodeJS runtime version 5.0](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-synthetics-node-js-runtime-version-5-0/)
+- [AWS AppConfig Agent simplifies feature flag and configuration use for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-appconfig-agent-feature-flag-configuration-amazon-ec2/)
+- [AWS Glue Crawlers now supports Apache Hudi Tables](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-crawlers-apache-hudi-tables/)
+- [EMR on EKS now supports Apache Spark with Java 17](https://aws.amazon.com/about-aws/whats-new/2023/07/emr-eks-apache-spark-java-17/)
+- [AWS Config advanced queries support 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-config-advanced-queries-65-resource-types/)
+- [AWS Lake Formation now supports delegation of LF-Tag management](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-delegation-lf-tag-management/)
+- [AWS PrivateLink announces integration with Amazon CloudWatch Contributor Insights](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-privatelink-integration-cloudwatch-insights/)
+- [Amazon Route 53 Resolver now available on AWS Outposts rack](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-resolver-aws-outposts-rack/)
+- [AWS Supply Chain extends availability in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-supply-chain-additional-regions/)
+- [Amazon Connect launches CloudFormation support for routing profiles and queues](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-cloudformation-routing-profiles-queues/)
+- [Amazon Redshift ML announces integration with Amazon Forecast](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-ml-integration-amazon-forecast/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

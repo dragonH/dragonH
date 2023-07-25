@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas supports custom Amazon S3 output location for ML artifacts](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-custom-s3-ml-artifacts/)
+- [CloudWatch Application Insights adds monitoring for multi-app instance deployments](https://aws.amazon.com/about-aws/whats-new/2023/07/cloudwatch-application-insights-monitoring-multi-app-instance-deployments/)
+- [Amazon SageMaker Canvas supports training ML models with different objective metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-training-ml-models-objective-metrics/)
+- [Amazon SageMaker Canvas expands data preparation with five new capabilities](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-data-preparation-five-capabilities/)
+- [Amazon SageMaker Canvas supports sharing ML models with Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-sharing-ml-models-amazon-quicksight/)
+- [Amazon SageMaker Canvas announces Document Queries powered by Amazon Textract](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-document-queries-textract/)
 - [Amazon EMR on EC2 announces support for native LDAP authentication](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-ec2-native-ldap-authentication/)
 - [Amazon Redshift announces automatic mounting of AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/)
 - [Amazon CloudWatch Internet Monitor now supports Network Load Balancers as a resource type](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-internet-monitor-load-balancers/)
 - [Amazon QuickSight now supports Snapshot Export APIs](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-snapshot-export-apis/)
-- [AWS Transfer Family launches SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-transfer-family-sftp-connectors/)
-- [AWS Cost Management introduces visual Savings Plans recommendations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cost-management-visual-savings-plans-recommendations/)
-- [Announcing auto-account association for AWS Billing Conductor billing groups](https://aws.amazon.com/about-aws/whats-new/2023/07/auto-account-association-aws-billing-conductor-groups/)
-- [AWS IoT Core announces MQTT support for Device Location feature](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-core-mqtt-device-location-feature/)
-- [Personalize your search results with Amazon Personalize and OpenSearch integration](https://aws.amazon.com/about-aws/whats-new/2023/07/personalize-search-results-amazon-personalize-opensearch-integration/)
-- [Amazon Chime SDK provides additional compositing options for live connector and media capture](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-chime-sdk-compositing-options-live-connector-media-capture/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

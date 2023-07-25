@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless now supports storing logs in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/)
+- [AWS DataSync now supports copying data to and from Azure Blob Storage](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-datasync-copying-data-azure-blob-storage/)
 - [Amazon SageMaker Canvas supports custom Amazon S3 output location for ML artifacts](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-custom-s3-ml-artifacts/)
 - [CloudWatch Application Insights adds monitoring for multi-app instance deployments](https://aws.amazon.com/about-aws/whats-new/2023/07/cloudwatch-application-insights-monitoring-multi-app-instance-deployments/)
 - [Amazon SageMaker Canvas supports training ML models with different objective metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-training-ml-models-objective-metrics/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Canvas announces Document Queries powered by Amazon Textract](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-document-queries-textract/)
 - [Amazon EMR on EC2 announces support for native LDAP authentication](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-ec2-native-ldap-authentication/)
 - [Amazon Redshift announces automatic mounting of AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/)
-- [Amazon CloudWatch Internet Monitor now supports Network Load Balancers as a resource type](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-cloudwatch-internet-monitor-load-balancers/)
-- [Amazon QuickSight now supports Snapshot Export APIs](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-quicksight-snapshot-export-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

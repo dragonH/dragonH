@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe supports Toxicity Detection for spoken conversations](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-transcribe-toxicity-detection-conversations/)
+- [Amazon ECS Service Discovery is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-service-discovery-five-regions/)
+- [AWS Elastic Disaster Recovery is now available in 5 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-elastic-disaster-recovery-additional-regions/)
 - [AWS announces new AWS Direct Connect location in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-direct-connect-location-lima-peru/)
 - [Amazon RDS now has a progress indicator for the storage optimization process](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-progress-indicator-storage-optimization-process/)
 - [Introducing the Connect Ready Program](https://aws.amazon.com/about-aws/whats-new/2023/07/connect-ready-program/)
@@ -65,9 +68,6 @@
 - [Amazon Aurora MySQL 2.12 &lpar;compatible with MySQL 5.7.40&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-mysql-2-12-available/)
 - [Introducing the Amazon ECS Delivery Specialization Partners](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-delivery-specialization-partners/)
 - [IAM Roles Anywhere credential helper adds support for OS certificate stores](https://aws.amazon.com/about-aws/whats-new/2023/07/iam-roles-anywhere-credential-helper-os-certificate-stores/)
-- [Amazon EC2 P5 instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-p5-instances-generative-ai-hpc-generally-available/)
-- [Announcing AWS HealthScribe &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-healthscribe-preview/)
-- [AWS Glue Studio now supports Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-codewhisperer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

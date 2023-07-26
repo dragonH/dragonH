@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P5 instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-p5-instances-generative-ai-hpc-generally-available/)
+- [Announcing AWS HealthScribe &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-healthscribe-preview/)
+- [AWS Glue Studio now supports Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-codewhisperer/)
 - [AWS Entity Resolution is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-entity-resolution-generally-available/)
 - [Vector engine for Amazon OpenSearch Serverless now in preview](https://aws.amazon.com/about-aws/whats-new/2023/07/vector-engine-amazon-opensearch-serverless-preview/)
 - [Enable generative AI applications to complete tasks in just a few clicks](https://aws.amazon.com/about-aws/whats-new/2023/07/enable-generative-ai-applications-complete-tasks/)
@@ -65,9 +68,6 @@
 - [Snowflake connectivity for AWS Glue for Apache Spark is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/snowflake-connectivity-aws-glue-apache-spark/)
 - [Amazon Redshift now supports querying Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-querying-apache-iceberg-tables/)
 - [AWS Glue jobs can now include AWS Glue DataBrew Recipes](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-jobs-databrew-recipes/)
-- [AWS Glue Studio now supports Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-redshift-serverless/)
-- [Amazon EMR Serverless now supports storing logs in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/)
-- [AWS DataSync now supports copying data to and from Azure Blob Storage](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-datasync-copying-data-azure-blob-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

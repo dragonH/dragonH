@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SDXL 1.0 foundation model from Stability AI now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/07/sdxl-1-0-foundation-model-stability-ai-amazon-sagemaker-jumpstart/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/red-hat-openshift-service-aws-rosa-asia-pacific-hyderabad-region/)
 - [Amazon AppStream 2.0 launches Graphics G5 instances](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-appstream-2-0-graphics-g5-instances/)
 - [Amazon RDS for Oracle now supports Oracle Application Express version 23.1](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-oracle-oracle-application-express-version-23-1/)
@@ -67,7 +68,6 @@
 - [AWS announces new AWS Direct Connect location in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-direct-connect-location-lima-peru/)
 - [Amazon RDS now has a progress indicator for the storage optimization process](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-progress-indicator-storage-optimization-process/)
 - [Introducing the Connect Ready Program](https://aws.amazon.com/about-aws/whats-new/2023/07/connect-ready-program/)
-- [Accelerate your CloudFormation authoring experience with looping function](https://aws.amazon.com/about-aws/whats-new/2023/07/accelerate-cloudformation-authoring-experience-looping-function/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

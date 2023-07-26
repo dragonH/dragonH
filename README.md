@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces new AWS Direct Connect location in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-direct-connect-location-lima-peru/)
+- [Amazon RDS now has a progress indicator for the storage optimization process](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-progress-indicator-storage-optimization-process/)
+- [Introducing the Connect Ready Program](https://aws.amazon.com/about-aws/whats-new/2023/07/connect-ready-program/)
+- [Accelerate your CloudFormation authoring experience with looping function](https://aws.amazon.com/about-aws/whats-new/2023/07/accelerate-cloudformation-authoring-experience-looping-function/)
+- [Amazon Aurora MySQL 2.12 &lpar;compatible with MySQL 5.7.40&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-mysql-2-12-available/)
+- [Introducing the Amazon ECS Delivery Specialization Partners](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-delivery-specialization-partners/)
+- [IAM Roles Anywhere credential helper adds support for OS certificate stores](https://aws.amazon.com/about-aws/whats-new/2023/07/iam-roles-anywhere-credential-helper-os-certificate-stores/)
 - [Amazon EC2 P5 instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-p5-instances-generative-ai-hpc-generally-available/)
 - [Announcing AWS HealthScribe &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-healthscribe-preview/)
 - [AWS Glue Studio now supports Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-codewhisperer/)
-- [AWS Entity Resolution is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-entity-resolution-generally-available/)
-- [Vector engine for Amazon OpenSearch Serverless now in preview](https://aws.amazon.com/about-aws/whats-new/2023/07/vector-engine-amazon-opensearch-serverless-preview/)
-- [Enable generative AI applications to complete tasks in just a few clicks](https://aws.amazon.com/about-aws/whats-new/2023/07/enable-generative-ai-applications-complete-tasks/)
-- [Announcing the general availability of AWS HealthImaging](https://aws.amazon.com/about-aws/whats-new/2023/07/general-availability-aws-healthimaging/)
-- [Snowflake connectivity for AWS Glue for Apache Spark is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/snowflake-connectivity-aws-glue-apache-spark/)
-- [Amazon Redshift now supports querying Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-querying-apache-iceberg-tables/)
-- [AWS Glue jobs can now include AWS Glue DataBrew Recipes](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-jobs-databrew-recipes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

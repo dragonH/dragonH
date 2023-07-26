@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of AWS HealthImaging](https://aws.amazon.com/about-aws/whats-new/2023/07/general-availability-aws-healthimaging/)
+- [Snowflake connectivity for AWS Glue for Apache Spark is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/snowflake-connectivity-aws-glue-apache-spark/)
+- [Amazon Redshift now supports querying Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-querying-apache-iceberg-tables/)
+- [AWS Glue jobs can now include AWS Glue DataBrew Recipes](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-jobs-databrew-recipes/)
+- [AWS Glue Studio now supports Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-studio-amazon-redshift-serverless/)
 - [Amazon EMR Serverless now supports storing logs in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-storing-logs-amazon-cloudwatch/)
 - [AWS DataSync now supports copying data to and from Azure Blob Storage](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-datasync-copying-data-azure-blob-storage/)
 - [Amazon SageMaker Canvas supports custom Amazon S3 output location for ML artifacts](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-custom-s3-ml-artifacts/)
 - [CloudWatch Application Insights adds monitoring for multi-app instance deployments](https://aws.amazon.com/about-aws/whats-new/2023/07/cloudwatch-application-insights-monitoring-multi-app-instance-deployments/)
 - [Amazon SageMaker Canvas supports training ML models with different objective metrics](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-training-ml-models-objective-metrics/)
-- [Amazon SageMaker Canvas expands data preparation with five new capabilities](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-data-preparation-five-capabilities/)
-- [Amazon SageMaker Canvas supports sharing ML models with Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-canvas-sharing-ml-models-amazon-quicksight/)
-- [Amazon SageMaker Canvas announces Document Queries powered by Amazon Textract](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-document-queries-textract/)
-- [Amazon EMR on EC2 announces support for native LDAP authentication](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-ec2-native-ldap-authentication/)
-- [Amazon Redshift announces automatic mounting of AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-redshift-automatic-mounting-aws-glue-data-catalog/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

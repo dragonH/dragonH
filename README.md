@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS launches a new Local Zone in Phoenix, Arizona](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-local-zone-phoenix-arizona/)
+- [Amazon RDS for SQL Server supports minor version 2019 CU21](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-minor-version-2019-cu21/)
+- [Amazon EC2 G5g instances now available in Spain region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-g5g-instances-spain-region/)
+- [Amazon EC2 M6a instances now available in Hyderabad region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-m6a-instances-hyderabad-region/)
 - [Amazon RDS Custom for Oracle now supports AWS CloudFormation Templates](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-custom-oracle-aws-cloudformation-templates/)
 - [AWS Glue now available in 2 new regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-glue-new-regions/)
 - [Amazon MQ now supports customer managed configuration for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-mq-managed-configuration-rabbitmq-brokers/)
 - [Amazon MQ now supports RabbitMQ version 3.11 and new operator policies](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-mq-rabbitmq-version-3-11-operator-policies/)
 - [AWS Lambda adds support for Python 3.11](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-python-3-11/)
 - [Amazon EMR Serverless now supports retrieving secrets from AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-retrieving-secrets-aws-secrets-manager/)
-- [Amazon GameLift expands SDK support for Unity based game developers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-gamelift-sdk-unity-based-game-developers/)
-- [Amazon Connect Customer Profiles now supports rule-based identity resolution](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-customer-profiles-rule-identity-resolution/)
-- [AWS SimSpace Weaver now supports multiple spatial domains per simulation](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simspace-weaver-multiple-spatial-domains-per-simulation/)
-- [Amazon ECS console now has enhanced support for task definition workflows](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-console-task-definition-workflows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

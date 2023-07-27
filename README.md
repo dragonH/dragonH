@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless now supports retrieving secrets from AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-retrieving-secrets-aws-secrets-manager/)
+- [Amazon GameLift expands SDK support for Unity based game developers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-gamelift-sdk-unity-based-game-developers/)
 - [Amazon Connect Customer Profiles now supports rule-based identity resolution](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-customer-profiles-rule-identity-resolution/)
 - [AWS SimSpace Weaver now supports multiple spatial domains per simulation](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-simspace-weaver-multiple-spatial-domains-per-simulation/)
 - [Amazon ECS console now has enhanced support for task definition workflows](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-console-task-definition-workflows/)
@@ -66,8 +68,6 @@
 - [ACE Pipeline Manager now includes an opportunity bulk import in-line editing experience](https://aws.amazon.com/about-aws/whats-new/2023/07/ace-pipeline-manager-opportunity-bulk-import-in-line-editing/)
 - [AWS Enterprise On-Ramp now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-enterprise-on-ramp-govcloud-regions/)
 - [Access and Query are now generally available for Amazon Managed Blockchain](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-managed-blockchain-access-query/)
-- [SDXL 1.0 foundation model from Stability AI now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2023/07/sdxl-1-0-foundation-model-stability-ai-amazon-sagemaker-jumpstart/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/red-hat-openshift-service-aws-rosa-asia-pacific-hyderabad-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

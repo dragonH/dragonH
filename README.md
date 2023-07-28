@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 adds support for 14 additional Top-Level Domains](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-support-14-top-level-domains/)
+- [VMware Cloud on AWS is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/vmware-cloud-2-additional-regions/)
 - [Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
 - [AWS announces Public IP Insights, a new feature of VPC IP Address Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-public-ip-insights-vpc-ip-address-manager/)
 - [AWS Database Encryption SDK for Amazon DynamoDB now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-database-encryption-sdk-dynamodb-available/)
@@ -66,8 +68,6 @@
 - [Introducing Amazon EC2 C7gd, M7gd, and R7gd Instances](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c7gd-m7gd-r7gd-instances/)
 - [Amazon SageMaker Studio Notebooks now support the G5 instance family in the South America &lpar;São Paulo region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-studio-notebooks-g5-instance-south-america-sao-paulo-region/)
 - [AWS Lake Formation launches Read-Only Administrator role](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-read-only-administrator-role/)
-- [AWS launches a new Local Zone in Phoenix, Arizona](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-local-zone-phoenix-arizona/)
-- [Amazon RDS for SQL Server supports minor version 2019 CU21](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-minor-version-2019-cu21/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

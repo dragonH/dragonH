@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation launches Read-Only Administrator role](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-read-only-administrator-role/)
 - [AWS launches a new Local Zone in Phoenix, Arizona](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-local-zone-phoenix-arizona/)
 - [Amazon RDS for SQL Server supports minor version 2019 CU21](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-minor-version-2019-cu21/)
 - [Amazon EC2 G5g instances now available in Spain region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-g5g-instances-spain-region/)
@@ -67,7 +68,6 @@
 - [Amazon MQ now supports customer managed configuration for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-mq-managed-configuration-rabbitmq-brokers/)
 - [Amazon MQ now supports RabbitMQ version 3.11 and new operator policies](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-mq-rabbitmq-version-3-11-operator-policies/)
 - [AWS Lambda adds support for Python 3.11](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lambda-python-3-11/)
-- [Amazon EMR Serverless now supports retrieving secrets from AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-retrieving-secrets-aws-secrets-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
 - [AWS announces Public IP Insights, a new feature of VPC IP Address Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-public-ip-insights-vpc-ip-address-manager/)
 - [AWS Database Encryption SDK for Amazon DynamoDB now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-database-encryption-sdk-dynamodb-available/)
 - [Amazon CodeCatalyst supports deployments to Elastic Kubernetes Service](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-deployments-elastic-kubernetes-service/)
@@ -67,7 +68,6 @@
 - [AWS Lake Formation launches Read-Only Administrator role](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-read-only-administrator-role/)
 - [AWS launches a new Local Zone in Phoenix, Arizona](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-local-zone-phoenix-arizona/)
 - [Amazon RDS for SQL Server supports minor version 2019 CU21](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-rds-sql-server-minor-version-2019-cu21/)
-- [Amazon EC2 G5g instances now available in Spain region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-g5g-instances-spain-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

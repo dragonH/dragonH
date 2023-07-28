@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Launch Wizard now available in Hyderabad and Dubai Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-launch-wizard-hyderabad-dubai-regions/)
 - [Amazon Route 53 adds support for 14 additional Top-Level Domains](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-support-14-top-level-domains/)
 - [VMware Cloud on AWS is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/vmware-cloud-2-additional-regions/)
 - [Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
@@ -67,7 +68,6 @@
 - [AWS Wickr offers federated data retention for internal and external conversations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-wickr-federated-data-retention-internal-external-conversations/)
 - [Introducing Amazon EC2 C7gd, M7gd, and R7gd Instances](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c7gd-m7gd-r7gd-instances/)
 - [Amazon SageMaker Studio Notebooks now support the G5 instance family in the South America &lpar;São Paulo region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-sagemaker-studio-notebooks-g5-instance-south-america-sao-paulo-region/)
-- [AWS Lake Formation launches Read-Only Administrator role](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-lake-formation-read-only-administrator-role/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

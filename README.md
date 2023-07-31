@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports custom flow block titles](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-custom-flow-block-titles/)
+- [AWS IoT Core announces new certificate signing &amp; key generation algorithms](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-core-new-certificate-signing-key-generation-algorithms/)
 - [AWS CloudFormation enhances deletion policies to accelerate dev-test cycle](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cloudformation-deletion-policies-dev-test-cycle/)
 - [Amazon Inspector adds enhanced vulnerability intelligence to its findings](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/)
 - [Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-data-lifecycle-manager-aws-asia-pacific-hyderabad/)
@@ -66,8 +68,6 @@
 - [Amazon Connect launches flows UI toolbar and ability to add notes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-flows-ui-toolbar-add-notes/)
 - [Introducing custom query and template capabilities for AWS Clean Rooms](https://aws.amazon.com/about-aws/whats-new/2023/07/custom-query-template-capabilities-aws-clean-rooms/)
 - [Amazon Connect scheduling now offers automated flexible days scheduling](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-automated-flexible-days-scheduling/)
-- [Amazon Connect now offers automatic activity scheduling based on shift duration](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-automatic-activity-scheduling-shift-duration/)
-- [Amazon Connect scheduling agent time-off balance and group allowance support](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-agent-time-off-balance-group-allowance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

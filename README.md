@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing custom query and template capabilities for AWS Clean Rooms](https://aws.amazon.com/about-aws/whats-new/2023/07/custom-query-template-capabilities-aws-clean-rooms/)
+- [Amazon Connect scheduling now offers automated flexible days scheduling](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-automated-flexible-days-scheduling/)
+- [Amazon Connect now offers automatic activity scheduling based on shift duration](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-automatic-activity-scheduling-shift-duration/)
+- [Amazon Connect scheduling agent time-off balance and group allowance support](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-agent-time-off-balance-group-allowance/)
+- [AWS NAT Gateway is now available in the AWS US West Phoenix Local Zone](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-nat-gateway-us-west-phoenix-local-zone/)
+- [Amazon EMR Serverless adds API support for Application UIs](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-api-support-application-uis/)
+- [AWS enables the invoice balance due information and invoice amount on Billing Console](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-invoice-balance-due-information-invoice-amount-billing-console/)
 - [Announcing Amazon ECS templates for Amazon EC2 Spot Instances Blueprints](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-templates-ec2-spot-instances-blueprints/)
 - [AWS Launch Wizard now available in Hyderabad and Dubai Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-launch-wizard-hyderabad-dubai-regions/)
 - [Amazon Route 53 adds support for 14 additional Top-Level Domains](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-support-14-top-level-domains/)
-- [VMware Cloud on AWS is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/07/vmware-cloud-2-additional-regions/)
-- [Announcing preview of JSON protocol support for Amazon SQS](https://aws.amazon.com/about-aws/whats-new/2023/07/json-protocol-support-amazon-sqs/)
-- [AWS announces Public IP Insights, a new feature of VPC IP Address Manager](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-public-ip-insights-vpc-ip-address-manager/)
-- [AWS Database Encryption SDK for Amazon DynamoDB now generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-database-encryption-sdk-dynamodb-available/)
-- [Amazon CodeCatalyst supports deployments to Elastic Kubernetes Service](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-codecatalyst-deployments-elastic-kubernetes-service/)
-- [AWS Wickr offers federated data retention for internal and external conversations](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-wickr-federated-data-retention-internal-external-conversations/)
-- [Introducing Amazon EC2 C7gd, M7gd, and R7gd Instances](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ec2-c7gd-m7gd-r7gd-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

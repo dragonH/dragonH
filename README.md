@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches flows UI toolbar and ability to add notes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-flows-ui-toolbar-add-notes/)
 - [Introducing custom query and template capabilities for AWS Clean Rooms](https://aws.amazon.com/about-aws/whats-new/2023/07/custom-query-template-capabilities-aws-clean-rooms/)
 - [Amazon Connect scheduling now offers automated flexible days scheduling](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-automated-flexible-days-scheduling/)
 - [Amazon Connect now offers automatic activity scheduling based on shift duration](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-automatic-activity-scheduling-shift-duration/)
@@ -67,7 +68,6 @@
 - [AWS enables the invoice balance due information and invoice amount on Billing Console](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-invoice-balance-due-information-invoice-amount-billing-console/)
 - [Announcing Amazon ECS templates for Amazon EC2 Spot Instances Blueprints](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-templates-ec2-spot-instances-blueprints/)
 - [AWS Launch Wizard now available in Hyderabad and Dubai Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-launch-wizard-hyderabad-dubai-regions/)
-- [Amazon Route 53 adds support for 14 additional Top-Level Domains](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-route-53-support-14-top-level-domains/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

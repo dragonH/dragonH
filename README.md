@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation enhances deletion policies to accelerate dev-test cycle](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cloudformation-deletion-policies-dev-test-cycle/)
+- [Amazon Inspector adds enhanced vulnerability intelligence to its findings](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/)
+- [Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-data-lifecycle-manager-aws-asia-pacific-hyderabad/)
+- [Amazon Connect now supports archiving and deleting flows from the UI](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-archiving-deleting-flows-ui/)
+- [Amazon Connect now supports flow-only attributes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-flow-only-attributes/)
 - [Amazon Connect launches flows UI toolbar and ability to add notes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-flows-ui-toolbar-add-notes/)
 - [Introducing custom query and template capabilities for AWS Clean Rooms](https://aws.amazon.com/about-aws/whats-new/2023/07/custom-query-template-capabilities-aws-clean-rooms/)
 - [Amazon Connect scheduling now offers automated flexible days scheduling](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-automated-flexible-days-scheduling/)
 - [Amazon Connect now offers automatic activity scheduling based on shift duration](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-automatic-activity-scheduling-shift-duration/)
 - [Amazon Connect scheduling agent time-off balance and group allowance support](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-scheduling-agent-time-off-balance-group-allowance/)
-- [AWS NAT Gateway is now available in the AWS US West Phoenix Local Zone](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-nat-gateway-us-west-phoenix-local-zone/)
-- [Amazon EMR Serverless adds API support for Application UIs](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-serverless-api-support-application-uis/)
-- [AWS enables the invoice balance due information and invoice amount on Billing Console](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-invoice-balance-due-information-invoice-amount-billing-console/)
-- [Announcing Amazon ECS templates for Amazon EC2 Spot Instances Blueprints](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-ecs-templates-ec2-spot-instances-blueprints/)
-- [AWS Launch Wizard now available in Hyderabad and Dubai Regions](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-launch-wizard-hyderabad-dubai-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

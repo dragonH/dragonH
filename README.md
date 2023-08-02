@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify Introduces CloudWatch Logger feature for Swift and Android](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-amplify-cloudwatch-logger-swift-android/)
+- [Amazon VPC IP Address Manager now publishes IP Address utilization metrics for AWS resources](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-ip-address-utilization-metrics-aws-resources/)
+- [Amazon EBS announces up to 128 volume attachments per EC2 instance](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ebs-128-volume-attachments-ec2-instance/)
+- [Introducing Amazon EC2 M7i-flex and M7i instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/)
 - [Amazon EventBridge Scheduler adds schedule deletion after completion](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-scheduler-deletion-completion/)
 - [Announcing additional Ephemeral Storage for EKS Fargate](https://aws.amazon.com/about-aws/whats-new/2023/08/additional-ephemeral-storage-eks-fargate/)
 - [AWS announces new AWS Direct Connect location in Herzliya, Israel](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-direct-connect-location-herzliya-israel/)
 - [AWS Config now supports 19 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-config-supports-19-new-resource-types/)
 - [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in Console](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-fargate-linux-arm64-windows-x86-containers-console/)
 - [Amazon EKS makes it easier to configure and use Amazon EFS for persistent shared file storage](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eks-configure-efs-shared-file-storage/)
-- [SageMaker Studio announces pre-built docker ‘SageMaker Distribution’ for machine learning](https://aws.amazon.com/about-aws/whats-new/2023/08/sagemaker-studio-pre-built-docker-sagemaker-distribution-machine-learning/)
-- [Amazon RDS for Oracle now supports replicas for Single-tenant instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-replicas-single-tenant-instances/)
-- [AWS Batch now supports price capacity optimized allocation strategy for Spot Instances](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-price-capacity-optimized-allocation-strategy-spot-instances/)
-- [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-directory-service-microsoft-ad-connector-tel-aviv/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

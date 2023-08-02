@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in Console](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-fargate-linux-arm64-windows-x86-containers-console/)
 - [Amazon EKS makes it easier to configure and use Amazon EFS for persistent shared file storage](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eks-configure-efs-shared-file-storage/)
 - [SageMaker Studio announces pre-built docker ‘SageMaker Distribution’ for machine learning](https://aws.amazon.com/about-aws/whats-new/2023/08/sagemaker-studio-pre-built-docker-sagemaker-distribution-machine-learning/)
 - [Amazon RDS for Oracle now supports replicas for Single-tenant instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-replicas-single-tenant-instances/)
@@ -67,7 +68,6 @@
 - [AWS Lake Formation is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lake-formation-additional-regions/)
 - [Improved AWS Backup performance for Amazon S3 buckets](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-aws-backup-performance-amazon-s3-buckets/)
 - [AWS Transit Gateway is now available in Israel &lpar;Tel Aviv&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transit-gateway-israel-tel-aviv-aws-region/)
-- [AWS Resource Access Manager is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-resource-access-manager-aws-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Aurora supports Local Write Forwarding for Amazon Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-local-write-forwarding-aurora-mysql/)
-- [Amazon Aurora MySQL 3.04 &lpar;compatible with MySQL 8.0.28&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-aurora-mysql-3-04-compatible-8-0-28-generally-available/)
-- [Amazon EMR on EKS is now available in Africa &lpar;Cape Town&rpar; and Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-emr-eks-africa-cape-town-europe-milan/)
-- [Amazon Connect now supports custom flow block titles](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-custom-flow-block-titles/)
-- [AWS IoT Core announces new certificate signing &amp; key generation algorithms](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-iot-core-new-certificate-signing-key-generation-algorithms/)
-- [AWS CloudFormation enhances deletion policies to accelerate dev-test cycle](https://aws.amazon.com/about-aws/whats-new/2023/07/aws-cloudformation-deletion-policies-dev-test-cycle/)
-- [Amazon Inspector adds enhanced vulnerability intelligence to its findings](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-inspector-vulnerability-intelligence-findings/)
-- [Amazon Data Lifecycle Manager is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-data-lifecycle-manager-aws-asia-pacific-hyderabad/)
-- [Amazon Connect now supports archiving and deleting flows from the UI](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-archiving-deleting-flows-ui/)
-- [Amazon Connect now supports flow-only attributes](https://aws.amazon.com/about-aws/whats-new/2023/07/amazon-connect-flow-only-attributes/)
+- [AWS Directory Service for Microsoft AD and AD Connector available in &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-directory-service-microsoft-ad-connector-tel-aviv/)
+- [AWS Shield Advanced and AWS WAF are now available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-shield-advanced-waf-israel-tel-aviv-region/)
+- [AWS Lake Formation is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lake-formation-additional-regions/)
+- [Improved AWS Backup performance for Amazon S3 buckets](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-aws-backup-performance-amazon-s3-buckets/)
+- [AWS Transit Gateway is now available in Israel &lpar;Tel Aviv&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transit-gateway-israel-tel-aviv-aws-region/)
+- [AWS Resource Access Manager is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-resource-access-manager-aws-israel-tel-aviv-region/)
+- [AWS Application Composer updates: Undo and Redo, Export Canvas, and Local Sync Mode](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-composer-updates-undo-redo-export-local-sync/)
+- [Amazon SQS announces increased throughput quota for FIFO High Throughput mode](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sqs-increased-throughput-quota-fifo-high-throughput-mode/)
+- [AWS Database Migration Service enhanced homogeneous migrations now supports MariaDB](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-database-migration-service-homogeneous-migrations-mariadb/)
+- [Instance refresh now supports rollbacks triggered by CloudWatch alarms](https://aws.amazon.com/about-aws/whats-new/2023/08/instance-refresh-rollbacks-cloudwatch-alarms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Resolver Endpoints now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-endpoints-israel-tel-aviv-region/)
 - [Amazon EFS now supports up to 55,000 IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-55000-iops-per-file-system/)
 - [RDS Custom for SQL Server now supports Local Time Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/rds-custom-sql-server-local-time-zones/)
 - [Amazon EC2 VT1 now supports improved control of stream quality, latency and bandwidth](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-vt1-improved-control-stream-quality-latency-bandwidth/)
@@ -67,7 +68,6 @@
 - [Introducing Amazon EC2 M7i-flex and M7i instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/)
 - [Amazon EventBridge Scheduler adds schedule deletion after completion](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-scheduler-deletion-completion/)
 - [Announcing additional Ephemeral Storage for EKS Fargate](https://aws.amazon.com/about-aws/whats-new/2023/08/additional-ephemeral-storage-eks-fargate/)
-- [AWS announces new AWS Direct Connect location in Herzliya, Israel](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-direct-connect-location-herzliya-israel/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

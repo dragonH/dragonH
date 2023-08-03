@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS now supports up to 55,000 IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-55000-iops-per-file-system/)
+- [RDS Custom for SQL Server now supports Local Time Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/rds-custom-sql-server-local-time-zones/)
+- [Amazon EC2 VT1 now supports improved control of stream quality, latency and bandwidth](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-vt1-improved-control-stream-quality-latency-bandwidth/)
 - [AWS Amplify Introduces CloudWatch Logger feature for Swift and Android](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-amplify-cloudwatch-logger-swift-android/)
 - [Amazon VPC IP Address Manager now publishes IP Address utilization metrics for AWS resources](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-ip-address-utilization-metrics-aws-resources/)
 - [Amazon EBS announces up to 128 volume attachments per EC2 instance](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ebs-128-volume-attachments-ec2-instance/)
@@ -65,9 +68,6 @@
 - [Amazon EventBridge Scheduler adds schedule deletion after completion](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-scheduler-deletion-completion/)
 - [Announcing additional Ephemeral Storage for EKS Fargate](https://aws.amazon.com/about-aws/whats-new/2023/08/additional-ephemeral-storage-eks-fargate/)
 - [AWS announces new AWS Direct Connect location in Herzliya, Israel](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-direct-connect-location-herzliya-israel/)
-- [AWS Config now supports 19 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-config-supports-19-new-resource-types/)
-- [AWS Batch on AWS Fargate now supports Linux ARM64 and Windows x86 containers in Console](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-fargate-linux-arm64-windows-x86-containers-console/)
-- [Amazon EKS makes it easier to configure and use Amazon EFS for persistent shared file storage](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eks-configure-efs-shared-file-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

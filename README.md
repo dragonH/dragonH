@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC now supports primary IPv6 address on an elastic network interface](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-primary-ipv6-address-elastic-interface/)
+- [Announcing support for ml.p5 instances for Amazon SageMaker Model Training](https://aws.amazon.com/about-aws/whats-new/2023/08/support-ml-p5-instances-amazon-sagemaker-model-training/)
 - [Amazon Aurora now supports automatic backup of deleted clusters](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-automatic-backup-deleted-clusters/)
 - [Amazon RDS simplifies connectivity between an RDS or Aurora database and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-connectivity-rds-aurora-database-lambda/)
 - [AWS Transit Gateway Flow Logs is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transit-gateway-flow-logs-additional-regions/)
@@ -66,8 +68,6 @@
 - [AWS Resilience Hub announces application resilience drift detection](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-resilience-hub-application-resilience-drift-detection/)
 - [Amazon SageMaker announces a new direct integration with Salesforce Data Cloud](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-direct-integration-salesforce-data-cloud/)
 - [Amazon RDS for SQL Server now supports secondary host metrics in Enhanced Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-sql-server-secondary-host-metrics-enhanced-monitoring/)
-- [Amazon Route 53 Resolver Endpoints now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-endpoints-israel-tel-aviv-region/)
-- [Amazon EFS now supports up to 55,000 IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-55000-iops-per-file-system/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

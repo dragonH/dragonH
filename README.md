@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker announces a new direct integration with Salesforce Data Cloud](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-direct-integration-salesforce-data-cloud/)
 - [Amazon RDS for SQL Server now supports secondary host metrics in Enhanced Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-sql-server-secondary-host-metrics-enhanced-monitoring/)
 - [Amazon Route 53 Resolver Endpoints now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-endpoints-israel-tel-aviv-region/)
 - [Amazon EFS now supports up to 55,000 IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-55000-iops-per-file-system/)
@@ -67,7 +68,6 @@
 - [Amazon VPC IP Address Manager now publishes IP Address utilization metrics for AWS resources](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-ip-address-utilization-metrics-aws-resources/)
 - [Amazon EBS announces up to 128 volume attachments per EC2 instance](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ebs-128-volume-attachments-ec2-instance/)
 - [Introducing Amazon EC2 M7i-flex and M7i instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances/)
-- [Amazon EventBridge Scheduler adds schedule deletion after completion](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-scheduler-deletion-completion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

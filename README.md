@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-israel-tel-aviv-region/)
 - [Amazon Connect now supports excluding outbound calls in deciding agent routing order](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-excluding-outbound-calls-agent-order/)
 - [Amazon MSK Serverless expands availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-msk-serverless-additional-aws-regions/)
 - [AWS Security Hub launches 12 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-security-hub-new-security-controls/)
@@ -67,7 +68,6 @@
 - [Amazon RDS simplifies connectivity between an RDS or Aurora database and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-connectivity-rds-aurora-database-lambda/)
 - [AWS Transit Gateway Flow Logs is now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-transit-gateway-flow-logs-additional-regions/)
 - [Announcing the release of AWS Thinkbox Deadline 10.3](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-thinkbox-deadline-10-3/)
-- [Amazon Translate enables language detection for real time document translation](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-translate-language-detection-document-translation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

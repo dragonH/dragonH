@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-aws-israel-tel-aviv-region/)
+- [Amazon EMR Studio adds support for AWS Lake Formation fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-studio-lake-formation-grained-access-control/)
+- [AWS Artifact launches email notifications](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-artifact-email-notifications/)
 - [AWS Service Catalog is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-service-catalog-israel-tel-aviv-region/)
 - [Amazon Interactive Video Service announces Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-interactive-video-service-real-time-streaming/)
 - [Amazon SageMaker is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-israel-tel-aviv-region/)
@@ -65,9 +68,6 @@
 - [Amazon MSK Serverless expands availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-msk-serverless-additional-aws-regions/)
 - [AWS Security Hub launches 12 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-security-hub-new-security-controls/)
 - [Amazon VPC now supports primary IPv6 address on an elastic network interface](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-primary-ipv6-address-elastic-interface/)
-- [Announcing support for ml.p5 instances for Amazon SageMaker Model Training](https://aws.amazon.com/about-aws/whats-new/2023/08/support-ml-p5-instances-amazon-sagemaker-model-training/)
-- [Amazon Aurora now supports automatic backup of deleted clusters](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-automatic-backup-deleted-clusters/)
-- [Amazon RDS simplifies connectivity between an RDS or Aurora database and AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-connectivity-rds-aurora-database-lambda/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

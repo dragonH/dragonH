@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache for Redis adds support for online migration of clusters running in cluster mode](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-elasticache-redis-online-migration-clusters-cluster-mode/)
+- [AWS Global Accelerator extends IPv6 support to EC2 endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-global-accelerator-extends-ipv6-support-ec2-endpoints/)
 - [AWS Glue Studio now supports Amazon CodeWhisperer in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-amazon-codewhisperer-additional-regions/)
 - [Amazon EFS is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-aws-israel-tel-aviv-region/)
 - [Amazon EMR Studio adds support for AWS Lake Formation fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-studio-lake-formation-grained-access-control/)
@@ -66,8 +68,6 @@
 - [Amazon Interactive Video Service announces Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-interactive-video-service-real-time-streaming/)
 - [Amazon SageMaker is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-israel-tel-aviv-region/)
 - [Amazon Connect now supports excluding outbound calls in deciding agent routing order](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-excluding-outbound-calls-agent-order/)
-- [Amazon MSK Serverless expands availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-msk-serverless-additional-aws-regions/)
-- [AWS Security Hub launches 12 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-security-hub-new-security-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

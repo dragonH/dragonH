@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for OpenZFS now provides a Multi-AZ deployment option for file systems](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-openzfs-multi-az-deployment-file-systems/)
+- [Amazon FSx for Windows File Server increases maximum throughput to 12 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-windows-file-server-increases-throughput-12-gbs/)
+- [Mountpoint for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/08/mountpoint-amazon-s3-generally-available/)
+- [You can now scale IOPS separately from storage on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2023/08/scale-iops-separately-storage-amazon-fsx-windows-file-server/)
+- [Amazon S3 Glacier Flexible Retrieval improves data restore time by up to 85%](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-glacier-flexible-retrieval-improves-restore-time/)
 - [Announcing AWS Backup logically air-gapped vault &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-logically-air-gapped-vault-preview/)
 - [AWS DataSync expands support for copying data to and from other clouds](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-datasync-copying-data-other-clouds/)
 - [Amazon Timestream releases open-source ODBC driver](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-timestream-open-source-odbc-driver/)
 - [Amazon ElastiCache for Redis adds support for online migration of clusters running in cluster mode](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-elasticache-redis-online-migration-clusters-cluster-mode/)
 - [AWS Global Accelerator extends IPv6 support to EC2 endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-global-accelerator-extends-ipv6-support-ec2-endpoints/)
-- [AWS Glue Studio now supports Amazon CodeWhisperer in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-amazon-codewhisperer-additional-regions/)
-- [Amazon EFS is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-efs-aws-israel-tel-aviv-region/)
-- [Amazon EMR Studio adds support for AWS Lake Formation fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-studio-lake-formation-grained-access-control/)
-- [AWS Artifact launches email notifications](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-artifact-email-notifications/)
-- [AWS Service Catalog is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-service-catalog-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Inf2 instances, optimized for generative AI, now available in US West &lpar;Oregon&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-inf2-instances-us-west-oregon-region/)
+- [Announcing Terraform support for Amazon OpenSearch Serverless deployments](https://aws.amazon.com/about-aws/whats-new/2023/08/terraform-amazon-opensearch-serverless-deployments/)
+- [Amazon QuickSight now supports embedded callback actions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-embedded-workflows-callback-actions/)
+- [AWS Fargate now supports process ID namespace sharing and kernel parameter configuration](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-fargate-pid-namespace-sharing-kernel-configuration/)
 - [Amazon Detective enhances visualizations to improve security investigations](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-detective-visualizations-security-investigations/)
 - [Amazon Interactive Video Service announces live video output price changes](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-interactive-video-service-live-video-output-price-changes/)
 - [Amazon Kinesis Data Analytics is now available in Israel &lpar;Tel Aviv&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-data-analytics-israel-tel-aviv-aws-region/)
 - [Announcing the ability to release inactive data from Amazon FSx for Lustre file systems](https://aws.amazon.com/about-aws/whats-new/2023/08/release-inactive-data-amazon-fsx-lustre-file-systems/)
 - [Amazon FSx for OpenZFS now provides a Multi-AZ deployment option for file systems](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-openzfs-multi-az-deployment-file-systems/)
 - [Amazon FSx for Windows File Server increases maximum throughput to 12 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-windows-file-server-increases-throughput-12-gbs/)
-- [Mountpoint for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/08/mountpoint-amazon-s3-generally-available/)
-- [You can now scale IOPS separately from storage on Amazon FSx for Windows File Server](https://aws.amazon.com/about-aws/whats-new/2023/08/scale-iops-separately-storage-amazon-fsx-windows-file-server/)
-- [Amazon S3 Glacier Flexible Retrieval improves data restore time by up to 85%](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-glacier-flexible-retrieval-improves-restore-time/)
-- [Announcing AWS Backup logically air-gapped vault &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-logically-air-gapped-vault-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

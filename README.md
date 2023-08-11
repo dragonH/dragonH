@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches hierarchy layout for pivot tables](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-hierarchy-pivot-tables/)
+- [Amazon RDS for Oracle now supports July 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-july-2023-release-update/)
+- [PostgreSQL 16 Beta 3 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/08/postgresql-16-beta-3-amazon-rds-database-preview/)
 - [Network Load Balancer now supports security groups](https://aws.amazon.com/about-aws/whats-new/2023/08/network-load-balancer-supports-security-groups/)
 - [AWS Firewall Manager announces enhancements to optimize AWS WAF web ACL creation in AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-optimize-waf-web-acl-creation-accounts/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-rosa-asia-pacific-melbourne-region/)
@@ -65,9 +68,6 @@
 - [Amazon EventBridge Schema Registry and Schema Discovery now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-schema-registry-discovery-regions/)
 - [AWS Service Catalog announces support for HashiCorp Terraform Cloud](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-service-catalog-hashicorp-terraform-cloud/)
 - [Amazon S3 Glacier Flexible Retrieval improves data restore time by up to 85%](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-glacier-flexible-retrieval-improves-restore-time/)
-- [Amazon RDS for MySQL supports new minor versions 5.7.43 and 8.0.34](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-mysql-new-minor-versions/)
-- [Amazon EC2 Inf2 instances, optimized for generative AI, now available in US West &lpar;Oregon&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-inf2-instances-us-west-oregon-region/)
-- [Announcing Terraform support for Amazon OpenSearch Serverless deployments](https://aws.amazon.com/about-aws/whats-new/2023/08/terraform-amazon-opensearch-serverless-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

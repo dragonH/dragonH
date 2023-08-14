@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline now supports GitLab](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-codepipeline-supports-gitlab/)
 - [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7g-m7g-r7g-instances-aws-region-asia-pacific-mumbai/)
 - [Kubernetes Metadata Enrichment now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/08/kubernetes-metadata-enrichment-distro-opentelemetry/)
 - [AWS launches enhanced AWS Startups experience featuring AWS Build](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-enhanced-startups-featuring-aws-build/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight launches hierarchy layout for pivot tables](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-hierarchy-pivot-tables/)
 - [Amazon RDS for Oracle now supports July 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-july-2023-release-update/)
 - [PostgreSQL 16 Beta 3 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/08/postgresql-16-beta-3-amazon-rds-database-preview/)
-- [Network Load Balancer now supports security groups](https://aws.amazon.com/about-aws/whats-new/2023/08/network-load-balancer-supports-security-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

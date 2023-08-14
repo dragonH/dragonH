@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS launches enhanced AWS Startups experience featuring AWS Build](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-enhanced-startups-featuring-aws-build/)
+- [Amazon Connect Contact Lens launches real-time conversational analytics in Asia Pacific &lpar;Singapore&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-contact-lens-real-time-conversational-analytics-singapore/)
 - [Amazon CloudWatch Agent adds support for OpenTelemetry traces and AWS X-Ray](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-cloudwatch-agent-opentelemetry-traces-x-ray/)
 - [Amazon EventBridge API Destinations is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-api-destinations-additional-regions/)
 - [Amazon QuickSight launches hierarchy layout for pivot tables](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-hierarchy-pivot-tables/)
@@ -66,8 +68,6 @@
 - [Network Load Balancer now supports security groups](https://aws.amazon.com/about-aws/whats-new/2023/08/network-load-balancer-supports-security-groups/)
 - [AWS Firewall Manager announces enhancements to optimize AWS WAF web ACL creation in AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-optimize-waf-web-acl-creation-accounts/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-rosa-asia-pacific-melbourne-region/)
-- [Amazon MWAA now supports Apache Airflow version 2.6](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-mwaa-apache-airflow-version-2-6/)
-- [Amazon EventBridge Schema Registry and Schema Discovery now in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-schema-registry-discovery-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

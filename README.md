@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7g-m7g-r7g-instances-aws-region-asia-pacific-mumbai/)
+- [Kubernetes Metadata Enrichment now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/08/kubernetes-metadata-enrichment-distro-opentelemetry/)
 - [AWS launches enhanced AWS Startups experience featuring AWS Build](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-enhanced-startups-featuring-aws-build/)
 - [Amazon Connect Contact Lens launches real-time conversational analytics in Asia Pacific &lpar;Singapore&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-contact-lens-real-time-conversational-analytics-singapore/)
 - [Amazon CloudWatch Agent adds support for OpenTelemetry traces and AWS X-Ray](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-cloudwatch-agent-opentelemetry-traces-x-ray/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Oracle now supports July 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-july-2023-release-update/)
 - [PostgreSQL 16 Beta 3 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/08/postgresql-16-beta-3-amazon-rds-database-preview/)
 - [Network Load Balancer now supports security groups](https://aws.amazon.com/about-aws/whats-new/2023/08/network-load-balancer-supports-security-groups/)
-- [AWS Firewall Manager announces enhancements to optimize AWS WAF web ACL creation in AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-optimize-waf-web-acl-creation-accounts/)
-- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-rosa-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

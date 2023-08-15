@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Video Streams improves image sampling frequency to 5 frames per second](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-video-streams-image-sampling-frequency/)
 - [Amazon OpenSearch Serverless expands support for larger workloads and collections](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-workloads-collections/)
 - [Amazon VPC Lattice is now available in 4 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-lattice-additional-regions/)
 - [AWS Resilience Hub supports Exclude Recommendations](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-resilience-hub-exclude-recommendations/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7g-m7g-r7g-instances-aws-region-asia-pacific-mumbai/)
 - [Kubernetes Metadata Enrichment now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/08/kubernetes-metadata-enrichment-distro-opentelemetry/)
 - [AWS launches enhanced AWS Startups experience featuring AWS Build](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-enhanced-startups-featuring-aws-build/)
-- [Amazon Connect Contact Lens launches real-time conversational analytics in Asia Pacific &lpar;Singapore&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-contact-lens-real-time-conversational-analytics-singapore/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

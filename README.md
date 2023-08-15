@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for Oracle now supports R6i, M6i, and T3 instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-custom-oracle-r6i-m6i-t3-instances/)
+- [AWS HealthOmics now supports versioning of annotation stores](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-versioning-annotation-stores/)
+- [AWS HealthOmics supports cross-account sharing of omics analytics stores](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-cross-account-sharing-analytics-stores/)
 - [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/red-hat-openshift-service-aws-rosa-zurich-region/)
 - [AWS Mainframe Modernization Data Replication with Precisely is now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-mainframe-modernization-data-replication-precisely/)
 - [Amazon Kinesis Video Streams improves image sampling frequency to 5 frames per second](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-video-streams-image-sampling-frequency/)
@@ -65,9 +68,6 @@
 - [Amazon VPC Lattice is now available in 4 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-lattice-additional-regions/)
 - [AWS Resilience Hub supports Exclude Recommendations](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-resilience-hub-exclude-recommendations/)
 - [Amazon EMR Serverless now makes it easier to specify fine grained log configurations](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/)
-- [AWS IAM Identity Center integration is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-integration-amazon-quicksight/)
-- [AWS CodePipeline now supports GitLab](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-codepipeline-supports-gitlab/)
-- [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7g-m7g-r7g-instances-aws-region-asia-pacific-mumbai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

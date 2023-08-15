@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Red Hat OpenShift Service on AWS &lpar;ROSA&rpar; is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/red-hat-openshift-service-aws-rosa-zurich-region/)
+- [AWS Mainframe Modernization Data Replication with Precisely is now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-mainframe-modernization-data-replication-precisely/)
 - [Amazon Kinesis Video Streams improves image sampling frequency to 5 frames per second](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-kinesis-video-streams-image-sampling-frequency/)
 - [Amazon OpenSearch Serverless expands support for larger workloads and collections](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-workloads-collections/)
 - [Amazon VPC Lattice is now available in 4 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-lattice-additional-regions/)
@@ -66,8 +68,6 @@
 - [AWS IAM Identity Center integration is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-integration-amazon-quicksight/)
 - [AWS CodePipeline now supports GitLab](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-codepipeline-supports-gitlab/)
 - [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7g-m7g-r7g-instances-aws-region-asia-pacific-mumbai/)
-- [Kubernetes Metadata Enrichment now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/08/kubernetes-metadata-enrichment-distro-opentelemetry/)
-- [AWS launches enhanced AWS Startups experience featuring AWS Build](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-enhanced-startups-featuring-aws-build/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

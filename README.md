@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless expands support for larger workloads and collections](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-workloads-collections/)
+- [Amazon VPC Lattice is now available in 4 additional Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-lattice-additional-regions/)
+- [AWS Resilience Hub supports Exclude Recommendations](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-resilience-hub-exclude-recommendations/)
 - [Amazon EMR Serverless now makes it easier to specify fine grained log configurations](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/)
 - [AWS IAM Identity Center integration is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-integration-amazon-quicksight/)
 - [AWS CodePipeline now supports GitLab](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-codepipeline-supports-gitlab/)
@@ -65,9 +68,6 @@
 - [Kubernetes Metadata Enrichment now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/08/kubernetes-metadata-enrichment-distro-opentelemetry/)
 - [AWS launches enhanced AWS Startups experience featuring AWS Build](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-enhanced-startups-featuring-aws-build/)
 - [Amazon Connect Contact Lens launches real-time conversational analytics in Asia Pacific &lpar;Singapore&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-contact-lens-real-time-conversational-analytics-singapore/)
-- [Amazon CloudWatch Agent adds support for OpenTelemetry traces and AWS X-Ray](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-cloudwatch-agent-opentelemetry-traces-x-ray/)
-- [Amazon EventBridge API Destinations is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-api-destinations-additional-regions/)
-- [Amazon QuickSight launches hierarchy layout for pivot tables](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-hierarchy-pivot-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

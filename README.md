@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless now makes it easier to specify fine grained log configurations](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-emr-serverless-specify-fine-grained-log-configurations/)
 - [AWS IAM Identity Center integration is now generally available for Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-integration-amazon-quicksight/)
 - [AWS CodePipeline now supports GitLab](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-codepipeline-supports-gitlab/)
 - [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7g-m7g-r7g-instances-aws-region-asia-pacific-mumbai/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Agent adds support for OpenTelemetry traces and AWS X-Ray](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-cloudwatch-agent-opentelemetry-traces-x-ray/)
 - [Amazon EventBridge API Destinations is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-eventbridge-api-destinations-additional-regions/)
 - [Amazon QuickSight launches hierarchy layout for pivot tables](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-hierarchy-pivot-tables/)
-- [Amazon RDS for Oracle now supports July 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-july-2023-release-update/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lex now supports Confirmation slot type](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-lex-confirmation-slot-type/)
 - [AWS Client VPN now supports Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-client-vpn-israel-tel-aviv-region/)
 - [Amazon RDS Performance Insights enhanced console experience in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-enhanced-console-govcloud/)
 - [AWS AppSync now supports JavaScript for all resolvers in GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-javascript-all-resolvers-graphql-apis/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports M6g and R6g database instances in six additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-m6g-r6g-database-instances-six-regions/)
 - [Amazon EC2 D3en instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-d3en-instances-additional-regions/)
 - [Announcing general purpose Amazon EC2 M7a instances](https://aws.amazon.com/about-aws/whats-new/2023/08/general-purpose-amazon-ec2-m7a-instances/)
-- [AWS Backup Audit Manager now supports delegated backup administrator](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-audit-manager-delegated-backup-administrator/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Performance Insights enhanced console experience in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-enhanced-console-govcloud/)
 - [AWS AppSync now supports JavaScript for all resolvers in GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-javascript-all-resolvers-graphql-apis/)
 - [Amazon RDS Performance Insights provides an on-demand analysis experience](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-on-demand-analysis-experience/)
 - [Amazon RDS Custom for Oracle now supports R5b and X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-custom-oracle-r5b-x2iedn-instances/)
@@ -67,7 +68,6 @@
 - [Announcing general purpose Amazon EC2 M7a instances](https://aws.amazon.com/about-aws/whats-new/2023/08/general-purpose-amazon-ec2-m7a-instances/)
 - [AWS Backup Audit Manager now supports delegated backup administrator](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-audit-manager-delegated-backup-administrator/)
 - [Amazon EC2 M7g and R7g instances are now available in AWS Region Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7g-r7g-instances-singapore/)
-- [AWS Glue Studio Visual ETL adds 5 new visual transforms](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-glue-studio-visual-etl-new-visual-transforms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

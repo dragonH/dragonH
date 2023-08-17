@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP now provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-netapp-ontap-additional-performance-metrics-monitoring-dashboard/)
+- [New self-service Vendor Insights onboarding experience for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/08/self-service-vendor-insights-onboarding-experience-aws-marketplace-sellers/)
+- [Announcing Amazon GameLift support for instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-gamelift-instances-aws-graviton-3-processors/)
 - [Announcing Amazon EC2 Hpc7a instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-hpc7a-instances/)
 - [AWS DeepRacer Student launches educator playbooks](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-deepracer-educator-playbooks/)
 - [Amazon Lex now supports Confirmation slot type](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-lex-confirmation-slot-type/)
@@ -65,9 +68,6 @@
 - [Amazon RDS Performance Insights enhanced console experience in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-enhanced-console-govcloud/)
 - [AWS AppSync now supports JavaScript for all resolvers in GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-javascript-all-resolvers-graphql-apis/)
 - [Amazon RDS Performance Insights provides an on-demand analysis experience](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-on-demand-analysis-experience/)
-- [Amazon RDS Custom for Oracle now supports R5b and X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-custom-oracle-r5b-x2iedn-instances/)
-- [Amazon RDS now supports T4g database instances in 6 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-t4g-instances-6-regions/)
-- [Amazon RDS now supports M6g and R6g database instances in six additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-m6g-r6g-database-instances-six-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

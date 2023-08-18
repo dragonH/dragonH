@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Audit Manager adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-audit-manager-integration-amazon-eventbridge/)
+- [AWS Batch on Amazon ECS now supports AL2023](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-amazon-ecs-al2023/)
+- [Amazon EC2 I4i is available in UAE, Jakarta, and Hyderabad regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-l4i-uae-jakarta-hyderabad-regions/)
 - [Amazon FSx for NetApp ONTAP now provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-netapp-ontap-additional-performance-metrics-monitoring-dashboard/)
 - [New self-service Vendor Insights onboarding experience for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/08/self-service-vendor-insights-onboarding-experience-aws-marketplace-sellers/)
 - [Announcing Amazon GameLift support for instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-gamelift-instances-aws-graviton-3-processors/)
@@ -65,9 +68,6 @@
 - [AWS DeepRacer Student launches educator playbooks](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-deepracer-educator-playbooks/)
 - [Amazon Lex now supports Confirmation slot type](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-lex-confirmation-slot-type/)
 - [AWS Client VPN now supports Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-client-vpn-israel-tel-aviv-region/)
-- [Amazon RDS Performance Insights enhanced console experience in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-enhanced-console-govcloud/)
-- [AWS AppSync now supports JavaScript for all resolvers in GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-javascript-all-resolvers-graphql-apis/)
-- [Amazon RDS Performance Insights provides an on-demand analysis experience](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-performance-insights-on-demand-analysis-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

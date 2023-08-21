@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database introduces Global Database Failover](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-global-database-failover/)
 - [Amazon RDS for MariaDB now supports MariaDB 10.11 for up to 40% higher transaction throughput](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-mariadb-mariadb-10-11-higher-transaction-throughput/)
 - [AWS PrivateLink announces support for user defined IP on VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-privatelink-user-defined-ip-vpc-endpoints/)
 - [Amazon SageMaker Studio Lab supports SageMaker Distribution](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-studio-lab-supports-sagemaker-distribution/)
@@ -67,7 +68,6 @@
 - [Amazon Sagemaker Data Wrangler now supports S3 access points](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-s3-access-points/)
 - [AWS Elemental MediaConvert now available in the Osaka and Melbourne regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-mediaconvert-osaka-melbourne-regions/)
 - [AWS re:Post launches an enhanced search experience](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-re-post-enhanced-search-experience/)
-- [AWS Audit Manager adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-audit-manager-integration-amazon-eventbridge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

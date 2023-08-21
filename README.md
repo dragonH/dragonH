@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink announces support for user defined IP on VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-privatelink-user-defined-ip-vpc-endpoints/)
 - [Amazon SageMaker Studio Lab supports SageMaker Distribution](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-studio-lab-supports-sagemaker-distribution/)
 - [AWS Application Migration Service now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-migration-service-israel-tel-aviv/)
 - [AWS CloudFormation StackSets is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cloudformation-stacksets-israel-tel-aviv-region/)
@@ -67,7 +68,6 @@
 - [AWS re:Post launches an enhanced search experience](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-re-post-enhanced-search-experience/)
 - [AWS Audit Manager adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-audit-manager-integration-amazon-eventbridge/)
 - [AWS Batch on Amazon ECS now supports AL2023](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-amazon-ecs-al2023/)
-- [Amazon EC2 I4i is available in UAE, Jakarta, and Hyderabad regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-l4i-uae-jakarta-hyderabad-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

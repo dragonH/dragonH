@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio Lab supports SageMaker Distribution](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-studio-lab-supports-sagemaker-distribution/)
+- [AWS Application Migration Service now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-migration-service-israel-tel-aviv/)
+- [AWS CloudFormation StackSets is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cloudformation-stacksets-israel-tel-aviv-region/)
+- [AWS Firewall Manager  is now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-israel-tel-aviv-region/)
+- [Amazon Sagemaker Data Wrangler now supports S3 access points](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-s3-access-points/)
+- [AWS Elemental MediaConvert now available in the Osaka and Melbourne regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-mediaconvert-osaka-melbourne-regions/)
+- [AWS re:Post launches an enhanced search experience](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-re-post-enhanced-search-experience/)
 - [AWS Audit Manager adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-audit-manager-integration-amazon-eventbridge/)
 - [AWS Batch on Amazon ECS now supports AL2023](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-amazon-ecs-al2023/)
 - [Amazon EC2 I4i is available in UAE, Jakarta, and Hyderabad regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-l4i-uae-jakarta-hyderabad-regions/)
-- [Amazon FSx for NetApp ONTAP now provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-netapp-ontap-additional-performance-metrics-monitoring-dashboard/)
-- [New self-service Vendor Insights onboarding experience for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/08/self-service-vendor-insights-onboarding-experience-aws-marketplace-sellers/)
-- [Announcing Amazon GameLift support for instances powered by AWS Graviton3 processors](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-gamelift-instances-aws-graviton-3-processors/)
-- [Announcing Amazon EC2 Hpc7a instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-hpc7a-instances/)
-- [AWS DeepRacer Student launches educator playbooks](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-deepracer-educator-playbooks/)
-- [Amazon Lex now supports Confirmation slot type](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-lex-confirmation-slot-type/)
-- [AWS Client VPN now supports Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-client-vpn-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB now supports MariaDB 10.11 for up to 40% higher transaction throughput](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-mariadb-mariadb-10-11-higher-transaction-throughput/)
 - [AWS PrivateLink announces support for user defined IP on VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-privatelink-user-defined-ip-vpc-endpoints/)
 - [Amazon SageMaker Studio Lab supports SageMaker Distribution](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-studio-lab-supports-sagemaker-distribution/)
 - [AWS Application Migration Service now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-migration-service-israel-tel-aviv/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaConvert now available in the Osaka and Melbourne regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-mediaconvert-osaka-melbourne-regions/)
 - [AWS re:Post launches an enhanced search experience](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-re-post-enhanced-search-experience/)
 - [AWS Audit Manager adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-audit-manager-integration-amazon-eventbridge/)
-- [AWS Batch on Amazon ECS now supports AL2023](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-batch-amazon-ecs-al2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

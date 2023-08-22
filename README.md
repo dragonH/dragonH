@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Hibernate now supports Amazon EC2 M7i and M7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2023/08/ec2-hibernate-amazon-ec2-m7i-m7i-flex-instances/)
 - [AWS Outposts rack supported in the AWS Middle East &lpar;UAE&rpar; and the AWS Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-middle-east-uae-israel-tel-aviv-regions/)
 - [Improvements to multi-account management for Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-guardduty-multi-account-management/)
 - [Amazon SageMaker Data Wrangler now supports role-based access control for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-role-access-emr/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora Global Database introduces Global Database Failover](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-global-database-failover/)
 - [Amazon RDS for MariaDB now supports MariaDB 10.11 for up to 40% higher transaction throughput](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-mariadb-mariadb-10-11-higher-transaction-throughput/)
 - [AWS PrivateLink announces support for user defined IP on VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-privatelink-user-defined-ip-vpc-endpoints/)
-- [Amazon SageMaker Studio Lab supports SageMaker Distribution](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-studio-lab-supports-sagemaker-distribution/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

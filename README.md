@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Outposts rack supported in the AWS Middle East &lpar;UAE&rpar; and the AWS Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-middle-east-uae-israel-tel-aviv-regions/)
+- [Improvements to multi-account management for Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-guardduty-multi-account-management/)
+- [Amazon SageMaker Data Wrangler now supports role-based access control for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-role-access-emr/)
+- [Amazon ElastiCache for Memcached simplifies creating new clusters in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-elasticache-memcached-creating-clusters-aws-management-console/)
+- [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-reachability-analyzer-vpc-network-access-analyzer-additional-region/)
+- [Amazon Monitron is now available in the Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-monitron-asia-pacific-sydney-region/)
 - [Amazon Aurora Global Database introduces Global Database Failover](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-global-database-failover/)
 - [Amazon RDS for MariaDB now supports MariaDB 10.11 for up to 40% higher transaction throughput](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-mariadb-mariadb-10-11-higher-transaction-throughput/)
 - [AWS PrivateLink announces support for user defined IP on VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-privatelink-user-defined-ip-vpc-endpoints/)
 - [Amazon SageMaker Studio Lab supports SageMaker Distribution](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-studio-lab-supports-sagemaker-distribution/)
-- [AWS Application Migration Service now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-migration-service-israel-tel-aviv/)
-- [AWS CloudFormation StackSets is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cloudformation-stacksets-israel-tel-aviv-region/)
-- [AWS Firewall Manager  is now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-israel-tel-aviv-region/)
-- [Amazon Sagemaker Data Wrangler now supports S3 access points](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-s3-access-points/)
-- [AWS Elemental MediaConvert now available in the Osaka and Melbourne regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-mediaconvert-osaka-melbourne-regions/)
-- [AWS re:Post launches an enhanced search experience](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-re-post-enhanced-search-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

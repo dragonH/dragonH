@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Explorer announces support for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cost-explorer-billing-conductor/)
+- [Amazon EC2 M7i-flex and M7i instances are now available in AWS Regions Europe &lpar;Spain, Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances-aws-regions-europe/)
 - [AWS Global Accelerator now supports client IP address preservation for Network Load Balancer endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-global-accelerator-client-ip-address-preservation-network-load-balancer-endpoints/)
 - [EC2 Hibernate now supports Amazon EC2 M7i and M7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2023/08/ec2-hibernate-amazon-ec2-m7i-m7i-flex-instances/)
 - [AWS Outposts rack supported in the AWS Middle East &lpar;UAE&rpar; and the AWS Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-middle-east-uae-israel-tel-aviv-regions/)
@@ -66,8 +68,6 @@
 - [Amazon ElastiCache for Memcached simplifies creating new clusters in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-elasticache-memcached-creating-clusters-aws-management-console/)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-reachability-analyzer-vpc-network-access-analyzer-additional-region/)
 - [Amazon Monitron is now available in the Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-monitron-asia-pacific-sydney-region/)
-- [Amazon Aurora Global Database introduces Global Database Failover](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-aurora-global-database-failover/)
-- [Amazon RDS for MariaDB now supports MariaDB 10.11 for up to 40% higher transaction throughput](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-mariadb-mariadb-10-11-higher-transaction-throughput/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

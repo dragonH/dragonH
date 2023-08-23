@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Manage Cost Allocation Tags with Last-Updated and Last-Used timestamps](https://aws.amazon.com/about-aws/whats-new/2023/08/manage-cost-allocation-tags-updated-used-timestamps/)
 - [AWS Backup is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-israel-tel-aviv-region/)
 - [Announcing AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-dedicated-local-zones/)
 - [Amazon SageMaker announces new Rolling Deployment endpoint update option](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-rolling-deployment-endpoint-update-option/)
@@ -67,7 +68,6 @@
 - [EC2 Hibernate now supports Amazon EC2 M7i and M7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2023/08/ec2-hibernate-amazon-ec2-m7i-m7i-flex-instances/)
 - [AWS Outposts rack supported in the AWS Middle East &lpar;UAE&rpar; and the AWS Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-middle-east-uae-israel-tel-aviv-regions/)
 - [Improvements to multi-account management for Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-guardduty-multi-account-management/)
-- [Amazon SageMaker Data Wrangler now supports role-based access control for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-role-access-emr/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

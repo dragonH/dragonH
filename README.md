@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-israel-tel-aviv-region/)
+- [Announcing AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-dedicated-local-zones/)
+- [Amazon SageMaker announces new Rolling Deployment endpoint update option](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-rolling-deployment-endpoint-update-option/)
 - [AWS Cost Explorer announces support for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cost-explorer-billing-conductor/)
 - [Amazon EC2 M7i-flex and M7i instances are now available in AWS Regions Europe &lpar;Spain, Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances-aws-regions-europe/)
 - [AWS Global Accelerator now supports client IP address preservation for Network Load Balancer endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-global-accelerator-client-ip-address-preservation-network-load-balancer-endpoints/)
@@ -65,9 +68,6 @@
 - [AWS Outposts rack supported in the AWS Middle East &lpar;UAE&rpar; and the AWS Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-middle-east-uae-israel-tel-aviv-regions/)
 - [Improvements to multi-account management for Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-guardduty-multi-account-management/)
 - [Amazon SageMaker Data Wrangler now supports role-based access control for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-data-wrangler-role-access-emr/)
-- [Amazon ElastiCache for Memcached simplifies creating new clusters in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-elasticache-memcached-creating-clusters-aws-management-console/)
-- [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-vpc-reachability-analyzer-vpc-network-access-analyzer-additional-region/)
-- [Amazon Monitron is now available in the Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-monitron-asia-pacific-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

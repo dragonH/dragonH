@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Certificate Manager introduces Enterprise Controls to help govern certificate issuance](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-certificate-manager-enterprise-controls-certificate-issuance/)
 - [AWS Storage Gateway is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-storage-gateway-israel-tel-aviv-region/)
 - [Amazon Athena is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-athena-israel-tel-aviv-region/)
 - [Amazon EC2 C7gd, M7gd, and R7gd instances now available in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7gd-m7gd-r7gd-instances-frankfurt-region/)
@@ -67,7 +68,6 @@
 - [AWS Backup is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-israel-tel-aviv-region/)
 - [Announcing AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-dedicated-local-zones/)
 - [Amazon SageMaker announces new Rolling Deployment endpoint update option](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-rolling-deployment-endpoint-update-option/)
-- [AWS Cost Explorer announces support for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cost-explorer-billing-conductor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

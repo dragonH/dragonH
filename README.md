@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Model Cards now supports cross account sharing of model cards](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-model-cards-cross-account-sharing-model-cards/)
+- [AWS DataSync is now available in the Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-datasync-israel-tel-aviv-region/)
 - [Manage Cost Allocation Tags with Last-Updated and Last-Used timestamps](https://aws.amazon.com/about-aws/whats-new/2023/08/manage-cost-allocation-tags-updated-used-timestamps/)
 - [AWS Backup is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-israel-tel-aviv-region/)
 - [Announcing AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-dedicated-local-zones/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 M7i-flex and M7i instances are now available in AWS Regions Europe &lpar;Spain, Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances-aws-regions-europe/)
 - [AWS Global Accelerator now supports client IP address preservation for Network Load Balancer endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-global-accelerator-client-ip-address-preservation-network-load-balancer-endpoints/)
 - [EC2 Hibernate now supports Amazon EC2 M7i and M7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2023/08/ec2-hibernate-amazon-ec2-m7i-m7i-flex-instances/)
-- [AWS Outposts rack supported in the AWS Middle East &lpar;UAE&rpar; and the AWS Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-middle-east-uae-israel-tel-aviv-regions/)
-- [Improvements to multi-account management for Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-guardduty-multi-account-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

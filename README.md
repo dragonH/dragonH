@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-storage-gateway-israel-tel-aviv-region/)
+- [Amazon Athena is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-athena-israel-tel-aviv-region/)
+- [Amazon EC2 C7gd, M7gd, and R7gd instances now available in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-c7gd-m7gd-r7gd-instances-frankfurt-region/)
 - [Amazon SageMaker Model Cards now supports cross account sharing of model cards](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-model-cards-cross-account-sharing-model-cards/)
 - [AWS DataSync is now available in the Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-datasync-israel-tel-aviv-region/)
 - [Manage Cost Allocation Tags with Last-Updated and Last-Used timestamps](https://aws.amazon.com/about-aws/whats-new/2023/08/manage-cost-allocation-tags-updated-used-timestamps/)
@@ -65,9 +68,6 @@
 - [Announcing AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-dedicated-local-zones/)
 - [Amazon SageMaker announces new Rolling Deployment endpoint update option](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-rolling-deployment-endpoint-update-option/)
 - [AWS Cost Explorer announces support for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-cost-explorer-billing-conductor/)
-- [Amazon EC2 M7i-flex and M7i instances are now available in AWS Regions Europe &lpar;Spain, Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-m7i-flex-m7i-instances-aws-regions-europe/)
-- [AWS Global Accelerator now supports client IP address preservation for Network Load Balancer endpoints](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-global-accelerator-client-ip-address-preservation-network-load-balancer-endpoints/)
-- [EC2 Hibernate now supports Amazon EC2 M7i and M7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2023/08/ec2-hibernate-amazon-ec2-m7i-m7i-flex-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

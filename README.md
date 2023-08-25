@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective launches in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-detective-israel-tel-aviv-region/)
 - [Amazon Route 53 Resolver DNS Firewall available in Middle East &lpar;UAE&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-dns-firewall-uae-israel/)
 - [Amazon Simple Email Service is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-simple-email-service-israel-tel-aviv-region/)
 - [Amazon Connect  now supports scheduling of agent group activities](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-scheduling-agent-group-activities/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker announces preview of GPU/CPU profiler tooling for deep learning model development](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-preview-gpu-cpu-profiler-tooling-model-development/)
 - [Announcing AWS ROSA console support for the ROSA with hosted control planes preview](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-rosa-console-rosa-hosted-control-planes-preview/)
 - [Amazon FSx for Lustre is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-lustre-aws-israel-tel-aviv-region/)
-- [Amazon FSx for Windows File Server is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-windows-file-server-aws-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

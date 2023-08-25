@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches granular access controls for the agent activity audit report](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-granular-access-controls-agent-audit-report/)
 - [Amazon QuickSight adds scheduled and programmatic export to Excel format](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-scheduled-programmatic-export-excel-format/)
 - [Amazon Detective launches in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-detective-israel-tel-aviv-region/)
 - [Amazon Route 53 Resolver DNS Firewall available in Middle East &lpar;UAE&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-dns-firewall-uae-israel/)
@@ -67,7 +68,6 @@
 - [AWS Microservice Extractor now supports visualizing very large enterprise applications](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-microservice-extractor-visualizing-enterprise-applications/)
 - [AWS AppFabric is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appfabric-hipaa-eligible/)
 - [Amazon SageMaker announces preview of GPU/CPU profiler tooling for deep learning model development](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-preview-gpu-cpu-profiler-tooling-model-development/)
-- [Announcing AWS ROSA console support for the ROSA with hosted control planes preview](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-rosa-console-rosa-hosted-control-planes-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

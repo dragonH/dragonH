@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-control-tower-israel-tel-aviv-region/)
 - [AWS Compute Optimizer now supports licensing cost optimization for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-compute-optimizer-licensing-cost-microsoft-sql-server/)
 - [Monitor SAP NetWeaver Standard Deployment with CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/08/monitor-sap-netweaver-deployment-cloudwatch-insights/)
 - [Amazon SNS now supports sending SMS from Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sns-sending-sms-israel-tel-aviv/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight adds scheduled and programmatic export to Excel format](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-scheduled-programmatic-export-excel-format/)
 - [Amazon Detective launches in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-detective-israel-tel-aviv-region/)
 - [Amazon Route 53 Resolver DNS Firewall available in Middle East &lpar;UAE&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-dns-firewall-uae-israel/)
-- [Amazon Simple Email Service is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-simple-email-service-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental Link and MediaLive add KLV metadata support](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-link-medialive-klv-metadata-support/)
+- [AWS Systems Manager Patch Manager now supports additional Linux operating system versions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-systems-manager-patch-manager-linux-operating-system-versions/)
 - [Amazon Connect launches granular access controls for the agent activity audit report](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-granular-access-controls-agent-audit-report/)
 - [Amazon QuickSight adds scheduled and programmatic export to Excel format](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-quicksight-scheduled-programmatic-export-excel-format/)
 - [Amazon Detective launches in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-detective-israel-tel-aviv-region/)
@@ -66,8 +68,6 @@
 - [Amazon Connect  now supports scheduling of agent group activities](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-scheduling-agent-group-activities/)
 - [Amazon GuardDuty now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-guardduty-available-israel-tel-aviv-region/)
 - [AWS Microservice Extractor now supports visualizing very large enterprise applications](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-microservice-extractor-visualizing-enterprise-applications/)
-- [AWS AppFabric is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appfabric-hipaa-eligible/)
-- [Amazon SageMaker announces preview of GPU/CPU profiler tooling for deep learning model development](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sagemaker-preview-gpu-cpu-profiler-tooling-model-development/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer now supports licensing cost optimization for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-compute-optimizer-licensing-cost-microsoft-sql-server/)
+- [Monitor SAP NetWeaver Standard Deployment with CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/08/monitor-sap-netweaver-deployment-cloudwatch-insights/)
+- [Amazon SNS now supports sending SMS from Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sns-sending-sms-israel-tel-aviv/)
 - [AWS Elemental Link and MediaLive add KLV metadata support](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-link-medialive-klv-metadata-support/)
 - [AWS Systems Manager Patch Manager now supports additional Linux operating system versions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-systems-manager-patch-manager-linux-operating-system-versions/)
 - [Amazon Connect launches granular access controls for the agent activity audit report](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-granular-access-controls-agent-audit-report/)
@@ -65,9 +68,6 @@
 - [Amazon Detective launches in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-detective-israel-tel-aviv-region/)
 - [Amazon Route 53 Resolver DNS Firewall available in Middle East &lpar;UAE&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-route-53-resolver-dns-firewall-uae-israel/)
 - [Amazon Simple Email Service is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-simple-email-service-israel-tel-aviv-region/)
-- [Amazon Connect  now supports scheduling of agent group activities](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-scheduling-agent-group-activities/)
-- [Amazon GuardDuty now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-guardduty-available-israel-tel-aviv-region/)
-- [AWS Microservice Extractor now supports visualizing very large enterprise applications](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-microservice-extractor-visualizing-enterprise-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

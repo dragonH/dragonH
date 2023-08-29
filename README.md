@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor supports per-session control of non-linear overlay video ads](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-mediatailor-session-control-non-linear-video-ads/)
 - [AWS Backup now supports local time zone selections](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-backup-local-time-zone-selections/)
 - [AWS Private CA launches Connector for Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-private-ca-connecter-active-directory/)
 - [Amazon OpenSearch Serverless now supports AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-user-notifications/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-control-tower-israel-tel-aviv-region/)
 - [AWS Compute Optimizer now supports licensing cost optimization for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-compute-optimizer-licensing-cost-microsoft-sql-server/)
 - [Monitor SAP NetWeaver Standard Deployment with CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/08/monitor-sap-netweaver-deployment-cloudwatch-insights/)
-- [Amazon SNS now supports sending SMS from Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sns-sending-sms-israel-tel-aviv/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

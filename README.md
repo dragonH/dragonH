@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Private CA launches Connector for Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-private-ca-connecter-active-directory/)
 - [Amazon OpenSearch Serverless now supports AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-serverless-user-notifications/)
 - [Amazon RDS Optimized Writes for MySQL and MariaDB now supports m6i and m6g database instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-optimized-writes-mysql-mariadb-m6i-m6g-database-instances/)
 - [Amazon FSx for Lustre now supports project quotas](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-fsx-lustre-project-quotas/)
@@ -67,7 +68,6 @@
 - [Monitor SAP NetWeaver Standard Deployment with CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/08/monitor-sap-netweaver-deployment-cloudwatch-insights/)
 - [Amazon SNS now supports sending SMS from Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sns-sending-sms-israel-tel-aviv/)
 - [AWS Elemental Link and MediaLive add KLV metadata support](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-elemental-link-medialive-klv-metadata-support/)
-- [AWS Systems Manager Patch Manager now supports additional Linux operating system versions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-systems-manager-patch-manager-linux-operating-system-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

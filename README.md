@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [App Runner adds support for Bitbucket source code repository](https://aws.amazon.com/about-aws/whats-new/2023/08/app-runner-bitbucket-source-code-repository/)
+- [AWS Outposts rack now supports intra-VPC communication across multiple Outposts](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-intra-vpc-communication-multiple-outposts/)
 - [AWS Amplify supports time-based one-time password for MFA on Android, Swift, Flutter](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-amplify-time-based-password-mfa-android-swift-flutter/)
 - [Amazon Connect launches new bulk editing features for users](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-bulk-editing-features/)
 - [Now deploy Gateway Load Balancer Endpoint between virtual private gateway and subnets in Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2023/08/gateway-load-balancer-endpoint-virtual-private-gateway-vpc/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Oracle supports time zone auto-upgrade for Single-tenant instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-time-zone-auto-upgrade-single-tenant-instances/)
 - [Service Quotas adds support to increase the instances per domain quota for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/08/service-quotas-increase-instances-domain-quota-amazon-opensearch-service/)
 - [Announcing refactor environment automation for Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2023/08/refactor-environment-automation-application-migration-service/)
-- [AWS Application Migration Service supports additional modernization actions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-migration-service-modernization-actions/)
-- [Amazon RDS for PostgreSQL now supports PL/Rust in versions 13 and 14](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-postgresql-pl-rust-version-13-14/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

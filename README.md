@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify supports time-based one-time password for MFA on Android, Swift, Flutter](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-amplify-time-based-password-mfa-android-swift-flutter/)
+- [Amazon Connect launches new bulk editing features for users](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-bulk-editing-features/)
 - [Now deploy Gateway Load Balancer Endpoint between virtual private gateway and subnets in Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2023/08/gateway-load-balancer-endpoint-virtual-private-gateway-vpc/)
 - [AWS Clean Rooms launches new capabilities for increased configurability](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-clean-rooms-capabilities-increased-configurability/)
 - [Introducing Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-managed-service-apache-flink/)
@@ -66,8 +68,6 @@
 - [Announcing refactor environment automation for Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2023/08/refactor-environment-automation-application-migration-service/)
 - [AWS Application Migration Service supports additional modernization actions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-application-migration-service-modernization-actions/)
 - [Amazon RDS for PostgreSQL now supports PL/Rust in versions 13 and 14](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-postgresql-pl-rust-version-13-14/)
-- [AWS Neuron adds support for Llama 2, GPT-NeoX, and SDXL generative AI models](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-neuron-llama2-gpt-neox-sdxl-ai-models/)
-- [Announcing availability of AWS Outposts in Iceland and Uruguay](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-iceland-uruguay/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

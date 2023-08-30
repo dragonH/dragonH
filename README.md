@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now provides workflow run archiving and retention](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-workflow-run-archiving-retention/)
+- [Amazon S3 now supports multivalue answer in response to DNS queries](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-multivalue-answer-response-dns-queries/)
+- [Announcing AWS ParallelCluster 3.7 with Login nodes and Ubuntu 22 support](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-parallelcluster-3-7-login-nodes-ubuntu-22-support/)
+- [AWS Firewall Manager improves auditing capabilities for Security Groups](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-firewall-manager-auditing-capabilities-security-groups/)
 - [App Runner adds support for Bitbucket source code repository](https://aws.amazon.com/about-aws/whats-new/2023/08/app-runner-bitbucket-source-code-repository/)
 - [AWS Outposts rack now supports intra-VPC communication across multiple Outposts](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-outposts-rack-intra-vpc-communication-multiple-outposts/)
 - [AWS Amplify supports time-based one-time password for MFA on Android, Swift, Flutter](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-amplify-time-based-password-mfa-android-swift-flutter/)
 - [Amazon Connect launches new bulk editing features for users](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-connect-bulk-editing-features/)
 - [Now deploy Gateway Load Balancer Endpoint between virtual private gateway and subnets in Amazon VPC](https://aws.amazon.com/about-aws/whats-new/2023/08/gateway-load-balancer-endpoint-virtual-private-gateway-vpc/)
 - [AWS Clean Rooms launches new capabilities for increased configurability](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-clean-rooms-capabilities-increased-configurability/)
-- [Introducing Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-managed-service-apache-flink/)
-- [Amazon RDS for Oracle supports time zone auto-upgrade for Single-tenant instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-oracle-time-zone-auto-upgrade-single-tenant-instances/)
-- [Service Quotas adds support to increase the instances per domain quota for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/08/service-quotas-increase-instances-domain-quota-amazon-opensearch-service/)
-- [Announcing refactor environment automation for Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2023/08/refactor-environment-automation-application-migration-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

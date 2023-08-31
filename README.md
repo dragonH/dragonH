@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-israel-tel-aviv-region/)
+- [AWS Lambda Functions powered by AWS Graviton2 now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lambda-functions-graviton2-6-regions/)
 - [Announcing improved user experience with console enhancements for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-user-experience-console-enhancements-aws-network-firewall/)
 - [Announcing Amazon CodeCatalyst’s Launch in Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-codecatalyst-europe-ireland/)
 - [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-ingestion-streaming-data-msk/)
@@ -66,8 +68,6 @@
 - [Amazon SNS now supports additional usage metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sns-usage-metrics-cloudwatch/)
 - [Amazon RDS Optimized Writes for MySQL and MariaDB now supports r5 database instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-optimized-writes-mysql-mariadb-r5-database-instances/)
 - [AWS SimSpace Weaver SDK for Python now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-simspace-weaver-sdk-python/)
-- [AWS SDK for SAP ABAP is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-sdk-sap-abap-china-regions/)
-- [AWS AppSync provides an improved module and functions for JavaScript DynamoDB resolvers](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-module-functions-javascript-dynamodb-resolvers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SimSpace Weaver SDK for Python now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-simspace-weaver-sdk-python/)
 - [AWS SDK for SAP ABAP is now available in Amazon Web Services China Regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-sdk-sap-abap-china-regions/)
 - [AWS AppSync provides an improved module and functions for JavaScript DynamoDB resolvers](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-appsync-module-functions-javascript-dynamodb-resolvers/)
 - [AWS Step Functions streamlines the authoring experience in Workflow Studio](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-step-functions-authoring-experience-workflow-studio/)
@@ -67,7 +68,6 @@
 - [Amazon Chime SDK now supports meetings in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-chime-sdk-meetings-israel-tel-aviv-region/)
 - [AWS HealthOmics now provides workflow run archiving and retention](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-healthomics-workflow-run-archiving-retention/)
 - [Amazon S3 now supports multivalue answer in response to DNS queries](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-s3-multivalue-answer-response-dns-queries/)
-- [Announcing AWS ParallelCluster 3.7 with Login nodes and Ubuntu 22 support](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-parallelcluster-3-7-login-nodes-ubuntu-22-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for SQL Server lets you stop and start your database instance on demand](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-stop-start-database-instance/)
+- [Amazon SageMaker Canvas now supports additional data connectors with JDBC](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-data-connectors-jdbc/)
+- [Amazon Connect now supports Universal International Freephone Numbers](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-universal-international-freephone-numbers/)
+- [AWS Marketplace now supports AWS CloudTrail to improve procurement activity monitoring](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-cloudtrail-improve-procurement-activity-monitoring/)
+- [Amazon Cognito now available in Asia Pacific &lpar;Osaka&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cognito-new-regions/)
+- [Amazon Connect outbound campaigns now offers voice dialing with no agents required](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-voice-dialing-no-agents-required/)
+- [Announcing voice enhancement for call recordings in Amazon Chime SDK call analytics](https://aws.amazon.com/about-aws/whats-new/2023/09/voice-enhancement-call-recordings-amazon-chime-sdk-call-analytics/)
 - [AWS IAM Identity Center is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-israel-tel-aviv-region/)
 - [AWS Lambda Functions powered by AWS Graviton2 now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lambda-functions-graviton2-6-regions/)
 - [Announcing improved user experience with console enhancements for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-user-experience-console-enhancements-aws-network-firewall/)
-- [Announcing Amazon CodeCatalyst’s Launch in Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-codecatalyst-europe-ireland/)
-- [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-opensearch-ingestion-streaming-data-msk/)
-- [AWS Directory Service and AWS Private CA provide certificates for Active Directory](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-directory-service-private-ca-certificates-active-directory/)
-- [Amazon SES now offers email delivery and engagement history for every email](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ses-email-delivery-engagement-history/)
-- [Amazon SNS now supports additional usage metrics in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-sns-usage-metrics-cloudwatch/)
-- [Amazon RDS Optimized Writes for MySQL and MariaDB now supports r5 database instances](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-rds-optimized-writes-mysql-mariadb-r5-database-instances/)
-- [AWS SimSpace Weaver SDK for Python now available](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-simspace-weaver-sdk-python/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

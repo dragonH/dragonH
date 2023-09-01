@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Macie is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-israel-tel-aviv-region/)
+- [Sagemaker Real-time Inference now supports response streaming](https://aws.amazon.com/about-aws/whats-new/2023/09/sagemaker-real-time-inference-response-streaming/)
 - [Amazon RDS Custom for SQL Server lets you stop and start your database instance on demand](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-stop-start-database-instance/)
 - [Amazon SageMaker Canvas now supports additional data connectors with JDBC](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-data-connectors-jdbc/)
 - [Amazon Connect now supports Universal International Freephone Numbers](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-universal-international-freephone-numbers/)
@@ -66,8 +68,6 @@
 - [Amazon Connect outbound campaigns now offers voice dialing with no agents required](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-voice-dialing-no-agents-required/)
 - [Announcing voice enhancement for call recordings in Amazon Chime SDK call analytics](https://aws.amazon.com/about-aws/whats-new/2023/09/voice-enhancement-call-recordings-amazon-chime-sdk-call-analytics/)
 - [AWS IAM Identity Center is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-iam-identity-center-israel-tel-aviv-region/)
-- [AWS Lambda Functions powered by AWS Graviton2 now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/08/aws-lambda-functions-graviton2-6-regions/)
-- [Announcing improved user experience with console enhancements for AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2023/08/improved-user-experience-console-enhancements-aws-network-firewall/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

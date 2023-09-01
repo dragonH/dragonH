@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-transfer-family-aws-israel-tel-aviv-region/)
 - [Amazon AppFlow now supports concurrent processing for data transfers from SAP applications](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-appflow-current-processing-data-transfers-sap-applications/)
 - [Amazon Macie is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-israel-tel-aviv-region/)
 - [Sagemaker Real-time Inference now supports response streaming](https://aws.amazon.com/about-aws/whats-new/2023/09/sagemaker-real-time-inference-response-streaming/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace now supports AWS CloudTrail to improve procurement activity monitoring](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-cloudtrail-improve-procurement-activity-monitoring/)
 - [Amazon Cognito now available in Asia Pacific &lpar;Osaka&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cognito-new-regions/)
 - [Amazon Connect outbound campaigns now offers voice dialing with no agents required](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-voice-dialing-no-agents-required/)
-- [Announcing voice enhancement for call recordings in Amazon Chime SDK call analytics](https://aws.amazon.com/about-aws/whats-new/2023/09/voice-enhancement-call-recordings-amazon-chime-sdk-call-analytics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

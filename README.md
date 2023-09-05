@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-aws-israel-tel-aviv-region/)
 - [AWS Compute Optimizer supports rightsizing for G4dn and P3 instances](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-rightsizing-g4dn-p3-instances/)
 - [Amazon Personalize simplifies implementation by extending column limits](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-personalize-implementation-column-limits/)
 - [Amazon SageMaker geospatial capabilities now support Notebook with GPU-based Instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-geospatial-notebook-gpu-instances/)
@@ -67,7 +68,6 @@
 - [AWS Trusted Advisor adds 1 new fault tolerance check](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-trusted-advisor-new-fault-tolerance-check/)
 - [Amazon RDS for PostgreSQL now supports h3-pg for geospatial indexing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-h3-pg-geospatial-indexing/)
 - [AWS Partner network launches new AWS Automotive Competency](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-partner-network-aws-automotive-competency/)
-- [Amazon CloudWatch adds Amazon EKS control plane logs as Vended Logs](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-eks-control-plane-vended-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer supports rightsizing for G4dn and P3 instances](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-rightsizing-g4dn-p3-instances/)
+- [Amazon Personalize simplifies implementation by extending column limits](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-personalize-implementation-column-limits/)
+- [Amazon SageMaker geospatial capabilities now support Notebook with GPU-based Instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-geospatial-notebook-gpu-instances/)
 - [AWS SAM CLI announces local testing and debugging support on Terraform projects](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-sam-cli-local-testing-debugging-terraform-projects/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-high-memory-instances-asia-pacific-seoul-region/)
 - [Amazon MWAA expands support for customer compliance with ISO and IRAP](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-mwaa-customer-compliance-iso-irap/)
@@ -65,9 +68,6 @@
 - [Amazon RDS for PostgreSQL now supports h3-pg for geospatial indexing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-h3-pg-geospatial-indexing/)
 - [AWS Partner network launches new AWS Automotive Competency](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-partner-network-aws-automotive-competency/)
 - [Amazon CloudWatch adds Amazon EKS control plane logs as Vended Logs](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-eks-control-plane-vended-logs/)
-- [Amazon Aurora and Amazon RDS announces Extended Support for MySQL and PostgreSQL databases](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-aurora-rds-extended-support-mysql-postgresql-databases/)
-- [AWS Transfer Family is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-transfer-family-aws-israel-tel-aviv-region/)
-- [Amazon AppFlow now supports concurrent processing for data transfers from SAP applications](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-appflow-current-processing-data-transfers-sap-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Trusted Advisor adds 1 new fault tolerance check](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-trusted-advisor-new-fault-tolerance-check/)
+- [Amazon RDS for PostgreSQL now supports h3-pg for geospatial indexing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-h3-pg-geospatial-indexing/)
+- [AWS Partner network launches new AWS Automotive Competency](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-partner-network-aws-automotive-competency/)
+- [Amazon CloudWatch adds Amazon EKS control plane logs as Vended Logs](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-eks-control-plane-vended-logs/)
 - [Amazon Aurora and Amazon RDS announces Extended Support for MySQL and PostgreSQL databases](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-aurora-rds-extended-support-mysql-postgresql-databases/)
 - [AWS Transfer Family is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-transfer-family-aws-israel-tel-aviv-region/)
 - [Amazon AppFlow now supports concurrent processing for data transfers from SAP applications](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-appflow-current-processing-data-transfers-sap-applications/)
 - [Amazon Macie is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-israel-tel-aviv-region/)
 - [Sagemaker Real-time Inference now supports response streaming](https://aws.amazon.com/about-aws/whats-new/2023/09/sagemaker-real-time-inference-response-streaming/)
 - [Amazon RDS Custom for SQL Server lets you stop and start your database instance on demand](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-stop-start-database-instance/)
-- [Amazon SageMaker Canvas now supports additional data connectors with JDBC](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-data-connectors-jdbc/)
-- [Amazon Connect now supports Universal International Freephone Numbers](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-universal-international-freephone-numbers/)
-- [AWS Marketplace now supports AWS CloudTrail to improve procurement activity monitoring](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-cloudtrail-improve-procurement-activity-monitoring/)
-- [Amazon Cognito now available in Asia Pacific &lpar;Osaka&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cognito-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

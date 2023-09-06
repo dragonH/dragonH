@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF Bot Control now protects against distributed proxy-based attacks](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-bot-control-protects-against-distributed-proxy-based-attacks/)
+- [Amazon SageMaker Inference now supports Multi Model Endpoints for PyTorch](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-inference-multi-model-endpoints-pytorch/)
+- [Amazon Location Service is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-service-aws-govcloud-us-west-region/)
 - [Amazon EC2 M6i and R6i instances are now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-m6i-r6i-instances-europe-zurich-region/)
 - [Amazon CloudWatch Logs announces regular expression filter pattern syntax support](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-logs-regular-expression-filter-pattern-syntax-support/)
 - [AWS Backup launches resource exclusion for AWS CloudFormation stack](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-resource-exclusion-aws-cloudformation-stack/)
@@ -65,9 +68,6 @@
 - [VPC DNS Query Logging now available in five new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/vpc-dns-query-logging-five-regions/)
 - [Amazon MSK is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-israel-tel-aviv-region/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-aws-israel-tel-aviv-region/)
-- [AWS Compute Optimizer supports rightsizing for G4dn and P3 instances](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-rightsizing-g4dn-p3-instances/)
-- [Amazon Personalize simplifies implementation by extending column limits](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-personalize-implementation-column-limits/)
-- [Amazon SageMaker geospatial capabilities now support Notebook with GPU-based Instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-geospatial-notebook-gpu-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

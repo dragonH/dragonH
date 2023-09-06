@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6gd and R6gd instances are now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c6gd-r6gd-instances-govcloud-west-region/)
 - [VPC DNS Query Logging now available in five new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/vpc-dns-query-logging-five-regions/)
 - [Amazon MSK is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-israel-tel-aviv-region/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-aws-israel-tel-aviv-region/)
@@ -67,7 +68,6 @@
 - [AWS SAM CLI announces local testing and debugging support on Terraform projects](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-sam-cli-local-testing-debugging-terraform-projects/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-high-memory-instances-asia-pacific-seoul-region/)
 - [Amazon MWAA expands support for customer compliance with ISO and IRAP](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-mwaa-customer-compliance-iso-irap/)
-- [AWS Trusted Advisor adds 1 new fault tolerance check](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-trusted-advisor-new-fault-tolerance-check/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

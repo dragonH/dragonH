@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VPC DNS Query Logging now available in five new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/vpc-dns-query-logging-five-regions/)
+- [Amazon MSK is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-israel-tel-aviv-region/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-aws-israel-tel-aviv-region/)
 - [AWS Compute Optimizer supports rightsizing for G4dn and P3 instances](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-rightsizing-g4dn-p3-instances/)
 - [Amazon Personalize simplifies implementation by extending column limits](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-personalize-implementation-column-limits/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-high-memory-instances-asia-pacific-seoul-region/)
 - [Amazon MWAA expands support for customer compliance with ISO and IRAP](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-mwaa-customer-compliance-iso-irap/)
 - [AWS Trusted Advisor adds 1 new fault tolerance check](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-trusted-advisor-new-fault-tolerance-check/)
-- [Amazon RDS for PostgreSQL now supports h3-pg for geospatial indexing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-h3-pg-geospatial-indexing/)
-- [AWS Partner network launches new AWS Automotive Competency](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-partner-network-aws-automotive-competency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports custom data types in Trusted Language Extensions for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-data-types-trusted-language-extensions-postgre-sql/)
+- [New Amazon FSx for NetApp ONTAP capabilities simplify managing file systems using ONTAP CLI](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-fsx-netapp-ontap-managing-file-systems-ontap-cli/)
 - [Amazon EC2 C6id instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c6id-instances-aws-europe-london-region/)
 - [AWS WAF Bot Control now protects against distributed proxy-based attacks](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-bot-control-protects-against-distributed-proxy-based-attacks/)
 - [Amazon SageMaker Inference now supports Multi Model Endpoints for PyTorch](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-inference-multi-model-endpoints-pytorch/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch Logs announces regular expression filter pattern syntax support](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-logs-regular-expression-filter-pattern-syntax-support/)
 - [AWS Backup launches resource exclusion for AWS CloudFormation stack](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-resource-exclusion-aws-cloudformation-stack/)
 - [Amazon EC2 C6gd and R6gd instances are now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c6gd-r6gd-instances-govcloud-west-region/)
-- [VPC DNS Query Logging now available in five new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/vpc-dns-query-logging-five-regions/)
-- [Amazon MSK is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

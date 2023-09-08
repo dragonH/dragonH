@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 now supports AWS-managed prefix lists for health checks](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-route-53-managed-prefix-lists-health-checks/)
+- [IAM roles last used and last accessed information available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-last-used-accessed-information-aws-govcloud-regions/)
+- [Amazon Connect launches APIs to programmatically configure views in step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-apis-programmatically-configure-views-guides/)
 - [AWS Step Functions launches enhanced error handling](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-enhanced-error-handling/)
 - [Amazon RDS for MariaDB supports minors 10.11.5, 10.6.15, 10.5.22, 10.4.31](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-mariadb-supports-new-minors/)
 - [Amazon SageMaker now provides a new quick Studio setup experience](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-quick-studio-setup-experience/)
@@ -65,9 +68,6 @@
 - [Amazon Detective adds Amazon EKS security investigations to AWS Workshop Studio](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-detective-eks-investigations-workshop-studio/)
 - [Announcing daily disbursements for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/09/daily-disbursements-aws-marketplace-sellers/)
 - [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/)
-- [Amazon Kendra releases Web Crawler for dynamic content support](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-kendra-web-crawler-dynamic-content/)
-- [AWS Security Hub now supports findings consolidation in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-security-hub-findings-consolidation-aws-govcloud-us-regions/)
-- [Amazon RDS now supports custom data types in Trusted Language Extensions for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-data-types-trusted-language-extensions-postgre-sql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

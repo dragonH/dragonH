@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS NAT Gateway is now available in the AWS Los Angeles Local Zone us-west-2-lax-1a](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-nat-gateway-available-los-angeles-local-zone/)
 - [Amazon Route 53 now supports AWS-managed prefix lists for health checks](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-route-53-managed-prefix-lists-health-checks/)
 - [IAM roles last used and last accessed information available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-last-used-accessed-information-aws-govcloud-regions/)
 - [Amazon Connect launches APIs to programmatically configure views in step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-apis-programmatically-configure-views-guides/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaConnect adds new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-mediaconnect-cloudwatch-metrics/)
 - [Amazon Detective adds Amazon EKS security investigations to AWS Workshop Studio](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-detective-eks-investigations-workshop-studio/)
 - [Announcing daily disbursements for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/09/daily-disbursements-aws-marketplace-sellers/)
-- [Introducing Amazon EC2 R7iz instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7iz-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

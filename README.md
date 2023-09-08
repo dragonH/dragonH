@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Get programmatic notifications for AWS Marketplace Offer Published events](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-published-events-notifications/)
 - [ROSA now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/rosa-europe-spain-region/)
 - [AWS Backup announces support for Amazon Aurora continuous backup](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/)
 - [Amazon SES email receiving service expands to 7 new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ses-email-service-7-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Connect launches APIs to programmatically configure views in step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-apis-programmatically-configure-views-guides/)
 - [AWS Step Functions launches enhanced error handling](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-enhanced-error-handling/)
 - [Amazon RDS for MariaDB supports minors 10.11.5, 10.6.15, 10.5.22, 10.4.31](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-mariadb-supports-new-minors/)
-- [Amazon SageMaker now provides a new quick Studio setup experience](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-quick-studio-setup-experience/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

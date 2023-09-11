@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB is now available in the Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-asia-pacific-hyderabad-region/)
 - [Amazon RDS now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-m6id-r6id-database-instances/)
 - [Amazon Connect launches Contact Data Updated event](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-data-updated-event/)
 - [Amazon RDS for PostgreSQL Multi-AZ Deployment with two readable standbys now supports major version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-multi-az-deployment-readable-standbys-major-version-upgrades/)
@@ -67,7 +68,6 @@
 - [Amazon SES email receiving service expands to 7 new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ses-email-service-7-regions/)
 - [AWS NAT Gateway is now available in the AWS Los Angeles Local Zone us-west-2-lax-1a](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-nat-gateway-available-los-angeles-local-zone/)
 - [Amazon Route 53 now supports AWS-managed prefix lists for health checks](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-route-53-managed-prefix-lists-health-checks/)
-- [IAM roles last used and last accessed information available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-last-used-accessed-information-aws-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

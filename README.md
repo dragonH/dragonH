@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL Multi-AZ Deployment with two readable standbys now supports major version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-multi-az-deployment-readable-standbys-major-version-upgrades/)
 - [Get programmatic notifications for AWS Marketplace Offer Published events](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-published-events-notifications/)
 - [ROSA now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/rosa-europe-spain-region/)
 - [AWS Backup announces support for Amazon Aurora continuous backup](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/)
@@ -67,7 +68,6 @@
 - [IAM roles last used and last accessed information available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-last-used-accessed-information-aws-govcloud-regions/)
 - [Amazon Connect launches APIs to programmatically configure views in step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-apis-programmatically-configure-views-guides/)
 - [AWS Step Functions launches enhanced error handling](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-enhanced-error-handling/)
-- [Amazon RDS for MariaDB supports minors 10.11.5, 10.6.15, 10.5.22, 10.4.31](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-mariadb-supports-new-minors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

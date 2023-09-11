@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Cases now includes author name on comments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-author-name-comments/)
+- [Amazon Connect Cases now supports attachments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-attachments/)
+- [AWS Elemental Link UHD simplifies live video contribution with MediaConnect](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-link-uhd-live-video-contribution-mediaconnect/)
 - [Amazon DocumentDB is now available in the Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-asia-pacific-hyderabad-region/)
 - [Amazon RDS now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-m6id-r6id-database-instances/)
 - [Amazon Connect launches Contact Data Updated event](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-data-updated-event/)
@@ -65,9 +68,6 @@
 - [Get programmatic notifications for AWS Marketplace Offer Published events](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-published-events-notifications/)
 - [ROSA now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/rosa-europe-spain-region/)
 - [AWS Backup announces support for Amazon Aurora continuous backup](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/)
-- [Amazon SES email receiving service expands to 7 new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ses-email-service-7-regions/)
-- [AWS NAT Gateway is now available in the AWS Los Angeles Local Zone us-west-2-lax-1a](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-nat-gateway-available-los-angeles-local-zone/)
-- [Amazon Route 53 now supports AWS-managed prefix lists for health checks](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-route-53-managed-prefix-lists-health-checks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center session duration limit increases from 7 to 90 days](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-session-duration-limit-increases/)
+- [Announcing compute optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/compute-optimized-amazon-ec2-r7a-instances/)
 - [Amazon Connect Cases now includes author name on comments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-author-name-comments/)
 - [Amazon Connect Cases now supports attachments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-attachments/)
 - [AWS Elemental Link UHD simplifies live video contribution with MediaConnect](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-link-uhd-live-video-contribution-mediaconnect/)
@@ -66,8 +68,6 @@
 - [Amazon Connect launches Contact Data Updated event](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-data-updated-event/)
 - [Amazon RDS for PostgreSQL Multi-AZ Deployment with two readable standbys now supports major version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-multi-az-deployment-readable-standbys-major-version-upgrades/)
 - [Get programmatic notifications for AWS Marketplace Offer Published events](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-published-events-notifications/)
-- [ROSA now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/rosa-europe-spain-region/)
-- [AWS Backup announces support for Amazon Aurora continuous backup](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-aurora-continuous-backup/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

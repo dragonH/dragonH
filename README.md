@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing memory optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/)
 - [Custom notifications are now available for AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/09/custom-notifications-aws-chatbot/)
 - [Amazon Redshift announces cross-region data sharing support through AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-cross-region-data-sharing-support-aws-lake-formation/)
 - [Cost Anomaly Detection increases custom anomaly monitor limit to 500](https://aws.amazon.com/about-aws/whats-new/2023/09/cost-anomaly-detection-custom-monitor-limit-500/)
 - [AWS IAM Identity Center session duration limit increases from 7 to 90 days](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-session-duration-limit-increases/)
-- [Announcing compute optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/compute-optimized-amazon-ec2-r7a-instances/)
 - [Amazon Connect Cases now includes author name on comments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-author-name-comments/)
 - [Amazon Connect Cases now supports attachments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-attachments/)
 - [AWS Elemental Link UHD simplifies live video contribution with MediaConnect](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-link-uhd-live-video-contribution-mediaconnect/)

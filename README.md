@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces cross-region data sharing support through AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-cross-region-data-sharing-support-aws-lake-formation/)
+- [Cost Anomaly Detection increases custom anomaly monitor limit to 500](https://aws.amazon.com/about-aws/whats-new/2023/09/cost-anomaly-detection-custom-monitor-limit-500/)
 - [AWS IAM Identity Center session duration limit increases from 7 to 90 days](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-session-duration-limit-increases/)
 - [Announcing compute optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/compute-optimized-amazon-ec2-r7a-instances/)
 - [Amazon Connect Cases now includes author name on comments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-author-name-comments/)
@@ -66,8 +68,6 @@
 - [Amazon DocumentDB is now available in the Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-asia-pacific-hyderabad-region/)
 - [Amazon RDS now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-m6id-r6id-database-instances/)
 - [Amazon Connect launches Contact Data Updated event](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-data-updated-event/)
-- [Amazon RDS for PostgreSQL Multi-AZ Deployment with two readable standbys now supports major version upgrades](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-postgresql-multi-az-deployment-readable-standbys-major-version-upgrades/)
-- [Get programmatic notifications for AWS Marketplace Offer Published events](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-published-events-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

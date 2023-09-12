@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Custom notifications are now available for AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/09/custom-notifications-aws-chatbot/)
 - [Amazon Redshift announces cross-region data sharing support through AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-cross-region-data-sharing-support-aws-lake-formation/)
 - [Cost Anomaly Detection increases custom anomaly monitor limit to 500](https://aws.amazon.com/about-aws/whats-new/2023/09/cost-anomaly-detection-custom-monitor-limit-500/)
 - [AWS IAM Identity Center session duration limit increases from 7 to 90 days](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-session-duration-limit-increases/)
@@ -67,7 +68,6 @@
 - [AWS Elemental Link UHD simplifies live video contribution with MediaConnect](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-link-uhd-live-video-contribution-mediaconnect/)
 - [Amazon DocumentDB is now available in the Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-asia-pacific-hyderabad-region/)
 - [Amazon RDS now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-m6id-r6id-database-instances/)
-- [Amazon Connect launches Contact Data Updated event](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-data-updated-event/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

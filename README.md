@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace introduces new self-service listing feature for SaaS products](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-self-service-listing-saas/)
 - [Amazon Connect outbound campaigns is now generally available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-europe-frankfurt-region/)
 - [Amazon EC2 now supports Block Public Access for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-block-public-access-machine-images/)
 - [Amazon OpenSearch Serverless extends auto-scaling to handle high query rates](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-serverless-auto-scaling-query-rates/)
@@ -67,7 +68,6 @@
 - [AWS AppSync WebSockets-based subscriptions for real-time updates support nested filtering](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-appsync-websockets-subscriptions-nested-filtering/)
 - [Announcing post-launch actions framework for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/09/post-launch-actions-framework-aws-elastic-disaster-recovery/)
 - [Announcing memory optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/)
-- [Custom notifications are now available for AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/09/custom-notifications-aws-chatbot/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

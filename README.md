@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Knowledge base for Amazon Bedrock connects foundation models to your data sources](https://aws.amazon.com/about-aws/whats-new/2023/09/knowledge-base-amazon-bedrock-models-data-sources/)
+- [AWS Elastic Disaster Recovery is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elastic-disaster-recovery-israel-tel-aviv/)
+- [AWS AppSync WebSockets-based subscriptions for real-time updates support nested filtering](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-appsync-websockets-subscriptions-nested-filtering/)
+- [Announcing post-launch actions framework for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/09/post-launch-actions-framework-aws-elastic-disaster-recovery/)
 - [Announcing memory optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/)
 - [Custom notifications are now available for AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/09/custom-notifications-aws-chatbot/)
 - [Amazon Redshift announces cross-region data sharing support through AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-cross-region-data-sharing-support-aws-lake-formation/)
 - [Cost Anomaly Detection increases custom anomaly monitor limit to 500](https://aws.amazon.com/about-aws/whats-new/2023/09/cost-anomaly-detection-custom-monitor-limit-500/)
 - [AWS IAM Identity Center session duration limit increases from 7 to 90 days](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-session-duration-limit-increases/)
 - [Amazon Connect Cases now includes author name on comments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-author-name-comments/)
-- [Amazon Connect Cases now supports attachments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-attachments/)
-- [AWS Elemental Link UHD simplifies live video contribution with MediaConnect](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elemental-link-uhd-live-video-contribution-mediaconnect/)
-- [Amazon DocumentDB is now available in the Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-asia-pacific-hyderabad-region/)
-- [Amazon RDS now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-m6id-r6id-database-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

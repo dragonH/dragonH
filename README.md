@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect outbound campaigns is now generally available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-europe-frankfurt-region/)
+- [Amazon EC2 now supports Block Public Access for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-block-public-access-machine-images/)
+- [Amazon OpenSearch Serverless extends auto-scaling to handle high query rates](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-serverless-auto-scaling-query-rates/)
+- [Amazon EMR on EKS now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-linux-2023/)
 - [Knowledge base for Amazon Bedrock connects foundation models to your data sources](https://aws.amazon.com/about-aws/whats-new/2023/09/knowledge-base-amazon-bedrock-models-data-sources/)
 - [AWS Elastic Disaster Recovery is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elastic-disaster-recovery-israel-tel-aviv/)
 - [AWS AppSync WebSockets-based subscriptions for real-time updates support nested filtering](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-appsync-websockets-subscriptions-nested-filtering/)
 - [Announcing post-launch actions framework for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/09/post-launch-actions-framework-aws-elastic-disaster-recovery/)
 - [Announcing memory optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/)
 - [Custom notifications are now available for AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/09/custom-notifications-aws-chatbot/)
-- [Amazon Redshift announces cross-region data sharing support through AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-cross-region-data-sharing-support-aws-lake-formation/)
-- [Cost Anomaly Detection increases custom anomaly monitor limit to 500](https://aws.amazon.com/about-aws/whats-new/2023/09/cost-anomaly-detection-custom-monitor-limit-500/)
-- [AWS IAM Identity Center session duration limit increases from 7 to 90 days](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-session-duration-limit-increases/)
-- [Amazon Connect Cases now includes author name on comments](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cases-author-name-comments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

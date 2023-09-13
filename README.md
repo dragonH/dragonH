@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing API Gateway console refresh](https://aws.amazon.com/about-aws/whats-new/2023/09/api-gateway-console-refresh/)
 - [AWS Marketplace introduces new self-service listing feature for SaaS products](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-self-service-listing-saas/)
 - [Amazon Connect outbound campaigns is now generally available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-europe-frankfurt-region/)
 - [Amazon EC2 now supports Block Public Access for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-block-public-access-machine-images/)
@@ -67,7 +68,6 @@
 - [AWS Elastic Disaster Recovery is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-elastic-disaster-recovery-israel-tel-aviv/)
 - [AWS AppSync WebSockets-based subscriptions for real-time updates support nested filtering](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-appsync-websockets-subscriptions-nested-filtering/)
 - [Announcing post-launch actions framework for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/09/post-launch-actions-framework-aws-elastic-disaster-recovery/)
-- [Announcing memory optimized Amazon EC2 R7a instances](https://aws.amazon.com/about-aws/whats-new/2023/09/memory-optimized-amazon-ec2-r7a-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

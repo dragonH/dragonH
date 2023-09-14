@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amplify Studio now offers full support of GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/09/amplify-studio-full-support-graphql-apis/)
 - [Amazon EC2 X2idn and X2iedn instances now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-x2idn-x2iedn-instances-africa-cape-town-region/)
 - [AWS Identity and Access Management provides action last accessed information for more than 140 services](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-identity-access-management-action-last-accessed-information/)
 - [Introducing Amazon EC2 C7i instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower is now available in Hyderabad, Spain, UAE, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-control-tower-new-regions/)
 - [AWS Glue Streaming now supports Kinesis Data Streams enhanced fan-out feature](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-streaming-data-streams-fan-out-feature/)
 - [Amazon QuickSight launches pixel based font size and text highlighting for textbox visual](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-pixel-based-font-size-text-highlighting/)
-- [Amazon EC2 Is4gen Instances are now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-is4gen-instances-asia-pacific-mumbai-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

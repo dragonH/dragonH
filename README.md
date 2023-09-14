@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS managed IAM policies for ROSA with hosted control planes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-managed-iam-policies-rosa-control-planes/)
+- [Amazon SNS FIFO topics now support message delivery to Amazon SQS Standard queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-fifo-topics-message-delivery-sqs-standard-queues/)
 - [Amplify Studio now offers full support of GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/09/amplify-studio-full-support-graphql-apis/)
 - [Amazon EC2 X2idn and X2iedn instances now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-x2idn-x2iedn-instances-africa-cape-town-region/)
 - [AWS Identity and Access Management provides action last accessed information for more than 140 services](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-identity-access-management-action-last-accessed-information/)
@@ -66,8 +68,6 @@
 - [AWS Supply Chain adds new override retention capability](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-override-retention-capability/)
 - [AWS Supply Chain Demand Planning extends availability into Sydney region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-demand-planning-extends-availability-sydney-region/)
 - [AWS Control Tower is now available in Hyderabad, Spain, UAE, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-control-tower-new-regions/)
-- [AWS Glue Streaming now supports Kinesis Data Streams enhanced fan-out feature](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-streaming-data-streams-fan-out-feature/)
-- [Amazon QuickSight launches pixel based font size and text highlighting for textbox visual](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-pixel-based-font-size-text-highlighting/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

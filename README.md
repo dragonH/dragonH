@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 C7i instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/)
+- [Amazon EC2 I4i instances are now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-i4i-instances-europe-zurich-region/)
 - [AWS Supply Chain adds new override retention capability](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-override-retention-capability/)
 - [AWS Supply Chain Demand Planning extends availability into Sydney region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-demand-planning-extends-availability-sydney-region/)
 - [AWS Control Tower is now available in Hyderabad, Spain, UAE, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-control-tower-new-regions/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 Is4gen Instances are now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-is4gen-instances-asia-pacific-mumbai-region/)
 - [Amazon GuardDuty introduces cluster configurability in EKS Runtime Monitoring](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-guardduty-cluster-configurability-eks-monitoring/)
 - [Announcing API Gateway console refresh](https://aws.amazon.com/about-aws/whats-new/2023/09/api-gateway-console-refresh/)
-- [AWS Marketplace introduces new self-service listing feature for SaaS products](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-marketplace-self-service-listing-saas/)
-- [Amazon Connect outbound campaigns is now generally available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-outbound-campaigns-europe-frankfurt-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

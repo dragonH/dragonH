@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CodeCatalyst now supports IP address access restrictions in GitHub Enterprise Cloud](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-codecatalyst-ip-address-access-restrictions-github-enterprise-cloud/)
+- [Amazon EMR on EKS now supports managed Apache Flink &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-managed-apache-flink-public-preview/)
 - [Announcing AWS managed IAM policies for ROSA with hosted control planes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-managed-iam-policies-rosa-control-planes/)
 - [Amazon SNS FIFO topics now support message delivery to Amazon SQS Standard queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-fifo-topics-message-delivery-sqs-standard-queues/)
 - [Amplify Studio now offers full support of GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/09/amplify-studio-full-support-graphql-apis/)
@@ -66,8 +68,6 @@
 - [Introducing Amazon EC2 C7i instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/)
 - [Amazon EC2 I4i instances are now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-i4i-instances-europe-zurich-region/)
 - [AWS Supply Chain adds new override retention capability](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-override-retention-capability/)
-- [AWS Supply Chain Demand Planning extends availability into Sydney region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-demand-planning-extends-availability-sydney-region/)
-- [AWS Control Tower is now available in Hyderabad, Spain, UAE, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-control-tower-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

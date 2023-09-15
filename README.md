@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud Map now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-cloudmap-supports-privatelink/)
 - [Amazon CodeCatalyst now supports IP address access restrictions in GitHub Enterprise Cloud](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-codecatalyst-ip-address-access-restrictions-github-enterprise-cloud/)
 - [Amazon EMR on EKS now supports managed Apache Flink &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-managed-apache-flink-public-preview/)
 - [Announcing AWS managed IAM policies for ROSA with hosted control planes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-managed-iam-policies-rosa-control-planes/)
@@ -67,7 +68,6 @@
 - [AWS Identity and Access Management provides action last accessed information for more than 140 services](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-identity-access-management-action-last-accessed-information/)
 - [Introducing Amazon EC2 C7i instances](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7i-instances/)
 - [Amazon EC2 I4i instances are now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-i4i-instances-europe-zurich-region/)
-- [AWS Supply Chain adds new override retention capability](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-supply-chain-override-retention-capability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

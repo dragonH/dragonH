@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS Multi-Attach on io2 volumes now supports NVMe reservations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ebs-multi-attach-io2-volumes-nvme-reservations/)
 - [Amazon CloudWatch Synthetics announces new Synthetics Python runtime version 2.0](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-synthetics-synthetics-python-runtime-version-2-0/)
 - [Amazon RDS Performance Insights supports SQL-level metrics for Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-performance-insights-sql-metrics-rds-server/)
 - [PostgreSQL 16.0 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/09/postgresql-16-rds-database-preview-environment/)
@@ -67,7 +68,6 @@
 - [Amazon EMR on EKS now supports managed Apache Flink &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-managed-apache-flink-public-preview/)
 - [Announcing AWS managed IAM policies for ROSA with hosted control planes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-managed-iam-policies-rosa-control-planes/)
 - [Amazon SNS FIFO topics now support message delivery to Amazon SQS Standard queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-fifo-topics-message-delivery-sqs-standard-queues/)
-- [Amplify Studio now offers full support of GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2023/09/amplify-studio-full-support-graphql-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

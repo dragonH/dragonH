@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS Telecom Services Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-telecom-services-competency-partners/)
+- [AWS IAM Identity Center is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-europe-zurich-region/)
+- [Bottlerocket announces new ECS-optimized AMI](https://aws.amazon.com/about-aws/whats-new/2023/09/bottlerocket-new-ecs-optimized-ami/)
 - [Amazon EBS Multi-Attach on io2 volumes now supports NVMe reservations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ebs-multi-attach-io2-volumes-nvme-reservations/)
 - [Amazon CloudWatch Synthetics announces new Synthetics Python runtime version 2.0](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-synthetics-synthetics-python-runtime-version-2-0/)
 - [Amazon RDS Performance Insights supports SQL-level metrics for Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-performance-insights-sql-metrics-rds-server/)
@@ -65,9 +68,6 @@
 - [CodePipeline support for GitLab Groups](https://aws.amazon.com/about-aws/whats-new/2023/09/codepipeline-gitlab-groups/)
 - [AWS Cloud Map now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-cloudmap-supports-privatelink/)
 - [Amazon CodeCatalyst now supports IP address access restrictions in GitHub Enterprise Cloud](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-codecatalyst-ip-address-access-restrictions-github-enterprise-cloud/)
-- [Amazon EMR on EKS now supports managed Apache Flink &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-eks-managed-apache-flink-public-preview/)
-- [Announcing AWS managed IAM policies for ROSA with hosted control planes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-managed-iam-policies-rosa-control-planes/)
-- [Amazon SNS FIFO topics now support message delivery to Amazon SQS Standard queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-fifo-topics-message-delivery-sqs-standard-queues/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

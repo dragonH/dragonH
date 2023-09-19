@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of Amazon EC2 M2 Pro Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-m2-pro-mac-instances-macos/)
+- [Amazon QuickSight adds new layout and sparkline to KPI visual](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-layout-sparkline-kpi-visual/)
 - [Amazon RDS now supports X2iedn instances for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-x2iedn-instances-sql-server/)
 - [Announcing model retraining for Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-lookout-equipment-model-retraining/)
 - [AWS Step Functions distributed map is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-distributed-map-govcloud-regions/)
@@ -66,8 +68,6 @@
 - [Bottlerocket announces new ECS-optimized AMI](https://aws.amazon.com/about-aws/whats-new/2023/09/bottlerocket-new-ecs-optimized-ami/)
 - [Amazon EBS Multi-Attach on io2 volumes now supports NVMe reservations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ebs-multi-attach-io2-volumes-nvme-reservations/)
 - [Amazon CloudWatch Synthetics announces new Synthetics Python runtime version 2.0](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-synthetics-synthetics-python-runtime-version-2-0/)
-- [Amazon RDS Performance Insights supports SQL-level metrics for Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-performance-insights-sql-metrics-rds-server/)
-- [PostgreSQL 16.0 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/09/postgresql-16-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

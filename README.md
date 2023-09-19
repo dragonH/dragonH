@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports X2iedn instances for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-x2iedn-instances-sql-server/)
 - [Announcing model retraining for Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-lookout-equipment-model-retraining/)
 - [AWS Step Functions distributed map is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-step-functions-distributed-map-govcloud-regions/)
 - [Introducing AWS Telecom Services Competency Partners](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-telecom-services-competency-partners/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Synthetics announces new Synthetics Python runtime version 2.0](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-synthetics-synthetics-python-runtime-version-2-0/)
 - [Amazon RDS Performance Insights supports SQL-level metrics for Amazon RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-performance-insights-sql-metrics-rds-server/)
 - [PostgreSQL 16.0 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/09/postgresql-16-rds-database-preview-environment/)
-- [CodePipeline support for GitLab Groups](https://aws.amazon.com/about-aws/whats-new/2023/09/codepipeline-gitlab-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

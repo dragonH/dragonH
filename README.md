@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Roles Anywhere credential helper now supports PKCS #11 modules](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-credential-helper-pkcs-11-modules/)
 - [Amazon Location Services announces a price reduction of up to 75% for tracking and geofencing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-services-price-reduction-tracking-geofencing/)
 - [AWS Cloud Map introduces new API for retrieving service revision](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-cloud-map-api-service-revision/)
 - [AWS Glue Interactive Sessions releases new kernel and support IAM Conditionals](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-interactive-sessions-kernel-support-iam-conditionals/)
@@ -67,7 +68,6 @@
 - [Usability improvements and navigation bar enhancements for the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-management-console-usability-navigation-bar/)
 - [Announcing general availability of Amazon EC2 M2 Pro Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-m2-pro-mac-instances-macos/)
 - [Amazon QuickSight adds new layout and sparkline to KPI visual](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-layout-sparkline-kpi-visual/)
-- [Amazon RDS now supports X2iedn instances for SQL Server](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-x2iedn-instances-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

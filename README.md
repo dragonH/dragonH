@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Corretto 21 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-corretto-21-generally-available/)
 - [Simulate interruptions in your Spot Fleet directly from the Amazon EC2 Console](https://aws.amazon.com/about-aws/whats-new/2023/09/simulate-interruptions-spot-fleet-amazon-ec2-console/)
 - [Announcing Swift Package Manager support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/09/swift-package-manager-aws-code-artifact/)
 - [IAM Roles Anywhere credential helper now supports PKCS #11 modules](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-credential-helper-pkcs-11-modules/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for Oracle supports M6i, R6i, and R5b instances in new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-oracle-m6i-r6i-r5b-instances-new-regions/)
 - [AWS Glue Data Quality can now identify records that failed the CustomSQL rule type](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-data-quality-identify-records-failed-customsql-rule-type/)
 - [Amazon CloudWatch adds new Metric Math for RDS Performance Insights](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-metric-math-rds-insights/)
-- [Usability improvements and navigation bar enhancements for the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-management-console-usability-navigation-bar/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

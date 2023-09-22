@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Roles Anywhere is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-govcloud-regions/)
 - [Amazon Connect launches CloudFormation support for security profiles](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cloudformation-security-profiles/)
 - [AWS HealthImaging supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthimaging-cloudformation/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-in-place-version-upgrade/)
@@ -67,7 +68,6 @@
 - [Simulate interruptions in your Spot Fleet directly from the Amazon EC2 Console](https://aws.amazon.com/about-aws/whats-new/2023/09/simulate-interruptions-spot-fleet-amazon-ec2-console/)
 - [Announcing Swift Package Manager support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/09/swift-package-manager-aws-code-artifact/)
 - [IAM Roles Anywhere credential helper now supports PKCS #11 modules](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-credential-helper-pkcs-11-modules/)
-- [Amazon Location Services announces a price reduction of up to 75% for tracking and geofencing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-services-price-reduction-tracking-geofencing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

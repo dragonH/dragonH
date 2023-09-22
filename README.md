@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-in-place-version-upgrade/)
+- [Amazon SNS message data protection can now de-identify outbound messages via redaction or masking](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-message-data-protection-de-identify-outbound-messages/)
+- [AWS App Runner launches improvements for Auto-Scaling configuration management](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-auto-scaling-management/)
 - [Amazon Corretto 21 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-corretto-21-generally-available/)
 - [Simulate interruptions in your Spot Fleet directly from the Amazon EC2 Console](https://aws.amazon.com/about-aws/whats-new/2023/09/simulate-interruptions-spot-fleet-amazon-ec2-console/)
 - [Announcing Swift Package Manager support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/09/swift-package-manager-aws-code-artifact/)
@@ -65,9 +68,6 @@
 - [Amazon Location Services announces a price reduction of up to 75% for tracking and geofencing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-services-price-reduction-tracking-geofencing/)
 - [AWS Cloud Map introduces new API for retrieving service revision](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-cloud-map-api-service-revision/)
 - [AWS Glue Interactive Sessions releases new kernel and support IAM Conditionals](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-interactive-sessions-kernel-support-iam-conditionals/)
-- [Amazon RDS for Oracle supports M6i, R6i, and R5b instances in new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-oracle-m6i-r6i-r5b-instances-new-regions/)
-- [AWS Glue Data Quality can now identify records that failed the CustomSQL rule type](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-data-quality-identify-records-failed-customsql-rule-type/)
-- [Amazon CloudWatch adds new Metric Math for RDS Performance Insights](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudwatch-metric-math-rds-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

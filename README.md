@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthImaging supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthimaging-cloudformation/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-in-place-version-upgrade/)
 - [Amazon SNS message data protection can now de-identify outbound messages via redaction or masking](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-message-data-protection-de-identify-outbound-messages/)
 - [AWS App Runner launches improvements for Auto-Scaling configuration management](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-auto-scaling-management/)
@@ -67,7 +68,6 @@
 - [IAM Roles Anywhere credential helper now supports PKCS #11 modules](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-credential-helper-pkcs-11-modules/)
 - [Amazon Location Services announces a price reduction of up to 75% for tracking and geofencing](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-location-services-price-reduction-tracking-geofencing/)
 - [AWS Cloud Map introduces new API for retrieving service revision](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-cloud-map-api-service-revision/)
-- [AWS Glue Interactive Sessions releases new kernel and support IAM Conditionals](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-interactive-sessions-kernel-support-iam-conditionals/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

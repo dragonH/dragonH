@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [You can now generate human-readable sample data with NoSQL Workbench](https://aws.amazon.com/about-aws/whats-new/2023/09/human-readable-sample-data-nosql-workbench/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports JSON schema validation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-json-schema-validation/)
+- [Amazon QuickSight now supports freeze/unfreeze columns in Tables](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-freeze-unfreeze-columns-tables/)
+- [AWS IAM Identity Center is now available in the Beijing and Ningxia Regions in China](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-beijing-ningxia-regions/)
+- [Amazon SageMaker Model Monitor now supports one-time monitoring jobs for quick troubleshooting](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-model-monitor-one-time-monitoring-jobs/)
+- [Amazon Connect Contact Lens now supports searching for in-progress contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-searching-in-progress-contacts/)
+- [Amazon EventBridge Pipes now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eventbridge-pipes-new-additional-regions/)
 - [IAM Roles Anywhere is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-govcloud-regions/)
 - [Amazon Connect launches CloudFormation support for security profiles](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cloudformation-security-profiles/)
 - [AWS HealthImaging supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthimaging-cloudformation/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-in-place-version-upgrade/)
-- [Amazon SNS message data protection can now de-identify outbound messages via redaction or masking](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-message-data-protection-de-identify-outbound-messages/)
-- [AWS App Runner launches improvements for Auto-Scaling configuration management](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-auto-scaling-management/)
-- [Amazon Corretto 21 is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-corretto-21-generally-available/)
-- [Simulate interruptions in your Spot Fleet directly from the Amazon EC2 Console](https://aws.amazon.com/about-aws/whats-new/2023/09/simulate-interruptions-spot-fleet-amazon-ec2-console/)
-- [Announcing Swift Package Manager support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/09/swift-package-manager-aws-code-artifact/)
-- [IAM Roles Anywhere credential helper now supports PKCS #11 modules](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-credential-helper-pkcs-11-modules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

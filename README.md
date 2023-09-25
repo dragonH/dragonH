@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-hong-kong/)
+- [Amazon Connect Contact Lens now enables supervisors to manage in-progress contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-supervisors-in-progress-contacts/)
 - [You can now generate human-readable sample data with NoSQL Workbench](https://aws.amazon.com/about-aws/whats-new/2023/09/human-readable-sample-data-nosql-workbench/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports JSON schema validation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-json-schema-validation/)
 - [Amazon QuickSight now supports freeze/unfreeze columns in Tables](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-freeze-unfreeze-columns-tables/)
@@ -66,8 +68,6 @@
 - [Amazon Connect Contact Lens now supports searching for in-progress contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-searching-in-progress-contacts/)
 - [Amazon EventBridge Pipes now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eventbridge-pipes-new-additional-regions/)
 - [IAM Roles Anywhere is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-govcloud-regions/)
-- [Amazon Connect launches CloudFormation support for security profiles](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-cloudformation-security-profiles/)
-- [AWS HealthImaging supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthimaging-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

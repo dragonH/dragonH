@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Serial Console now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-serial-console-additional-regions/)
+- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-graviton2-based-amazon-ec2-C6gd-instance-europe-zurich-region/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-hong-kong/)
 - [Amazon Connect Contact Lens now enables supervisors to manage in-progress contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-supervisors-in-progress-contacts/)
 - [You can now generate human-readable sample data with NoSQL Workbench](https://aws.amazon.com/about-aws/whats-new/2023/09/human-readable-sample-data-nosql-workbench/)
@@ -66,8 +68,6 @@
 - [AWS IAM Identity Center is now available in the Beijing and Ningxia Regions in China](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-beijing-ningxia-regions/)
 - [Amazon SageMaker Model Monitor now supports one-time monitoring jobs for quick troubleshooting](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-model-monitor-one-time-monitoring-jobs/)
 - [Amazon Connect Contact Lens now supports searching for in-progress contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-searching-in-progress-contacts/)
-- [Amazon EventBridge Pipes now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eventbridge-pipes-new-additional-regions/)
-- [IAM Roles Anywhere is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/iam-roles-anywhere-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

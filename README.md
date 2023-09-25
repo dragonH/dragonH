@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7g and M7g Instances are now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7g-m7g-instances-europe-stockholm-region/)
+- [Amazon Redshift announces role-based access control support in workload management &lpar;WLM&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-role-based-access-control-wlm/)
 - [Amazon EC2 Serial Console now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-serial-console-additional-regions/)
 - [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-graviton2-based-amazon-ec2-C6gd-instance-europe-zurich-region/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-hong-kong/)
@@ -66,8 +68,6 @@
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports JSON schema validation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-json-schema-validation/)
 - [Amazon QuickSight now supports freeze/unfreeze columns in Tables](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-freeze-unfreeze-columns-tables/)
 - [AWS IAM Identity Center is now available in the Beijing and Ningxia Regions in China](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-beijing-ningxia-regions/)
-- [Amazon SageMaker Model Monitor now supports one-time monitoring jobs for quick troubleshooting](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-model-monitor-one-time-monitoring-jobs/)
-- [Amazon Connect Contact Lens now supports searching for in-progress contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-searching-in-progress-contacts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

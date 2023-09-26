@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.28](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eks-distro-kubernetes-version-1-28/)
+- [AWS Verified Access supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-verified-access-fips-140-2-compliant-endpoints-us-canada/)
 - [AWS Application Composer now supports all 1000+ AWS CloudFormation resources](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-composer-1000-cloudformation-resources/)
 - [Amazon EC2 Hpc7g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-hpc7g-instances-additional-regions/)
 - [AWS Glue Studio now supports custom icons](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-glue-studios-custom-icons/)
@@ -66,8 +68,6 @@
 - [Amazon EMR Serverless introduces application-wide default job configurations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-serverless-application-wide-default-job-configurations/)
 - [Amazon MSK adds support for Apache Kafka version 3.5.1](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-apache-kafka-version-3-5-1/)
 - [AWS Global Accelerator now supports endpoints in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-global-accelerator-endpoints-four-regions/)
-- [Amazon Braket now provides real-time visibility into quantum task and hybrid job queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-braket-real-time-visibility-quantum-task-hybrid-job-queues/)
-- [Amazon Chime SDK meetings API endpoints are now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-meetings-api-endpoints-six-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

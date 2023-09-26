@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation launches Hybrid Access Mode for AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-lake-formation-hybrid-access-mode-glue-catalog/)
+- [AWS HealthOmics is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthomic-israel-tel-aviv-region/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.28](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eks-distro-kubernetes-version-1-28/)
 - [AWS Verified Access supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-verified-access-fips-140-2-compliant-endpoints-us-canada/)
 - [AWS Application Composer now supports all 1000+ AWS CloudFormation resources](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-composer-1000-cloudformation-resources/)
@@ -66,8 +68,6 @@
 - [Announcing incremental export to S3 for Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2023/09/incremental-export-s3-amazon-dynamodb/)
 - [Amazon Connect Contact Lens launches permission for agents to view their own contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-agents-view-contacts/)
 - [Amazon EMR Serverless introduces application-wide default job configurations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-serverless-application-wide-default-job-configurations/)
-- [Amazon MSK adds support for Apache Kafka version 3.5.1](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-apache-kafka-version-3-5-1/)
-- [AWS Global Accelerator now supports endpoints in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-global-accelerator-endpoints-four-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

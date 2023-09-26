@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator now supports endpoints in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-global-accelerator-endpoints-four-regions/)
+- [Amazon Braket now provides real-time visibility into quantum task and hybrid job queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-braket-real-time-visibility-quantum-task-hybrid-job-queues/)
+- [Amazon Chime SDK meetings API endpoints are now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-meetings-api-endpoints-six-regions/)
+- [Amazon QuickSight launches contextual row subtotals for pivot tables](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-contextual-row-subtotals-pivot-tables/)
+- [AWS Batch DescribeJobDefinitions API now supports server-side filtering](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-batch-describejobdefinitions-api-server-side-filtering/)
+- [QuickSight now supports tagging users for cost allocation](https://aws.amazon.com/about-aws/whats-new/2023/09/quicksight-tagging-users-cost-allocation/)
+- [Amazon Chime SDK now supports sending WebRTC audio to Amazon Kinesis Video Streams](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-webrtc-audio-kinesis-video-streams/)
 - [Amazon EC2 R7g and M7g Instances are now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7g-m7g-instances-europe-stockholm-region/)
 - [Amazon Redshift announces role-based access control support in workload management &lpar;WLM&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-role-based-access-control-wlm/)
 - [Amazon EC2 Serial Console now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-serial-console-additional-regions/)
-- [AWS Graviton2-based Amazon EC2 C6gd instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-graviton2-based-amazon-ec2-C6gd-instance-europe-zurich-region/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-hong-kong/)
-- [Amazon Connect Contact Lens now enables supervisors to manage in-progress contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-supervisors-in-progress-contacts/)
-- [You can now generate human-readable sample data with NoSQL Workbench](https://aws.amazon.com/about-aws/whats-new/2023/09/human-readable-sample-data-nosql-workbench/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports JSON schema validation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-documentdb-mongodb-json-schema-validation/)
-- [Amazon QuickSight now supports freeze/unfreeze columns in Tables](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-quicksight-freeze-unfreeze-columns-tables/)
-- [AWS IAM Identity Center is now available in the Beijing and Ningxia Regions in China](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iam-identity-center-beijing-ningxia-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

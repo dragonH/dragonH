@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless introduces application-wide default job configurations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-serverless-application-wide-default-job-configurations/)
+- [Amazon MSK adds support for Apache Kafka version 3.5.1](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-apache-kafka-version-3-5-1/)
 - [AWS Global Accelerator now supports endpoints in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-global-accelerator-endpoints-four-regions/)
 - [Amazon Braket now provides real-time visibility into quantum task and hybrid job queues](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-braket-real-time-visibility-quantum-task-hybrid-job-queues/)
 - [Amazon Chime SDK meetings API endpoints are now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-meetings-api-endpoints-six-regions/)
@@ -66,8 +68,6 @@
 - [QuickSight now supports tagging users for cost allocation](https://aws.amazon.com/about-aws/whats-new/2023/09/quicksight-tagging-users-cost-allocation/)
 - [Amazon Chime SDK now supports sending WebRTC audio to Amazon Kinesis Video Streams](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-webrtc-audio-kinesis-video-streams/)
 - [Amazon EC2 R7g and M7g Instances are now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7g-m7g-instances-europe-stockholm-region/)
-- [Amazon Redshift announces role-based access control support in workload management &lpar;WLM&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-redshift-role-based-access-control-wlm/)
-- [Amazon EC2 Serial Console now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-serial-console-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

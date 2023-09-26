@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens launches permission for agents to view their own contacts](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-connect-contact-lens-agents-view-contacts/)
 - [Amazon EMR Serverless introduces application-wide default job configurations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-emr-serverless-application-wide-default-job-configurations/)
 - [Amazon MSK adds support for Apache Kafka version 3.5.1](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-apache-kafka-version-3-5-1/)
 - [AWS Global Accelerator now supports endpoints in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-global-accelerator-endpoints-four-regions/)
@@ -67,7 +68,6 @@
 - [AWS Batch DescribeJobDefinitions API now supports server-side filtering](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-batch-describejobdefinitions-api-server-side-filtering/)
 - [QuickSight now supports tagging users for cost allocation](https://aws.amazon.com/about-aws/whats-new/2023/09/quicksight-tagging-users-cost-allocation/)
 - [Amazon Chime SDK now supports sending WebRTC audio to Amazon Kinesis Video Streams](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-webrtc-audio-kinesis-video-streams/)
-- [Amazon EC2 R7g and M7g Instances are now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-r7g-m7g-instances-europe-stockholm-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront announces security recommendations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudfront-security-recommendations/)
+- [Amazon MSK now supports fully managed data delivery to Amazon S3 using Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-data-s3-kinesis-data-firehose/)
+- [Amazon EC2 Instance Connect now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-instance-connect-additional-aws-regions/)
 - [AWS Telco Network Builder is now available in 5 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-telco-network-builder-5-new-aws-regions/)
 - [AWS Systems Manager OpsCenter identifies the most issue-prone resources](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-systems-manager-opscenter-issue-resources/)
 - [Amazon S3 now provides the Last-Modified time for delete markers using S3 Head and Get APIs](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-s3-last-modified-time-delete-markers-s3-head-get-apis/)
@@ -65,9 +68,6 @@
 - [Amazon RDS Custom for SQL Server now supports changing the server-level collation](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-custom-sql-server-changing-server-level-collation/)
 - [Amazon OpenSearch Service now provides improved visibility into Auto-Tune actions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-opensearch-service-improved-visibility-auto-tune-actions/)
 - [Analyze multi-account app health with CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/09/analyze-multi-account-app-health-cloudwatch-application-insights/)
-- [AWS Lake Formation launches Hybrid Access Mode for AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-lake-formation-hybrid-access-mode-glue-catalog/)
-- [AWS HealthOmics is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-healthomic-israel-tel-aviv-region/)
-- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.28](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-eks-distro-kubernetes-version-1-28/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

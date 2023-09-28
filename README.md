@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [DynamoDB global tables is now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/dynamodb-global-tables-all-aws-regions/)
+- [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7g-m7g-r7g-instances-aws-region-europe-spain/)
+- [AWS Compute Optimizer now supports 153 new EC2 instance types as well as multi-attached EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-new-ec2-instance-types-multi-attached-ebs-volumes/)
+- [AWS Partner Funding Portal now supports more funding initiatives](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-partner-funding-portal-funding-initiatives/)
 - [AWS Backup for Amazon FSx NetApp ONTAP, Windows File Server, Lustre in 7 more Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-fsx-netapp-ontap-windows-file-server-lustre-more-regions/)
 - [Amazon RDS adds Oracle SE2 License Included option for R6i, R5 and T3 in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-oracle-se2-license-r6i-r5-t3-regions/)
 - [Announcing AWS Amplify JavaScript v6 developer preview](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-amplify-javascript-v6-preview/)
 - [AWS IoT Core introduces support for headers in Rules Engine’s Kafka Action](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-headers-rules-engines-kafka-action/)
 - [AWS Application Migration Service now supports automated agent installation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-migration-service-automated-agent-installation/)
 - [Amazon SQS announces Attribute-Based Access Control &lpar;ABAC&rpar; for scalable access permissions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sqs-abac-scalable-access-permissions/)
-- [AWS App Runner adds support for Monorepos](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-monorepos/)
-- [AWS Migration Hub Orchestrator now supports Microsoft SQL Server transaction logs](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-migration-hub-orchestrator-microsoft-sql-logs/)
-- [Amazon Chime adds Waiting Room capability to further secure your meetings](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-waiting-room-secure-meetings/)
-- [AWS IoT Core’s Rules Engine announces capability to retrieve source IP of an IoT client](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-cores-rules-engine-source-ip-client/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

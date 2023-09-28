@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Chime SDK now provides improved audio playback across high-loss networks](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-audio-playback-high-loss-networks/)
 - [Amazon EC2 P5 instances are now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-p5-instances-us-east-ohio-region/)
 - [Announcing the Amazon GameLift Plugin for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-gamelift-plugin-unreal-engine/)
 - [Amazon SNS now supports AWS CloudTrail data event logging for the Publish and PublishBatch API actions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-aws-cloudtrail-data-event-logging-publish-publishbatch-api-actions/)
@@ -67,7 +68,6 @@
 - [AWS Compute Optimizer now supports 153 new EC2 instance types as well as multi-attached EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-new-ec2-instance-types-multi-attached-ebs-volumes/)
 - [AWS Partner Funding Portal now supports more funding initiatives](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-partner-funding-portal-funding-initiatives/)
 - [AWS Backup for Amazon FSx NetApp ONTAP, Windows File Server, Lustre in 7 more Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-fsx-netapp-ontap-windows-file-server-lustre-more-regions/)
-- [Amazon RDS adds Oracle SE2 License Included option for R6i, R5 and T3 in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-oracle-se2-license-r6i-r5-t3-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

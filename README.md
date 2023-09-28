@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Amplify JavaScript v6 developer preview](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-amplify-javascript-v6-preview/)
+- [AWS IoT Core introduces support for headers in Rules Engine’s Kafka Action](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-headers-rules-engines-kafka-action/)
+- [AWS Application Migration Service now supports automated agent installation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-migration-service-automated-agent-installation/)
+- [Amazon SQS announces Attribute-Based Access Control &lpar;ABAC&rpar; for scalable access permissions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sqs-abac-scalable-access-permissions/)
+- [AWS App Runner adds support for Monorepos](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-app-runner-monorepos/)
+- [AWS Migration Hub Orchestrator now supports Microsoft SQL Server transaction logs](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-migration-hub-orchestrator-microsoft-sql-logs/)
+- [Amazon Chime adds Waiting Room capability to further secure your meetings](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-waiting-room-secure-meetings/)
+- [AWS IoT Core’s Rules Engine announces capability to retrieve source IP of an IoT client](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-cores-rules-engine-source-ip-client/)
+- [Amazon Textract launches Layout feature to extract paragraphs, titles, and more from documents](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-textract-layout-feature-extract-paragraphs-titles-documents/)
 - [Generative BI dashboard authoring capabilities for Amazon QuickSight &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/generative-bi-dashboard-authoring-capabilities-amazon-quicksight-preview/)
-- [Amazon Titan Embeddings is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-titan-embeddings-generally-available/)
-- [Amazon Bedrock is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/)
-- [AWS Network Firewall is now available in the AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-network-firewall-aws-israel-tel-aviv-region/)
-- [AWS WAF now supports JA3 Fingerprint Match](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-waf-ja3-fingerprint-match/)
-- [Amazon CloudFront announces security recommendations](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-cloudfront-security-recommendations/)
-- [Amazon MSK now supports fully managed data delivery to Amazon S3 using Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-msk-data-s3-kinesis-data-firehose/)
-- [Amazon EC2 Instance Connect now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-instance-connect-additional-aws-regions/)
-- [AWS Telco Network Builder is now available in 5 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-telco-network-builder-5-new-aws-regions/)
-- [AWS Systems Manager OpsCenter identifies the most issue-prone resources](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-systems-manager-opscenter-issue-resources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

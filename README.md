@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P5 instances are now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-p5-instances-us-east-ohio-region/)
+- [Announcing the Amazon GameLift Plugin for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-gamelift-plugin-unreal-engine/)
+- [Amazon SNS now supports AWS CloudTrail data event logging for the Publish and PublishBatch API actions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-aws-cloudtrail-data-event-logging-publish-publishbatch-api-actions/)
+- [Amazon SageMaker Canvas now provides up to 50% faster forecasting](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-50-percent-faster-forecasting/)
 - [DynamoDB global tables is now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/dynamodb-global-tables-all-aws-regions/)
 - [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7g-m7g-r7g-instances-aws-region-europe-spain/)
 - [AWS Compute Optimizer now supports 153 new EC2 instance types as well as multi-attached EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-compute-optimizer-new-ec2-instance-types-multi-attached-ebs-volumes/)
 - [AWS Partner Funding Portal now supports more funding initiatives](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-partner-funding-portal-funding-initiatives/)
 - [AWS Backup for Amazon FSx NetApp ONTAP, Windows File Server, Lustre in 7 more Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-backup-amazon-fsx-netapp-ontap-windows-file-server-lustre-more-regions/)
 - [Amazon RDS adds Oracle SE2 License Included option for R6i, R5 and T3 in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-rds-oracle-se2-license-r6i-r5-t3-regions/)
-- [Announcing AWS Amplify JavaScript v6 developer preview](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-amplify-javascript-v6-preview/)
-- [AWS IoT Core introduces support for headers in Rules Engine’s Kafka Action](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-headers-rules-engines-kafka-action/)
-- [AWS Application Migration Service now supports automated agent installation](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-application-migration-service-automated-agent-installation/)
-- [Amazon SQS announces Attribute-Based Access Control &lpar;ABAC&rpar; for scalable access permissions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sqs-abac-scalable-access-permissions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

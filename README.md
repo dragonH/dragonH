@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fargate now supports Amazon ECS Windows containers in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-fargate-ecs-windows-containers-govcloud-regions/)
+- [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-discovering-sensitive-data/)
 - [Amazon Inspector is now available in additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-inspector-additional-regions/)
 - [VPC DNS Query Logging now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/vpc-dns-query-logging-israel-tel-aviv-region/)
 - [AWS IoT Core for LoRaWAN announces support for public LoRaWAN networks &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-lorawan-public-networks-ga/)
@@ -66,8 +68,6 @@
 - [Announcing the Amazon GameLift Plugin for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-gamelift-plugin-unreal-engine/)
 - [Amazon SNS now supports AWS CloudTrail data event logging for the Publish and PublishBatch API actions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-aws-cloudtrail-data-event-logging-publish-publishbatch-api-actions/)
 - [Amazon SageMaker Canvas now provides up to 50% faster forecasting](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sagemaker-canvas-50-percent-faster-forecasting/)
-- [DynamoDB global tables is now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/dynamodb-global-tables-all-aws-regions/)
-- [Amazon EC2 C7g, M7g and R7g instances are now available in AWS Region Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-c7g-m7g-r7g-instances-aws-region-europe-spain/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

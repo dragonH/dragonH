@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Hibernate now supports more operating systems](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-hibernate-supports-more-operating-systems/)
+- [AWS Glue Data Quality is now generally available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-data-quality-generally-available-aws-govcloud-us/)
 - [AWS CodeDeploy now supports multiple load balancers for Amazon EC2 applications](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codedeploy-multiple-load-balancers-amazon-ec2-applications/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.9](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-opensearch-version-2-9/)
 - [Application Load Balancer and Network Load Balancer now support registering instances addressed by IPv6 as targets](https://aws.amazon.com/about-aws/whats-new/2023/10/application-load-balancer-network-load-balancer-registering-instances-ipv6-targets/)
@@ -66,8 +68,6 @@
 - [AWS Systems Manager Fleet Manager RDP now supports up to 1080p Resolution](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-systems-manager-fleet-rdp-1080p-resolution/)
 - [AWS Fargate now supports Amazon ECS Windows containers in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-fargate-ecs-windows-containers-govcloud-regions/)
 - [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-discovering-sensitive-data/)
-- [Amazon Inspector is now available in additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-inspector-additional-regions/)
-- [VPC DNS Query Logging now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/vpc-dns-query-logging-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

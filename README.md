@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS Interactive Endpoints is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-eks-interactive-endpoints-generally-available/)
+- [Amazon IVS introduces in-console broadcasting for low-latency streaming](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ivs-in-console-broadcasting-low-latency-streaming/)
 - [Amazon EC2 Hibernate now supports more operating systems](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-hibernate-supports-more-operating-systems/)
 - [AWS Glue Data Quality is now generally available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-data-quality-generally-available-aws-govcloud-us/)
 - [AWS CodeDeploy now supports multiple load balancers for Amazon EC2 applications](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codedeploy-multiple-load-balancers-amazon-ec2-applications/)
@@ -66,8 +68,6 @@
 - [AWS Verified Access now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-verified-access-managed-kms-keys/)
 - [Amazon OpenSearch Service version 2.9 expands geospatial aggregations support](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-version-2-9-geospatial-aggregations-support/)
 - [AWS Systems Manager Fleet Manager RDP now supports up to 1080p Resolution](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-systems-manager-fleet-rdp-1080p-resolution/)
-- [AWS Fargate now supports Amazon ECS Windows containers in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-fargate-ecs-windows-containers-govcloud-regions/)
-- [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-discovering-sensitive-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

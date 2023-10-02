@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Verified Access now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-verified-access-managed-kms-keys/)
+- [Amazon OpenSearch Service version 2.9 expands geospatial aggregations support](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-version-2-9-geospatial-aggregations-support/)
 - [AWS Systems Manager Fleet Manager RDP now supports up to 1080p Resolution](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-systems-manager-fleet-rdp-1080p-resolution/)
 - [AWS Fargate now supports Amazon ECS Windows containers in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-fargate-ecs-windows-containers-govcloud-regions/)
 - [Amazon Macie adds support for discovering more types of sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-macie-discovering-sensitive-data/)
@@ -66,8 +68,6 @@
 - [AWS IoT Core for LoRaWAN announces support for public LoRaWAN networks &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/09/aws-iot-core-lorawan-public-networks-ga/)
 - [Amazon Chime SDK now provides improved audio playback across high-loss networks](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-chime-sdk-audio-playback-high-loss-networks/)
 - [Amazon EC2 P5 instances are now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-ec2-p5-instances-us-east-ohio-region/)
-- [Announcing the Amazon GameLift Plugin for Unreal Engine](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-gamelift-plugin-unreal-engine/)
-- [Amazon SNS now supports AWS CloudTrail data event logging for the Publish and PublishBatch API actions](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-sns-aws-cloudtrail-data-event-logging-publish-publishbatch-api-actions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Lambda test events are now available in AWS SAM CLI](https://aws.amazon.com/about-aws/whats-new/2023/10/lambda-test-events-aws-sam-cli/)
+- [New updates to the AWS Well-Architected Framework](https://aws.amazon.com/about-aws/whats-new/2023/10/updates-aws-well-architected-framework/)
+- [Reduce duplication using Well-Architected Templates](https://aws.amazon.com/about-aws/whats-new/2023/10/reduce-duplication-well-architected-templates/)
 - [Amazon EventBridge announces support for wildcard filters in rules](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eventbridge-wildcard-filters-rules/)
 - [Amazon Location Service adds bounding box search for device positions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-location-service-bounding-box-search-device-positions/)
 - [Amazon OpenSearch Service announced Amazon OpenSearch Service Integrations](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integrations/)
@@ -65,9 +68,6 @@
 - [AWS Supply Chain Demand Planning now supports Product Lineage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-supply-chain-demand-planning-product-lineage/)
 - [Amazon ECR Public introduces new navigation and search features to the ECR Public Gallery](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ecr-public-navigation-search-features-gallery/)
 - [Amazon EMR on EKS Interactive Endpoints is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-eks-interactive-endpoints-generally-available/)
-- [Amazon IVS introduces in-console broadcasting for low-latency streaming](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ivs-in-console-broadcasting-low-latency-streaming/)
-- [Amazon EC2 Hibernate now supports more operating systems](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-hibernate-supports-more-operating-systems/)
-- [AWS Glue Data Quality is now generally available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-data-quality-generally-available-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge announces support for wildcard filters in rules](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eventbridge-wildcard-filters-rules/)
+- [Amazon Location Service adds bounding box search for device positions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-location-service-bounding-box-search-device-positions/)
 - [Amazon OpenSearch Service announced Amazon OpenSearch Service Integrations](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integrations/)
 - [Amazon Connect Contact Lens now provides manager alerts on real-time metrics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-contact-lens-manager-alerts-real-time-metrics/)
 - [AWS Supply Chain Demand Planning now supports Product Lineage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-supply-chain-demand-planning-product-lineage/)
@@ -66,8 +68,6 @@
 - [Amazon IVS introduces in-console broadcasting for low-latency streaming](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ivs-in-console-broadcasting-low-latency-streaming/)
 - [Amazon EC2 Hibernate now supports more operating systems](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-hibernate-supports-more-operating-systems/)
 - [AWS Glue Data Quality is now generally available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-data-quality-generally-available-aws-govcloud-us/)
-- [AWS CodeDeploy now supports multiple load balancers for Amazon EC2 applications](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codedeploy-multiple-load-balancers-amazon-ec2-applications/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.9](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-opensearch-version-2-9/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

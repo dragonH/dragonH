@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline can use external source providers in Europe &lpar;Milan&rpar; and AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-providers-europe-milan-govcloud-us-east/)
+- [Amazon DataZone is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-datazone-generally-available/)
 - [AWS Global Accelerator adds a new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-global-accelerator-edge-location-nigeria/)
 - [Amazon OpenSearch Service now supports alerting and anomalies on dashboards](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-alerting-anomalies-dashboards/)
 - [Amazon SageMaker Model Registry announces support for private model repositories](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-model-registry-private-model-repositories/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Feature Store in-memory online store for low latency feature retrieval](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-feature-store-memory-store-latency-retrieval/)
 - [Amazon CloudWatch Metric Insights available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-insights-aws-govcloud-us-regions/)
 - [Amazon Kendra releases Drupal Connector to enable Drupal document search](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-drupal-connector-drupal-document-search/)
-- [Lambda test events are now available in AWS SAM CLI](https://aws.amazon.com/about-aws/whats-new/2023/10/lambda-test-events-aws-sam-cli/)
-- [New updates to the AWS Well-Architected Framework](https://aws.amazon.com/about-aws/whats-new/2023/10/updates-aws-well-architected-framework/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

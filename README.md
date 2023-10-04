@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon SQS binding extension support in CoreWCF](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-sqs-binding-extension-corewcf/)
+- [Announcing memory optimized Amazon EC2 R7a bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/10/memory-optimized-amazon-ec2-r7a-bare-metal-instances/)
+- [AWS Firewall Manager supports referencing of Security Groups](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-firewall-manager-referencing-security-groups/)
 - [AWS CodePipeline can use external source providers in Europe &lpar;Milan&rpar; and AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-providers-europe-milan-govcloud-us-east/)
 - [Amazon DataZone is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-datazone-generally-available/)
 - [AWS Global Accelerator adds a new edge location in Nigeria](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-global-accelerator-edge-location-nigeria/)
@@ -65,9 +68,6 @@
 - [Amazon SageMaker Model Registry announces support for private model repositories](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-model-registry-private-model-repositories/)
 - [AWS Mainframe Modernization is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-mainframe-modernization-aws-govcloud-us-regions/)
 - [AWS Amplify&#39;s GraphQL API capabilities now available as AWS CDK construct](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-amplifys-graphql-api-cdk-construct/)
-- [Amazon SageMaker Feature Store in-memory online store for low latency feature retrieval](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-feature-store-memory-store-latency-retrieval/)
-- [Amazon CloudWatch Metric Insights available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-insights-aws-govcloud-us-regions/)
-- [Amazon Kendra releases Drupal Connector to enable Drupal document search](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-drupal-connector-drupal-document-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

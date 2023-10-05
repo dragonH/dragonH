@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner launches improvements for using custom domains](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-app-runner-improvements-custom-domains/)
+- [Amazon SageMaker Canvas expands its support for ready-to-use models to include foundation models &lpar;FMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-canvas-ready-to-use-models-fms/)
+- [AWS Resource Explorer is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resource-explorer-additional-regions/)
 - [Amazon Connect launches new contact and agent metrics in the API](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-contact-agent-metrics-api/)
 - [AWS Health now aggregates Health events in your organization to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-health-aggregates-events-organization-eventbridge/)
 - [Amazon Connect enhances API for accessing historical agent and contact metrics](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-api-historical-agent-contact-metrics/)
@@ -65,9 +68,6 @@
 - [AWS Wickr is now available in the AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-aws-asia-pacific-sydney-region/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-high-memory-instances-sydney-region/)
 - [AWS launches more encryption options for AWS AppConfig feature flags](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-encryption-options-appconfig-feature-flags/)
-- [Amazon EKS Extended support for Kubernetes Versions now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eks-support-kubernetes-versions-preview/)
-- [Announcing compute optimized Amazon EC2 C7a instances](https://aws.amazon.com/about-aws/whats-new/2023/10/compute-optimized-amazon-ec2-c7a-instances/)
-- [Announcing Amazon SQS binding extension support in CoreWCF](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-sqs-binding-extension-corewcf/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

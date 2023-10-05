@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management announces general availability of Software Package Catalog](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-device-management-general-availability-software-package-catalog/)
 - [AWS App Runner launches improvements for using custom domains](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-app-runner-improvements-custom-domains/)
 - [Amazon SageMaker Canvas expands its support for ready-to-use models to include foundation models &lpar;FMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-canvas-ready-to-use-models-fms/)
 - [AWS Resource Explorer is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resource-explorer-additional-regions/)
@@ -67,7 +68,6 @@
 - [AWS Lambda adds support for Python 3.11 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-python-3-11-aws-govcloud-regions/)
 - [AWS Wickr is now available in the AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-aws-asia-pacific-sydney-region/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-high-memory-instances-sydney-region/)
-- [AWS launches more encryption options for AWS AppConfig feature flags](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-encryption-options-appconfig-feature-flags/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

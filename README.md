@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Private Access to the AWS Management Console is available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/private-access-aws-management-console-israel-tel-aviv-region/)
 - [Amazon RDS Custom for Oracle is now available in Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-asia-pacific-jakarta-aws-region/)
 - [Amazon Bedrock now available in Asia Pacific &lpar;Tokyo&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-asia-pacific-tokyo-aws-region/)
 - [Catalog API now supports JSON object alongside String for “Details” attribute](https://aws.amazon.com/about-aws/whats-new/2023/10/catalog-api-json-object-string-details-attribute/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower releases 22 proactive controls and 12 AWS Security Hub Detective controls](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-control-tower-proactive-controls-aws-security-hub-detective-controls/)
 - [AWS WorkSpaces now provides bundle selection guidance in AWS console](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-workspaces-bundle-selection-guidance-console/)
 - [Amazon Connect now supports multiple out-of-the-box chat widgets per instance](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-multiple-out-of-the-box-chat-widgets-per-instance/)
-- [Amazon WorkSpaces Services expand Microsoft productivity apps offerings](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-services-microsoft-apps/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

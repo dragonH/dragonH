@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Organizations now supports service control policies &lpar;SCPs&rpar; in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-organizations-service-control-policies-scps-aws-china-regions/)
 - [New features for cdk8s include synthesize and import Helm charts and resolve cloud tokens](https://aws.amazon.com/about-aws/whats-new/2023/10/cdk8s-synthesize-import-helm-charts-cloud-tokens/)
 - [Amazon QuickSight now supports running queries as an IAM role for Redshift data sources](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-queries-iam-role-redshift-data-sources/)
 - [AWS Glue now supports GitLab, BitBucket in its Git integration feature](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-gitlab-bitbucket-git-integration-feature/)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock now available in Asia Pacific &lpar;Tokyo&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-asia-pacific-tokyo-aws-region/)
 - [Catalog API now supports JSON object alongside String for “Details” attribute](https://aws.amazon.com/about-aws/whats-new/2023/10/catalog-api-json-object-string-details-attribute/)
 - [AWS HealthOmics sequence store now includes auto-calculated ETags for read sets](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-healthomics-sequence-store-auto-calculated-etags-read-sets/)
-- [AWS Elemental MediaConvert now supports video source replacement](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediaconvert-video-source-replacement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

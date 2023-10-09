@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports running queries as an IAM role for Redshift data sources](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-queries-iam-role-redshift-data-sources/)
+- [AWS Glue now supports GitLab, BitBucket in its Git integration feature](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-gitlab-bitbucket-git-integration-feature/)
+- [AWS Elemental MediaTailor now supports ad break discovery in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediatailor-ad-break-discovery-channel-assembly/)
 - [Private Access to the AWS Management Console is available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/private-access-aws-management-console-israel-tel-aviv-region/)
 - [Amazon RDS Custom for Oracle is now available in Asia Pacific &lpar;Jakarta&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-asia-pacific-jakarta-aws-region/)
 - [Amazon Bedrock now available in Asia Pacific &lpar;Tokyo&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-asia-pacific-tokyo-aws-region/)
@@ -65,9 +68,6 @@
 - [AWS HealthOmics sequence store now includes auto-calculated ETags for read sets](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-healthomics-sequence-store-auto-calculated-etags-read-sets/)
 - [AWS Elemental MediaConvert now supports video source replacement](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediaconvert-video-source-replacement/)
 - [Amazon QuickSight announces predictive analytics using Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-predictive-analytics-sagemaker-canvas/)
-- [AWS Control Tower releases 22 proactive controls and 12 AWS Security Hub Detective controls](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-control-tower-proactive-controls-aws-security-hub-detective-controls/)
-- [AWS WorkSpaces now provides bundle selection guidance in AWS console](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-workspaces-bundle-selection-guidance-console/)
-- [Amazon Connect now supports multiple out-of-the-box chat widgets per instance](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-multiple-out-of-the-box-chat-widgets-per-instance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

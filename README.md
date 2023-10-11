@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Search Pipelines for OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-search-pipelines-opensearch/)
 - [New Amazon CloudWatch metric monitors EC2 instance reachability to EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-monitors-reachability-ebs-volumes/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-osaka-region/)
 - [AWS Systems Manager Application Manager now supports SAP HANA](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-application-manager-sap-hana/)
@@ -67,7 +68,6 @@
 - [AWS Verified Access is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-verified-access-two-regions/)
 - [Launch Amazon CloudWatch Internet Monitor from Amazon Virtual Private Cloud console](https://aws.amazon.com/about-aws/whats-new/2023/10/launch-amazon-cloudwatch-internet-monitor-amazon-virtual-private-cloud-console/)
 - [AWS Organizations now supports service control policies &lpar;SCPs&rpar; in AWS China Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-organizations-service-control-policies-scps-aws-china-regions/)
-- [AWS Elemental MediaTailor now supports ad break discovery in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediatailor-ad-break-discovery-channel-assembly/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Lambda’s support for Internet Protocol Version 6 &lpar;IPv6&rpar; for outbound connections in VPC](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc/)
 - [Amazon Textract launches Custom Queries to improve information extraction for business-specific documents](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-textract-custom-queries-information-extraction-business-specific-documents/)
 - [Announcing new AWS Network Load Balancer &lpar;NLB&rpar; availability and performance capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-nlb-availability-performance-capabilities/)
 - [AWS Direct Connect announces new location in Seoul, South Korea](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-direct-connect-seoul-south-korea/)
@@ -67,7 +68,6 @@
 - [Announcing Link Your Bank Account for SEPA direct debit payments in Germany](https://aws.amazon.com/about-aws/whats-new/2023/10/link-your-bank-account-sepa-direct-debit-payments-germany/)
 - [AWS announces Search Pipelines for OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-search-pipelines-opensearch/)
 - [New Amazon CloudWatch metric monitors EC2 instance reachability to EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-monitors-reachability-ebs-volumes/)
-- [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

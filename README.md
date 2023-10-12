@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract launches Custom Queries to improve information extraction for business-specific documents](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-textract-custom-queries-information-extraction-business-specific-documents/)
 - [Announcing new AWS Network Load Balancer &lpar;NLB&rpar; availability and performance capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-nlb-availability-performance-capabilities/)
 - [AWS Direct Connect announces new location in Seoul, South Korea](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-direct-connect-seoul-south-korea/)
 - [AWS Step Functions launches Optimized Integration for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-step-functions-optimized-integration-amazon-emr-serverless/)
@@ -67,7 +68,6 @@
 - [AWS announces Search Pipelines for OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-search-pipelines-opensearch/)
 - [New Amazon CloudWatch metric monitors EC2 instance reachability to EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-monitors-reachability-ebs-volumes/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-osaka-region/)
-- [AWS Systems Manager Application Manager now supports SAP HANA](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-application-manager-sap-hana/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

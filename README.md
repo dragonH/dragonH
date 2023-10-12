@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Global Accelerator launches second Edge location in Vietnam](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-global-accelerator-second-edge-location-vietnam/)
 - [Announcing Link Your Bank Account for SEPA direct debit payments in Germany](https://aws.amazon.com/about-aws/whats-new/2023/10/link-your-bank-account-sepa-direct-debit-payments-germany/)
 - [AWS announces Search Pipelines for OpenSearch](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-search-pipelines-opensearch/)
 - [New Amazon CloudWatch metric monitors EC2 instance reachability to EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-cloudwatch-metric-monitors-reachability-ebs-volumes/)
@@ -67,7 +68,6 @@
 - [Amazon Linux announces support for Ansible and Corretto 21 with AL2023.2](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-linux-ansible-corretto-21-al-2023-2/)
 - [Amazon QuickSight adds total positioning options for pivot table](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-total-positioning-pivot-table/)
 - [AWS Verified Access is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-verified-access-two-regions/)
-- [Launch Amazon CloudWatch Internet Monitor from Amazon Virtual Private Cloud console](https://aws.amazon.com/about-aws/whats-new/2023/10/launch-amazon-cloudwatch-internet-monitor-amazon-virtual-private-cloud-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

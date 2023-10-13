@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Enhance accuracy of pre-trained Rekognition moderation model with Custom Moderation](https://aws.amazon.com/about-aws/whats-new/2023/10/accuracy-pre-trained-rekognition-moderation-model-custom-moderation/)
+- [Announcing Unified Settings for the AWS Management Console in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/unified-settings-aws-management-console-aws-govcloud-us-regions/)
 - [Amazon EC2 now supports setting AMIs to a disabled state](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-amis-disabled-state/)
 - [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c7gd-m7gd-r7gd-instances-additional-regions/)
 - [Announcing ability to enable AWS Systems Manager by default for all EC2 instances in an organization](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-aws-systems-manager-ec2-instances-organization/)
@@ -66,8 +68,6 @@
 - [Amazon Textract launches Custom Queries to improve information extraction for business-specific documents](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-textract-custom-queries-information-extraction-business-specific-documents/)
 - [Announcing new AWS Network Load Balancer &lpar;NLB&rpar; availability and performance capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-nlb-availability-performance-capabilities/)
 - [AWS Direct Connect announces new location in Seoul, South Korea](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-direct-connect-seoul-south-korea/)
-- [AWS Step Functions launches Optimized Integration for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-step-functions-optimized-integration-amazon-emr-serverless/)
-- [Amazon SageMaker Canvas expands content summarization and information extraction capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-canvas-content-information-extraction/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch launches out-of-the-box alarm recommendations for AWS services](https://aws.amazon.com/about-aws/whats-new/2023/10/cloudwatch-out-of-the-box-alarm-recommendations-aws-services/)
+- [AWS Client VPN extends availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-client-vpn-additional-aws-regions/)
 - [Security analytics in OpenSearch Service now supports OCSF and custom logs](https://aws.amazon.com/about-aws/whats-new/2023/10/security-analytics-opensearch-service-ocsf-custom-logs/)
 - [Deploy ML models built in SageMaker Canvas to SageMaker real-time endpoints](https://aws.amazon.com/about-aws/whats-new/2023/10/deploy-ml-models-sagemaker-canvas-real-time-endpoints/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB supports M6in, M6idn, R6in, R6idn database instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-mysql-mariadb-m6-r6-instances/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 now supports setting AMIs to a disabled state](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-amis-disabled-state/)
 - [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c7gd-m7gd-r7gd-instances-additional-regions/)
 - [Announcing ability to enable AWS Systems Manager by default for all EC2 instances in an organization](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-aws-systems-manager-ec2-instances-organization/)
-- [Amazon EC2 M6in and M6idn instances are now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6in-m6idn-instances-new-regions/)
-- [Announcing AWS Lambda’s support for Internet Protocol Version 6 &lpar;IPv6&rpar; for outbound connections in VPC](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

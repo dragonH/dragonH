@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Entity Resolution launches records matching with data service providers](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-records-matching-providers/)
+- [Introducing Amazon EC2 R7i instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/)
 - [CloudWatch launches out-of-the-box alarm recommendations for AWS services](https://aws.amazon.com/about-aws/whats-new/2023/10/cloudwatch-out-of-the-box-alarm-recommendations-aws-services/)
 - [AWS Client VPN extends availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-client-vpn-additional-aws-regions/)
 - [Security analytics in OpenSearch Service now supports OCSF and custom logs](https://aws.amazon.com/about-aws/whats-new/2023/10/security-analytics-opensearch-service-ocsf-custom-logs/)
@@ -66,8 +68,6 @@
 - [Enhance accuracy of pre-trained Rekognition moderation model with Custom Moderation](https://aws.amazon.com/about-aws/whats-new/2023/10/accuracy-pre-trained-rekognition-moderation-model-custom-moderation/)
 - [Announcing Unified Settings for the AWS Management Console in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/unified-settings-aws-management-console-aws-govcloud-us-regions/)
 - [Amazon EC2 now supports setting AMIs to a disabled state](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-amis-disabled-state/)
-- [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c7gd-m7gd-r7gd-instances-additional-regions/)
-- [Announcing ability to enable AWS Systems Manager by default for all EC2 instances in an organization](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-aws-systems-manager-ec2-instances-organization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

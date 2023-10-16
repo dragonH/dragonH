@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Security analytics in OpenSearch Service now supports OCSF and custom logs](https://aws.amazon.com/about-aws/whats-new/2023/10/security-analytics-opensearch-service-ocsf-custom-logs/)
 - [Deploy ML models built in SageMaker Canvas to SageMaker real-time endpoints](https://aws.amazon.com/about-aws/whats-new/2023/10/deploy-ml-models-sagemaker-canvas-real-time-endpoints/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB supports M6in, M6idn, R6in, R6idn database instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-mysql-mariadb-m6-r6-instances/)
 - [Enhance accuracy of pre-trained Rekognition moderation model with Custom Moderation](https://aws.amazon.com/about-aws/whats-new/2023/10/accuracy-pre-trained-rekognition-moderation-model-custom-moderation/)
@@ -67,7 +68,6 @@
 - [Announcing ability to enable AWS Systems Manager by default for all EC2 instances in an organization](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-aws-systems-manager-ec2-instances-organization/)
 - [Amazon EC2 M6in and M6idn instances are now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6in-m6idn-instances-new-regions/)
 - [Announcing AWS Lambda’s support for Internet Protocol Version 6 &lpar;IPv6&rpar; for outbound connections in VPC](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc/)
-- [Amazon Textract launches Custom Queries to improve information extraction for business-specific documents](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-textract-custom-queries-information-extraction-business-specific-documents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

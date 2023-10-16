@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Recover into Existing Instance for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elastic-disaster-recovery-existing-instance/)
 - [Bitcoin Testnet and new Asset APIs now available for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/bitcoin-testnet-asset-apis-amazon-managed-blockchain-query/)
 - [AWS Entity Resolution launches records matching with data service providers](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-records-matching-providers/)
 - [Introducing Amazon EC2 R7i instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/)
@@ -67,7 +68,6 @@
 - [Deploy ML models built in SageMaker Canvas to SageMaker real-time endpoints](https://aws.amazon.com/about-aws/whats-new/2023/10/deploy-ml-models-sagemaker-canvas-real-time-endpoints/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB supports M6in, M6idn, R6in, R6idn database instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-mysql-mariadb-m6-r6-instances/)
 - [Enhance accuracy of pre-trained Rekognition moderation model with Custom Moderation](https://aws.amazon.com/about-aws/whats-new/2023/10/accuracy-pre-trained-rekognition-moderation-model-custom-moderation/)
-- [Announcing Unified Settings for the AWS Management Console in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/unified-settings-aws-management-console-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

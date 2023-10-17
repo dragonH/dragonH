@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Relational Database Service announces Dedicated Log Volume](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-relational-database-service-dedicated-log-volume/)
+- [Amazon Corretto October, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-corretto-october-2023-quarterly-updates/)
 - [AWS CodePipeline supports retrying a pipeline execution from the first action in a failed stage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-retrying-execution-first-action-failed-stage/)
 - [Preview of Regional Expansion for ml.p4d, ml.trn1, and ml.g5 instances on SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/preview-regional-expansion-ml-p4d-ml-trn1-ml-g5-instances-sagemaker-inference/)
 - [Announcing Regional Expansion of ml.p4d instances on SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/regional-expansion-ml-p4d-instances-sagemaker-inference/)
@@ -66,8 +68,6 @@
 - [Personalize search results with Amazon Personalize and Amazon OpenSearch service integration](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integration-search-results/)
 - [Autocomplete suggestions are now available on Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-query-editor-v2-autocomplete/)
 - [Introducing Amazon CodeWhisperer customization capability &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codewhisperer-customization-capability-preview/)
-- [Amazon CodeCatalyst now supports scheduled workflow triggers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codecatalyst-scheduled-workflow-triggers/)
-- [Amazon OpenSearch Service adds support for four new language analyzers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-four-language-analyzers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

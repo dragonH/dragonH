@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Personalize search results with Amazon Personalize and Amazon OpenSearch service integration](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integration-search-results/)
+- [Autocomplete suggestions are now available on Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-query-editor-v2-autocomplete/)
+- [Introducing Amazon CodeWhisperer customization capability &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codewhisperer-customization-capability-preview/)
+- [Amazon CodeCatalyst now supports scheduled workflow triggers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codecatalyst-scheduled-workflow-triggers/)
+- [Amazon OpenSearch Service adds support for four new language analyzers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-four-language-analyzers/)
+- [Metric Streams adds a quick setup experience for AWS Partner destinations](https://aws.amazon.com/about-aws/whats-new/2023/10/metric-streams-quick-setup-experience-aws-partner-destinations/)
 - [Introducing Recover into Existing Instance for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elastic-disaster-recovery-existing-instance/)
 - [Bitcoin Testnet and new Asset APIs now available for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/bitcoin-testnet-asset-apis-amazon-managed-blockchain-query/)
 - [AWS Entity Resolution launches records matching with data service providers](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-records-matching-providers/)
 - [Introducing Amazon EC2 R7i instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/)
-- [CloudWatch launches out-of-the-box alarm recommendations for AWS services](https://aws.amazon.com/about-aws/whats-new/2023/10/cloudwatch-out-of-the-box-alarm-recommendations-aws-services/)
-- [AWS Client VPN extends availability to three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-client-vpn-additional-aws-regions/)
-- [Security analytics in OpenSearch Service now supports OCSF and custom logs](https://aws.amazon.com/about-aws/whats-new/2023/10/security-analytics-opensearch-service-ocsf-custom-logs/)
-- [Deploy ML models built in SageMaker Canvas to SageMaker real-time endpoints](https://aws.amazon.com/about-aws/whats-new/2023/10/deploy-ml-models-sagemaker-canvas-real-time-endpoints/)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB supports M6in, M6idn, R6in, R6idn database instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-mysql-mariadb-m6-r6-instances/)
-- [Enhance accuracy of pre-trained Rekognition moderation model with Custom Moderation](https://aws.amazon.com/about-aws/whats-new/2023/10/accuracy-pre-trained-rekognition-moderation-model-custom-moderation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Redshift integration with Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-integration-visual-studio-code/)
+- [SageMaker announces preview of ml.p5.48xlarge Instances for Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/sagemaker-preview-mlp5-48xlarge-instances-inference/)
 - [Personalize search results with Amazon Personalize and Amazon OpenSearch service integration](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integration-search-results/)
 - [Autocomplete suggestions are now available on Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-query-editor-v2-autocomplete/)
 - [Introducing Amazon CodeWhisperer customization capability &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codewhisperer-customization-capability-preview/)
@@ -66,8 +68,6 @@
 - [Metric Streams adds a quick setup experience for AWS Partner destinations](https://aws.amazon.com/about-aws/whats-new/2023/10/metric-streams-quick-setup-experience-aws-partner-destinations/)
 - [Introducing Recover into Existing Instance for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elastic-disaster-recovery-existing-instance/)
 - [Bitcoin Testnet and new Asset APIs now available for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/bitcoin-testnet-asset-apis-amazon-managed-blockchain-query/)
-- [AWS Entity Resolution launches records matching with data service providers](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-records-matching-providers/)
-- [Introducing Amazon EC2 R7i instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-r7i-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

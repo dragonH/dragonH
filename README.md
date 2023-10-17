@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline supports retrying a pipeline execution from the first action in a failed stage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-retrying-execution-first-action-failed-stage/)
+- [Preview of Regional Expansion for ml.p4d, ml.trn1, and ml.g5 instances on SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/preview-regional-expansion-ml-p4d-ml-trn1-ml-g5-instances-sagemaker-inference/)
+- [Announcing Regional Expansion of ml.p4d instances on SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/regional-expansion-ml-p4d-instances-sagemaker-inference/)
 - [AWS announces Amazon Redshift integration with Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-integration-visual-studio-code/)
 - [SageMaker announces preview of ml.p5.48xlarge Instances for Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/sagemaker-preview-mlp5-48xlarge-instances-inference/)
 - [Personalize search results with Amazon Personalize and Amazon OpenSearch service integration](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integration-search-results/)
@@ -65,9 +68,6 @@
 - [Introducing Amazon CodeWhisperer customization capability &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codewhisperer-customization-capability-preview/)
 - [Amazon CodeCatalyst now supports scheduled workflow triggers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codecatalyst-scheduled-workflow-triggers/)
 - [Amazon OpenSearch Service adds support for four new language analyzers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-four-language-analyzers/)
-- [Metric Streams adds a quick setup experience for AWS Partner destinations](https://aws.amazon.com/about-aws/whats-new/2023/10/metric-streams-quick-setup-experience-aws-partner-destinations/)
-- [Introducing Recover into Existing Instance for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elastic-disaster-recovery-existing-instance/)
-- [Bitcoin Testnet and new Asset APIs now available for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/bitcoin-testnet-asset-apis-amazon-managed-blockchain-query/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

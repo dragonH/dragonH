@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Explorer supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resource-explorer-new-resource-types/)
 - [Amazon Relational Database Service announces Dedicated Log Volume](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-relational-database-service-dedicated-log-volume/)
 - [Amazon Corretto October, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-corretto-october-2023-quarterly-updates/)
 - [AWS CodePipeline supports retrying a pipeline execution from the first action in a failed stage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-retrying-execution-first-action-failed-stage/)
@@ -67,7 +68,6 @@
 - [SageMaker announces preview of ml.p5.48xlarge Instances for Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/sagemaker-preview-mlp5-48xlarge-instances-inference/)
 - [Personalize search results with Amazon Personalize and Amazon OpenSearch service integration](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-integration-search-results/)
 - [Autocomplete suggestions are now available on Amazon Redshift Query Editor V2](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-query-editor-v2-autocomplete/)
-- [Introducing Amazon CodeWhisperer customization capability &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-codewhisperer-customization-capability-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

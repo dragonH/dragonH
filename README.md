@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Share Amazon Route 53 Application Recovery Controller clusters across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/10/share-amazon-route-53-application-recovery-controller-clusters-multiple-aws-accounts/)
+- [Subscribe to Amazon EKS add-ons from independent software vendors in the EKS console](https://aws.amazon.com/about-aws/whats-new/2023/10/subscribe-amazon-eks-add-ons-vendors-eks-console/)
 - [Amazon OpenSearch Service announces new administrative options](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-administrative-options/)
 - [AWS Data Provider for SAP now supports Oracle Linux OS, more JDK versions, and Linux logrotate](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-data-provider-sap-oracle-linux-os-jdk-versions-linux-logrotate/)
 - [AWS IoT TwinMaker is now available in Tokyo, Seoul, and Mumbai](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-twinmaker-tokyo-seoul-mumbai/)
@@ -66,8 +68,6 @@
 - [Amazon Relational Database Service announces Dedicated Log Volume](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-relational-database-service-dedicated-log-volume/)
 - [Amazon Corretto October, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-corretto-october-2023-quarterly-updates/)
 - [AWS CodePipeline supports retrying a pipeline execution from the first action in a failed stage](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-retrying-execution-first-action-failed-stage/)
-- [Preview of Regional Expansion for ml.p4d, ml.trn1, and ml.g5 instances on SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/preview-regional-expansion-ml-p4d-ml-trn1-ml-g5-instances-sagemaker-inference/)
-- [Announcing Regional Expansion of ml.p4d instances on SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2023/10/regional-expansion-ml-p4d-instances-sagemaker-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

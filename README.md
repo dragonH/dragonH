@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-integration-secrets-manager/)
 - [Amazon Connect now provides additional levels of granular access control](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-additional-levels-granular-access-control/)
 - [Share Amazon Route 53 Application Recovery Controller clusters across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/10/share-amazon-route-53-application-recovery-controller-clusters-multiple-aws-accounts/)
 - [Subscribe to Amazon EKS add-ons from independent software vendors in the EKS console](https://aws.amazon.com/about-aws/whats-new/2023/10/subscribe-amazon-eks-add-ons-vendors-eks-console/)
@@ -67,7 +68,6 @@
 - [Amazon MSK announces MSK Replicator for cross-region and same-region streaming data replication](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-replicator-cross-same-region-data-replication/)
 - [AWS Resource Explorer supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resource-explorer-new-resource-types/)
 - [Amazon Relational Database Service announces Dedicated Log Volume](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-relational-database-service-dedicated-log-volume/)
-- [Amazon Corretto October, 2023 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-corretto-october-2023-quarterly-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue for Apache Spark announces native connectivity for Google BigQuery](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-apache-spark-connectivity-google-bigquery/)
+- [AWS Security Hub launches 19 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-security-hub-19-security-controls/)
 - [Amazon EMR Managed Scaling is now available in Indonesia &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-managed-scaling-indonesia-jakarta/)
 - [AWS announces member account level credit sharing preferences](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-member-account-credit-sharing-preferences/)
 - [Enable Amazon RDS Optimized Writes using RDS Blue/Green Deployments](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-amazon-rds-optimized-writes-blue-green-deployments/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-integration-secrets-manager/)
 - [Amazon Connect now provides additional levels of granular access control](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-additional-levels-granular-access-control/)
 - [Share Amazon Route 53 Application Recovery Controller clusters across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/10/share-amazon-route-53-application-recovery-controller-clusters-multiple-aws-accounts/)
-- [Subscribe to Amazon EKS add-ons from independent software vendors in the EKS console](https://aws.amazon.com/about-aws/whats-new/2023/10/subscribe-amazon-eks-add-ons-vendors-eks-console/)
-- [Amazon OpenSearch Service announces new administrative options](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-administrative-options/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

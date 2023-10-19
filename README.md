@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Sepolia Testnet support for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-managed-blockchain-query-sepolia-testnet/)
 - [Amazon Route 53 traffic flow now supports geoproximity routing for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-route-53-traffic-flow-geoproximity-routing-local-zones/)
 - [AWS Resilience Hub now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-hub-govcloud-regions/)
 - [Amazon WorkSpaces now supports Windows Server 2022 bundles](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-windows-server-2022-bundles/)
@@ -67,7 +68,6 @@
 - [AWS Glue for Apache Spark announces native connectivity for Google BigQuery](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-apache-spark-connectivity-google-bigquery/)
 - [AWS Security Hub launches 19 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-security-hub-19-security-controls/)
 - [Amazon EMR Managed Scaling is now available in Indonesia &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-managed-scaling-indonesia-jakarta/)
-- [AWS announces member account level credit sharing preferences](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-member-account-credit-sharing-preferences/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

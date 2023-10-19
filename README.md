@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces member account level credit sharing preferences](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-member-account-credit-sharing-preferences/)
+- [Enable Amazon RDS Optimized Writes using RDS Blue/Green Deployments](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-amazon-rds-optimized-writes-blue-green-deployments/)
+- [Amazon WorkSpaces introduces Graphics G4dn bundles for Ubuntu desktops](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-graphics-g4dn-bundles-ubuntu-desktops/)
+- [Amazon EC2 M6in and M6idn instances are now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6in-m6idn-instances-new-regions/)
 - [Amazon Redshift announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-integration-secrets-manager/)
 - [Amazon Connect now provides additional levels of granular access control](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-additional-levels-granular-access-control/)
 - [Share Amazon Route 53 Application Recovery Controller clusters across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/10/share-amazon-route-53-application-recovery-controller-clusters-multiple-aws-accounts/)
 - [Subscribe to Amazon EKS add-ons from independent software vendors in the EKS console](https://aws.amazon.com/about-aws/whats-new/2023/10/subscribe-amazon-eks-add-ons-vendors-eks-console/)
 - [Amazon OpenSearch Service announces new administrative options](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-administrative-options/)
 - [AWS Data Provider for SAP now supports Oracle Linux OS, more JDK versions, and Linux logrotate](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-data-provider-sap-oracle-linux-os-jdk-versions-linux-logrotate/)
-- [AWS IoT TwinMaker is now available in Tokyo, Seoul, and Mumbai](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-twinmaker-tokyo-seoul-mumbai/)
-- [Amazon MSK announces MSK Replicator for cross-region and same-region streaming data replication](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-replicator-cross-same-region-data-replication/)
-- [AWS Resource Explorer supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resource-explorer-new-resource-types/)
-- [Amazon Relational Database Service announces Dedicated Log Volume](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-relational-database-service-dedicated-log-volume/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

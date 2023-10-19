@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 traffic flow now supports geoproximity routing for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-route-53-traffic-flow-geoproximity-routing-local-zones/)
+- [AWS Resilience Hub now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-hub-govcloud-regions/)
+- [Amazon WorkSpaces now supports Windows Server 2022 bundles](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-windows-server-2022-bundles/)
+- [Amazon OpenSearch Service now offers Amazon EC2 Im4gn instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-service-amazon-ec2-im4gn-instances/)
+- [Amazon Bedrock now available in Europe &lpar;Frankfurt&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-bedrock-europe-frankfurt-aws-region/)
+- [Amazon EC2 M6gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6gd-instances-additional-regions/)
 - [AWS Glue for Apache Spark announces native connectivity for Google BigQuery](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-apache-spark-connectivity-google-bigquery/)
 - [AWS Security Hub launches 19 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-security-hub-19-security-controls/)
 - [Amazon EMR Managed Scaling is now available in Indonesia &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-managed-scaling-indonesia-jakarta/)
 - [AWS announces member account level credit sharing preferences](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-member-account-credit-sharing-preferences/)
-- [Enable Amazon RDS Optimized Writes using RDS Blue/Green Deployments](https://aws.amazon.com/about-aws/whats-new/2023/10/enable-amazon-rds-optimized-writes-blue-green-deployments/)
-- [Amazon WorkSpaces introduces Graphics G4dn bundles for Ubuntu desktops](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-graphics-g4dn-bundles-ubuntu-desktops/)
-- [Amazon EC2 M6in and M6idn instances are now available in new regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6in-m6idn-instances-new-regions/)
-- [Amazon Redshift announces integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-redshift-integration-secrets-manager/)
-- [Amazon Connect now provides additional levels of granular access control](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-additional-levels-granular-access-control/)
-- [Share Amazon Route 53 Application Recovery Controller clusters across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2023/10/share-amazon-route-53-application-recovery-controller-clusters-multiple-aws-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

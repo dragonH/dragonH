@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra releases connectors for 11 JDBC data sources to enable structured data search](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-connectors-jdbc-data-sources-structured-data-search/)
 - [AWS Wickr is now FedRAMP Moderate authorized](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-fedramp-moderate-authorized/)
 - [Amazon EC2 C6a, M6a, R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6a-m6a-r6a-instances-additional-regions/)
 - [AWS Service Catalog announces support for additional Infrastructure as Code &lpar;IaC&rpar; provisioning tools](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-service-catalog-support-infrastructure-code-provisioning-tools/)
@@ -67,7 +68,6 @@
 - [Announcing Sepolia Testnet support for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-managed-blockchain-query-sepolia-testnet/)
 - [Amazon Route 53 traffic flow now supports geoproximity routing for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-route-53-traffic-flow-geoproximity-routing-local-zones/)
 - [AWS Resilience Hub now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-hub-govcloud-regions/)
-- [Amazon WorkSpaces now supports Windows Server 2022 bundles](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-workspaces-windows-server-2022-bundles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

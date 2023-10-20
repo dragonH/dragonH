@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports direct connectivity to Trino](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-direct-connectivity-trino/)
+- [Amazon QuickSight now supports direct connectivity to Starburst](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-direct-connectivity-starburst/)
+- [AWS Config conformance packs are now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-conformance-packs-asia-pacific-melbourne-region/)
 - [Amazon Kendra releases connectors for 11 JDBC data sources to enable structured data search](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-connectors-jdbc-data-sources-structured-data-search/)
 - [AWS Wickr is now FedRAMP Moderate authorized](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-fedramp-moderate-authorized/)
 - [Amazon EC2 C6a, M6a, R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6a-m6a-r6a-instances-additional-regions/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6id-instances-additional-regions/)
 - [AMI Block Public Access now enabled for all new accounts and existing accounts with no public AMIs](https://aws.amazon.com/about-aws/whats-new/2023/10/ami-block-public-enabled-aws-accounts-no-public-amis/)
 - [Amazon MSK announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-eventbridge-pipes-console-integration/)
-- [Announcing Sepolia Testnet support for Amazon Managed Blockchain Query](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-managed-blockchain-query-sepolia-testnet/)
-- [Amazon Route 53 traffic flow now supports geoproximity routing for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-route-53-traffic-flow-geoproximity-routing-local-zones/)
-- [AWS Resilience Hub now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-hub-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Entity Resolution expands data protection capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-data-protection-capabilities/)
+- [Amazon RDS Custom for SQL Server now supports M6i and R6i instances](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-sql-server-m6i-r6i-instances/)
+- [AWS re:Post introduces Selections](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-repost-selections/)
+- [Build ML feature pipelines from custom data sources with Amazon SageMaker Feature Store](https://aws.amazon.com/about-aws/whats-new/2023/10/build-ml-feature-pipelines-custom-data-sources-amazon-sagemaker-feature-store/)
+- [Amazon RDS for SQL Server supports minor version 2019 CU22](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-sql-server-minor-version-2019-cu22/)
 - [Amazon QuickSight now supports direct connectivity to Trino](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-direct-connectivity-trino/)
 - [Amazon QuickSight now supports direct connectivity to Starburst](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-direct-connectivity-starburst/)
 - [AWS Config conformance packs are now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-conformance-packs-asia-pacific-melbourne-region/)
 - [Amazon Kendra releases connectors for 11 JDBC data sources to enable structured data search](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-connectors-jdbc-data-sources-structured-data-search/)
 - [AWS Wickr is now FedRAMP Moderate authorized](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-fedramp-moderate-authorized/)
-- [Amazon EC2 C6a, M6a, R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6a-m6a-r6a-instances-additional-regions/)
-- [AWS Service Catalog announces support for additional Infrastructure as Code &lpar;IaC&rpar; provisioning tools](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-service-catalog-support-infrastructure-code-provisioning-tools/)
-- [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-m6id-instances-additional-regions/)
-- [AMI Block Public Access now enabled for all new accounts and existing accounts with no public AMIs](https://aws.amazon.com/about-aws/whats-new/2023/10/ami-block-public-enabled-aws-accounts-no-public-amis/)
-- [Amazon MSK announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-msk-eventbridge-pipes-console-integration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

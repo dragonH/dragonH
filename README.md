@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline supports triggering on git tags](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-triggering-git-tags/)
+- [AWS CodePipeline supports parameterized pipelines](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-codepipeline-parameterized-pipelines/)
+- [Amazon Aurora supports PostgreSQL 15.4, 14.9, 13.12, 12.16, and 11.21 versions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-postgre-sql-15-4-14-9-13-12-12-16-11-21-versions/)
+- [Amazon Aurora PostgreSQL now supports pgvector v0.5.0 with HNSW indexing](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-postgresql-pgvector-v0-5-0-hnsw-indexing/)
 - [AWS IoT Core Credential Provider supports Virtual Private Cloud endpoints](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-iot-core-credential-provider-virtual-private-cloud-endpoints/)
 - [EC2 Hibernate now supports 20 additional instance families on EC2 Spot](https://aws.amazon.com/about-aws/whats-new/2023/10/ec2-hibernate-additional-instance-families-ec2-spot/)
 - [Amazon EKS now allows modification of cluster subnets and security groups](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eks-modification-cluster-subnets-security/)
 - [AWS Cloud WAN goes Tunnel-less to enable high-performant global SD-WANs](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-cloud-wan-tunnel-less-high-performant-global-sd-wans/)
 - [Amazon MemoryDB now supports Graviton3-based R7g nodes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-memorydb-graviton3-based-r7g-nodes/)
 - [Amazon SQS announces increased throughput quota for FIFO High Throughput mode](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-mode/)
-- [Amazon FinSpace with Managed kdb Insights now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-five-regions/)
-- [Amazon FSx for Windows File Server supports Multi-AZ file systems in the US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-windows-file-sever-multi-az-n-california/)
-- [Amazon OpenSearch Serverless now supports automated time-based data deletion](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-serverless-automated-time-based-data-deletion/)
-- [Amazon FSx for NetApp ONTAP supports Multi-AZ file systems in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-multi-az-file-systems-n-california/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

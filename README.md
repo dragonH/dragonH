@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now allows modification of cluster subnets and security groups](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eks-modification-cluster-subnets-security/)
+- [AWS Cloud WAN goes Tunnel-less to enable high-performant global SD-WANs](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-cloud-wan-tunnel-less-high-performant-global-sd-wans/)
+- [Amazon MemoryDB now supports Graviton3-based R7g nodes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-memorydb-graviton3-based-r7g-nodes/)
+- [Amazon SQS announces increased throughput quota for FIFO High Throughput mode](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sqs-increased-throughput-quota-fifo-high-throughput-mode/)
 - [Amazon FinSpace with Managed kdb Insights now available in five additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-five-regions/)
 - [Amazon FSx for Windows File Server supports Multi-AZ file systems in the US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-windows-file-sever-multi-az-n-california/)
 - [Amazon OpenSearch Serverless now supports automated time-based data deletion](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-opensearch-serverless-automated-time-based-data-deletion/)
 - [Amazon FSx for NetApp ONTAP supports Multi-AZ file systems in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-fsx-netapp-ontap-multi-az-file-systems-n-california/)
 - [Amazon IVS announces audio-only pricing for Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ivs-audio-only-pricing-real-time-streaming/)
 - [Amazon EKS adds support for customer managed IAM policies](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-eks-customer-managed-iam-policies/)
-- [Amazon ECS increases applications resiliency to unpredictable load spikes](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ecs-applications-resiliency-unpredictable-load-spikes/)
-- [AWS Marketplace announces enhanced private offer user experience for sellers](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-marketplace-enhanced-private-offer-user-experience-sellers/)
-- [AWS Systems Manager Patch Manager now supports additional MacOS and Linux versions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-macos-linux-versions/)
-- [AWS Entity Resolution expands data protection capabilities](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-entity-resolution-data-protection-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 19 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-supports-19-resource-types/)
+- [Amazon SNS message data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-message-data-protection-data-identifiers/)
 - [AWS Application Discovery Service adds new actions to remove servers, data collectors and imports](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-application-discovery-service-new-actions/)
 - [AWS Migration Hub adds ability to change the AWS Region used to store migration data](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-migration-hub-change-aws-region-migration-data/)
 - [Amazon RDS Custom for Oracle is now available in Europe &lpar;Milan&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-europe-milan-aws-region/)
@@ -66,8 +68,6 @@
 - [AWS announces an enhanced sign in experience in the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-console-mobile-app-ios-enhanced-sign-in/)
 - [AWS Glue now offers example jobs, drag-and-drop, and a preview-first layout](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-example-jobs-drag-drop-preview-layout/)
 - [Amazon FinSpace with Managed kdb Insights adds more historical database cache options](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-cache-options/)
-- [Amazon Aurora MySQL 3.05 &lpar;compatible with MySQL 8.0.32&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-mysql-3-05-compatible-8-0-32-generally-available/)
-- [Amazon Aurora MySQL includes optimizations that reduce the database restart time by up to 65%](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-mysql-reduce-database-restart-time/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

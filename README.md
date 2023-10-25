@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Discovery Service adds new actions to remove servers, data collectors and imports](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-application-discovery-service-new-actions/)
+- [AWS Migration Hub adds ability to change the AWS Region used to store migration data](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-migration-hub-change-aws-region-migration-data/)
+- [Amazon RDS Custom for Oracle is now available in Europe &lpar;Milan&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-europe-milan-aws-region/)
 - [Amazon RDS for PostgreSQL, MySQL, MariaDB support M7g, R7g DB instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-instances/)
 - [AWS Transfer Family announces Basic authentication for outbound AS2 messages](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-transfer-family-authentication-outbound-as2-messages/)
 - [AWS announces an enhanced sign in experience in the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-console-mobile-app-ios-enhanced-sign-in/)
@@ -65,9 +68,6 @@
 - [Amazon FinSpace with Managed kdb Insights adds more historical database cache options](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-cache-options/)
 - [Amazon Aurora MySQL 3.05 &lpar;compatible with MySQL 8.0.32&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-mysql-3-05-compatible-8-0-32-generally-available/)
 - [Amazon Aurora MySQL includes optimizations that reduce the database restart time by up to 65%](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-mysql-reduce-database-restart-time/)
-- [Announcing Amazon Aurora MySQL 3.04 as long-term support &lpar;LTS&rpar; release](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-mysql-3-04-support-lts-release/)
-- [Amazon Aurora PostgreSQL now supports federated query to MySQL and MariaDB databases](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-postgresql-federated-query-mysql-maria-db-databases/)
-- [Amazon Aurora PostgreSQL now captures query plans on replica instances with query plan management](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-aurora-postgresql-captures-query-plans-replica-instances-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

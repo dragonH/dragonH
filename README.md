@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Multi-VPC ENI Attachments](https://aws.amazon.com/about-aws/whats-new/2023/10/multi-vpc-eni-attachments/)
 - [AWS Systems Manager OpsCenter now supports deletion of operational issues](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-opscenter-supports-deletion-operational-issues/)
 - [Amazon Kendra launches feature to collapse and expand query results](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-collapse-expand-query-results/)
 - [Amazon EC2 C6gn instances are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6gn-instances-govcloud-regions/)
@@ -67,7 +68,6 @@
 - [Amazon SNS message data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-message-data-protection-data-identifiers/)
 - [AWS Application Discovery Service adds new actions to remove servers, data collectors and imports](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-application-discovery-service-new-actions/)
 - [AWS Migration Hub adds ability to change the AWS Region used to store migration data](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-migration-hub-change-aws-region-migration-data/)
-- [Amazon RDS Custom for Oracle is now available in Europe &lpar;Milan&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-europe-milan-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

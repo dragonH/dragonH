@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS User Notifications is now available in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-user-notifications-israel-tel-aviv-region/)
+- [Amazon AppStream 2.0 announces multi-session fleets for Windows Server OS](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-appstream-2-0-session-fleets-windows-server-os/)
+- [Amazon EC2 I4i instances introduce two new sizes: I4i.12xlarge and I4i.24xlarge](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-i4i-two-new-sizes/)
 - [Multi-VPC ENI Attachments](https://aws.amazon.com/about-aws/whats-new/2023/10/multi-vpc-eni-attachments/)
 - [AWS Systems Manager OpsCenter now supports deletion of operational issues](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-systems-manager-opscenter-supports-deletion-operational-issues/)
 - [Amazon Kendra launches feature to collapse and expand query results](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-collapse-expand-query-results/)
@@ -65,9 +68,6 @@
 - [Amazon RDS Blue/Green Deployments now supports Aurora and RDS PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-blue-green-deployments-aurora-rds-postgresql/)
 - [Announcing general availability of Amazon EC2 M2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2023/10/general-availability-amazon-ec2-m2-mac-instances-mac-os/)
 - [AWS Config now supports 19 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-supports-19-resource-types/)
-- [Amazon SNS message data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-message-data-protection-data-identifiers/)
-- [AWS Application Discovery Service adds new actions to remove servers, data collectors and imports](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-application-discovery-service-new-actions/)
-- [AWS Migration Hub adds ability to change the AWS Region used to store migration data](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-migration-hub-change-aws-region-migration-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

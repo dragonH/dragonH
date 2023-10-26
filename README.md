@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kendra launches feature to collapse and expand query results](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kendra-collapse-expand-query-results/)
 - [Amazon EC2 C6gn instances are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6gn-instances-govcloud-regions/)
 - [Amazon RDS Blue/Green Deployments now supports Aurora and RDS PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-blue-green-deployments-aurora-rds-postgresql/)
 - [Announcing general availability of Amazon EC2 M2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2023/10/general-availability-amazon-ec2-m2-mac-instances-mac-os/)
@@ -67,7 +68,6 @@
 - [AWS Migration Hub adds ability to change the AWS Region used to store migration data](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-migration-hub-change-aws-region-migration-data/)
 - [Amazon RDS Custom for Oracle is now available in Europe &lpar;Milan&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-custom-oracle-europe-milan-aws-region/)
 - [Amazon RDS for PostgreSQL, MySQL, MariaDB support M7g, R7g DB instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-instances/)
-- [AWS Transfer Family announces Basic authentication for outbound AS2 messages](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-transfer-family-authentication-outbound-as2-messages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

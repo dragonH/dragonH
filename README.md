@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of Amazon EC2 M2 Mac instances for macOS](https://aws.amazon.com/about-aws/whats-new/2023/10/general-availability-amazon-ec2-m2-mac-instances-mac-os/)
 - [AWS Config now supports 19 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-supports-19-resource-types/)
 - [Amazon SNS message data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sns-message-data-protection-data-identifiers/)
 - [AWS Application Discovery Service adds new actions to remove servers, data collectors and imports](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-application-discovery-service-new-actions/)
@@ -67,7 +68,6 @@
 - [AWS Transfer Family announces Basic authentication for outbound AS2 messages](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-transfer-family-authentication-outbound-as2-messages/)
 - [AWS announces an enhanced sign in experience in the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-console-mobile-app-ios-enhanced-sign-in/)
 - [AWS Glue now offers example jobs, drag-and-drop, and a preview-first layout](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-glue-example-jobs-drag-drop-preview-layout/)
-- [Amazon FinSpace with Managed kdb Insights adds more historical database cache options](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-cache-options/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

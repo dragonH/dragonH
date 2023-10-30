@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing eight new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/10/new-amazon-ec2-bare-metal-instances/)
 - [AWS Trusted Advisor adds 64 new checks powered by AWS Config](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-trusted-advisor-64-checks-aws-config/)
 - [AWS Config advanced queries support 41 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-advanced-queries-41-resource-types/)
 - [Amazon SageMaker now supports geospatial Processing jobs](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-geospatial-processing-jobs/)
@@ -67,7 +68,6 @@
 - [Amazon QuickSight launches Custom Total for Table and Pivot table charts](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-quicksight-custom-total-table-pivot-table-charts/)
 - [AWS Wickr is now available in the Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-wickr-europe-frankfurt-region/)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Seoul&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-ec2-c6in-instances-asia-pacific-seoul/)
-- [AWS X-Ray now supports W3C format trace IDs for distributed tracing](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-x-ray-w3c-format-trace-ids-distributed-tracing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

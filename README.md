@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Blu Age Runtime on Amazon EC2 adds new AWS Regions and new build, logging, alerting features](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-blu-age-runtime-amazon-ec2-regions-build-logging-alerting-features/)
 - [Amazon S3 Object Lambda now integrates with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-s3-object-lambda-integrates-amazon-athena/)
 - [Amazon FinSpace with Managed kdb Insights clusters now support code updates without restarting](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-clusters-code-updates/)
 - [AWS Resilience Hub adds support for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-resilience-support-hub-step-functions/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker now supports geospatial Processing jobs](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-geospatial-processing-jobs/)
 - [AWS Elemental MediaTailor now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediatailor-additional-regions/)
 - [Amazon Connect supports third-party applications &lpar;preview&rpar; in the unified agent workspace](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-connect-third-party-applications-agent-workspace/)
-- [Amazon Kinesis Data Streams increases On-Demand write throughput limit to 2 GB/s](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-kinesis-data-streams-increases-write-throughput-limit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

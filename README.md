@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena announces one hour reservations for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-athena-one-hour-reservations-provisioned-capacity/)
+- [New self-guided AWS Partner Central experience with automated Tasks](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-partner-central-automated-tasks/)
 - [Announcing provider-generated notifications for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2023/10/provider-generated-notifications-aws-data-exchange/)
 - [AWS Blu Age Runtime on Amazon EC2 adds new AWS Regions and new build, logging, alerting features](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-blu-age-runtime-amazon-ec2-regions-build-logging-alerting-features/)
 - [Amazon S3 Object Lambda now integrates with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-s3-object-lambda-integrates-amazon-athena/)
@@ -66,8 +68,6 @@
 - [Introducing eight new Amazon EC2 bare metal instances](https://aws.amazon.com/about-aws/whats-new/2023/10/new-amazon-ec2-bare-metal-instances/)
 - [AWS Trusted Advisor adds 64 new checks powered by AWS Config](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-trusted-advisor-64-checks-aws-config/)
 - [AWS Config advanced queries support 41 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-config-advanced-queries-41-resource-types/)
-- [Amazon SageMaker now supports geospatial Processing jobs](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-sagemaker-geospatial-processing-jobs/)
-- [AWS Elemental MediaTailor now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediatailor-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

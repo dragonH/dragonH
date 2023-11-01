@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Elemental MediaPackage expands manifest configuration options](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediapackage-manifest-configuration-options/)
-- [AWS Elemental MediaPackage now available in Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-elemental-mediapackage-osaka-region/)
-- [Amazon EMR Studio adds support for interactive analytics on Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-emr-studio-interactive-analytics-amazon-emr-serverless/)
-- [Announcing product lifecycle support for AWS Supply Chain Demand Planning](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-supply-chain-demand-planning-product-lifecycle/)
-- [Amazon Athena announces one hour reservations for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-athena-one-hour-reservations-provisioned-capacity/)
-- [New self-guided AWS Partner Central experience with automated Tasks](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-partner-central-automated-tasks/)
-- [Announcing provider-generated notifications for AWS Data Exchange](https://aws.amazon.com/about-aws/whats-new/2023/10/provider-generated-notifications-aws-data-exchange/)
-- [AWS Blu Age Runtime on Amazon EC2 adds new AWS Regions and new build, logging, alerting features](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-blu-age-runtime-amazon-ec2-regions-build-logging-alerting-features/)
-- [Amazon S3 Object Lambda now integrates with Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-s3-object-lambda-integrates-amazon-athena/)
-- [Amazon FinSpace with Managed kdb Insights clusters now support code updates without restarting](https://aws.amazon.com/about-aws/whats-new/2023/10/amazon-finspace-managed-kdb-insights-clusters-code-updates/)
+- [Announcing Favorites feature to organize AWS Systems Manager Documents and Runbooks in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/favorites-aws-systems-manager-documents-runbooks-aws-govcloud-us-regions/)
+- [Amazon RDS for Oracle now supports October 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-oracle-october-2023-release-updates/)
+- [Amazon Redshift Multi-AZ is generally available for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
+- [AWS Supply Chain Demand Planning adds new Perpetual Forecast capability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-perpetual-forecast-capability/)
+- [Announcing new user roles for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/new-user-roles-amazon-codecatalyst/)
+- [Amazon Connect now provides contact records and events for external third-party calls](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-records-events-third-party-calls/)
+- [Amazon RDS for SQL Server now supports db.t3.micro instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-db-t3-micro-instances/)
+- [Announcing agreements and renewals dashboard for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-sellers-agreements-renewals/)
+- [Amazon Translate introduces brevity customization to reduce translation output lengths](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-translate-brevity-translation-output-lengths/)
+- [Amazon EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-capacity-blocks-ml/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

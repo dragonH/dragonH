@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing cross-account support for AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2023/11/cross-account-support-aws-global-accelerator/)
+- [AWS AppFabric now supports Github and ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabric-github-servicenow/)
+- [Launch low code data preparation for machine learning with Amazon SageMaker Data Wrangler from Amazon EMR Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/low-code-data-preparation-machine-learning-amazon-sagemaker-data-wrangler-emr-studio/)
+- [Finch is now Generally Available on macOS](https://aws.amazon.com/about-aws/whats-new/2023/11/finch-generally-available-macos/)
+- [Amazon RDS for MySQL supports new minor version 5.7.44](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-new-minor-version-5-7-44/)
+- [AWS IAM action last accessed information for more than 60 additional services](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-action-accessed-information-60-services/)
 - [Amazon Redshift Multi-AZ is generally available for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
 - [Announcing Favorites feature to organize AWS Systems Manager Documents and Runbooks in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/favorites-aws-systems-manager-documents-runbooks-aws-govcloud-us-regions/)
 - [Amazon RDS for Oracle now supports October 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-oracle-october-2023-release-updates/)
 - [AWS Supply Chain Demand Planning adds new Perpetual Forecast capability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-perpetual-forecast-capability/)
-- [Announcing new user roles for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/new-user-roles-amazon-codecatalyst/)
-- [Amazon Connect now provides contact records and events for external third-party calls](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-records-events-third-party-calls/)
-- [Amazon RDS for SQL Server now supports db.t3.micro instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-db-t3-micro-instances/)
-- [Announcing agreements and renewals dashboard for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-sellers-agreements-renewals/)
-- [Amazon Translate introduces brevity customization to reduce translation output lengths](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-translate-brevity-translation-output-lengths/)
-- [Amazon EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-capacity-blocks-ml/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

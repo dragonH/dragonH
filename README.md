@@ -58,9 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Multi-AZ is generally available for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
 - [Announcing Favorites feature to organize AWS Systems Manager Documents and Runbooks in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/favorites-aws-systems-manager-documents-runbooks-aws-govcloud-us-regions/)
 - [Amazon RDS for Oracle now supports October 2023 Release Update](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-oracle-october-2023-release-updates/)
-- [Amazon Redshift Multi-AZ is generally available for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
 - [AWS Supply Chain Demand Planning adds new Perpetual Forecast capability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-perpetual-forecast-capability/)
 - [Announcing new user roles for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/new-user-roles-amazon-codecatalyst/)
 - [Amazon Connect now provides contact records and events for external third-party calls](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-records-events-third-party-calls/)

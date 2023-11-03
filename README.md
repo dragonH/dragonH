@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda supports IPv6 for outbound connections in VPC in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc-6-regions/)
 - [AWS Global Accelerator extends IPv6 support to dual stack NLB endpoints](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-global-accelerator-ipv6-dual-stack-nlb-endpoints/)
 - [IAM Access Analyzer policy generation now extends coverage to over 200 AWS services](https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-policy-generation-coverage-over-200-aws-services/)
 - [Announcing cross-account support for AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2023/11/cross-account-support-aws-global-accelerator/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MySQL supports new minor version 5.7.44](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-new-minor-version-5-7-44/)
 - [AWS IAM action last accessed information for more than 60 additional services](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-action-accessed-information-60-services/)
 - [Amazon Redshift Multi-AZ is generally available for RA3 clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multi-az-ra3-clusters/)
-- [Announcing Favorites feature to organize AWS Systems Manager Documents and Runbooks in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/favorites-aws-systems-manager-documents-runbooks-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

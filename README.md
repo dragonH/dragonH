@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Streams announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/)
 - [Enhanced content navigation and discovery in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/enhanced-content-navigation-discovery-aws-partner-central/)
 - [New Search feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/new-search-feature-aws-partner-central/)
 - [AWS Marketplace introduces new self-service listing feature for container products](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-self-service-listing-feature-container-products/)
@@ -67,7 +68,6 @@
 - [AWS Global Accelerator extends IPv6 support to dual stack NLB endpoints](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-global-accelerator-ipv6-dual-stack-nlb-endpoints/)
 - [IAM Access Analyzer policy generation now extends coverage to over 200 AWS services](https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-policy-generation-coverage-over-200-aws-services/)
 - [Announcing cross-account support for AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2023/11/cross-account-support-aws-global-accelerator/)
-- [AWS AppFabric now supports GitHub and ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabric-github-servicenow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

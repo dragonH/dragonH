@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace introduces new self-service listing feature for container products](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-self-service-listing-feature-container-products/)
+- [Enhanced content navigation and discovery in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/enhanced-content-navigation-discovery-aws-partner-central/)
+- [New Search feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/new-search-feature-aws-partner-central/)
 - [AWS Marketplace launches programmatic notifications for AWS Marketplace Management Portal &lpar;AMMP&rpar; and Catalog API request completion](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-programmatic-notifications-ammp-catalog-api-request-completion/)
 - [AWS App Runner now supports Internet Protocol Version 6 &lpar;IPv6&rpar; for public inbound traffic](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-app-runner-supports-ipv6-public-inbound-traffic/)
 - [AWS Lambda supports IPv6 for outbound connections in VPC in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc-6-regions/)
@@ -65,9 +68,6 @@
 - [IAM Access Analyzer policy generation now extends coverage to over 200 AWS services](https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-policy-generation-coverage-over-200-aws-services/)
 - [Announcing cross-account support for AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2023/11/cross-account-support-aws-global-accelerator/)
 - [AWS AppFabric now supports GitHub and ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabric-github-servicenow/)
-- [Launch low code data preparation for machine learning with Amazon SageMaker Data Wrangler from Amazon EMR Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/low-code-data-preparation-machine-learning-amazon-sagemaker-data-wrangler-emr-studio/)
-- [Finch is now Generally Available on macOS](https://aws.amazon.com/about-aws/whats-new/2023/11/finch-generally-available-macos/)
-- [Amazon RDS for MySQL supports new minor version 5.7.44](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-new-minor-version-5-7-44/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

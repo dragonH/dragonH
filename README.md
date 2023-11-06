@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Container Insights launches enhanced observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-container-insights-enhanced-observability-eks/)
+- [Amazon Connect now makes it easier to deliver persistent chat experiences for your customers](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-persistent-chat-experiences/)
 - [Amazon Kinesis Data Streams announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/)
 - [Enhanced content navigation and discovery in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/enhanced-content-navigation-discovery-aws-partner-central/)
 - [New Search feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/new-search-feature-aws-partner-central/)
@@ -66,8 +68,6 @@
 - [AWS App Runner now supports Internet Protocol Version 6 &lpar;IPv6&rpar; for public inbound traffic](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-app-runner-supports-ipv6-public-inbound-traffic/)
 - [AWS Lambda supports IPv6 for outbound connections in VPC in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc-6-regions/)
 - [AWS Global Accelerator extends IPv6 support to dual stack NLB endpoints](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-global-accelerator-ipv6-dual-stack-nlb-endpoints/)
-- [IAM Access Analyzer policy generation now extends coverage to over 200 AWS services](https://aws.amazon.com/about-aws/whats-new/2023/11/iam-access-analyzer-policy-generation-coverage-over-200-aws-services/)
-- [Announcing cross-account support for AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2023/11/cross-account-support-aws-global-accelerator/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

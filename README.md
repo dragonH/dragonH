@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds check for too many partitions to AWS Trusted Advisor](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-check-partitions-aws-trusted-advisor/)
+- [AWS Control Tower is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-asia-pacific-melbourne-region/)
+- [AWS Lambda supports faster polling scale-up rate for Amazon SQS as an event source](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-polling-scale-rate-sqs-event-source/)
 - [VMware Cloud on AWS is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/vmware-cloud-aws-asia-pacific-hyderabad-region/)
 - [EC2 Image Builder adds Amazon Linux 2023 and Ubuntu 22.04 LTS managed image support](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-linux-ubuntu-lts-image-support/)
 - [Amazon SQS announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-eventbridge-pipes-console-integration/)
@@ -65,9 +68,6 @@
 - [Amazon Connect now makes it easier to deliver persistent chat experiences for your customers](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-persistent-chat-experiences/)
 - [Amazon Kinesis Data Streams announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/)
 - [Enhanced content navigation and discovery in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/enhanced-content-navigation-discovery-aws-partner-central/)
-- [New Search feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/new-search-feature-aws-partner-central/)
-- [AWS Marketplace introduces new self-service listing feature for container products](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-self-service-listing-feature-container-products/)
-- [AWS Marketplace launches programmatic notifications for AWS Marketplace Management Portal &lpar;AMMP&rpar; and Catalog API request completion](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-programmatic-notifications-ammp-catalog-api-request-completion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VMware Cloud on AWS is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/vmware-cloud-aws-asia-pacific-hyderabad-region/)
+- [EC2 Image Builder adds Amazon Linux 2023 and Ubuntu 22.04 LTS managed image support](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-linux-ubuntu-lts-image-support/)
+- [Amazon SQS announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-eventbridge-pipes-console-integration/)
 - [Amazon CloudWatch Container Insights launches enhanced observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-container-insights-enhanced-observability-eks/)
 - [Amazon Connect now makes it easier to deliver persistent chat experiences for your customers](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-persistent-chat-experiences/)
 - [Amazon Kinesis Data Streams announces Amazon EventBridge Pipes console integration](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-eventbridge-pipes-console/)
@@ -65,9 +68,6 @@
 - [New Search feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/new-search-feature-aws-partner-central/)
 - [AWS Marketplace introduces new self-service listing feature for container products](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-self-service-listing-feature-container-products/)
 - [AWS Marketplace launches programmatic notifications for AWS Marketplace Management Portal &lpar;AMMP&rpar; and Catalog API request completion](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-programmatic-notifications-ammp-catalog-api-request-completion/)
-- [AWS App Runner now supports Internet Protocol Version 6 &lpar;IPv6&rpar; for public inbound traffic](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-app-runner-supports-ipv6-public-inbound-traffic/)
-- [AWS Lambda supports IPv6 for outbound connections in VPC in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/10/aws-lambda-ipv6-outbound-connections-vpc-6-regions/)
-- [AWS Global Accelerator extends IPv6 support to dual stack NLB endpoints](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-global-accelerator-ipv6-dual-stack-nlb-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

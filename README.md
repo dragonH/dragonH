@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Simulator announces scenarios and scheduled experiments](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-simulator-scenarios-scheduled-experiments/)
+- [Database Activity Streams creates Kinesis data streams in on-demand mode](https://aws.amazon.com/about-aws/whats-new/2023/11/database-activity-streams-kinesis-data-streams-on-demand-mode/)
+- [AWS announces general availability of Amazon Aurora MySQL  zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-general-availability-amazon-aurora-mysql-zero-etl-integration-redshift/)
 - [Amazon Data Lifecycle Manager adds support for pre-script and post-script automation of EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-data-lifecycle-manager-pre-post-script-automation-ebs-snapshots/)
 - [Amazon ElastiCache now supports network-optimized C7gn Graviton3-based nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-network-optimized-c7gn-graviton-3-nodes/)
 - [AWS Config launches inventory and compliance dashboards](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-inventory-compliance-dashboards/)
@@ -65,9 +68,6 @@
 - [AWS adds ability for shared Windows AMIs users to enable faster launching](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-shared-windows-amis-faster-launching/)
 - [AWS Cost Management now provides purchase recommendations for Amazon MemoryDB Reserved Nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-purchase-recommendations-amazon-memory-db-reserved-nodes/)
 - [AWS Health enhances integration via AWS Service Management Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-health-integration-service-management-connector-servicenow/)
-- [AWS Fargate now enables Amazon ECS tasks to selectively leverage SOCI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fargate-amazon-ecs-tasks-selectively-leverage-soci/)
-- [AWS Service Management Connector introduces AWS Health and AWS Systems Manager OpsCenter integrations in Jira Cloud](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-service-management-connector-aws-health-systems-manager-opscenter-jira-cloud/)
-- [Amazon MWAA now supports Apache Airflow version 2.7 and deferrable operators](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-mwaa-apache-airflow-version-2-7-deferrable-operators/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

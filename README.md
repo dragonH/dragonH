@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Data Lifecycle Manager adds support for pre-script and post-script automation of EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-data-lifecycle-manager-pre-post-script-automation-ebs-snapshots/)
 - [Amazon ElastiCache now supports network-optimized C7gn Graviton3-based nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-network-optimized-c7gn-graviton-3-nodes/)
 - [AWS Config launches inventory and compliance dashboards](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-inventory-compliance-dashboards/)
 - [Build ML models w/ advanced configurations, gain Model Leaderboard visibility on SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/build-ml-models-configurations-model-leaderboard-visibility-sagemaker-canvas/)
@@ -67,7 +68,6 @@
 - [AWS Fargate now enables Amazon ECS tasks to selectively leverage SOCI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fargate-amazon-ecs-tasks-selectively-leverage-soci/)
 - [AWS Service Management Connector introduces AWS Health and AWS Systems Manager OpsCenter integrations in Jira Cloud](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-service-management-connector-aws-health-systems-manager-opscenter-jira-cloud/)
 - [Amazon MWAA now supports Apache Airflow version 2.7 and deferrable operators](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-mwaa-apache-airflow-version-2-7-deferrable-operators/)
-- [Amazon EC2 High Memory instances now available in Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-instances-europe-milan-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

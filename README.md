@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS adds ability for shared Windows AMIs users to enable faster launching](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-shared-windows-amis-faster-launching/)
+- [AWS Cost Management now provides purchase recommendations for Amazon MemoryDB Reserved Nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-purchase-recommendations-amazon-memory-db-reserved-nodes/)
 - [AWS Health enhances integration via AWS Service Management Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-health-integration-service-management-connector-servicenow/)
 - [AWS Fargate now enables Amazon ECS tasks to selectively leverage SOCI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fargate-amazon-ecs-tasks-selectively-leverage-soci/)
 - [AWS Service Management Connector introduces AWS Health and AWS Systems Manager OpsCenter integrations in Jira Cloud](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-service-management-connector-aws-health-systems-manager-opscenter-jira-cloud/)
@@ -66,8 +68,6 @@
 - [AWS CodeBuild now supports AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codebuild-lambda-compute/)
 - [Amazon EC2 D3 instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-d3-instances-available-additional-regions/)
 - [Amazon SES now offers 60 days of metric history in Virtual Deliverability Manager](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ses-60-days-metric-deliverability-manager/)
-- [Amazon MSK adds check for too many partitions to AWS Trusted Advisor](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-check-partitions-aws-trusted-advisor/)
-- [AWS Control Tower is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

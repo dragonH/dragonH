@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config launches inventory and compliance dashboards](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-inventory-compliance-dashboards/)
+- [Build ML models w/ advanced configurations, gain Model Leaderboard visibility on SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/build-ml-models-configurations-model-leaderboard-visibility-sagemaker-canvas/)
 - [AWS adds ability for shared Windows AMIs users to enable faster launching](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-shared-windows-amis-faster-launching/)
 - [AWS Cost Management now provides purchase recommendations for Amazon MemoryDB Reserved Nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-purchase-recommendations-amazon-memory-db-reserved-nodes/)
 - [AWS Health enhances integration via AWS Service Management Connector for ServiceNow](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-health-integration-service-management-connector-servicenow/)
@@ -66,8 +68,6 @@
 - [Amazon MWAA now supports Apache Airflow version 2.7 and deferrable operators](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-mwaa-apache-airflow-version-2-7-deferrable-operators/)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-instances-europe-milan-region/)
 - [AWS CodeBuild now supports AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codebuild-lambda-compute/)
-- [Amazon EC2 D3 instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-d3-instances-available-additional-regions/)
-- [Amazon SES now offers 60 days of metric history in Virtual Deliverability Manager](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ses-60-days-metric-deliverability-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

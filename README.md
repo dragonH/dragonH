@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service supports AWS App2Container Replatforming](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-migration-service-app2container-replatforming/)
+- [Amazon Kinesis Video Streams WebRTC Ingestion is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-video-streams-webrtc-ingestion/)
 - [AWS App Runner is now available in London, Mumbai, and Paris AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-app-runner-london-mumbai-paris-regions/)
 - [AWS Audit Manager introduces framework for generative AI on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-framework-generative-ai-bedrock/)
 - [Amazon RDS Performance Insights supports exporting dashboards to CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-performance-insights-dashboards-cloudwatch/)
@@ -66,8 +68,6 @@
 - [Database Activity Streams creates Kinesis data streams in on-demand mode](https://aws.amazon.com/about-aws/whats-new/2023/11/database-activity-streams-kinesis-data-streams-on-demand-mode/)
 - [AWS announces general availability of Amazon Aurora MySQL  zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-general-availability-amazon-aurora-mysql-zero-etl-integration-redshift/)
 - [Amazon Data Lifecycle Manager adds support for pre-script and post-script automation of EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-data-lifecycle-manager-pre-post-script-automation-ebs-snapshots/)
-- [Amazon ElastiCache now supports network-optimized C7gn Graviton3-based nodes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-network-optimized-c7gn-graviton-3-nodes/)
-- [AWS Config launches inventory and compliance dashboards](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-inventory-compliance-dashboards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-optimized-reads/)
 - [AWS Lambda makes it easier to troubleshoot errors and timeouts of Init and Restore phase](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-troubleshoot-errors-timeouts-init-restore-phases/)
 - [AWS Application Migration Service supports AWS App2Container Replatforming](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-migration-service-app2container-replatforming/)
 - [Amazon Kinesis Video Streams WebRTC Ingestion is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-video-streams-webrtc-ingestion/)
@@ -67,7 +68,6 @@
 - [Amazon Lex introduces Selective Conversation Log Capture for Amazon Lex V2](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-selective-conversation-log-capture-lex-v2/)
 - [AWS Fault Injection Simulator announces scenarios and scheduled experiments](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-simulator-scenarios-scheduled-experiments/)
 - [Database Activity Streams creates Kinesis data streams in on-demand mode](https://aws.amazon.com/about-aws/whats-new/2023/11/database-activity-streams-kinesis-data-streams-on-demand-mode/)
-- [AWS announces general availability of Amazon Aurora MySQL  zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-general-availability-amazon-aurora-mysql-zero-etl-integration-redshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

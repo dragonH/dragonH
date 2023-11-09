@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Extended Protocol Support for AWS IoT SiteWise Edge through EasyEdge](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-edge-easy-edge-protocol-support/)
+- [Amazon RDS for MySQL delivers up to 3X higher write throughput at no additional charge](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-3x-write-throughput/)
+- [Amazon RDS for Oracle now supports Oracle Multitenant](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-oracle-supports-oracle-multitenant/)
+- [Announcing next generation Resiliency Scores for AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/next-generation-resiliency-scores-aws-resilience-hub/)
+- [Amazon SNS increases default FIFO topic throughput by 10x to 3,000 messages per second](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sns-fifo-topic-10x-3000-messages-second/)
 - [AWS Health provides improved visibility into planned lifecycle events](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-health-improved-visibility-planned-lifecycle-events/)
 - [Amazon RDS Custom for Oracle is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-oracle-aws-govcloud-us-regions/)
 - [NICE DCV releases version 2023.1 with support for WebAuthn redirection](https://aws.amazon.com/about-aws/whats-new/2023/11/nice-dcv-2023-1-webauthn-redirection/)
 - [Amazon EC2 C7g, M7g and R7g instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7g-m7g-r7g-instances-regions/)
 - [AWS Application Discovery Service adds support for communication through network proxy](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-discovery-service-communication-proxy/)
-- [Amazon Redshift launches MaxRPU, a new compute cost control setting for Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-maxrpu-compute-cost-control-redshift-serverless/)
-- [Amazon GuardDuty introduces new machine learning capability to enhance threat detection for Amazon EKS detections](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-guardduty-machine-learning-capability-threat-detection-eks-detections/)
-- [QuickSight launches FLOAT data type support for SPICE datasets](https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-float-data-type-spice-datasets/)
-- [Deploy SAP applications programmatically using AWS Launch Wizard APIs](https://aws.amazon.com/about-aws/whats-new/2023/11/sap-applications-programmatically-aws-wizard-apis/)
-- [AWS announces Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-optimized-reads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

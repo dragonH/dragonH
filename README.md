@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [QuickSight launches FLOAT data type support for SPICE datasets](https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-float-data-type-spice-datasets/)
+- [Deploy SAP applications programmatically using AWS Launch Wizard APIs](https://aws.amazon.com/about-aws/whats-new/2023/11/sap-applications-programmatically-aws-wizard-apis/)
 - [AWS announces Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-optimized-reads/)
 - [AWS Lambda makes it easier to troubleshoot errors and timeouts of Init and Restore phase](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-troubleshoot-errors-timeouts-init-restore-phases/)
 - [AWS Application Migration Service supports AWS App2Container Replatforming](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-migration-service-app2container-replatforming/)
@@ -66,8 +68,6 @@
 - [AWS Audit Manager introduces framework for generative AI on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-framework-generative-ai-bedrock/)
 - [Amazon RDS Performance Insights supports exporting dashboards to CloudWatch](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-performance-insights-dashboards-cloudwatch/)
 - [Amazon Lex introduces Selective Conversation Log Capture for Amazon Lex V2](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-selective-conversation-log-capture-lex-v2/)
-- [AWS Fault Injection Simulator announces scenarios and scheduled experiments](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-simulator-scenarios-scheduled-experiments/)
-- [Database Activity Streams creates Kinesis data streams in on-demand mode](https://aws.amazon.com/about-aws/whats-new/2023/11/database-activity-streams-kinesis-data-streams-on-demand-mode/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

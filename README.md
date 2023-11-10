@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Proxy now supports PostgreSQL Extended Query Protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-proxy-postgresql-extended-query-protocol/)
+- [Amazon Connect reduces outbound telephony pricing across Europe](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-outbound-telephony-pricing-europe/)
+- [Amazon Connect supports Representative Numbers in South Korea](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-supports-representative-numbers-south-korea/)
+- [Amazon Connect reduces telephony pricing across South America](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-telephony-pricing-south-america/)
+- [Glue Studio Visual now supports interactive data previews](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-studio-visual-interactive-data-previews/)
+- [Amazon RDS for SQL Server supports minor versions 2014 GDR, 2016 GDR, 2017 CU31 GDR, and 2019 CU23](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-supports-minor-versions/)
 - [AWS Device Farm announces upgraded test environment for Android Devices](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-device-farm-upgraded-test-environment-android-devices/)
 - [Amazon Aurora Global Database for PostgreSQL now supports write forwarding](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-global-database-postgresql-forwarding/)
 - [News and Events Feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-central-news-events/)
 - [AWS Lambda enhances auto scaling for Kafka event sources](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-auto-scaling-kafka-event-sources/)
-- [Amazon SQS announces support for JSON protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-json-protocol/)
-- [Amazon Comprehend launches new trust and safety features](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-comprehend-trust-safety-features/)
-- [Amazon RDS Proxy now supports RDS Multi-AZ Deployments with two readable standbys](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-multi-az-deployments-readable-standbys/)
-- [Amazon FSx for OpenZFS is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-additional-aws-regions/)
-- [Amazon FSx for OpenZFS now supports additional deployment types in seven AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-deployment-types-aws-regions/)
-- [Amazon RDS Optimized Writes for MySQL and MariaDB now supports M5 database instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-optimized-writes-mysql-mariaDB-m5-database-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower now supports tagging for controls enabled in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-tagging-controls-enabled/)
+- [Amazon Connect prompts configuration page provides CloudTrail coverage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-prompts-configuration-page-provides-cloudtrail-coverage/)
+- [Amazon EventBridge now supports over 20 new Amazon CloudWatch Metrics for event buses](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-20-cloudwatch-metrics-event-buses/)
 - [AWS Lambda adds support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-amazon-linux-2023/)
 - [Amazon RDS Proxy now supports PostgreSQL Extended Query Protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-proxy-postgresql-extended-query-protocol/)
 - [Amazon Connect reduces outbound telephony pricing across Europe](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-outbound-telephony-pricing-europe/)
@@ -65,9 +68,6 @@
 - [Amazon Connect reduces telephony pricing across South America](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-telephony-pricing-south-america/)
 - [Glue Studio Visual now supports interactive data previews](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-studio-visual-interactive-data-previews/)
 - [Amazon RDS for SQL Server supports minor versions 2014 GDR, 2016 GDR, 2017 CU31 GDR, and 2019 CU23](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-supports-minor-versions/)
-- [AWS Device Farm announces upgraded test environment for Android Devices](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-device-farm-upgraded-test-environment-android-devices/)
-- [Amazon Aurora Global Database for PostgreSQL now supports write forwarding](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-global-database-postgresql-forwarding/)
-- [News and Events Feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-central-news-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

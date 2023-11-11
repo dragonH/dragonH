@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront announces unified security dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-unified-security-dashboard/)
 - [AWS Control Tower now supports tagging for controls enabled in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-tagging-controls-enabled/)
 - [Amazon Connect prompts configuration page provides CloudTrail coverage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-prompts-configuration-page-provides-cloudtrail-coverage/)
 - [Amazon EventBridge now supports over 20 new Amazon CloudWatch Metrics for event buses](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-20-cloudwatch-metrics-event-buses/)
@@ -67,7 +68,6 @@
 - [Amazon Connect supports Representative Numbers in South Korea](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-supports-representative-numbers-south-korea/)
 - [Amazon Connect reduces telephony pricing across South America](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-telephony-pricing-south-america/)
 - [Glue Studio Visual now supports interactive data previews](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-studio-visual-interactive-data-previews/)
-- [Amazon RDS for SQL Server supports minor versions 2014 GDR, 2016 GDR, 2017 CU31 GDR, and 2019 CU23](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-supports-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

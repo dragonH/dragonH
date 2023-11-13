@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS launches a new Local Zone in Dallas, Texas](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-new-local-zone-dallas-texas/)
+- [Llama 2 Chat 13B foundation model from Meta is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-chat-13b-model-meta-amazon-bedrock/)
+- [Cohere’s Command Light, Embed English, and multilingual models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-coheres-light-english-multilingual/)
+- [AWS Lambda console now features a single pane view of metrics, logs, and traces](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-console-single-pane-metrics-logs-traces/)
+- [AWS Compute Optimizer now supports 24 new EC2 instance types and 7 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-compute-optimizer-24-ec2-instance-7-regions/)
 - [Amazon CloudWatch Logs announces regular expression filter pattern support for Live Tail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-logs-filter-pattern-live-tail/)
 - [Launch templates now support ENA Express](https://aws.amazon.com/about-aws/whats-new/2023/11/launch-templates-ena-express/)
 - [Amazon Connect now enables scanning of attachments for malware](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-scanning-attachments-malware/)
 - [Amazon RDS for MySQL supports Innovation Release version 8.1 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-innovation-release-8-1-rds-database-preview-environment/)
 - [AWS Lambda runtime management controls are now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-runtime-controls-6-regions/)
-- [Amazon CloudFront announces unified security dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-unified-security-dashboard/)
-- [AWS Control Tower now supports tagging for controls enabled in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-tagging-controls-enabled/)
-- [Amazon Connect prompts configuration page provides CloudTrail coverage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-prompts-configuration-page-provides-cloudtrail-coverage/)
-- [Amazon EventBridge now supports over 20 new Amazon CloudWatch Metrics for event buses](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-20-cloudwatch-metrics-event-buses/)
-- [AWS Lambda adds support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-amazon-linux-2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

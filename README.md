@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Launch templates now support ENA Express](https://aws.amazon.com/about-aws/whats-new/2023/11/launch-templates-ena-express/)
+- [Amazon Connect now enables scanning of attachments for malware](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-scanning-attachments-malware/)
+- [Amazon RDS for MySQL supports Innovation Release version 8.1 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-innovation-release-8-1-rds-database-preview-environment/)
+- [AWS Lambda runtime management controls are now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-runtime-controls-6-regions/)
 - [Amazon CloudFront announces unified security dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-unified-security-dashboard/)
 - [AWS Control Tower now supports tagging for controls enabled in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-tagging-controls-enabled/)
 - [Amazon Connect prompts configuration page provides CloudTrail coverage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-prompts-configuration-page-provides-cloudtrail-coverage/)
 - [Amazon EventBridge now supports over 20 new Amazon CloudWatch Metrics for event buses](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-20-cloudwatch-metrics-event-buses/)
 - [AWS Lambda adds support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-amazon-linux-2023/)
 - [Amazon RDS Proxy now supports PostgreSQL Extended Query Protocol](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-proxy-postgresql-extended-query-protocol/)
-- [Amazon Connect reduces outbound telephony pricing across Europe](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-outbound-telephony-pricing-europe/)
-- [Amazon Connect supports Representative Numbers in South Korea](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-supports-representative-numbers-south-korea/)
-- [Amazon Connect reduces telephony pricing across South America](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-reduces-telephony-pricing-south-america/)
-- [Glue Studio Visual now supports interactive data previews](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-studio-visual-interactive-data-previews/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

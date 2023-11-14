@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache for Redis version 7.1 is generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-redis-version-7-1-generally-available/)
+- [Amazon RDS Custom for SQL Server now supports Service Master Key Retention and TDE](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-sql-server-key-retention-tde/)
+- [Amazon QuickSight launches shared restricted folders and a folder Contributor role to govern asset sharing](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-shared-restricted-folders-contributor-role/)
+- [Introducing the Instance Topology API for ML and HPC workloads](https://aws.amazon.com/about-aws/whats-new/2023/11/instance-topology-api-ml-hpc-workloads/)
+- [Amazon WorkSpaces introduces self-service diagnostic log uploads](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-workspaces-self-service-log-uploads/)
+- [AWS CodePipeline is now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codepipeline-seven-regions/)
 - [Customizable action buttons are now available in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/11/customizable-action-buttons-available-aws-chatbot/)
 - [Announcing Research and Engineering Studio on AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-research-engineering-studio/)
 - [Amazon MSK extends AWS IAM support to all programming languages for new clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-iam-programming-languages-clusters/)
 - [Amazon MSK Serverless now supports all programming languages](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-serverless-all-programming-languages/)
-- [Amazon Elastic Container Service now supports idempotency for task launches](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-container-service-idempotency-launches/)
-- [AWS Elastic Load Balancing introduces IAM condition keys for encryption and access controls](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-elastic-load-balancing-iam-condition-keys/)
-- [AWS launches a new Local Zone in Dallas, Texas](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-new-local-zone-dallas-texas/)
-- [Llama 2 Chat 13B foundation model from Meta is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-chat-13b-model-meta-amazon-bedrock/)
-- [Cohere’s Command Light, Embed English, and multilingual models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-coheres-light-english-multilingual/)
-- [AWS Lambda console now features a single pane view of metrics, logs, and traces](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-console-single-pane-metrics-logs-traces/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

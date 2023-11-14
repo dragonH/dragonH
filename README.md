@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now allows to view and export the function’s template to AWS Application Composer](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-view-export-functions-template-aws-application-composer/)
+- [AWS Clean Rooms announces configurability for collaboration payment](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-configurability-collaboration-payment/)
 - [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-client-vpn-additional-aws-regions/)
 - [Amazon OpenSearch Service now supports Neural Sparse Retrieval](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-service-supports-neural-sparse-retrieval/)
 - [Amazon OpenSearch Service now supports hybrid query score normalization](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-hybrid-query-score-normalization/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight launches shared restricted folders and a folder Contributor role to govern asset sharing](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-shared-restricted-folders-contributor-role/)
 - [Introducing the Instance Topology API for ML and HPC workloads](https://aws.amazon.com/about-aws/whats-new/2023/11/instance-topology-api-ml-hpc-workloads/)
 - [Amazon WorkSpaces introduces self-service diagnostic log uploads](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-workspaces-self-service-log-uploads/)
-- [AWS CodePipeline is now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codepipeline-seven-regions/)
-- [Customizable action buttons are now available in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/11/customizable-action-buttons-available-aws-chatbot/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

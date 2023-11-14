@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-client-vpn-additional-aws-regions/)
+- [Amazon OpenSearch Service now supports Neural Sparse Retrieval](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-service-supports-neural-sparse-retrieval/)
+- [Amazon OpenSearch Service now supports hybrid query score normalization](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-hybrid-query-score-normalization/)
 - [Amazon ElastiCache for Redis version 7.1 is generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-redis-version-7-1-generally-available/)
 - [Amazon RDS Custom for SQL Server now supports Service Master Key Retention and TDE](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-sql-server-key-retention-tde/)
 - [Amazon QuickSight launches shared restricted folders and a folder Contributor role to govern asset sharing](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-shared-restricted-folders-contributor-role/)
@@ -65,9 +68,6 @@
 - [Amazon WorkSpaces introduces self-service diagnostic log uploads](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-workspaces-self-service-log-uploads/)
 - [AWS CodePipeline is now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codepipeline-seven-regions/)
 - [Customizable action buttons are now available in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2023/11/customizable-action-buttons-available-aws-chatbot/)
-- [Announcing Research and Engineering Studio on AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-research-engineering-studio/)
-- [Amazon MSK extends AWS IAM support to all programming languages for new clusters](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-iam-programming-languages-clusters/)
-- [Amazon MSK Serverless now supports all programming languages](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-serverless-all-programming-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

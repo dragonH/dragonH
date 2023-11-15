@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New self-guided Software Path experience](https://aws.amazon.com/about-aws/whats-new/2023/11/new-self-guided-software-path-experience/)
 - [Announcing frozen collections for Amazon Keyspaces &lpar;for Apache Cassandra&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/frozen-collections-amazon-keyspaces-apache-cassandra/)
 - [Announcing AWS Amplify JavaScript v6 general availability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-javascript-v6/)
 - [AWS Lambda adds support for Node.js 20](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-node-js-20/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gd-m7gd-r7gd-instances-additional-regions/)
 - [Amazon EventBridge Pipes adds new logging functionality for improved observability](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-logging-improved-observability/)
 - [Amazon Aurora R6g and T4g instances now available in 9 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-r6g-t4g-instances-additional-regions/)
-- [AWS Resource Explorer now supports multi-account resource search](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-resource-explorer-multi-account-resource-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

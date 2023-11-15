@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Trusted Advisor adds 37 Amazon RDS checks](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-trusted-advisor-37-checks-aws-config/)
+- [Amazon EC2 High Memory instances now available in Europe &lpar;London&rpar; and Europe &lpar;Spain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-instances-europe-london-spain-regions/)
+- [AWS Resource Explorer supports 86 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-resource-explorer-86-resource-types/)
 - [New self-guided Software Path experience](https://aws.amazon.com/about-aws/whats-new/2023/11/new-self-guided-software-path-experience/)
 - [Announcing frozen collections for Amazon Keyspaces &lpar;for Apache Cassandra&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/frozen-collections-amazon-keyspaces-apache-cassandra/)
 - [Announcing AWS Amplify JavaScript v6 general availability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-javascript-v6/)
@@ -65,9 +68,6 @@
 - [AWS Ground Station expands Wideband Digital Intermediate Frequency to Oregon, Ohio, and Dubbo](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ground-station-expands-wideband-digital-frequency/)
 - [AWS Audit Manager launches its first GRC integration with MetricStream](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-integrates-metricstream/)
 - [Amazon EC2 C6in, M6in, M6idn, R6in, and R6idn instances now support higher Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-instances-ebs-instance-performance/)
-- [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gd-m7gd-r7gd-instances-additional-regions/)
-- [Amazon EventBridge Pipes adds new logging functionality for improved observability](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-logging-improved-observability/)
-- [Amazon Aurora R6g and T4g instances now available in 9 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-r6g-t4g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

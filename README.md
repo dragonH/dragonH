@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches updated hours of operation UI with CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-updated-hours-operation-ui-cloudtrail-support/)
+- [Enhanced AWS Partner Central experience to build and promote your offerings](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-central-build-promote-offerings/)
+- [Introducing account and product linking across AWS Marketplace and AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-partner-central-account-product-linking/)
+- [Announcing general availability of Amazon EC2 DL2q instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-dl2q-instances/)
+- [Amazon Aurora now supports PostgreSQL 16.0 in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-16-rds-database-preview/)
+- [Amazon S3 announces S3 Storage Lens groups for customized and granular visibility](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-s3-storage-lens-groups-customized-granular-visibility/)
+- [Amazon EC2 Auto Scaling adds greater control over EC2 instance replacement](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-auto-scaling-ec2-instance-replacement/)
+- [AWS Step Functions now supports restarting workflows from failure](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-restarting-workflows-failure/)
 - [AWS CloudTrail Lake now supports CloudTrail Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-supports-cloudtrail-insights/)
 - [AWS CloudTrail Lake announces new pricing option optimized for flexible retention](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-pricing-option-optimized-flexible-retention/)
-- [Amazon MWAA adds shared VPC support via customer managed endpoints](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-mwaa-vpc-customer-managed-endpoints/)
-- [Amazon EC2 X2iedn instances now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-x2iedn-instances-europe-spain-region/)
-- [AWS Glue Data Catalog supports automatic compaction for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-compaction-iceberg-tables/)
-- [Enhanced co-sell experience for AWS Partners](https://aws.amazon.com/about-aws/whats-new/2023/11/enhanced-co-sell-experience-aws-partners/)
-- [Extend your Amazon Managed Grafana experience with Grafana community plugins](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-managed-grafana-community-plugins/)
-- [AWS Trusted Advisor adds 37 Amazon RDS checks](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-trusted-advisor-37-checks-aws-config/)
-- [Amazon EC2 High Memory instances now available in Europe &lpar;London&rpar; and Europe &lpar;Spain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-high-memory-instances-europe-london-spain-regions/)
-- [AWS Resource Explorer supports 86 new resource types](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-resource-explorer-86-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing frozen collections for Amazon Keyspaces &lpar;for Apache Cassandra&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/frozen-collections-amazon-keyspaces-apache-cassandra/)
+- [Announcing AWS Amplify JavaScript v6 general availability](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-javascript-v6/)
+- [AWS Lambda adds support for Node.js 20](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-node-js-20/)
+- [AWS Ground Station expands Wideband Digital Intermediate Frequency to Oregon, Ohio, and Dubbo](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ground-station-expands-wideband-digital-frequency/)
+- [AWS Audit Manager launches its first GRC integration with MetricStream](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-audit-manager-integrates-metricstream/)
+- [Amazon EC2 C6in, M6in, M6idn, R6in, and R6idn instances now support higher Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c6in-m6in-m6idn-r6in-r6idn-instances-ebs-instance-performance/)
+- [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gd-m7gd-r7gd-instances-additional-regions/)
 - [Amazon EventBridge Pipes adds new logging functionality for improved observability](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-logging-improved-observability/)
 - [Amazon Aurora R6g and T4g instances now available in 9 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-r6g-t4g-instances-additional-regions/)
 - [AWS Resource Explorer now supports multi-account resource search](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-resource-explorer-multi-account-resource-search/)
-- [AWS Wickr now provides access to guest users](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-wickr-access-guest-users/)
-- [Amazon Connect Tasks is now generally available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-tasks-govcloud-us-west-region/)
-- [AWS Managed Services Accelerate now supports operations for Amazon EKS workloads](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-managed-services-accelerate-operations-amazon-eks-workloads/)
-- [Amazon CodeCatalyst now supports Terraform](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-supports-terraform/)
-- [Announcing new dashboards in AWS Web Application Firewall](https://aws.amazon.com/about-aws/whats-new/2023/11/new-dashboards-aws-web-application-firewall/)
-- [AWS IoT Device Defender now supports export of Detect metrics to other services](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-defender-export-detect-metrics/)
-- [AWS Lambda now allows to view and export the function’s template to AWS Application Composer](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-view-export-functions-template-aws-application-composer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

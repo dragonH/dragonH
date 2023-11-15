@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge Pipes adds new logging functionality for improved observability](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-logging-improved-observability/)
+- [Amazon Aurora R6g and T4g instances now available in 9 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-r6g-t4g-instances-additional-regions/)
+- [AWS Resource Explorer now supports multi-account resource search](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-resource-explorer-multi-account-resource-search/)
 - [AWS Wickr now provides access to guest users](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-wickr-access-guest-users/)
 - [Amazon Connect Tasks is now generally available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-tasks-govcloud-us-west-region/)
 - [AWS Managed Services Accelerate now supports operations for Amazon EKS workloads](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-managed-services-accelerate-operations-amazon-eks-workloads/)
@@ -65,9 +68,6 @@
 - [Announcing new dashboards in AWS Web Application Firewall](https://aws.amazon.com/about-aws/whats-new/2023/11/new-dashboards-aws-web-application-firewall/)
 - [AWS IoT Device Defender now supports export of Detect metrics to other services](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-defender-export-detect-metrics/)
 - [AWS Lambda now allows to view and export the function’s template to AWS Application Composer](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-view-export-functions-template-aws-application-composer/)
-- [AWS Clean Rooms announces configurability for collaboration payment](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-configurability-collaboration-payment/)
-- [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-client-vpn-additional-aws-regions/)
-- [Amazon OpenSearch Service now supports Neural Sparse Retrieval](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-service-supports-neural-sparse-retrieval/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Multi-AZ with two readable standbys now supports minor version upgrades with 1 second of downtime](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-multi-az-two-stanbys-upgrades-downtime/)
+- [Amazon Neptune is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-aws-israel-tel-aviv-region/)
+- [Amazon MSK now sends storage capacity alerts](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-storage-capacity-alerts/)
+- [AWS Systems Manager publishes status updates for operational issues, change requests to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-updates-operational-requests-eventbridge/)
+- [Amazon IVS now supports server-side composition](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ivs-server-side-composition/)
+- [AWS Integrated Application Test Kit &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-integrated-application-test-kit-preview/)
+- [Announcing Expanded Support for Amazon GameLift Plugin for Unity](https://aws.amazon.com/about-aws/whats-new/2023/11/expanded-support-amazon-gamelift-plugin-unity/)
+- [Amazon EC2 M6in and M6idn instances are now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-m6in-m6idn-instances-available-us-west-n-california/)
+- [Amazon EC2 C6in instances are now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c6in-instances-available-us-west-n-california/)
 - [AWS announces IPv6 tiered VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ipv6-tiered-vpcs-subnets/)
-- [AWS Amplify Hosting now supports wildcard subdomains](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-supports-wildcard-subdomains/)
-- [AWS Cloud Map now supports AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloud-map-cloudtrail-data-events/)
-- [AWS Managed Microsoft AD adds support for One Identity Active Roles](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-managed-microsoft-ad-identity-active-roles/)
-- [Amazon Elastic Block Store announces default policies to backup EC2 instances and EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-policies-ec2-ebs/)
-- [New organization-wide IAM condition keys to restrict AWS service-to-service requests](https://aws.amazon.com/about-aws/whats-new/2023/11/organization-wide-iam-condition-keys-restrict-aws-service-to-service-requests/)
-- [Amazon Braket now supports parametric circuits to speed up variational algorithms](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-braket-parametric-circuits-speed-up-variational-algorithms/)
-- [AWS Integrated Application Test Kit &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloud-test-kit-preview/)
-- [AWS now offers long-form engine with the first three expressive American English voices](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-long-form-three-expressive-english-voices/)
-- [Amazon MSK adds support for Apache Kafka version 3.6.0 with Tiered Storage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-support-apache-kafka-version-3-6-0-tiered-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

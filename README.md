@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS Multi-AZ with two readable standbys now supports minor version upgrades with 1 second of downtime](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-multi-az-two-stanbys-upgrades-downtime/)
-- [Amazon Neptune is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-aws-israel-tel-aviv-region/)
-- [Amazon MSK now sends storage capacity alerts](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-storage-capacity-alerts/)
-- [AWS Systems Manager publishes status updates for operational issues, change requests to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-updates-operational-requests-eventbridge/)
-- [Amazon IVS now supports server-side composition](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ivs-server-side-composition/)
-- [AWS Integrated Application Test Kit &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-integrated-application-test-kit-preview/)
-- [Announcing Expanded Support for Amazon GameLift Plugin for Unity](https://aws.amazon.com/about-aws/whats-new/2023/11/expanded-support-amazon-gamelift-plugin-unity/)
-- [Amazon EC2 M6in and M6idn instances are now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-m6in-m6idn-instances-available-us-west-n-california/)
-- [Amazon EC2 C6in instances are now available in US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c6in-instances-available-us-west-n-california/)
-- [AWS announces IPv6 tiered VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ipv6-tiered-vpcs-subnets/)
+- [Amazon EC2 C7gn instances are now available in AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gn-instances-tokyo-region/)
+- [Amazon SQS announces support for logging data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-logging-data-events-aws-cloudtrail/)
+- [New Amazon CloudWatch metric monitors EBS volume I/O  health](https://aws.amazon.com/about-aws/whats-new/2023/11/new-amazon-cloudwatch-metric-monitors-ebs-volume-i-o-health/)
+- [AWS Cost Explorer now provides more historical and granular data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-explorer-provides-historical-granular-data/)
+- [AWS AppSync introduces new metrics for monitoring of real-time GraphQL subscriptions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-metrics-monitoring-graphql-subscriptions/)
+- [AWS Lambda now supports failed-event destinations for Kafka event source mappings](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-failed-event-destinations-kafka-event-source-mappings/)
+- [Announcing Policy Assistant for AWS Verified Access](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-verified-access-policy-assistant/)
+- [Amazon FSx for OpenZFS provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-performance-metrics-dashboard/)
+- [Amazon FSx for OpenZFS expands availability in the US West &lpar;N. California&rpar; and Canada &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-availability-us-west-canada-regions/)
+- [Amazon FSx for Lustre now enables you to adjust the throughput tier of your file systems](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-lustre-adjust-throughput-tier-file-systems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

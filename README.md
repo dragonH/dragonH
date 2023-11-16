@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces IPv6 tiered VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ipv6-tiered-vpcs-subnets/)
+- [AWS Amplify Hosting now supports wildcard subdomains](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-supports-wildcard-subdomains/)
+- [AWS Cloud Map now supports AWS CloudTrail data events](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloud-map-cloudtrail-data-events/)
+- [AWS Managed Microsoft AD adds support for One Identity Active Roles](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-managed-microsoft-ad-identity-active-roles/)
+- [Amazon Elastic Block Store announces default policies to backup EC2 instances and EBS volumes](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-policies-ec2-ebs/)
+- [New organization-wide IAM condition keys to restrict AWS service-to-service requests](https://aws.amazon.com/about-aws/whats-new/2023/11/organization-wide-iam-condition-keys-restrict-aws-service-to-service-requests/)
+- [Amazon Braket now supports parametric circuits to speed up variational algorithms](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-braket-parametric-circuits-speed-up-variational-algorithms/)
+- [AWS Integrated Application Test Kit &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloud-test-kit-preview/)
+- [AWS now offers long-form engine with the first three expressive American English voices](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-long-form-three-expressive-english-voices/)
 - [Amazon MSK adds support for Apache Kafka version 3.6.0 with Tiered Storage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-support-apache-kafka-version-3-6-0-tiered-storage/)
-- [AWS IoT Device Management adds support for indexing and querying device location](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-management-indexing-querying-device-location/)
-- [AWS announces multiple stats query command for Amazon CloudWatch Logs Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-logs-insights-stats-query-command/)
-- [Amazon Transcribe now supports automatic language identification for multi-lingual real-time audio streams](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-automatic-language-identification/)
-- [Amazon SNS launches additional message filtering operators, including suffix and case-insensitive matching](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sns-message-additional-filtering-operators/)
-- [Amazon RDS for MySQL now supports upgrading MySQL 5.7 snapshots to MySQL 8.0](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-upgrading-mysql-5-7-snapshots-mysql-8-0/)
-- [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
-- [Microservice Extractor simplifies porting of large .NET applications to Linux](https://aws.amazon.com/about-aws/whats-new/2023/11/microservice-extractor-porting-net-linux/)
-- [AWS Backup launches new console experience with jobs dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-console-jobs-dashboard/)
-- [Amazon EC2 R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-r6a-instances-available-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

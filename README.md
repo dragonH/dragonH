@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds support for Apache Kafka version 3.6.0 with Tiered Storage](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-msk-support-apache-kafka-version-3-6-0-tiered-storage/)
+- [AWS IoT Device Management adds support for indexing and querying device location](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-device-management-indexing-querying-device-location/)
+- [AWS announces multiple stats query command for Amazon CloudWatch Logs Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-logs-insights-stats-query-command/)
+- [Amazon Transcribe now supports automatic language identification for multi-lingual real-time audio streams](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-automatic-language-identification/)
+- [Amazon SNS launches additional message filtering operators, including suffix and case-insensitive matching](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sns-message-additional-filtering-operators/)
+- [Amazon RDS for MySQL now supports upgrading MySQL 5.7 snapshots to MySQL 8.0](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-upgrading-mysql-5-7-snapshots-mysql-8-0/)
 - [Amazon Time Sync Service now supports microsecond-accurate time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-time-sync-service-microsecond-accurate-time/)
 - [Microservice Extractor simplifies porting of large .NET applications to Linux](https://aws.amazon.com/about-aws/whats-new/2023/11/microservice-extractor-porting-net-linux/)
 - [AWS Backup launches new console experience with jobs dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-console-jobs-dashboard/)
 - [Amazon EC2 R6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-r6a-instances-available-additional-regions/)
-- [AWS IAM Identity Center enhances the multi-factor authentication &lpar;MFA&rpar; defaults for new IAM Identity Center instances](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-mfa-defaults-iam-identity-center-instances/)
-- [Announcing PartyRock, an Amazon Bedrock Playground](https://aws.amazon.com/about-aws/whats-new/2023/11/partyrock-amazon-bedrock-playground/)
-- [AWS Cost Management now supports AppRegistry resource tags](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-appregistry-resource-tags/)
-- [Amazon S3 announces S3 Storage Lens groups for customized and granular visibility](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-groups-customized-granular-visibility/)
-- [Amazon RDS for SQL Server supports SQL Server major version 2022](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-sql-server-major-version-2022/)
-- [Amazon EBS announces Snapshot Lock to protect snapshots from inadvertent or malicious deletions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ebs-snapshot-lock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

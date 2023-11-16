@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Management now supports AppRegistry resource tags](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-management-appregistry-resource-tags/)
+- [Amazon S3 announces S3 Storage Lens groups for customized and granular visibility](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-groups-customized-granular-visibility/)
+- [Amazon RDS for SQL Server supports SQL Server major version 2022](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-sql-server-sql-server-major-version-2022/)
+- [Amazon EBS announces Snapshot Lock to protect snapshots from inadvertent or malicious deletions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ebs-snapshot-lock/)
+- [Amazon Route 53 Resolver DNS Firewall now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-route-53-resolver-firewall-4-regions/)
 - [Amazon Connect launches updated hours of operation UI with CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-updated-hours-operation-ui-cloudtrail-support/)
 - [Enhanced AWS Partner Central experience to build and promote your offerings](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-central-build-promote-offerings/)
 - [Introducing account and product linking across AWS Marketplace and AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-partner-central-account-product-linking/)
 - [Announcing general availability of Amazon EC2 DL2q instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-dl2q-instances/)
 - [Amazon Aurora now supports PostgreSQL 16.0 in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-16-rds-database-preview/)
-- [Amazon S3 announces S3 Storage Lens groups for customized and granular visibility](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-s3-storage-lens-groups-customized-granular-visibility/)
-- [Amazon EC2 Auto Scaling adds greater control over EC2 instance replacement](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-auto-scaling-ec2-instance-replacement/)
-- [AWS Step Functions now supports restarting workflows from failure](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-restarting-workflows-failure/)
-- [AWS CloudTrail Lake now supports CloudTrail Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-supports-cloudtrail-insights/)
-- [AWS CloudTrail Lake announces new pricing option optimized for flexible retention](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudtrail-lake-pricing-option-optimized-flexible-retention/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

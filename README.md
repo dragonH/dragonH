@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VPCs and subnets now support more sizes for IPv6 CIDRs](https://aws.amazon.com/about-aws/whats-new/2023/11/vpcs-subnets-support-more-sizes-ipv6-cidrs/)
 - [Amazon EC2 C7gn instances are now available in AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gn-instances-tokyo-region/)
 - [Amazon SQS announces support for logging data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-logging-data-events-aws-cloudtrail/)
 - [New Amazon CloudWatch metric monitors EBS volume I/O  health](https://aws.amazon.com/about-aws/whats-new/2023/11/new-amazon-cloudwatch-metric-monitors-ebs-volume-i-o-health/)
@@ -67,7 +68,6 @@
 - [Announcing Policy Assistant for AWS Verified Access](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-verified-access-policy-assistant/)
 - [Amazon FSx for OpenZFS provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-performance-metrics-dashboard/)
 - [Amazon FSx for OpenZFS expands availability in the US West &lpar;N. California&rpar; and Canada &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-availability-us-west-canada-regions/)
-- [Amazon FSx for Lustre now enables you to adjust the throughput tier of your file systems](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-lustre-adjust-throughput-tier-file-systems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

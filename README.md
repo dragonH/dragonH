@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [VPCs and subnets now support more sizes for IPv6 CIDRs](https://aws.amazon.com/about-aws/whats-new/2023/11/vpcs-subnets-support-more-sizes-ipv6-cidrs/)
-- [Amazon EC2 C7gn instances are now available in AWS Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7gn-instances-tokyo-region/)
-- [Amazon SQS announces support for logging data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-support-logging-data-events-aws-cloudtrail/)
-- [New Amazon CloudWatch metric monitors EBS volume I/O  health](https://aws.amazon.com/about-aws/whats-new/2023/11/new-amazon-cloudwatch-metric-monitors-ebs-volume-i-o-health/)
-- [AWS Cost Explorer now provides more historical and granular data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cost-explorer-provides-historical-granular-data/)
-- [AWS AppSync introduces new metrics for monitoring of real-time GraphQL subscriptions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-metrics-monitoring-graphql-subscriptions/)
-- [AWS Lambda now supports failed-event destinations for Kafka event source mappings](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-failed-event-destinations-kafka-event-source-mappings/)
-- [Announcing Policy Assistant for AWS Verified Access](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-verified-access-policy-assistant/)
-- [Amazon FSx for OpenZFS provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-performance-metrics-dashboard/)
-- [Amazon FSx for OpenZFS expands availability in the US West &lpar;N. California&rpar; and Canada &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-availability-us-west-canada-regions/)
+- [Amazon EMR Serverless is now available 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/)
+- [Amazon Connect now provides a Contact Lens conversational analytics dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-analytics-dashboard/)
+- [Amazon OpenSearch Ingestion is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-available-additional-commercial-regions/)
+- [Amazon RDS Custom for SQL Server extends Point in Time Recovery support for up to 1000 databases](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-sql-server-recovery-1000-databases/)
+- [Monitor SAP Sybase ASE database with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/monitor-sap-ase-database-cloudwatch-insights/)
+- [AWS Fargate now supports AWS Graviton2 Processors in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fargate-graviton2-processors-aws-regions/)
+- [Amazon Connect supports visibility and management of applied quotas using AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-visibility-applied-service-quotas/)
+- [AWS Systems Manager Automation now offers support for loops, type transformations, and more](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-automation-loops-type-transformations-more/)
+- [AWS Lambda adds support for Java 21](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-java-21/)
+- [AWS IAM Identity Center now provides new APIs to automate access to applications](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-apis-automate-access-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

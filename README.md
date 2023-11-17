@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight now supports programmatic user access management by assigning groups to roles](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-programmatic-user-access-management/)
-- [Amazon CodeCatalyst now supports Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-supports-virtual-private-cloud/)
-- [Amazon Connect now offers quick responses for contact center agents engaged in chats](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-quick-responses-contact-center-agents-engaged-chats/)
-- [AWS Glue Data Catalog now supports generating column-level statistics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-generating-column-level-statistics/)
-- [QuickSight launches Custom Week Start](https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-custom-week-start/)
-- [QuickSight launches Custom Time Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-custom-time-zone/)
-- [Amazon EMR Serverless is now available in 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/)
-- [Amazon Connect now provides a Contact Lens conversational analytics dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-analytics-dashboard/)
-- [Amazon OpenSearch Ingestion is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-available-additional-commercial-regions/)
-- [Amazon RDS Custom for SQL Server extends Point in Time Recovery support for up to 1000 databases](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-sql-server-recovery-1000-databases/)
+- [Amazon SageMaker Studio now supports automated user setup with IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-automated-user-setup-iam-identity-center/)
+- [AWS Supply Chain Demand Planning provides up to 3x faster forecasting and 75% lower UI latency](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-faster-forecasting-lower-ui-latency/)
+- [AWS DMS now supports Amazon Timestream as a target](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-dms-amazon-timestream-target/)
+- [Announcing teams for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-teams/)
+- [Amazon VPC IP Address Manager adds a free features tier, including AWS Organization-wide Public IP Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-address-manager-free-features-tier/)
+- [New Amazon Pinpoint SMS management capabilities for developers](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-pinpoint-sms-capabilities-developers/)
+- [Amazon Athena adds cost-based optimizer to enhance query performance](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cost-based-optimizer-enhance-query-performance/)
+- [Amazon EMR Studio adds interactive query editor powered by Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-query-editor-athena/)
+- [Amazon VPC IP Address Manager now allows you to Bring Your Own ASN to AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-ip-address-manager-bring-your-own-asn-aws/)
+- [Amazon VPC IP Address Manager now automates IP address assignments for VPC subnets](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-ip-address-manager-assignments-vpc-subnets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

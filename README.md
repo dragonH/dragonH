@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports programmatic user access management by assigning groups to roles](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-programmatic-user-access-management/)
+- [Amazon CodeCatalyst now supports Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-supports-virtual-private-cloud/)
+- [Amazon Connect now offers quick responses for contact center agents engaged in chats](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-quick-responses-contact-center-agents-engaged-chats/)
+- [AWS Glue Data Catalog now supports generating column-level statistics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-generating-column-level-statistics/)
 - [QuickSight launches Custom Week Start](https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-custom-week-start/)
 - [QuickSight launches Custom Time Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/quicksight-custom-time-zone/)
 - [Amazon EMR Serverless is now available in 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-serverless-available-new-aws-regions/)
 - [Amazon Connect now provides a Contact Lens conversational analytics dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-analytics-dashboard/)
 - [Amazon OpenSearch Ingestion is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-available-additional-commercial-regions/)
 - [Amazon RDS Custom for SQL Server extends Point in Time Recovery support for up to 1000 databases](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-custom-sql-server-recovery-1000-databases/)
-- [Monitor SAP Sybase ASE database with Amazon CloudWatch Application Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/monitor-sap-ase-database-cloudwatch-insights/)
-- [AWS Fargate now supports AWS Graviton2 Processors in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fargate-graviton2-processors-aws-regions/)
-- [Amazon Connect supports visibility and management of applied quotas using AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-visibility-applied-service-quotas/)
-- [AWS Systems Manager Automation now offers support for loops, type transformations, and more](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-automation-loops-type-transformations-more/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

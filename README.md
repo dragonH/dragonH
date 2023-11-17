@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SageMaker Studio now supports automated user setup with IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-automated-user-setup-iam-identity-center/)
-- [AWS Supply Chain Demand Planning provides up to 3x faster forecasting and 75% lower UI latency](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-supply-chain-demand-planning-faster-forecasting-lower-ui-latency/)
-- [AWS DMS now supports Amazon Timestream as a target](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-dms-amazon-timestream-target/)
-- [Announcing teams for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-teams/)
-- [Amazon VPC IP Address Manager adds a free features tier, including AWS Organization-wide Public IP Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-address-manager-free-features-tier/)
-- [New Amazon Pinpoint SMS management capabilities for developers](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-pinpoint-sms-capabilities-developers/)
-- [Amazon Athena adds cost-based optimizer to enhance query performance](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cost-based-optimizer-enhance-query-performance/)
-- [Amazon EMR Studio adds interactive query editor powered by Amazon Athena](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-query-editor-athena/)
-- [Amazon VPC IP Address Manager now allows you to Bring Your Own ASN to AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-ip-address-manager-bring-your-own-asn-aws/)
-- [Amazon VPC IP Address Manager now automates IP address assignments for VPC subnets](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-vpc-ip-address-manager-assignments-vpc-subnets/)
+- [Amazon QuickSight launches custom access to capabilities based on roles](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-custom-access-capabilities-based-roles/)
+- [New payment options for the AWS Marketplace flexible payment scheduler](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-scheduler-payment-options/)
+- [Amazon EventBridge EventBus announces support for read-only API events from CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-read-only-api-cloudtrail/)
+- [Amazon ECR pull through cache now supports additional upstream registries](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ecr-pull-through-cache-additional-upstream-registries/)
+- [Amazon EC2 C7g, M7g and R7g instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7g-m7g-r7g-additional-regions/)
+- [AWS Trusted Advisor announces new APIs](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-trusted-advisor-new-apis/)
+- [AWS Transfer Family expands logical directories limit](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-transfer-family-logical-directories-limit/)
+- [Amazon ECR adds ability to specify initial configuration for repositories created via pull through cache &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ecr-initial-configuration-repositories-pull-through-cache-preview/)
+- [Amazon S3 Storage Lens now aggregates activity and status code metrics by prefix](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-aggregates-activity-status-code-metrics-prefix/)
+- [RDS Custom for SQL Server supports SQL Server Developer Edition](https://aws.amazon.com/about-aws/whats-new/2023/11/rds-custom-sql-server-developer-edition/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

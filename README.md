@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight launches custom access to capabilities based on roles](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-custom-access-capabilities-based-roles/)
-- [New payment options for the AWS Marketplace flexible payment scheduler](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-scheduler-payment-options/)
+- [AWS CloudFormation simplifies resource import with a new parameter for ChangeSets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudformation-import-parameter-changesets/)
+- [Amazon Redshift announces support for CNAME](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-support-cname/)
+- [Amazon Connect now provides a pre-built queue performance dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-pre-built-queue-performance-dashboard/)
+- [Automate application-consistent EBS Snapshots for SAP HANA databases](https://aws.amazon.com/about-aws/whats-new/2023/11/automate-application-ebs-snapshots-sap-hana-databases/)
+- [Enhancements to AWS Partner Analytics Dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/enhancements-aws-partner-analytics-dashboard/)
+- [Amazon OpenSearch Ingestion announces support for persistent buffering](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-support-persistent-buffering/)
+- [Amazon OpenSearch Ingestion now supports migrating your ElasticSearch indexes to Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-migrating-elasticsearch-indexes-opensearch-service/)
 - [Amazon EventBridge EventBus announces support for read-only API events from CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-read-only-api-cloudtrail/)
-- [Amazon ECR pull through cache now supports additional upstream registries](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ecr-pull-through-cache-additional-upstream-registries/)
-- [Amazon EC2 C7g, M7g and R7g instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-c7g-m7g-r7g-additional-regions/)
-- [AWS Trusted Advisor announces new APIs](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-trusted-advisor-new-apis/)
-- [AWS Transfer Family expands logical directories limit](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-transfer-family-logical-directories-limit/)
-- [Amazon ECR adds ability to specify initial configuration for repositories created via pull through cache &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ecr-initial-configuration-repositories-pull-through-cache-preview/)
-- [Amazon S3 Storage Lens now aggregates activity and status code metrics by prefix](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-storage-lens-aggregates-activity-status-code-metrics-prefix/)
-- [RDS Custom for SQL Server supports SQL Server Developer Edition](https://aws.amazon.com/about-aws/whats-new/2023/11/rds-custom-sql-server-developer-edition/)
+- [Amazon RDS for MySQL now supports Group Replication plugin for active-active replication](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-group-replication-plugin-active-active-replication/)
+- [Amazon QuickSight launches custom access to capabilities based on roles](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-custom-access-capabilities-based-roles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

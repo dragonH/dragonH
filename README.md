@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CloudFormation simplifies resource import with a new parameter for ChangeSets](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cloudformation-import-parameter-changesets/)
-- [Amazon Redshift announces support for CNAME](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-support-cname/)
-- [Amazon Connect now provides a pre-built queue performance dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-pre-built-queue-performance-dashboard/)
-- [Automate application-consistent EBS Snapshots for SAP HANA databases](https://aws.amazon.com/about-aws/whats-new/2023/11/automate-application-ebs-snapshots-sap-hana-databases/)
-- [Enhancements to AWS Partner Analytics Dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/enhancements-aws-partner-analytics-dashboard/)
-- [Amazon OpenSearch Ingestion announces support for persistent buffering](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-support-persistent-buffering/)
-- [Amazon OpenSearch Ingestion now supports migrating your ElasticSearch indexes to Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-ingestion-migrating-elasticsearch-indexes-opensearch-service/)
-- [Amazon EventBridge EventBus announces support for read-only API events from CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eventbridge-read-only-api-cloudtrail/)
-- [Amazon RDS for MySQL now supports Group Replication plugin for active-active replication](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-group-replication-plugin-active-active-replication/)
-- [Amazon QuickSight launches custom access to capabilities based on roles](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-custom-access-capabilities-based-roles/)
+- [EC2 Security group connection tracking adds support for configurable idle timeouts](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-security-connection-tracking-idle-timeouts/)
+- [Amazon OpenSearch Service now supports OpenSearch version 2.11](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-supports-version-2-11/)
+- [Amazon Athena adds CloudWatch metrics for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cloudwatch-metrics-capacity/)
+- [AWS Glue announces entity-level actions to manage sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-entity-level-actions-sensitive-data/)
+- [AWS Outposts rack supports service link interface throughput metrics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-outposts-rack-service-link-interface-throughput-metrics/)
+- [Amazon Verified Permissions now supports batch authorization](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-verified-permissions-supports-batch-authorization/)
+- [AWS Systems Manager Incident Manager now identifies probable root causes of incidents](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-incident-manager-identifies-probable-root-causes/)
+- [Amazon QuickSight now supports runtime filtering for embedded dashboards and visuals](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-filtering-embedded-dashboards-visuals/)
+- [Amazon EC2 Mac instances now support Apple macOS Sonoma](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-mac-instances-support-apple-macos-sonoma/)
+- [Amazon QuickSight now supports runtime theming for embedded dashboards and visuals](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-theming-embedded-dashboards-visuals/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

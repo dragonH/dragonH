@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS IAM Identity Center APIs for visibility into workforce access to AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-apis-workforce-access/)
+- [Amazon Redshift Serverless is now generally available in the AWS China &lpar;Beijing&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-china-beijing-region/)
 - [EC2 Security group connection tracking adds support for configurable idle timeouts](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-security-connection-tracking-idle-timeouts/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.11](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-supports-version-2-11/)
 - [Amazon Athena adds CloudWatch metrics for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cloudwatch-metrics-capacity/)
@@ -66,8 +68,6 @@
 - [Amazon Verified Permissions now supports batch authorization](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-verified-permissions-supports-batch-authorization/)
 - [AWS Systems Manager Incident Manager now identifies probable root causes of incidents](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-incident-manager-identifies-probable-root-causes/)
 - [Amazon QuickSight now supports runtime filtering for embedded dashboards and visuals](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-filtering-embedded-dashboards-visuals/)
-- [Amazon EC2 Mac instances now support Apple macOS Sonoma](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-mac-instances-support-apple-macos-sonoma/)
-- [Amazon QuickSight now supports runtime theming for embedded dashboards and visuals](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-theming-embedded-dashboards-visuals/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

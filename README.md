@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing AWS IAM Identity Center APIs for visibility into workforce access to AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iam-identity-center-apis-workforce-access/)
-- [Amazon Redshift Serverless is now generally available in the AWS China &lpar;Beijing&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-china-beijing-region/)
-- [EC2 Security group connection tracking adds support for configurable idle timeouts](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-security-connection-tracking-idle-timeouts/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.11](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-supports-version-2-11/)
-- [Amazon Athena adds CloudWatch metrics for Provisioned Capacity](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-athena-cloudwatch-metrics-capacity/)
-- [AWS Glue announces entity-level actions to manage sensitive data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-entity-level-actions-sensitive-data/)
-- [AWS Outposts rack supports service link interface throughput metrics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-outposts-rack-service-link-interface-throughput-metrics/)
-- [Amazon Verified Permissions now supports batch authorization](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-verified-permissions-supports-batch-authorization/)
-- [AWS Systems Manager Incident Manager now identifies probable root causes of incidents](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-systems-manager-incident-manager-identifies-probable-root-causes/)
-- [Amazon QuickSight now supports runtime filtering for embedded dashboards and visuals](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-runtime-filtering-embedded-dashboards-visuals/)
+- [Introducing Amazon CodeWhisperer for command line &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-command-line-preview/)
+- [Application and Network Load Balancer now supports FIPS 140-3 for TLS Termination](https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-fips-tls-termination/)
+- [Amazon RDS for PostgreSQL now supports major version 16](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-postgresql-major-version-16/)
+- [AWS Amplify Hosting extends server-side rendering &lpar;SSR&rpar; support to additional frameworks](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-ssr-additional-frameworks/)
+- [Customer Profiles Flow block simplifies authentication and retrieval of customer profile information.](https://aws.amazon.com/about-aws/whats-new/2023/11/customer-profiles-flow-authentication-customer-profiles/)
+- [Announcing AWS Glue serverless Spark UI and observability metrics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-serverless-spark-ui-observability-metrics/)
+- [Amazon QuickSight now Supports Connectivity to Google BigQuery](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-connectivity-google-bigquery/)
+- [Amazon EMR on Amazon EKS is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-eks-3-additional-regions/)
+- [Amazon Redshift announces integration with AWS Glue column-level statistics](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-integration-glue-column-statistics/)
+- [Amazon S3 now supports enabling S3 Object Lock on existing buckets](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-enabling-object-lock-buckets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB now supports no-code machine learning with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-no-code-learning-sagemaker-canvas/)
+- [Apache Flink is now generally available for Amazon EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2023/11/apache-flink-available-amazon-emr-eks/)
+- [EC2 Image Builder now supports image lifecycle management and deletion](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-lifecycle-management-deletion/)
+- [Amazon Elastic Block Store announces io2 Block Express volumes available on all EC2 Nitro instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-io2-block-express-nitro/)
+- [AWS Lake Formation data filters now support permissions on nested data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lake-formation-data-filters-permissions-nested-data/)
+- [Amazon FSx for OpenZFS now provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-performance-metrics-enhanced-monitoring-dashboard/)
+- [Amazon Verified Permissions now provides an enhanced visual mode for schema editing](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-verified-permissions-enhanced-visual-mode-schema-editing/)
+- [Customers can now launch their Amazon EMR on EC2 clusters in 5 minutes or less](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-ec2-clusters-5-minutes-less/)
 - [Introducing Amazon CodeWhisperer for command line &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-command-line-preview/)
 - [Application and Network Load Balancer now supports FIPS 140-3 for TLS Termination](https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-fips-tls-termination/)
-- [Amazon RDS for PostgreSQL now supports major version 16](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-postgresql-major-version-16/)
-- [AWS Amplify Hosting extends server-side rendering &lpar;SSR&rpar; support to additional frameworks](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-hosting-ssr-additional-frameworks/)
-- [Customer Profiles Flow block simplifies authentication and retrieval of customer profile information.](https://aws.amazon.com/about-aws/whats-new/2023/11/customer-profiles-flow-authentication-customer-profiles/)
-- [Announcing AWS Glue serverless Spark UI and observability metrics](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-serverless-spark-ui-observability-metrics/)
-- [Amazon QuickSight now Supports Connectivity to Google BigQuery](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-connectivity-google-bigquery/)
-- [Amazon EMR on Amazon EKS is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-eks-3-additional-regions/)
-- [Amazon Redshift announces integration with AWS Glue column-level statistics](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-integration-glue-column-statistics/)
-- [Amazon S3 now supports enabling S3 Object Lock on existing buckets](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-enabling-object-lock-buckets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

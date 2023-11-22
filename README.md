@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon DocumentDB I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-i-o-optimized/)
+- [Amazon CloudFront announces CloudFront KeyValueStore, a globally managed key value datastore](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-keyvaluestore-globally-managed-key-value-datastore/)
+- [Amazon QuickSight supports SPICE capacity auto-purchase](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-spice-capacity-auto-purchase/)
+- [Amazon S3 server access logging now supports automatic date-based partitioning](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-server-access-logging-date-partitioning/)
 - [AWS Amplify launches next generation of backend building capabilities](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-next-generation-backend-capabilities/)
 - [Amazon DocumentDB now supports no-code machine learning with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-no-code-learning-sagemaker-canvas/)
 - [Apache Flink is now generally available for Amazon EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2023/11/apache-flink-available-amazon-emr-eks/)
 - [EC2 Image Builder now supports image lifecycle management and deletion](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-lifecycle-management-deletion/)
 - [Amazon Elastic Block Store announces io2 Block Express volumes available on all EC2 Nitro instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-io2-block-express-nitro/)
 - [AWS Lake Formation data filters now support permissions on nested data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lake-formation-data-filters-permissions-nested-data/)
-- [Amazon Verified Permissions now provides an enhanced visual mode for schema editing](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-verified-permissions-enhanced-visual-mode-schema-editing/)
-- [Customers can now launch their Amazon EMR on EC2 clusters in 5 minutes or less](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-ec2-clusters-5-minutes-less/)
-- [Introducing Amazon CodeWhisperer for command line &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-command-line-preview/)
-- [Application and Network Load Balancer now supports FIPS 140-3 for TLS Termination](https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-fips-tls-termination/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

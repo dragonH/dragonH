@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon DocumentDB I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-i-o-optimized/)
-- [Amazon CloudFront announces CloudFront KeyValueStore, a globally managed key value datastore](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudfront-keyvaluestore-globally-managed-key-value-datastore/)
-- [Amazon QuickSight supports SPICE capacity auto-purchase](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-spice-capacity-auto-purchase/)
-- [Amazon S3 server access logging now supports automatic date-based partitioning](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-server-access-logging-date-partitioning/)
-- [AWS Amplify launches next generation of backend building capabilities](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amplify-next-generation-backend-capabilities/)
-- [Amazon DocumentDB now supports no-code machine learning with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-documentdb-no-code-learning-sagemaker-canvas/)
-- [Apache Flink is now generally available for Amazon EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2023/11/apache-flink-available-amazon-emr-eks/)
-- [EC2 Image Builder now supports image lifecycle management and deletion](https://aws.amazon.com/about-aws/whats-new/2023/11/ec2-image-builder-lifecycle-management-deletion/)
-- [Amazon Elastic Block Store announces io2 Block Express volumes available on all EC2 Nitro instances](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elastic-block-store-io2-block-express-nitro/)
-- [AWS Lake Formation data filters now support permissions on nested data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lake-formation-data-filters-permissions-nested-data/)
+- [AWS Entity Resolution is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hippa-eligible/)
+- [AWS IoT TwinMaker launches new features to improve the digital twin entity modeling experience](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-twinmaker-features-improve-digital-twin-entity-modeling-experience/)
+- [Amazon EMR Studio is now available in 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-4-new-regions/)
+- [AWS IoT SiteWise announces a new storage tier for industrial data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-storage-tier-industrial-data/)
+- [AWS IoT SiteWise supports ingestion of buffered and batched measurement data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-buffered-batched-measurement-data/)
+- [Amazon QuickSight launches a new redesigned analysis experience](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-redesigned-analysis-experience/)
+- [AWS IoT SiteWise now support bulk import, export and update of metadata](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-support-bulk-import-export-update-metadata/)
+- [AWS IoT SiteWise now supports multi-variate anomaly detection with Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-multi-variate-anomaly-detection-amazon-lookout-equipment/)
+- [AWS IoT SiteWise now supports Asset model components](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-supports-asset-model-components/)
+- [AWS IoT SiteWise announces Query API for metadata, and telemetry data retrieval](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-query-api-metadata-telemetry-retrieval/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

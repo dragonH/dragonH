@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Logs support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/11/logs-support-aws-distro-opentelemetry/)
 - [AWS Entity Resolution is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hippa-eligible/)
 - [AWS IoT TwinMaker launches new features to improve the digital twin entity modeling experience](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-twinmaker-features-improve-digital-twin-entity-modeling-experience/)
 - [Amazon EMR Studio is now available in 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-4-new-regions/)
@@ -67,7 +68,6 @@
 - [AWS IoT SiteWise now support bulk import, export and update of metadata](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-support-bulk-import-export-update-metadata/)
 - [AWS IoT SiteWise now supports multi-variate anomaly detection with Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-multi-variate-anomaly-detection-amazon-lookout-equipment/)
 - [AWS IoT SiteWise now supports Asset model components](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-supports-asset-model-components/)
-- [AWS IoT SiteWise announces Query API for metadata, and telemetry data retrieval](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-query-api-metadata-telemetry-retrieval/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

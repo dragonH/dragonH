@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security and MSSP Specializations now included in AWS Marketplace Vendor Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-security-mssp-specializations-marketplace-vendor-insights/)
+- [AWS CodePipeline supports starting a pipeline execution with source revision overrides](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codepipeline-pipeline-execution-source-revision-overrides/)
+- [Amazon Kinesis Data Streams launches cross-account access with AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/)
+- [Introducing the Amazon S3 Connector for PyTorch](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-connector-pytorch/)
+- [Mountpoint for Amazon S3 optimizes for repeated data access](https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-optimizes-repeated-data-access/)
+- [Amazon S3 Batch Operations now manages buckets or prefixes in a single step](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-batch-operations-buckets-prefixes-single-step/)
+- [Introducing the AWS Advertising and Marketing Technology Competency](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-advertising-marketing-technology-competency/)
 - [Logs support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/11/logs-support-aws-distro-opentelemetry/)
 - [AWS Entity Resolution is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hippa-eligible/)
 - [AWS IoT TwinMaker launches new features to improve the digital twin entity modeling experience](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-twinmaker-features-improve-digital-twin-entity-modeling-experience/)
-- [Amazon EMR Studio is now available in 4 new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-emr-studio-4-new-regions/)
-- [AWS IoT SiteWise announces a new storage tier for industrial data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-storage-tier-industrial-data/)
-- [AWS IoT SiteWise supports ingestion of buffered and batched measurement data](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-buffered-batched-measurement-data/)
-- [Amazon QuickSight launches a new redesigned analysis experience](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-quicksight-redesigned-analysis-experience/)
-- [AWS IoT SiteWise now support bulk import, export and update of metadata](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-support-bulk-import-export-update-metadata/)
-- [AWS IoT SiteWise now supports multi-variate anomaly detection with Amazon Lookout for Equipment](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-multi-variate-anomaly-detection-amazon-lookout-equipment/)
-- [AWS IoT SiteWise now supports Asset model components](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-sitewise-supports-asset-model-components/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

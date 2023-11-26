@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Security and MSSP Specializations now included in AWS Marketplace Vendor Insights](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-security-mssp-specializations-marketplace-vendor-insights/)
-- [AWS CodePipeline supports starting a pipeline execution with source revision overrides](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-codepipeline-pipeline-execution-source-revision-overrides/)
-- [Amazon Kinesis Data Streams launches cross-account access with AWS Lambda](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-kinesis-data-streams-cross-account-access-aws-lambda/)
-- [Introducing the Amazon S3 Connector for PyTorch](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-connector-pytorch/)
-- [Mountpoint for Amazon S3 optimizes for repeated data access](https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-optimizes-repeated-data-access/)
-- [Amazon S3 Batch Operations now manages buckets or prefixes in a single step](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-batch-operations-buckets-prefixes-single-step/)
-- [Introducing the AWS Advertising and Marketing Technology Competency](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-advertising-marketing-technology-competency/)
-- [Logs support now available in AWS Distro for OpenTelemetry](https://aws.amazon.com/about-aws/whats-new/2023/11/logs-support-aws-distro-opentelemetry/)
-- [AWS Entity Resolution is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hippa-eligible/)
-- [AWS IoT TwinMaker launches new features to improve the digital twin entity modeling experience](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-iot-twinmaker-features-improve-digital-twin-entity-modeling-experience/)
+- [AWS Glue Data Quality announces anomaly detection and dynamic rules](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-quality-anomaly-detection-dynamic-rules/)
+- [ENA Express supports 58 new instances with sizes as small as 16 vCPUs](https://aws.amazon.com/about-aws/whats-new/2023/11/ena-express-58-instances-sizes-16-vcpus/)
+- [AWS Free Tier usage is now available through the GetFreeTierUsage API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-free-tier-usage-getfreetierusage-api/)
+- [AWS Step Functions launches optimized integration for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-optimized-integration-bedrock/)
+- [Powered by foundation model, Amazon Transcribe now supports over 100 languages](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-over-100-languages/)
+- [Introducing Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/cost-optimization-hub/)
+- [Announcing Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-billing-cost-management-data-exports/)
+- [Amazon WorkSpaces Multi-Region Resilience launches one-way data replication](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-workspaces-multi-region-one-way-replication/)
+- [AWS Config now supports periodic recording: Efficiently scale your change tracking](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-periodic-recording/)
+- [Announcing the Cost and Usage Dashboard powered by Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/11/cost-usage-dashboard-amazon-quicksight/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing preview of AMB Access Polygon, serverless access to Polygon blockchain](https://aws.amazon.com/about-aws/whats-new/2023/11/amb-access-polygon-serverless-blockchain-preview/)
+- [Application Load Balancer increases application availability with Automatic Target Weights](https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-availability-target-weights/)
 - [AWS Glue Data Quality announces anomaly detection and dynamic rules](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-quality-anomaly-detection-dynamic-rules/)
 - [ENA Express supports 58 new instances with sizes as small as 16 vCPUs](https://aws.amazon.com/about-aws/whats-new/2023/11/ena-express-58-instances-sizes-16-vcpus/)
 - [AWS Free Tier usage is now available through the GetFreeTierUsage API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-free-tier-usage-getfreetierusage-api/)
@@ -66,8 +68,6 @@
 - [Introducing Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/cost-optimization-hub/)
 - [Announcing Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-billing-cost-management-data-exports/)
 - [Amazon WorkSpaces Multi-Region Resilience launches one-way data replication](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-workspaces-multi-region-one-way-replication/)
-- [AWS Config now supports periodic recording: Efficiently scale your change tracking](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-config-periodic-recording/)
-- [Announcing the Cost and Usage Dashboard powered by Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2023/11/cost-usage-dashboard-amazon-quicksight/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

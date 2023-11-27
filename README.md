@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Entity Resolution is now Health Insurance Portability and Accountability Act &lpar;HIPAA&rpar; eligible](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-entity-resolution-hipaa-eligible/)
-- [Descriptive Bot Builder with Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/descriptive-bot-builder-generative-ai/)
-- [Announcing vision system data from AWS IoT FleetWise &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/vision-system-data-aws-iot-fleetwise-preview/)
-- [Announcing utterance generation for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-utterance-generation/)
-- [Amazon Detective introduces finding group summaries using generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/)
-- [Announcing Lens Catalog for the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-well-architected-tool-lens-catalog/)
-- [New Discover Apps page for PartyRock, an Amazon Bedrock Playground](https://aws.amazon.com/about-aws/whats-new/2023/11/app-discovery-page-partyrock-bedrock-playground/)
-- [Amazon FSx for OpenZFS now supports on-demand data replication across file systems](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-data-replication-file-systems/)
-- [Announcing Conversational FAQ with generative AI for Amazon Lex &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-conversational-faq-ai-preview/)
-- [Assisted Slot Resolution with Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/assisted-slot-resolution-generative-ai/)
+- [Announcing Multi-Account Experiments for AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2023/11/multi-account-experiments-aws-fault-injection-service/)
+- [Amazon SQS announces support for FIFO dead-letter queue redrive](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-fifo-dead-letter-queue-redrive/)
+- [AWS AppSync improves support for Amazon Aurora clusters configured with the RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-aurora-clusters-rds-data-api/)
+- [Announcing new central configuration capabilities in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-security-hub-central-configuration/)
+- [AWS AppFabric’s new generative AI feature helps build cross-app experiences &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabrics-generative-ai-feature-cross-app-preview/)
+- [AWS Mainframe Modernization File Transfer with BMC is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-mainframe-modernization-file-transfer-bmc/)
+- [Announcing DR drill validation automation for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-elastic-disaster-recovery-dr-drill-validation/)
+- [AWS Control Tower announces 65 new controls to help meet digital sovereignty requirements](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-65-controls-digital-sovereignty-requirements/)
+- [Amazon Inspector agentless vulnerability assessments for Amazon EC2 now in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-agentless-assessments-ec2-preview/)
+- [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-elastic-block-store-snapshots-archive/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

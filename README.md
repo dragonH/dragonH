@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing vision system data from AWS IoT FleetWise &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/vision-system-data-aws-iot-fleetwise-preview/)
 - [Announcing utterance generation for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-utterance-generation/)
 - [Descriptive Bot Builder with Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/descriptive-bot-builder-generative-ai/)
 - [Amazon Detective introduces finding group summaries using generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/)
@@ -67,7 +68,6 @@
 - [Announcing Conversational FAQ with generative AI for Amazon Lex &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-conversational-faq-ai-preview/)
 - [Assisted Slot Resolution with Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/assisted-slot-resolution-generative-ai/)
 - [FSx for ONTAP now supports creating Multi-AZ file systems in Shared VPC participant accounts](https://aws.amazon.com/about-aws/whats-new/2023/11/fsx-ontap-multi-az-file-systems-vpc-participant-accounts/)
-- [Announcing new enhancements to Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-new-enhancements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

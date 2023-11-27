@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing preview of AMB Access Polygon, serverless access to Polygon blockchain](https://aws.amazon.com/about-aws/whats-new/2023/11/amb-access-polygon-serverless-blockchain-preview/)
-- [Application Load Balancer increases application availability with Automatic Target Weights](https://aws.amazon.com/about-aws/whats-new/2023/11/application-load-balancer-availability-target-weights/)
-- [AWS Glue Data Quality announces anomaly detection and dynamic rules](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-quality-anomaly-detection-dynamic-rules/)
-- [ENA Express supports 58 new instances with sizes as small as 16 vCPUs](https://aws.amazon.com/about-aws/whats-new/2023/11/ena-express-58-instances-sizes-16-vcpus/)
-- [AWS Free Tier usage is now available through the GetFreeTierUsage API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-free-tier-usage-getfreetierusage-api/)
-- [AWS Step Functions launches optimized integration for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-step-functions-optimized-integration-bedrock/)
-- [Powered by foundation model, Amazon Transcribe now supports over 100 languages](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-transcribe-over-100-languages/)
-- [Introducing Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/cost-optimization-hub/)
-- [Announcing Data Exports for AWS Billing and Cost Management](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-billing-cost-management-data-exports/)
-- [Amazon WorkSpaces Multi-Region Resilience launches one-way data replication](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-workspaces-multi-region-one-way-replication/)
+- [Announcing utterance generation for Amazon Lex](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-utterance-generation/)
+- [Descriptive Bot Builder with Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/descriptive-bot-builder-generative-ai/)
+- [Amazon Detective introduces finding group summaries using generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-detective-group-summaries-generative-ai/)
+- [Announcing Lens Catalog for the AWS Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-well-architected-tool-lens-catalog/)
+- [New Discover Apps page for PartyRock, an Amazon Bedrock Playground](https://aws.amazon.com/about-aws/whats-new/2023/11/app-discovery-page-partyrock-bedrock-playground/)
+- [Amazon FSx for OpenZFS now supports on-demand data replication across file systems](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-fsx-openzfs-data-replication-file-systems/)
+- [Announcing Conversational FAQ with generative AI for Amazon Lex &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-lex-conversational-faq-ai-preview/)
+- [Assisted Slot Resolution with Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/11/assisted-slot-resolution-generative-ai/)
+- [FSx for ONTAP now supports creating Multi-AZ file systems in Shared VPC participant accounts](https://aws.amazon.com/about-aws/whats-new/2023/11/fsx-ontap-multi-az-file-systems-vpc-participant-accounts/)
+- [Announcing new enhancements to Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codewhisperer-new-enhancements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

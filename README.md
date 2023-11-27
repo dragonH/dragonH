@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Multi-Account Experiments for AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2023/11/multi-account-experiments-aws-fault-injection-service/)
-- [Amazon SQS announces support for FIFO dead-letter queue redrive](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-fifo-dead-letter-queue-redrive/)
 - [AWS AppSync improves support for Amazon Aurora clusters configured with the RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-aurora-clusters-rds-data-api/)
-- [Announcing new central configuration capabilities in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-security-hub-central-configuration/)
-- [AWS AppFabric’s new generative AI feature helps build cross-app experiences &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appfabrics-generative-ai-feature-cross-app-preview/)
-- [AWS Mainframe Modernization File Transfer with BMC is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-mainframe-modernization-file-transfer-bmc/)
-- [Announcing DR drill validation automation for AWS Elastic Disaster Recovery](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-elastic-disaster-recovery-dr-drill-validation/)
-- [AWS Control Tower announces 65 new controls to help meet digital sovereignty requirements](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-control-tower-65-controls-digital-sovereignty-requirements/)
-- [Amazon Inspector agentless vulnerability assessments for Amazon EC2 now in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-agentless-assessments-ec2-preview/)
-- [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-elastic-block-store-snapshots-archive/)
+- [Virtualization for SPARC on AWS with Stromasys is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/virtualization-sparc-aws-stromasys-available/)
+- [Amazon SQS announces increased throughput quota for FIFO High Throughput mode](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-throughput-quota-fifo-high-throughput-mode/)
+- [Announcing new finding enrichment in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/new-finding-enrichment-aws-security-hub/)
+- [AWS Mainframe Modernization Replatform with NTT DATA is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-mainframe-modernization-replatform-ntt-data/)
+- [New updates automatically accelerate Amazon S3 data transfer for ML training](https://aws.amazon.com/about-aws/whats-new/2023/11/updates-accelerate-amazon-s3-data-transfer-ml-training/)
+- [Amazon EFS Replication now supports failback](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-replication-failback/)
+- [AWS Backup launches support for restore testing](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-restore-testing/)
+- [Announcing the general availability of Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-db2/)
+- [Announcing AWS B2B Data Interchange](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-b2b-data-interchange/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

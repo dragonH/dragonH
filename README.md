@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing feature development capability of Amazon Q &lpar;Preview&rpar; in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/feature-development-capability-amazon-q-preview-codecatalyst/)
+- [Amazon Q in Connect offers generative AI powered agent assistance in real-time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-connect-generative-ai-powered-agent-assistance-real-time/)
+- [Announcing Amazon Q expert capabilities for AWS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-expert-capabilities-aws-preview/)
+- [Amazon Connect Contact Lens provides generative AI powered contact summarization &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-ai-powered-summarization-preview/)
+- [Accelerate data processing and analysis with Amazon EMR and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/data-processing-analysis-amazon-emr-s3-express-one-zone/)
+- [Amazon Q offers help to optimize EC2 instance type selection &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-optimal-ec2-instance-selection-workload/)
 - [Amazon Connect launches no-code UI builder to configure step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-no-code-ui-builder/)
 - [Amazon Connect Contact Lens now provides real-time conversational analytics for chat](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-real-time-conversational-analytics-chat/)
 - [AWS announces Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/)
 - [AWS announces Amazon DynamoDB zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-redshift/)
-- [AWS announces Amazon RDS for MySQL zero-ETL integration with Amazon Redshift &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-zero-etl-integration-amazon-redshift-public-preview/)
-- [AI recommendations for descriptions in Amazon DataZone &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/ai-descriptions-amazon-datazone-preview/)
-- [AWS announces Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/)
-- [Amazon Connect provides Zero-ETL analytics data lake to access contact center data &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-zero-etl-data-lake-center-data-preview/)
-- [Amazon Connect Contact Lens provides generative AI powered contact summarization &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-ai-powered-summarization-preview/)
-- [Amazon Connect announces generative AI powered customer data mapping](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-generative-ai-powered-data-mapping/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

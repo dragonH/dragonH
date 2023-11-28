@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing Amazon Redshift Serverless with AI-driven scaling and optimizations &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-ai-driven-scaling-optimizations-preview/)
-- [AWS announces Amazon ElastiCache Serverless](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-serverless/)
-- [Announcing Amazon Aurora Limitless Database](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-limitless-database/)
-- [AWS Analytics simplify users’ data access across services with IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-analytics-users-data-access-iam-identity-center/)
-- [AWS AppSync improves support for Amazon Aurora clusters configured with the RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-aurora-clusters-rds-data-api/)
-- [Virtualization for SPARC on AWS with Stromasys is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/virtualization-sparc-aws-stromasys-available/)
-- [Amazon SQS announces increased throughput quota for FIFO High Throughput mode](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-throughput-quota-fifo-high-throughput-mode/)
-- [Announcing new finding enrichment in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/new-finding-enrichment-aws-security-hub/)
-- [AWS Mainframe Modernization Replatform with NTT DATA is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-mainframe-modernization-replatform-ntt-data/)
-- [New updates automatically accelerate Amazon S3 data transfer for ML training](https://aws.amazon.com/about-aws/whats-new/2023/11/updates-accelerate-amazon-s3-data-transfer-ml-training/)
+- [AWS Support launches AWS Countdown with a premium tier](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-support-countdown-premium-tier/)
+- [Announcing custom blueprints for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-custom-blueprints/)
+- [Amazon Redshift announces new fine-grained access control capabilities to nested objects &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-fine-grained-access-control-capabilities-preview/)
+- [AWS Application Composer announces AWS Step Functions Workflow Studio integration](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-composer-step-functions-workflow-studio/)
+- [Amazon Braket launches Braket Direct, a program to dive deeper into quantum computing](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-braket-launches-braket-direct/)
+- [Amazon Redshift announces Multidimensional Data Layouts to optimize your query performance  &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-multidimensional-data-layouts-preview/)
+- [AWS Glue Data Catalog supports multi engine views with AWS Analytics Engines](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-glue-data-catalog-multi-engine-views-analytics-engines/)
+- [Amazon Redshift adds support for incremental refresh for materialized views on data lake tables &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-incremental-refresh-materialized-views-data-lake-tables-preview/)
+- [Introducing the Amazon CodeCatalyst Enterprise Tier](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-enterprise-tier/)
+- [Mountpoint for Amazon S3 CSI driver is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-csi-driver/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

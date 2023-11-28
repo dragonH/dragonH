@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon Q &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amazon-q-preview/)
-- [AWS Chatbot now supports Amazon Q conversations in Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-chatbot-q-conversations-teams-slack/)
-- [Knowledge Bases for Amazon Bedrock is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-knowledge-bases/)
-- [Safeguard generative AI applications with Guardrails for Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-safeguard-ai-applications-guardrails/)
-- [Meta Llama 2, Cohere Command Light, and Amazon Titan FMs can now be fine-tuned in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/meta-llama-2-cohere-command-light-amazon-titan-fms-bedrock/)
-- [Continued pre-training in Amazon Bedrock now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/continued-pre-training-amazon-bedrock-preview/)
-- [Boost generative AI application development with Agents for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/boost-generative-ai-development-agents-bedrock/)
-- [Announcing new Amazon EC2 R8g instances powered by AWS Graviton4 processors &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-r8g-instances-aws-graviton4-processors-preview/)
-- [Accelerate data lake queries with Amazon Athena and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/data-lake-queries-amazon-athena-s3-express-one-zone/)
-- [Mountpoint for Amazon S3 now supports the Amazon S3 Express One Zone storage class](https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-express-one-zone-storage-class/)
+- [Amazon Connect launches no-code UI builder to configure step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-no-code-ui-builder/)
+- [Amazon Connect Contact Lens now provides real-time conversational analytics for chat](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-real-time-conversational-analytics-chat/)
+- [AWS announces Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/)
+- [AWS announces Amazon DynamoDB zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-redshift/)
+- [AWS announces Amazon RDS for MySQL zero-ETL integration with Amazon Redshift &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-mysql-zero-etl-integration-amazon-redshift-public-preview/)
+- [AI recommendations for descriptions in Amazon DataZone &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/ai-descriptions-amazon-datazone-preview/)
+- [AWS announces Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-postgresql-zero-etl-integration-redshift-public-preview/)
+- [Amazon Connect provides Zero-ETL analytics data lake to access contact center data &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-zero-etl-data-lake-center-data-preview/)
+- [Amazon Connect Contact Lens provides generative AI powered contact summarization &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-ai-powered-summarization-preview/)
+- [Amazon Connect announces generative AI powered customer data mapping](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-generative-ai-powered-data-mapping/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

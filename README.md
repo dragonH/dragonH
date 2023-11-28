@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Q &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amazon-q-preview/)
+- [AWS Chatbot now supports Amazon Q conversations in Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-chatbot-q-conversations-teams-slack/)
+- [Knowledge Bases for Amazon Bedrock is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-knowledge-bases/)
+- [Safeguard generative AI applications with Guardrails for Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-safeguard-ai-applications-guardrails/)
+- [Meta Llama 2, Cohere Command Light, and Amazon Titan FMs can now be fine-tuned in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/meta-llama-2-cohere-command-light-amazon-titan-fms-bedrock/)
+- [Continued pre-training in Amazon Bedrock now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/continued-pre-training-amazon-bedrock-preview/)
+- [Boost generative AI application development with Agents for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/boost-generative-ai-development-agents-bedrock/)
 - [Announcing new Amazon EC2 R8g instances powered by AWS Graviton4 processors &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-ec2-r8g-instances-aws-graviton4-processors-preview/)
 - [Accelerate data lake queries with Amazon Athena and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/data-lake-queries-amazon-athena-s3-express-one-zone/)
 - [Mountpoint for Amazon S3 now supports the Amazon S3 Express One Zone storage class](https://aws.amazon.com/about-aws/whats-new/2023/11/mountpoint-amazon-s3-express-one-zone-storage-class/)
-- [Accelerate data processing and analysis with Amazon EMR and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/data-processing-analysis-amazon-emr-s3-express-one-zone/)
-- [Announcing the Amazon S3 Express One Zone storage class](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-s3-express-one-zone-storage-class/)
-- [AWS Support launches AWS Countdown with a premium tier](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-support-countdown-premium-tier/)
-- [Announcing custom blueprints for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-custom-blueprints/)
-- [Amazon Redshift announces new fine-grained access control capabilities to nested objects &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-fine-grained-access-control-capabilities-preview/)
-- [AWS Application Composer announces AWS Step Functions Workflow Studio integration](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-application-composer-step-functions-workflow-studio/)
-- [Amazon Braket launches Braket Direct, a program to dive deeper into quantum computing](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-braket-launches-braket-direct/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

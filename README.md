@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Analytics simplify users’ data access across services with IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-analytics-users-data-access-iam-identity-center/)
 - [AWS AppSync improves support for Amazon Aurora clusters configured with the RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-aurora-clusters-rds-data-api/)
 - [Virtualization for SPARC on AWS with Stromasys is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/virtualization-sparc-aws-stromasys-available/)
 - [Amazon SQS announces increased throughput quota for FIFO High Throughput mode](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sqs-throughput-quota-fifo-high-throughput-mode/)
@@ -67,7 +68,6 @@
 - [Amazon EFS Replication now supports failback](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-replication-failback/)
 - [AWS Backup launches support for restore testing](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-restore-testing/)
 - [Announcing the general availability of Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-db2/)
-- [Announcing AWS B2B Data Interchange](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-b2b-data-interchange/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

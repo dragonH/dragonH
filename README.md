@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Redshift Serverless with AI-driven scaling and optimizations &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-ai-driven-scaling-optimizations-preview/)
+- [AWS announces Amazon ElastiCache Serverless](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-elasticache-serverless/)
+- [Announcing Amazon Aurora Limitless Database](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-aurora-limitless-database/)
 - [AWS Analytics simplify users’ data access across services with IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-analytics-users-data-access-iam-identity-center/)
 - [AWS AppSync improves support for Amazon Aurora clusters configured with the RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-appsync-aurora-clusters-rds-data-api/)
 - [Virtualization for SPARC on AWS with Stromasys is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/virtualization-sparc-aws-stromasys-available/)
@@ -65,9 +68,6 @@
 - [Announcing new finding enrichment in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2023/11/new-finding-enrichment-aws-security-hub/)
 - [AWS Mainframe Modernization Replatform with NTT DATA is now available](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-mainframe-modernization-replatform-ntt-data/)
 - [New updates automatically accelerate Amazon S3 data transfer for ML training](https://aws.amazon.com/about-aws/whats-new/2023/11/updates-accelerate-amazon-s3-data-transfer-ml-training/)
-- [Amazon EFS Replication now supports failback](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-efs-replication-failback/)
-- [AWS Backup launches support for restore testing](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-backup-restore-testing/)
-- [Announcing the general availability of Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-rds-db2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

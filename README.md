@@ -60,13 +60,13 @@
 <!-- AWS-NEWS:START -->
 - [Amazon SageMaker Canvas now supports natural language instructions for data preparation](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-canvas-natural-language-preparation/)
 - [SageMaker now provides improved SDK tooling and UX for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-sdk-tooling-ux-model-deployment/)
+- [Announcing API support for creating Amazon SageMaker Notebook jobs](https://aws.amazon.com/about-aws/whats-new/2023/11/api-creating-amazon-sagemaker-notebook-jobs/)
 - [Amazon SageMaker launches new inference capabilities to reduce costs and latency](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-inference-costs-latency/)
 - [Leverage FMs for business analysis at scale with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/leverage-fms-analysis-scale-sagemaker-canvas/)
 - [Amazon Bedrock now supports batch inference](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-batch-inference/)
 - [Amazon SageMaker Pipelines now provide a simplified developer experience for AI/ML workflows](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-pipelines-developer-ai-ml/)
 - [Announcing new AWS AI Service Cards - to advance responsible AI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/)
 - [AWS announces OR1 for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/11/or1-amazon-opensearch-service/)
-- [Announcing API support for creating Amazon SageMaker Notebook jobs](https://aws.amazon.com/about-aws/whats-new/2023/11/api-creating-amazon-sagemaker-notebook-jobs/)
 - [Announcing smart sifting of data for Amazon SageMaker Model Training in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/smart-sifting-data-amazon-sagemaker-model-training-preview/)
 <!-- AWS-NEWS:END -->
 

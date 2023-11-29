@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms ML is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-ml-preview/)
+- [Vector engine for Amazon OpenSearch Serverless now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-serverless-vector-engine/)
+- [Announcing Amazon SageMaker HyperPod, a purpose-built infrastructure for distributed training at scale](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-hyperpod/)
+- [Claude 2.1 foundation model from Anthropic is now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/claude-2-1-foundation-model-anthropic-amazon-bedrock/)
+- [Amazon Titan Text models—Express and Lite—now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-models-express-lite-bedrock/)
+- [Stable Diffusion XL 1.0 foundation model from Stability AI is now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/stable-diffusion-xl-1-0-foundation-model-amazon-bedrock/)
+- [Amazon Titan Multimodal Embeddings foundation model now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-multimodal-embeddings-model-bedrock/)
+- [Llama 2 70B foundation model from Meta is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-70b-foundation-model-meta-amazon-bedrock/)
+- [Amazon Titan Image Generator foundation model in Amazon Bedrock now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-image-generator-model-bedrock-preview/)
 - [Announcing feature development capability of Amazon Q &lpar;Preview&rpar; in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/feature-development-capability-amazon-q-preview-codecatalyst/)
-- [Amazon Q in Connect offers generative AI powered agent assistance in real-time](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-connect-generative-ai-powered-agent-assistance-real-time/)
-- [Announcing Amazon Q expert capabilities for AWS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-expert-capabilities-aws-preview/)
-- [AWS announces Amazon Q &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amazon-q-preview/)
-- [Amazon Connect Contact Lens provides generative AI powered contact summarization &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-ai-powered-summarization-preview/)
-- [Accelerate data processing and analysis with Amazon EMR and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2023/11/data-processing-analysis-amazon-emr-s3-express-one-zone/)
-- [Amazon Q offers help to optimize EC2 instance type selection &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-q-optimal-ec2-instance-selection-workload/)
-- [Amazon Connect launches no-code UI builder to configure step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-no-code-ui-builder/)
-- [Amazon Connect Contact Lens now provides real-time conversational analytics for chat](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-connect-contact-lens-real-time-conversational-analytics-chat/)
-- [AWS announces Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-dynamodb-zero-etl-integration-amazon-opensearch-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

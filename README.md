@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Clarify now supports foundation model &lpar;FM&rpar; evaluations in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-clarify-fm-evaluations-preview/)
+- [Evaluate, compare, and select the best FMs for your use case in Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/evaluate-compare-select-fms-use-case-amazon-bedrock/)
+- [Amazon Q generative SQL is now available in Amazon Redshift Query Editor &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-generative-sql-query-editor-preview/)
+- [Amazon Neptune Analytics is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-neptune-analytics/)
+- [AWS announces vector search for Amazon DocumentDB](https://aws.amazon.com/about-aws/whats-new/2023/11/vector-search-amazon-documentdb/)
+- [AWS announces vector search for Amazon MemoryDB for Redis &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/vector-search-amazon-memorydb-redis-preview/)
+- [AWS Clean Rooms Differential Privacy is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-differential-privacy-preview/)
+- [Amazon OpenSearch Service zero-ETL integration with Amazon S3 preview now available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-zero-etl-integration-s3-preview/)
 - [AWS Clean Rooms ML is now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-clean-rooms-ml-preview/)
 - [Vector engine for Amazon OpenSearch Serverless now generally available](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-opensearch-serverless-vector-engine/)
-- [Announcing Amazon SageMaker HyperPod, a purpose-built infrastructure for distributed training at scale](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-hyperpod/)
-- [Claude 2.1 foundation model from Anthropic is now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/claude-2-1-foundation-model-anthropic-amazon-bedrock/)
-- [Amazon Titan Text models—Express and Lite—now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-models-express-lite-bedrock/)
-- [Stable Diffusion XL 1.0 foundation model from Stability AI is now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/stable-diffusion-xl-1-0-foundation-model-amazon-bedrock/)
-- [Amazon Titan Multimodal Embeddings foundation model now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-multimodal-embeddings-model-bedrock/)
-- [Llama 2 70B foundation model from Meta is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2023/11/llama-2-70b-foundation-model-meta-amazon-bedrock/)
-- [Amazon Titan Image Generator foundation model in Amazon Bedrock now available in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-titan-image-generator-model-bedrock-preview/)
-- [Announcing feature development capability of Amazon Q &lpar;Preview&rpar; in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/11/feature-development-capability-amazon-q-preview-codecatalyst/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Observe your applications with Amazon CloudWatch Application Signals &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-applications-signals-observe-preview/)
+- [myApplications: One place to view and manage your applications on AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/myapplications-view-manage-applications-aws/)
 - [Announcing enhanced manageability and usability features for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-manageability-usability-features/)
 - [Announcing Solution Building Enablement for Partners](https://aws.amazon.com/about-aws/whats-new/2023/11/solution-building-enablement-partners/)
 - [Amazon Redshift now supports metadata security to simplify multi-tenant applications](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-metadata-security-tenant-applications/)
@@ -66,8 +68,6 @@
 - [AWS Partner CRM Connector now supports AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-crm-connector-marketplace/)
 - [Announcing SaaS Quick Launch for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/11/saas-quick-launch-aws-marketplace/)
 - [Announcing AWS Marketplace APIs for sellers](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-apis-sellers/)
-- [Request a Cyber Insurance Quote from an AWS Cyber Insurance Competency Partner](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cyber-insurance-competency-partner-quote/)
-- [AWS Built-in Competency Partner software automates Installation for customers](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-built-in-competency-partner-software-automates-installation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

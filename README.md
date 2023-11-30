@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Inspector enhances container image security by integrating with developer tools](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/)
+- [Amazon SageMaker Studio now provides a faster fully-managed notebooks in JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-fully-managed-notebooks-jupyterlab/)
+- [Amazon SageMaker now provides a new setup and onboarding experience on AWS SageMaker console](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-setup-onboarding-experience-console/)
+- [New and improved Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/)
+- [Introducing an Integrated Development Environment &lpar;IDE&rpar; extension for AWS Application Composer](https://aws.amazon.com/about-aws/whats-new/2023/11/ide-extension-aws-application-composer/)
+- [Announcing Code Editor, based on Code-OSS &lpar;VS Code – Open Source&rpar;, in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/code-editor-amazon-sagemaker-studio/)
 - [Observe your applications with Amazon CloudWatch Application Signals &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-cloudwatch-applications-signals-observe-preview/)
 - [myApplications: One place to view and manage your applications on AWS](https://aws.amazon.com/about-aws/whats-new/2023/11/myapplications-view-manage-applications-aws/)
 - [Announcing enhanced manageability and usability features for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-manageability-usability-features/)
 - [Announcing Solution Building Enablement for Partners](https://aws.amazon.com/about-aws/whats-new/2023/11/solution-building-enablement-partners/)
-- [Amazon Redshift now supports metadata security to simplify multi-tenant applications](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-metadata-security-tenant-applications/)
-- [Amazon Redshift announces general availability of row-level security enhancements](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/)
-- [AWS Partner Network launches new Amazon EKS Ready Specialization](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-network-eks-ready-specialization/)
-- [AWS Partner CRM Connector now supports AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-crm-connector-marketplace/)
-- [Announcing SaaS Quick Launch for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/11/saas-quick-launch-aws-marketplace/)
-- [Announcing AWS Marketplace APIs for sellers](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-apis-sellers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

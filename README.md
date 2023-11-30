@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SageMaker Canvas now supports natural language instructions for data preparation](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-canvas-natural-language-preparation/)
-- [SageMaker now provides improved SDK tooling and UX for model deployment](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-sdk-tooling-ux-model-deployment/)
-- [Announcing API support for creating Amazon SageMaker Notebook jobs](https://aws.amazon.com/about-aws/whats-new/2023/11/api-creating-amazon-sagemaker-notebook-jobs/)
-- [Amazon SageMaker launches new inference capabilities to reduce costs and latency](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-inference-costs-latency/)
-- [Leverage FMs for business analysis at scale with Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2023/11/leverage-fms-analysis-scale-sagemaker-canvas/)
-- [Amazon Bedrock now supports batch inference](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-bedrock-batch-inference/)
-- [Amazon SageMaker Pipelines now provide a simplified developer experience for AI/ML workflows](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-pipelines-developer-ai-ml/)
-- [Announcing new AWS AI Service Cards - to advance responsible AI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/)
-- [AWS announces OR1 for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/11/or1-amazon-opensearch-service/)
-- [Announcing smart sifting of data for Amazon SageMaker Model Training in preview](https://aws.amazon.com/about-aws/whats-new/2023/11/smart-sifting-data-amazon-sagemaker-model-training-preview/)
+- [Announcing enhanced manageability and usability features for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-serverless-manageability-usability-features/)
+- [Announcing Solution Building Enablement for Partners](https://aws.amazon.com/about-aws/whats-new/2023/11/solution-building-enablement-partners/)
+- [Amazon Redshift now supports metadata security to simplify multi-tenant applications](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-metadata-security-tenant-applications/)
+- [Amazon Redshift announces general availability of row-level security enhancements](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/)
+- [AWS Partner Network launches new Amazon EKS Ready Specialization](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-network-eks-ready-specialization/)
+- [AWS Partner CRM Connector now supports AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-partner-crm-connector-marketplace/)
+- [Announcing SaaS Quick Launch for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2023/11/saas-quick-launch-aws-marketplace/)
+- [Announcing AWS Marketplace APIs for sellers](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-marketplace-apis-sellers/)
+- [Request a Cyber Insurance Quote from an AWS Cyber Insurance Competency Partner](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-cyber-insurance-competency-partner-quote/)
+- [AWS Built-in Competency Partner software automates Installation for customers](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-built-in-competency-partner-software-automates-installation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

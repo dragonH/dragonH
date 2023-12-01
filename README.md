@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Hibernate now supports Amazon EC2 C7a, C7i, R7a, R7i and R7iz Instances](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernate-c7a-c7i-r7a-r7i-r7iz-instances/)
 - [FreeRTOS announces availability of modular and composable OTA libraries](https://aws.amazon.com/about-aws/whats-new/2023/12/freertos-modular-composable-ota-libraries/)
 - [AWS AppConfig Agent launches write to disk, backups, and permission mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-agent-write-backups-permission-mapping/)
 - [Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/)
@@ -67,7 +68,6 @@
 - [Amazon Inspector enhances container image security by integrating with developer tools](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/)
 - [Amazon SageMaker Studio now provides a faster fully-managed notebooks in JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-fully-managed-notebooks-jupyterlab/)
 - [Amazon SageMaker now provides a new setup and onboarding experience on AWS SageMaker console](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-setup-onboarding-experience-console/)
-- [New and improved Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

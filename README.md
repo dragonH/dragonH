@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [FreeRTOS announces availability of modular and composable OTA libraries](https://aws.amazon.com/about-aws/whats-new/2023/12/freertos-modular-composable-ota-libraries/)
+- [AWS AppConfig Agent launches write to disk, backups, and permission mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-agent-write-backups-permission-mapping/)
 - [Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/)
 - [AWS Fault Injection Service launches two highly requested scenarios](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-service-two-requested-scenarios/)
 - [Bring your own Amazon EFS &lpar;Elastic File System&rpar; volume to JupyterLab and CodeEditor in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eds-volume-jupyterlab-codeeditor-amazon-sagemaker-studio/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Studio now provides a faster fully-managed notebooks in JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-fully-managed-notebooks-jupyterlab/)
 - [Amazon SageMaker now provides a new setup and onboarding experience on AWS SageMaker console](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-setup-onboarding-experience-console/)
 - [New and improved Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/new-improved-amazon-sagemaker-studio/)
-- [Introducing an Integrated Development Environment &lpar;IDE&rpar; extension for AWS Application Composer](https://aws.amazon.com/about-aws/whats-new/2023/11/ide-extension-aws-application-composer/)
-- [Announcing Code Editor, based on Code-OSS &lpar;VS Code – Open Source&rpar;, in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/code-editor-amazon-sagemaker-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

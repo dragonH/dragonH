@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FinSpace with Managed kdb Insights now supports a wider set of customer kdb applications](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-customer-applications/)
 - [Amazon SageMaker Canvas announces support for comprehensive data preparation capabilities](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canvas-comprehensive-data-preparation-capabilities/)
 - [Amazon Redshift extends SUPER data type column size support to 16 MB](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-super-data-column-size-16mb/)
 - [Amazon Redshift announces general availability of row-level security enhancements](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/)
 - [AWS Fault Injection Service launches two highly requested scenarios](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-service-two-requested-scenarios/)
 - [Bring your own Amazon EFS &lpar;Elastic File System&rpar; volume to JupyterLab and CodeEditor in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eds-volume-jupyterlab-codeeditor-amazon-sagemaker-studio/)
-- [Amazon Route 53 Application Recovery Controller launches zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2023/11/route-53-application-recovery-zonal-autoshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

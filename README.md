@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Redshift extends SUPER data type column size support to 16 MB](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-super-data-column-size-16mb/)
+- [Amazon Redshift announces general availability of row-level security enhancements](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/)
 - [EC2 Hibernate now supports Amazon EC2 C7a, C7i, R7a, R7i and R7iz Instances](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernate-c7a-c7i-r7a-r7i-r7iz-instances/)
 - [FreeRTOS announces availability of modular and composable OTA libraries](https://aws.amazon.com/about-aws/whats-new/2023/12/freertos-modular-composable-ota-libraries/)
 - [AWS AppConfig Agent launches write to disk, backups, and permission mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-agent-write-backups-permission-mapping/)
@@ -67,7 +68,6 @@
 - [Bring your own Amazon EFS &lpar;Elastic File System&rpar; volume to JupyterLab and CodeEditor in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eds-volume-jupyterlab-codeeditor-amazon-sagemaker-studio/)
 - [Amazon Route 53 Application Recovery Controller launches zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2023/11/route-53-application-recovery-zonal-autoshift/)
 - [Amazon Inspector enhances container image security by integrating with developer tools](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/)
-- [Amazon SageMaker Studio now provides a faster fully-managed notebooks in JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-studio-fully-managed-notebooks-jupyterlab/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

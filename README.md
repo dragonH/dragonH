@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas announces support for comprehensive data preparation capabilities](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canvas-comprehensive-data-preparation-capabilities/)
 - [Amazon Redshift extends SUPER data type column size support to 16 MB](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-super-data-column-size-16mb/)
 - [Amazon Redshift announces general availability of row-level security enhancements](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/)
 - [EC2 Hibernate now supports Amazon EC2 C7a, C7i, R7a, R7i and R7iz Instances](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernate-c7a-c7i-r7a-r7i-r7iz-instances/)
@@ -67,7 +68,6 @@
 - [AWS Fault Injection Service launches two highly requested scenarios](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-fault-injection-service-two-requested-scenarios/)
 - [Bring your own Amazon EFS &lpar;Elastic File System&rpar; volume to JupyterLab and CodeEditor in Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-eds-volume-jupyterlab-codeeditor-amazon-sagemaker-studio/)
 - [Amazon Route 53 Application Recovery Controller launches zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2023/11/route-53-application-recovery-zonal-autoshift/)
-- [Amazon Inspector enhances container image security by integrating with developer tools](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-inspector-image-security-developer-tools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive now supports color space conversion with custom tone mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/elemental-medialive-color-space-conversion-tone-mapping/)
+- [AWS Elemental MediaLive now supports image overlays for individual outputs](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-medialive-image-overlays-outposts/)
+- [AWS DMS adds support for Amazon Relational Database Service for Db2 as a target endpoint](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-dms-amazon-relational-database-service-db2-target-endpoint/)
 - [AWS Announces Amazon Q is available in preview on the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-q-preview-console-mobile-app-ios/)
 - [Amazon Rekognition launches Face APIs version 7 for improved accuracy and lower latency](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-apis-7-accuracy-latency/)
 - [AWS Secrets Manager announces 99.99% Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-secrets-manager-service-level-agreement/)
@@ -65,9 +68,6 @@
 - [Customer Profiles launches calculated attributes that turn customer data into actionable insights](https://aws.amazon.com/about-aws/whats-new/2023/12/customer-profiles-calculated-attributes/)
 - [Amazon Connect launches new capabilities for measuring answered or abandoned contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-measuring-answered-abandoned-contacts/)
 - [AWS Resilience Hub expands support for customer compliance with ISO and SOC](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-resilience-hub-compliance-iso-soc/)
-- [AWS Compute Optimizer now supports filtering by tags in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/compute-optimizer-filtering-tags-aws-govcloud-us/)
-- [Amazon FinSpace with Managed kdb Insights now supports a wider set of customer kdb applications](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-customer-applications/)
-- [Amazon SageMaker Canvas announces support for comprehensive data preparation capabilities](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canvas-comprehensive-data-preparation-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

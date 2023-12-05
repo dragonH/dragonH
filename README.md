@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Announces Amazon Q is available in preview on the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-q-preview-console-mobile-app-ios/)
 - [Amazon Rekognition launches Face APIs version 7 for improved accuracy and lower latency](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-apis-7-accuracy-latency/)
 - [AWS Secrets Manager announces 99.99% Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-secrets-manager-service-level-agreement/)
 - [Amazon Connect adds an additional 24 contact and agent metrics to access programmatically](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-24-contact-agent-metrics-programmatically/)
@@ -67,7 +68,6 @@
 - [AWS Compute Optimizer now supports filtering by tags in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/compute-optimizer-filtering-tags-aws-govcloud-us/)
 - [Amazon FinSpace with Managed kdb Insights now supports a wider set of customer kdb applications](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-customer-applications/)
 - [Amazon SageMaker Canvas announces support for comprehensive data preparation capabilities](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canvas-comprehensive-data-preparation-capabilities/)
-- [Amazon Redshift extends SUPER data type column size support to 16 MB](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-super-data-column-size-16mb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Rekognition launches Face APIs version 7 for improved accuracy and lower latency](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-apis-7-accuracy-latency/)
+- [AWS Secrets Manager announces 99.99% Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-secrets-manager-service-level-agreement/)
+- [Amazon Connect adds an additional 24 contact and agent metrics to access programmatically](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-24-contact-agent-metrics-programmatically/)
+- [Customer Profiles launches calculated attributes that turn customer data into actionable insights](https://aws.amazon.com/about-aws/whats-new/2023/12/customer-profiles-calculated-attributes/)
+- [Amazon Connect launches new capabilities for measuring answered or abandoned contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-measuring-answered-abandoned-contacts/)
 - [AWS Resilience Hub expands support for customer compliance with ISO and SOC](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-resilience-hub-compliance-iso-soc/)
 - [AWS Compute Optimizer now supports filtering by tags in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/compute-optimizer-filtering-tags-aws-govcloud-us/)
 - [Amazon FinSpace with Managed kdb Insights now supports a wider set of customer kdb applications](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-customer-applications/)
 - [Amazon SageMaker Canvas announces support for comprehensive data preparation capabilities](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canvas-comprehensive-data-preparation-capabilities/)
 - [Amazon Redshift extends SUPER data type column size support to 16 MB](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-super-data-column-size-16mb/)
-- [Amazon Redshift announces general availability of row-level security enhancements](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-redshift-row-level-security-enhancements/)
-- [EC2 Hibernate now supports Amazon EC2 C7a, C7i, R7a, R7i and R7iz Instances](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernate-c7a-c7i-r7a-r7i-r7iz-instances/)
-- [FreeRTOS announces availability of modular and composable OTA libraries](https://aws.amazon.com/about-aws/whats-new/2023/12/freertos-modular-composable-ota-libraries/)
-- [AWS AppConfig Agent launches write to disk, backups, and permission mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-agent-write-backups-permission-mapping/)
-- [Amazon SageMaker Distribution is now available on Code Editor based on Code-OSS and JupyterLab](https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-sagemaker-distribution-code-editor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

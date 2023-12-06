@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs regular expression filter support now in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-regular-expression-govcloud-regions/)
+- [Amazon Aurora MySQL’s support for Microsoft Active Directory authentication available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-mysql-microsoft-active-directory-authentication-govcloud-regions/)
+- [AWS Lambda functions now scale up to 12X faster](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-functions-scale-up/)
 - [AWS Elemental MediaLive now supports color space conversion with custom tone mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/elemental-medialive-color-space-conversion-tone-mapping/)
 - [AWS Elemental MediaLive now supports image overlays for individual outputs](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-medialive-image-overlays-outposts/)
 - [AWS DMS adds support for Amazon Relational Database Service for Db2 as a target endpoint](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-dms-amazon-relational-database-service-db2-target-endpoint/)
@@ -65,9 +68,6 @@
 - [Amazon Rekognition launches Face APIs version 7 for improved accuracy and lower latency](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-apis-7-accuracy-latency/)
 - [AWS Secrets Manager announces 99.99% Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-secrets-manager-service-level-agreement/)
 - [Amazon Connect adds an additional 24 contact and agent metrics to access programmatically](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-24-contact-agent-metrics-programmatically/)
-- [Customer Profiles launches calculated attributes that turn customer data into actionable insights](https://aws.amazon.com/about-aws/whats-new/2023/12/customer-profiles-calculated-attributes/)
-- [Amazon Connect launches new capabilities for measuring answered or abandoned contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-measuring-answered-abandoned-contacts/)
-- [AWS Resilience Hub expands support for customer compliance with ISO and SOC](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-resilience-hub-compliance-iso-soc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

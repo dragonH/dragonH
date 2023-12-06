@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Application Recovery Controller zonal shift available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amaon-route-53-recovery-controller-shift-govcloud-regions/)
 - [Data plane API logging for Amazon DynamoDB using AWS CloudTrail is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/)
 - [Amazon EC2 Instance Connect now supports RHEL, CentOS, and MacOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instance-connect-rhel-centos-macos/)
 - [AWS Migration Hub Orchestrator now supports replatforming applications to Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-migration-hub-orchestrator-replatforming-applications-amazon-ecs/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaLive now supports color space conversion with custom tone mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/elemental-medialive-color-space-conversion-tone-mapping/)
 - [AWS Elemental MediaLive now supports image overlays for individual outputs](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-medialive-image-overlays-outposts/)
 - [AWS DMS adds support for Amazon Relational Database Service for Db2 as a target endpoint](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-dms-amazon-relational-database-service-db2-target-endpoint/)
-- [AWS Announces Amazon Q is available in preview on the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-q-preview-console-mobile-app-ios/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

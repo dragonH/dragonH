@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6gd and R6gd instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c6gd-r6gd-instances-govcloud-us-east-region/)
+- [Amazon EC2 M7i-flex and M7i instances are now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m7i-flex-m7i-instances-8-regions/)
 - [Amazon Route 53 Application Recovery Controller zonal shift available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amaon-route-53-recovery-controller-shift-govcloud-regions/)
 - [Data plane API logging for Amazon DynamoDB using AWS CloudTrail is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/)
 - [Amazon EC2 Instance Connect now supports RHEL, CentOS, and MacOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instance-connect-rhel-centos-macos/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora MySQL’s support for Microsoft Active Directory authentication available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-mysql-microsoft-active-directory-authentication-govcloud-regions/)
 - [AWS Lambda functions now scale up to 12X faster](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-functions-scale-up/)
 - [AWS Elemental MediaLive now supports color space conversion with custom tone mapping](https://aws.amazon.com/about-aws/whats-new/2023/12/elemental-medialive-color-space-conversion-tone-mapping/)
-- [AWS Elemental MediaLive now supports image overlays for individual outputs](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-medialive-image-overlays-outposts/)
-- [AWS DMS adds support for Amazon Relational Database Service for Db2 as a target endpoint](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-dms-amazon-relational-database-service-db2-target-endpoint/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization introduces new controls for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-new-controls-managed-runtimes/)
 - [AWS Lambda simplifies connectivity to Amazon RDS and RDS Proxy via Lambda console](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-connectivity-rds-proxy-console/)
 - [AWS announces new no-code dashboard application to visualize IoT data](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-no-code-dashboard-visualize-iot-data/)
 - [Amazon Rekognition improves Face Liveness accuracy and user experience](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-liveness-accuracy-user-experience/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M7i-flex and M7i instances are now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m7i-flex-m7i-instances-8-regions/)
 - [Amazon Route 53 Application Recovery Controller zonal shift available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amaon-route-53-recovery-controller-shift-govcloud-regions/)
 - [Data plane API logging for Amazon DynamoDB using AWS CloudTrail is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/)
-- [Amazon EC2 Instance Connect now supports RHEL, CentOS, and macOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instance-connect-rhel-centos-macos/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FinSpace with Managed kdb Insights now works with TorQ framework](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-torq-framework/)
+- [Announcing Migration Assistant for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-migration-assistant/)
 - [AWS Mainframe Modernization introduces new controls for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-new-controls-managed-runtimes/)
 - [AWS Lambda simplifies connectivity to Amazon RDS and RDS Proxy via Lambda console](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-connectivity-rds-proxy-console/)
 - [AWS announces new no-code dashboard application to visualize IoT data](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-no-code-dashboard-visualize-iot-data/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight enhances SPICE ingestion performance by up to 4x with parallel ingestion](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-quicksight-spice-ingestion-performance-4x/)
 - [Amazon EC2 C6gd and R6gd instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c6gd-r6gd-instances-govcloud-us-east-region/)
 - [Amazon EC2 M7i-flex and M7i instances are now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m7i-flex-m7i-instances-8-regions/)
-- [Amazon Route 53 Application Recovery Controller zonal shift available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amaon-route-53-recovery-controller-shift-govcloud-regions/)
-- [Data plane API logging for Amazon DynamoDB using AWS CloudTrail is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

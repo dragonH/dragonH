@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new AWS AI Service Cards - to advance responsible AI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/)
 - [Amazon QuickSight enhances SPICE ingestion performance by up to 4x with parallel ingestion](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-quicksight-spice-ingestion-performance-4x/)
 - [Amazon EC2 C6gd and R6gd instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c6gd-r6gd-instances-govcloud-us-east-region/)
 - [Amazon EC2 M7i-flex and M7i instances are now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m7i-flex-m7i-instances-8-regions/)
@@ -67,7 +68,6 @@
 - [AWS Migration Hub Orchestrator now supports replatforming applications to Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-migration-hub-orchestrator-replatforming-applications-amazon-ecs/)
 - [Amazon CloudWatch Logs regular expression filter support now in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-regular-expression-govcloud-regions/)
 - [Amazon Aurora MySQL’s support for Microsoft Active Directory authentication available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-mysql-microsoft-active-directory-authentication-govcloud-regions/)
-- [AWS Lambda functions now scale up to 12X faster](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-functions-scale-up/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

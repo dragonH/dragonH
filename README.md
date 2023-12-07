@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda simplifies connectivity to Amazon RDS and RDS Proxy via Lambda console](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-connectivity-rds-proxy-console/)
+- [AWS announces new no-code dashboard application to visualize IoT data](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-no-code-dashboard-visualize-iot-data/)
+- [Amazon Rekognition improves Face Liveness accuracy and user experience](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-liveness-accuracy-user-experience/)
 - [Announcing new AWS AI Service Cards - to advance responsible AI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/)
 - [Amazon QuickSight enhances SPICE ingestion performance by up to 4x with parallel ingestion](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-quicksight-spice-ingestion-performance-4x/)
 - [Amazon EC2 C6gd and R6gd instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c6gd-r6gd-instances-govcloud-us-east-region/)
@@ -65,9 +68,6 @@
 - [Amazon Route 53 Application Recovery Controller zonal shift available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amaon-route-53-recovery-controller-shift-govcloud-regions/)
 - [Data plane API logging for Amazon DynamoDB using AWS CloudTrail is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/data-plane-api-logging-dynamodb-cloudtrail-aws-govcloud-us-regions/)
 - [Amazon EC2 Instance Connect now supports RHEL, CentOS, and macOS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instance-connect-rhel-centos-macos/)
-- [AWS Migration Hub Orchestrator now supports replatforming applications to Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-migration-hub-orchestrator-replatforming-applications-amazon-ecs/)
-- [Amazon CloudWatch Logs regular expression filter support now in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-regular-expression-govcloud-regions/)
-- [Amazon Aurora MySQL’s support for Microsoft Active Directory authentication available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-mysql-microsoft-active-directory-authentication-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

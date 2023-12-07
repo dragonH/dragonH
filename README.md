@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeDeploy now provides zonal deployment for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-zonal-deployment-amazon-ec2/)
+- [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c7gd-m7gd-r7gd-instances-regions/)
+- [Amazon SNS now supports configuring delivery status logging with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-configuring-delivery-status-logging-aws-cloudformation/)
 - [Amazon FinSpace with Managed kdb Insights now works with TorQ framework](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-torq-framework/)
 - [Announcing Migration Assistant for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-migration-assistant/)
 - [AWS Mainframe Modernization introduces new controls for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-new-controls-managed-runtimes/)
@@ -65,9 +68,6 @@
 - [AWS announces new no-code dashboard application to visualize IoT data](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-no-code-dashboard-visualize-iot-data/)
 - [Amazon Rekognition improves Face Liveness accuracy and user experience](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-liveness-accuracy-user-experience/)
 - [Announcing new AWS AI Service Cards - to advance responsible AI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/)
-- [Amazon QuickSight enhances SPICE ingestion performance by up to 4x with parallel ingestion](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-quicksight-spice-ingestion-performance-4x/)
-- [Amazon EC2 C6gd and R6gd instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c6gd-r6gd-instances-govcloud-us-east-region/)
-- [Amazon EC2 M7i-flex and M7i instances are now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m7i-flex-m7i-instances-8-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

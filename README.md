@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces new AWS Direct Connect location in Vancouver, Canada](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-direct-connect-location-vancouver-canada/)
+- [Amazon CloudWatch Metric Streams adds support for OpenTelemetry 1.0.0](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metric-streams-opentelemetry-1-0-0/)
+- [Amazon EC2 C6gn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c6gn-instances-additional-region/)
+- [Amazon CloudWatch now supports Cross-Account Metrics Insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-cross-account-metric-streams/)
 - [AWS CodeDeploy now provides zonal deployment for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-zonal-deployment-amazon-ec2/)
 - [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c7gd-m7gd-r7gd-instances-regions/)
 - [Amazon SNS now supports configuring delivery status logging with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-configuring-delivery-status-logging-aws-cloudformation/)
 - [Amazon FinSpace with Managed kdb Insights now works with TorQ framework](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-torq-framework/)
 - [Announcing Migration Assistant for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-migration-assistant/)
 - [AWS Mainframe Modernization introduces new controls for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-new-controls-managed-runtimes/)
-- [AWS Lambda simplifies connectivity to Amazon RDS and RDS Proxy via Lambda console](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-connectivity-rds-proxy-console/)
-- [AWS announces new no-code dashboard application to visualize IoT data](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-no-code-dashboard-visualize-iot-data/)
-- [Amazon Rekognition improves Face Liveness accuracy and user experience](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rekognition-face-liveness-accuracy-user-experience/)
-- [Announcing new AWS AI Service Cards - to advance responsible AI](https://aws.amazon.com/about-aws/whats-new/2023/11/aws-ai-service-cards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

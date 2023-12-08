@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces updates to AnalyzeDocument - Forms](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-textract-updates-analyzedocument-forms/)
 - [AWS announces new AWS Direct Connect location in Vancouver, Canada](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-direct-connect-location-vancouver-canada/)
 - [Amazon CloudWatch Metric Streams adds support for OpenTelemetry 1.0.0](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metric-streams-opentelemetry-1-0-0/)
 - [Amazon EC2 C6gn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c6gn-instances-additional-region/)
@@ -67,7 +68,6 @@
 - [Amazon SNS now supports configuring delivery status logging with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-configuring-delivery-status-logging-aws-cloudformation/)
 - [Amazon FinSpace with Managed kdb Insights now works with TorQ framework](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-torq-framework/)
 - [Announcing Migration Assistant for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-migration-assistant/)
-- [AWS Mainframe Modernization introduces new controls for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-new-controls-managed-runtimes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

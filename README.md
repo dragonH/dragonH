@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Athena now supports user identities for data access and audit](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-athena-identities-data-access-audit/)
 - [Announcing the release of AWS Thinkbox Deadline 10.3.1](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-thinkbox-deadline-10-3-1/)
 - [AWS Malaysia now supports 3D-Secure authentication](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-malaysia-3d-secure-authentication/)
 - [AWS CodeDeploy now supports application stop hooks during Amazon EC2 Auto Scaling Group scale-ins](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-application-stop-hooks-ec2-auto-scaling-group-scale-ins/)
@@ -67,7 +68,6 @@
 - [Amazon FinSpace with Managed kdb Insights now supports running multiple kdb processes on shared compute](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-multiple-processes-shared-compute/)
 - [AWS AppConfig now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-supports-privatelink/)
 - [Amazon FinSpace with Managed kdb Insights now supports Tickerplants for real-time analytics](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-tickerplants/)
-- [AWS CloudShell has migrated to Amazon Linux 2023 &lpar;AL2023&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudshell-migrated-al2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

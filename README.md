@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda supports additional concurrency metric for improved quota monitoring](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-concurrency-metric-quota-monitoring/)
+- [Amazon FinSpace with Managed kdb Insights introduces Dataviews for sharing database caches across kdb clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-dataviews/)
+- [Amazon FinSpace with Managed kdb Insights now supports running multiple kdb processes on shared compute](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-multiple-processes-shared-compute/)
+- [AWS AppConfig now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-supports-privatelink/)
+- [Amazon FinSpace with Managed kdb Insights now supports Tickerplants for real-time analytics](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-tickerplants/)
+- [AWS CloudShell has migrated to Amazon Linux 2023 &lpar;AL2023&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudshell-migrated-al2023/)
 - [Amazon EC2 C7g and M7g  instances are now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c7g-m7g-instances-aws-region-europe-london/)
 - [Amazon Redshift announces enhancements to Advisor sort and distribution key recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-advisor-sort-distribution-key-recommendations/)
 - [Amazon EC2 adds Service Quotas for AMIs in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-service-quotas-amis-govcloud/)
 - [Amazon Textract announces updates to AnalyzeDocument - Forms](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-textract-updates-analyzedocument-forms/)
-- [AWS announces new AWS Direct Connect location in Vancouver, Canada](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-direct-connect-location-vancouver-canada/)
-- [Amazon CloudWatch Metric Streams adds support for OpenTelemetry 1.0.0](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metric-streams-opentelemetry-1-0-0/)
-- [Amazon EC2 C6gn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c6gn-instances-additional-region/)
-- [Amazon CloudWatch now supports Cross-Account Metrics Insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-cross-account-metric-streams/)
-- [AWS CodeDeploy now provides zonal deployment for Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-zonal-deployment-amazon-ec2/)
-- [Amazon EC2 C7gd, M7gd, and R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-c7gd-m7gd-r7gd-instances-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

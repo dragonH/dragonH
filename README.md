@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports minors 10.11.6, 10.6.16, 10.5.23, 10.4.32](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-mariadb-minors-10-11-6-10-6-16-10-5-23-10-4-32/)
+- [Introducing managed package repository support for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/12/managed-package-repository-support-amazon-codecatalyst/)
+- [Amazon CloudWatch now supports Cross-Account Metrics Insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-cross-account-metrics-insights/)
 - [Amazon Athena now supports user identities for data access and audit](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-athena-identities-data-access-audit/)
 - [Announcing the release of AWS Thinkbox Deadline 10.3.1](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-thinkbox-deadline-10-3-1/)
 - [AWS Malaysia now supports 3D-Secure authentication](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-malaysia-3d-secure-authentication/)
@@ -65,9 +68,6 @@
 - [Amazon SES now offers notifications for delivery improvement recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ses-notifications-delivery-improvement-recommendations/)
 - [AWS Lambda supports additional concurrency metric for improved quota monitoring](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-concurrency-metric-quota-monitoring/)
 - [Amazon FinSpace with Managed kdb Insights introduces Dataviews for sharing database caches across kdb clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-dataviews/)
-- [Amazon FinSpace with Managed kdb Insights now supports running multiple kdb processes on shared compute](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-multiple-processes-shared-compute/)
-- [AWS AppConfig now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appconfig-supports-privatelink/)
-- [Amazon FinSpace with Managed kdb Insights now supports Tickerplants for real-time analytics](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-finspace-managed-kdb-insights-tickerplants/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

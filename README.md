@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Inc. now supports Card Verification Value &lpar;CVV&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-inc-card-verification-value/)
 - [Amazon EMR Serverless is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-middle-east-uae-region/)
 - [Amazon CloudWatch Logs announces streaming API support for Live Tail](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-streaming-api-livetail/)
 - [Amazon Monitron now offers cost visibility at the project and site level](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-monitron-cost-visibility-project-site-level/)
@@ -67,7 +68,6 @@
 - [Introducing managed package repository support for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/12/managed-package-repository-support-amazon-codecatalyst/)
 - [Amazon CloudWatch now supports Cross-Account Metrics Insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-cross-account-metrics-insights/)
 - [Amazon Athena now supports user identities for data access and audit](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-athena-identities-data-access-audit/)
-- [Announcing the release of AWS Thinkbox Deadline 10.3.1](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-thinkbox-deadline-10-3-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

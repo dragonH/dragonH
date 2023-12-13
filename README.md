@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Inf2 instances, optimized for generative AI, now available globally](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-inf2-instances-generative-ai/)
+- [Announcing AWS CloudFormation template generation for Amazon EventBridge Pipes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudformation-template-eventbridge-pipes/)
 - [EC2 Image Builder launches image workflows to customize image creation process](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-image-builder-image-workflows/)
 - [Amazon CloudWatch Logs data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-data-protection-data-identifiers/)
 - [AWS Inc. now supports Card Verification Value &lpar;CVV&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-inc-card-verification-value/)
@@ -66,8 +68,6 @@
 - [Amazon Monitron now offers cost visibility at the project and site level](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-monitron-cost-visibility-project-site-level/)
 - [Connect GraphQL APIs to existing MySQL and PostgreSQL databases with AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2023/12/connect-graphql-apis-existing-mysql-postgresql-databases-aws-amplify/)
 - [Amazon MSK extends AWS IAM support to all programming languages for existing clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-msk-iam-support-programming-languages-clusters/)
-- [Amazon RDS for MariaDB supports minors 10.11.6, 10.6.16, 10.5.23, 10.4.32](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-mariadb-minors-10-11-6-10-6-16-10-5-23-10-4-32/)
-- [Introducing managed package repository support for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/12/managed-package-repository-support-amazon-codecatalyst/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

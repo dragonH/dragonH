@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-middle-east-uae-region/)
+- [Amazon CloudWatch Logs announces streaming API support for Live Tail](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-streaming-api-livetail/)
+- [Amazon Monitron now offers cost visibility at the project and site level](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-monitron-cost-visibility-project-site-level/)
+- [Connect GraphQL APIs to existing MySQL and PostgreSQL databases with AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2023/12/connect-graphql-apis-existing-mysql-postgresql-databases-aws-amplify/)
 - [Amazon MSK extends AWS IAM support to all programming languages for existing clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-msk-iam-support-programming-languages-clusters/)
 - [Amazon RDS for MariaDB supports minors 10.11.6, 10.6.16, 10.5.23, 10.4.32](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-mariadb-minors-10-11-6-10-6-16-10-5-23-10-4-32/)
 - [Introducing managed package repository support for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/12/managed-package-repository-support-amazon-codecatalyst/)
 - [Amazon CloudWatch now supports Cross-Account Metrics Insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-cross-account-metrics-insights/)
 - [Amazon Athena now supports user identities for data access and audit](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-athena-identities-data-access-audit/)
 - [Announcing the release of AWS Thinkbox Deadline 10.3.1](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-thinkbox-deadline-10-3-1/)
-- [AWS Malaysia now supports 3D-Secure authentication](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-malaysia-3d-secure-authentication/)
-- [AWS CodeDeploy now supports application stop hooks during Amazon EC2 Auto Scaling Group scale-ins](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-codedeploy-application-stop-hooks-ec2-auto-scaling-group-scale-ins/)
-- [Amazon SES now offers notifications for delivery improvement recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ses-notifications-delivery-improvement-recommendations/)
-- [AWS Lambda supports additional concurrency metric for improved quota monitoring](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-concurrency-metric-quota-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

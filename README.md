@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder launches image workflows to customize image creation process](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-image-builder-image-workflows/)
+- [Amazon CloudWatch Logs data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-data-protection-data-identifiers/)
 - [AWS Inc. now supports Card Verification Value &lpar;CVV&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-inc-card-verification-value/)
 - [Amazon EMR Serverless is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-middle-east-uae-region/)
 - [Amazon CloudWatch Logs announces streaming API support for Live Tail](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-streaming-api-livetail/)
@@ -66,8 +68,6 @@
 - [Amazon MSK extends AWS IAM support to all programming languages for existing clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-msk-iam-support-programming-languages-clusters/)
 - [Amazon RDS for MariaDB supports minors 10.11.6, 10.6.16, 10.5.23, 10.4.32](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-mariadb-minors-10-11-6-10-6-16-10-5-23-10-4-32/)
 - [Introducing managed package repository support for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2023/12/managed-package-repository-support-amazon-codecatalyst/)
-- [Amazon CloudWatch now supports Cross-Account Metrics Insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-cross-account-metrics-insights/)
-- [Amazon Athena now supports user identities for data access and audit](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-athena-identities-data-access-audit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

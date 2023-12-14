@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ now supports RabbitMQ version 3.10.25](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-mq-rabbitmq-version-3-10-25/)
+- [Amazon DocumentDB now supports 1-click EC2 connectivity with Amazon EC2 instance](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-documentdb-1-click-ec2-connectivity-instance/)
+- [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m6id-instances-additional-regions/)
 - [Amazon EBS launches AWS CloudFormation support for Block Public Access for EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ebs-cloudformation-block-public-access-snapshots/)
 - [Amazon EC2 Inf2 instances, optimized for generative AI, now available globally](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-inf2-instances-generative-ai/)
 - [Announcing AWS CloudFormation template generation for Amazon EventBridge Pipes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudformation-template-eventbridge-pipes/)
@@ -65,9 +68,6 @@
 - [Amazon CloudWatch Logs data protection now supports custom data identifiers](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-data-protection-data-identifiers/)
 - [AWS Inc. now supports Card Verification Value &lpar;CVV&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-inc-card-verification-value/)
 - [Amazon EMR Serverless is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-middle-east-uae-region/)
-- [Amazon CloudWatch Logs announces streaming API support for Live Tail](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-streaming-api-livetail/)
-- [Amazon Monitron now offers cost visibility at the project and site level](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-monitron-cost-visibility-project-site-level/)
-- [Connect GraphQL APIs to existing MySQL and PostgreSQL databases with AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2023/12/connect-graphql-apis-existing-mysql-postgresql-databases-aws-amplify/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

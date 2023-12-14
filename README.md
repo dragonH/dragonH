@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS launches AWS CloudFormation support for Block Public Access for EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ebs-cloudformation-block-public-access-snapshots/)
 - [Amazon EC2 Inf2 instances, optimized for generative AI, now available globally](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-inf2-instances-generative-ai/)
 - [Announcing AWS CloudFormation template generation for Amazon EventBridge Pipes](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloudformation-template-eventbridge-pipes/)
 - [EC2 Image Builder launches image workflows to customize image creation process](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-image-builder-image-workflows/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Logs announces streaming API support for Live Tail](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-logs-streaming-api-livetail/)
 - [Amazon Monitron now offers cost visibility at the project and site level](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-monitron-cost-visibility-project-site-level/)
 - [Connect GraphQL APIs to existing MySQL and PostgreSQL databases with AWS Amplify](https://aws.amazon.com/about-aws/whats-new/2023/12/connect-graphql-apis-existing-mysql-postgresql-databases-aws-amplify/)
-- [Amazon MSK extends AWS IAM support to all programming languages for existing clusters](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-msk-iam-support-programming-languages-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

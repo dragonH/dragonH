@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core allows customers to use their own CAs with fleet provisioning](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-core-customers-cas-fleet-provisioning/)
+- [Amazon AppStream 2.0 now supports Microsoft Windows Server 2022 images](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-appstream-2-0-windows-server-2022-images/)
+- [Amazon SNS now supports sending SMS from Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-sms-asia-pacific-jakarta/)
 - [AWS Billing Conductor now provides margin analysis reports for AWS services](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-billing-conductor-margin-analysis-reports-services/)
 - [AWS Data Exchange now supports data grants for sharing data across organizations](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-data-exchange-data-grants-sharing-organizations/)
 - [Announcing Synthetics NodeJS runtime version 6.1 for Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-synthetics-node-js-version-6-1/)
-- [Amazon SNS now supports sending SMS from Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-sms-israel-tel-aviv/)
 - [AWS Lambda adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-support-python-3-12/)
 - [Amazon DevOps Guru achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-devops-guru-fedramp-compliance/)
 - [Cost Anomaly Detection extends CloudFormation region support](https://aws.amazon.com/about-aws/whats-new/2023/12/cost-anomaly-detection-cloudformation-region-support/)
 - [AWS Systems Manager Fleet Manager now facilitates EBS volume management](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-systems-manager-fleet-manager-ebs-volume-management/)
-- [Amazon MQ now supports RabbitMQ version 3.10.25](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-mq-rabbitmq-version-3-10-25/)
-- [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-m6id-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

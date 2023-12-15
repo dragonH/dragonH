@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS IoT Core allows customers to use their own CAs with fleet provisioning](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-core-customers-cas-fleet-provisioning/)
-- [Amazon AppStream 2.0 now supports Microsoft Windows Server 2022 images](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-appstream-2-0-windows-server-2022-images/)
-- [Amazon SNS now supports sending SMS from Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-sms-asia-pacific-jakarta/)
-- [AWS Billing Conductor now provides margin analysis reports for AWS services](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-billing-conductor-margin-analysis-reports-services/)
-- [AWS Data Exchange now supports data grants for sharing data across organizations](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-data-exchange-data-grants-sharing-organizations/)
-- [Announcing Synthetics NodeJS runtime version 6.1 for Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-synthetics-node-js-version-6-1/)
-- [AWS Lambda adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-lambda-support-python-3-12/)
-- [Amazon DevOps Guru achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-devops-guru-fedramp-compliance/)
-- [Cost Anomaly Detection extends CloudFormation region support](https://aws.amazon.com/about-aws/whats-new/2023/12/cost-anomaly-detection-cloudformation-region-support/)
-- [AWS Systems Manager Fleet Manager now facilitates EBS volume management](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-systems-manager-fleet-manager-ebs-volume-management/)
+- [Announcing the Auto Query feature for AWS IoT TwinMaker](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-twinmaker-auto-query-feature/)
+- [Amazon Connect Cases now supports creating rules for monitoring and updating your cases](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-creating-rules-monitor-update-cases/)
+- [Amazon MQ is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-mq-aws-israel-tel-aviv-region/)
+- [Amazon Data Lifecycle Manager is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-data-lifecycle-manager-aws-israel-tel-aviv-region/)
+- [Amazon EMR on EC2 now supports high-availability instance fleets configuration](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-ec2-high-availability-fleets-configuration/)
+- [Amazon Connect Tasks now supports pausing/resuming of tasks](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-tasks-pausing-resuming-tasks/)
+- [Amazon Connect now provides more granular billing](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-billing/)
+- [Amazon Connect launches more granular access controls &lpar;using tags&rpar; for your instances](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-controls-tags-instances/)
+- [AWS Control Tower Landing Zone updates managed policies and controls](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-control-tower-landing-zone-updates-managed-policies-controls/)
+- [Amazon RDS for SQL Server supports minor version 2022 CU10](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-sql-server-minor-version-2022-cu10/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

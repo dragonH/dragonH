@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Container Insights launches cross-account observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-container-account-observability-eks/)
+- [Amazon CodeCatalyst Dev Environments now supports Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-codecatalyst-dev-environments-private-cloud/)
+- [Amazon OpenSearch Service adds multimodal support for Neural Search](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-multimodal-support-neural-search/)
+- [AWS Cloud9 now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloud9-amazon-linux-2023/)
+- [AWS Security Hub launches 15 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-security-hub-15-security-controls/)
+- [AWS announces an integrated mobile experience for AWS services in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2023/12/integrated-mobile-experience-aws-services-console-mobile-app/)
+- [Amazon EC2 HPC instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-hpc-instances-additional-regions/)
 - [Announcing the Auto Query feature for AWS IoT TwinMaker](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-twinmaker-auto-query-feature/)
 - [Amazon Connect Cases now supports creating rules for monitoring and updating your cases](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-creating-rules-monitor-update-cases/)
 - [Amazon MQ is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-mq-aws-israel-tel-aviv-region/)
-- [Amazon Data Lifecycle Manager is now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-data-lifecycle-manager-aws-israel-tel-aviv-region/)
-- [Amazon EMR on EC2 now supports high-availability instance fleets configuration](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-ec2-high-availability-fleets-configuration/)
-- [Amazon Connect Tasks now supports pausing/resuming of tasks](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-tasks-pausing-resuming-tasks/)
-- [Amazon Connect now provides more granular billing](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-billing/)
-- [Amazon Connect launches more granular access controls &lpar;using tags&rpar; for your instances](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-controls-tags-instances/)
-- [AWS Control Tower Landing Zone updates managed policies and controls](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-control-tower-landing-zone-updates-managed-policies-controls/)
-- [Amazon RDS for SQL Server supports minor version 2022 CU10](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-sql-server-minor-version-2022-cu10/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

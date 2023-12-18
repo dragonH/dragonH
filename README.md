@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift supports single sign-on with Amazon QuickSight and AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/)
 - [Amazon EKS introduces simplified controls for IAM cluster access management](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-controls-iam-cluster-access-management/)
 - [AWS Backup Audit Manager adds new control to audit restore time targets](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-audit-manager-control-time-targets/)
 - [Amazon CloudWatch Container Insights launches cross-account observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-container-account-observability-eks/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub launches 15 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-security-hub-15-security-controls/)
 - [AWS announces an integrated mobile experience for AWS services in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2023/12/integrated-mobile-experience-aws-services-console-mobile-app/)
 - [Amazon EC2 HPC instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-hpc-instances-additional-regions/)
-- [Announcing the Auto Query feature for AWS IoT TwinMaker](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-twinmaker-auto-query-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

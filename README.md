@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup Audit Manager adds new control to audit restore time targets](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-audit-manager-control-time-targets/)
 - [Amazon CloudWatch Container Insights launches cross-account observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-container-account-observability-eks/)
 - [Amazon CodeCatalyst Dev Environments now supports Virtual Private Cloud](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-codecatalyst-dev-environments-private-cloud/)
 - [Amazon OpenSearch Service adds multimodal support for Neural Search](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-multimodal-support-neural-search/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 HPC instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-hpc-instances-additional-regions/)
 - [Announcing the Auto Query feature for AWS IoT TwinMaker](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-iot-twinmaker-auto-query-feature/)
 - [Amazon Connect Cases now supports creating rules for monitoring and updating your cases](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-creating-rules-monitor-update-cases/)
-- [Amazon MQ is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-mq-aws-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

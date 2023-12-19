@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Hong Kong, Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instances-hong-kong-melbourne/)
 - [AWS Elemental MediaConnect now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediaconnect-additional-aws-regions/)
 - [Amazon Elastic Container Registry now supports wildcards in lifecycle policies](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-elastic-container-registry-wildcards-lifecycle-policies/)
 - [AWS Application Discovery Service adds storage monitoring for VMware](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-application-discovery-service-monitoring-vmware/)
@@ -67,7 +68,6 @@
 - [Amazon Redshift supports single sign-on with Amazon QuickSight and AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/)
 - [Amazon EKS introduces simplified controls for IAM cluster access management](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-controls-iam-cluster-access-management/)
 - [AWS Backup Audit Manager adds new control to audit restore time targets](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-audit-manager-control-time-targets/)
-- [Amazon CloudWatch Container Insights launches cross-account observability for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-container-account-observability-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

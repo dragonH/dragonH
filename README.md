@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB local adds support for two DynamoDB API features](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-dynamodb-local-two-api-features/)
+- [Amazon Cognito user pools now support the ability to customize access tokens](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-user-pools-customize-access-tokens/)
 - [Amazon Redshift supports single sign-on with Amazon QuickSight and AWS Lake Formation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-redshift-single-sign-on-quicksight-aws-lake-formation/)
 - [Amazon EKS introduces simplified controls for IAM cluster access management](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-controls-iam-cluster-access-management/)
 - [AWS Backup Audit Manager adds new control to audit restore time targets](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-audit-manager-control-time-targets/)
@@ -66,8 +68,6 @@
 - [Amazon OpenSearch Service adds multimodal support for Neural Search](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-opensearch-service-multimodal-support-neural-search/)
 - [AWS Cloud9 now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-cloud9-amazon-linux-2023/)
 - [AWS Security Hub launches 15 new security controls](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-security-hub-15-security-controls/)
-- [AWS announces an integrated mobile experience for AWS services in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2023/12/integrated-mobile-experience-aws-services-console-mobile-app/)
-- [Amazon EC2 HPC instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-hpc-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

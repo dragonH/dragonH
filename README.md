@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Audit Manager now supports PCI 4.0 for automated evidence collection](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-audit-manager-pci-4-0-automated-evidence-collection/)
-- [Amazon FSx for OpenZFS now supports on-demand data replication across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-fsx-openzfs-on-demand-data-replication-regions-accounts/)
-- [Amazon RDS Performance Insights now generates recommendations when metrics breach advisable thresholds](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-performance-insights-generates-recommendations/)
-- [Amazon RDS launches an enhanced experience for RDS Recommendations](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-enhanced-experience-rds-recommendations/)
-- [AWS Verified Access is now available in 8 more regions including AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-verified-access-eight-regions-govcloud/)
-- [AWS Network Firewall egress TLS inspection is now available in all regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-network-firewall-egress-tls-inspection-available-all-regions/)
-- [AWS AppSync provides additional configurations to manage GraphQL API usage](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appsync-additional-configurations-manage-graphql-api-usage/)
-- [AWS ParallelCluster 3.8 with support for Amazon EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-parallelcluster-cluster-3-8-ec2-blocks-ml/)
-- [AWS AppFabric now supports 7 additional applications](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-appfabric-7-additional-applications/)
-- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Hong Kong, Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-instances-hong-kong-melbourne/)
+- [Amazon Kinesis Data Firehose is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-canada-calgary-region/)
+- [Amazon Virtual Private Cloud now supports Bring Your Own IP in three AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-virtual-private-cloud-byoip-three-zones/)
+- [SageMaker model parallelism now provides up to 20% speed up with less code change](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-parallelism-20-speed-code-change/)
+- [AWS Ground Station launches a new antenna location in Alaska](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-ground-station-antenna-alaska/)
+- [Amazon Route 53 Resolver Endpoints now supports DNS-over-HTTPS &lpar;DoH&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-route-53-resolver-endpoints-doh/)
+- [Amazon Route 53 Resolver Endpoints now available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-route-53-resolver-endpoints-canada-west-calgary-region/)
+- [Amazon SNS FIFO topics are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-fifo-topics-aws-govcloud-us-regions/)
+- [Amazon Keyspaces adds support for DML query auditing with AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-keyspaces-dml-query-auditing-cloudtrail/)
+- [FSx for NetApp ONTAP now supports using NetApp System Manager to manage your file systems](https://aws.amazon.com/about-aws/whats-new/2023/12/fsx-netapp-ontap-netapp-system-manager-file-systems/)
+- [AWS Clean Rooms expands support for customer compliance with ISO and SOC](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-clean-rooms-support-customer-compliance-iso-soc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

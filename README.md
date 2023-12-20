@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-transit-gateway-canada-calgary-region/)
 - [Amazon EKS introduces upgrade insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-upgrade-insights/)
 - [AWS DataSync is now available in the Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-datasync-canada-west-calgary-region/)
 - [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for hours of operation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-access-controls-tags-operation/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Firehose is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-canada-calgary-region/)
 - [Amazon Virtual Private Cloud now supports Bring Your Own IP in three AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-virtual-private-cloud-byoip-three-zones/)
 - [SageMaker model parallelism now provides up to 20% speed up with less code change](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-parallelism-20-speed-code-change/)
-- [AWS Ground Station launches a new antenna location in Alaska](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-ground-station-antenna-alaska/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

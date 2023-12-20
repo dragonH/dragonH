@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for hours of operation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-access-controls-tags-operation/)
+- [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for prompts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-access-controls-resource-tags-prompts/)
+- [AWS Marketplace launches read API that can get details on multiple entities at once](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-marketplace-api-details-multiple-entities/)
+- [Announcing SSH support for Amazon CodeCatalyst Dev Environments](https://aws.amazon.com/about-aws/whats-new/2023/12/ssh-support-amazon-codecatalyst-dev-environments/)
 - [Amazon Kinesis Data Firehose is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-canada-calgary-region/)
 - [Amazon Virtual Private Cloud now supports Bring Your Own IP in three AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-virtual-private-cloud-byoip-three-zones/)
 - [SageMaker model parallelism now provides up to 20% speed up with less code change](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-parallelism-20-speed-code-change/)
 - [AWS Ground Station launches a new antenna location in Alaska](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-ground-station-antenna-alaska/)
 - [Amazon Route 53 Resolver Endpoints now supports DNS-over-HTTPS &lpar;DoH&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-route-53-resolver-endpoints-doh/)
 - [Amazon Route 53 Resolver Endpoints now available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-route-53-resolver-endpoints-canada-west-calgary-region/)
-- [Amazon SNS FIFO topics are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sns-fifo-topics-aws-govcloud-us-regions/)
-- [Amazon Keyspaces adds support for DML query auditing with AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-keyspaces-dml-query-auditing-cloudtrail/)
-- [FSx for NetApp ONTAP now supports using NetApp System Manager to manage your file systems](https://aws.amazon.com/about-aws/whats-new/2023/12/fsx-netapp-ontap-netapp-system-manager-file-systems/)
-- [AWS Clean Rooms expands support for customer compliance with ISO and SOC](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-clean-rooms-support-customer-compliance-iso-soc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

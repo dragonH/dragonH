@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL now supports RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-rds-data-api/)
+- [Amazon Managed Service for Prometheus now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-managed-service-prometheus-kms-keys/)
+- [Announcing Customer Managed Key &lpar;CMK&rpar; support in AWS CodeCommit](https://aws.amazon.com/about-aws/whats-new/2023/12/customer-managed-key-support-aws-codecommit/)
+- [Amazon EC2 R7g  instances are now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-r7g-instances-aws-region-europe-london/)
 - [AWS Config now supports 1000 AWS Config rules per AWS Region per account](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-config-1000-config-rules-region-account/)
 - [Amazon Bedrock is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-bedrock-aws-govcloud-us-west-region/)
 - [Amazon RDS now supports M6gd and R6gd database instances in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-m6gd-r6gd-database-instances-additional-aws-regions/)
 - [AWS Backup now supports SAP HANA High Availability databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/)
 - [EFA support for Open MPI 5.0 now available](https://aws.amazon.com/about-aws/whats-new/2023/12/efa-support-open-mpi-5-0/)
 - [Amazon Chime SDK now supports new high-definition video modes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-chime-sdk-high-definition-video/)
-- [AWS Resource Access Manager is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-resource-access-manager-canada-calgary-region/)
-- [Amazon Cognito is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-africa-cape-town-region/)
-- [Amazon Cognito is now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-asia-pacific-jakarta-region/)
-- [AWS Transit Gateway is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-transit-gateway-canada-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

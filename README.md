@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-bedrock-aws-govcloud-us-west-region/)
+- [Amazon RDS now supports M6gd and R6gd database instances in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-m6gd-r6gd-database-instances-additional-aws-regions/)
+- [AWS Backup now supports SAP HANA High Availability databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/)
 - [EFA support for Open MPI 5.0 now available](https://aws.amazon.com/about-aws/whats-new/2023/12/efa-support-open-mpi-5-0/)
 - [Amazon Chime SDK now supports new high-definition video modes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-chime-sdk-high-definition-video/)
 - [AWS Resource Access Manager is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-resource-access-manager-canada-calgary-region/)
@@ -65,9 +68,6 @@
 - [Amazon Cognito is now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-asia-pacific-jakarta-region/)
 - [AWS Transit Gateway is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-transit-gateway-canada-calgary-region/)
 - [Amazon EKS introduces upgrade insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-upgrade-insights/)
-- [AWS DataSync is now available in the Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-datasync-canada-west-calgary-region/)
-- [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for hours of operation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-access-controls-tags-operation/)
-- [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for prompts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-access-controls-resource-tags-prompts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

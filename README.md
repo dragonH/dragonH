@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EFA support for Open MPI 5.0 now available](https://aws.amazon.com/about-aws/whats-new/2023/12/efa-support-open-mpi-5-0/)
+- [Amazon Chime SDK now supports new high-definition video modes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-chime-sdk-high-definition-video/)
 - [AWS Resource Access Manager is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-resource-access-manager-canada-calgary-region/)
 - [Amazon Cognito is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-africa-cape-town-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-asia-pacific-jakarta-region/)
@@ -66,8 +68,6 @@
 - [AWS DataSync is now available in the Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-datasync-canada-west-calgary-region/)
 - [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for hours of operation](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-access-controls-tags-operation/)
 - [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for prompts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-granular-access-controls-resource-tags-prompts/)
-- [AWS Marketplace launches read API that can get details on multiple entities at once](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-marketplace-api-details-multiple-entities/)
-- [Announcing SSH support for Amazon CodeCatalyst Dev Environments](https://aws.amazon.com/about-aws/whats-new/2023/12/ssh-support-amazon-codecatalyst-dev-environments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

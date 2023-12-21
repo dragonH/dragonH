@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 1000 AWS Config rules per AWS Region per account](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-config-1000-config-rules-region-account/)
 - [Amazon Bedrock is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-bedrock-aws-govcloud-us-west-region/)
 - [Amazon RDS now supports M6gd and R6gd database instances in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-m6gd-r6gd-database-instances-additional-aws-regions/)
 - [AWS Backup now supports SAP HANA High Availability databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/)
@@ -67,7 +68,6 @@
 - [Amazon Cognito is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-africa-cape-town-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-asia-pacific-jakarta-region/)
 - [AWS Transit Gateway is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-transit-gateway-canada-calgary-region/)
-- [Amazon EKS introduces upgrade insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-upgrade-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

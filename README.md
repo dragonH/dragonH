@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-africa-cape-town-region/)
+- [Amazon Cognito is now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cognito-asia-pacific-jakarta-region/)
 - [AWS Transit Gateway is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-transit-gateway-canada-calgary-region/)
 - [Amazon EKS introduces upgrade insights](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-upgrade-insights/)
 - [AWS DataSync is now available in the Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-datasync-canada-west-calgary-region/)
@@ -66,8 +68,6 @@
 - [AWS Marketplace launches read API that can get details on multiple entities at once](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-marketplace-api-details-multiple-entities/)
 - [Announcing SSH support for Amazon CodeCatalyst Dev Environments](https://aws.amazon.com/about-aws/whats-new/2023/12/ssh-support-amazon-codecatalyst-dev-environments/)
 - [Amazon Kinesis Data Firehose is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-canada-calgary-region/)
-- [Amazon Virtual Private Cloud now supports Bring Your Own IP in three AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-virtual-private-cloud-byoip-three-zones/)
-- [SageMaker model parallelism now provides up to 20% speed up with less code change](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-parallelism-20-speed-code-change/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect agent workspace supports contextual views for third-party apps &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-agent-workspace-views-third-party-apps/)
+- [AWS Neuron adds support for PyTorch 2.1 and Llama-2-70b model inference](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-neuron-pytorch-2-1-llama-2-70b-model-inference/)
+- [Amazon CloudWatch alarms adds AWS Lambda as an alarm state change action](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-alarms-lambda-change-action/)
+- [Amazon CloudWatch Network Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-network-monitor-generally-available/)
+- [Amazon RDS for Db2 now supports X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-db2-supports-x2iedn-instances/)
+- [Amazon Aurora for PostgreSQL now supports h3-pg for geospatial indexing](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-h3-pg-geospatial-indexing/)
+- [Amazon Aurora PostgreSQL now supports HypoPG extension for creating hypothetical indexes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-hypopg-extension/)
+- [Amazon Aurora for PostgreSQL now supports delegating extension management to lower privileged users](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-delegating-extension-management/)
+- [Amazon EC2 R7iz instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-r7iz-instances-additional-aws-regions/)
 - [AWS announces Amazon Aurora PostgreSQL integration with Amazon Bedrock for Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-integration-bedrock-generative-ai/)
-- [Amazon Aurora supports PostgreSQL 15.5, 14.10, 13.13, 12.17](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-15-5-14-10-13-13-12-17/)
-- [Amazon Aurora PostgreSQL now supports RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-rds-data-api/)
-- [Amazon Managed Service for Prometheus now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-managed-service-prometheus-kms-keys/)
-- [Announcing Customer Managed Key &lpar;CMK&rpar; support in AWS CodeCommit](https://aws.amazon.com/about-aws/whats-new/2023/12/customer-managed-key-support-aws-codecommit/)
-- [Amazon EC2 R7g  instances are now available in AWS Region Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-r7g-instances-aws-region-europe-london/)
-- [AWS Config now supports 1000 AWS Config rules per AWS Region per account](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-config-1000-config-rules-region-account/)
-- [Amazon Bedrock is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-bedrock-aws-govcloud-us-west-region/)
-- [Amazon RDS now supports M6gd and R6gd database instances in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-m6gd-r6gd-database-instances-additional-aws-regions/)
-- [AWS Backup now supports SAP HANA High Availability databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

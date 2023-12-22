@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canada-west-calgary/)
 - [Amazon Connect agent workspace supports contextual views for third-party apps &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-agent-workspace-views-third-party-apps/)
 - [AWS Neuron adds support for PyTorch 2.1 and Llama-2-70b model inference](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-neuron-pytorch-2-1-llama-2-70b-model-inference/)
 - [Amazon CloudWatch alarms adds AWS Lambda as an alarm state change action](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-alarms-lambda-change-action/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora PostgreSQL now supports HypoPG extension for creating hypothetical indexes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-hypopg-extension/)
 - [Amazon Aurora for PostgreSQL now supports delegating extension management to lower privileged users](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-delegating-extension-management/)
 - [Amazon EC2 R7iz instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-r7iz-instances-additional-aws-regions/)
-- [AWS announces Amazon Aurora PostgreSQL integration with Amazon Bedrock for Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-integration-bedrock-generative-ai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

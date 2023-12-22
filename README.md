@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports 4096-bit RSA TLS certificates](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudfront-4096-bit-rsa-tls-certificates/)
+- [Amazon EMR Serverless supports fine-grained access control via AWS Lake Formation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-grained-lake-formation-preview/)
+- [Amazon Connect Tasks now makes it easier to link and track tasks and associated contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-link-track-tasks-contacts/)
+- [Amazon Connect Contact Lens launches new API to search for contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-contact-lens-api-search-contacts/)
 - [VPC Traffic Mirroring is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/vpc-traffic-mirroring-additional-regions/)
 - [Automate deployment of SAP systems on ASE databases with AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2023/12/automate-deployment-sap-systems-ase-databases-aws-launch-wizard/)
 - [Amazon Connect now supports routing contacts according to the proficiency of agents](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-routing-contacts-proficiency-agents/)
 - [Amazon SageMaker is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canada-west-calgary/)
 - [Amazon Connect agent workspace supports contextual views for third-party apps &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-agent-workspace-views-third-party-apps/)
 - [AWS Neuron adds support for PyTorch 2.1 and Llama-2-70b model inference](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-neuron-pytorch-2-1-llama-2-70b-model-inference/)
-- [Amazon CloudWatch alarms adds AWS Lambda as an alarm state change action](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-alarms-lambda-change-action/)
-- [Amazon CloudWatch Network Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-network-monitor-generally-available/)
-- [Amazon RDS for Db2 now supports X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-db2-supports-x2iedn-instances/)
-- [Amazon Aurora for PostgreSQL now supports h3-pg for geospatial indexing](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-h3-pg-geospatial-indexing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Aurora PostgreSQL integration with Amazon Bedrock for Generative AI](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-integration-bedrock-generative-ai/)
+- [Amazon Aurora supports PostgreSQL 15.5, 14.10, 13.13, 12.17](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-15-5-14-10-13-13-12-17/)
 - [Amazon Aurora PostgreSQL now supports RDS Data API](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-rds-data-api/)
 - [Amazon Managed Service for Prometheus now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-managed-service-prometheus-kms-keys/)
 - [Announcing Customer Managed Key &lpar;CMK&rpar; support in AWS CodeCommit](https://aws.amazon.com/about-aws/whats-new/2023/12/customer-managed-key-support-aws-codecommit/)
@@ -66,8 +68,6 @@
 - [Amazon Bedrock is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-bedrock-aws-govcloud-us-west-region/)
 - [Amazon RDS now supports M6gd and R6gd database instances in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-m6gd-r6gd-database-instances-additional-aws-regions/)
 - [AWS Backup now supports SAP HANA High Availability databases on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-backup-sap-hana-databases-amazon-ec2/)
-- [EFA support for Open MPI 5.0 now available](https://aws.amazon.com/about-aws/whats-new/2023/12/efa-support-open-mpi-5-0/)
-- [Amazon Chime SDK now supports new high-definition video modes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-chime-sdk-high-definition-video/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

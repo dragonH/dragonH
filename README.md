@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VPC Traffic Mirroring is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/vpc-traffic-mirroring-additional-regions/)
+- [Automate deployment of SAP systems on ASE databases with AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2023/12/automate-deployment-sap-systems-ase-databases-aws-launch-wizard/)
+- [Amazon Connect now supports routing contacts according to the proficiency of agents](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-routing-contacts-proficiency-agents/)
 - [Amazon SageMaker is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-canada-west-calgary/)
 - [Amazon Connect agent workspace supports contextual views for third-party apps &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-agent-workspace-views-third-party-apps/)
 - [AWS Neuron adds support for PyTorch 2.1 and Llama-2-70b model inference](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-neuron-pytorch-2-1-llama-2-70b-model-inference/)
@@ -65,9 +68,6 @@
 - [Amazon CloudWatch Network Monitor is now generally available](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-network-monitor-generally-available/)
 - [Amazon RDS for Db2 now supports X2iedn instances](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-rds-db2-supports-x2iedn-instances/)
 - [Amazon Aurora for PostgreSQL now supports h3-pg for geospatial indexing](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-h3-pg-geospatial-indexing/)
-- [Amazon Aurora PostgreSQL now supports HypoPG extension for creating hypothetical indexes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-hypopg-extension/)
-- [Amazon Aurora for PostgreSQL now supports delegating extension management to lower privileged users](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-aurora-postgresql-delegating-extension-management/)
-- [Amazon EC2 R7iz instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-ec2-r7iz-instances-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

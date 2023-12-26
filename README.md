@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New EC2 console instance launch experience available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-console-instance-launch-experience-aws-govcloud-us-regions/)
+- [Amazon Kinesis Data Firehose now supports zero buffering](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/)
 - [Remediating non-compliant resources with AWS Config rules is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/remediating-non-compliant-resources-aws-config-rules-israel-tel-aviv/)
 - [Amazon EMR Studio now supports user level permissions for Git Repositories](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-studio-user-level-permissions-git-repositories/)
 - [IAM Roles Anywhere is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/iam-roles-anywhere-additional-aws-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Connect Tasks now makes it easier to link and track tasks and associated contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-link-track-tasks-contacts/)
 - [Amazon Connect Contact Lens launches new API to search for contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-contact-lens-api-search-contacts/)
 - [VPC Traffic Mirroring is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/vpc-traffic-mirroring-additional-regions/)
-- [Automate deployment of SAP systems on ASE databases with AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2023/12/automate-deployment-sap-systems-ase-databases-aws-launch-wizard/)
-- [Amazon Connect now supports routing contacts according to the proficiency of agents](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-routing-contacts-proficiency-agents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

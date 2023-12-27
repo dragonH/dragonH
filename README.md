@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now supports time shifting in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediatailor-time-shifting-assembly/)
 - [Amazon SageMaker provides model training container access for debugging purposes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-model-training-container-access/)
 - [Amazon Connect launches new API to update contact priority](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-api-update-contact-priority/)
 - [New EC2 console instance launch experience available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-console-instance-launch-experience-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [IAM Roles Anywhere is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/iam-roles-anywhere-additional-aws-regions/)
 - [Amazon CloudFront now supports 4096-bit RSA TLS certificates](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudfront-4096-bit-rsa-tls-certificates/)
 - [Amazon EMR Serverless supports fine-grained access control via AWS Lake Formation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-serverless-grained-lake-formation-preview/)
-- [Amazon Connect Tasks now makes it easier to link and track tasks and associated contacts](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-link-track-tasks-contacts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

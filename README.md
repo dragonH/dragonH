@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CodePipeline supports GitLab self-managed](https://aws.amazon.com/about-aws/whats-new/2023/12/codepipeline-gitlab-self-managed/)
 - [AWS Elemental MediaPackage now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediapackage-asia-pacific-melbourne-region/)
 - [AWS Elemental MediaTailor now supports time shifting in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediatailor-time-shifting-assembly/)
 - [Amazon SageMaker provides model training container access for debugging purposes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-model-training-container-access/)
@@ -67,7 +68,6 @@
 - [Remediating non-compliant resources with AWS Config rules is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/remediating-non-compliant-resources-aws-config-rules-israel-tel-aviv/)
 - [Amazon EMR Studio now supports user level permissions for Git Repositories](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-studio-user-level-permissions-git-repositories/)
 - [IAM Roles Anywhere is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/iam-roles-anywhere-additional-aws-regions/)
-- [Amazon CloudFront now supports 4096-bit RSA TLS certificates](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudfront-4096-bit-rsa-tls-certificates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Support launches Security Improvement Program for Enterprise On-Ramp customers](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-support-security-program-on-ramp-customers/)
+- [Amazon EKS now surfaces cluster health status details](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-surfaces-cluster-health-status-details/)
 - [CodePipeline supports GitLab self-managed](https://aws.amazon.com/about-aws/whats-new/2023/12/codepipeline-gitlab-self-managed/)
 - [AWS Elemental MediaPackage now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediapackage-asia-pacific-melbourne-region/)
 - [AWS Elemental MediaTailor now supports time shifting in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediatailor-time-shifting-assembly/)
@@ -66,8 +68,6 @@
 - [New EC2 console instance launch experience available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-console-instance-launch-experience-aws-govcloud-us-regions/)
 - [Amazon Kinesis Data Firehose now supports zero buffering](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/)
 - [Remediating non-compliant resources with AWS Config rules is now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/12/remediating-non-compliant-resources-aws-config-rules-israel-tel-aviv/)
-- [Amazon EMR Studio now supports user level permissions for Git Repositories](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-studio-user-level-permissions-git-repositories/)
-- [IAM Roles Anywhere is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/iam-roles-anywhere-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

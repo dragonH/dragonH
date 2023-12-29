@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker Studio now supports local mode and Docker](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-studio-local-mode-docker/)
 - [AWS Mainframe Modernization service is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-4-regions/)
 - [Amazon EMR Release 7.0 now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-release-7-0-supports-linux-2023/)
 - [EC2 Hibernation is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernation-four-new-regions/)
@@ -67,7 +68,6 @@
 - [AWS Support launches Security Improvement Program for Enterprise On-Ramp customers](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-support-security-program-on-ramp-customers/)
 - [Amazon EKS now surfaces cluster health status details](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-surfaces-cluster-health-status-details/)
 - [CodePipeline supports GitLab self-managed](https://aws.amazon.com/about-aws/whats-new/2023/12/codepipeline-gitlab-self-managed/)
-- [AWS Elemental MediaPackage now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediapackage-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization service is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-4-regions/)
+- [Amazon EMR Release 7.0 now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-release-7-0-supports-linux-2023/)
 - [EC2 Hibernation is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernation-four-new-regions/)
 - [AWS Directory Service for Microsoft AD and AD Connector available in Calgary](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-directory-service-microsoft-ad-ad-connector-calgary/)
 - [Announcing Amazon CloudWatch metrics support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metrics-support-aws-codeartifact/)
@@ -66,8 +68,6 @@
 - [Amazon EKS now surfaces cluster health status details](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-surfaces-cluster-health-status-details/)
 - [CodePipeline supports GitLab self-managed](https://aws.amazon.com/about-aws/whats-new/2023/12/codepipeline-gitlab-self-managed/)
 - [AWS Elemental MediaPackage now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediapackage-asia-pacific-melbourne-region/)
-- [AWS Elemental MediaTailor now supports time shifting in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediatailor-time-shifting-assembly/)
-- [Amazon SageMaker provides model training container access for debugging purposes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-model-training-container-access/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

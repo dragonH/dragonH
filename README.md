@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Hibernation is now available in four new regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-hibernation-four-new-regions/)
+- [AWS Directory Service for Microsoft AD and AD Connector available in Calgary](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-directory-service-microsoft-ad-ad-connector-calgary/)
+- [Announcing Amazon CloudWatch metrics support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metrics-support-aws-codeartifact/)
 - [Amazon EKS now supports assigning EC2 security groups to IPv6 Kubernetes pods](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-assigning-ec2-security-groups-ipv6-kubernetes-pods/)
 - [AWS Support launches Security Improvement Program for Enterprise On-Ramp customers](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-support-security-program-on-ramp-customers/)
 - [Amazon EKS now surfaces cluster health status details](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-surfaces-cluster-health-status-details/)
@@ -65,9 +68,6 @@
 - [AWS Elemental MediaPackage now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediapackage-asia-pacific-melbourne-region/)
 - [AWS Elemental MediaTailor now supports time shifting in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-elemental-mediatailor-time-shifting-assembly/)
 - [Amazon SageMaker provides model training container access for debugging purposes](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-sagemaker-model-training-container-access/)
-- [Amazon Connect launches new API to update contact priority](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-connect-api-update-contact-priority/)
-- [New EC2 console instance launch experience available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2023/12/ec2-console-instance-launch-experience-aws-govcloud-us-regions/)
-- [Amazon Kinesis Data Firehose now supports zero buffering](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-kinesis-data-firehose-zero-buffering/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

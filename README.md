@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces supports certificate-based authentication on Web Access](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-workspaces-certificate-authentication-web/)
 - [SageMaker Studio now supports local mode and Docker](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-studio-local-mode-docker/)
 - [AWS Mainframe Modernization service is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-4-regions/)
 - [Amazon EMR Release 7.0 now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-emr-release-7-0-supports-linux-2023/)
@@ -67,7 +68,6 @@
 - [Amazon EKS now supports assigning EC2 security groups to IPv6 Kubernetes pods](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-assigning-ec2-security-groups-ipv6-kubernetes-pods/)
 - [AWS Support launches Security Improvement Program for Enterprise On-Ramp customers](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-support-security-program-on-ramp-customers/)
 - [Amazon EKS now surfaces cluster health status details](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-surfaces-cluster-health-status-details/)
-- [CodePipeline supports GitLab self-managed](https://aws.amazon.com/about-aws/whats-new/2023/12/codepipeline-gitlab-self-managed/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

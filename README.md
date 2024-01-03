@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito identity pools enhances quota management in AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cognito-identity-pools-quota-management-aws-service-quotas/)
 - [Amazon EC2 Serial Console is now available in all Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-serial-console-available-local-zones/)
 - [Amazon WorkSpaces supports certificate-based authentication on Web Access](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-workspaces-certificate-authentication-web/)
 - [SageMaker Studio now supports local mode and Docker](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-studio-local-mode-docker/)
@@ -67,7 +68,6 @@
 - [AWS Directory Service for Microsoft AD and AD Connector available in Calgary](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-directory-service-microsoft-ad-ad-connector-calgary/)
 - [Announcing Amazon CloudWatch metrics support in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-cloudwatch-metrics-support-aws-codeartifact/)
 - [Amazon EKS now supports assigning EC2 security groups to IPv6 Kubernetes pods](https://aws.amazon.com/about-aws/whats-new/2023/12/amazon-eks-assigning-ec2-security-groups-ipv6-kubernetes-pods/)
-- [AWS Support launches Security Improvement Program for Enterprise On-Ramp customers](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-support-security-program-on-ramp-customers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

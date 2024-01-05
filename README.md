@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace announces simplified and reduced listing fees for sellers](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-simplified-reduced-listing-fees/)
 - [Amazon ECS Service Connect is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-three-regions/)
 - [Amazon SageMaker Feature Store now offers provisioned capacity mode](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sage-maker-feature-store-provisioned-capacity-mode/)
 - [AWS Accounts discontinues the use of security challenge questions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-accounts-discontinues-security-challenge-questions/)
@@ -67,7 +68,6 @@
 - [Amazon Connect launches granular access controls for historical metrics](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-granular-access-controls-historical-metrics/)
 - [AWS Systems Manager now supports SSM Agent version update in the context of an Application](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ssm-agent-version-update-context-application/)
 - [Amazon Cognito identity pools enhances quota management in AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cognito-identity-pools-quota-management-aws-service-quotas/)
-- [Amazon EC2 Serial Console is now available in all Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-serial-console-available-local-zones/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

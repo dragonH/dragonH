@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Service Connect is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-three-regions/)
+- [Amazon SageMaker Feature Store now offers provisioned capacity mode](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sage-maker-feature-store-provisioned-capacity-mode/)
+- [AWS Accounts discontinues the use of security challenge questions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-accounts-discontinues-security-challenge-questions/)
 - [Introducing simplified WordPress setup on Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/01/simplified-wordpress-setup-amazon-lightsail/)
 - [Amazon OpenSearch Service now supports TLS 1.3 and perfect forward secrecy](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-tls-1-3-perfect-forward-secrecy/)
 - [AWS Systems Manager now supports Ubuntu 23.04, Debian 12, MacOS 14, and SUSE SP5](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ubuntu-debian-macos-suse/)
@@ -65,9 +68,6 @@
 - [AWS Systems Manager now supports SSM Agent version update in the context of an Application](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ssm-agent-version-update-context-application/)
 - [Amazon Cognito identity pools enhances quota management in AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cognito-identity-pools-quota-management-aws-service-quotas/)
 - [Amazon EC2 Serial Console is now available in all Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-serial-console-available-local-zones/)
-- [Amazon WorkSpaces supports certificate-based authentication on Web Access](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-workspaces-certificate-authentication-web/)
-- [SageMaker Studio now supports local mode and Docker](https://aws.amazon.com/about-aws/whats-new/2023/12/sagemaker-studio-local-mode-docker/)
-- [AWS Mainframe Modernization service is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2023/12/aws-mainframe-modernization-4-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS improves deployment monitoring responsiveness for Amazon ECS services](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-deployment-monitoring-responsiveness-services/)
+- [Amazon EMR Studio is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-middle-east-uae-region/)
+- [Amazon EMR Studio is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-aws-govcloud-us-regions/)
+- [AWS Mainframe Modernization AWS Blu Insights is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-mainframe-modernization-blu-insights-additional-regions/)
+- [Amazon OpenSearch Service expands Graviton2 support to six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-graviton2-additional-regions/)
 - [AWS Marketplace announces simplified and reduced listing fees for sellers](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-simplified-reduced-listing-fees/)
 - [Amazon ECS Service Connect is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-three-regions/)
 - [Amazon SageMaker Feature Store now offers provisioned capacity mode](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sage-maker-feature-store-provisioned-capacity-mode/)
 - [AWS Accounts discontinues the use of security challenge questions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-accounts-discontinues-security-challenge-questions/)
 - [Introducing simplified WordPress setup on Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/01/simplified-wordpress-setup-amazon-lightsail/)
-- [Amazon OpenSearch Service now supports TLS 1.3 and perfect forward secrecy](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-tls-1-3-perfect-forward-secrecy/)
-- [AWS Systems Manager now supports Ubuntu 23.04, Debian 12, MacOS 14, and SUSE SP5](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ubuntu-debian-macos-suse/)
-- [Amazon Connect launches granular access controls for historical metrics](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-granular-access-controls-historical-metrics/)
-- [AWS Systems Manager now supports SSM Agent version update in the context of an Application](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-ssm-agent-version-update-context-application/)
-- [Amazon Cognito identity pools enhances quota management in AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cognito-identity-pools-quota-management-aws-service-quotas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

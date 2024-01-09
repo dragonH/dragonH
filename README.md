@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild now supports a X-Large Linux compute type](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-x-large-linux-compute-type/)
+- [Amazon EC2 C7i instances are now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7i-instances-additional-aws-regions/)
+- [AWS Lambda supports Kafka event sources in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-kafka-event-sources-israel/)
+- [Announcing availability of AWS Outposts in Turkey](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-outposts-turkey/)
+- [Amazon EMR Studio now supports customer managed KMS key encryption for workspace storage](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-customer-managed-kms-key-encryption/)
+- [Amazon EMR now supports backup and restore for Apache HBase Tables](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-backup-restore-apache-hbase-tables/)
 - [AWS Elemental MediaLive now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-elemental-link-medialive-melbourne/)
 - [Amazon RDS Proxy is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-proxy-aws-europe-spain-region/)
 - [Amazon ECS improves deployment monitoring responsiveness for Amazon ECS services](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-deployment-monitoring-responsiveness-services/)
 - [Amazon EMR Studio is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-middle-east-uae-region/)
-- [Amazon EMR Studio is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-aws-govcloud-us-regions/)
-- [AWS Mainframe Modernization AWS Blu Insights is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-mainframe-modernization-blu-insights-additional-regions/)
-- [Amazon OpenSearch Service expands Graviton2 support to six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-graviton2-additional-regions/)
-- [AWS Marketplace announces simplified and reduced listing fees for sellers](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-simplified-reduced-listing-fees/)
-- [Amazon ECS Service Connect is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-three-regions/)
-- [Amazon SageMaker Feature Store now offers provisioned capacity mode](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sage-maker-feature-store-provisioned-capacity-mode/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

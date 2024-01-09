@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudShell now supports Docker in 13 Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-cloudshell-docker-13-regions/)
 - [Amazon EC2 M6gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m6gd-instances-new-regions/)
 - [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m6i-instances-new-regions/)
 - [AWS Elemental MediaLive now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-elemental-medialive-melbourne-region/)
@@ -67,7 +68,6 @@
 - [Announcing availability of AWS Outposts in Turkey](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-outposts-turkey/)
 - [Amazon EMR Studio now supports customer managed KMS key encryption for workspace storage](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-customer-managed-kms-key-encryption/)
 - [Amazon EMR now supports backup and restore for Apache HBase Tables](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-backup-restore-apache-hbase-tables/)
-- [Amazon RDS Proxy is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-proxy-aws-europe-spain-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

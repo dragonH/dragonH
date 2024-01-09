@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive now available in Asia Pacific &lpar;Melbourne&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-elemental-link-medialive-melbourne/)
 - [Amazon RDS Proxy is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-proxy-aws-europe-spain-region/)
 - [Amazon ECS improves deployment monitoring responsiveness for Amazon ECS services](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-deployment-monitoring-responsiveness-services/)
 - [Amazon EMR Studio is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-middle-east-uae-region/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace announces simplified and reduced listing fees for sellers](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-simplified-reduced-listing-fees/)
 - [Amazon ECS Service Connect is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-three-regions/)
 - [Amazon SageMaker Feature Store now offers provisioned capacity mode](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sage-maker-feature-store-provisioned-capacity-mode/)
-- [AWS Accounts discontinues the use of security challenge questions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-accounts-discontinues-security-challenge-questions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

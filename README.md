@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7iz instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7iz-instances-additional-regions/)
 - [AWS CloudShell now supports Docker in 13 Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-cloudshell-docker-13-regions/)
 - [Amazon EC2 M6gd instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m6gd-instances-new-regions/)
 - [Amazon EC2 M6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m6i-instances-new-regions/)
@@ -67,7 +68,6 @@
 - [AWS Lambda supports Kafka event sources in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-kafka-event-sources-israel/)
 - [Announcing availability of AWS Outposts in Turkey](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-outposts-turkey/)
 - [Amazon EMR Studio now supports customer managed KMS key encryption for workspace storage](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-studio-customer-managed-kms-key-encryption/)
-- [Amazon EMR now supports backup and restore for Apache HBase Tables](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-emr-backup-restore-apache-hbase-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

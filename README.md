@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Kinesis Data Firehose supports delivering data to Splunk clusters using ALB](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-kinesis-data-firehose-data-splunk-alb/)
+- [Amazon EC2 M7i-flex and M7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m7i-flex-m7i-instances-new-regions/)
 - [Amazon OpenSearch Service now supports hybrid query score normalization](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-hybrid-query-score-normalization/)
 - [Amazon EC2 R7iz instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7iz-instances-additional-regions/)
 - [AWS CloudShell now supports Docker in 13 Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-cloudshell-docker-13-regions/)
@@ -66,8 +68,6 @@
 - [AWS Elemental MediaLive now available in Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-elemental-medialive-melbourne-region/)
 - [AWS CodeBuild now supports a X-Large Linux compute type](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-x-large-linux-compute-type/)
 - [Amazon EC2 C7i instances are now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7i-instances-additional-aws-regions/)
-- [AWS Lambda supports Kafka event sources in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-kafka-event-sources-israel/)
-- [Announcing availability of AWS Outposts in Turkey](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-outposts-turkey/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 expands geoproximity routing](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-route-53-expands-geoproximity-routing/)
 - [Amazon Virtual Private Cloud Prefix Lists now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-virtual-private-cloud-canada-calgary-region/)
 - [Amazon Connect now supports audio optimization for Citrix cloud desktops](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-audio-optimization-citrix-cloud-desktops/)
 - [Amazon Location Service now supports additional places content in Maps](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-location-service-places-content-maps/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M7i-flex and M7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m7i-flex-m7i-instances-new-regions/)
 - [Amazon OpenSearch Service now supports hybrid query score normalization](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-hybrid-query-score-normalization/)
 - [Amazon EC2 R7iz instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7iz-instances-additional-regions/)
-- [AWS CloudShell now supports Docker in 13 Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-cloudshell-docker-13-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

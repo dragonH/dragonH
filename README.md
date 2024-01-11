@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports protecting Amazon FSx for NetApp ONTAP FlexGroup volumes](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-backup-protecting-amazon-fsx-netapp-ontap-flexgroup-volumes/)
+- [Amazon SageMaker now supports M7i, C7i, and R7i instances for ML Inference](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sageaker-m7i-c7i-r7i-instances-ml-inference/)
+- [Introducing Open Job Description, an open specification for portable render jobs](https://aws.amazon.com/about-aws/whats-new/2024/01/open-job-description-open-specification-portable-render-jobs/)
+- [Amazon RDS for Db2 now supports up to 5,000 database users](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-supports-5000-database-users/)
+- [AWS announces an enhanced sign in experience in the AWS Console Mobile App for Android](https://aws.amazon.com/about-aws/whats-new/2024/01/enhanced-sign-in-experience-aws-console-mobile-app-android/)
+- [Amazon CloudWatch Logs now supports account level subscription filter](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cloudwatch-logs-account-level-subscription-filter/)
+- [AWS announces an integrated mobile experience in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-console-mobile-app-integrated-experience/)
 - [Amazon Route 53 expands geoproximity routing](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-route-53-expands-geoproximity-routing/)
 - [Amazon Virtual Private Cloud Prefix Lists now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-virtual-private-cloud-canada-calgary-region/)
 - [Amazon Connect now supports audio optimization for Citrix cloud desktops](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-audio-optimization-citrix-cloud-desktops/)
-- [Amazon Location Service now supports additional places content in Maps](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-location-service-places-content-maps/)
-- [Amazon Route 53 Resolver DNS Firewall now supports query type filtering](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-route-53-resolver-dns-firewall-query-type-filtering/)
-- [Amazon ElastiCache now supports additional sizes of network-optimized C7gn nodes](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-additional-sizes-network-optimized-c7gn-nodes/)
-- [Kinesis Data Firehose supports delivering data to Splunk clusters using ALB](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-kinesis-data-firehose-data-splunk-alb/)
-- [Amazon EC2 M7i-flex and M7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m7i-flex-m7i-instances-new-regions/)
-- [Amazon OpenSearch Service now supports hybrid query score normalization](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-opensearch-service-hybrid-query-score-normalization/)
-- [Amazon EC2 R7iz instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7iz-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

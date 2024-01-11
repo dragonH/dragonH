@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS and AWS Fargate now integrate with Amazon EBS](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/)
+- [Amazon EC2 C6in instances are now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c6in-instances-europe-spain/)
 - [New AWS Marketplace Insights dashboard for sellers showing product usage](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-insights-dashboard-product-usage/)
 - [Amazon EC2 R7i instances are now available in more AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-more-regions/)
 - [AWS Backup now supports protecting Amazon FSx for NetApp ONTAP FlexGroup volumes](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-backup-protecting-amazon-fsx-netapp-ontap-flexgroup-volumes/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Db2 now supports up to 5,000 database users](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-supports-5000-database-users/)
 - [AWS announces an enhanced sign in experience in the AWS Console Mobile App for Android](https://aws.amazon.com/about-aws/whats-new/2024/01/enhanced-sign-in-experience-aws-console-mobile-app-android/)
 - [Amazon CloudWatch Logs now supports account level subscription filter](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cloudwatch-logs-account-level-subscription-filter/)
-- [AWS announces an integrated mobile experience in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-console-mobile-app-integrated-experience/)
-- [Amazon Route 53 expands geoproximity routing](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-route-53-expands-geoproximity-routing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

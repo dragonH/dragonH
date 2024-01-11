@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New AWS Marketplace Insights dashboard for sellers showing product usage](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-insights-dashboard-product-usage/)
+- [Amazon EC2 R7i instances are now available in more AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-more-regions/)
 - [AWS Backup now supports protecting Amazon FSx for NetApp ONTAP FlexGroup volumes](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-backup-protecting-amazon-fsx-netapp-ontap-flexgroup-volumes/)
 - [Amazon SageMaker now supports M7i, C7i, and R7i instances for ML Inference](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sageaker-m7i-c7i-r7i-instances-ml-inference/)
 - [Introducing Open Job Description, an open specification for portable render jobs](https://aws.amazon.com/about-aws/whats-new/2024/01/open-job-description-open-specification-portable-render-jobs/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch Logs now supports account level subscription filter](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cloudwatch-logs-account-level-subscription-filter/)
 - [AWS announces an integrated mobile experience in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-console-mobile-app-integrated-experience/)
 - [Amazon Route 53 expands geoproximity routing](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-route-53-expands-geoproximity-routing/)
-- [Amazon Virtual Private Cloud Prefix Lists now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-virtual-private-cloud-canada-calgary-region/)
-- [Amazon Connect now supports audio optimization for Citrix cloud desktops](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-audio-optimization-citrix-cloud-desktops/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

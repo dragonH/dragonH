@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Private Access to the AWS Management Console is available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/private-access-aws-management-console-additional-regions/)
 - [Amazon RDS for SQL Server supports minor version 2019 CU24](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-2019-cu24/)
 - [AWS Lambda now supports SnapStart for Java functions in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-snapstart-java-functions-additional-regions/)
 - [Amazon Connect outbound campaigns voice dialing API is generally available](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-outbound-campaigns-voice-dialing-api/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MySQL supports Innovation Release version 8.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-innovation-release-version-8-2-rds-database-preview-environment/)
 - [Amazon EventBridge now supports AWS AppSync as a target of EventBridge Buses](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-eventbridge-appsync-target-buses/)
 - [Amazon ElastiCache now supports Memcached 1.6.22](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-memcached-1-6-22/)
-- [Amazon ECS and AWS Fargate now integrate with Amazon EBS](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports Innovation Release version 8.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-innovation-release-version-8-2-rds-database-preview-environment/)
+- [Amazon EventBridge now supports AWS AppSync as a target of EventBridge Buses](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-eventbridge-appsync-target-buses/)
+- [Amazon ElastiCache now supports Memcached 1.6.22](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-memcached-1-6-22/)
 - [Amazon ECS and AWS Fargate now integrate with Amazon EBS](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-fargate-integrate-ebs/)
 - [Amazon EC2 C6in instances are now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c6in-instances-europe-spain/)
 - [New AWS Marketplace Insights dashboard for sellers showing product usage](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-insights-dashboard-product-usage/)
@@ -65,9 +68,6 @@
 - [AWS Backup now supports protecting Amazon FSx for NetApp ONTAP FlexGroup volumes](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-backup-protecting-amazon-fsx-netapp-ontap-flexgroup-volumes/)
 - [Amazon SageMaker now supports M7i, C7i, and R7i instances for ML Inference](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sageaker-m7i-c7i-r7i-instances-ml-inference/)
 - [Introducing Open Job Description, an open specification for portable render jobs](https://aws.amazon.com/about-aws/whats-new/2024/01/open-job-description-open-specification-portable-render-jobs/)
-- [Amazon RDS for Db2 now supports up to 5,000 database users](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-supports-5000-database-users/)
-- [AWS announces an enhanced sign in experience in the AWS Console Mobile App for Android](https://aws.amazon.com/about-aws/whats-new/2024/01/enhanced-sign-in-experience-aws-console-mobile-app-android/)
-- [Amazon CloudWatch Logs now supports account level subscription filter](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cloudwatch-logs-account-level-subscription-filter/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

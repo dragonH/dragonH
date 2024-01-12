@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [ROSA with hosted control planes &lpar;HCP&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/01/rosa-hosted-control-planes-hcp/)
 - [Unified Search in now available in the Amazon Web Services Management Console in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/unified-search-aws-management-console-govcloud-us-regions/)
 - [Amazon RDS for MySQL supports Innovation Release version 8.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-innovation-release-version-8-2-rds-database-preview-environment/)
 - [Amazon EventBridge now supports AWS AppSync as a target of EventBridge Buses](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-eventbridge-appsync-target-buses/)
@@ -67,7 +68,6 @@
 - [New AWS Marketplace Insights dashboard for sellers showing product usage](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-insights-dashboard-product-usage/)
 - [Amazon EC2 R7i instances are now available in more AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-more-regions/)
 - [AWS Backup now supports protecting Amazon FSx for NetApp ONTAP FlexGroup volumes](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-backup-protecting-amazon-fsx-netapp-ontap-flexgroup-volumes/)
-- [Amazon SageMaker now supports M7i, C7i, and R7i instances for ML Inference](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sageaker-m7i-c7i-r7i-instances-ml-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

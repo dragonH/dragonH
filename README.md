@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Location Service launches CloudFormation support for API keys and resource management](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-location-service-cloudformation-keys-management/)
+- [Announcing AWS Supply Chain Sustainability](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-sustainability/)
+- [Announcing AWS Supply Chain Supply Planning](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-supply-planning/)
 - [Amazon S3 on Outposts enables support for IPv6](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-s3-outposts-ipv6/)
 - [AWS Transfer Family introduces static IPs for sending AS2 messages and MDNs](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transfer-family-static-ips-as2-messages-mdns/)
 - [Private Access to the AWS Management Console is available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/private-access-aws-management-console-additional-regions/)
@@ -65,9 +68,6 @@
 - [AWS Lambda now supports SnapStart for Java functions in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-snapstart-java-functions-additional-regions/)
 - [Amazon Connect outbound campaigns voice dialing API is generally available](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-outbound-campaigns-voice-dialing-api/)
 - [AWS Config now supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-config-supports-22-new-resource-types/)
-- [ROSA with hosted control planes &lpar;HCP&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/01/rosa-hosted-control-planes-hcp/)
-- [Unified Search in now available in the Amazon Web Services Management Console in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/unified-search-aws-management-console-govcloud-us-regions/)
-- [Amazon RDS for MySQL supports Innovation Release version 8.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-innovation-release-version-8-2-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

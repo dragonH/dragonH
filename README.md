@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family provides static IP addresses for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transfer-family-static-ip-sftp-connectors/)
 - [Amazon Location Service launches CloudFormation support for API keys and resource management](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-location-service-cloudformation-keys-management/)
 - [Announcing AWS Supply Chain Sustainability](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-sustainability/)
 - [Announcing AWS Supply Chain Supply Planning](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-supply-planning/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for SQL Server supports minor version 2019 CU24](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-2019-cu24/)
 - [AWS Lambda now supports SnapStart for Java functions in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-lambda-snapstart-java-functions-additional-regions/)
 - [Amazon Connect outbound campaigns voice dialing API is generally available](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-outbound-campaigns-voice-dialing-api/)
-- [AWS Config now supports 22 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-config-supports-22-new-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

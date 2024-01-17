@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances now available in Europe &lpar;London&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-europe-london-regions/)
 - [Amazon Corretto January, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-corretto-january-2024-quarterly-updates/)
 - [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-us-east-ohio-region/)
 - [Amazon RDS for MySQL now supports multi-source replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-supports-multi-source-replication/)
@@ -67,7 +68,6 @@
 - [Amazon Location Service launches CloudFormation support for API keys and resource management](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-location-service-cloudformation-keys-management/)
 - [Announcing AWS Supply Chain Sustainability](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-sustainability/)
 - [Announcing AWS Supply Chain Supply Planning](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-supply-planning/)
-- [Amazon S3 on Outposts enables support for IPv6](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-s3-outposts-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

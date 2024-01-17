@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Migration Hub Journeys – Prescriptive Guided Migration &amp; Modernization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-migration-hub-journeys-prescriptive-guided-migration-modernization/)
 - [Amazon EC2 Instance Connect and EC2 Serial console available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-instance-connect-console-tel-aviv/)
 - [Amazon RDS for SQL Server Supports TempDB configuration replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-tempdb-configuration-replication/)
 - [GLIDE for Redis, an OSS Redis client sponsored by AWS, now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/01/glide-redis-oss-redis-client-sponsored-aws-preview/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 High Memory instances now available in Europe &lpar;London&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-europe-london-regions/)
 - [Amazon Corretto January, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-corretto-january-2024-quarterly-updates/)
 - [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-us-east-ohio-region/)
-- [Amazon RDS for MySQL now supports multi-source replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-mysql-supports-multi-source-replication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

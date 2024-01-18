@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Simplify AWS Marketplace renewals with new future dated agreements feature](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-renewals-future-dated-agreements/)
+- [Amazon API Gateway WebSocket APIs now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-api-gateway-websocket-apis-uae-region/)
 - [AWS Migration Hub Journeys – Prescriptive Guided Migration &amp; Modernization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-migration-hub-journeys-prescriptive-guided-migration-modernization/)
 - [Amazon EC2 Instance Connect and EC2 Serial console available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-instance-connect-console-tel-aviv/)
 - [Amazon RDS for SQL Server Supports TempDB configuration replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-tempdb-configuration-replication/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch Metric Streams available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cloudwatch-metric-streams-aws-govcloud-us-regions/)
 - [Announcing AWS Supply Chain N-Tier Visibility](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-n-tier-visibility/)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;London&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-europe-london-regions/)
-- [Amazon Corretto January, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-corretto-january-2024-quarterly-updates/)
-- [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-us-east-ohio-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

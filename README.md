@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Canvas is now available in 6 new Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sagemaker-canvas-6-regions/)
+- [Amazon FSx for Windows File Server increases maximum IOPS level to 400,000](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-fsx-windows-file-sever-increases-iops/)
 - [AWS IAM Identity Center is now available in the Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-iam-identity-center-middle-east-uae-region/)
 - [Simplify AWS Marketplace renewals with new future dated agreements feature](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-renewals-future-dated-agreements/)
 - [Amazon API Gateway WebSocket APIs now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-api-gateway-websocket-apis-uae-region/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for SQL Server Supports TempDB configuration replication](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-sql-server-tempdb-configuration-replication/)
 - [GLIDE for Redis, an OSS Redis client sponsored by AWS, now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/01/glide-redis-oss-redis-client-sponsored-aws-preview/)
 - [Amazon MSK expands support for M7g instances to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-msk-m7g-instances-additional-aws-regions/)
-- [Amazon CloudWatch Metric Streams available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-cloudwatch-metric-streams-aws-govcloud-us-regions/)
-- [Announcing AWS Supply Chain N-Tier Visibility](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-supply-chain-n-tier-visibility/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

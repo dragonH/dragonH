@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Db2 now supports Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-cross-region-automated-backups/)
+- [AWS Transit Gateway Flow Logs is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transit-gateway-flow-logs-additional-aws-regions/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-seoul-region/)
 - [Amazon Connect now allows contact center managers to join ongoing chats](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-managers-join-chats/)
 - [AWS CodeBuild announces support for reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-reserved-capacity/)
@@ -66,8 +68,6 @@
 - [Amazon FSx for Windows File Server increases maximum IOPS level to 400,000](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-fsx-windows-file-sever-increases-iops/)
 - [AWS IAM Identity Center is now available in the Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-iam-identity-center-middle-east-uae-region/)
 - [Simplify AWS Marketplace renewals with new future dated agreements feature](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-renewals-future-dated-agreements/)
-- [Amazon API Gateway WebSocket APIs now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-api-gateway-websocket-apis-uae-region/)
-- [AWS Migration Hub Journeys – Prescriptive Guided Migration &amp; Modernization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-migration-hub-journeys-prescriptive-guided-migration-modernization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

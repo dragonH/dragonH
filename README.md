@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-seoul-region/)
 - [Amazon Connect now allows contact center managers to join ongoing chats](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-managers-join-chats/)
 - [AWS CodeBuild announces support for reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-reserved-capacity/)
 - [Amazon SNS now supports FCM HTTP V1 API for delivering mobile push notifications](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sns-fcm-http-v1-api-mobile-notifications/)
@@ -67,7 +68,6 @@
 - [Simplify AWS Marketplace renewals with new future dated agreements feature](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-renewals-future-dated-agreements/)
 - [Amazon API Gateway WebSocket APIs now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-api-gateway-websocket-apis-uae-region/)
 - [AWS Migration Hub Journeys – Prescriptive Guided Migration &amp; Modernization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-migration-hub-journeys-prescriptive-guided-migration-modernization/)
-- [Amazon EC2 Instance Connect and EC2 Serial console available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-instance-connect-console-tel-aviv/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

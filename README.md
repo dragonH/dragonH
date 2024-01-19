@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Stream data into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/stream-data-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/)
+- [Amazon SQS announces support for logging data events in AWS CloudTrail in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sqs-logging-data-events-aws-cloudtrail-govcloud-us-regions/)
+- [AWS announces higher read IOPS for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2024/01/higher-read-iops-amazon-elastic-file-system/)
 - [Network Load Balancer now supports RSA 3072-bit, ECDSA 256/384/521-bit certificates via AWS Certificate Manager](https://aws.amazon.com/about-aws/whats-new/2024/01/network-load-balancer-rsa-3072-bit-ecdsa-256-384-521-bit-certificates/)
 - [Amazon ECS announces managed instance draining](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-managed-instance-draining/)
-- [Stream date into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/stream-date-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/)
 - [Amazon RDS for Db2 now supports Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-cross-region-automated-backups/)
 - [AWS Transit Gateway Flow Logs is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transit-gateway-flow-logs-additional-aws-regions/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-seoul-region/)
 - [Amazon Connect now allows contact center managers to join ongoing chats](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-managers-join-chats/)
 - [AWS CodeBuild announces support for reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-reserved-capacity/)
-- [Amazon SNS now supports FCM HTTP V1 API for delivering mobile push notifications](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sns-fcm-http-v1-api-mobile-notifications/)
-- [Amazon SageMaker Canvas is now available in 6 new Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sagemaker-canvas-6-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

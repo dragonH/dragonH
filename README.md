@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for SQL Server supports SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-sql-server-supports-sql-server-2022/)
+- [Amazon ECS support for configurable timeout for services running with Service Connect](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-configurable-timeout-service-connect/)
+- [Amazon ECS Service Connect introduces support for automatic traffic encryption with TLS Certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-automatic-traffic-encryption-tls-certificates/)
 - [AWS Step Functions adds integration for 33 services including Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-step-functions-integration-33-services/)
 - [Sellers can now resell third-party professional services in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/01/sellers-resell-third-party-professional-services-aws-marketplace/)
 - [Stream data into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/stream-data-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/)
@@ -65,9 +68,6 @@
 - [AWS announces higher read IOPS for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2024/01/higher-read-iops-amazon-elastic-file-system/)
 - [Network Load Balancer now supports RSA 3072-bit, ECDSA 256/384/521-bit certificates via AWS Certificate Manager](https://aws.amazon.com/about-aws/whats-new/2024/01/network-load-balancer-rsa-3072-bit-ecdsa-256-384-521-bit-certificates/)
 - [Amazon ECS announces managed instance draining](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-managed-instance-draining/)
-- [Amazon RDS for Db2 now supports Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-cross-region-automated-backups/)
-- [AWS Transit Gateway Flow Logs is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transit-gateway-flow-logs-additional-aws-regions/)
-- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-seoul-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

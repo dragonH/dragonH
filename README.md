@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions adds integration for 33 services including Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-step-functions-integration-33-services/)
+- [Sellers can now resell third-party professional services in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/01/sellers-resell-third-party-professional-services-aws-marketplace/)
 - [Stream data into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/stream-data-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/)
 - [Amazon SQS announces support for logging data events in AWS CloudTrail in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sqs-logging-data-events-aws-cloudtrail-govcloud-us-regions/)
 - [AWS announces higher read IOPS for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2024/01/higher-read-iops-amazon-elastic-file-system/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Db2 now supports Cross-Region Automated Backups](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-cross-region-automated-backups/)
 - [AWS Transit Gateway Flow Logs is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-transit-gateway-flow-logs-additional-aws-regions/)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-seoul-region/)
-- [Amazon Connect now allows contact center managers to join ongoing chats](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-managers-join-chats/)
-- [AWS CodeBuild announces support for reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-codebuild-reserved-capacity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

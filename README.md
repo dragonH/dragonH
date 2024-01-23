@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7a, R7a instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m7a-r7a-instances-asia-pacific-toyko-region/)
 - [Amazon Inspector now supports CIS Benchmark assessments for operating systems in EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-inspector-cis-benchmark-assessments-operating-systems-ec2-instances/)
 - [Amazon RDS Custom for Oracle is now available in Europe &lpar;Paris&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-oracle-europe-paris-aws-region/)
 - [Amazon RDS Custom for SQL Server supports SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-sql-server-supports-sql-server-2022/)
@@ -67,7 +68,6 @@
 - [Sellers can now resell third-party professional services in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/01/sellers-resell-third-party-professional-services-aws-marketplace/)
 - [Stream data into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/stream-data-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/)
 - [Amazon SQS announces support for logging data events in AWS CloudTrail in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sqs-logging-data-events-aws-cloudtrail-govcloud-us-regions/)
-- [AWS announces higher read IOPS for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2024/01/higher-read-iops-amazon-elastic-file-system/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

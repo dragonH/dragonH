@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Inspector now supports CIS Benchmark assessments for operating systems in EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-inspector-cis-benchmark-assessments-operating-systems-ec2-instances/)
+- [Amazon RDS Custom for Oracle is now available in Europe &lpar;Paris&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-oracle-europe-paris-aws-region/)
 - [Amazon RDS Custom for SQL Server supports SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-sql-server-supports-sql-server-2022/)
 - [Amazon ECS support for configurable timeout for services running with Service Connect](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-configurable-timeout-service-connect/)
 - [Amazon ECS Service Connect introduces support for automatic traffic encryption with TLS Certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-automatic-traffic-encryption-tls-certificates/)
@@ -66,8 +68,6 @@
 - [Stream data into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/stream-data-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/)
 - [Amazon SQS announces support for logging data events in AWS CloudTrail in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-sqs-logging-data-events-aws-cloudtrail-govcloud-us-regions/)
 - [AWS announces higher read IOPS for Amazon Elastic File System](https://aws.amazon.com/about-aws/whats-new/2024/01/higher-read-iops-amazon-elastic-file-system/)
-- [Network Load Balancer now supports RSA 3072-bit, ECDSA 256/384/521-bit certificates via AWS Certificate Manager](https://aws.amazon.com/about-aws/whats-new/2024/01/network-load-balancer-rsa-3072-bit-ecdsa-256-384-521-bit-certificates/)
-- [Amazon ECS announces managed instance draining](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-managed-instance-draining/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

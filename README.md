@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.29](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-eks-eks-distro-kubernetes-version-1-29/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds support for provisioned capacity mode for Multi-Region Replication tables](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-keyspaces-apache-cassandra-provisioned-capacity-mode/)
 - [Amazon EC2 M7a, R7a instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m7a-r7a-instances-asia-pacific-toyko-region/)
 - [Amazon Inspector now supports CIS Benchmark assessments for operating systems in EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-inspector-cis-benchmark-assessments-operating-systems-ec2-instances/)
@@ -67,7 +68,6 @@
 - [Amazon ECS Service Connect introduces support for automatic traffic encryption with TLS Certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-automatic-traffic-encryption-tls-certificates/)
 - [AWS Step Functions adds integration for 33 services including Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-step-functions-integration-33-services/)
 - [Sellers can now resell third-party professional services in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/01/sellers-resell-third-party-professional-services-aws-marketplace/)
-- [Stream data into Snowflake using Kinesis Data Firehose and Snowflake Snowpipe Streaming &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/stream-data-snowflake-kinesis-data-firehose-snowpipe-streaming-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

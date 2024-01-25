@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager now supports syncing inventory data to and from AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-syncing-inventory-data-opt-in-regions/)
+- [Amazon VPC now supports idempotency for route table and network ACL creation](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-vpc-idempotency-route-table-network-acl/)
+- [Introducing the AWS Small and Medium Business &lpar;SMB&rpar; Competency](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-small-medium-business-competency/)
 - [Amazon Connect SMS is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-sms-two-regions/)
 - [Amazon RDS for PostgreSQL now supports croaring-rs and num-bigint crates for Trusted Language Extensions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-postgresql-croaring-rs-num-bigint-crates-trusted-language-extensions/)
 - [AWS Billing Conductor releases account-scoped custom line items](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-billing-conductor-account-scoped-custom-line-items/)
@@ -65,9 +68,6 @@
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.29](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-eks-eks-distro-kubernetes-version-1-29/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds support for provisioned capacity mode for Multi-Region Replication tables](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-keyspaces-apache-cassandra-provisioned-capacity-mode/)
 - [Amazon EC2 M7a, R7a instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m7a-r7a-instances-asia-pacific-toyko-region/)
-- [Amazon Inspector now supports CIS Benchmark assessments for operating systems in EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-inspector-cis-benchmark-assessments-operating-systems-ec2-instances/)
-- [Amazon RDS Custom for Oracle is now available in Europe &lpar;Paris&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-oracle-europe-paris-aws-region/)
-- [Amazon RDS Custom for SQL Server supports SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-custom-sql-server-supports-sql-server-2022/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

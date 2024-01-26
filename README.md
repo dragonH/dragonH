@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing IPv6 instance bundles on Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/01/ipv6-instance-bundles-amazon-lightsail/)
+- [Provisioned capacity for API limits now available in Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/01/provisioned-capacity-api-limits-amazon-cognito/)
+- [AWS Private CA now supports revocation for Matter certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-private-ca-revocation-matter-certificates/)
+- [Amazon IVS announces audio-only pricing for Low-Latency Streaming](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ivs-audio-only-pricing-low-latency-streaming/)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-stockholm-region/)
 - [Amazon EC2 C7i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7i-instances-2-regions/)
 - [Amazon Q in QuickSight is now available for preview in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-quicksight-preview-europe-frankfurt-region/)
 - [AWS Systems Manager now supports syncing inventory data to and from AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-systems-manager-syncing-inventory-data-opt-in-regions/)
 - [Amazon VPC now supports idempotency for route table and network ACL creation](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-vpc-idempotency-route-table-network-acl/)
 - [Introducing the AWS Small and Medium Business &lpar;SMB&rpar; Competency](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-small-medium-business-competency/)
-- [Amazon Connect SMS is now available in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-connect-sms-two-regions/)
-- [Amazon RDS for PostgreSQL now supports croaring-rs and num-bigint crates for Trusted Language Extensions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-postgresql-croaring-rs-num-bigint-crates-trusted-language-extensions/)
-- [AWS Billing Conductor releases account-scoped custom line items](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-billing-conductor-account-scoped-custom-line-items/)
-- [AWS Payment Cryptography launches additional options for importing and exporting keys](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-payment-cryptography-options-importing-exporting-keys/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

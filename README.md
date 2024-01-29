@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7i instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-additional-regions/)
+- [Amazon RDS for Db2 now supports EBCDIC collation sequence](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-ebcdic-collation-sequence/)
 - [SageMaker Automatic Model Tuning now supports Delete API](https://aws.amazon.com/about-aws/whats-new/2024/01/sagemaker-automatic-model-tuning-delete-api/)
 - [Amazon EC2 C7gd instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7gd-instances-europe-spain-region/)
 - [AWS Launch Wizard is now available in Melbourne, Spain, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-launch-wizard-melbourne-spain-zurich/)
@@ -66,8 +68,6 @@
 - [AWS Private CA now supports revocation for Matter certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-private-ca-revocation-matter-certificates/)
 - [Amazon IVS announces audio-only pricing for Low-Latency Streaming](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ivs-audio-only-pricing-low-latency-streaming/)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-stockholm-region/)
-- [Amazon EC2 C7i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7i-instances-2-regions/)
-- [Amazon Q in QuickSight is now available for preview in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-quicksight-preview-europe-frankfurt-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

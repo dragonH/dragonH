@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DataZone now supports AWS CloudFormation and HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-aws-cloudformation-hipaa-eligibility/)
+- [Amazon ECS Service Discovery now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-discovery-service-canada-west-calgary/)
 - [Amazon EC2 M2 and M2 Pro Mac instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m2-m2-pro-mac-instances-additional-regions/)
 - [Amazon EC2 R7i instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-additional-regions/)
 - [Amazon RDS for Db2 now supports EBCDIC collation sequence](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-ebcdic-collation-sequence/)
@@ -66,8 +68,6 @@
 - [AWS Launch Wizard is now available in Melbourne, Spain, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-launch-wizard-melbourne-spain-zurich/)
 - [Introducing IPv6 instance bundles on Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/01/ipv6-instance-bundles-amazon-lightsail/)
 - [Provisioned capacity for API limits now available in Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/01/provisioned-capacity-api-limits-amazon-cognito/)
-- [AWS Private CA now supports revocation for Matter certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-private-ca-revocation-matter-certificates/)
-- [Amazon IVS announces audio-only pricing for Low-Latency Streaming](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ivs-audio-only-pricing-low-latency-streaming/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

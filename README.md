@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M2 and M2 Pro Mac instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m2-m2-pro-mac-instances-additional-regions/)
 - [Amazon EC2 R7i instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-additional-regions/)
 - [Amazon RDS for Db2 now supports EBCDIC collation sequence](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-ebcdic-collation-sequence/)
 - [SageMaker Automatic Model Tuning now supports Delete API](https://aws.amazon.com/about-aws/whats-new/2024/01/sagemaker-automatic-model-tuning-delete-api/)
@@ -67,7 +68,6 @@
 - [Provisioned capacity for API limits now available in Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/01/provisioned-capacity-api-limits-amazon-cognito/)
 - [AWS Private CA now supports revocation for Matter certificates](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-private-ca-revocation-matter-certificates/)
 - [Amazon IVS announces audio-only pricing for Low-Latency Streaming](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ivs-audio-only-pricing-low-latency-streaming/)
-- [Amazon EC2 High Memory instances now available in Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-high-memory-instances-stockholm-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

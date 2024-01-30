@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 added new price protection for attribute based instance selection](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-price-protection-attribute-instance-selection/)
 - [Amazon DataZone now supports AWS CloudFormation and HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-aws-cloudformation-hipaa-eligibility/)
 - [Amazon ECS Service Discovery now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-discovery-service-canada-west-calgary/)
 - [Amazon EC2 M2 and M2 Pro Mac instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m2-m2-pro-mac-instances-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C7gd instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-c7gd-instances-europe-spain-region/)
 - [AWS Launch Wizard is now available in Melbourne, Spain, and Zurich Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-launch-wizard-melbourne-spain-zurich/)
 - [Introducing IPv6 instance bundles on Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/01/ipv6-instance-bundles-amazon-lightsail/)
-- [Provisioned capacity for API limits now available in Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/01/provisioned-capacity-api-limits-amazon-cognito/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

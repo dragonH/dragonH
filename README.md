@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace launches self-service flows for sellers to list third-party EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-self-service-flows-sellers-third-party-eks-add-ons/)
 - [Announcing Amazon Q data integration in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/)
 - [Amazon DataZone is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-additional-regions/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports Global Clusters in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-global-clusters-govcloud/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 added new price protection for attribute based instance selection](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-price-protection-attribute-instance-selection/)
 - [Amazon DataZone now supports AWS CloudFormation and HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-aws-cloudformation-hipaa-eligibility/)
 - [Amazon ECS Service Discovery now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-discovery-service-canada-west-calgary/)
-- [Amazon EC2 M2 and M2 Pro Mac instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m2-m2-pro-mac-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

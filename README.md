@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports Global Clusters in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-global-clusters-govcloud/)
 - [AWS announces a new Local Zone in Chicago, Illinois](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-local-zone-chicago-illinois/)
 - [Amazon QuickSight is now available in Beijing region in China](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-quicksight-beijing-region-china/)
 - [AWS announces support for logging AWS AppConfig data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-logging-appconfig-data-events-cloudtrail/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M2 and M2 Pro Mac instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-m2-m2-pro-mac-instances-additional-regions/)
 - [Amazon EC2 R7i instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-r7i-instances-additional-regions/)
 - [Amazon RDS for Db2 now supports EBCDIC collation sequence](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-rds-db2-ebcdic-collation-sequence/)
-- [SageMaker Automatic Model Tuning now supports Delete API](https://aws.amazon.com/about-aws/whats-new/2024/01/sagemaker-automatic-model-tuning-delete-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

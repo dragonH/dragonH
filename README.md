@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the new Console Home in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/console-home-aws-govcloud-us-regions/)
+- [AWS AppFabric is now ISO, PCI, and SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-appfabric-iso-pci-soc-compliant/)
 - [Amazon ElastiCache for Redis now supports auto scaling in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-redis-auto-scaling-govcloud-regions/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-elastic-clusters-additional-regions/)
 - [AWS Control Tower receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-control-tower-dod-impact-level-4-5-authorization/)
@@ -66,8 +68,6 @@
 - [Amazon DataZone is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-additional-regions/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports Global Clusters in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-global-clusters-govcloud/)
 - [AWS announces a new Local Zone in Chicago, Illinois](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-local-zone-chicago-illinois/)
-- [Amazon QuickSight is now available in Beijing region in China](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-quicksight-beijing-region-china/)
-- [AWS announces support for logging AWS AppConfig data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-logging-appconfig-data-events-cloudtrail/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

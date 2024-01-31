@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL major version 16](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-aurora-postgresql-compatible-edition-supports-version-16/)
 - [Amazon ECS Service Connect is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-canada-west-calgary-aws-region/)
 - [Research and Engineering Studio on AWS, Version 2024.01 is now available](https://aws.amazon.com/about-aws/whats-new/2024/01/research-engineering-studio-aws-version-2024-01/)
 - [Announcing the new Console Home in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/console-home-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-control-tower-dod-impact-level-4-5-authorization/)
 - [AWS Marketplace launches self-service flows for sellers to list third-party EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-self-service-flows-sellers-third-party-eks-add-ons/)
 - [Announcing Amazon Q data integration in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/)
-- [Amazon DataZone is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

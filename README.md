@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-elastic-clusters-additional-regions/)
+- [AWS Control Tower receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-control-tower-dod-impact-level-4-5-authorization/)
 - [AWS Marketplace launches self-service flows for sellers to list third-party EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-self-service-flows-sellers-third-party-eks-add-ons/)
 - [Announcing Amazon Q data integration in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/)
 - [Amazon DataZone is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-additional-regions/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight is now available in Beijing region in China](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-quicksight-beijing-region-china/)
 - [AWS announces support for logging AWS AppConfig data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-logging-appconfig-data-events-cloudtrail/)
 - [Amazon EC2 added new price protection for attribute based instance selection](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ec2-price-protection-attribute-instance-selection/)
-- [Amazon DataZone now supports AWS CloudFormation and HIPAA eligibility](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-datazone-aws-cloudformation-hipaa-eligibility/)
-- [Amazon ECS Service Discovery now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-discovery-service-canada-west-calgary/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

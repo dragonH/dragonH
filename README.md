@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Blockchain Query now provides access to non-finalized blockchain data](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-managed-blockchain-query-access-non-finalized-blockchain-data/)
+- [Finch is now available on Windows](https://aws.amazon.com/about-aws/whats-new/2024/02/finch-available-windows/)
+- [Amazon Cognito adds signing, encryption, and Identity Provider-initiated SSO for SAML federation](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cognito-signing-encryption-identity-provider-initiated-sso/)
 - [AWS Free Tier now includes 750 hours of free Public IPv4 addresses, as charges for Public IPv4 begin](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-free-tier-750-hours-free-public-ipv4-addresses/)
 - [Amazon EventBridge Event Bus event matching now runs on Open Source Event Ruler v1.50](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-event-bus-matching-event-ruler/)
 - [Amazon EC2 Capacity Blocks for ML expands to P4d instances](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-capacity-blocks-ml-p4d-instances/)
@@ -65,9 +68,6 @@
 - [AWS Mainframe Modernization service is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-mainframe-modernization-service-additional-regions/)
 - [Amazon Rekognition adds new moderation labels and improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rekognition-moderation-labels-accuracy-content-moderation-images/)
 - [Amazon FSx for OpenZFS now supports up to 400,000 IOPS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-fsx-openzfs-additional-iops/)
-- [Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL major version 16](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-aurora-postgresql-compatible-edition-supports-version-16/)
-- [Amazon ECS Service Connect is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-canada-west-calgary-aws-region/)
-- [Research and Engineering Studio on AWS, Version 2024.01 is now available](https://aws.amazon.com/about-aws/whats-new/2024/01/research-engineering-studio-aws-version-2024-01/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

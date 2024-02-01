@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Capacity Blocks for ML expands to P4d instances](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-capacity-blocks-ml-p4d-instances/)
+- [Amazon Monitron to enable static IP for gateways network configuration](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-monitron-static-ip-gateways-configuration/)
+- [AWS Mainframe Modernization service is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-mainframe-modernization-service-additional-regions/)
+- [Amazon Rekognition adds new moderation labels and improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rekognition-moderation-labels-accuracy-content-moderation-images/)
+- [Amazon FSx for OpenZFS now supports up to 400,000 IOPS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-fsx-openzfs-additional-iops/)
 - [Amazon Aurora PostgreSQL-Compatible Edition now supports PostgreSQL major version 16](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-aurora-postgresql-compatible-edition-supports-version-16/)
 - [Amazon ECS Service Connect is now available in Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-ecs-service-connect-canada-west-calgary-aws-region/)
 - [Research and Engineering Studio on AWS, Version 2024.01 is now available](https://aws.amazon.com/about-aws/whats-new/2024/01/research-engineering-studio-aws-version-2024-01/)
 - [Announcing the new Console Home in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/console-home-aws-govcloud-us-regions/)
 - [AWS AppFabric is now ISO, PCI, and SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-appfabric-iso-pci-soc-compliant/)
-- [Amazon ElastiCache for Redis now supports auto scaling in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-elasticache-redis-auto-scaling-govcloud-regions/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters are now available in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-documentdb-mongodb-elastic-clusters-additional-regions/)
-- [AWS Control Tower receives DoD Impact Level 4 and 5 authorization](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-control-tower-dod-impact-level-4-5-authorization/)
-- [AWS Marketplace launches self-service flows for sellers to list third-party EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/01/aws-marketplace-self-service-flows-sellers-third-party-eks-add-ons/)
-- [Announcing Amazon Q data integration in AWS Glue &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/01/amazon-q-data-integration-aws-glue-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

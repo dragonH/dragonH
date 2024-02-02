@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS now supports playback restriction policies](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ivs-playback-restriction-policies/)
 - [Amazon Managed Blockchain Query now provides access to non-finalized blockchain data](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-managed-blockchain-query-access-non-finalized-blockchain-data/)
 - [Finch is now available on Windows](https://aws.amazon.com/about-aws/whats-new/2024/02/finch-available-windows/)
 - [Amazon Cognito adds signing, encryption, and Identity Provider-initiated SSO for SAML federation](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cognito-signing-encryption-identity-provider-initiated-sso/)
@@ -67,7 +68,6 @@
 - [Amazon Monitron to enable static IP for gateways network configuration](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-monitron-static-ip-gateways-configuration/)
 - [AWS Mainframe Modernization service is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-mainframe-modernization-service-additional-regions/)
 - [Amazon Rekognition adds new moderation labels and improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rekognition-moderation-labels-accuracy-content-moderation-images/)
-- [Amazon FSx for OpenZFS now supports up to 400,000 IOPS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-fsx-openzfs-additional-iops/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

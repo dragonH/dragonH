@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q in Connect is now available in additional Asia Pacific &amp; Canadian regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-q-connect-asia-canada-regions/)
+- [Amazon Connect Cases now provides audit history on cases](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-cases-provides-audit-history-cases/)
 - [Amazon IVS now supports playback restriction policies](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ivs-playback-restriction-policies/)
 - [Amazon Managed Blockchain Query now provides access to non-finalized blockchain data](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-managed-blockchain-query-access-non-finalized-blockchain-data/)
 - [Finch is now available on Windows](https://aws.amazon.com/about-aws/whats-new/2024/02/finch-available-windows/)
@@ -66,8 +68,6 @@
 - [Amazon EventBridge Event Bus event matching now runs on Open Source Event Ruler v1.50](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-event-bus-matching-event-ruler/)
 - [Amazon EC2 Capacity Blocks for ML expands to P4d instances](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-capacity-blocks-ml-p4d-instances/)
 - [Amazon Monitron to enable static IP for gateways network configuration](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-monitron-static-ip-gateways-configuration/)
-- [AWS Mainframe Modernization service is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-mainframe-modernization-service-additional-regions/)
-- [Amazon Rekognition adds new moderation labels and improves accuracy of content moderation for images](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rekognition-moderation-labels-accuracy-content-moderation-images/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces a new Local Zone in Houston](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-local-zone-houston/)
 - [Generate AWS CloudFormation templates and AWS CDK apps for existing AWS resources in minutes](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-cloudformation-templates-cdk-apps-minutes/)
 - [Announcing Single sign-on &lpar;SSO&rpar; support for JetBrains IDE within Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/02/sso-jetbrains-ide-within-amazon-codecatalyst/)
 - [AWS Elemental MediaConnect adds new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-elemental-mediaconnect-amazon-cloudwatch-metrics/)
@@ -67,7 +68,6 @@
 - [Amazon IVS now supports playback restriction policies](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ivs-playback-restriction-policies/)
 - [Amazon Managed Blockchain Query now provides access to non-finalized blockchain data](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-managed-blockchain-query-access-non-finalized-blockchain-data/)
 - [Finch is now available on Windows](https://aws.amazon.com/about-aws/whats-new/2024/02/finch-available-windows/)
-- [Amazon Cognito adds signing, encryption, and Identity Provider-initiated SSO for SAML federation](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cognito-signing-encryption-identity-provider-initiated-sso/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

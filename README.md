@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppFabric now supports Cisco Duo and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appfabric-cisco-duo-terraform/)
 - [Amazon Redshift announces support for H3 Indexing and related spatial grid indexing functions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-h3-indexing-spatial-grid-functions/)
 - [AWS Application Load Balancer announces one-click WAF integrations](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-application-load-balancer-one-click-waf-integrations/)
 - [AWS Fargate announces a price reduction for Windows containers on Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-fargate-price-reduction-windows-containers-ecs/)
@@ -67,7 +68,6 @@
 - [VPC DNS Query Logging now available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/vpc-dns-query-logging-canada-west-calgary-region/)
 - [AWS announces a new Local Zone in Houston](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-local-zone-houston/)
 - [Generate AWS CloudFormation templates and AWS CDK apps for existing AWS resources in minutes](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-cloudformation-templates-cdk-apps-minutes/)
-- [Announcing Single sign-on &lpar;SSO&rpar; support for JetBrains IDE within Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/02/sso-jetbrains-ide-within-amazon-codecatalyst/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for H3 Indexing and related spatial grid indexing functions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-h3-indexing-spatial-grid-functions/)
+- [AWS Application Load Balancer announces one-click WAF integrations](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-application-load-balancer-one-click-waf-integrations/)
 - [AWS Fargate announces a price reduction for Windows containers on Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-fargate-price-reduction-windows-containers-ecs/)
 - [Announcing support for IdP-initiated SSO with Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2024/02/support-idp-initiated-sso-amazon-workspaces-web/)
 - [Amazon RDS for Oracle now supports January 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-oracle-january-2024-release-update/)
@@ -66,8 +68,6 @@
 - [AWS announces a new Local Zone in Houston](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-local-zone-houston/)
 - [Generate AWS CloudFormation templates and AWS CDK apps for existing AWS resources in minutes](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-cloudformation-templates-cdk-apps-minutes/)
 - [Announcing Single sign-on &lpar;SSO&rpar; support for JetBrains IDE within Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/02/sso-jetbrains-ide-within-amazon-codecatalyst/)
-- [AWS Elemental MediaConnect adds new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-elemental-mediaconnect-amazon-cloudwatch-metrics/)
-- [Amazon Redshift Query Editor is now available in 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-query-editor-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6id instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6id-instances-additional-regions/)
 - [Amazon Connect adds more flexibility to copying agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-flexibility-copying-agent-schedules/)
 - [Announcing disruption controls for Karpenter](https://aws.amazon.com/about-aws/whats-new/2024/02/disruption-controls-karpenter/)
 - [AWS AppSync now supports environment variables in GraphQL resolvers and functions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appsync-environment-variables-graph-ql-resolvers-functions/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service now offers improved visibility into domain updates](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-service-improved-visibility-domain-updates/)
 - [AWS AppFabric now supports Cisco Duo and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appfabric-cisco-duo-terraform/)
 - [Amazon Redshift announces support for H3 Indexing and related spatial grid indexing functions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-h3-indexing-spatial-grid-functions/)
-- [AWS Application Load Balancer announces one-click WAF integrations](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-application-load-balancer-one-click-waf-integrations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

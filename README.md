@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC IP Address Manager is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-vpc-ip-address-manager-canada-west-calgary-region/)
+- [AWS DataSync now supports manifests for transferring a specific set of files](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-datasync-manifests-transferring-specific-files/)
+- [Amazon EC2 C6g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6g-instances-additional-regions/)
 - [Amazon EC2 C6id instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6id-instances-additional-regions/)
 - [Amazon Connect adds more flexibility to copying agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-flexibility-copying-agent-schedules/)
 - [Announcing disruption controls for Karpenter](https://aws.amazon.com/about-aws/whats-new/2024/02/disruption-controls-karpenter/)
@@ -65,9 +68,6 @@
 - [Amazon SQS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-sqs-extended-client-library-python-payloads/)
 - [AWS WAF announces Captcha improvements](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-waf-captcha-improvements/)
 - [Amazon CloudWatch Synthetics releases NodeJS/Puppeteer Runtime versions 6.2, version 5.2 and Python/Selenium Runtime version 2.1](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-synthetics-nodejs-puppeteer-runtime-6-2-5-2-python-selenium-2-1/)
-- [Amazon OpenSearch Service now offers improved visibility into domain updates](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-service-improved-visibility-domain-updates/)
-- [AWS AppFabric now supports Cisco Duo and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appfabric-cisco-duo-terraform/)
-- [Amazon Redshift announces support for H3 Indexing and related spatial grid indexing functions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-h3-indexing-spatial-grid-functions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

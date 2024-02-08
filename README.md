@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family now publishes events to Amazon EventBridge for SFTP, FTPS, and FTP servers](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-eventbridge-servers/)
+- [Amazon Redshift announces auto and incremental materialized views for data sharing consumer tables](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-auto-views-data-sharing-tables/)
+- [Amazon Redshift announces programmatic access to Advisor recommendations via API](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-access-advisor-recommendations-api/)
+- [AWS Transfer Family now publishes events to Amazon EventBridge for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-amazon-eventbridge-sftp-connectors/)
 - [Amazon VPC IP Address Manager is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-vpc-ip-address-manager-canada-west-calgary-region/)
 - [AWS DataSync now supports manifests for transferring a specific set of files](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-datasync-manifests-transferring-specific-files/)
 - [Amazon EC2 C6g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6g-instances-additional-regions/)
 - [Amazon EC2 C6id instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6id-instances-additional-regions/)
 - [Amazon Connect adds more flexibility to copying agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-flexibility-copying-agent-schedules/)
 - [Announcing disruption controls for Karpenter](https://aws.amazon.com/about-aws/whats-new/2024/02/disruption-controls-karpenter/)
-- [AWS AppSync now supports environment variables in GraphQL resolvers and functions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appsync-environment-variables-graph-ql-resolvers-functions/)
-- [Amazon SQS launches the Extended Client Library for Python to support payloads up to 2GB](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-sqs-extended-client-library-python-payloads/)
-- [AWS WAF announces Captcha improvements](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-waf-captcha-improvements/)
-- [Amazon CloudWatch Synthetics releases NodeJS/Puppeteer Runtime versions 6.2, version 5.2 and Python/Selenium Runtime version 2.1](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-synthetics-nodejs-puppeteer-runtime-6-2-5-2-python-selenium-2-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m6in-m6idn-instances-additional-regions/)
+- [AWS Glue Data Catalog now supports delegating KMS key permissions to an IAM role](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-glue-data-catalog-delegating-kms-key-permissions-iam-role/)
+- [Amazon EC2 C6in instances are now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6in-instances-israel-tel-aviv/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amb-query-amazon-cloudwatch-usage-metrics/)
 - [AWS Transfer Family now publishes events to Amazon EventBridge for AS2 servers and connectors](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-eventbridge-as2-servers-connectors/)
 - [Amazon MSK Replicator is now available in 9 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-replicator-9-additional-regions/)
@@ -65,9 +68,6 @@
 - [AWS Transfer Family now publishes events to Amazon EventBridge for SFTP, FTPS, and FTP servers](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-eventbridge-servers/)
 - [Amazon Redshift announces auto and incremental materialized views for data sharing consumer tables](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-auto-views-data-sharing-tables/)
 - [Amazon Redshift announces programmatic access to Advisor recommendations via API](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-access-advisor-recommendations-api/)
-- [AWS Transfer Family now publishes events to Amazon EventBridge for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-amazon-eventbridge-sftp-connectors/)
-- [Amazon VPC IP Address Manager is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-vpc-ip-address-manager-canada-west-calgary-region/)
-- [AWS DataSync now supports manifests for transferring a specific set of files](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-datasync-manifests-transferring-specific-files/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

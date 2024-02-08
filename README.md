@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amb-query-amazon-cloudwatch-usage-metrics/)
+- [AWS Transfer Family now publishes events to Amazon EventBridge for AS2 servers and connectors](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-eventbridge-as2-servers-connectors/)
 - [Amazon MSK Replicator is now available in 9 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-replicator-9-additional-regions/)
 - [Amazon SNS now supports sending SMS from five new regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-sns-sending-sms-5-regions/)
 - [AWS Transfer Family now publishes events to Amazon EventBridge for SFTP, FTPS, and FTP servers](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-eventbridge-servers/)
@@ -66,8 +68,6 @@
 - [AWS Transfer Family now publishes events to Amazon EventBridge for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-amazon-eventbridge-sftp-connectors/)
 - [Amazon VPC IP Address Manager is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-vpc-ip-address-manager-canada-west-calgary-region/)
 - [AWS DataSync now supports manifests for transferring a specific set of files](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-datasync-manifests-transferring-specific-files/)
-- [Amazon EC2 C6g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6g-instances-additional-regions/)
-- [Amazon EC2 C6id instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6id-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

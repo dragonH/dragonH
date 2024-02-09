@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace Sellers can now access Tax documents in AWS Marketplace Management Portal](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-marketplace-sellers-tax-documents-management-portal/)
 - [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m6in-m6idn-instances-additional-regions/)
 - [AWS Glue Data Catalog now supports delegating KMS key permissions to an IAM role](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-glue-data-catalog-delegating-kms-key-permissions-iam-role/)
 - [Amazon EC2 C6in instances are now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6in-instances-israel-tel-aviv/)
@@ -67,7 +68,6 @@
 - [Amazon SNS now supports sending SMS from five new regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-sns-sending-sms-5-regions/)
 - [AWS Transfer Family now publishes events to Amazon EventBridge for SFTP, FTPS, and FTP servers](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-events-eventbridge-servers/)
 - [Amazon Redshift announces auto and incremental materialized views for data sharing consumer tables](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-auto-views-data-sharing-tables/)
-- [Amazon Redshift announces programmatic access to Advisor recommendations via API](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-access-advisor-recommendations-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

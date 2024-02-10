@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core supports Online Certificate Status Protocol Stapling for server certificates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-core-online-certificate-status-protocol-stapling-server-certificates/)
+- [Amazon Bedrock console gets a modern look-and-feel](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-bedrock-console-modern-look-feel/)
+- [Introducing Amazon Data Firehose, formerly known as Amazon Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-formerly-kinesis-data-firehose/)
 - [Amazon GuardDuty Malware Protection now supports scanning EBS managed key encrypted volumes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-malware-protection-ebs-managed-key-encrypted-volumes/)
 - [ROSA is available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/rosa-aws-govcloud-us-regions/)
 - [CodePipeline supports additional trigger filters and new execution modes](https://aws.amazon.com/about-aws/whats-new/2024/02/codepipeline-trigger-filters-execution-modes/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m6in-m6idn-instances-additional-regions/)
 - [AWS Glue Data Catalog now supports delegating KMS key permissions to an IAM role](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-glue-data-catalog-delegating-kms-key-permissions-iam-role/)
 - [Amazon EC2 C6in instances are now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c6in-instances-israel-tel-aviv/)
-- [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports Amazon CloudWatch usage metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amb-query-amazon-cloudwatch-usage-metrics/)
-- [AWS Transfer Family now publishes events to Amazon EventBridge for AS2 servers and connectors](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-transfer-family-publishes-eventbridge-as2-servers-connectors/)
-- [Amazon MSK Replicator is now available in 9 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-replicator-9-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

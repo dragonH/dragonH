@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync introduces 12 new Amazon CloudWatch metrics for enhanced monitoring](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appsync-amazon-cloudwatch-metrics-enhanced-monitoring/)
+- [Amazon RDS for MySQL supports new minor version 8.0.36](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mysql-new-minor-version-8-0-36/)
 - [AWS Control Tower’s Account Factory for Terraform increases customization](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-towers-account-factory-terraform-increases-customization/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports text search](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-text-search/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports maintenance notifications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-maintenance-notifications/)
@@ -66,8 +68,6 @@
 - [Amazon Bedrock console gets a modern look-and-feel](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-bedrock-console-modern-look-feel/)
 - [Introducing Amazon Data Firehose, formerly known as Amazon Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-formerly-kinesis-data-firehose/)
 - [Amazon GuardDuty Malware Protection now supports scanning EBS managed key encrypted volumes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-malware-protection-ebs-managed-key-encrypted-volumes/)
-- [ROSA is available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/rosa-aws-govcloud-us-regions/)
-- [CodePipeline supports additional trigger filters and new execution modes](https://aws.amazon.com/about-aws/whats-new/2024/02/codepipeline-trigger-filters-execution-modes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Control Tower’s Account Factory for Terraform increases customization](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-towers-account-factory-terraform-increases-customization/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports text search](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-text-search/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports maintenance notifications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-maintenance-notifications/)
 - [AWS Wickr now allows you to try premium features for free](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-try-premium-features-free/)
@@ -67,7 +68,6 @@
 - [Amazon GuardDuty Malware Protection now supports scanning EBS managed key encrypted volumes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-malware-protection-ebs-managed-key-encrypted-volumes/)
 - [ROSA is available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/rosa-aws-govcloud-us-regions/)
 - [CodePipeline supports additional trigger filters and new execution modes](https://aws.amazon.com/about-aws/whats-new/2024/02/codepipeline-trigger-filters-execution-modes/)
-- [AWS Marketplace Sellers can now access Tax documents in AWS Marketplace Management Portal](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-marketplace-sellers-tax-documents-management-portal/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

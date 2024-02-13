@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for the INTERVAL data type and Continue Handler statements in stored procedure](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-interval-data-type-continue-handler-statements/)
 - [Introducing the Messaging API for the AWS SimSpace Weaver app SDK](https://aws.amazon.com/about-aws/whats-new/2024/02/messaging-api-aws-simspace-weaver-app-sdk/)
 - [Amazon MSK expands support for M7g instances to 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-m7g-instances-2-regions/)
 - [Amazon EMR on EC2 now supports retrieval of 10,000 steps completed within last 7 days](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-ec2-retrieval-10-000-steps-7-days/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MySQL supports new minor version 8.0.36](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mysql-new-minor-version-8-0-36/)
 - [AWS Control Tower’s Account Factory for Terraform increases customization](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-towers-account-factory-terraform-increases-customization/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports text search](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-text-search/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports maintenance notifications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-maintenance-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

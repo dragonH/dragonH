@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EC2 now supports retrieval of 10,000 steps completed within last 7 days](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-ec2-retrieval-10-000-steps-7-days/)
+- [Announcing libraries and tools for Open Job Description](https://aws.amazon.com/about-aws/whats-new/2024/02/libraries-tools-open-job-description/)
+- [Amazon GuardDuty Runtime Monitoring protects clusters running in shared VPC](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-runtime-monitoring-protects-clusters-shared-vpc/)
 - [AWS AppSync introduces 12 new Amazon CloudWatch metrics for enhanced monitoring](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appsync-amazon-cloudwatch-metrics-enhanced-monitoring/)
 - [Amazon RDS for MySQL supports new minor version 8.0.36](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mysql-new-minor-version-8-0-36/)
 - [AWS Control Tower’s Account Factory for Terraform increases customization](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-towers-account-factory-terraform-increases-customization/)
@@ -65,9 +68,6 @@
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports maintenance notifications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-maintenance-notifications/)
 - [AWS Wickr now allows you to try premium features for free](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-try-premium-features-free/)
 - [AWS IoT Core supports Online Certificate Status Protocol Stapling for server certificates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-core-online-certificate-status-protocol-stapling-server-certificates/)
-- [Amazon Bedrock console gets a modern look-and-feel](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-bedrock-console-modern-look-feel/)
-- [Introducing Amazon Data Firehose, formerly known as Amazon Kinesis Data Firehose](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-formerly-kinesis-data-firehose/)
-- [Amazon GuardDuty Malware Protection now supports scanning EBS managed key encrypted volumes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-malware-protection-ebs-managed-key-encrypted-volumes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

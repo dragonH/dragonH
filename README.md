@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK expands support for M7g instances to 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-m7g-instances-2-regions/)
 - [Amazon EMR on EC2 now supports retrieval of 10,000 steps completed within last 7 days](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-ec2-retrieval-10-000-steps-7-days/)
 - [Announcing libraries and tools for Open Job Description](https://aws.amazon.com/about-aws/whats-new/2024/02/libraries-tools-open-job-description/)
 - [Amazon GuardDuty Runtime Monitoring protects clusters running in shared VPC](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-runtime-monitoring-protects-clusters-shared-vpc/)
@@ -67,7 +68,6 @@
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports text search](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-text-search/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports maintenance notifications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-maintenance-notifications/)
 - [AWS Wickr now allows you to try premium features for free](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-try-premium-features-free/)
-- [AWS IoT Core supports Online Certificate Status Protocol Stapling for server certificates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-core-online-certificate-status-protocol-stapling-server-certificates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

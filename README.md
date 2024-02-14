@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon Polly Neural Turkish Voice: Burcu](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-polly-neural-turkish-voice-burcu/)
+- [Amazon OpenSearch Service now lets you update cluster volume without blue/green](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-service-update-cluster-volume-without-blue-green/)
 - [Amazon WorkSpaces Thin Client inventory now available to purchase in France, Germany, Italy, and Spain](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-workspaces-thin-client-inventory-france-germany-italy-spain/)
 - [Amazon Redshift announces support for the INTERVAL data type and Continue Handler statements in stored procedure](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-interval-data-type-continue-handler-statements/)
 - [Introducing the Messaging API for the AWS SimSpace Weaver app SDK](https://aws.amazon.com/about-aws/whats-new/2024/02/messaging-api-aws-simspace-weaver-app-sdk/)
@@ -66,8 +68,6 @@
 - [Announcing libraries and tools for Open Job Description](https://aws.amazon.com/about-aws/whats-new/2024/02/libraries-tools-open-job-description/)
 - [Amazon GuardDuty Runtime Monitoring protects clusters running in shared VPC](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-runtime-monitoring-protects-clusters-shared-vpc/)
 - [AWS AppSync introduces 12 new Amazon CloudWatch metrics for enhanced monitoring](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appsync-amazon-cloudwatch-metrics-enhanced-monitoring/)
-- [Amazon RDS for MySQL supports new minor version 8.0.36](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mysql-new-minor-version-8-0-36/)
-- [AWS Control Tower’s Account Factory for Terraform increases customization](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-towers-account-factory-terraform-increases-customization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

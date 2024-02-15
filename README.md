@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management Software Package Catalog available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-device-management-software-catalog-govcloud/)
 - [Amazon OpenSearch Serverless now supports TLS 1.3 and perfect forward secrecy](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-serverless-tls-1-3-perfect-forward-secrecy/)
 - [New Amazon Polly Neural Turkish Voice: Burcu](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-polly-neural-turkish-voice-burcu/)
 - [Amazon OpenSearch Service now lets you update cluster volume without blue/green](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-service-update-cluster-volume-without-blue-green/)
@@ -67,7 +68,6 @@
 - [Amazon MSK expands support for M7g instances to 2 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-m7g-instances-2-regions/)
 - [Amazon EMR on EC2 now supports retrieval of 10,000 steps completed within last 7 days](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-ec2-retrieval-10-000-steps-7-days/)
 - [Announcing libraries and tools for Open Job Description](https://aws.amazon.com/about-aws/whats-new/2024/02/libraries-tools-open-job-description/)
-- [Amazon GuardDuty Runtime Monitoring protects clusters running in shared VPC](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-guardduty-runtime-monitoring-protects-clusters-shared-vpc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

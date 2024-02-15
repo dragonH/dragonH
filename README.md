@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 now supports administrative controls for limiting clipboard](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-controls-limiting-clipboard/)
 - [API Gateway now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2024/02/api-gateway-tsl-1-3/)
 - [Amazon EMR Managed Scaling is now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-managed-scaling-europe-spain/)
 - [Amazon RDS for Db2 now supports audit logging](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-db2-audit-logging/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service now lets you update cluster volume without blue/green](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-service-update-cluster-volume-without-blue-green/)
 - [Amazon WorkSpaces Thin Client inventory now available to purchase in France, Germany, Italy, and Spain](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-workspaces-thin-client-inventory-france-germany-italy-spain/)
 - [Amazon Redshift announces support for the INTERVAL data type and Continue Handler statements in stored procedure](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-interval-data-type-continue-handler-statements/)
-- [Introducing the Messaging API for the AWS SimSpace Weaver app SDK](https://aws.amazon.com/about-aws/whats-new/2024/02/messaging-api-aws-simspace-weaver-app-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

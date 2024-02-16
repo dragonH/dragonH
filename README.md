@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace now supports managing Private Marketplace catalogs for organizational units](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-marketplace-private-marketplace-catalogs-organizational-units/)
+- [AWS Wickr is now available in the AWS Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-aws-europe-stockholm-region/)
 - [Amazon AppStream 2.0 adds support for session scripts and Audio Out on multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-scripts-audio-out-multi-session-fleets/)
 - [Amazon OpenSearch Ingestion is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-additional-commercial-regions/)
 - [AWS Batch now supports private registry on ECS compute environments](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-private-registry-ecs-compute-environments/)
@@ -66,8 +68,6 @@
 - [AWS Control Tower introduces APIs to register Organizational Units](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-tower-apis-register-organizational-units/)
 - [Amazon AppStream 2.0 now supports administrative controls for limiting clipboard](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-controls-limiting-clipboard/)
 - [Amazon EMR Managed Scaling is now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-managed-scaling-europe-spain/)
-- [Amazon RDS for Db2 now supports audit logging](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-db2-audit-logging/)
-- [AWS IoT Device Management Software Package Catalog available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-iot-device-management-software-catalog-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

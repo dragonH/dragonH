@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Multiple solution tagging on ACE opportunities](https://aws.amazon.com/about-aws/whats-new/2024/02/multiple-solution-tagging-ace-opportunities/)
+- [Amazon Data Firehose enables selecting a time zone for bucket prefixes when delivering streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-time-zone-bucket-prefixes/)
 - [Amazon EFS is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-efs-aws-canada-west-calgary-region/)
 - [Introducing pull request approval rules in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-codecatalyst-pull-request-approval-rules/)
 - [Amazon EC2 M7i-flex and M7i instances are available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-flex-m7i-instances-sao-paulo-region/)
@@ -66,8 +68,6 @@
 - [AWS Wickr is now available in the AWS Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-aws-europe-stockholm-region/)
 - [Amazon AppStream 2.0 adds support for session scripts and Audio Out on multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-scripts-audio-out-multi-session-fleets/)
 - [Amazon OpenSearch Ingestion is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-additional-commercial-regions/)
-- [AWS Batch now supports private registry on ECS compute environments](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-private-registry-ecs-compute-environments/)
-- [Amazon EC2 R6in and R6idn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-r6in-r6idn-instances-additional-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

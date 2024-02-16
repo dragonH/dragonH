@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-efs-aws-canada-west-calgary-region/)
+- [Introducing pull request approval rules in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-codecatalyst-pull-request-approval-rules/)
 - [Amazon EC2 M7i-flex and M7i instances are available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-flex-m7i-instances-sao-paulo-region/)
 - [Amazon MSK now supports in-place version upgrades for Tiered Storage enabled clusters](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-in-place-version-upgrades-tiered-storage-enabled-clusters/)
 - [AWS Marketplace now supports managing Private Marketplace catalogs for organizational units](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-marketplace-private-marketplace-catalogs-organizational-units/)
@@ -66,8 +68,6 @@
 - [Amazon OpenSearch Ingestion is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-additional-commercial-regions/)
 - [AWS Batch now supports private registry on ECS compute environments](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-private-registry-ecs-compute-environments/)
 - [Amazon EC2 R6in and R6idn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-r6in-r6idn-instances-additional-region/)
-- [API Gateway now supports TLS 1.3](https://aws.amazon.com/about-aws/whats-new/2024/02/api-gateway-tls-1-3/)
-- [AWS Control Tower introduces APIs to register Organizational Units](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-control-tower-apis-register-organizational-units/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

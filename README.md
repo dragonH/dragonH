@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon EMR Serverless in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-govcloud-regions/)
+- [CloudWatch alarm guidelines and console enhancements now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-alarm-guidelines-console-enhancements-aw-govcloud-us-regions/)
 - [Multiple solution tagging on ACE opportunities](https://aws.amazon.com/about-aws/whats-new/2024/02/multiple-solution-tagging-ace-opportunities/)
 - [Amazon Data Firehose enables selecting a time zone for bucket prefixes when delivering streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-time-zone-bucket-prefixes/)
 - [Amazon EFS is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-efs-aws-canada-west-calgary-region/)
@@ -66,8 +68,6 @@
 - [Amazon MSK now supports in-place version upgrades for Tiered Storage enabled clusters](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-msk-in-place-version-upgrades-tiered-storage-enabled-clusters/)
 - [AWS Marketplace now supports managing Private Marketplace catalogs for organizational units](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-marketplace-private-marketplace-catalogs-organizational-units/)
 - [AWS Wickr is now available in the AWS Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-wickr-aws-europe-stockholm-region/)
-- [Amazon AppStream 2.0 adds support for session scripts and Audio Out on multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-appstream-2-0-scripts-audio-out-multi-session-fleets/)
-- [Amazon OpenSearch Ingestion is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-additional-commercial-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

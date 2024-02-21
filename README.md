@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Incident Detection and Response now offers five minute response time for critical incidents](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-incident-detection-response-five-minute-response-time-critical-incidents/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports Partial Indexes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-partial-indexes/)
 - [AWS announces new edge location in Türkiye](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-new-edge-location-turkiye/)
 - [AWS Resource Explorer supports 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resource-explorer-new-resource-types/)
 - [AWS Amplify Hosting announces support for custom SSL certificates/TLS](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-amplify-hosting-custom-ssl-certificates-tls/)
@@ -66,8 +68,6 @@
 - [Announcing Amazon EMR Serverless in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-govcloud-regions/)
 - [CloudWatch alarm guidelines and console enhancements now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-alarm-guidelines-console-enhancements-aw-govcloud-us-regions/)
 - [Multiple solution tagging on ACE opportunities](https://aws.amazon.com/about-aws/whats-new/2024/02/multiple-solution-tagging-ace-opportunities/)
-- [Amazon Data Firehose enables selecting a time zone for bucket prefixes when delivering streams to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-time-zone-bucket-prefixes/)
-- [Amazon EFS is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-efs-aws-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

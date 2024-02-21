@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Studio is now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-studio-europe-spain-region/)
+- [Amazon Location Service Maps SDK now supports Metal-based rendering for iOS applications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-location-service-maps-sdk-metal-rendering-ios/)
 - [AWS Incident Detection and Response now offers five minute response time for critical incidents](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-incident-detection-response-five-minute-response-time-critical-incidents/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports Partial Indexes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-partial-indexes/)
 - [AWS announces new edge location in Türkiye](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-new-edge-location-turkiye/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for SQL Server reduces prices on R5 and R6i Standard Edition in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-sql-server-prices-r5-r6i-standard-osaka/)
 - [Amazon DocumentDB now supports vector search with HNSW index](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-vector-search-hnsw-index/)
 - [Announcing Amazon EMR Serverless in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-govcloud-regions/)
-- [CloudWatch alarm guidelines and console enhancements now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-alarm-guidelines-console-enhancements-aw-govcloud-us-regions/)
-- [Multiple solution tagging on ACE opportunities](https://aws.amazon.com/about-aws/whats-new/2024/02/multiple-solution-tagging-ace-opportunities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

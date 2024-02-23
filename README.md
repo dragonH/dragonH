@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Remediating non-compliant resources with AWS Config rules is now available in Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/remediating-non-compliant-resourcesaws-config-rule-canada-west-calgary/)
+- [Amazon MWAA now supports Apache Airflow version 2.8](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-mwaa-apache-airflow-version-2-8/)
+- [AWS HealthOmics now provides additional information for workflow runs](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-healthomics-information-workflow-runs/)
 - [Amazon EMR Serverless is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-europe-spain-region/)
 - [Amazon Connect now provides time zone support for agent shift profiles](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-time-zone-support-agent-shift-profiles/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters supports readable secondaries, and start and stop clusters](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-elastic-clusters-readable-secondaries-start-stop-clusters/)
@@ -65,9 +68,6 @@
 - [Announcing Region Expansion of G5 instances on SageMaker notebooks](https://aws.amazon.com/about-aws/whats-new/2024/02/region-expansion-g5-instances-sagemaker-notebooks/)
 - [Amazon RDS for PostgreSQL supports minor versions 16.2, 15.6, 14.11, 13.14, and 12.18](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-minor-version-16-2-15-6-14-11-13-14-12-18/)
 - [Amazon DynamoDB zero-ETL integration with Amazon Redshift in the US East &lpar;Virginia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-dynamodb-zero-etl-integration-redshift-virginia/)
-- [AWS Supply Chain Demand Planning announces Demand Driver-Based Forecasting](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-supply-chain-demand-planning-driver-forecasting/)
-- [AWS Systems Manager Parameter Store now supports cross-account sharing](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-systems-manager-parameter-store-cross-account-sharing/)
-- [AWS announces Amazon Neptune I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-neptune-io-optimized/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

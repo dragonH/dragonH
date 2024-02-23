@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Region Expansion of G5 instances on SageMaker notebooks](https://aws.amazon.com/about-aws/whats-new/2024/02/region-expansion-g5-instances-sagemaker-notebooks/)
+- [Amazon RDS for PostgreSQL supports minor versions 16.2, 15.6, 14.11, 13.14, and 12.18](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-minor-version-16-2-15-6-14-11-13-14-12-18/)
+- [Amazon DynamoDB zero-ETL integration with Amazon Redshift in the US East &lpar;Virginia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-dynamodb-zero-etl-integration-redshift-virginia/)
+- [AWS Supply Chain Demand Planning announces Demand Driver-Based Forecasting](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-supply-chain-demand-planning-driver-forecasting/)
+- [AWS Systems Manager Parameter Store now supports cross-account sharing](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-systems-manager-parameter-store-cross-account-sharing/)
+- [AWS announces Amazon Neptune I/O-Optimized](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-neptune-io-optimized/)
+- [Amazon Neptune announces support for data APIs in the AWS SDK](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-neptune-data-apis-sdk/)
+- [Amazon Neptune now supports for Amazon OpenSearch 2.3, 2.5, and Serverless](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-neptune-supports-opensearch-serverless/)
 - [AWS Resilience Hub is now PCI compliant](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resilience-hub-pci-compliant/)
 - [Amazon EMR Studio is now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-studio-europe-spain-region/)
-- [Amazon Location Service Maps SDK now supports Metal-based rendering for iOS applications](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-location-service-maps-sdk-metal-rendering-ios/)
-- [AWS Incident Detection and Response now offers five minute response time for critical incidents](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-incident-detection-response-five-minute-response-time-critical-incidents/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports Partial Indexes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-partial-indexes/)
-- [AWS announces new edge location in Türkiye](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-new-edge-location-turkiye/)
-- [AWS Resource Explorer supports 65 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resource-explorer-new-resource-types/)
-- [AWS Amplify Hosting announces support for custom SSL certificates/TLS](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-amplify-hosting-custom-ssl-certificates-tls/)
-- [Amazon RDS for SQL Server reduces prices on R5 and R6i Standard Edition in Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-sql-server-prices-r5-r6i-standard-osaka/)
-- [Amazon DocumentDB now supports vector search with HNSW index](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-vector-search-hnsw-index/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

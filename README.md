@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Elastic Beanstalk now supports Windows 2022](https://aws.amazon.com/about-aws/whats-new/2024/02/elastic-beanstalk-windows-2022/)
 - [Remediating non-compliant resources with AWS Config rules is now available in Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/remediating-non-compliant-resourcesaws-config-rule-canada-west-calgary/)
 - [Amazon MWAA now supports Apache Airflow version 2.8](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-mwaa-apache-airflow-version-2-8/)
 - [AWS HealthOmics now provides additional information for workflow runs](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-healthomics-information-workflow-runs/)
@@ -67,7 +68,6 @@
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters now support automatic backups and snapshot copying](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-compatibility-elastic-clusters-automatic-backups-snapshot-copying/)
 - [Announcing Region Expansion of G5 instances on SageMaker notebooks](https://aws.amazon.com/about-aws/whats-new/2024/02/region-expansion-g5-instances-sagemaker-notebooks/)
 - [Amazon RDS for PostgreSQL supports minor versions 16.2, 15.6, 14.11, 13.14, and 12.18](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-minor-version-16-2-15-6-14-11-13-14-12-18/)
-- [Amazon DynamoDB zero-ETL integration with Amazon Redshift in the US East &lpar;Virginia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-dynamodb-zero-etl-integration-redshift-virginia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS launches a new Local Zone in Atlanta](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-new-local-zone-atlanta/)
 - [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-i4g-instances-new-regions/)
 - [AWS AppConfig L2 constructs now available for AWS CDK](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appconfig-l2-constructs-cdk/)
 - [Amazon CloudFront announces availability of Embedded Points of Presence](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudfront-availability-embedded-pops/)
@@ -67,7 +68,6 @@
 - [AWS HealthOmics now provides additional information for workflow runs](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-healthomics-information-workflow-runs/)
 - [Amazon EMR Serverless is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-europe-spain-region/)
 - [Amazon Connect now provides time zone support for agent shift profiles](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-time-zone-support-agent-shift-profiles/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters supports readable secondaries, and start and stop clusters](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-elastic-clusters-readable-secondaries-start-stop-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

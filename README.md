@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-logs-ipv6/)
+- [Amazon RDS for MariaDB supports minors 10.11.7, 10.6.17, 10.5.24, 10.4.33](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mariadb-minors-10-11-7-10-6-17-10-5-24-10-4-33/)
+- [NoSQL Workbench for Amazon DynamoDB adds support for cloning tables](https://aws.amazon.com/about-aws/whats-new/2024/02/nosql-workbench-amazon-dynamodb-cloning-tables/)
 - [AWS launches a new Local Zone in Atlanta](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-new-local-zone-atlanta/)
 - [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-i4g-instances-new-regions/)
 - [AWS AppConfig L2 constructs now available for AWS CDK](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appconfig-l2-constructs-cdk/)
@@ -65,9 +68,6 @@
 - [Elastic Beanstalk now supports Windows 2022](https://aws.amazon.com/about-aws/whats-new/2024/02/elastic-beanstalk-windows-2022/)
 - [Remediating non-compliant resources with AWS Config rules is now available in Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/remediating-non-compliant-resourcesaws-config-rule-canada-west-calgary/)
 - [Amazon MWAA now supports Apache Airflow version 2.8](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-mwaa-apache-airflow-version-2-8/)
-- [AWS HealthOmics now provides additional information for workflow runs](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-healthomics-information-workflow-runs/)
-- [Amazon EMR Serverless is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-europe-spain-region/)
-- [Amazon Connect now provides time zone support for agent shift profiles](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-time-zone-support-agent-shift-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

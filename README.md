@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-i4g-instances-new-regions/)
+- [AWS AppConfig L2 constructs now available for AWS CDK](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appconfig-l2-constructs-cdk/)
 - [Amazon CloudFront announces availability of Embedded Points of Presence](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudfront-availability-embedded-pops/)
 - [Elastic Beanstalk now supports Windows 2022](https://aws.amazon.com/about-aws/whats-new/2024/02/elastic-beanstalk-windows-2022/)
 - [Remediating non-compliant resources with AWS Config rules is now available in Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/remediating-non-compliant-resourcesaws-config-rule-canada-west-calgary/)
@@ -66,8 +68,6 @@
 - [Amazon EMR Serverless is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-emr-serverless-europe-spain-region/)
 - [Amazon Connect now provides time zone support for agent shift profiles](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-time-zone-support-agent-shift-profiles/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters supports readable secondaries, and start and stop clusters](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-elastic-clusters-readable-secondaries-start-stop-clusters/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters now support automatic backups and snapshot copying](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-compatibility-elastic-clusters-automatic-backups-snapshot-copying/)
-- [AWS Lambda adds support for .NET 8](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-lambda-support-net-8/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -67,7 +67,7 @@
 - [Amazon Connect now provides time zone support for agent shift profiles](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-time-zone-support-agent-shift-profiles/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters supports readable secondaries, and start and stop clusters](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-elastic-clusters-readable-secondaries-start-stop-clusters/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Elastic Clusters now support automatic backups and snapshot copying](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-compatibility-elastic-clusters-automatic-backups-snapshot-copying/)
-- [Announcing Region Expansion of G5 instances on SageMaker notebooks](https://aws.amazon.com/about-aws/whats-new/2024/02/region-expansion-g5-instances-sagemaker-notebooks/)
+- [AWS Lambda adds support for .NET 8](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-lambda-support-net-8/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

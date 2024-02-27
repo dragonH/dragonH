@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF now supports ruleMatchDetails for Regex rules](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-waf-rulematchdetails-regex-rules/)
 - [EC2 Auto Scaling Warm Pools supports hibernating instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/ec2-auto-scaling-warm-pools-hibernating-instances-govcloud/)
 - [Amazon CloudWatch Logs now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-logs-ipv6/)
 - [Amazon RDS for MariaDB supports minors 10.11.7, 10.6.17, 10.5.24, 10.4.33](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mariadb-minors-10-11-7-10-6-17-10-5-24-10-4-33/)
@@ -67,7 +68,6 @@
 - [AWS AppConfig L2 constructs now available for AWS CDK](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appconfig-l2-constructs-cdk/)
 - [Amazon CloudFront announces availability of Embedded Points of Presence](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudfront-availability-embedded-pops/)
 - [Elastic Beanstalk now supports Windows 2022](https://aws.amazon.com/about-aws/whats-new/2024/02/elastic-beanstalk-windows-2022/)
-- [Remediating non-compliant resources with AWS Config rules is now available in Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/02/remediating-non-compliant-resourcesaws-config-rule-canada-west-calgary/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

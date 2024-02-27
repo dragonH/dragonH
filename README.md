@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS WAF now supports ruleMatchDetails for Regex rules](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-waf-rulematchdetails-regex-rules/)
+- [Amazon CloudFront announces availability of Embedded Points of Presence](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudfront-availability-embedded-pops/)
 - [EC2 Auto Scaling Warm Pools supports hibernating instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/ec2-auto-scaling-warm-pools-hibernating-instances-govcloud/)
 - [Amazon CloudWatch Logs now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-logs-ipv6/)
 - [Amazon RDS for MariaDB supports minors 10.11.7, 10.6.17, 10.5.24, 10.4.33](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mariadb-minors-10-11-7-10-6-17-10-5-24-10-4-33/)
@@ -66,7 +67,6 @@
 - [AWS launches a new Local Zone in Atlanta](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-new-local-zone-atlanta/)
 - [Amazon EC2 I4g Instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-i4g-instances-new-regions/)
 - [AWS AppConfig L2 constructs now available for AWS CDK](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-appconfig-l2-constructs-cdk/)
-- [Amazon CloudFront announces availability of Embedded Points of Presence](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudfront-availability-embedded-pops/)
 - [Elastic Beanstalk now supports Windows 2022](https://aws.amazon.com/about-aws/whats-new/2024/02/elastic-beanstalk-windows-2022/)
 <!-- AWS-NEWS:END -->
 

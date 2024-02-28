@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Blu Age runtime is now available packaged for easier ECS on Fargate deployment](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-blu-age-runtime-easier-ecs-fargate-deployment/)
+- [AWS Glue now available in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-glue-canada-west-calgary-region/)
 - [Announcing CloudWatch performance metrics for Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-performance-metrics-amazon-workspaces-web/)
 - [Amazon EC2 C7a and R7a instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c7a-r7a-instances-additional-regions/)
 - [Accelerate machine learning model training with Amazon SageMaker and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2024/02/machine-learning-model-training-amazon-sagemaker-s3-express-one-zone/)
@@ -66,8 +68,6 @@
 - [Amazon Data Firehose adds message extraction feature for decompressed CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-message-extraction-cloudwatch-logs/)
 - [Amazon CloudFront announces availability of Embedded Points of Presence](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudfront-availability-embedded-pops/)
 - [EC2 Auto Scaling Warm Pools supports hibernating instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/ec2-auto-scaling-warm-pools-hibernating-instances-govcloud/)
-- [Amazon CloudWatch Logs now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-cloudwatch-logs-ipv6/)
-- [Amazon RDS for MariaDB supports minors 10.11.7, 10.6.17, 10.5.24, 10.4.33](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-mariadb-minors-10-11-7-10-6-17-10-5-24-10-4-33/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

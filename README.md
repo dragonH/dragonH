@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces new AWS Direct Connect location in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-direct-connect-honolulu-hawaii/)
+- [Amazon Security Lake now supports audit logs from Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-audit-logs-eks/)
+- [Amazon Security Lake enhances analytics performance with OCSF 1.1.0 and Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-analytics-ocsf-iceberg/)
+- [Amazon EKS announces support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eks-support-linux-2023/)
+- [AWS Migration Hub Orchestrator now supports custom templates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-migration-hub-orchestrator-custom-templates/)
 - [Amazon EC2 m7i.metal-24xl instance is now generally available for VMware Cloud on AWS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-metal-24xl-instance-vmware-cloud-aws/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB support M7g and R7g database instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-database-instances-additional-regions/)
 - [AWS Backup now supports restore testing for Amazon Aurora continuous backups](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-backup-restore-testing-amazon-aurora-continuous-backups/)
 - [Amazon Connect now provides case management metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-case-management-metrics/)
 - [Amazon EventBridge API destinations now supports content-type header customization](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-api-destinations-content-type-header-customization/)
-- [Amazon Connect now supports DID &amp; Toll Free calling in Venezuela](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-did-toll-free-calling-venezuela/)
-- [Amazon Q for Business launches support for metadata boosting for Q&amp;A fine tuning](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-q-business-metadata-boosting-fine-tuning/)
-- [AWS Resource Groups now supports 161 more resource types](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resource-group-161-resource-types/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-in-place-major-version-upgrade-aws-govcloud-us-regions/)
-- [Amazon OpenSearch Serverless customers can now control access to VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-serverless-control-access-vpc-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

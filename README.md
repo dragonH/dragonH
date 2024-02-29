@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB support M7g and R7g database instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-database-instances-additional-regions/)
+- [AWS Backup now supports restore testing for Amazon Aurora continuous backups](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-backup-restore-testing-amazon-aurora-continuous-backups/)
+- [Amazon Connect now provides case management metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-case-management-metrics/)
 - [Amazon EventBridge API destinations now supports content-type header customization](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-api-destinations-content-type-header-customization/)
 - [Amazon Connect now supports DID &amp; Toll Free calling in Venezuela](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-did-toll-free-calling-venezuela/)
 - [Amazon Q for Business launches support for metadata boosting for Q&amp;A fine tuning](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-q-business-metadata-boosting-fine-tuning/)
@@ -65,9 +68,6 @@
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-in-place-major-version-upgrade-aws-govcloud-us-regions/)
 - [Amazon OpenSearch Serverless customers can now control access to VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-serverless-control-access-vpc-endpoints/)
 - [AWS Batch now offers multi-container jobs](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-multi-container-jobs/)
-- [Announcing Terraform support for Amazon OpenSearch Ingestion deployments](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-deployments-terraform/)
-- [AWS Blu Age runtime is now available packaged for easier ECS on Fargate deployment](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-blu-age-runtime-easier-ecs-fargate-deployment/)
-- [AWS Glue now available in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-glue-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

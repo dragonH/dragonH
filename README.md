@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge API destinations now supports content-type header customization](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-api-destinations-content-type-header-customization/)
+- [Amazon Connect now supports DID &amp; Toll Free calling in Venezuela](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-did-toll-free-calling-venezuela/)
+- [Amazon Q for Business launches support for metadata boosting for Q&amp;A fine tuning](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-q-business-metadata-boosting-fine-tuning/)
+- [AWS Resource Groups now supports 161 more resource types](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resource-group-161-resource-types/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-in-place-major-version-upgrade-aws-govcloud-us-regions/)
+- [Amazon OpenSearch Serverless customers can now control access to VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-serverless-control-access-vpc-endpoints/)
 - [AWS Batch now offers multi-container jobs](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-multi-container-jobs/)
 - [Announcing Terraform support for Amazon OpenSearch Ingestion deployments](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-ingestion-deployments-terraform/)
 - [AWS Blu Age runtime is now available packaged for easier ECS on Fargate deployment](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-blu-age-runtime-easier-ecs-fargate-deployment/)
 - [AWS Glue now available in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-glue-canada-west-calgary-region/)
-- [Announcing CloudWatch performance metrics for Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2024/02/cloudwatch-performance-metrics-amazon-workspaces-web/)
-- [Amazon EC2 C7a and R7a instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-c7a-r7a-instances-additional-regions/)
-- [Accelerate machine learning model training with Amazon SageMaker and Amazon S3 Express One Zone](https://aws.amazon.com/about-aws/whats-new/2024/02/machine-learning-model-training-amazon-sagemaker-s3-express-one-zone/)
-- [Amazon Location Service releases authentication library for iOS and Android](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-location-service-authentication-ios-android/)
-- [Amazon RDS Multi-AZ deployments with two readable standbys now supports General Purpose gp3 storage volumes](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-multi-az-deployments-general-purpose-gp3-storage-volumes/)
-- [Amazon Data Firehose adds message extraction feature for decompressed CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-data-firehose-message-extraction-cloudwatch-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

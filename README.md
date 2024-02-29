@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 m7i.metal-24xl instance is now generally available for VMware Cloud on AWS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-metal-24xl-instance-vmware-cloud-aws/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB support M7g and R7g database instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-database-instances-additional-regions/)
 - [AWS Backup now supports restore testing for Amazon Aurora continuous backups](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-backup-restore-testing-amazon-aurora-continuous-backups/)
 - [Amazon Connect now provides case management metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-case-management-metrics/)
@@ -67,7 +68,6 @@
 - [AWS Resource Groups now supports 161 more resource types](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-resource-group-161-resource-types/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; supports in-place major version upgrade in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-documentdb-mongodb-in-place-major-version-upgrade-aws-govcloud-us-regions/)
 - [Amazon OpenSearch Serverless customers can now control access to VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-opensearch-serverless-control-access-vpc-endpoints/)
-- [AWS Batch now offers multi-container jobs](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-batch-multi-container-jobs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

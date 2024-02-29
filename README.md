@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift announces support for scoped permissions and object-level privileges in data sharing](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-scoped-permissions-object-level-privileges-data-sharing/)
+- [AWS Step Functions adds support for Open Workflow Metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-step-functions-open-workflow-metrics/)
+- [Amazon Kinesis Data Streams adds capability to easily query data in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-kinesis-data-streams-query-data-aws-management-console/)
 - [AWS announces new AWS Direct Connect location in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-direct-connect-honolulu-hawaii/)
 - [Amazon Security Lake now supports audit logs from Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-audit-logs-eks/)
 - [Amazon Security Lake enhances analytics performance with OCSF 1.1.0 and Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-analytics-ocsf-iceberg/)
@@ -65,9 +68,6 @@
 - [AWS Migration Hub Orchestrator now supports custom templates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-migration-hub-orchestrator-custom-templates/)
 - [Amazon EC2 m7i.metal-24xl instance is now generally available for VMware Cloud on AWS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-metal-24xl-instance-vmware-cloud-aws/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB support M7g and R7g database instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-database-instances-additional-regions/)
-- [AWS Backup now supports restore testing for Amazon Aurora continuous backups](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-backup-restore-testing-amazon-aurora-continuous-backups/)
-- [Amazon Connect now provides case management metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-connect-case-management-metrics/)
-- [Amazon EventBridge API destinations now supports content-type header customization](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eventbridge-api-destinations-content-type-header-customization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

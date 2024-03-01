@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda improves responsiveness for configuring stream and queue-based event sources](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-lambda-stream-queue-based-event-sources/)
 - [Amazon Redshift announces support for scoped permissions and object-level privileges in data sharing](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-scoped-permissions-object-level-privileges-data-sharing/)
 - [AWS Step Functions adds support for Open Workflow Metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-step-functions-open-workflow-metrics/)
 - [Amazon Kinesis Data Streams adds capability to easily query data in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-kinesis-data-streams-query-data-aws-management-console/)
@@ -67,7 +68,6 @@
 - [Amazon EKS announces support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eks-support-linux-2023/)
 - [AWS Migration Hub Orchestrator now supports custom templates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-migration-hub-orchestrator-custom-templates/)
 - [Amazon EC2 m7i.metal-24xl instance is now generally available for VMware Cloud on AWS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-metal-24xl-instance-vmware-cloud-aws/)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB support M7g and R7g database instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-rds-postgresql-mysql-mariadb-m7g-r7g-database-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

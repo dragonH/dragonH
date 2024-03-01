@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Start your Engines! Announcing the 2024 AWS DeepRacer League](https://aws.amazon.com/about-aws/whats-new/2024/03/2024-aws-deepracer-league/)
 - [AWS Lambda improves responsiveness for configuring stream and queue-based event sources](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-lambda-stream-queue-based-event-sources/)
 - [Amazon Redshift announces support for scoped permissions and object-level privileges in data sharing](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-scoped-permissions-object-level-privileges-data-sharing/)
 - [AWS Step Functions adds support for Open Workflow Metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-step-functions-open-workflow-metrics/)
@@ -67,7 +68,6 @@
 - [Amazon Security Lake enhances analytics performance with OCSF 1.1.0 and Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-analytics-ocsf-iceberg/)
 - [Amazon EKS announces support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eks-support-linux-2023/)
 - [AWS Migration Hub Orchestrator now supports custom templates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-migration-hub-orchestrator-custom-templates/)
-- [Amazon EC2 m7i.metal-24xl instance is now generally available for VMware Cloud on AWS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-ec2-m7i-metal-24xl-instance-vmware-cloud-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

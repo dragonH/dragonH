@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Knowledge Bases for Amazon Bedrock now supports hybrid search](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-hybrid-search/)
+- [AWS Nitro Enclaves is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-nitro-enclaves-asia-pacific-hyderabad/)
 - [Start your Engines! Announcing the 2024 AWS DeepRacer League](https://aws.amazon.com/about-aws/whats-new/2024/03/2024-aws-deepracer-league/)
 - [AWS Lambda improves responsiveness for configuring stream and queue-based event sources](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-lambda-stream-queue-based-event-sources/)
 - [Amazon Redshift announces support for scoped permissions and object-level privileges in data sharing](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-scoped-permissions-object-level-privileges-data-sharing/)
@@ -66,8 +68,6 @@
 - [AWS announces new AWS Direct Connect location in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-direct-connect-honolulu-hawaii/)
 - [Amazon Security Lake now supports audit logs from Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-audit-logs-eks/)
 - [Amazon Security Lake enhances analytics performance with OCSF 1.1.0 and Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-analytics-ocsf-iceberg/)
-- [Amazon EKS announces support for Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-eks-support-linux-2023/)
-- [AWS Migration Hub Orchestrator now supports custom templates](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-migration-hub-orchestrator-custom-templates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

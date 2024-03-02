@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [QnAIntent for Amazon Lex is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/qnaintent-amazon-lex-available/)
 - [Mistral AI foundation models now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/mistral-ai-foundation-models-amazon-bedrock/)
 - [Knowledge Bases for Amazon Bedrock now supports hybrid search](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-hybrid-search/)
 - [AWS Nitro Enclaves is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-nitro-enclaves-asia-pacific-hyderabad/)
@@ -67,7 +68,6 @@
 - [AWS Step Functions adds support for Open Workflow Metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-step-functions-open-workflow-metrics/)
 - [Amazon Kinesis Data Streams adds capability to easily query data in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-kinesis-data-streams-query-data-aws-management-console/)
 - [AWS announces new AWS Direct Connect location in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-direct-connect-honolulu-hawaii/)
-- [Amazon Security Lake now supports audit logs from Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-security-lake-audit-logs-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

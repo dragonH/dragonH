@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF enhances rate-based rules to support configurable time windows](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-rate-based-rules-configurable-time-windows/)
+- [Anthropic&#39;s Claude 3 Sonnet model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-sonnet-model-amazon-bedrock/)
+- [AWS re:Post introduces re:Post Live](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-re-post-introduces-live/)
 - [QnAIntent for Amazon Lex is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/qnaintent-amazon-lex-available/)
 - [Mistral AI foundation models now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/mistral-ai-foundation-models-amazon-bedrock/)
 - [Knowledge Bases for Amazon Bedrock now supports hybrid search](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-hybrid-search/)
@@ -65,9 +68,6 @@
 - [Start your Engines! Announcing the 2024 AWS DeepRacer League](https://aws.amazon.com/about-aws/whats-new/2024/03/2024-aws-deepracer-league/)
 - [AWS Lambda improves responsiveness for configuring stream and queue-based event sources](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-lambda-stream-queue-based-event-sources/)
 - [Amazon Redshift announces support for scoped permissions and object-level privileges in data sharing](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-redshift-scoped-permissions-object-level-privileges-data-sharing/)
-- [AWS Step Functions adds support for Open Workflow Metrics](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-step-functions-open-workflow-metrics/)
-- [Amazon Kinesis Data Streams adds capability to easily query data in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/02/amazon-kinesis-data-streams-query-data-aws-management-console/)
-- [AWS announces new AWS Direct Connect location in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/02/aws-direct-connect-honolulu-hawaii/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

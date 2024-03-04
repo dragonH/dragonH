@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP doubles maximum throughput capacity to 72 GBps](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-netapp-ontap-maximum-throughput-capacity-72-gbps/)
 - [AWS Batch on Amazon EKS supports the use of private Amazon EKS clusters to run Batch jobs](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-amazon-eks-private-clusters-batch-jobs/)
 - [Amazon MQ now supports RabbitMQ version 3.11.28](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-mq-rabbitmq-version-3-11-28/)
 - [AWS WAF enhances rate-based rules to support configurable time windows](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-rate-based-rules-configurable-time-windows/)
@@ -67,7 +68,6 @@
 - [Mistral AI foundation models now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/mistral-ai-foundation-models-amazon-bedrock/)
 - [Knowledge Bases for Amazon Bedrock now supports hybrid search](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-hybrid-search/)
 - [AWS Nitro Enclaves is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-nitro-enclaves-asia-pacific-hyderabad/)
-- [Start your Engines! Announcing the 2024 AWS DeepRacer League](https://aws.amazon.com/about-aws/whats-new/2024/03/2024-aws-deepracer-league/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

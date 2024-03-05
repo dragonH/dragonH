@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for SQL Server supports X2iedn and R5b instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-custom-sql-server-x2iedn-r5b-instances/)
+- [Amazon Neptune is authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-dod-impact-level-4-5/)
 - [Amazon WorkSpaces now supports WebAuthn for in-session authentication](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workspaces-webauthn-in-session-authentication/)
 - [Amazon RDS Custom for Oracle is now available in Middle East &lpar;UAE&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-custom-oracle-middle-east-uae-region/)
 - [Amazon FSx for NetApp ONTAP doubles maximum throughput capacity to 72 GBps](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-netapp-ontap-maximum-throughput-capacity-72-gbps/)
@@ -66,8 +68,6 @@
 - [AWS WAF enhances rate-based rules to support configurable time windows](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-rate-based-rules-configurable-time-windows/)
 - [Anthropic&#39;s Claude 3 Sonnet model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-sonnet-model-amazon-bedrock/)
 - [AWS re:Post introduces re:Post Live](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-re-post-introduces-live/)
-- [QnAIntent for Amazon Lex is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/qnaintent-amazon-lex-available/)
-- [Mistral AI foundation models now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/mistral-ai-foundation-models-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

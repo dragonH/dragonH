@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lake Formation is now available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-lake-formation-canada-west-calgary-region/)
+- [Amazon ECS adds gMSA authentication for Linux containers for AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ecs-gmsa-authentication-linux-containers-aws-fargate/)
 - [Amazon EC2 M7gd instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m7gd-instances-europe-paris-region/)
 - [Amazon RDS Custom for SQL Server supports X2iedn and R5b instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-custom-sql-server-x2iedn-r5b-instances/)
 - [Amazon Neptune is authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-dod-impact-level-4-5/)
@@ -66,8 +68,6 @@
 - [Amazon FSx for NetApp ONTAP doubles maximum throughput capacity to 72 GBps](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-netapp-ontap-maximum-throughput-capacity-72-gbps/)
 - [AWS Batch on Amazon EKS supports the use of private Amazon EKS clusters to run Batch jobs](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-amazon-eks-private-clusters-batch-jobs/)
 - [Amazon MQ now supports RabbitMQ version 3.11.28](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-mq-rabbitmq-version-3-11-28/)
-- [AWS WAF enhances rate-based rules to support configurable time windows](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-rate-based-rules-configurable-time-windows/)
-- [Anthropic&#39;s Claude 3 Sonnet model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-sonnet-model-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

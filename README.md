@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7gd instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m7gd-instances-europe-paris-region/)
 - [Amazon RDS Custom for SQL Server supports X2iedn and R5b instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-custom-sql-server-x2iedn-r5b-instances/)
 - [Amazon Neptune is authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-dod-impact-level-4-5/)
 - [Amazon WorkSpaces now supports WebAuthn for in-session authentication](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workspaces-webauthn-in-session-authentication/)
@@ -67,7 +68,6 @@
 - [Amazon MQ now supports RabbitMQ version 3.11.28](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-mq-rabbitmq-version-3-11-28/)
 - [AWS WAF enhances rate-based rules to support configurable time windows](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-rate-based-rules-configurable-time-windows/)
 - [Anthropic&#39;s Claude 3 Sonnet model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-sonnet-model-amazon-bedrock/)
-- [AWS re:Post introduces re:Post Live](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-re-post-introduces-live/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

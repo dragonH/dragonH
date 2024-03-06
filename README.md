@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7gd, M7gd, and R7gd metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gd-m7gd-r7gd-metal-instances/)
 - [AWS Health now supports organizational view in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-health-organizational-view-govcloud-us-regions/)
 - [Amazon RDS now supports io2 Block Express for consistent sub-millisecond latency and 99.999% durability](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-io2-block-express-sub-millisecond-latency-99-999-durability/)
 - [Amazon GuardDuty is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-guardduty-available-aws-canada-west-calgary-region/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M7gd instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m7gd-instances-europe-paris-region/)
 - [Amazon RDS Custom for SQL Server supports X2iedn and R5b instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-custom-sql-server-x2iedn-r5b-instances/)
 - [Amazon Neptune is authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-dod-impact-level-4-5/)
-- [Amazon WorkSpaces now supports WebAuthn for in-session authentication](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workspaces-webauthn-in-session-authentication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing dynamic parameter support for AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2024/03/dynamic-parameter-aws-appconfig-extensions/)
 - [Accelerate no-code ML with a refreshed homepage in Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/accelerate-no-code-ml-homepage-amazon-sagemaker-canvas/)
 - [CloudWatch Metric Streams adds support for streaming of daily metrics](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-metric-streams-streaming-daily-metrics/)
 - [Amazon OpenSearch Serverless expands support for time-series workloads up to 10TB](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-opensearch-serverless-time-series-workloads-10tb/)
@@ -67,7 +68,6 @@
 - [Amazon RDS Multi-AZ Deployments with two readable standbys now supports security certificate rotation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-multi-az-deployments-two-readable-standbys-security-certificate-rotation/)
 - [Amazon EC2 C7gd, M7gd, and R7gd metal instances are now available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c7gd-m7gd-r7gd-metal-instances/)
 - [AWS Health now supports organizational view in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-health-organizational-view-govcloud-us-regions/)
-- [Amazon RDS now supports io2 Block Express for consistent sub-millisecond latency and 99.999% durability](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-io2-block-express-sub-millisecond-latency-99-999-durability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

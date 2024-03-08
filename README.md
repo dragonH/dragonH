@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF now supports larger request body inspections for regional resources](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-larger-body-inspections-regional-resources/)
 - [Amazon SES now offers support for headers when sending email](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-headers-sending-email/)
 - [AWS announces Aurora MySQL integration with Amazon Bedrock for Generative AI](https://aws.amazon.com/about-aws/whats-new/2024/03/aurora-mysql-integration-amazon-bedrock-generative-ai/)
 - [Amazon Aurora MySQL 3.06 &lpar;compatible with MySQL 8.0.34&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-mysql-3-6-available/)
@@ -67,7 +68,6 @@
 - [Announcing new Amazon VPC DHCPv6 setting to adjust IPv6 preferred lease time](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-vpc-dhcpv6-setting-ipv6-lease-time/)
 - [AWS X-Ray now supports data events in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-x-ray-data-events-aws-cloudtrail/)
 - [Announcing dynamic parameter support for AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2024/03/dynamic-parameter-aws-appconfig-extensions/)
-- [Accelerate no-code ML with a refreshed homepage in Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/accelerate-no-code-ml-homepage-amazon-sagemaker-canvas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

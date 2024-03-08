@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Aurora MySQL integration with Amazon Bedrock for Generative AI](https://aws.amazon.com/about-aws/whats-new/2024/03/aurora-mysql-integration-amazon-bedrock-generative-ai/)
+- [Amazon Aurora MySQL 3.06 &lpar;compatible with MySQL 8.0.34&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-mysql-3-6-available/)
+- [Application Load Balancer now supports Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/03/application-load-balancer-resource-map-aws-management-console/)
 - [AWS HealthLake expands search parameter support](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-healthlake-search-parameter-support/)
 - [Amazon Managed Grafana launches Enterprise plugins upgrade](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-grafana-enterprise-plugins-upgrade/)
 - [Announcing new Amazon VPC DHCPv6 setting to adjust IPv6 preferred lease time](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-vpc-dhcpv6-setting-ipv6-lease-time/)
@@ -65,9 +68,6 @@
 - [Announcing dynamic parameter support for AWS AppConfig Extensions](https://aws.amazon.com/about-aws/whats-new/2024/03/dynamic-parameter-aws-appconfig-extensions/)
 - [Accelerate no-code ML with a refreshed homepage in Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/accelerate-no-code-ml-homepage-amazon-sagemaker-canvas/)
 - [CloudWatch Metric Streams adds support for streaming of daily metrics](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-metric-streams-streaming-daily-metrics/)
-- [Amazon OpenSearch Serverless expands support for time-series workloads up to 10TB](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-opensearch-serverless-time-series-workloads-10tb/)
-- [AWS AppFabric now supports Box and  IBM Security® Verify](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-appfabric-box-ibm-security-verify/)
-- [AWS Wickr achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-wickr-fedramp-high-authorization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

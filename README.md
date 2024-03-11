@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for OpenZFS is now available in Spain and Zurich](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-spain-zurich/)
+- [Amazon FSx for OpenZFS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-aws-govcloud-us-regions/)
 - [Announcing Synthetics NodeJS runtime version 7.0 and Synthetics Python runtime version 3.0 for Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2024/03/synthetics-node-js-runtime-version-7-0-python-runtime-3-0-amazon-cloudwatch-synthetics/)
 - [Amazon RDS for Db2 expands support for M6i and R6i in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-db2-m6i-r6i-additional-aws-regions/)
 - [Amazon Verified Permissions increases default quotas for authorization APIs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-verified-permissions-default-quota-authorization-apis/)
@@ -66,8 +68,6 @@
 - [Amazon Cognito is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-middle-east-uae-region/)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c6in-instances-asia-pacific-hyderabad/)
 - [AWS HealthImaging enables the import of large DICOM objects and high-throughput JPEG 2000 &lpar;HTJ2K&rpar; transfer syntaxes](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-healthimaging-import-dicom-objects-htj2k-transfer-syntaxes/)
-- [AWS WAF now supports larger request body inspections for regional resources](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-waf-larger-body-inspections-regional-resources/)
-- [Amazon SES now offers support for headers when sending email](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-headers-sending-email/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

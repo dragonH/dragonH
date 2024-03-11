@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Experience up to 40% faster stack creation with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-40-percent-faster-stack-creation/)
 - [CloudWatch Container Insights now delivers observability for NVIDIA GPUs on EKS](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-container-insights-observability-nvidia-gpus-eks/)
 - [Amazon FSx for OpenZFS is now available in Spain and Zurich](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-spain-zurich/)
 - [Amazon FSx for OpenZFS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-aws-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for Db2 expands support for X2iedn instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-db2-x2iedn-instances-additional-regions/)
 - [AWS Cost Categories launches a revamped user interface](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cost-categories-revamped-user-interface/)
 - [Amazon Cognito is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-middle-east-uae-region/)
-- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c6in-instances-asia-pacific-hyderabad/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

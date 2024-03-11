@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Db2 expands support for X2iedn instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-db2-x2iedn-instances-additional-regions/)
 - [AWS Cost Categories launches a revamped user interface](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cost-categories-revamped-user-interface/)
 - [Amazon Cognito is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-middle-east-uae-region/)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-c6in-instances-asia-pacific-hyderabad/)
@@ -67,7 +68,6 @@
 - [AWS announces Aurora MySQL integration with Amazon Bedrock for Generative AI](https://aws.amazon.com/about-aws/whats-new/2024/03/aurora-mysql-integration-amazon-bedrock-generative-ai/)
 - [Amazon Aurora MySQL 3.06 &lpar;compatible with MySQL 8.0.34&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-mysql-3-6-available/)
 - [Application Load Balancer now supports Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/03/application-load-balancer-resource-map-aws-management-console/)
-- [AWS HealthLake expands search parameter support](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-healthlake-search-parameter-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Operationalize forecasting models and Fine-tuned FMs with SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/operationalize-forecasting-models-fine-tuned-fms-sagemaker-canvas/)
+- [Amazon RDS for SQL Server supports minor version 2019 CU25 and 2022 CU11](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-sql-server-minor-version-2019-cu25-2022-cu11/)
+- [Announcing AWS Graviton2 support for Amazon EMR Serverless in China Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-graviton-2-emr-serverless-china-regions/)
 - [Experience up to 40% faster stack creation with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-40-percent-faster-stack-creation/)
 - [CloudWatch Container Insights now delivers observability for NVIDIA GPUs on EKS](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-container-insights-observability-nvidia-gpus-eks/)
 - [Amazon FSx for OpenZFS is now available in Spain and Zurich](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-spain-zurich/)
@@ -65,9 +68,6 @@
 - [Announcing Synthetics NodeJS runtime version 7.0 and Synthetics Python runtime version 3.0 for Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2024/03/synthetics-node-js-runtime-version-7-0-python-runtime-3-0-amazon-cloudwatch-synthetics/)
 - [Amazon RDS for Db2 expands support for M6i and R6i in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-db2-m6i-r6i-additional-aws-regions/)
 - [Amazon Verified Permissions increases default quotas for authorization APIs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-verified-permissions-default-quota-authorization-apis/)
-- [Amazon RDS for Db2 expands support for X2iedn instances in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-db2-x2iedn-instances-additional-regions/)
-- [AWS Cost Categories launches a revamped user interface](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cost-categories-revamped-user-interface/)
-- [Amazon Cognito is now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-middle-east-uae-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

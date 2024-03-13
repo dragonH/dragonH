@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 on Outposts reduces first-byte latencies for object API requests](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-outposts-first-byte-latencies-object-api-requests/)
+- [Amazon EC2 M6gd instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m6gd-instances-govcloud-us-regions/)
 - [AWS Backup now supports restore testing for Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-restore-testing-amazon-ebs-snapshots-archive/)
 - [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
 - [Operationalize forecasting models and Fine-tuned FMs with SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/operationalize-forecasting-models-fine-tuned-fms-sagemaker-canvas/)
@@ -66,8 +68,6 @@
 - [Experience up to 40% faster stack creation with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-40-percent-faster-stack-creation/)
 - [CloudWatch Container Insights now delivers observability for NVIDIA GPUs on EKS](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-container-insights-observability-nvidia-gpus-eks/)
 - [Amazon FSx for OpenZFS is now available in Spain and Zurich](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-spain-zurich/)
-- [Amazon FSx for OpenZFS is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-fsx-openzfs-aws-govcloud-us-regions/)
-- [Announcing Synthetics NodeJS runtime version 7.0 and Synthetics Python runtime version 3.0 for Amazon CloudWatch Synthetics](https://aws.amazon.com/about-aws/whats-new/2024/03/synthetics-node-js-runtime-version-7-0-python-runtime-3-0-amazon-cloudwatch-synthetics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

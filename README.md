@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Service announces target preview for experiments](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-fault-injection-service-target-preview-experiments/)
 - [Mountpoint for Amazon S3 CSI driver now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2024/03/mountpoint-amazon-s3-csi-driver-bottlerocket/)
 - [Automate deployment of SAP S/4HANA Foundation and S/4HANA 2023 on AWS](https://aws.amazon.com/about-aws/whats-new/2024/03/automate-sap-s-4-hana-foundation-2023-aws/)
 - [Amazon EFS now supports up to 20 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-efs-supports-20-gibs-throughput/)
@@ -67,7 +68,6 @@
 - [AWS Backup now supports restore testing for Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-restore-testing-amazon-ebs-snapshots-archive/)
 - [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
 - [Operationalize forecasting models and Fine-tuned FMs with SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/operationalize-forecasting-models-fine-tuned-fms-sagemaker-canvas/)
-- [Amazon RDS for SQL Server supports minor version 2019 CU25 and 2022 CU11](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-sql-server-minor-version-2019-cu25-2022-cu11/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

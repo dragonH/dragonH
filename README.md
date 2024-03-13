@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Automate deployment of SAP S/4HANA Foundation and S/4HANA 2023 on AWS](https://aws.amazon.com/about-aws/whats-new/2024/03/automate-sap-s-4-hana-foundation-2023-aws/)
+- [Amazon EFS now supports up to 20 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-efs-supports-20-gibs-throughput/)
 - [Amazon S3 Connector for PyTorch now supports writing checkpoints with PyTorch Lightning](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-connector-pytorch-checkpoints-lightning/)
 - [Amazon S3 on Outposts reduces first-byte latencies for object API requests](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-outposts-first-byte-latencies-object-api-requests/)
 - [Amazon EC2 M6gd instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m6gd-instances-govcloud-us-regions/)
@@ -66,8 +68,6 @@
 - [Operationalize forecasting models and Fine-tuned FMs with SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/operationalize-forecasting-models-fine-tuned-fms-sagemaker-canvas/)
 - [Amazon RDS for SQL Server supports minor version 2019 CU25 and 2022 CU11](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-sql-server-minor-version-2019-cu25-2022-cu11/)
 - [Announcing AWS Graviton2 support for Amazon EMR Serverless in China Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-graviton-2-emr-serverless-china-regions/)
-- [Experience up to 40% faster stack creation with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-40-percent-faster-stack-creation/)
-- [CloudWatch Container Insights now delivers observability for NVIDIA GPUs on EKS](https://aws.amazon.com/about-aws/whats-new/2024/03/cloudwatch-container-insights-observability-nvidia-gpus-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup is now available in AWS Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-canada-west-calgary/)
+- [Amazon MSK Replicator now supports replicating existing data on Kafka topics](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-replicator-existing-data-kafka-topics/)
+- [Application Load Balancer enables configuring HTTP client keepalive duration](https://aws.amazon.com/about-aws/whats-new/2024/03/application-load-balancer-http-keepalive-duration/)
 - [AWS Signer launches signing container images in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-signer-container-images-govcloud-us-regions/)
 - [Amazon EC2 now supports tagging when registering or copying AMIs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-tagging-registering-copying-amis/)
 - [Amazon Cognito is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-europe-zurich-region/)
@@ -65,9 +68,6 @@
 - [Amazon DynamoDB local upgrades to Jetty 12 and JDK 17](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-local-upgrades-jetty-12-jdk-17/)
 - [AWS CloudFormation accelerates dev-test cycle with new validation checks for stack operations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-new-validation-checks-stack-operations/)
 - [Amazon Neptune Analytics is now available in the AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-analytics-aws-europe-london-region/)
-- [Anthropic&#39;s Claude 3 Haiku Model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-haiku-model-amazon-bedrock/)
-- [Amazon Managed Service for Apache Flink is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-canada-west-calgary-region/)
-- [Monitor Amazon WorkSpaces instances via CloudWatch Automatic dashboard](https://aws.amazon.com/about-aws/whats-new/2024/03/monitor-amazon-workspaces-cloudwatch-automatic-dashboard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch now supports alerts to detect and react to jobs stuck in RUNNABLE state](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-alerts-detect-jobs-runnable-state/)
 - [Amazon DynamoDB local upgrades to Jetty 12 and JDK 17](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-local-upgrades-jetty-12-jdk-17/)
 - [AWS CloudFormation accelerates dev-test cycle with new validation checks for stack operations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-new-validation-checks-stack-operations/)
 - [Amazon Neptune Analytics is now available in the AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-analytics-aws-europe-london-region/)
@@ -67,7 +68,6 @@
 - [AWS Fault Injection Service announces target preview for experiments](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-fault-injection-service-target-preview-experiments/)
 - [Mountpoint for Amazon S3 CSI driver now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2024/03/mountpoint-amazon-s3-csi-driver-bottlerocket/)
 - [Automate deployment of SAP S/4HANA Foundation and S/4HANA 2023 on AWS](https://aws.amazon.com/about-aws/whats-new/2024/03/automate-sap-s-4-hana-foundation-2023-aws/)
-- [Amazon EFS now supports up to 20 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-efs-supports-20-gibs-throughput/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

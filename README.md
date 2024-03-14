@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB local upgrades to Jetty 12 and JDK 17](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-local-upgrades-jetty-12-jdk-17/)
+- [AWS CloudFormation accelerates dev-test cycle with new validation checks for stack operations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-new-validation-checks-stack-operations/)
+- [Amazon Neptune Analytics is now available in the AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-analytics-aws-europe-london-region/)
+- [Anthropic&#39;s Claude 3 Haiku Model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/03/anthropics-claude-3-haiku-model-amazon-bedrock/)
+- [Amazon Managed Service for Apache Flink is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-canada-west-calgary-region/)
+- [Monitor Amazon WorkSpaces instances via CloudWatch Automatic dashboard](https://aws.amazon.com/about-aws/whats-new/2024/03/monitor-amazon-workspaces-cloudwatch-automatic-dashboard/)
 - [AWS Fault Injection Service announces target preview for experiments](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-fault-injection-service-target-preview-experiments/)
 - [Mountpoint for Amazon S3 CSI driver now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2024/03/mountpoint-amazon-s3-csi-driver-bottlerocket/)
 - [Automate deployment of SAP S/4HANA Foundation and S/4HANA 2023 on AWS](https://aws.amazon.com/about-aws/whats-new/2024/03/automate-sap-s-4-hana-foundation-2023-aws/)
 - [Amazon EFS now supports up to 20 GiB/s of throughput](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-efs-supports-20-gibs-throughput/)
-- [Amazon S3 Connector for PyTorch now supports writing checkpoints with PyTorch Lightning](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-connector-pytorch-checkpoints-lightning/)
-- [Amazon S3 on Outposts reduces first-byte latencies for object API requests](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-s3-outposts-first-byte-latencies-object-api-requests/)
-- [Amazon EC2 M6gd instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m6gd-instances-govcloud-us-regions/)
-- [AWS Backup now supports restore testing for Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-restore-testing-amazon-ebs-snapshots-archive/)
-- [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
-- [Operationalize forecasting models and Fine-tuned FMs with SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/03/operationalize-forecasting-models-fine-tuned-fms-sagemaker-canvas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream for InfluxDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-timestream-influxdb-available/)
 - [AWS Backup is now available in AWS Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-canada-west-calgary/)
 - [Amazon MSK Replicator now supports replicating existing data on Kafka topics](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-replicator-existing-data-kafka-topics/)
 - [Application Load Balancer enables configuring HTTP client keepalive duration](https://aws.amazon.com/about-aws/whats-new/2024/03/application-load-balancer-http-keepalive-duration/)
@@ -67,7 +68,6 @@
 - [AWS Batch now supports alerts to detect and react to jobs stuck in RUNNABLE state](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-alerts-detect-jobs-runnable-state/)
 - [Amazon DynamoDB local upgrades to Jetty 12 and JDK 17](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-local-upgrades-jetty-12-jdk-17/)
 - [AWS CloudFormation accelerates dev-test cycle with new validation checks for stack operations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-new-validation-checks-stack-operations/)
-- [Amazon Neptune Analytics is now available in the AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-analytics-aws-europe-london-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

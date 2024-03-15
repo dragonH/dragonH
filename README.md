@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics now supports 30-day historical data on canary runs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cloudwatch-synthetics-30-day-historical-data-canary-runs/)
+- [Amazon SES now provides guided onboarding to achieve fully authenticated sending](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-guided-onboarding-fully-authenticated-sending/)
 - [Amazon Timestream for InfluxDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-timestream-influxdb-available/)
 - [AWS Backup is now available in AWS Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-canada-west-calgary/)
 - [Amazon MSK Replicator now supports replicating existing data on Kafka topics](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-replicator-existing-data-kafka-topics/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 now supports tagging when registering or copying AMIs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-tagging-registering-copying-amis/)
 - [Amazon Cognito is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-europe-zurich-region/)
 - [AWS Batch now supports alerts to detect and react to jobs stuck in RUNNABLE state](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-alerts-detect-jobs-runnable-state/)
-- [Amazon DynamoDB local upgrades to Jetty 12 and JDK 17](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-local-upgrades-jetty-12-jdk-17/)
-- [AWS CloudFormation accelerates dev-test cycle with new validation checks for stack operations](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-new-validation-checks-stack-operations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

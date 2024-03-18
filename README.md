@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Melbourne&rpar;  AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-identity-center-melbourne-region/)
+- [Get visibility to your auto deployment configuration with a new StackSets API](https://aws.amazon.com/about-aws/whats-new/2024/03/visibility-auto-deployment-configuration-stacksets-api/)
+- [Amazon Athena is now available in AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-athena-aws-canada-west-calgary-region/)
 - [Introducing Service-linked role for AWS Marketplace Resale Authorization](https://aws.amazon.com/about-aws/whats-new/2024/03/service-linked-role-aws-marketplace-resale-authorization/)
 - [Amazon CloudWatch Synthetics now supports 30-day historical data on canary runs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cloudwatch-synthetics-30-day-historical-data-canary-runs/)
 - [Amazon SES now provides guided onboarding to achieve fully authenticated sending](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-guided-onboarding-fully-authenticated-sending/)
@@ -65,9 +68,6 @@
 - [AWS Backup is now available in AWS Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-canada-west-calgary/)
 - [Amazon MSK Replicator now supports replicating existing data on Kafka topics](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-replicator-existing-data-kafka-topics/)
 - [Application Load Balancer enables configuring HTTP client keepalive duration](https://aws.amazon.com/about-aws/whats-new/2024/03/application-load-balancer-http-keepalive-duration/)
-- [AWS Signer launches signing container images in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-signer-container-images-govcloud-us-regions/)
-- [Amazon EC2 now supports tagging when registering or copying AMIs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-tagging-registering-copying-amis/)
-- [Amazon Cognito is now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cognito-europe-zurich-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

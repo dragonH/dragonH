@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Amazon SageMaker integration with NVIDIA NIM inference microservices](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sagemaker-integration-nvidia-nim-microservices/)
 - [Amazon Managed Service for Apache Flink adds support for Apache Flink 1.18](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-support-1-18/)
 - [Amazon Managed Service for Apache Flink adds in-place version upgrades for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-version-upgrades/)
 - [AWS Secrets Manager announces support for Amazon Redshift Serverless data warehouse](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-secrets-manager-redshift-serverless-data-warehouse/)
@@ -67,7 +68,6 @@
 - [Amazon Athena is now available in AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-athena-aws-canada-west-calgary-region/)
 - [Introducing Service-linked role for AWS Marketplace Resale Authorization](https://aws.amazon.com/about-aws/whats-new/2024/03/service-linked-role-aws-marketplace-resale-authorization/)
 - [Amazon SES now provides guided onboarding to achieve fully authenticated sending](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-guided-onboarding-fully-authenticated-sending/)
-- [Amazon Timestream for InfluxDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-timestream-influxdb-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

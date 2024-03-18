@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Synthetics now supports 30-day historical data on canary runs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cloudwatch-synthetics-30-day-historical-data-canary-runs/)
 - [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Melbourne&rpar;  AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-identity-center-melbourne-region/)
 - [Get visibility to your auto deployment configuration with a new StackSets API](https://aws.amazon.com/about-aws/whats-new/2024/03/visibility-auto-deployment-configuration-stacksets-api/)
 - [Amazon Athena is now available in AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-athena-aws-canada-west-calgary-region/)
 - [Introducing Service-linked role for AWS Marketplace Resale Authorization](https://aws.amazon.com/about-aws/whats-new/2024/03/service-linked-role-aws-marketplace-resale-authorization/)
-- [Amazon CloudWatch Synthetics now supports 30-day historical data on canary runs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cloudwatch-synthetics-30-day-historical-data-canary-runs/)
 - [Amazon SES now provides guided onboarding to achieve fully authenticated sending](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-guided-onboarding-fully-authenticated-sending/)
 - [Amazon Timestream for InfluxDB is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-timestream-influxdb-available/)
 - [AWS Backup is now available in AWS Canada West &lpar;Calgary&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-backup-canada-west-calgary/)

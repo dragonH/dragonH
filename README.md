@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild now supports custom images for AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codebuild-custom-images-lambda-compute/)
+- [AWS Elemental MediaTailor now supports program rules in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-elemental-mediatailor-program-rules-channel-assembly/)
 - [Amazon DynamoDB now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-aws-privatelink/)
 - [New Amazon SageMaker integration with NVIDIA NIM inference microservices](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sagemaker-integration-nvidia-nim-microservices/)
 - [Amazon Managed Service for Apache Flink adds support for Apache Flink 1.18](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-support-1-18/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch Synthetics now supports 30-day historical data on canary runs](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-cloudwatch-synthetics-30-day-historical-data-canary-runs/)
 - [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Melbourne&rpar;  AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-identity-center-melbourne-region/)
 - [Get visibility to your auto deployment configuration with a new StackSets API](https://aws.amazon.com/about-aws/whats-new/2024/03/visibility-auto-deployment-configuration-stacksets-api/)
-- [Amazon Athena is now available in AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-athena-aws-canada-west-calgary-region/)
-- [Introducing Service-linked role for AWS Marketplace Resale Authorization](https://aws.amazon.com/about-aws/whats-new/2024/03/service-linked-role-aws-marketplace-resale-authorization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

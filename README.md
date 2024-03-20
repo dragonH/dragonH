@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces a 7-day window to return Savings Plans](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-7-day-window-return-savings-plans/)
 - [Amazon DynamoDB now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-resource-based-policies/)
 - [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
 - [AWS License Manager now allows you to track IBM Db2 licenses on Amazon Relational Database Service &lpar;RDS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/)
@@ -67,7 +68,6 @@
 - [Amazon FinSpace with Managed kdb Insights now supports kdb database maintenance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-finspace-managed-kdb-insights-database-maintenance/)
 - [Amazon Corretto 22 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-corretto-22-generally-available/)
 - [AWS CodeBuild now supports custom images for AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codebuild-custom-images-lambda-compute/)
-- [AWS Elemental MediaTailor now supports program rules in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-elemental-mediatailor-program-rules-channel-assembly/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

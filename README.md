@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
 - [AWS License Manager now allows you to track IBM Db2 licenses on Amazon Relational Database Service &lpar;RDS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/)
 - [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-database-aws-asia-pacific-osaka-region/)
 - [Amazon Aurora zero-ETL integration with Amazon Redshift announces support for data filtering and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/)
@@ -67,7 +68,6 @@
 - [AWS CodeBuild now supports custom images for AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codebuild-custom-images-lambda-compute/)
 - [AWS Elemental MediaTailor now supports program rules in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-elemental-mediatailor-program-rules-channel-assembly/)
 - [Amazon DynamoDB now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-aws-privatelink/)
-- [New Amazon SageMaker integration with NVIDIA NIM inference microservices](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sagemaker-integration-nvidia-nim-microservices/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

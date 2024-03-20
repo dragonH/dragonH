@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager now allows you to track IBM Db2 licenses on Amazon Relational Database Service &lpar;RDS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/)
+- [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-database-aws-asia-pacific-osaka-region/)
 - [Amazon Aurora zero-ETL integration with Amazon Redshift announces support for data filtering and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/)
 - [Amazon WorkMail now supports Audit Logging](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workmail-audit-logging/)
 - [Amazon FinSpace with Managed kdb Insights now supports kdb database maintenance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-finspace-managed-kdb-insights-database-maintenance/)
@@ -66,8 +68,6 @@
 - [AWS Elemental MediaTailor now supports program rules in Channel Assembly](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-elemental-mediatailor-program-rules-channel-assembly/)
 - [Amazon DynamoDB now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-aws-privatelink/)
 - [New Amazon SageMaker integration with NVIDIA NIM inference microservices](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sagemaker-integration-nvidia-nim-microservices/)
-- [Amazon Managed Service for Apache Flink adds support for Apache Flink 1.18](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-support-1-18/)
-- [Amazon Managed Service for Apache Flink adds in-place version upgrades for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-apache-flink-version-upgrades/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

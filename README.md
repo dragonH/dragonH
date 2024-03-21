@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Package Group Configuration in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2024/03/package-group-configuration-aws-codeartifact/)
+- [Amazon RDS Multi-AZ deployments with readable standby instances now support C6gd database instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-multi-az-deployments-standby-c6gd-instances/)
 - [Amazon Kinesis Data Streams launches cross-account access with AWS Lambda in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/)
 - [EC2 Mac Dedicated Hosts now provide visibility into supported macOS versions](https://aws.amazon.com/about-aws/whats-new/2024/03/ec2-mac-dedicated-hosts-visibility-supported-macos-versions/)
 - [Amazon DataZone launches enhancements to Amazon Redshift integration](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-datazone-enhancements-redshift-integration/)
@@ -66,8 +68,6 @@
 - [Amazon DynamoDB now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-resource-based-policies/)
 - [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
 - [AWS License Manager now allows you to track IBM Db2 licenses on Amazon Relational Database Service &lpar;RDS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/)
-- [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-database-aws-asia-pacific-osaka-region/)
-- [Amazon Aurora zero-ETL integration with Amazon Redshift announces support for data filtering and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

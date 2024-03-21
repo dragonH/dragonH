@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Mac Dedicated Hosts now provide visibility into supported macOS versions](https://aws.amazon.com/about-aws/whats-new/2024/03/ec2-mac-dedicated-hosts-visibility-supported-macos-versions/)
+- [Amazon DataZone launches enhancements to Amazon Redshift integration](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-datazone-enhancements-redshift-integration/)
+- [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports listing unspent transaction outputs &lpar;UTXOs&rpar; on Bitcoin blockchain networks](https://aws.amazon.com/about-aws/whats-new/2024/03/amb-query-listing-utxos-bitcoin-blockchain-networks/)
 - [AWS announces a 7-day window to return Savings Plans](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-7-day-window-return-savings-plans/)
 - [Amazon DynamoDB now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-resource-based-policies/)
 - [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
@@ -65,9 +68,6 @@
 - [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-database-aws-asia-pacific-osaka-region/)
 - [Amazon Aurora zero-ETL integration with Amazon Redshift announces support for data filtering and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/)
 - [Amazon WorkMail now supports Audit Logging](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workmail-audit-logging/)
-- [Amazon FinSpace with Managed kdb Insights now supports kdb database maintenance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-finspace-managed-kdb-insights-database-maintenance/)
-- [Amazon Corretto 22 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-corretto-22-generally-available/)
-- [AWS CodeBuild now supports custom images for AWS Lambda compute](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codebuild-custom-images-lambda-compute/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

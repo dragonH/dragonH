@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Streams launches cross-account access with AWS Lambda in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/)
 - [EC2 Mac Dedicated Hosts now provide visibility into supported macOS versions](https://aws.amazon.com/about-aws/whats-new/2024/03/ec2-mac-dedicated-hosts-visibility-supported-macos-versions/)
 - [Amazon DataZone launches enhancements to Amazon Redshift integration](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-datazone-enhancements-redshift-integration/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports listing unspent transaction outputs &lpar;UTXOs&rpar; on Bitcoin blockchain networks](https://aws.amazon.com/about-aws/whats-new/2024/03/amb-query-listing-utxos-bitcoin-blockchain-networks/)
@@ -67,7 +68,6 @@
 - [AWS License Manager now allows you to track IBM Db2 licenses on Amazon Relational Database Service &lpar;RDS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/)
 - [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-neptune-database-aws-asia-pacific-osaka-region/)
 - [Amazon Aurora zero-ETL integration with Amazon Redshift announces support for data filtering and CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-aurora-zero-etl-integration-redshift-data-filtering-cloudformation/)
-- [Amazon WorkMail now supports Audit Logging](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-workmail-audit-logging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

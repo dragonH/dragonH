@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK Connect now supports deleting worker configurations and tagging resources](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-connect-deleting-worker-configurations-tagging-resources/)
+- [Introducing the Bedrock GenAI chatbot blueprint in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/03/bedrock-genai-chatbot-blueprint-amazon-codecatalyst/)
+- [Amazon EMR Serverless achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-fedramp-moderate-compliance/)
 - [Announcing Package Group Configuration in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2024/03/package-group-configuration-aws-codeartifact/)
 - [Amazon RDS Multi-AZ deployments with readable standby instances now support C6gd database instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-multi-az-deployments-standby-c6gd-instances/)
 - [Amazon Kinesis Data Streams launches cross-account access with AWS Lambda in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/)
@@ -65,9 +68,6 @@
 - [Amazon DataZone launches enhancements to Amazon Redshift integration](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-datazone-enhancements-redshift-integration/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports listing unspent transaction outputs &lpar;UTXOs&rpar; on Bitcoin blockchain networks](https://aws.amazon.com/about-aws/whats-new/2024/03/amb-query-listing-utxos-bitcoin-blockchain-networks/)
 - [AWS announces a 7-day window to return Savings Plans](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-7-day-window-return-savings-plans/)
-- [Amazon DynamoDB now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-resource-based-policies/)
-- [AWS ParallelCluster 3.9 with support for RHEL 9, Rocky Linux 9 and dynamic cluster capacity updates](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-parallelcluster-3-9-rhel-rocky-linux-dynamic-updates/)
-- [AWS License Manager now allows you to track IBM Db2 licenses on Amazon Relational Database Service &lpar;RDS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-license-manager-track-ibm-db2-licenses-amazon-rds/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

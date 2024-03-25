@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect agent workspace supports third-party applications in general availability](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-agent-workspace-third-party-apps/)
 - [Amazon MSK Connect now supports deleting worker configurations and tagging resources](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-connect-deleting-worker-configurations-tagging-resources/)
 - [Introducing the Bedrock GenAI chatbot blueprint in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/03/bedrock-genai-chatbot-blueprint-amazon-codecatalyst/)
 - [Amazon EMR Serverless achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-fedramp-moderate-compliance/)
@@ -67,7 +68,6 @@
 - [EC2 Mac Dedicated Hosts now provide visibility into supported macOS versions](https://aws.amazon.com/about-aws/whats-new/2024/03/ec2-mac-dedicated-hosts-visibility-supported-macos-versions/)
 - [Amazon DataZone launches enhancements to Amazon Redshift integration](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-datazone-enhancements-redshift-integration/)
 - [Amazon Managed Blockchain &lpar;AMB&rpar; Query now supports listing unspent transaction outputs &lpar;UTXOs&rpar; on Bitcoin blockchain networks](https://aws.amazon.com/about-aws/whats-new/2024/03/amb-query-listing-utxos-bitcoin-blockchain-networks/)
-- [AWS announces a 7-day window to return Savings Plans](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-7-day-window-return-savings-plans/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lightsail expands blueprint selection with support for AlmaLinux 9](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-lightsail-blueprint-selection-support-almalinux-9/)
 - [Amazon Connect Contact Lens now provides generative AI-powered post-contact summaries &lpar;generally available&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-generative-ai-powered-post-contact-summaries/)
 - [IAM Roles Anywhere now offers credentials that are valid for up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2024/03/iam-roles-anywhere-credentials-valid-12-hours/)
 - [Amazon Connect Contact Lens now automates agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-automates-agent-performance-evaluations/)
@@ -67,7 +68,6 @@
 - [Amazon EMR Serverless achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-fedramp-moderate-compliance/)
 - [Announcing Package Group Configuration in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2024/03/package-group-configuration-aws-codeartifact/)
 - [Amazon RDS Multi-AZ deployments with readable standby instances now support C6gd database instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-multi-az-deployments-standby-c6gd-instances/)
-- [Amazon Kinesis Data Streams launches cross-account access with AWS Lambda in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-kinesis-data-streams-cross-account-access-aws-lambda-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer now supports 51 new EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-compute-optimizer-51-ec2-instance-types/)
 - [Amazon Chime SDK provides API endpoints for media pipelines in Seoul, Mumbai, Sydney, Tokyo, Canada, and London](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-chime-sdk-api-endpoints-media-pipelines-seoul-mumbai-sydney-tokyo-canada-london/)
 - [Amazon Linux announces new quarterly update with AL2023.4 and availability of EKS optimized AMI](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-linux-quarterly-update-eks-optimized-ami/)
 - [AWS Batch now offers multi-container jobs via AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-multi-container-jobs-aws-management-console/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Contact Lens now provides generative AI-powered post-contact summaries &lpar;generally available&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-generative-ai-powered-post-contact-summaries/)
 - [IAM Roles Anywhere now offers credentials that are valid for up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2024/03/iam-roles-anywhere-credentials-valid-12-hours/)
 - [Amazon Connect Contact Lens now automates agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-automates-agent-performance-evaluations/)
-- [Amazon Connect agent workspace supports third-party applications in general availability](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-agent-workspace-third-party-apps/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

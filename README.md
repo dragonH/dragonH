@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Linux announces new quarterly update with AL2023.4 and availability of EKS optimized AMI](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-linux-quarterly-update-eks-optimized-ami/)
+- [AWS Batch now offers multi-container jobs via AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-batch-multi-container-jobs-aws-management-console/)
+- [AWS B2B Data Interchange now publishes events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-b2b-data-interchange-publishes-events-amazon-eventbridge/)
+- [Set IMDSv2 as default for all new instance launches in your account](https://aws.amazon.com/about-aws/whats-new/2024/03/set-imdsv2-default-new-instance-launches/)
 - [Amazon Lightsail expands blueprint selection with support for AlmaLinux 9](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-lightsail-blueprint-selection-support-almalinux-9/)
 - [Amazon Connect Contact Lens now provides generative AI-powered post-contact summaries &lpar;generally available&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-generative-ai-powered-post-contact-summaries/)
 - [IAM Roles Anywhere now offers credentials that are valid for up to 12 hours](https://aws.amazon.com/about-aws/whats-new/2024/03/iam-roles-anywhere-credentials-valid-12-hours/)
 - [Amazon Connect Contact Lens now automates agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-contact-lens-automates-agent-performance-evaluations/)
 - [Amazon Connect agent workspace supports third-party applications in general availability](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-agent-workspace-third-party-apps/)
 - [Amazon MSK Connect now supports deleting worker configurations and tagging resources](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-msk-connect-deleting-worker-configurations-tagging-resources/)
-- [Introducing the Bedrock GenAI chatbot blueprint in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/03/bedrock-genai-chatbot-blueprint-amazon-codecatalyst/)
-- [Amazon EMR Serverless achieves FedRAMP Moderate compliance](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-emr-serverless-fedramp-moderate-compliance/)
-- [Announcing Package Group Configuration in AWS CodeArtifact](https://aws.amazon.com/about-aws/whats-new/2024/03/package-group-configuration-aws-codeartifact/)
-- [Amazon RDS Multi-AZ deployments with readable standby instances now support C6gd database instances](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-rds-multi-az-deployments-standby-c6gd-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

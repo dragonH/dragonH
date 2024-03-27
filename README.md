@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AI recommendations for descriptions in Amazon DataZone now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/ai-recommendations-descriptions-amazon-datazone/)
 - [ElastiCache encryption at rest is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/elasticache-encryption-at-rest-govcloud-us-regions/)
 - [Announcing increased default quotas for CloudWatch Logs APIs](https://aws.amazon.com/about-aws/whats-new/2024/03/increased-default-quotas-cloudwatch-logs-apis/)
 - [Migrate existing domains to new SageMaker Studio via SageMaker Console](https://aws.amazon.com/about-aws/whats-new/2024/03/migrate-existing-domains-sagemaker-studio-console/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower now supports APIs in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-control-tower-apis-govcloud-us-regions/)
 - [AWS Lambda Functions powered by AWS Graviton2 now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-lambda-functions-graviton2-govcloud-us-regions/)
 - [AWS Elemental MediaLive now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-elemental-medialive-middle-east-uae-region/)
-- [AWS Elemental MediaLive now available in Asia Pacific &lpar;Hyderabad&rpar;  region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-elemental-medialive-asia-pacific-hyderabad-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

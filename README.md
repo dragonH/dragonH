@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cost Allocation Tags now support retroactive application](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cost-allocation-tags-retroactive-application/)
 - [AWS Global Accelerator adds support for five new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-global-accelerator-five-cloudwatch-metrics/)
 - [AI recommendations for descriptions in Amazon DataZone now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/ai-recommendations-descriptions-amazon-datazone/)
 - [ElastiCache encryption at rest is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/elasticache-encryption-at-rest-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [AWS Cloud WAN and AWS Network Manager are now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloud-wan-network-manager-asia-pacific-jakarta-region/)
 - [CodeCatalyst workflows runtime image selection](https://aws.amazon.com/about-aws/whats-new/2024/03/codecatalyst-workflows-runtime-image-selection/)
 - [AWS Control Tower now supports APIs in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-control-tower-apis-govcloud-us-regions/)
-- [AWS Lambda Functions powered by AWS Graviton2 now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-lambda-functions-graviton2-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

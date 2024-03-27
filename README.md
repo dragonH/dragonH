@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECR announces an improved version of basic scanning &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ecr-improved-basic-scanning-preview/)
+- [ElastiCache Serverless adds more controls for scaling](https://aws.amazon.com/about-aws/whats-new/2024/03/elasticache-serverless-controls-scaling/)
 - [AWS Cost Allocation Tags now support retroactive application](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cost-allocation-tags-retroactive-application/)
 - [AWS Global Accelerator adds support for five new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-global-accelerator-five-cloudwatch-metrics/)
 - [AI recommendations for descriptions in Amazon DataZone now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/ai-recommendations-descriptions-amazon-datazone/)
@@ -66,8 +68,6 @@
 - [Migrate existing domains to new SageMaker Studio via SageMaker Console](https://aws.amazon.com/about-aws/whats-new/2024/03/migrate-existing-domains-sagemaker-studio-console/)
 - [AWS Systems Manager now supports RHEL 8.9 and 9.3](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-systems-manager-rhel-supports-8-9/)
 - [AWS Cloud WAN and AWS Network Manager are now available in AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloud-wan-network-manager-asia-pacific-jakarta-region/)
-- [CodeCatalyst workflows runtime image selection](https://aws.amazon.com/about-aws/whats-new/2024/03/codecatalyst-workflows-runtime-image-selection/)
-- [AWS Control Tower now supports APIs in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-control-tower-apis-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

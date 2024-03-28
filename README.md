@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7a instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ec2-m7a-instances-additional-regions/)
+- [AWS Billing and Cost Management Data Exports now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-billing-cost-management-data-exports-cloudformation/)
 - [AWS announces a new Local Zone in Miami](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-new-local-zone-miami/)
 - [AWS CloudFormation Console now supports visualization of stacks in Application Composer](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-console-visualization-stacks-application-composer/)
 - [Amazon SNS now supports FIFO topics in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sns-fifo-topics-canada-west-calgary-region/)
@@ -66,8 +68,6 @@
 - [New ECS-Optimized AMIs support AL2 Kernel 5.10 for GPU and Inf Instances](https://aws.amazon.com/about-aws/whats-new/2024/03/ecs-optimized-amis-al2-kernel-5-10-gpu-inf-instances/)
 - [Amazon EventBridge announces Confluent Cloud integration in the AWS console](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-eventbridge-confluent-cloud-integration-console/)
 - [Amazon DynamoDB Import from S3 now supports up to 50,000 Amazon S3 objects in a single bulk import](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-import-s3-50000-objects-single-bulk-import/)
-- [Amazon ECR announces an improved version of basic scanning &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ecr-improved-basic-scanning-preview/)
-- [ElastiCache Serverless adds more controls for scaling](https://aws.amazon.com/about-aws/whats-new/2024/03/elasticache-serverless-controls-scaling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

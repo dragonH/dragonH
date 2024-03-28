@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS now supports Slack Connect for AWS sales to collaborate with customer and partners](https://aws.amazon.com/about-aws/whats-new/2024/03/slack-connect-aws-sales-collaborate-customers-partners/)
+- [New ECS-Optimized AMIs support AL2 Kernel 5.10 for GPU and Inf Instances](https://aws.amazon.com/about-aws/whats-new/2024/03/ecs-optimized-amis-al2-kernel-5-10-gpu-inf-instances/)
+- [Amazon EventBridge announces Confluent Cloud integration in the AWS console](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-eventbridge-confluent-cloud-integration-console/)
 - [Amazon DynamoDB Import from S3 now supports up to 50,000 Amazon S3 objects in a single bulk import](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-dynamodb-import-s3-50000-objects-single-bulk-import/)
 - [Amazon ECR announces an improved version of basic scanning &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ecr-improved-basic-scanning-preview/)
 - [ElastiCache Serverless adds more controls for scaling](https://aws.amazon.com/about-aws/whats-new/2024/03/elasticache-serverless-controls-scaling/)
@@ -65,9 +68,6 @@
 - [AWS Global Accelerator adds support for five new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-global-accelerator-five-cloudwatch-metrics/)
 - [AI recommendations for descriptions in Amazon DataZone now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/ai-recommendations-descriptions-amazon-datazone/)
 - [ElastiCache encryption at rest is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/elasticache-encryption-at-rest-govcloud-us-regions/)
-- [Announcing increased default quotas for CloudWatch Logs APIs](https://aws.amazon.com/about-aws/whats-new/2024/03/increased-default-quotas-cloudwatch-logs-apis/)
-- [Migrate existing domains to new SageMaker Studio via SageMaker Console](https://aws.amazon.com/about-aws/whats-new/2024/03/migrate-existing-domains-sagemaker-studio-console/)
-- [AWS Systems Manager now supports RHEL 8.9 and 9.3](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-systems-manager-rhel-supports-8-9/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

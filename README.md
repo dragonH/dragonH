@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Prometheus collector now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-prometheus-collector-cloudformation/)
 - [AWS B2B Data Interchange supports additional finance, transportation, supply chain X12 transactions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-b2b-data-interchange-finance-transportation-supply-x12/)
 - [Tax dashboard now generally available for AWS Marketplace Sellers](https://aws.amazon.com/about-aws/whats-new/2024/03/tax-dashboard-generally-available-aws-marketplace-sellers/)
 - [AWS Wickr is now available in additional AWS Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-wickr-additional-asia-pacific-regions/)
@@ -67,7 +68,6 @@
 - [AWS Billing and Cost Management Data Exports now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-billing-cost-management-data-exports-cloudformation/)
 - [AWS announces a new Local Zone in Miami](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-new-local-zone-miami/)
 - [AWS CloudFormation Console now supports visualization of stacks in Application Composer](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-cloudformation-console-visualization-stacks-application-composer/)
-- [Amazon SNS now supports FIFO topics in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sns-fifo-topics-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

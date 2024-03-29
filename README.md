@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect forecasting, capacity planning, and scheduling are now generally available in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-forecasting-capacity-planning-scheduling-additional-aws-regions/)
+- [Introducing AWS CodeConnections, formerly known as AWS CodeStar Connections](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codeconnections-formerly-codestar-connections/)
 - [AWS adds Managed Policies to VSS to help ensure valid application consistent backups](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-managed-policies-vss-ensure-valid-application-consistent-backups/)
 - [AWS IoT Core for LoRaWAN adds metrics monitoring capability](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-iot-core-lorawan-metrics-monitoring-capability/)
 - [Amazon GuardDuty EC2 Runtime Monitoring is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-guardduty-ec2-runtime-monitoring-available/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Canvas announces new pricing for training tabular models](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sagemaker-canvas-pricing-tabular-models/)
 - [Amazon Managed Service for Prometheus collector now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-prometheus-collector-cloudformation/)
 - [AWS B2B Data Interchange supports additional finance, transportation, supply chain X12 transactions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-b2b-data-interchange-finance-transportation-supply-x12/)
-- [Tax dashboard now generally available for AWS Marketplace Sellers](https://aws.amazon.com/about-aws/whats-new/2024/03/tax-dashboard-generally-available-aws-marketplace-sellers/)
-- [AWS Wickr is now available in additional AWS Asia Pacific Regions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-wickr-additional-asia-pacific-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

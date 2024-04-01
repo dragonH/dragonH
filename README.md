@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EC2 now gracefully replaces unhealthy core nodes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-ec2-gracefully-replaces-unhealthy-core-nodes/)
 - [Knowledge Bases for Amazon Bedrock now supports private network policies for OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-private-network-policies-opensearch-serverless/)
 - [Private Access to the AWS Management Console is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/private-access-aws-management-console-commercial-regions/)
 - [Amazon AppStream 2.0 can now launch IdP-initiated sessions using the Windows client](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-appstream-2-0-idp-initiated-sessions-windows-client/)
@@ -67,7 +68,6 @@
 - [Amazon EventBridge announces an improved Learn page and other console enhancements](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-console-enhancements/)
 - [Partner Analytics is now Analytics and Insights](https://aws.amazon.com/about-aws/whats-new/2024/04/partner-analytics-now-analytics-insights/)
 - [AWS Resilience Hub expands support for FSx for Windows and Trust Advisor](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-fsx-windows-trust-advisor/)
-- [Amazon Connect forecasting, capacity planning, and scheduling are now generally available in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-forecasting-capacity-planning-scheduling-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

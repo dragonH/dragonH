@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server supports Single-AZ Read Replica](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-single-az-read-replica/)
+- [Amazon Transcribe launches Spanish language support for PII identification and redaction](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-spanish-language-pii-identification-redaction/)
 - [Announcing per-second billing for EC2 Red Hat Enterprise Linux &lpar;RHEL&rpar;-based instances](https://aws.amazon.com/about-aws/whats-new/2024/04/per-second-billing-ec2-rhel-based-instances/)
 - [Amazon EventBridge announces an improved Learn page and other console enhancements](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-console-enhancements/)
 - [Partner Analytics is now Analytics and Insights](https://aws.amazon.com/about-aws/whats-new/2024/04/partner-analytics-now-analytics-insights/)
@@ -66,8 +68,6 @@
 - [Introducing AWS CodeConnections, formerly known as AWS CodeStar Connections](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codeconnections-formerly-codestar-connections/)
 - [AWS adds Managed Policies to VSS to help ensure valid application consistent backups](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-managed-policies-vss-ensure-valid-application-consistent-backups/)
 - [AWS IoT Core for LoRaWAN adds metrics monitoring capability](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-iot-core-lorawan-metrics-monitoring-capability/)
-- [Amazon GuardDuty EC2 Runtime Monitoring is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-guardduty-ec2-runtime-monitoring-available/)
-- [Knowledge Bases for Amazon Bedrock now lets you customize prompts and number of retrieval results](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-customize-prompts-number-retrieval-results/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

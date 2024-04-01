@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Knowledge Bases for Amazon Bedrock now supports private network policies for OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-private-network-policies-opensearch-serverless/)
+- [Private Access to the AWS Management Console is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/private-access-aws-management-console-commercial-regions/)
+- [Amazon AppStream 2.0 can now launch IdP-initiated sessions using the Windows client](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-appstream-2-0-idp-initiated-sessions-windows-client/)
 - [Amazon RDS for SQL Server supports Single-AZ Read Replica](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-single-az-read-replica/)
 - [Amazon Transcribe launches Spanish language support for PII identification and redaction](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-spanish-language-pii-identification-redaction/)
 - [Announcing per-second billing for EC2 Red Hat Enterprise Linux &lpar;RHEL&rpar;-based instances](https://aws.amazon.com/about-aws/whats-new/2024/04/per-second-billing-ec2-rhel-based-instances/)
@@ -65,9 +68,6 @@
 - [Partner Analytics is now Analytics and Insights](https://aws.amazon.com/about-aws/whats-new/2024/04/partner-analytics-now-analytics-insights/)
 - [AWS Resilience Hub expands support for FSx for Windows and Trust Advisor](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-fsx-windows-trust-advisor/)
 - [Amazon Connect forecasting, capacity planning, and scheduling are now generally available in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-forecasting-capacity-planning-scheduling-additional-aws-regions/)
-- [Introducing AWS CodeConnections, formerly known as AWS CodeStar Connections](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codeconnections-formerly-codestar-connections/)
-- [AWS adds Managed Policies to VSS to help ensure valid application consistent backups](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-managed-policies-vss-ensure-valid-application-consistent-backups/)
-- [AWS IoT Core for LoRaWAN adds metrics monitoring capability](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-iot-core-lorawan-metrics-monitoring-capability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

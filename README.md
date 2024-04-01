@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing per-second billing for EC2 Red Hat Enterprise Linux &lpar;RHEL&rpar;-based instances](https://aws.amazon.com/about-aws/whats-new/2024/04/per-second-billing-ec2-rhel-based-instances/)
 - [Amazon EventBridge announces an improved Learn page and other console enhancements](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-console-enhancements/)
 - [Partner Analytics is now Analytics and Insights](https://aws.amazon.com/about-aws/whats-new/2024/04/partner-analytics-now-analytics-insights/)
 - [AWS Resilience Hub expands support for FSx for Windows and Trust Advisor](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-fsx-windows-trust-advisor/)
@@ -67,7 +68,6 @@
 - [AWS IoT Core for LoRaWAN adds metrics monitoring capability](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-iot-core-lorawan-metrics-monitoring-capability/)
 - [Amazon GuardDuty EC2 Runtime Monitoring is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-guardduty-ec2-runtime-monitoring-available/)
 - [Knowledge Bases for Amazon Bedrock now lets you customize prompts and number of retrieval results](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-customize-prompts-number-retrieval-results/)
-- [AWS Amplify Hosting is generally available in the Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-amplify-hosting-asia-pacific-osaka-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

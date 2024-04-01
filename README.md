@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge announces an improved Learn page and other console enhancements](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-console-enhancements/)
+- [Partner Analytics is now Analytics and Insights](https://aws.amazon.com/about-aws/whats-new/2024/04/partner-analytics-now-analytics-insights/)
+- [AWS Resilience Hub expands support for FSx for Windows and Trust Advisor](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-fsx-windows-trust-advisor/)
 - [Amazon Connect forecasting, capacity planning, and scheduling are now generally available in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-connect-forecasting-capacity-planning-scheduling-additional-aws-regions/)
 - [Introducing AWS CodeConnections, formerly known as AWS CodeStar Connections](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-codeconnections-formerly-codestar-connections/)
 - [AWS adds Managed Policies to VSS to help ensure valid application consistent backups](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-managed-policies-vss-ensure-valid-application-consistent-backups/)
@@ -65,9 +68,6 @@
 - [Amazon GuardDuty EC2 Runtime Monitoring is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-guardduty-ec2-runtime-monitoring-available/)
 - [Knowledge Bases for Amazon Bedrock now lets you customize prompts and number of retrieval results](https://aws.amazon.com/about-aws/whats-new/2024/03/knowledge-bases-amazon-bedrock-customize-prompts-number-retrieval-results/)
 - [AWS Amplify Hosting is generally available in the Asia Pacific &lpar;Osaka&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-amplify-hosting-asia-pacific-osaka-region/)
-- [Amazon SageMaker Canvas announces new pricing for training tabular models](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-sagemaker-canvas-pricing-tabular-models/)
-- [Amazon Managed Service for Prometheus collector now supports CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-managed-service-prometheus-collector-cloudformation/)
-- [AWS B2B Data Interchange supports additional finance, transportation, supply chain X12 transactions](https://aws.amazon.com/about-aws/whats-new/2024/03/aws-b2b-data-interchange-finance-transportation-supply-x12/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

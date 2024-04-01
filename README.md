@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS extended support for Kubernetes versions now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eks-support-kubernetes-versions/)
 - [Amazon EMR on EC2 now gracefully replaces unhealthy core nodes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-ec2-gracefully-replaces-unhealthy-core-nodes/)
 - [Knowledge Bases for Amazon Bedrock now supports private network policies for OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-private-network-policies-opensearch-serverless/)
 - [Private Access to the AWS Management Console is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/private-access-aws-management-console-commercial-regions/)
@@ -67,7 +68,6 @@
 - [Announcing per-second billing for EC2 Red Hat Enterprise Linux &lpar;RHEL&rpar;-based instances](https://aws.amazon.com/about-aws/whats-new/2024/04/per-second-billing-ec2-rhel-based-instances/)
 - [Amazon EventBridge announces an improved Learn page and other console enhancements](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-console-enhancements/)
 - [Partner Analytics is now Analytics and Insights](https://aws.amazon.com/about-aws/whats-new/2024/04/partner-analytics-now-analytics-insights/)
-- [AWS Resilience Hub expands support for FSx for Windows and Trust Advisor](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-fsx-windows-trust-advisor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

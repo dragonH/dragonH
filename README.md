@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Execute Chef 11-18 recipes on Windows using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2024/04/chef-11-18-recipes-windows-aws-systems-manager/)
+- [AWS Console Mobile Application adds support for CloudWatch custom dashboards](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-cloudwatch-custom-dashboards-console-mobile-app/)
+- [AWS AppSync increases existing service quota and adds subscription service quotas](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appsync-increases-service-quota-adds-subscription/)
+- [ElastiCache Serverless is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/elasticache-serverless-aws-govcloud-us-regions/)
+- [Amazon Aurora zero-ETL integration with Amazon Redshift now in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-zero-etl-integration-redshift-regions/)
+- [AWS Marketplace now supports demo and private offer requests for products](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-marketplace-demo-private-offer-requests-products/)
 - [Amazon EKS extended support for Kubernetes versions now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eks-support-kubernetes-versions/)
 - [Amazon EMR on EC2 now gracefully replaces unhealthy core nodes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-ec2-gracefully-replaces-unhealthy-core-nodes/)
 - [Knowledge Bases for Amazon Bedrock now supports private network policies for OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-private-network-policies-opensearch-serverless/)
 - [Private Access to the AWS Management Console is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/private-access-aws-management-console-commercial-regions/)
-- [Amazon AppStream 2.0 can now launch IdP-initiated sessions using the Windows client](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-appstream-2-0-idp-initiated-sessions-windows-client/)
-- [Amazon RDS for SQL Server supports Single-AZ Read Replica](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-single-az-read-replica/)
-- [Amazon Transcribe launches Spanish language support for PII identification and redaction](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-spanish-language-pii-identification-redaction/)
-- [Announcing per-second billing for EC2 Red Hat Enterprise Linux &lpar;RHEL&rpar;-based instances](https://aws.amazon.com/about-aws/whats-new/2024/04/per-second-billing-ec2-rhel-based-instances/)
-- [Amazon EventBridge announces an improved Learn page and other console enhancements](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eventbridge-console-enhancements/)
-- [Partner Analytics is now Analytics and Insights](https://aws.amazon.com/about-aws/whats-new/2024/04/partner-analytics-now-analytics-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [VPC Traffic Mirroring is now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/vpc-traffic-mirroring-seven-additional-regions/)
 - [Announcing AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/04/announcing-aws-deadline-cloud/)
 - [Run Chef 11-18 recipes on Windows using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2024/04/chef-11-18-recipes-windows-aws-systems-manager/)
 - [AWS Console Mobile Application adds support for CloudWatch custom dashboards](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-cloudwatch-custom-dashboards-console-mobile-app/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace now supports demo and private offer requests for products](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-marketplace-demo-private-offer-requests-products/)
 - [Amazon EKS extended support for Kubernetes versions now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-eks-support-kubernetes-versions/)
 - [Amazon EMR on EC2 now gracefully replaces unhealthy core nodes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-ec2-gracefully-replaces-unhealthy-core-nodes/)
-- [Knowledge Bases for Amazon Bedrock now supports private network policies for OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-private-network-policies-opensearch-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

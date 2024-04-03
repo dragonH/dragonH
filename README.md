@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports cross-account anomaly detection](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-cross-account-anomaly-detection/)
 - [Amazon Bedrock is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-europe-paris-region/)
 - [Amazon Timestream for LiveAnalytics achieves FedRAMP High Authorization in AWS GovCloud West Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-timestream-liveanalytics-fedramp-high-authorization-aws-govcloud-west-region/)
 - [VPC Traffic Mirroring is now available in seven additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/vpc-traffic-mirroring-seven-additional-regions/)
@@ -67,7 +68,6 @@
 - [AWS AppSync increases existing service quota and adds subscription service quotas](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appsync-increases-service-quota-adds-subscription/)
 - [ElastiCache Serverless is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/elasticache-serverless-aws-govcloud-us-regions/)
 - [Amazon Aurora zero-ETL integration with Amazon Redshift now in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-zero-etl-integration-redshift-regions/)
-- [AWS Marketplace now supports demo and private offer requests for products](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-marketplace-demo-private-offer-requests-products/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

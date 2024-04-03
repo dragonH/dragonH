@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms ML is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-ml-generally-available/)
 - [Mistral Large foundation model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/mistral-large-foundation-model-amazon-bedrock/)
 - [Amazon CloudWatch now supports cross-account anomaly detection](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-cross-account-anomaly-detection/)
 - [Amazon Bedrock is now available in the AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-europe-paris-region/)
@@ -67,7 +68,6 @@
 - [Run Chef 11-18 recipes on Windows using AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2024/04/chef-11-18-recipes-windows-aws-systems-manager/)
 - [AWS Console Mobile Application adds support for CloudWatch custom dashboards](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-cloudwatch-custom-dashboards-console-mobile-app/)
 - [AWS AppSync increases existing service quota and adds subscription service quotas](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appsync-increases-service-quota-adds-subscription/)
-- [ElastiCache Serverless is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/elasticache-serverless-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

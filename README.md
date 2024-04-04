@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Ingestion now supports enrichment of streaming data with geographical location](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-ingestion-streaming-data-geographical-location/)
+- [AWS Application Migration Service now supports migration of UEFI servers](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-application-migration-service-migration-uefi-servers/)
+- [AWS B2B Data Interchange is now HIPAA eligible and supports X12 version 5010 HIPAA transactions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-b2b-data-interchange-hipaa-eligible-x12-version-5010-hipaa-transactions/)
 - [Amazon SageMaker Studio Code Editor now supports custom images](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-studio-code-editor-custom-images/)
 - [ElastiCache Serverless is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/elasticache-serverless-aws-canada-west-calgary-region/)
 - [Amazon OpenSearch Service doubles storage for OR1 and expands to four more regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-service-doubles-storage-or1-four-regions/)
@@ -65,9 +68,6 @@
 - [AWS Transfer Family offers predefined security policies for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-predefined-security-policies-sftp-connectors/)
 - [Amazon DocumentDB is now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-documentdb-middle-east-uae-region/)
 - [Amazon DataZone launches integration with AWS Glue Data Quality](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-datazone-integration-glue-data-quality/)
-- [Amazon DataZone announces integration with AWS Lake Formation hybrid mode](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-datazone-integration-aws-lake-formation-hybrid-mode/)
-- [AWS Clean Rooms ML is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-ml-generally-available/)
-- [Mistral Large foundation model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/mistral-large-foundation-model-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

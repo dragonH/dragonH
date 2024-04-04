@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/)
 - [Amazon OpenSearch Ingestion now supports enrichment of streaming data with geographical location](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-ingestion-streaming-data-geographical-location/)
 - [AWS Application Migration Service now supports migration of UEFI servers](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-application-migration-service-migration-uefi-servers/)
 - [AWS B2B Data Interchange is now HIPAA eligible and supports X12 version 5010 HIPAA transactions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-b2b-data-interchange-hipaa-eligible-x12-version-5010-hipaa-transactions/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports M6gd database instances in six additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-m6gd-database-instances-additional-aws-regions/)
 - [AWS Transfer Family offers predefined security policies for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-predefined-security-policies-sftp-connectors/)
 - [Amazon DocumentDB is now available in the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-documentdb-middle-east-uae-region/)
-- [Amazon DataZone launches integration with AWS Glue Data Quality](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-datazone-integration-glue-data-quality/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

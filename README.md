@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Cross-account observability enabled for CloudWatch Internet Monitor](https://aws.amazon.com/about-aws/whats-new/2024/04/cross-account-observability-cloudwatch-internet-monitor/)
+- [Announcing general availability of Amazon EC2 G6 instances](https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/)
 - [Amazon SageMaker notebooks now support P5, C6i, C7i, M6i, M7i, R6i, and R7i instance types](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-notebooks-p5-c6i-c7i-m6i-m7i-r6i-r7i-instance-types/)
 - [AWS IAM Identity Center is now available in the  Europe &lpar;Spain&rpar; AWS Region and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-europe-spain-asia-pacific-hyderabad-aws-region/)
 - [AWS Lambda adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/)
@@ -66,8 +68,6 @@
 - [AWS B2B Data Interchange is now HIPAA eligible and supports X12 version 5010 HIPAA transactions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-b2b-data-interchange-hipaa-eligible-x12-version-5010-hipaa-transactions/)
 - [Amazon SageMaker Studio Code Editor now supports custom images](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-studio-code-editor-custom-images/)
 - [ElastiCache Serverless is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/elasticache-serverless-aws-canada-west-calgary-region/)
-- [Amazon OpenSearch Service doubles storage for OR1 and expands to four more regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-service-doubles-storage-or1-four-regions/)
-- [Amazon RDS now supports M6gd database instances in six additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-m6gd-database-instances-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

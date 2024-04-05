@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Transfer Family workshop for building secure file transfer solutions using SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-file-transfer-sftp/)
 - [Amazon CloudWatch now supports tagging alarms with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-tagging-alarms-cloudformation/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-melbourne-region/)
 - [Amazon CodeCatalyst now supports adding tasks to issues](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-tasks-issues/)
@@ -67,7 +68,6 @@
 - [Amazon Cognito customers can secure access to APIs using Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-customers-access-apis-verified-permissions/)
 - [Cross-account observability enabled for CloudWatch Internet Monitor](https://aws.amazon.com/about-aws/whats-new/2024/04/cross-account-observability-cloudwatch-internet-monitor/)
 - [Announcing general availability of Amazon EC2 G6 instances](https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/)
-- [Amazon SageMaker notebooks now support P5, C6i, C7i, M6i, M7i, R6i, and R7i instance types](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-notebooks-p5-c6i-c7i-m6i-m7i-r6i-r7i-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

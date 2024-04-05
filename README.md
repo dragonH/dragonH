@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports tagging alarms with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-tagging-alarms-cloudformation/)
+- [Amazon Cognito is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-melbourne-region/)
+- [Amazon CodeCatalyst now supports adding tasks to issues](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-tasks-issues/)
 - [Amazon IVS Low-Latency Streaming now supports SRT ingest](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ivs-low-latency-streaming-srt-ingest/)
 - [Research and Engineering Studio on AWS Version 2024.04 now available](https://aws.amazon.com/about-aws/whats-new/2024/04/research-engineering-studio-aws-version-2024-04-available/)
 - [Amazon VPC CNI now supports automatic subnet discovery](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-vpc-cni-automatic-subnet-discovery/)
@@ -65,9 +68,6 @@
 - [Cross-account observability enabled for CloudWatch Internet Monitor](https://aws.amazon.com/about-aws/whats-new/2024/04/cross-account-observability-cloudwatch-internet-monitor/)
 - [Announcing general availability of Amazon EC2 G6 instances](https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-ec2-g6-instances/)
 - [Amazon SageMaker notebooks now support P5, C6i, C7i, M6i, M7i, R6i, and R7i instance types](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-notebooks-p5-c6i-c7i-m6i-m7i-r6i-r7i-instance-types/)
-- [AWS IAM Identity Center is now available in the  Europe &lpar;Spain&rpar; AWS Region and Asia Pacific &lpar;Hyderabad&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-europe-spain-asia-pacific-hyderabad-aws-region/)
-- [AWS Lambda adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-ruby-3-3/)
-- [Amazon OpenSearch Ingestion now supports enrichment of streaming data with geographical location](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-ingestion-streaming-data-geographical-location/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

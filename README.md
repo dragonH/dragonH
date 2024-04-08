@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Launch Amazon CloudWatch Internet Monitor from Amazon CloudFront console](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-internet-monitor-cloudfront-console/)
+- [AWS Elemental MediaLive now supports CMAF Ingest output group](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-medialive-cmaf-ingest-output-group/)
 - [AWS India customers can now use UPI &lpar;Unified Payments Interface&rpar; to make payments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-india-customers-upi-make-payments/)
 - [Amazon OpenSearch Service now lets you update node count without blue/green](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-service-update-node-count-without-blue-green/)
 - [Amazon CloudWatch RUM is generally available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-rum-additional-aws-regions/)
@@ -66,8 +68,6 @@
 - [Announcing AWS Transfer Family workshop for building secure file transfer solutions using SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-file-transfer-sftp/)
 - [Amazon CloudWatch now supports tagging alarms with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-tagging-alarms-cloudformation/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-melbourne-region/)
-- [Amazon CodeCatalyst now supports adding tasks to issues](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-tasks-issues/)
-- [Amazon IVS Low-Latency Streaming now supports SRT ingest](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ivs-low-latency-streaming-srt-ingest/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

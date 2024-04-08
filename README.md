@@ -59,7 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Transfer Family introduces a new workshop for SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-sftp/)
-- [Announcing availability of AWS Outposts in Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2024/04/availability-aws-outposts-kingdom-saudi-arabia/)
+- [Announcing availability of AWS Outposts in the Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2024/04/availability-aws-outposts-kingdom-saudi-arabia/)
 - [Launch Amazon CloudWatch Internet Monitor from Amazon CloudFront console](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-internet-monitor-cloudfront-console/)
 - [AWS Elemental MediaLive now supports CMAF Ingest output group](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-medialive-cmaf-ingest-output-group/)
 - [AWS India customers can now use UPI &lpar;Unified Payments Interface&rpar; to make payments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-india-customers-upi-make-payments/)

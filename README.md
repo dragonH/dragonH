@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family introduces a new workshop for SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-sftp/)
+- [Announcing availability of AWS Outposts in Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2024/04/availability-aws-outposts-kingdom-saudi-arabia/)
 - [Launch Amazon CloudWatch Internet Monitor from Amazon CloudFront console](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-internet-monitor-cloudfront-console/)
 - [AWS Elemental MediaLive now supports CMAF Ingest output group](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-medialive-cmaf-ingest-output-group/)
 - [AWS India customers can now use UPI &lpar;Unified Payments Interface&rpar; to make payments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-india-customers-upi-make-payments/)
@@ -66,8 +68,6 @@
 - [Knowledge Bases for Amazon Bedrock offers support for CloudFormation and Service Quotas](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-formation-quotas/)
 - [AWS Lambda supports Kafka event sources in four new regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-kafka-event-sources-four-new-regions/)
 - [Announcing AWS Transfer Family workshop for building secure file transfer solutions using SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-file-transfer-sftp/)
-- [Amazon CloudWatch now supports tagging alarms with AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-tagging-alarms-cloudformation/)
-- [Amazon Cognito is now available in Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

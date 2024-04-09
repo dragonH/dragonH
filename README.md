@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront now supports Common Media Client Data &lpar;CMCD&rpar; fields in real-time logs](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-cmcd-fields-real-time-logs/)
 - [AWS AppSync forwards application request headers to AWS Lambda custom authorizer functions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appsync-application-headers-lambda-authorizer-functions/)
 - [Amazon Location Service releases Tracking SDK for iOS and Android](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-tracking-sdk-ios-android/)
 - [Knowledge Bases for Amazon Bedrock now supports Claude 3 Haiku](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-claude-3-haiku/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C7i instances now available in Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ec2-c7i-instances-europe-paris/)
 - [AWS Transfer Family introduces a new workshop for SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-sftp/)
 - [Announcing availability of AWS Outposts in the Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2024/04/availability-aws-outposts-kingdom-saudi-arabia/)
-- [Launch Amazon CloudWatch Internet Monitor from Amazon CloudFront console](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-internet-monitor-cloudfront-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

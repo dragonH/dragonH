@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Clean Rooms Differential Privacy is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-room-differential-privacy/)
+- [AWS Clean Rooms Differential Privacy is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-differential-privacy-generally-available/)
 - [AWS Neuron introduces speculative decoding](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding/)
 - [Amazon Verified Permissions is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-verified-permissions-additional-regions/)
 - [Amazon Bedrock is now available in the Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-sydney-region/)

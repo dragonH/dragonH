@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Verified Permissions is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-verified-permissions-additional-regions/)
 - [Amazon Bedrock is now available in the Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-sydney-region/)
 - [Amazon CloudFront now supports Common Media Client Data &lpar;CMCD&rpar; fields in real-time logs](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-cmcd-fields-real-time-logs/)
 - [AWS AppSync forwards application request headers to AWS Lambda custom authorizer functions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appsync-application-headers-lambda-authorizer-functions/)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaTailor now available in the Hyderabad and UAE regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hyderabad-uae-regions/)
 - [Amazon Route 53 adds support for 18 additional Top-Level Domains](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-route-53-additional-top-level-domains/)
 - [Amazon EC2 C7i instances now available in Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ec2-c7i-instances-europe-paris/)
-- [AWS Transfer Family introduces a new workshop for SFTP](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-workshop-sftp/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

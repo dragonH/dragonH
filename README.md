@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket adds experimental capabilities for QuEra device via Braket Direct](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-braket-experimental-capabilities-quera-device-braket-direct/)
 - [Introducing workflow monitor for AWS Media Services](https://aws.amazon.com/about-aws/whats-new/2024/04/workflow-monitor-aws-media-services/)
 - [AWS IAM Identity Center now offers a streamlined AWS access portal and shortcut links](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-shortcut-links-aws-access-portal/)
 - [AWS Lambda functions now scale up to 12X faster in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-functions-12x-faster-govcloud-us-regions/)
@@ -67,7 +68,6 @@
 - [AWS Clean Rooms Differential Privacy is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-differential-privacy-generally-available/)
 - [AWS Neuron introduces speculative decoding](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding/)
 - [Amazon Verified Permissions is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-verified-permissions-additional-regions/)
-- [Amazon Bedrock is now available in the Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

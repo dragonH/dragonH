@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Container Insights announces observability for Windows containers on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-container-insights-windows-containers-eks/)
+- [Amazon EMR on EKS now supports Amazon EKS simplified access management controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-simplified-access-management-controls/)
+- [AWS HealthImaging adds search parameters and extended search API responses](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthimaging-search-parameters-api-responses/)
 - [AWS Clean Rooms Differential Privacy is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-differential-privacy-generally-available/)
 - [AWS Neuron introduces speculative decoding](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding/)
 - [Amazon Verified Permissions is available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-verified-permissions-additional-regions/)
@@ -65,9 +68,6 @@
 - [Amazon CloudFront now supports Common Media Client Data &lpar;CMCD&rpar; fields in real-time logs](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-cmcd-fields-real-time-logs/)
 - [AWS AppSync forwards application request headers to AWS Lambda custom authorizer functions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appsync-application-headers-lambda-authorizer-functions/)
 - [Amazon Location Service releases Tracking SDK for iOS and Android](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-tracking-sdk-ios-android/)
-- [Knowledge Bases for Amazon Bedrock now supports Claude 3 Haiku](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-claude-3-haiku/)
-- [Amazon RDS for MySQL supports rds_superuser_role for easier implementation of role based privileges](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-mysql-rds-superuser-role/)
-- [AWS Elemental MediaTailor now available in the Hyderabad and UAE regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hyderabad-uae-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

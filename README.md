@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family supports self-signed TLS certificates, 3DES encryption for sending AS2 messages](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-tls-certificates-3des-as2-messages/)
 - [Amazon Detective supports investigations for GuardDuty EC2 Runtime Monitoring](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-detective-investigations-guardduty-monitoring/)
 - [AWS KMS announces more flexible automatic key rotation](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-kms-automatic-key-rotation/)
 - [AWS Elemental MediaTailor now supports HLS Interstitials for VOD streams](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hls-interstitials-vod-streams/)
@@ -67,7 +68,6 @@
 - [Amazon CloudFront now supports Origin Access Control &lpar;OAC&rpar; for AWS Elemental MediaPackage Origin](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-oac-aws-elemental-mediapackage-origin/)
 - [Amazon Braket adds experimental capabilities for QuEra device via Braket Direct](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-braket-experimental-capabilities-quera-device-braket-direct/)
 - [Introducing workflow monitor for AWS Media Services](https://aws.amazon.com/about-aws/whats-new/2024/04/workflow-monitor-aws-media-services/)
-- [AWS IAM Identity Center now offers a streamlined AWS access portal and shortcut links](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-shortcut-links-aws-access-portal/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

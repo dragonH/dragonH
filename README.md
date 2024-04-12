@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Explorer is now available in 10 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resource-explorer-additional-regions/)
 - [Amazon CloudFront now supports Origin Access Control &lpar;OAC&rpar; for Lambda function URL origins](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-oac-lambda-function-url-origins/)
 - [Amazon CloudFront now supports Origin Access Control &lpar;OAC&rpar; for AWS Elemental MediaPackage Origin](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudfront-oac-aws-elemental-mediapackage-origin/)
 - [Amazon Braket adds experimental capabilities for QuEra device via Braket Direct](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-braket-experimental-capabilities-quera-device-braket-direct/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Container Insights announces observability for Windows containers on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-container-insights-windows-containers-eks/)
 - [Amazon EMR on EKS now supports Amazon EKS simplified access management controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-simplified-access-management-controls/)
 - [AWS HealthImaging adds search parameters and extended search API responses](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthimaging-search-parameters-api-responses/)
-- [AWS Clean Rooms Differential Privacy is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-clean-rooms-differential-privacy-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

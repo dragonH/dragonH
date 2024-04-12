@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Detective supports investigations for GuardDuty EC2 Runtime Monitoring](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-detective-investigations-guardduty-monitoring/)
+- [AWS KMS announces more flexible automatic key rotation](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-kms-automatic-key-rotation/)
 - [AWS Elemental MediaTailor now supports HLS Interstitials for VOD streams](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hls-interstitials-vod-streams/)
 - [AWS Step Functions Announces Optimized Integration for AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-step-functions-integration-elemental-mediaconvert/)
 - [AWS Resource Explorer is now available in 10 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resource-explorer-additional-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Braket adds experimental capabilities for QuEra device via Braket Direct](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-braket-experimental-capabilities-quera-device-braket-direct/)
 - [Introducing workflow monitor for AWS Media Services](https://aws.amazon.com/about-aws/whats-new/2024/04/workflow-monitor-aws-media-services/)
 - [AWS IAM Identity Center now offers a streamlined AWS access portal and shortcut links](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-shortcut-links-aws-access-portal/)
-- [AWS Lambda functions now scale up to 12X faster in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-lambda-functions-12x-faster-govcloud-us-regions/)
-- [Amazon CloudWatch Container Insights announces observability for Windows containers on Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-container-insights-windows-containers-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

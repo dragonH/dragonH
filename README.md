@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink now supports Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-privatelink-supports-quicksight/)
+- [Amazon QuickSight now supports account instances of IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-account-instances-iam-identity-center/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 23.2](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-oracle-apex-version-23-20/)
 - [Amazon RDS for Oracle supports managed Oracle Data Guard Switchover and Automated Backups for replicas in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-data-guard-switchover-automated-backups-additional-regions/)
 - [Amazon RDS for SQL supports minor version 2022 CU12](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-minor-version-2022-cu12/)
@@ -66,8 +68,6 @@
 - [Amazon Detective supports investigations for GuardDuty EC2 Runtime Monitoring](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-detective-investigations-guardduty-monitoring/)
 - [AWS KMS announces more flexible automatic key rotation](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-kms-automatic-key-rotation/)
 - [AWS Elemental MediaTailor now supports HLS Interstitials for VOD streams](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hls-interstitials-vod-streams/)
-- [AWS Step Functions Announces Optimized Integration for AWS Elemental MediaConvert](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-step-functions-integration-elemental-mediaconvert/)
-- [AWS Resource Explorer is now available in 10 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resource-explorer-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

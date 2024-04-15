@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for Oracle now supports Oracle Database Standard Edition 2](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-custom-oracle-database-standard-edition-2/)
 - [AWS PrivateLink now supports Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-privatelink-supports-quicksight/)
 - [Amazon QuickSight now supports account instances of IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-account-instances-iam-identity-center/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 23.2](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-oracle-apex-version-23-20/)
@@ -67,7 +68,6 @@
 - [AWS Transfer Family supports self-signed TLS certificates, 3DES encryption for sending AS2 messages](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-tls-certificates-3des-as2-messages/)
 - [Amazon Detective supports investigations for GuardDuty EC2 Runtime Monitoring](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-detective-investigations-guardduty-monitoring/)
 - [AWS KMS announces more flexible automatic key rotation](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-kms-automatic-key-rotation/)
-- [AWS Elemental MediaTailor now supports HLS Interstitials for VOD streams](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elemental-mediatailor-hls-interstitials-vod-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-europe-spain-region/)
+- [Amazon Cognito is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-hyderabad/)
+- [Amazon Corretto April, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-corretto-april-2024-quarterly-updates/)
+- [AWS Network Manager is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-network-manager-israel-tel-aviv-region/)
 - [Amazon MWAA adds larger environment sizes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-mwaa-larger-environment-sizes/)
 - [Announcing the AWS Well-Architected Tool Connector for Jira](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-well-architected-tool-connector-jira/)
 - [AWS CloudFormation ChangeSets now offer enhanced change visibility for deployments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-cloudformation-changesets-enhanced-change-visibility-deployments/)
 - [Anthropic&#39;s Claude 3 Opus model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/anthropics-claude-3-opus-amazon-bedrock/)
 - [AWS HealthOmics announces support for reading sequence stores through Amazon S3 APIs](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-reading-sequence-stores-s3-apis/)
 - [Amazon RDS for Oracle extends support for x2iedn in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-x2iedn-additional-regions/)
-- [Amazon RDS Custom for Oracle now supports Oracle Database Standard Edition 2](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-custom-oracle-database-standard-edition-2/)
-- [AWS PrivateLink now supports Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-privatelink-supports-quicksight/)
-- [Amazon QuickSight now supports account instances of IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-account-instances-iam-identity-center/)
-- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 23.2](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-oracle-apex-version-23-20/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

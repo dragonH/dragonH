@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Monitor internet outage using the weather map in CloudWatch Internet Monitor](https://aws.amazon.com/about-aws/whats-new/2024/04/monitor-internet-outage-weather-map-cloudwatch/)
+- [Amazon Athena announces federated query pass-through](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-athena-federated-query-pass-through/)
 - [Amazon Cognito is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-europe-spain-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-hyderabad/)
 - [Amazon Corretto April, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-corretto-april-2024-quarterly-updates/)
@@ -66,8 +68,6 @@
 - [Announcing the AWS Well-Architected Tool Connector for Jira](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-well-architected-tool-connector-jira/)
 - [AWS CloudFormation ChangeSets now offer enhanced change visibility for deployments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-cloudformation-changesets-enhanced-change-visibility-deployments/)
 - [Anthropic&#39;s Claude 3 Opus model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/anthropics-claude-3-opus-amazon-bedrock/)
-- [AWS HealthOmics announces support for reading sequence stores through Amazon S3 APIs](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-reading-sequence-stores-s3-apis/)
-- [Amazon RDS for Oracle extends support for x2iedn in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-x2iedn-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

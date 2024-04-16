@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA adds larger environment sizes](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-mwaa-larger-environment-sizes/)
+- [Announcing the AWS Well-Architected Tool Connector for Jira](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-well-architected-tool-connector-jira/)
+- [AWS CloudFormation ChangeSets now offer enhanced change visibility for deployments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-cloudformation-changesets-enhanced-change-visibility-deployments/)
 - [Anthropic&#39;s Claude 3 Opus model now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/anthropics-claude-3-opus-amazon-bedrock/)
 - [AWS HealthOmics announces support for reading sequence stores through Amazon S3 APIs](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-reading-sequence-stores-s3-apis/)
 - [Amazon RDS for Oracle extends support for x2iedn in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-x2iedn-additional-regions/)
@@ -65,9 +68,6 @@
 - [AWS PrivateLink now supports Amazon QuickSight](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-privatelink-supports-quicksight/)
 - [Amazon QuickSight now supports account instances of IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-account-instances-iam-identity-center/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 23.2](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-oracle-apex-version-23-20/)
-- [Amazon RDS for Oracle supports managed Oracle Data Guard Switchover and Automated Backups for replicas in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-data-guard-switchover-automated-backups-additional-regions/)
-- [Amazon RDS for SQL supports minor version 2022 CU12](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-sql-server-minor-version-2022-cu12/)
-- [Amazon MSK is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-msk-canada-west-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

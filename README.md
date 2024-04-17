@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Stream data into Snowflake using Amazon Data Firehose and Snowflake Snowpipe Streaming](https://aws.amazon.com/about-aws/whats-new/2024/04/stream-data-amazon-data-firehose-snowflake-snowpipe-streaming/)
+- [Amazon SageMaker Studio Notebooks supports interactive data exploration and SQL query execution](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-studio-notebooks-data-sql-query/)
 - [Introducing the AWS PDK blueprints in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-pdk-blueprints-amazon-codecatalyst/)
 - [Announcing Accessibility Conformance Reports &lpar;ACRs&rpar; in AWS Artifact](https://aws.amazon.com/about-aws/whats-new/2024/04/accessibility-conformance-reports-aws-artifact/)
 - [AWS Config advanced queries support 35 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-config-advanced-queries-resource-types/)
@@ -66,8 +68,6 @@
 - [Amazon Athena announces federated query pass-through](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-athena-federated-query-pass-through/)
 - [Amazon Cognito is now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-europe-spain-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cognito-asia-pacific-hyderabad/)
-- [Amazon Corretto April, 2024 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-corretto-april-2024-quarterly-updates/)
-- [AWS Network Manager is now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-network-manager-israel-tel-aviv-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Neuron introduces speculative decoding and vLLM support](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding-vllm-support/)
+- [Amazon WorkSpaces helps simplify Bring Your Own License &lpar;BYOL&rpar; account management](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-workspaces-simplify-byol-account-management/)
 - [AWS IAM Identity Center adds independent 90-days session duration for Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-90-days-session-codewhisperer/)
 - [Meta Llama 3 foundation models now available on AWS](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-foundation-models-aws/)
 - [AWS Storage Gateway is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-storage-gateway-canada-west-calgary-region/)
@@ -66,8 +68,6 @@
 - [Announcing Amazon Neptune connector for Nodestream, Parquet, and SBOM](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-neptune-connector-nodestream-parquet-sbom/)
 - [New self-service tasks for Services Partners in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/04/self-service-tasks-services-partners-aws-partner-central/)
 - [AWS Partner CRM Connector now supports future dated agreements](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-partner-crm-connector-future-dated-agreements/)
-- [Amazon SQS announces support for FIFO dead-letter queue redrive in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sqs-fifo-dead-letter-queue-redrive-aws-govcloud-us-regions/)
-- [AWS Mainframe Modernization introduces advanced configurations for runtime environments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-advanced-configurations-runtime-environments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

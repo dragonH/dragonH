@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center adds independent 90-days session duration for Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-90-days-session-codewhisperer/)
 - [Meta Llama 3 foundation models now available on AWS](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-foundation-models-aws/)
 - [AWS Storage Gateway is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-storage-gateway-canada-west-calgary-region/)
 - [Amazon RDS for PostgreSQL supports client authentication hook for Trusted Language Extensions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-postgresql-authentication-hook-language-extensions/)
@@ -67,7 +68,6 @@
 - [AWS Partner CRM Connector now supports future dated agreements](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-partner-crm-connector-future-dated-agreements/)
 - [Amazon SQS announces support for FIFO dead-letter queue redrive in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sqs-fifo-dead-letter-queue-redrive-aws-govcloud-us-regions/)
 - [AWS Mainframe Modernization introduces advanced configurations for runtime environments](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-advanced-configurations-runtime-environments/)
-- [AWS SimSpace Weaver app SDK v1.17.0 now available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-simspace-weaver-app-sdk-v1-17-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

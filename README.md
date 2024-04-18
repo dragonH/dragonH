@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL supports client authentication hook for Trusted Language Extensions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-postgresql-authentication-hook-language-extensions/)
 - [Meta Llama 3 foundation models now available on AWS](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-foundation-models-aws/)
 - [Announcing Amazon Neptune connector for Nodestream, Parquet, and SBOM](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-neptune-connector-nodestream-parquet-sbom/)
 - [New self-service tasks for Services Partners in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/04/self-service-tasks-services-partners-aws-partner-central/)
@@ -67,7 +68,6 @@
 - [AWS SimSpace Weaver app SDK v1.17.0 now available](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-simspace-weaver-app-sdk-v1-17-0/)
 - [Stream data into Snowflake using Amazon Data Firehose and Snowflake Snowpipe Streaming](https://aws.amazon.com/about-aws/whats-new/2024/04/stream-data-amazon-data-firehose-snowflake-snowpipe-streaming/)
 - [Amazon SageMaker Studio Notebooks support interactive data exploration and SQL query execution](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-studio-notebooks-data-sql-query/)
-- [Introducing the AWS PDK blueprints in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-pdk-blueprints-amazon-codecatalyst/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

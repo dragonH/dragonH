@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker enables Projects in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-projects-sagemaker-studio/)
+- [AWS Elastic Disaster Recovery now supports AWS Outposts Racks](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elastic-disaster-recovery-outposts-racks/)
+- [Amazon EC2 R6gd instances are now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ec2-r6gd-instances-zurich-region/)
+- [Amazon S3 Access Grants is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-s3-access-grants-four-regions/)
+- [AWS Glue Studio Notebooks is now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-glue-studio-notebooks-6-regions/)
+- [AWS Resilience Hub is now a HIPAA eligible service](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-hipaa-eligible-service/)
 - [AWS Neuron introduces speculative decoding and vLLM support](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding-vllm-support/)
 - [Amazon WorkSpaces helps simplify Bring Your Own License &lpar;BYOL&rpar; account management](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-workspaces-simplify-byol-account-management/)
 - [AWS IAM Identity Center adds independent 90-days session duration for Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-90-days-session-codewhisperer/)
 - [Meta Llama 3 foundation models now available on AWS](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-foundation-models-aws/)
-- [AWS Storage Gateway is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-storage-gateway-canada-west-calgary-region/)
-- [Amazon RDS for PostgreSQL supports client authentication hook for Trusted Language Extensions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-postgresql-authentication-hook-language-extensions/)
-- [AWS Partner Central launches enhanced user management capabilities](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-partner-central-user-management-capabilities/)
-- [Announcing Amazon Neptune connector for Nodestream, Parquet, and SBOM](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-neptune-connector-nodestream-parquet-sbom/)
-- [New self-service tasks for Services Partners in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/04/self-service-tasks-services-partners-aws-partner-central/)
-- [AWS Partner CRM Connector now supports future dated agreements](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-partner-crm-connector-future-dated-agreements/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Roles Anywhere now supports modifying the mapping of certificate attributes](https://aws.amazon.com/about-aws/whats-new/2024/04/iam-roles-anywhere-modifying-mapping-certificate-attributes/)
 - [Amazon EMR on EKS now supports Apache Livy](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-apache-livy/)
 - [Amazon SageMaker enables Projects in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-projects-sagemaker-studio/)
 - [AWS Elastic Disaster Recovery now supports AWS Outposts Racks](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elastic-disaster-recovery-outposts-racks/)
@@ -67,7 +68,6 @@
 - [AWS Resilience Hub is now a HIPAA eligible service](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-hipaa-eligible-service/)
 - [AWS Neuron introduces speculative decoding and vLLM support](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding-vllm-support/)
 - [Amazon WorkSpaces helps simplify Bring Your Own License &lpar;BYOL&rpar; account management](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-workspaces-simplify-byol-account-management/)
-- [AWS IAM Identity Center adds independent 90-days session duration for Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-90-days-session-codewhisperer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

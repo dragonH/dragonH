@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS now supports Apache Livy](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-apache-livy/)
 - [Amazon SageMaker enables Projects in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-projects-sagemaker-studio/)
 - [AWS Elastic Disaster Recovery now supports AWS Outposts Racks](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elastic-disaster-recovery-outposts-racks/)
 - [Amazon EC2 R6gd instances are now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ec2-r6gd-instances-zurich-region/)
@@ -67,7 +68,6 @@
 - [AWS Neuron introduces speculative decoding and vLLM support](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding-vllm-support/)
 - [Amazon WorkSpaces helps simplify Bring Your Own License &lpar;BYOL&rpar; account management](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-workspaces-simplify-byol-account-management/)
 - [AWS IAM Identity Center adds independent 90-days session duration for Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-90-days-session-codewhisperer/)
-- [Meta Llama 3 foundation models now available on AWS](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-foundation-models-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now offers automatic solution training](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-personalize-automatic-solution-training/)
+- [Amazon Simple Email Service is now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-simple-email-service-aws-govcloud-us-east-region/)
 - [IAM Roles Anywhere now supports modifying the mapping of certificate attributes](https://aws.amazon.com/about-aws/whats-new/2024/04/iam-roles-anywhere-modifying-mapping-certificate-attributes/)
 - [Amazon EMR on EKS now supports Apache Livy](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-apache-livy/)
 - [Amazon SageMaker enables Projects in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-projects-sagemaker-studio/)
@@ -66,8 +68,6 @@
 - [Amazon S3 Access Grants is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-s3-access-grants-four-regions/)
 - [AWS Glue Studio Notebooks is now available in 6 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-glue-studio-notebooks-6-regions/)
 - [AWS Resilience Hub is now a HIPAA eligible service](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-resilience-hub-hipaa-eligible-service/)
-- [AWS Neuron introduces speculative decoding and vLLM support](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-neuron-speculative-decoding-vllm-support/)
-- [Amazon WorkSpaces helps simplify Bring Your Own License &lpar;BYOL&rpar; account management](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-workspaces-simplify-byol-account-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

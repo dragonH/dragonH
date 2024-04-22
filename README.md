@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing two new larger instance types for Amazon WorkSpaces Web](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-workspaces-web-two-larger-instance-types/)
+- [Amazon Inspector agentless vulnerability assessments for Amazon EC2 are now Generally Available &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-inspector-agentless-vulnerability-assessments-ec2-ga/)
 - [Workflow approvals for Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/04/workflow-approvals-amazon-codecatalyst/)
 - [Amazon Time Sync Service expands Microsecond-Accurate time to 87 additonal EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-time-sync-service-microsecond-accurate-time-additonal-ec2-instance-types/)
 - [Amazon Personalize now offers automatic solution training](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-personalize-automatic-solution-training/)
@@ -66,8 +68,6 @@
 - [Amazon EMR on EKS now supports Apache Livy](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-emr-eks-apache-livy/)
 - [Amazon SageMaker enables Projects in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-projects-sagemaker-studio/)
 - [AWS Elastic Disaster Recovery now supports AWS Outposts Racks](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-elastic-disaster-recovery-outposts-racks/)
-- [Amazon EC2 R6gd instances are now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ec2-r6gd-instances-zurich-region/)
-- [Amazon S3 Access Grants is now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-s3-access-grants-four-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

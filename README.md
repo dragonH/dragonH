@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle supports Kerberos authentication in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-kerberos-authentication-additional-regions/)
+- [Amazon ECS now integrates with CloudWatch alarms for deployment monitoring in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ecs-cloudwatch-alarms-deployment-monitoring-govcloud-us-regions/)
+- [AWS IoT Core for LoRaWAN public network support now available in Spain](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iot-core-lorawan-public-network-support-spain/)
 - [Amazon OpenSearch Service adds support for Hebrew and HanLP language analyzers](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-hebrew-hanlp-language-analyzers/)
 - [Amazon QuickSight launches cross sheet filters and controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-sheet-filters-controls/)
 - [AWS AppFabric now supports 1Password](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-1password/)
@@ -65,9 +68,6 @@
 - [Amazon CodeCatalyst adds task breakdown assistance for issues assigned to Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-task-breakdown-issues-amazon-q/)
 - [AWS Transfer Family now lists files from remote SFTP servers using SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-lists-files-remote-sftp-servers-connectors/)
 - [Watermark detection for Amazon Titan Image Generator now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/watermark-detection-amazon-titan-image-generator-bedrock/)
-- [Meta Llama 3 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-amazon-bedrock/)
-- [Amazon Bedrock Agents simplifies agent creation and launches Return of Control capability](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-agents-agent-creation-return-control-capability/)
-- [Model evaluation on Amazon Bedrock is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2024/04/model-evaluation-amazon-bedrock-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

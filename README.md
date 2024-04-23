@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Performance Insights provides execution plan for RDS SQL Server](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-performance-insights-execution-plan-rds-sql-server/)
+- [myApplications is now available in 9 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/myapplications-9-additional-regions/)
 - [Amazon CloudWatch RUM is generally available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-rum-5-additional-regions/)
 - [Amazon RDS for Oracle supports Kerberos authentication in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-kerberos-authentication-additional-regions/)
 - [Amazon ECS now integrates with CloudWatch alarms for deployment monitoring in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-ecs-cloudwatch-alarms-deployment-monitoring-govcloud-us-regions/)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight launches cross sheet filters and controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-sheet-filters-controls/)
 - [AWS AppFabric now supports 1Password](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-1password/)
 - [CloudWatch Container Insights now announces Accelerated Compute Observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/cloudwatch-container-insights-compute-observability-eks/)
-- [Amazon CodeCatalyst adds task breakdown assistance for issues assigned to Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-task-breakdown-issues-amazon-q/)
-- [AWS Transfer Family now lists files from remote SFTP servers using SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-lists-files-remote-sftp-servers-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

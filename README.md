@@ -58,13 +58,13 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock Agents simplifies agent creation and launches Return of Control capability](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-agents-agent-creation-return-control-capability/)
+- [Watermark detection for Amazon Titan Image Generator now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/watermark-detection-amazon-titan-image-generator-bedrock/)
 - [Meta Llama 3 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-amazon-bedrock/)
+- [Amazon Bedrock Agents simplifies agent creation and launches Return of Control capability](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-agents-agent-creation-return-control-capability/)
 - [Model evaluation on Amazon Bedrock is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2024/04/model-evaluation-amazon-bedrock-generally-available/)
 - [Amazon Titan Image Generator model in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-titan-image-generator-model-bedrock-available/)
 - [Knowledge Bases for Amazon Bedrock now simplifies asking questions on a single document](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-asking-questions-single-document/)
 - [Knowledge Bases for Amazon Bedrock now supports multiple data sources](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-multiple-data-sources/)
-- [Watermark detection for Amazon Titan Image Generator now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/watermark-detection-amazon-titan-image-generator-bedrock/)
 - [Custom Model Import for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/custom-model-import-amazon-bedrock/)
 - [Agents for Amazon Bedrock add support for Anthropic Claude 3 Haiku and Sonnet](https://aws.amazon.com/about-aws/whats-new/2024/04/agents-amazon-bedrock-anthropic-claude-3-haiku-sonnet/)
 - [Guardrails for Amazon Bedrock is generally available with new safety &amp; privacy controls](https://aws.amazon.com/about-aws/whats-new/2024/04/guardrails-amazon-bedrock-available-safety-privacy-controls/)

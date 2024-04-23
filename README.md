@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service adds support for Hebrew and HanLP language analyzers](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-hebrew-hanlp-language-analyzers/)
+- [Amazon QuickSight launches cross sheet filters and controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-sheet-filters-controls/)
+- [AWS AppFabric now supports 1Password](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-1password/)
 - [CloudWatch Container Insights now announces Accelerated Compute Observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/cloudwatch-container-insights-compute-observability-eks/)
 - [Amazon CodeCatalyst adds task breakdown assistance for issues assigned to Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-task-breakdown-issues-amazon-q/)
 - [AWS Transfer Family now lists files from remote SFTP servers using SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-lists-files-remote-sftp-servers-connectors/)
@@ -65,9 +68,6 @@
 - [Meta Llama 3 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-amazon-bedrock/)
 - [Amazon Bedrock Agents simplifies agent creation and launches Return of Control capability](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-agents-agent-creation-return-control-capability/)
 - [Model evaluation on Amazon Bedrock is now Generally Available](https://aws.amazon.com/about-aws/whats-new/2024/04/model-evaluation-amazon-bedrock-generally-available/)
-- [Amazon Titan Image Generator model in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-titan-image-generator-model-bedrock-available/)
-- [Knowledge Bases for Amazon Bedrock now simplifies asking questions on a single document](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-asking-questions-single-document/)
-- [Knowledge Bases for Amazon Bedrock now supports multiple data sources](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-multiple-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

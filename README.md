@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch Container Insights now announces Accelerated Compute Observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/cloudwatch-container-insights-compute-observability-eks/)
+- [Amazon CodeCatalyst adds task breakdown assistance for issues assigned to Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-codecatalyst-task-breakdown-issues-amazon-q/)
+- [AWS Transfer Family now lists files from remote SFTP servers using SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-transfer-family-lists-files-remote-sftp-servers-connectors/)
 - [Watermark detection for Amazon Titan Image Generator now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/watermark-detection-amazon-titan-image-generator-bedrock/)
 - [Meta Llama 3 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/meta-llama-3-amazon-bedrock/)
 - [Amazon Bedrock Agents simplifies agent creation and launches Return of Control capability](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-bedrock-agents-agent-creation-return-control-capability/)
@@ -65,9 +68,6 @@
 - [Amazon Titan Image Generator model in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-titan-image-generator-model-bedrock-available/)
 - [Knowledge Bases for Amazon Bedrock now simplifies asking questions on a single document](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-asking-questions-single-document/)
 - [Knowledge Bases for Amazon Bedrock now supports multiple data sources](https://aws.amazon.com/about-aws/whats-new/2024/04/knowledge-bases-amazon-bedrock-multiple-data-sources/)
-- [Custom Model Import for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/custom-model-import-amazon-bedrock/)
-- [Agents for Amazon Bedrock add support for Anthropic Claude 3 Haiku and Sonnet](https://aws.amazon.com/about-aws/whats-new/2024/04/agents-amazon-bedrock-anthropic-claude-3-haiku-sonnet/)
-- [Guardrails for Amazon Bedrock is generally available with new safety &amp; privacy controls](https://aws.amazon.com/about-aws/whats-new/2024/04/guardrails-amazon-bedrock-available-safety-privacy-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

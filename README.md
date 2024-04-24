@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect adds 25 Gbps hosted connection capacities](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-direct-connect-gbps-hosted-connection-capacities/)
 - [Amazon RDS Performance Insights provides execution plan for RDS SQL Server](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-performance-insights-execution-plan-rds-sql-server/)
 - [myApplications is now available in 9 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/myapplications-9-additional-regions/)
 - [Amazon CloudWatch RUM is generally available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-rum-5-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service adds support for Hebrew and HanLP language analyzers](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-opensearch-hebrew-hanlp-language-analyzers/)
 - [Amazon QuickSight launches cross sheet filters and controls](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-quicksight-sheet-filters-controls/)
 - [AWS AppFabric now supports 1Password](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-1password/)
-- [CloudWatch Container Insights now announces Accelerated Compute Observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/04/cloudwatch-container-insights-compute-observability-eks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppFabric now supports SentinelOne Singularity Cloud](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-sentinelone-singularity-cloud/)
+- [AWS supports dynamically removing and adding auto assigned public IPv4 address](https://aws.amazon.com/about-aws/whats-new/2024/04/removing-adding-auto-assigned-public-ipv4-address/)
+- [Amazon RDS now supports M6gd database instances in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-m6gd-database-instances-additional-regions/)
+- [Amazon SageMaker Clarify now supports foundation model evaluations](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-clarify-foundation-model-evaluations/)
 - [AWS Global Accelerator now supports endpoints in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-global-accelerator-endpoints-calgary-region/)
 - [Amazon GameLift now includes containers support &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-gamelift-containers-support-preview/)
 - [AWS DataSync supports disabling task schedules](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-datacync-disabling-task-schedules/)
 - [AWS CodeBuild now supports managed GitHub Action runners](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codebuild-managed-github-action-runners/)
 - [NoSQL Workbench for Amazon DynamoDB launches a revamped operation builder user interface](https://aws.amazon.com/about-aws/whats-new/2024/04/nosql-workbench-amazon-dynamo-db-operation-builder-user-interface/)
 - [AWS Direct Connect adds 25 Gbps hosted connection capacities](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-direct-connect-gbps-hosted-connection-capacities/)
-- [Amazon RDS Performance Insights provides execution plan for RDS SQL Server](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-performance-insights-execution-plan-rds-sql-server/)
-- [myApplications is now available in 9 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/myapplications-9-additional-regions/)
-- [Amazon CloudWatch RUM is generally available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-rum-5-additional-regions/)
-- [Amazon RDS for Oracle supports Kerberos authentication in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-oracle-kerberos-authentication-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

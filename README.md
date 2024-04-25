@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Local time zone support for Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2024/04/local-time-zone-amazon-rds-db2/)
 - [AWS AppFabric now supports SentinelOne Singularity Cloud](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-sentinelone-singularity-cloud/)
 - [AWS supports dynamically removing and adding auto assigned public IPv4 address](https://aws.amazon.com/about-aws/whats-new/2024/04/removing-adding-auto-assigned-public-ipv4-address/)
 - [Amazon RDS now supports M6gd database instances in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-m6gd-database-instances-additional-regions/)
@@ -67,7 +68,6 @@
 - [AWS DataSync supports disabling task schedules](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-datacync-disabling-task-schedules/)
 - [AWS CodeBuild now supports managed GitHub Action runners](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codebuild-managed-github-action-runners/)
 - [NoSQL Workbench for Amazon DynamoDB launches a revamped operation builder user interface](https://aws.amazon.com/about-aws/whats-new/2024/04/nosql-workbench-amazon-dynamo-db-operation-builder-user-interface/)
-- [AWS Direct Connect adds 25 Gbps hosted connection capacities](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-direct-connect-gbps-hosted-connection-capacities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

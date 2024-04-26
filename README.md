@@ -88,8 +88,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/dragonH/automation-report/pull/7) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
-2. 🎉 Merged PR [#6](https://github.com/dragonH/automation-report/pull/6) in [dragonH/automation-report](https://github.com/dragonH/automation-report)
+1. 🎉 Merged PR [#1](https://github.com/dragonH/composer-local-dev/pull/1) in [dragonH/composer-local-dev](https://github.com/dragonH/composer-local-dev)
+2. 💪 Opened PR [#1](https://github.com/dragonH/composer-local-dev/pull/1) in [dragonH/composer-local-dev](https://github.com/dragonH/composer-local-dev)
 3. 🎉 Merged PR [#2](https://github.com/dragonH/Get-excel-embed-files/pull/2) in [dragonH/Get-excel-embed-files](https://github.com/dragonH/Get-excel-embed-files)
 4. 🎉 Merged PR [#3](https://github.com/dragonH/sudoku-auto/pull/3) in [dragonH/sudoku-auto](https://github.com/dragonH/sudoku-auto)
 5. 🎉 Merged PR [#5](https://github.com/dragonH/automation-report/pull/5) in [dragonH/automation-report](https://github.com/dragonH/automation-report)

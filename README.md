@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Restore running applications to pre-update state in Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-managed-service-apache-flink-restore-applications/)
 - [Network Load Balancer now supports Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/04/network-load-balancer-resource-map-aws-management-console/)
 - [Local time zone support for Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2024/04/local-time-zone-amazon-rds-db2/)
 - [AWS AppFabric now supports SentinelOne Singularity Cloud](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-appfabric-sentinelone-singularity-cloud/)
@@ -67,7 +68,6 @@
 - [AWS Global Accelerator now supports endpoints in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-global-accelerator-endpoints-calgary-region/)
 - [Amazon GameLift now includes containers support &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-gamelift-containers-support-preview/)
 - [AWS DataSync supports disabling task schedules](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-datacync-disabling-task-schedules/)
-- [AWS CodeBuild now supports managed GitHub Action runners](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codebuild-managed-github-action-runners/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

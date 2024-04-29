@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q generative SQL &lpar;preview&rpar; is now available in AWS Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-generative-sql-preview-europe-frankfurt/)
 - [AWS CodePipeline supports stage level manual and automated rollback](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codepipeline-stage-level-manual-automated-rollback/)
 - [Amazon Data Lifecycle Manager default policies now supports AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-data-lifecycle-manager-default-policies-organizations/)
 - [Restore running applications to pre-update state in Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-managed-service-apache-flink-restore-applications/)
@@ -67,7 +68,6 @@
 - [AWS supports dynamically removing and adding auto assigned public IPv4 address](https://aws.amazon.com/about-aws/whats-new/2024/04/removing-adding-auto-assigned-public-ipv4-address/)
 - [Amazon RDS now supports M6gd database instances in four additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-rds-m6gd-database-instances-additional-regions/)
 - [Amazon SageMaker Clarify now supports foundation model evaluations](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-sagemaker-clarify-foundation-model-evaluations/)
-- [AWS Global Accelerator now supports endpoints in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-global-accelerator-endpoints-calgary-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

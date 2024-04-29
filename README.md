@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Lambda Insights available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-lambda-insights-govcloud-regions/)
 - [Amazon Aurora supports PostgreSQL 16.2, 15.6, 14.11, 13.14, and 12.18](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-supports-postgresql-additional-versions/)
 - [Announcing the general availability of AWS Local Zones in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-local-zones-honolulu-hawaii/)
 - [AWS Firewall Manager now supports central deployment and management of VPC NACLs with common NACL policies](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-firewall-manager-central-deployment-management-vpc-nacls/)
@@ -67,7 +68,6 @@
 - [Amazon Data Lifecycle Manager default policies now supports AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-data-lifecycle-manager-default-policies-organizations/)
 - [Restore running applications to pre-update state in Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-managed-service-apache-flink-restore-applications/)
 - [Network Load Balancer now supports Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/04/network-load-balancer-resource-map-aws-management-console/)
-- [Local time zone support for Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2024/04/local-time-zone-amazon-rds-db2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

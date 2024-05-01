@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR Serverless introduces Shuffle-optimized disks delivering improved performance for I/O intensive workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/)
 - [Automate deployment of SAP Web Dispatcher using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/)
 - [AWS CodeArtifact now supports RubyGems](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codeartifact-rubygems/)
 - [AWS HealthOmics now supports dynamic run storage for private workflows](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-dynamic-run-storage-private-workflows/)
@@ -67,7 +68,6 @@
 - [AWS Mainframe Modernization File Transfer introduces enhanced data set discovery workflow](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-file-transfer-data-workflow/)
 - [Amazon Transcribe announces general availability of generative AI-powered call summarization](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-generative-ai-powered-call-summarization/)
 - [Amazon Titan Text Embeddings V2 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-titan-text-embeddings-v2-amazon-bedrock/)
-- [AWS Security Hub announces the AWS Resource Tagging Standard](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-security-hub-resource-tagging-standard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

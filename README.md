@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudWatch Lambda Insights available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-cloudwatch-lambda-insights-govcloud-regions/)
-- [Amazon Aurora supports PostgreSQL 16.2, 15.6, 14.11, 13.14, and 12.18](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-aurora-supports-postgresql-additional-versions/)
-- [Announcing the general availability of AWS Local Zones in Honolulu, Hawaii](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-local-zones-honolulu-hawaii/)
-- [AWS Firewall Manager now supports central deployment and management of VPC NACLs with common NACL policies](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-firewall-manager-central-deployment-management-vpc-nacls/)
-- [Cohere Command R and Command R+ now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/cohere-command-r-r-plus-amazon-bedrock/)
-- [Amazon Q generative SQL &lpar;preview&rpar; is now available in AWS Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-q-generative-sql-preview-europe-frankfurt/)
-- [AWS CodePipeline supports stage level manual and automated rollback](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codepipeline-stage-level-manual-automated-rollback/)
-- [Amazon Data Lifecycle Manager default policies now supports AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-data-lifecycle-manager-default-policies-organizations/)
-- [Restore running applications to pre-update state in Amazon Managed Service for Apache Flink](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-managed-service-apache-flink-restore-applications/)
-- [Network Load Balancer now supports Resource Map in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2024/04/network-load-balancer-resource-map-aws-management-console/)
+- [Automate deployment of SAP Web Dispatcher using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/)
+- [AWS CodeArtifact now supports RubyGems](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codeartifact-rubygems/)
+- [AWS HealthOmics now supports dynamic run storage for private workflows](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-dynamic-run-storage-private-workflows/)
+- [Amazon Location Service releases Places integration plugin for MapLibre GL JS Geocoder](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-plugin-maplibre-gl-js-geocoder/)
+- [Amazon DynamoDB now supports an AWS FIS action to pause global table replication](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-dynamodb-fis-action-pause-global-table-replication/)
+- [AWS HealthOmics now supports cross-account sharing for private workflows](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-cross-account-sharing-private-workflows/)
+- [AWS Mainframe Modernization File Transfer introduces enhanced data set discovery workflow](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-file-transfer-data-workflow/)
+- [Amazon Transcribe announces general availability of generative AI-powered call summarization](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-generative-ai-powered-call-summarization/)
+- [Amazon Titan Text Embeddings V2 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-titan-text-embeddings-v2-amazon-bedrock/)
+- [AWS Security Hub announces the AWS Resource Tagging Standard](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-security-hub-resource-tagging-standard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

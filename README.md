@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 simplifies visibility into your active AMIs](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-simplifies-visibility-active-amis/)
+- [Amazon EC2 now protects your AMIs from accidental deregistration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/)
 - [Amazon Pinpoint now supports multimedia messaging service &lpar;MMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/)
 - [Amazon Route 53 Resolver DNS Firewall now supports Domain Redirection](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-domain-redirection/)
 - [New feature for Amazon Connect Contact Lens agent screen recording](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-agent-screen-recording/)
@@ -66,8 +68,6 @@
 - [Amazon EMR Serverless introduces Shuffle-optimized disks delivering improved performance for I/O intensive workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/)
 - [Automate deployment of SAP Web Dispatcher using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/)
 - [AWS CodeArtifact now supports RubyGems](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codeartifact-rubygems/)
-- [AWS HealthOmics now supports dynamic run storage for private workflows](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-dynamic-run-storage-private-workflows/)
-- [Amazon Location Service releases Places integration plugin for MapLibre GL JS Geocoder](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-plugin-maplibre-gl-js-geocoder/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

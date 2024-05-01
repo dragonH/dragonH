@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Pinpoint now supports multimedia messaging service &lpar;MMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/)
+- [Amazon Route 53 Resolver DNS Firewall now supports Domain Redirection](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-domain-redirection/)
+- [New feature for Amazon Connect Contact Lens agent screen recording](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-agent-screen-recording/)
+- [Amazon CloudWatch launches resource filtering for cross-account observability](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cloudwatch-filtering-cross-account-observability/)
 - [Amazon EFS increases maximum per-client throughput to 1.5 GiB/s](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-efs-maximum-per-client-throughput-1-5-gibs/)
 - [Amazon EMR Serverless introduces Shuffle-optimized disks delivering improved performance for I/O intensive workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/)
 - [Automate deployment of SAP Web Dispatcher using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/)
 - [AWS CodeArtifact now supports RubyGems](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codeartifact-rubygems/)
 - [AWS HealthOmics now supports dynamic run storage for private workflows](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-dynamic-run-storage-private-workflows/)
 - [Amazon Location Service releases Places integration plugin for MapLibre GL JS Geocoder](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-location-service-plugin-maplibre-gl-js-geocoder/)
-- [Amazon DynamoDB now supports an AWS FIS action to pause global table replication](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-dynamodb-fis-action-pause-global-table-replication/)
-- [AWS HealthOmics now supports cross-account sharing for private workflows](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-healthomics-cross-account-sharing-private-workflows/)
-- [AWS Mainframe Modernization File Transfer introduces enhanced data set discovery workflow](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-mainframe-modernization-file-transfer-data-workflow/)
-- [Amazon Transcribe announces general availability of generative AI-powered call summarization](https://aws.amazon.com/about-aws/whats-new/2024/04/amazon-transcribe-generative-ai-powered-call-summarization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

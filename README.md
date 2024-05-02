@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock now available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-asia-pacific-mumbai-region/)
 - [AWS Trusted Advisor now supports API to exclude resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-trusted-advisor-api-exclude-resources/)
 - [Introducing file commit history in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-codecatalyst-file-commit-history/)
 - [Amazon Personalize launches new recipes supporting larger item catalogs with lower latency](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-recipes-item-catalogs-lower-latency/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 simplifies visibility into your active AMIs](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-simplifies-visibility-active-amis/)
 - [Amazon EC2 now protects your AMIs from accidental deregistration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/)
 - [Amazon Pinpoint now supports multimedia messaging service &lpar;MMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/)
-- [Amazon Route 53 Resolver DNS Firewall now supports Domain Redirection](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-domain-redirection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

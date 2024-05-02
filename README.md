@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing automated 997 and TA1 acknowledgements for AWS B2B Data Interchange](https://aws.amazon.com/about-aws/whats-new/2024/05/automated-997-ta1-acknowledgements-aws-b2b-data-interchange/)
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-asia-pacific-mumbai-region/)
 - [AWS Trusted Advisor now supports API to exclude resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-trusted-advisor-api-exclude-resources/)
 - [Introducing file commit history in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-codecatalyst-file-commit-history/)
@@ -67,7 +68,6 @@
 - [Knowledge Bases for Amazon Bedrock now supports MongoDB Atlas for vector storage](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-mongodb-atlas-vector-storage/)
 - [Amazon EC2 simplifies visibility into your active AMIs](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-simplifies-visibility-active-amis/)
 - [Amazon EC2 now protects your AMIs from accidental deregistration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/)
-- [Amazon Pinpoint now supports multimedia messaging service &lpar;MMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

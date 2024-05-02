@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Knowledge Bases for Amazon Bedrock now supports MongoDB Atlas for vector storage](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-mongodb-atlas-vector-storage/)
 - [Amazon EC2 simplifies visibility into your active AMIs](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-simplifies-visibility-active-amis/)
 - [Amazon EC2 now protects your AMIs from accidental deregistration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/)
 - [Amazon Pinpoint now supports multimedia messaging service &lpar;MMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/)
@@ -67,7 +68,6 @@
 - [Amazon EFS increases maximum per-client throughput to 1.5 GiB/s](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-efs-maximum-per-client-throughput-1-5-gibs/)
 - [Amazon EMR Serverless introduces Shuffle-optimized disks delivering improved performance for I/O intensive workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/)
 - [Automate deployment of SAP Web Dispatcher using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/)
-- [AWS CodeArtifact now supports RubyGems](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-codeartifact-rubygems/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

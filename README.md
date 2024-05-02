@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing file commit history in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-codecatalyst-file-commit-history/)
+- [Amazon Personalize launches new recipes supporting larger item catalogs with lower latency](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-recipes-item-catalogs-lower-latency/)
+- [Amazon Connect Contact Lens now provides generative AI-powered agent performance evaluations &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-generative-ai-agent-performance-evaluations-preview/)
+- [Amazon Chime SDK Voice Connector now supports audio streaming G.711 A-Law encoded audio](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-chime-sdk-voice-connector-g-711-a-law-encoded-audio/)
 - [Knowledge Bases for Amazon Bedrock now supports MongoDB Atlas for vector storage](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-mongodb-atlas-vector-storage/)
 - [Amazon EC2 simplifies visibility into your active AMIs](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-simplifies-visibility-active-amis/)
 - [Amazon EC2 now protects your AMIs from accidental deregistration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/)
 - [Amazon Pinpoint now supports multimedia messaging service &lpar;MMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-multimedia-messaging-service/)
 - [Amazon Route 53 Resolver DNS Firewall now supports Domain Redirection](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-domain-redirection/)
 - [New feature for Amazon Connect Contact Lens agent screen recording](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-agent-screen-recording/)
-- [Amazon CloudWatch launches resource filtering for cross-account observability](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cloudwatch-filtering-cross-account-observability/)
-- [Amazon EFS increases maximum per-client throughput to 1.5 GiB/s](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-efs-maximum-per-client-throughput-1-5-gibs/)
-- [Amazon EMR Serverless introduces Shuffle-optimized disks delivering improved performance for I/O intensive workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-shuffle-optimized-disks/)
-- [Automate deployment of SAP Web Dispatcher using AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2024/04/automate-deployment-sap-web-dispatcher-aws-launch-wizard/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

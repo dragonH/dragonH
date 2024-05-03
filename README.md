@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces a new Amazon EC2 API to retrieve the public endorsement key from NitroTPM](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-api-public-endorsement-key-nitrotpm/)
 - [Amazon Pinpoint introduces country rules to precisely control SMS message delivery](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-pinpoint-country-control-sms-delivery/)
 - [Amazon Personalize now makes it easier than ever to delete users from datasets](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-delete-users-from-datasets/)
 - [Amazon RDS for SQL Server Supports SSAS Multidimensional for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-ssas-multidimensional-2019/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-control-tower-canada-west-calgary-region/)
 - [IP prefix visibility on Amazon CloudWatch Internet Monitor console](https://aws.amazon.com/about-aws/whats-new/2024/05/ip-prefix-visibility-amazon-cloudwatch-internet-monitor-console/)
 - [Announcing automated 997 and TA1 acknowledgements for AWS B2B Data Interchange](https://aws.amazon.com/about-aws/whats-new/2024/05/automated-997-ta1-acknowledgements-aws-b2b-data-interchange/)
-- [Amazon Bedrock now available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-asia-pacific-mumbai-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

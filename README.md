@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Personalize now makes it easier than ever to delete users from datasets](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-delete-users-from-datasets/)
+- [Amazon RDS for SQL Server Supports SSAS Multidimensional for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-ssas-multidimensional-2019/)
+- [AWS Transfer Family is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-transfer-family-canada-west-calgary-region/)
+- [Amazon Route 53 Resolver DNS Firewall now available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-route-53-resolver-dns-firewall-canada-west-calgary-region/)
+- [Amazon DynamoDB introduces configurable maximum throughput for On-demand tables](https://aws.amazon.com/about-aws/whats-new/2024/05/dynamodb-configurable-maximum-throughput-on-demand-tables/)
+- [AWS Control Tower is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-control-tower-canada-west-calgary-region/)
+- [IP prefix visibility on Amazon CloudWatch Internet Monitor console](https://aws.amazon.com/about-aws/whats-new/2024/05/ip-prefix-visibility-amazon-cloudwatch-internet-monitor-console/)
 - [Announcing automated 997 and TA1 acknowledgements for AWS B2B Data Interchange](https://aws.amazon.com/about-aws/whats-new/2024/05/automated-997-ta1-acknowledgements-aws-b2b-data-interchange/)
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-asia-pacific-mumbai-region/)
 - [AWS Trusted Advisor now supports API to exclude resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-trusted-advisor-api-exclude-resources/)
-- [Introducing file commit history in Amazon CodeCatalyst](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-codecatalyst-file-commit-history/)
-- [Amazon Personalize launches new recipes supporting larger item catalogs with lower latency](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-personalize-recipes-item-catalogs-lower-latency/)
-- [Amazon Connect Contact Lens now provides generative AI-powered agent performance evaluations &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-generative-ai-agent-performance-evaluations-preview/)
-- [Amazon Chime SDK Voice Connector now supports audio streaming G.711 A-Law encoded audio](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-chime-sdk-voice-connector-g-711-a-law-encoded-audio/)
-- [Knowledge Bases for Amazon Bedrock now supports MongoDB Atlas for vector storage](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-mongodb-atlas-vector-storage/)
-- [Amazon EC2 simplifies visibility into your active AMIs](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-simplifies-visibility-active-amis/)
-- [Amazon EC2 now protects your AMIs from accidental deregistration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-protects-amis-accidental-deregistration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

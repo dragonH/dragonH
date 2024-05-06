@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports April 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-oracle-april-2024-release-update/)
 - [Amazon FSx for Windows File Server is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-windows-file-server-canada-calgary-region/)
 - [Amazon FSx for Lustre is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-lustre-canada-west-calgary-region/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-netapp-ontap-canada-west-calgary-region/)
@@ -67,7 +68,6 @@
 - [Amazon EMR Studio is now available in the two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-studio-two-additional-regions/)
 - [AWS Amplify Gen 2 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-amplify-gen-2-available/)
 - [Amazon EMR Serverless announces detailed performance monitoring of Apache Spark jobs with Amazon Managed Service for Prometheus](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-serverless-performance-monitoring-apache-spark-jobs/)
-- [Amazon Connect Cases now provides APIs for managing attachments](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-cases-apis-managing-attachments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

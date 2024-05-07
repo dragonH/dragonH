@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing a larger instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-lightsail-larger-instance-bundle/)
 - [AWS Budgets now supports resource and tag-based access controls](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-budgets-resource-tag-based-access-controls/)
 - [Amazon RDS for SQL Server Supports Minor Versions 2019 CU26 and 2022 CU12 GDR](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-minor-versions-2019-cu26-2022-cu12-gdr/)
 - [Amazon MemoryDB now supports condition keys for user authentication and encryption in transit](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-memorydb-condition-keys-authentication-encryption-transit/)
@@ -67,7 +68,6 @@
 - [Amazon RDS Performance Insights now supports RDS for Oracle Multitenant](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-performance-insights-oracle-multitenant/)
 - [Agents for Amazon Bedrock now supports Provisioned Throughput pricing model](https://aws.amazon.com/about-aws/whats-new/2024/05/agents-amazon-bedrock-provisioned-pricing-model/)
 - [Announcing Amazon Bedrock Studio preview](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-studio-preview/)
-- [Amazon EC2 R7i instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-r7i-instances-govcloud-us-east-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

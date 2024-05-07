@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MemoryDB now supports condition keys for user authentication and encryption in transit](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-memorydb-condition-keys-authentication-encryption-transit/)
+- [AWS Cost Anomaly Detection reduces anomaly detection latency by up to 30%](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cost-anomaly-detection-reduces-latency/)
+- [Amazon Titan Text Premier is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-titan-text-premier-amazon-bedrock/)
+- [AWS Global Accelerator launches new edge location in Türkiye](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-global-accelerator-new-edge-location-turkiye/)
+- [Amazon RDS Performance Insights now supports RDS for Oracle Multitenant](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-performance-insights-oracle-multitenant/)
 - [Agents for Amazon Bedrock now supports Provisioned Throughput pricing model](https://aws.amazon.com/about-aws/whats-new/2024/05/agents-amazon-bedrock-provisioned-pricing-model/)
 - [Announcing Amazon Bedrock Studio preview](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-studio-preview/)
 - [Amazon EC2 R7i instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-r7i-instances-govcloud-us-east-region/)
 - [AWS Firewall Manager is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-firewall-manager-canada-west-calgary-region/)
 - [Amazon RDS for Oracle now supports April 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-oracle-april-2024-release-update/)
-- [Amazon FSx for Windows File Server is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-windows-file-server-canada-calgary-region/)
-- [Amazon FSx for Lustre is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-lustre-canada-west-calgary-region/)
-- [Amazon FSx for NetApp ONTAP is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-netapp-ontap-canada-west-calgary-region/)
-- [Amazon FSx for OpenZFS is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-openzfs-canada-west-calgary-region/)
-- [AWS IoT TwinMaker announces Knowledge Graph optimization for efficient entity-metadata query capabilities](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-iot-twinmaker-knowledge-graph-optimization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

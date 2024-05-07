@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Budgets now supports resource and tag-based access controls](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-budgets-resource-tag-based-access-controls/)
+- [Amazon RDS for SQL Server Supports Minor Versions 2019 CU26 and 2022 CU12 GDR](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-minor-versions-2019-cu26-2022-cu12-gdr/)
 - [Amazon MemoryDB now supports condition keys for user authentication and encryption in transit](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-memorydb-condition-keys-authentication-encryption-transit/)
 - [AWS Cost Anomaly Detection reduces anomaly detection latency by up to 30%](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cost-anomaly-detection-reduces-latency/)
 - [Amazon Titan Text Premier is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-titan-text-premier-amazon-bedrock/)
@@ -66,8 +68,6 @@
 - [Agents for Amazon Bedrock now supports Provisioned Throughput pricing model](https://aws.amazon.com/about-aws/whats-new/2024/05/agents-amazon-bedrock-provisioned-pricing-model/)
 - [Announcing Amazon Bedrock Studio preview](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-studio-preview/)
 - [Amazon EC2 R7i instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-r7i-instances-govcloud-us-east-region/)
-- [AWS Firewall Manager is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-firewall-manager-canada-west-calgary-region/)
-- [Amazon RDS for Oracle now supports April 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-oracle-april-2024-release-update/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

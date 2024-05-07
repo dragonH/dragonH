@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Agents for Amazon Bedrock now supports Provisioned Throughput pricing model](https://aws.amazon.com/about-aws/whats-new/2024/05/agents-amazon-bedrock-provisioned-pricing-model/)
 - [Announcing Amazon Bedrock Studio preview](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-studio-preview/)
 - [Amazon EC2 R7i instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-r7i-instances-govcloud-us-east-region/)
 - [AWS Firewall Manager is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-firewall-manager-canada-west-calgary-region/)
@@ -67,7 +68,6 @@
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-netapp-ontap-canada-west-calgary-region/)
 - [Amazon FSx for OpenZFS is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-fsx-openzfs-canada-west-calgary-region/)
 - [AWS IoT TwinMaker announces Knowledge Graph optimization for efficient entity-metadata query capabilities](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-iot-twinmaker-knowledge-graph-optimization/)
-- [Amazon Connect Contact Lens now provides support for PII redaction in Spanish](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-contact-lens-pii-redaction-spanish/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

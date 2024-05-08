@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [New Generative Engine with three synthetic English Polly voices](https://aws.amazon.com/about-aws/whats-new/2024/05/generative-engine-three-english-polly-voices/)
 - [Amazon OpenSearch Serverless now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-europe-paris-region/)
 - [Amazon Connect launches UI and API support for enhanced search capabilities for Flows and Flow Modules](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-ui-api-enhanced-search-capabilities-flows-modules/)
 - [Amazon Connect launches AWS CloudTrail support for flow management pages](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-aws-cloudtrail-flow-management-pages/)
@@ -67,7 +68,6 @@
 - [AWS Resilience Hub expands application resilience drift detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-resilience-hub-resilience-drift-detection/)
 - [Announcing a larger instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-lightsail-larger-instance-bundle/)
 - [AWS Budgets now supports resource and tag-based access controls](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-budgets-resource-tag-based-access-controls/)
-- [Amazon RDS for SQL Server Supports Minor Versions 2019 CU26 and 2022 CU12 GDR](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-minor-versions-2019-cu26-2022-cu12-gdr/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

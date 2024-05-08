@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Inf2 instances, optimized for generative AI, now in new regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-inf2-instances-generative-ai-new-regions/)
 - [New Generative Engine with three synthetic English Polly voices](https://aws.amazon.com/about-aws/whats-new/2024/05/generative-engine-three-english-polly-voices/)
 - [Amazon OpenSearch Serverless now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-europe-paris-region/)
 - [Amazon Connect launches UI and API support for enhanced search capabilities for Flows and Flow Modules](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-ui-api-enhanced-search-capabilities-flows-modules/)
@@ -67,7 +68,6 @@
 - [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for flows and flow modules](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-granular-access-controls-tags-flow-modules/)
 - [AWS Resilience Hub expands application resilience drift detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-resilience-hub-resilience-drift-detection/)
 - [Announcing a larger instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-lightsail-larger-instance-bundle/)
-- [AWS Budgets now supports resource and tag-based access controls](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-budgets-resource-tag-based-access-controls/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

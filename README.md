@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-europe-paris-region/)
+- [Amazon Connect launches UI and API support for enhanced search capabilities for Flows and Flow Modules](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-ui-api-enhanced-search-capabilities-flows-modules/)
+- [Amazon Connect launches AWS CloudTrail support for flow management pages](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-aws-cloudtrail-flow-management-pages/)
+- [Amazon ElastiCache updates minimum TLS version to 1.2](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-elasticache-minimum-tls-version-1-2/)
+- [Amazon SageMaker now integrates with Amazon DataZone to help unify governance across data and ML assets](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-datazone-unifying-governance-data-ml-assets/)
+- [Amazon Connect launches granular access controls &lpar;using resource tags&rpar; for flows and flow modules](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-granular-access-controls-tags-flow-modules/)
+- [AWS Resilience Hub expands application resilience drift detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-resilience-hub-resilience-drift-detection/)
 - [Announcing a larger instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-lightsail-larger-instance-bundle/)
 - [AWS Budgets now supports resource and tag-based access controls](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-budgets-resource-tag-based-access-controls/)
 - [Amazon RDS for SQL Server Supports Minor Versions 2019 CU26 and 2022 CU12 GDR](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-server-minor-versions-2019-cu26-2022-cu12-gdr/)
-- [Amazon MemoryDB now supports condition keys for user authentication and encryption in transit](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-memorydb-condition-keys-authentication-encryption-transit/)
-- [AWS Cost Anomaly Detection reduces anomaly detection latency by up to 30%](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cost-anomaly-detection-reduces-latency/)
-- [Amazon Titan Text Premier is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-titan-text-premier-amazon-bedrock/)
-- [AWS Global Accelerator launches new edge location in Türkiye](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-global-accelerator-new-edge-location-turkiye/)
-- [Amazon RDS Performance Insights now supports RDS for Oracle Multitenant](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-performance-insights-oracle-multitenant/)
-- [Agents for Amazon Bedrock now supports Provisioned Throughput pricing model](https://aws.amazon.com/about-aws/whats-new/2024/05/agents-amazon-bedrock-provisioned-pricing-model/)
-- [Announcing Amazon Bedrock Studio preview](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-studio-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

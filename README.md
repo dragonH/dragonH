@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR 7.1 now supports Trino 435, Python 3.11](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-trino-435-python-3-11/)
+- [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
+- [Amazon EMR 7.1 now supports additional metrics for enhanced monitoring](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-metrics-enhanced-monitoring/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.7.0](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-pgvector-0-7-0/)
 - [Amazon Managed Service for Prometheus collector integrates with Amazon EKS access management controls](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-collector-eks-access-management-controls/)
 - [Amazon SageMaker notebooks now support G6 instance types](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-notebooks-g6-instance-types/)
@@ -65,9 +68,6 @@
 - [Amazon Cognito introduces tiered pricing for machine-to-machine &lpar;M2M&rpar; usage](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cognito-tiered-pricing-m2m-usage/)
 - [Amazon QuickSight launches SPICE capacity auto-purchase API](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-spice-capacity-auto-purchase-api/)
 - [Amazon ECR adds pull through cache support for GitLab.com](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ecr-pull-cache-support-gitlab-com/)
-- [Amazon RDS for PostgreSQL supports minor versions 16.3, 15.7, 14.12, 13.15, and 12.19](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-supports-new-versions/)
-- [Amazon ElastiCache updates minimum TLS version to 1.2](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-elasticache-minimum-tls-version-1-2/)
-- [Amazon OpenSearch Serverless now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-europe-paris-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

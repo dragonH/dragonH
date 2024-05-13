@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Managed Service for Prometheus collector integrates with Amazon EKS access management controls](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-collector-eks-access-management-controls/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.7.0](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-pgvector-0-7-0/)
+- [Amazon Managed Service for Prometheus collector integrates with Amazon EKS access management controls](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-collector-eks-access-management-controls/)
 - [Amazon SageMaker notebooks now support G6 instance types](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-notebooks-g6-instance-types/)
 - [Amazon MQ now supports RabbitMQ version 3.12](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mq-rabbitmq-version-3-12/)
 - [Amazon Cognito introduces tiered pricing for machine-to-machine &lpar;M2M&rpar; usage](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cognito-tiered-pricing-m2m-usage/)

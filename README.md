@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; flow logs extends support for Amazon Elastic Container Service &lpar;ECS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-vpc-flow-logs-extends-support-ecs/)
 - [Introducing Amazon EC2 C7i-flex instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-c7i-flex-instances/)
+- [Amazon EBS direct APIs now support VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ebs-direct-apis-vpc-endpoints-policies/)
 - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 - [Amazon EMR 7.1 now supports Trino 435, Python 3.11](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-trino-435-python-3-11/)
 - [AWS IAM Identity Center adds PKCE-based authorization for AWS applications](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-iam-identity-pkce-authorizations-aws-applications/)
@@ -67,7 +68,6 @@
 - [AWS Security Hub announces support for version 3.0 of the CIS AWS Foundations Benchmark](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-security-hub-3-0-cis-foundations-benchmark/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.7.0](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-pgvector-0-7-0/)
 - [Amazon Managed Service for Prometheus collector integrates with Amazon EKS access management controls](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-collector-eks-access-management-controls/)
-- [Amazon SageMaker notebooks now support G6 instance types](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-notebooks-g6-instance-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,8 +60,8 @@
 <!-- AWS-NEWS:START -->
 - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 - [Amazon EMR 7.1 now supports Trino 435, Python 3.11](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-trino-435-python-3-11/)
-- [AWS IAM Identity Center adds PKCE-based authorization for AWS applications](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-iam-identity-pkce-authorizations-aws-applications/)
 - [Amazon EMR 7.1 now supports additional metrics for enhanced monitoring](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-metrics-enhanced-monitoring/)
+- [AWS IAM Identity Center adds PKCE-based authorization for AWS applications](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-iam-identity-pkce-authorizations-aws-applications/)
 - [AWS Security Hub announces support for version 3.0 of the CIS AWS Foundations Benchmark](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-security-hub-3-0-cis-foundations-benchmark/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.7.0](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-pgvector-0-7-0/)
 - [Amazon Managed Service for Prometheus collector integrates with Amazon EKS access management controls](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-collector-eks-access-management-controls/)

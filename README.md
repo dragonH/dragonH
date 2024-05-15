@@ -67,7 +67,7 @@
 - [Amazon EC2 M6id instances are now available in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-m6id-instances-europe-london/)
 - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 - [Amazon EMR 7.1 now supports Trino 435, Python 3.11](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-trino-435-python-3-11/)
-- [Amazon EMR 7.1 now supports additional metrics for enhanced monitoring](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-emr-7-1-metrics-enhanced-monitoring/)
+- [AWS IAM Identity Center adds PKCE-based authorization for AWS applications](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-iam-identity-pkce-authorizations-aws-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

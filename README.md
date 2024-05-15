@@ -66,8 +66,8 @@
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240418](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-extended-support-minor/)
 - [AWS CodeBuild now supports connecting to an Amazon VPC from reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-codebuild-connecting-vpc-reserved-capacity/)
 - [Amazon EKS announces native support for autoscaling CoreDNS Pods](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eks-native-support-autoscaling-coredns-pods/)
+- [Amazon Connect Contact Lens now provides analytics for Flows and Flow Modules](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-contact-lens-analytics-flow-modules/)
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; flow logs extends support for Amazon Elastic Container Service &lpar;ECS&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-vpc-flow-logs-extends-support-ecs/)
-- [Amazon EventBridge now supports Customer Managed Keys &lpar;CMK&rpar; for Event Buses](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eventbridge-cmk-event-buses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

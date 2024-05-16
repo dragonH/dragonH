@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon MWAA now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-additional-regions/)
+- [AWS announces Amazon DocumentDB zero-ETL integration with Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-documentdb-zero-etl-integration-opensearch-service/)
 - [Announcing General Availability of Amazon Redshift Serverless in the South America &lpar;São Paulo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-amazon-redshift-serverless-sao-paulo-region/)
 - [Amazon Managed Service for Prometheus now supports inline editing of alert manager and rules configuration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-inline-editing/)
+- [Amazon WorkSpaces Core now supports Windows Server bundles](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-workspaces-core-windows-server-bundles/)
 - [Amazon OpenSearch Serverless now available in Europe &lpar;London&rpar; and Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-london-mumbai/)
 - [Amazon MWAA now supports Airflow REST API with web server auto scaling](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-airflow-rest-api-web-server-auto-scaling/)
-- [Amazon Detective adds support for EKS audit logs in Security Lake integration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-detective-eks-audit-logs-security-lake-integration/)
-- [AWS Shield Advanced is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-shield-advanced-canada-west-calgary-region/)
-- [Amazon Managed Grafana now supports Grafana version 10.4](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-grafana-supports-version-10-4/)
-- [Amazon VPC Lattice now supports TLS Passthrough](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-vpc-lattice-tls-passthrough/)
-- [AWS HealthImaging supports cross account data imports](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-healthimaging-cross-account-data-imports/)
+- [Amazon OpenSearch Ingestion launches new user interface for easy blueprint discovery](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-ingestion-interface-blueprint/)
+- [Amazon Connect now supports creating rules for monitoring and alerting on Flow metrics](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-creating-rules-monitoring-alerting-flow-metrics/)
+- [Application Load Balancer launches IPv6 only support for internet clients](https://aws.amazon.com/about-aws/whats-new/2024/05/application-load-balancer-ipv6-internet-clients/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

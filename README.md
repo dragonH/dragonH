@@ -62,12 +62,12 @@
 - [Announcing General Availability of Amazon Redshift Serverless in the South America &lpar;São Paulo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-amazon-redshift-serverless-sao-paulo-region/)
 - [Amazon Managed Service for Prometheus now supports inline editing of alert manager and rules configuration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-inline-editing/)
 - [Amazon OpenSearch Serverless now available in Europe &lpar;London&rpar; and Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-london-mumbai/)
+- [Amazon MWAA now supports Airflow REST API with web server auto scaling](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-airflow-rest-api-web-server-auto-scaling/)
 - [Amazon Detective adds support for EKS audit logs in Security Lake integration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-detective-eks-audit-logs-security-lake-integration/)
 - [AWS Shield Advanced is now available in Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-shield-advanced-canada-west-calgary-region/)
 - [Amazon Managed Grafana now supports Grafana version 10.4](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-grafana-supports-version-10-4/)
 - [Amazon VPC Lattice now supports TLS Passthrough](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-vpc-lattice-tls-passthrough/)
 - [AWS HealthImaging supports cross account data imports](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-healthimaging-cross-account-data-imports/)
-- [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240418](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-postgresql-extended-support-minor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

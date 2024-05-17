@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Knowledge Bases for Amazon Bedrock now lets you configure Guardrails](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-guardrails/)
+- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240408](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-extended-support-minor-5-7-44-rds-20240408/)
+- [Knowledge Bases for Amazon Bedrock now lets you configure inference parameters](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-parameters/)
+- [AWS HealthImaging now supports retrieval of DICOM Part 10 instances](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-healthimaging-retrieval-dicom-part-10-instances/)
+- [Amazon MSK now supports the removal of brokers from MSK provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-removal-brokers-provisioned-clusters/)
 - [Amazon MWAA now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-additional-regions/)
 - [AWS announces Amazon DocumentDB zero-ETL integration with Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-documentdb-zero-etl-integration-opensearch-service/)
+- [Amazon WorkSpaces Core now supports Windows Server bundles](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-workspaces-core-windows-server-bundles/)
 - [Announcing General Availability of Amazon Redshift Serverless in the South America &lpar;São Paulo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-amazon-redshift-serverless-sao-paulo-region/)
 - [Amazon Managed Service for Prometheus now supports inline editing of alert manager and rules configuration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-inline-editing/)
-- [Amazon WorkSpaces Core now supports Windows Server bundles](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-workspaces-core-windows-server-bundles/)
-- [Amazon OpenSearch Serverless now available in Europe &lpar;London&rpar; and Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-serverless-london-mumbai/)
-- [Amazon MWAA now supports Airflow REST API with web server auto scaling](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-airflow-rest-api-web-server-auto-scaling/)
-- [Amazon OpenSearch Ingestion launches new user interface for easy blueprint discovery](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-ingestion-interface-blueprint/)
-- [Amazon Connect now supports creating rules for monitoring and alerting on Flow metrics](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-creating-rules-monitoring-alerting-flow-metrics/)
-- [Application Load Balancer launches IPv6 only support for internet clients](https://aws.amazon.com/about-aws/whats-new/2024/05/application-load-balancer-ipv6-internet-clients/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

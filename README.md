@@ -58,14 +58,14 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Knowledge Bases for Amazon Bedrock now lets you configure Guardrails](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-guardrails/)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240408](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-extended-support-minor-5-7-44-rds-20240408/)
+- [Knowledge Bases for Amazon Bedrock now lets you configure Guardrails](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-guardrails/)
 - [Knowledge Bases for Amazon Bedrock now lets you configure inference parameters](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-parameters/)
-- [AWS HealthImaging now supports retrieval of DICOM Part 10 instances](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-healthimaging-retrieval-dicom-part-10-instances/)
 - [Amazon MSK now supports the removal of brokers from MSK provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-removal-brokers-provisioned-clusters/)
+- [AWS HealthImaging now supports retrieval of DICOM Part 10 instances](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-healthimaging-retrieval-dicom-part-10-instances/)
+- [Bottlerocket now supports NVIDIA Fabric Manager for Multi-GPU Workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/bottlerocket-nvidia-fabric-manager-multi-gpu-workloads/)
 - [Amazon MWAA now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-additional-regions/)
 - [AWS announces Amazon DocumentDB zero-ETL integration with Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-documentdb-zero-etl-integration-opensearch-service/)
-- [Amazon WorkSpaces Core now supports Windows Server bundles](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-workspaces-core-windows-server-bundles/)
 - [Announcing General Availability of Amazon Redshift Serverless in the South America &lpar;São Paulo&rpar; AWS region](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-amazon-redshift-serverless-sao-paulo-region/)
 - [Amazon Managed Service for Prometheus now supports inline editing of alert manager and rules configuration](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-managed-service-prometheus-inline-editing/)
 <!-- AWS-NEWS:END -->

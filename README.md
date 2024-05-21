@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service releases cross cluster alerting monitors](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-service-cross-cluster-alerting-monitors/)
+- [Amazon RDS for Db2 introduces hourly licensing from IBM through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-db2-hourly-licensing-ibm-aws-marketplace/)
 - [Announcing the general availability of AWS Database Migration Service support for S3 Parquet as a source](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-aws-database-migration-service-support-s3-parquet-source)
 - [Amazon QuickSight now supports GetClusterCredentialswithIAM for Redshift Data Sources](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-getclustercredentialswithiam-redshift-data-sources/)
 - [AWS Resource Explorer now provides filtering on resources that support tags](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-resource-explorer-provides-filtering-resources-support-tags)
@@ -66,8 +68,6 @@
 - [Knowledge Bases for Amazon Bedrock now lets you configure Guardrails](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-guardrails/)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240408](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-sql-extended-support-minor-5-7-44-rds-20240408/)
 - [Knowledge Bases for Amazon Bedrock now lets you configure inference parameters](https://aws.amazon.com/about-aws/whats-new/2024/05/knowledge-bases-amazon-bedrock-configure-parameters/)
-- [AWS HealthImaging now supports retrieval of DICOM Part 10 instances](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-healthimaging-retrieval-dicom-part-10-instances/)
-- [Amazon MSK now supports the removal of brokers from MSK provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-removal-brokers-provisioned-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon OpenSearch Service now supports OpenSearch version 2.13](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-supports-opensearch-version-2-13/)
 - [RDS Performance Insights provides fine grained access control](https://aws.amazon.com/about-aws/whats-new/2024/05/rds-performance-insights-provides-fine-grained-access-control/)
+- [Amazon OpenSearch Service now supports OpenSearch version 2.13](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-supports-opensearch-version-2-13/)
 - [Amazon Kinesis Data Streams supports data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-kinesis-data-streams-data-plane-logging-aws-cloudtrail)
 - [Amazon OpenSearch Service releases cross cluster alerting monitors](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-service-cross-cluster-alerting-monitors/)
 - [Amazon Verified Permissions improves support for Cognito tokens](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-verified-permissions-support-cognito-tokens)

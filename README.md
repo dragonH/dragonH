@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon SES launches Mail Manager to help manage complex inbound and outbound email workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ses-mail-manager-inbound-outbound-email/)
 - [Amazon MWAA supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-fips-140-2-endpoints-us-canada-regions)
+- [AWS Lambda console now supports sharing test events between developers in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-lambda-console-sharing-test-events-additional-regions)
+- [Amazon RDS Extended Support APIs are now available](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-extended-support-apis-available)
 - [Announcing LlamaIndex support for Amazon Neptune to build GraphRAG applications](https://aws.amazon.com/about-aws/whats-new/2024/05/llamaIndex-amazon-neptune-graphrag-applications/)
 - [Amazon Redshift announces Snapshot Isolation as the default for Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-snapshot-isolation-provisioned-clusters)
 - [Amazon OpenSearch Service zero-ETL integration with Amazon S3 now available](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-zero-etl-integration-s3/)
 - [Amazon Security Lake now supports logs from AWS WAF](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-security-lake-supports-logs-aws-waf)
 - [Amazon RDS Proxy is now available in 6 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-proxy-6-additional-aws-regions/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.13](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-supports-opensearch-version-2-13/)
-- [RDS Performance Insights provides fine grained access control](https://aws.amazon.com/about-aws/whats-new/2024/05/rds-performance-insights-provides-fine-grained-access-control/)
-- [Amazon Kinesis Data Streams supports data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-kinesis-data-streams-data-plane-logging-aws-cloudtrail)
+- [Amazon EventBridge Event Bus now supports improved filtering capabilities for event matching](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eventbridge-event-bus-filtering-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

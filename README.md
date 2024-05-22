@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SES launches Mail Manager to help manage complex inbound and outbound email workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ses-mail-manager-inbound-outbound-email/)
+- [Amazon Redshift announces Snapshot Isolation as the default for Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-snapshot-isolation-provisioned-clusters)
 - [RDS Performance Insights provides fine grained access control](https://aws.amazon.com/about-aws/whats-new/2024/05/rds-performance-insights-provides-fine-grained-access-control/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.13](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-opensearch-supports-opensearch-version-2-13/)
 - [Amazon Kinesis Data Streams supports data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-kinesis-data-streams-data-plane-logging-aws-cloudtrail)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Db2 introduces hourly licensing from IBM through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-db2-hourly-licensing-ibm-aws-marketplace/)
 - [Announcing an improved private offer experience for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-marketplace-sellers-improved-private-offer-experience/)
 - [Amazon Lightsail supports easy switching between dual-stack and IPv6-only instance bundles](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-lightsail-dual-stack-ipv6-instance-bundles/)
-- [Announcing the general availability of AWS Database Migration Service support for S3 Parquet as a source](https://aws.amazon.com/about-aws/whats-new/2024/05/general-availability-aws-database-migration-service-support-s3-parquet-source)
-- [Amazon QuickSight now supports GetClusterCredentialswithIAM for Redshift Data Sources](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-getclustercredentialswithiam-redshift-data-sources/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

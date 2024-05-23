@@ -58,12 +58,12 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SES launches Mail Manager to help manage complex inbound and outbound email workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ses-mail-manager-inbound-outbound-email/)
-- [Amazon MWAA supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-fips-140-2-endpoints-us-canada-regions)
-- [AWS Entity Resolution expands support for customer compliance with ISO and SOC](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-entity-resolution-customer-compliance-iso-soc)
-- [Amazon QuickSight launches public API for SPICE CMK Data Encryption](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-public-api-spice-cmk-data-encryption)
 - [AWS Lambda console now supports sharing test events between developers in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-lambda-console-sharing-test-events-additional-regions)
 - [Amazon RDS Extended Support APIs are now available](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-extended-support-apis-available)
+- [Amazon MWAA supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-fips-140-2-endpoints-us-canada-regions)
+- [Amazon SES launches Mail Manager to help manage complex inbound and outbound email workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ses-mail-manager-inbound-outbound-email/)
+- [Amazon QuickSight launches public API for SPICE CMK Data Encryption](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-public-api-spice-cmk-data-encryption)
+- [AWS Entity Resolution expands support for customer compliance with ISO and SOC](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-entity-resolution-customer-compliance-iso-soc)
 - [Amazon Braket adds new quantum processor from IQM in Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-braket-new-quantum-processor-iqm-stockholm-region/)
 - [Announcing LlamaIndex support for Amazon Neptune to build GraphRAG applications](https://aws.amazon.com/about-aws/whats-new/2024/05/llamaIndex-amazon-neptune-graphrag-applications/)
 - [Amazon Redshift announces Snapshot Isolation as the default for Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-snapshot-isolation-provisioned-clusters)

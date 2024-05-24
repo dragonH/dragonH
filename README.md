@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Mistral Small foundation model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-mistral-small-foundation-model/)
+- [PostgreSQL 17 Beta 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/05/postgresql-17-beta-1-amazon-rds-database-preview-environment)
 - [Connect your Jupyter notebooks to Amazon EMR Serverless using Apache Livy endpoints](https://aws.amazon.com/about-aws/whats-new/2024/05/connect-jupyter-notebooks-amazon-emr-serverless-apache-livy-endpoints)
-- [AWS Launches Console-based Bulk Policy Migration for Billing and Cost Management Console Access](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-console-based-bulk-policy-migration-billing-cost-management-console-access)
 - [AWS Chatbot now supports tagging of AWS Chatbot resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-chatbot-tagging-chatbot-resources/)
+- [AWS Launches Console-based Bulk Policy Migration for Billing and Cost Management Console Access](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-console-based-bulk-policy-migration-billing-cost-management-console-access)
+- [Introducing the Amazon Kinesis Data Streams Apache Spark Structured Streaming Connector for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-kinesis-data-streams-apache-spark-structured-streaming-connector-amazon-emr)
 - [New open-source AWS Advanced Python Wrapper driver now available for Amazon Aurora and Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2024/05/open-source-advanced-python-wrapper-amazon-aurora-rds/)
+- [AWS CloudFormation accelerates dev-test cycle with a new parameter for DeleteStack API](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cloudformation-dev-test-cycle-new-parameter-deletestack-api)
 - [AWS re:Post Private is now available in five new regions](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-re-post-private-new-regions)
 - [AWS announces new AWS Direct Connect location in Chicago, Illinois](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-new-direct-connect-location-chicago-illinois/)
-- [AWS CloudFormation accelerates dev-test cycle with a new parameter for DeleteStack API](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cloudformation-dev-test-cycle-new-parameter-deletestack-api)
-- [Amazon EC2 M7i-flex, M7i, C7i, and R7i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-m7i-flex-m7i-c7i-r7i-instances-additional-regions)
-- [AWS CloudFormation streamlines deployment troubleshooting with AWS CloudTrail integration](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cloudformation-deployment-troubleshooting-aws-cloudtrail-integration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

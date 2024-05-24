@@ -60,8 +60,8 @@
 <!-- AWS-NEWS:START -->
 - [Mistral Small foundation model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-mistral-small-foundation-model/)
 - [Connect your Jupyter notebooks to Amazon EMR Serverless using Apache Livy endpoints](https://aws.amazon.com/about-aws/whats-new/2024/05/connect-jupyter-notebooks-amazon-emr-serverless-apache-livy-endpoints)
-- [AWS Chatbot now supports tagging of AWS Chatbot resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-chatbot-tagging-chatbot-resources/)
 - [AWS Launches Console-based Bulk Policy Migration for Billing and Cost Management Console Access](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-console-based-bulk-policy-migration-billing-cost-management-console-access)
+- [AWS Chatbot now supports tagging of AWS Chatbot resources](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-chatbot-tagging-chatbot-resources/)
 - [New open-source AWS Advanced Python Wrapper driver now available for Amazon Aurora and Amazon RDS](https://aws.amazon.com/about-aws/whats-new/2024/05/open-source-advanced-python-wrapper-amazon-aurora-rds/)
 - [AWS re:Post Private is now available in five new regions](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-re-post-private-new-regions)
 - [AWS announces new AWS Direct Connect location in Chicago, Illinois](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-new-direct-connect-location-chicago-illinois/)

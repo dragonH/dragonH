@@ -64,10 +64,10 @@
 - [AWS CloudFormation accelerates dev-test cycle with a new parameter for DeleteStack API](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cloudformation-dev-test-cycle-new-parameter-deletestack-api)
 - [Amazon EC2 M7i-flex, M7i, C7i, and R7i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-m7i-flex-m7i-c7i-r7i-instances-additional-regions)
 - [AWS CloudFormation streamlines deployment troubleshooting with AWS CloudTrail integration](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-cloudformation-deployment-troubleshooting-aws-cloudtrail-integration)
-- [Amazon SES launches Mail Manager to help manage complex inbound and outbound email workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ses-mail-manager-inbound-outbound-email/)
+- [AWS Lambda console now supports sharing test events between developers in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-lambda-console-sharing-test-events-additional-regions)
+- [Amazon RDS Extended Support APIs are now available](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-extended-support-apis-available)
 - [Amazon MWAA supports FIPS 140-2 compliant endpoints in US and Canada Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-mwaa-fips-140-2-endpoints-us-canada-regions)
-- [AWS Entity Resolution expands support for customer compliance with ISO and SOC](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-entity-resolution-customer-compliance-iso-soc)
-- [Amazon QuickSight launches public API for SPICE CMK Data Encryption](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-public-api-spice-cmk-data-encryption)
+- [Amazon SES launches Mail Manager to help manage complex inbound and outbound email workloads](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ses-mail-manager-inbound-outbound-email/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

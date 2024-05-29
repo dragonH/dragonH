@@ -61,12 +61,12 @@
 - [One-click instance profile creation to launch an RDS Custom for SQL Server instance](https://aws.amazon.com/about-aws/whats-new/2024/05/one-click-instance-profile-creation-rds-custom-sql-server-instance)
 - [Claude 3 Sonnet and Haiku now available in Amazon Bedrock in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/claude-3-sonnet-haiku-amazon-bedrock-frankfurt-region)
 - [Amazon MSK adds support for Apache Kafka version 3.7](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-support-apache-kafka-version-3-7)
-- [Amazon SageMaker Canvas announces up to 10x faster startup time](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-canvas-10x-faster-startup-time/)
-- [Amazon FSx for Lustre is now available in the AWS US East &lpar;Atlanta&rpar; Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-fsx-lustre-us-east-atlanta-local-zone)
 - [Amazon RDS Multi-AZ deployment with two readable standbys supports 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-multi-az-two-standbys-6-regions/)
+- [Amazon SageMaker Canvas announces up to 10x faster startup time](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-canvas-10x-faster-startup-time/)
 - [Introducing the Document widget for PartyRock](https://aws.amazon.com/about-aws/whats-new/2024/05/party-rock-document-widget)
-- [Introducing Amazon EC2 High Memory U7i Instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-high-memory-u7i-instances/)
+- [Amazon FSx for Lustre is now available in the AWS US East &lpar;Atlanta&rpar; Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-fsx-lustre-us-east-atlanta-local-zone)
 - [Amazon MSK launches support for KRaft mode for new Apache Kafka clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-kraft-mode-apache-kafka-clusters/)
+- [Introducing Amazon EC2 High Memory U7i Instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-high-memory-u7i-instances/)
 - [Amazon DynamoDB now supports resource-based policies in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-dynamodb-resource-based-policies-govcloud-regions)
 <!-- AWS-NEWS:END -->
 

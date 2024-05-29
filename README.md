@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [One-click instance profile creation to launch an RDS Custom for SQL Server instance](https://aws.amazon.com/about-aws/whats-new/2024/05/one-click-instance-profile-creation-rds-custom-sql-server-instance)
 - [Claude 3 Sonnet and Haiku now available in Amazon Bedrock in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/claude-3-sonnet-haiku-amazon-bedrock-frankfurt-region)
+- [Amazon MSK adds support for Apache Kafka version 3.7](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-support-apache-kafka-version-3-7)
 - [Amazon SageMaker Canvas announces up to 10x faster startup time](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-canvas-10x-faster-startup-time/)
 - [Amazon FSx for Lustre is now available in the AWS US East &lpar;Atlanta&rpar; Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-fsx-lustre-us-east-atlanta-local-zone)
 - [Amazon RDS Multi-AZ deployment with two readable standbys supports 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-multi-az-two-standbys-6-regions/)
+- [Introducing the Document widget for PartyRock](https://aws.amazon.com/about-aws/whats-new/2024/05/party-rock-document-widget)
 - [Introducing Amazon EC2 High Memory U7i Instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-high-memory-u7i-instances/)
+- [Amazon MSK launches support for KRaft mode for new Apache Kafka clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-kraft-mode-apache-kafka-clusters/)
 - [Amazon DynamoDB now supports resource-based policies in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-dynamodb-resource-based-policies-govcloud-regions)
-- [Amazon Redshift Serverless is now generally available in the AWS China &lpar;Ningxia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-china-ningxia-region)
-- [Amazon CloudWatch now offers 30 days of alarm history](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cloudwatch-offers-30-days-alarm-history)
-- [New Oracle to PostgreSQL built-in system functions in DMS Schema Conversion](https://aws.amazon.com/about-aws/whats-new/2024/05/oracle-postgresql-built-in-system-functions-schema-conversion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

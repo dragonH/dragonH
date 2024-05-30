@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Real-time audio and Microsoft Server 2022 support are now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/05/real-time-audio-microsoft-server-2022-support-amazon-appstream-2-0-multi-session-fleets)
 - [Powertools for AWS Lambda &lpar;Python&rpar; adds support for Agents for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/powertools-aws-lambda-python-support-agents-bedrock)
 - [Introducing versioning for AWS WAF Bot &amp; Fraud Control managed rule groups](https://aws.amazon.com/about-aws/whats-new/2024/05/versioning-for-aws-waf-bot-fraud-control-managed-rule-groups)
 - [Amazon Bedrock announces new Converse API](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-new-converse-api)
@@ -67,7 +68,6 @@
 - [One-click instance profile creation to launch an RDS Custom for SQL Server instance](https://aws.amazon.com/about-aws/whats-new/2024/05/one-click-instance-profile-creation-rds-custom-sql-server-instance)
 - [Claude 3 Sonnet and Haiku now available in Amazon Bedrock in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/05/claude-3-sonnet-haiku-amazon-bedrock-frankfurt-region)
 - [Amazon MSK adds support for Apache Kafka version 3.7](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-support-apache-kafka-version-3-7)
-- [Amazon RDS Multi-AZ deployment with two readable standbys supports 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-rds-multi-az-two-standbys-6-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

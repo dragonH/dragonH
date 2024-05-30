@@ -65,8 +65,8 @@
 - [Amazon SageMaker Canvas announces up to 10x faster startup time](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-sagemaker-canvas-10x-faster-startup-time/)
 - [Introducing the Document widget for PartyRock](https://aws.amazon.com/about-aws/whats-new/2024/05/party-rock-document-widget)
 - [Amazon FSx for Lustre is now available in the AWS US East &lpar;Atlanta&rpar; Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-fsx-lustre-us-east-atlanta-local-zone)
-- [Amazon MSK launches support for KRaft mode for new Apache Kafka clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-kraft-mode-apache-kafka-clusters/)
 - [Introducing Amazon EC2 High Memory U7i Instances](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-ec2-high-memory-u7i-instances/)
+- [Amazon MSK launches support for KRaft mode for new Apache Kafka clusters](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-msk-kraft-mode-apache-kafka-clusters/)
 - [Amazon DynamoDB now supports resource-based policies in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-dynamodb-resource-based-policies-govcloud-regions)
 <!-- AWS-NEWS:END -->
 

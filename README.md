@@ -60,10 +60,10 @@
 <!-- AWS-NEWS:START -->
 - [Amazon QuickSight launches multi column sorting for Tables](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-multi-column-sorting-tables)
 - [Real-time audio and Microsoft Server 2022 support are now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/05/real-time-audio-microsoft-server-2022-support-amazon-appstream-2-0-multi-session-fleets)
-- [Powertools for AWS Lambda &lpar;Python&rpar; adds support for Agents for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/powertools-aws-lambda-python-support-agents-bedrock)
-- [Introducing versioning for AWS WAF Bot &amp; Fraud Control managed rule groups](https://aws.amazon.com/about-aws/whats-new/2024/05/versioning-for-aws-waf-bot-fraud-control-managed-rule-groups)
 - [Amazon Bedrock announces new Converse API](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-bedrock-new-converse-api)
+- [Introducing versioning for AWS WAF Bot &amp; Fraud Control managed rule groups](https://aws.amazon.com/about-aws/whats-new/2024/05/versioning-for-aws-waf-bot-fraud-control-managed-rule-groups)
 - [Amazon Cognito user pools now support the ability to customize access tokens](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-cognito-user-pools-customize-access-tokens/)
+- [Powertools for AWS Lambda &lpar;Python&rpar; adds support for Agents for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/05/powertools-aws-lambda-python-support-agents-bedrock)
 - [AWS AppSync now supports long running events with asynchronous Lambda function invocations](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-appsync-events-asynchronous-lambda-function-invocations/)
 - [Amazon Redshift Serverless is now available in Region Europe &lpar;Zurich&rpar; and Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-redshift-serverless-zurich-spain)
 - [Amazon EventBridge Scheduler adds new API request metrics for improved observability](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-eventbridge-scheduler-api-request-metrics-improved-observability)

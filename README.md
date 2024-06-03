@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-backup-amazon-ebs-snapshots-archive-govcloud-regions)
 - [AWS Elastic Beanstalk now supports .NET 8 on AL2023](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elastic-beanstalk-dot-net-8-al2023)
 - [AWS CloudFormation Hooks is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudformation-hooks-aws-govcloud-us-regions/)
 - [AWS Transfer Family increases message size and throughput limits for AS2](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-transfer-family-increases-message-size-as2/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace announces amendments for AMI annual agreements](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-marketplace-amendments-ami-annual-agreements)
 - [Announcing AWS DMS Serverless improved Oracle to Redshift Full Load throughput](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-dms-serverless-oracle-redshift-full-load-throughput/)
 - [Amazon Connect provides Zero-ETL analytics data lake to access contact center data](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-zero-etl-analytics-lake-contact-center-data/)
-- [Amazon QuickSight launches multi column sorting for Tables](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-multi-column-sorting-tables)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

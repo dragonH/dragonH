@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Elastic Beanstalk now supports .NET 8 on AL2023](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elastic-beanstalk-dot-net-8-al2023)
+- [AWS CloudFormation Hooks is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudformation-hooks-aws-govcloud-us-regions/)
 - [AWS Transfer Family increases message size and throughput limits for AS2](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-transfer-family-increases-message-size-as2/)
 - [Announcing preview of the AWS SDK for SAP ABAP - BTP edition](https://aws.amazon.com/about-aws/whats-new/2024/05/preview-aws-sdk-sap-abap-btp-edition)
 - [Amazon Connect now supports Apple Messages for Business](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-apple-messages-business)
@@ -67,7 +68,6 @@
 - [Announcing AWS DMS Serverless improved Oracle to Redshift Full Load throughput](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-dms-serverless-oracle-redshift-full-load-throughput/)
 - [Amazon Connect provides Zero-ETL analytics data lake to access contact center data](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-zero-etl-analytics-lake-contact-center-data/)
 - [Amazon QuickSight launches multi column sorting for Tables](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-quicksight-multi-column-sorting-tables)
-- [Real-time audio and Microsoft Server 2022 support are now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/05/real-time-audio-microsoft-server-2022-support-amazon-appstream-2-0-multi-session-fleets)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

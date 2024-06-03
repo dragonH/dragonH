@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-backup-amazon-ebs-snapshots-archive-govcloud-regions)
+- [Amazon CloudWatch Logs announces Live Tail streaming CLI support](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-logs-announces-live-tail-streaming-cli-support)
 - [AWS Elastic Beanstalk now supports .NET 8 on AL2023](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elastic-beanstalk-dot-net-8-al2023)
 - [AWS CloudFormation Hooks is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudformation-hooks-aws-govcloud-us-regions/)
+- [AWS Batch introduces the Job Queue Snapshot to view jobs at the front of the job queues](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-batch-job-queue-snapshot-jobs-front-job-queues/)
 - [AWS Transfer Family increases message size and throughput limits for AS2](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-transfer-family-increases-message-size-as2/)
 - [Announcing preview of the AWS SDK for SAP ABAP - BTP edition](https://aws.amazon.com/about-aws/whats-new/2024/05/preview-aws-sdk-sap-abap-btp-edition)
 - [Amazon Connect now supports Apple Messages for Business](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-apple-messages-business)
 - [AWS Supply Chain Lead Time Insights enhances the support for data variability](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-supply-chain-lead-time-insights-enhanced-support-data-variability)
 - [AWS Marketplace announces amendments for AMI annual agreements](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-marketplace-amendments-ami-annual-agreements)
-- [Announcing AWS DMS Serverless improved Oracle to Redshift Full Load throughput](https://aws.amazon.com/about-aws/whats-new/2024/05/aws-dms-serverless-oracle-redshift-full-load-throughput/)
-- [Amazon Connect provides Zero-ETL analytics data lake to access contact center data](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-connect-zero-etl-analytics-lake-contact-center-data/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

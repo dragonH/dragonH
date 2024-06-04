@@ -58,9 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Timestream for LiveAnalytics now an Amazon EventBridge Pipes target](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target)
 - [Amazon Q offers inline completions in the command line](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-inline-completions-command-line)
 - [AWS DMS now supports Babelfish for Aurora PostgreSQL as a source](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-dms-babelfish-aurora-postgresql-source/)
+- [Amazon Timestream for LiveAnalytics now an Amazon EventBridge Pipes target](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target)
 - [Amazon Connect agent workspace launches refreshed look and feel](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-agent-workspace-look-feel)
 - [Amazon Titan Text Embeddings V2 now available for use with Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-titan-text-embeddings-v2-bedrock-knowledge-bases)
 - [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-backup-amazon-ebs-snapshots-archive-govcloud-regions)

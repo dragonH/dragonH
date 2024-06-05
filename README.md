@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora MySQL 3.07 &lpar;compatible with MySQL 8.0.36&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-aurora-mysql-3-07-generally-available)
 - [Amazon EC2 C6id instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instances-canada-central-region/)
+- [AWS HealthImaging now publishes events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-healthimaging-publishes-events-eventbridge)
 - [Introducing Amazon EMR Serverless Streaming jobs for continuous processing on streaming data](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-emr-serverless-streaming-jobs-continuous-processing)
 - [Amazon API Gateway integration timeout limit increase beyond 29 seconds](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-api-gateway-integration-timeout-limit-29-seconds)
+- [Amazon Route 53 Profiles now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-route-53-profiles-govcloud-us-regions)
 - [Amazon Timestream for LiveAnalytics now an Amazon EventBridge Pipes target](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target)
 - [Amazon Q offers inline completions in the command line](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-inline-completions-command-line)
 - [AWS DMS now supports Babelfish for Aurora PostgreSQL as a source](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-dms-babelfish-aurora-postgresql-source/)
 - [Amazon Titan Text Embeddings V2 now available for use with Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-titan-text-embeddings-v2-bedrock-knowledge-bases)
-- [Amazon Connect agent workspace launches refreshed look and feel](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-agent-workspace-look-feel)
-- [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-backup-amazon-ebs-snapshots-archive-govcloud-regions)
-- [Amazon CloudWatch Logs announces Live Tail streaming CLI support](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-logs-announces-live-tail-streaming-cli-support)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

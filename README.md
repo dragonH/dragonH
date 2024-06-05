@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless slashes entry cost in half for all collection types](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-entry-cost-half-collection-types)
 - [Amazon Connect now provides time zone support for forecasts](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-time-zone-support-forecasts)
 - [Amazon Aurora MySQL 3.07 &lpar;compatible with MySQL 8.0.36&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-aurora-mysql-3-07-generally-available)
 - [Amazon EC2 C6id instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instances-canada-central-region/)
@@ -66,7 +67,6 @@
 - [Amazon API Gateway integration timeout limit increase beyond 29 seconds](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-api-gateway-integration-timeout-limit-29-seconds)
 - [Amazon Route 53 Profiles now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-route-53-profiles-govcloud-us-regions)
 - [Amazon Timestream for LiveAnalytics now an Amazon EventBridge Pipes target](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target)
-- [Amazon Q offers inline completions in the command line](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-inline-completions-command-line)
 - [AWS DMS now supports Babelfish for Aurora PostgreSQL as a source](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-dms-babelfish-aurora-postgresql-source/)
 <!-- AWS-NEWS:END -->
 

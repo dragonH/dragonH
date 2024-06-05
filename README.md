@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C6id instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instances-canada-central-region/)
 - [Introducing Amazon EMR Serverless Streaming jobs for continuous processing on streaming data](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-emr-serverless-streaming-jobs-continuous-processing)
 - [Amazon API Gateway integration timeout limit increase beyond 29 seconds](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-api-gateway-integration-timeout-limit-29-seconds)
 - [Amazon Timestream for LiveAnalytics now an Amazon EventBridge Pipes target](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target)
@@ -67,7 +68,6 @@
 - [Amazon Titan Text Embeddings V2 now available for use with Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-titan-text-embeddings-v2-bedrock-knowledge-bases)
 - [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-backup-amazon-ebs-snapshots-archive-govcloud-regions)
 - [Amazon CloudWatch Logs announces Live Tail streaming CLI support](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-logs-announces-live-tail-streaming-cli-support)
-- [AWS Elastic Beanstalk now supports .NET 8 on AL2023](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elastic-beanstalk-dot-net-8-al2023)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppFabric now supports JumpCloud](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-appfabric-supports-jumpcloud)
+- [Amazon EC2 C6id instances are now available in South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c6id-instances-available-sao-paulo-region)
 - [Amazon Inspector container image scanning is now available for Amazon CodeCatalyst and GitHub actions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-inspector-container-image-scanning-codecatalyst-github-actions)
 - [Announcing the common control library in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2024/06/announcing-common-control-library-aws-audit-manager)
 - [AWS launches Tax Settings API to programmatically manage tax registration information](https://aws.amazon.com/about-aws/whats-new/2024/06/tax-settings-api-manage-tax-registration-information)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
 - [AWS IoT Device Management adds a unified connectivity metrics monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-device-management-unified-metrics-monitoring-dashboard/)
 - [Amazon CloudWatch GetMetricData API now supports AWS CloudTrail data event logging](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-getmetricdata-api-cloudtrail-event-logging/)
-- [Amazon Location Service launches Enhanced Location Integrity features](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-location-service-enhanced-location-integrity-features/)
-- [Amazon CodeCatalyst now supports GitHub Cloud source code with blueprints](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-github-cloud-source-code-blueprints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

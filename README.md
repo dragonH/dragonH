@@ -66,8 +66,8 @@
 - [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
 - [AWS IoT Device Management adds a unified connectivity metrics monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-device-management-unified-metrics-monitoring-dashboard/)
 - [Amazon CloudWatch GetMetricData API now supports AWS CloudTrail data event logging](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-getmetricdata-api-cloudtrail-event-logging/)
+- [Amazon Location Service launches Enhanced Location Integrity features](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-location-service-enhanced-location-integrity-features/)
 - [Amazon CodeCatalyst now supports GitHub Cloud source code with blueprints](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-github-cloud-source-code-blueprints)
-- [Amazon OpenSearch Serverless slashes entry cost in half for all collection types](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-entry-cost-half-collection-types)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

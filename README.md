@@ -65,8 +65,8 @@
 - [AWS launches Tax Settings API to programmatically manage tax registration information](https://aws.amazon.com/about-aws/whats-new/2024/06/tax-settings-api-manage-tax-registration-information)
 - [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK Serverless](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-streaming-data-msk-serverless)
 - [Amazon EC2 instance type finder capability is generally available in AWS Console](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instance-type-finder-capability-aws-console/)
-- [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
 - [AWS IoT Device Management adds a unified connectivity metrics monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-device-management-unified-metrics-monitoring-dashboard/)
+- [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
 - [Amazon CloudWatch GetMetricData API now supports AWS CloudTrail data event logging](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-getmetricdata-api-cloudtrail-event-logging/)
 <!-- AWS-NEWS:END -->
 

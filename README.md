@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
+- [AWS IoT Device Management adds a unified connectivity metrics monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-device-management-unified-metrics-monitoring-dashboard/)
+- [Amazon EC2 instance type finder capability is generally available in AWS Console](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instance-type-finder-capability-aws-console/)
 - [Amazon OpenSearch Serverless slashes entry cost in half for all collection types](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-entry-cost-half-collection-types)
 - [Amazon Connect now provides time zone support for forecasts](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-time-zone-support-forecasts)
 - [Amazon Aurora MySQL 3.07 &lpar;compatible with MySQL 8.0.36&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-aurora-mysql-3-07-generally-available)
@@ -65,9 +68,6 @@
 - [AWS HealthImaging now publishes events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-healthimaging-publishes-events-eventbridge)
 - [Introducing Amazon EMR Serverless Streaming jobs for continuous processing on streaming data](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-emr-serverless-streaming-jobs-continuous-processing)
 - [Amazon API Gateway integration timeout limit increase beyond 29 seconds](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-api-gateway-integration-timeout-limit-29-seconds)
-- [Amazon Route 53 Profiles now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-route-53-profiles-govcloud-us-regions)
-- [Amazon Timestream for LiveAnalytics now an Amazon EventBridge Pipes target](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-timestream-liveanalytics-eventbridge-pipes-target)
-- [AWS DMS now supports Babelfish for Aurora PostgreSQL as a source](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-dms-babelfish-aurora-postgresql-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

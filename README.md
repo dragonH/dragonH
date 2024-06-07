@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Serverless is now available in the AWS Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-middle-east-uae-region)
+- [Amazon FSx for Lustre increases maximum metadata IOPS by up to 15x](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-fsx-lustre-increases-metadata-iops-15x)
+- [Amazon Data Firehose now supports integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-data-firehose-integration-secrets-manager)
+- [Centrally manage member account root email addresses across your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2024/06/manage-member-account-root-email-addresses-aws-organization)
 - [AWS AppFabric now supports JumpCloud](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-appfabric-supports-jumpcloud)
 - [Amazon EC2 C6id instances are now available in South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c6id-instances-available-sao-paulo-region)
 - [Amazon Inspector container image scanning is now available for Amazon CodeCatalyst and GitHub actions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-inspector-container-image-scanning-codecatalyst-github-actions)
 - [Announcing the common control library in AWS Audit Manager](https://aws.amazon.com/about-aws/whats-new/2024/06/announcing-common-control-library-aws-audit-manager)
 - [AWS launches Tax Settings API to programmatically manage tax registration information](https://aws.amazon.com/about-aws/whats-new/2024/06/tax-settings-api-manage-tax-registration-information)
 - [Amazon OpenSearch Ingestion now supports ingesting streaming data from Amazon MSK Serverless](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-ingestion-streaming-data-msk-serverless)
-- [Amazon EC2 instance type finder capability is generally available in AWS Console](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-instance-type-finder-capability-aws-console/)
-- [AWS IoT Device Management adds a unified connectivity metrics monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iot-device-management-unified-metrics-monitoring-dashboard/)
-- [Amazon SageMaker Model Registry now supports machine learning &lpar;ML&rpar; governance information](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-machine-learning-governance/)
-- [Amazon CloudWatch GetMetricData API now supports AWS CloudTrail data event logging](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-getmetricdata-api-cloudtrail-event-logging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

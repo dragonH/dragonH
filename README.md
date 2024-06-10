@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Security Lake is now available in the the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-security-lake-aws-govcloud-us-regions/)
+- [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240509](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-postgresql-minor-11-22/)
 - [AWS CloudFormation accelerates dev-test cycle with adjustable timeouts for custom resources](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudformation-dev-test-cycle-timeouts-custom-resources/)
+- [Amazon CloudWatch announces AI-Powered natural language query generation](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-ai-powered-language-query-generation/)
+- [Amazon EC2 M6in and M6idn instances are now available in Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-m6in-m6idn-instances-asia-pacific-mumbai/)
 - [Amazon Redshift Serverless is now available in the AWS Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-middle-east-uae-region)
 - [Amazon CodeCatalyst now supports Bitbucket Cloud source code repositories](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-bitbucket-cloud-source-code-repositories/)
 - [Amazon Data Firehose now supports integration with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-data-firehose-integration-secrets-manager)
 - [Centrally manage member account root email addresses across your AWS Organization](https://aws.amazon.com/about-aws/whats-new/2024/06/manage-member-account-root-email-addresses-aws-organization)
 - [Amazon API Gateway customers can easily secure APIs using Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-api-gateway-apis-amazon-verified-permissions/)
-- [Amazon FSx for Lustre increases maximum metadata IOPS by 15x](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-fsx-lustre-increases-metadata-iops-15x)
-- [AWS AppFabric now supports JumpCloud](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-appfabric-supports-jumpcloud)
-- [Amazon EC2 C6id instances are now available in South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c6id-instances-available-sao-paulo-region)
-- [Amazon Inspector container image scanning is now available for Amazon CodeCatalyst and GitHub actions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-inspector-container-image-scanning-codecatalyst-github-actions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

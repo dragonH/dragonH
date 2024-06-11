@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS CloudTrail Lake announces AI-powered natural language query generation &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudtrail-lake-ai-powered-query-generation-preview/)
-- [AWS Identity and Access Management now supports passkey as a second authentication factor](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-identity-access-management-passkey-authentication-factor/)
+- [AWS Cloud WAN introduces Service Insertion to simplify security inspection at global scale](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloud-wan-service-insertion)
+- [AWS Audit Manager generative AI best practices framework now includes Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-audit-manager-generative-ai-best-practices-framework-sagemaker)
 - [AWS IAM Access Analyzer now offers policy checks for public and critical resource access](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iam-access-analyzer-policy-checks)
-- [AWS Private CA introduces Connector for SCEP for mobile devices &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-private-ca-connector-scep-mobile-devices/)
+- [AWS Identity and Access Management now supports passkey as a second authentication factor](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-identity-access-management-passkey-authentication-factor/)
 - [AWS IAM Access Analyzer now offers recommendations to refine unused access](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iam-access-analyzer-refine-unused-access/)
 - [Detect malware in new object uploads to Amazon S3 with Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2024/06/detect-malware-object-uploads-amazon-s3-guardduty)
+- [AWS Private CA introduces Connector for SCEP for mobile devices &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-private-ca-connector-scep-mobile-devices/)
 - [Amazon ECS on AWS Fargate now allows you to encrypt ephemeral storage with customer-managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ecs-aws-fargate-encrypt-ephemeral-storage-customer-managed-kms-keys)
 - [Amazon CloudWatch Application Signals, for application monitoring &lpar;APM&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-application-signals-application-monitoring/)
-- [Amazon Security Lake is now available in the the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-security-lake-aws-govcloud-us-regions/)
-- [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240509](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-postgresql-minor-11-22/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

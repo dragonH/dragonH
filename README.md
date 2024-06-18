@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DataZone launches custom blueprint configurations for AWS services](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-custom-blueprint-configurations-aws-services)
+- [Amazon EC2 C7g and R7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c7g-r7g-instances-additional-regions/)
 - [Amazon Connect Cases is now available in additional Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions)
+- [Amazon Redshift Query Editor V2 now supports 100MB file uploads](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-query-editor-v2-100mb-file-uploads/)
+- [Announcing AWS Transfer Family workshop to build event-driven managed file transfer workflows](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-transfer-family-workshop-event-file-workflows/)
+- [Amazon OpenSearch Serverless now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-sao-paulo-region/)
 - [Introducing Maven, Python, and NuGet support in Amazon CodeCatalyst package repositories](https://aws.amazon.com/about-aws/whats-new/2024/06/maven-python-nuget-support-amazon-codecatalyst-package-repositories)
+- [Amazon now offers a capability to analyze issues and recommend granular tasks](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-capability-analyze-issues-granular-tasks/)
+- [Amazon Kinesis Video Streams is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-kinesis-video-streams-aws-govcloud-regions/)
 - [Amazon RDS for MariaDB supports minors 10.11.8, 10.6.18, 10.5.25, 10.4.34](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-mariadb-supports-new-minors/)
-- [AWS Systems Manager now supports additional Rocky, Oracle, and Alma Linux versions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-systems-manager-rocky-oracle-alma-linux-versions/)
-- [AWS KMS now supports Elliptic Curve Diffie-Hellman &lpar;ECDH&rpar; key agreement](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-kms-elliptic-curve-diffie-hellman-ecdh-key-agreement/)
-- [Amazon EC2 C7i-flex instances are now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c7i-flex-instances-ohio-region/)
-- [AWS CodeBuild now supports organization and global GitHub webhooks](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codebuild-organization-global-github-webhooks/)
-- [Amazon RDS for Oracle now supports memory optimized R6i instance types](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-oracle-memory-optimized-r6i-instance-types)
-- [Amazon DataZone introduces advanced search filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-advanced-search-filtering-capabilities)
-- [Amazon SES now publishes email sending events to EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-publishes-email-sending-events-eventbridge)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

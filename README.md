@@ -63,11 +63,11 @@
 - [Amazon Connect Cases is now available in additional Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions)
 - [Amazon Redshift Query Editor V2 now supports 100MB file uploads](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-query-editor-v2-100mb-file-uploads/)
 - [Announcing AWS Transfer Family workshop to build event-driven managed file transfer workflows](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-transfer-family-workshop-event-file-workflows/)
+- [AWS Glue Usage Profiles is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-usage-profiles-now-generally-available)
+- [CodeCatalyst allows customers to use Amazon Q Developer to choose a blueprint](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-amazon-q-blueprint/)
 - [Amazon OpenSearch Serverless now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-sao-paulo-region/)
 - [Introducing Maven, Python, and NuGet support in Amazon CodeCatalyst package repositories](https://aws.amazon.com/about-aws/whats-new/2024/06/maven-python-nuget-support-amazon-codecatalyst-package-repositories)
 - [Amazon now offers a capability to analyze issues and recommend granular tasks](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-capability-analyze-issues-granular-tasks/)
-- [Amazon Kinesis Video Streams is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-kinesis-video-streams-aws-govcloud-regions/)
-- [Amazon RDS for MariaDB supports minors 10.11.8, 10.6.18, 10.5.25, 10.4.34](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-mariadb-supports-new-minors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

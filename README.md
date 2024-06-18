@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for SQL Server Supports Minor Version 2022 CU13](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-sql-server-minor-version-2022-cu13/)
-- [Productionize Foundation Models from SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/06/productionize-foundation-models-sagemaker-canvas)
-- [AWS CloudTrail Lake announces AI-powered natural language query generation &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudtrail-lake-ai-powered-query-generation-preview/)
-- [Amazon Connect now provides color coding for shift activities in agent scheduling](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-color-coding-shift-activities-agent-scheduling)
-- [Amazon SES now provides custom values in the Feedback-ID header](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-custom-values-feedback-header/)
-- [AWS Audit Manager generative AI best practices framework now includes Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-audit-manager-generative-ai-best-practices-framework-sagemaker)
-- [AWS IAM Access Analyzer now offers policy checks for public and critical resource access](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-iam-access-analyzer-policy-checks)
-- [AWS Identity and Access Management now supports passkey as a second authentication factor](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-identity-access-management-passkey-authentication-factor/)
-- [AWS Cloud WAN introduces Service Insertion to simplify security inspection at global scale](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloud-wan-service-insertion)
-- [Detect malware in new object uploads to Amazon S3 with Amazon GuardDuty](https://aws.amazon.com/about-aws/whats-new/2024/06/detect-malware-object-uploads-amazon-s3-guardduty)
+- [Amazon Connect Cases is now available in additional Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions)
+- [Introducing Maven, Python, and NuGet support in Amazon CodeCatalyst package repositories](https://aws.amazon.com/about-aws/whats-new/2024/06/maven-python-nuget-support-amazon-codecatalyst-package-repositories)
+- [Amazon RDS for MariaDB supports minors 10.11.8, 10.6.18, 10.5.25, 10.4.34](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-mariadb-supports-new-minors/)
+- [AWS Systems Manager now supports additional Rocky, Oracle, and Alma Linux versions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-systems-manager-rocky-oracle-alma-linux-versions/)
+- [AWS KMS now supports Elliptic Curve Diffie-Hellman &lpar;ECDH&rpar; key agreement](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-kms-elliptic-curve-diffie-hellman-ecdh-key-agreement/)
+- [Amazon EC2 C7i-flex instances are now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c7i-flex-instances-ohio-region/)
+- [AWS CodeBuild now supports organization and global GitHub webhooks](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codebuild-organization-global-github-webhooks/)
+- [Amazon RDS for Oracle now supports memory optimized R6i instance types](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-oracle-memory-optimized-r6i-instance-types)
+- [Amazon DataZone introduces advanced search filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-advanced-search-filtering-capabilities)
+- [Amazon SES now publishes email sending events to EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ses-publishes-email-sending-events-eventbridge)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

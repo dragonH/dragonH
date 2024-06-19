@@ -58,8 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Glue adds additional 13 new transforms including flag duplicates](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-additional-transforms)
+- [Amazon OpenSearch Service now supports JSON Web Token &lpar;JWT&rpar; authentication and authorization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-service-jwt-authentication-authorization)
 - [Amazon SageMaker now offers a fully managed MLflow Capability](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-mlflow-capability)
+- [AWS Glue adds additional 13 new transforms including flag duplicates](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-additional-transforms)
 - [Announcing support for Autodesk 3ds Max Usage-Based Licensing in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/06/autodesk-3ds-max-usage-licensing-deadline-cloud/)
 - [AWS Elemental MediaConnect adds source stream monitoring](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediaconnect-adds-source-streaming-monitoring/)
 - [CodeCatalyst allows customers to use Amazon Q Developer to choose a blueprint](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-amazon-q-blueprint/)
@@ -67,7 +68,6 @@
 - [Amazon MWAA now supports Custom Web Server URLs](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-mwaa-custom-web-server-urls/)
 - [Amazon EC2 D3 instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-d3-instances-europe-paris-region/)
 - [Amazon DataZone launches custom blueprint configurations for AWS services](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-custom-blueprint-configurations-aws-services)
-- [Amazon EC2 C7g and R7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c7g-r7g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

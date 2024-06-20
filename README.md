@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker HyperPod now supports configurable cluster storage](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-hyperpod-configurable-cluster-storage)
+- [Anthropic&#39;s Claude 3.5 Sonnet model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/anthropic-claude-3-5-sonnet-model-bedrock)
 - [Amazon OpenSearch Service now supports JSON Web Token &lpar;JWT&rpar; authentication and authorization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-service-jwt-authentication-authorization)
 - [Amazon SageMaker now offers a fully managed MLflow Capability](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-mlflow-capability)
 - [AWS Glue adds additional 13 new transforms including flag duplicates](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-additional-transforms)
 - [Announcing support for Autodesk 3ds Max Usage-Based Licensing in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/06/autodesk-3ds-max-usage-licensing-deadline-cloud/)
 - [AWS Elemental MediaConnect adds source stream monitoring](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediaconnect-adds-source-streaming-monitoring/)
 - [Amazon CodeCatalyst now supports GitHub Cloud and Bitbucket Cloud with Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-github-cloud-bitbucket-cloud-q/)
-- [CodeCatalyst allows customers to use Amazon Q Developer to choose a blueprint](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-amazon-q-blueprint/)
-- [AWS Glue Usage Profiles is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-usage-profiles-now-generally-available)
-- [Amazon MWAA now supports Custom Web Server URLs](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-mwaa-custom-web-server-urls/)
-- [Amazon EC2 D3 instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-d3-instances-europe-paris-region/)
+- [Amazon Connect Cases is now available in additional Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions)
+- [Amazon Redshift Query Editor V2 now supports 100MB file uploads](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-query-editor-v2-100mb-file-uploads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

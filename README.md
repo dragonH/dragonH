@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon SageMaker HyperPod now supports configurable cluster storage](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-hyperpod-configurable-cluster-storage)
+- [Record individual participants with Amazon IVS Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2024/06/record-individual-participants-amazon-ivs-streaming/)
+- [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
 - [Anthropic&#39;s Claude 3.5 Sonnet model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/anthropic-claude-3-5-sonnet-model-bedrock)
 - [Amazon OpenSearch Service now supports JSON Web Token &lpar;JWT&rpar; authentication and authorization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-service-jwt-authentication-authorization)
 - [Amazon SageMaker now offers a fully managed MLflow Capability](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-mlflow-capability)
@@ -66,8 +68,6 @@
 - [Announcing support for Autodesk 3ds Max Usage-Based Licensing in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/06/autodesk-3ds-max-usage-licensing-deadline-cloud/)
 - [AWS Elemental MediaConnect adds source stream monitoring](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediaconnect-adds-source-streaming-monitoring/)
 - [Amazon CodeCatalyst now supports GitHub Cloud and Bitbucket Cloud with Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-github-cloud-bitbucket-cloud-q/)
-- [Amazon Connect Cases is now available in additional Asia Pacific regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-connect-cases-additional-asia-pacific-regions)
-- [Amazon Redshift Query Editor V2 now supports 100MB file uploads](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-query-editor-v2-100mb-file-uploads/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

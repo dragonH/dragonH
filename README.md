@@ -62,12 +62,12 @@
 - [Record individual participants with Amazon IVS Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2024/06/record-individual-participants-amazon-ivs-streaming/)
 - [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
 - [Anthropic&#39;s Claude 3.5 Sonnet model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/anthropic-claude-3-5-sonnet-model-bedrock)
+- [Amazon Bedrock now supports compressed embeddings from Cohere Embed](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-bedrock-compressed-embeddings-cohere-embed/)
+- [Amazon RDS for Oracle now supports Oracle Multitenant in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-for-oracle-multitenant-govcloud-us-regions/)
+- [AWS CodeArtifact now supports Cargo, the Rust package manager](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codeartifact-cargo-rust-package-manager/)
 - [Amazon OpenSearch Service now supports JSON Web Token &lpar;JWT&rpar; authentication and authorization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-service-jwt-authentication-authorization)
 - [Amazon SageMaker now offers a fully managed MLflow Capability](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-mlflow-capability)
 - [AWS Glue adds additional 13 new transforms including flag duplicates](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-additional-transforms)
-- [Announcing support for Autodesk 3ds Max Usage-Based Licensing in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2024/06/autodesk-3ds-max-usage-licensing-deadline-cloud/)
-- [AWS Elemental MediaConnect adds source stream monitoring](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediaconnect-adds-source-streaming-monitoring/)
-- [Amazon CodeCatalyst now supports GitHub Cloud and Bitbucket Cloud with Amazon Q](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-github-cloud-bitbucket-cloud-q/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

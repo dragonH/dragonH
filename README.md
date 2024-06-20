@@ -61,13 +61,13 @@
 - [Amazon SageMaker HyperPod now supports configurable cluster storage](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-hyperpod-configurable-cluster-storage)
 - [Record individual participants with Amazon IVS Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2024/06/record-individual-participants-amazon-ivs-streaming/)
 - [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
+- [Amazon RDS for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-sql-server-64tib-256000-iops-io2-block-express-volumes)
 - [Anthropic&#39;s Claude 3.5 Sonnet model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/anthropic-claude-3-5-sonnet-model-bedrock)
-- [Amazon Bedrock now supports compressed embeddings from Cohere Embed](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-bedrock-compressed-embeddings-cohere-embed/)
 - [Amazon RDS for Oracle now supports Oracle Multitenant in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-for-oracle-multitenant-govcloud-us-regions/)
+- [Amazon Bedrock now supports compressed embeddings from Cohere Embed](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-bedrock-compressed-embeddings-cohere-embed/)
 - [AWS CodeArtifact now supports Cargo, the Rust package manager](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codeartifact-cargo-rust-package-manager/)
+- [AWS Compute Optimizer supports rightsizing recommendations for Amazon RDS MySQL and RDS PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-compute-optimizer-amazon-rds-rightsizing-recommendations-mysql-postgresql/)
 - [Amazon OpenSearch Service now supports JSON Web Token &lpar;JWT&rpar; authentication and authorization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-service-jwt-authentication-authorization)
-- [Amazon SageMaker now offers a fully managed MLflow Capability](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-mlflow-capability)
-- [AWS Glue adds additional 13 new transforms including flag duplicates](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-glue-additional-transforms)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

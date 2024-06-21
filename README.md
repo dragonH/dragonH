@@ -64,10 +64,10 @@
 - [Amazon Redshift Query Editor V2 is now available in AWS Canada &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-query-editor-v2-calgary-region)
 - [AWS Lambda now supports IPv6 for outbound connections in VPC in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-lambda-ipv6-connections-vpc-govcloud-regions/)
 - [Default Role in CodeCatalyst Environments](https://aws.amazon.com/about-aws/whats-new/2024/06/default-role-codecatalyst-environments/)
-- [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
+- [Amazon S3 Replication Time Control is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-s3-replication-time-control-aws-govcloud-regions)
 - [Amazon SageMaker HyperPod now supports configurable cluster storage](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-hyperpod-configurable-cluster-storage)
+- [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
 - [Record individual participants with Amazon IVS Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2024/06/record-individual-participants-amazon-ivs-streaming/)
-- [Amazon RDS for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-sql-server-64tib-256000-iops-io2-block-express-volumes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

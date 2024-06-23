@@ -66,8 +66,8 @@
 - [AWS Billing and Cost Management now provides Data Exports for FOCUS 1.0 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-focus-1-0-preview/)
 - [Amazon Redshift Query Editor V2 is now available in AWS Canada &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-query-editor-v2-calgary-region)
 - [Default Role in CodeCatalyst Environments](https://aws.amazon.com/about-aws/whats-new/2024/06/default-role-codecatalyst-environments/)
-- [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
 - [Amazon SageMaker HyperPod now supports configurable cluster storage](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-hyperpod-configurable-cluster-storage)
+- [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

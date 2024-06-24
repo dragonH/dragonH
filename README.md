@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL supports new minor version 8.0.37](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-mysql-new-minor-version-8-0-37)
 - [Amazon S3 Replication Time Control is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-s3-replication-time-control-aws-govcloud-regions)
-- [AWS Billing and Cost Management now provides Data Exports for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-exports-cost-optimization-hub/)
 - [Amazon EC2 macOS AMIs are now available on AWS Systems Manager Parameter Store](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-macos-systems-manager-parameter-store/)
+- [AWS Billing and Cost Management now provides Data Exports for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-exports-cost-optimization-hub/)
 - [Amazon SageMaker JumpStart now provides granular access control for foundation models](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-jumpstart-granular-control-foundation-models/)
 - [AWS Lambda now supports IPv6 for outbound connections in VPC in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-lambda-ipv6-connections-vpc-govcloud-regions/)
 - [AWS Billing and Cost Management now provides Data Exports for FOCUS 1.0 &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-focus-1-0-preview/)
 - [Amazon Redshift Query Editor V2 is now available in AWS Canada &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-query-editor-v2-calgary-region)
 - [Default Role in CodeCatalyst Environments](https://aws.amazon.com/about-aws/whats-new/2024/06/default-role-codecatalyst-environments/)
 - [Amazon SageMaker HyperPod now supports configurable cluster storage](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-hyperpod-configurable-cluster-storage)
-- [Amazon Chime SDK meetings is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-chime-sdk-meetings-cape-town)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

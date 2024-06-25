@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon DocumentDB announces IAM database authentication](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-documentdb-iam-database-authentication/)
 - [Amazon Redshift Serverless with lower base capacity available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-lower-base-capacity-mumbai/)
-- [Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-elasticache-m7g-r7g-graviton3-nodes-aws-regions/)
-- [Amazon EC2 C6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c6a-instances-in-additional-regions)
 - [Amazon Aurora now provides additional monitoring information during upgrades](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-aurora-monitoring-information-upgrades)
+- [Amazon EC2 C6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c6a-instances-in-additional-regions)
+- [AWS CodeBuild supports Arm-based workloads using AWS Graviton3](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codebuild-arm-based-workloads-graviton3/)
+- [Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-elasticache-m7g-r7g-graviton3-nodes-aws-regions/)
 - [Amazon Redshift Concurrency Scaling is now available in three additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-concurrency-scaling-additional-regions)
 - [Knowledge Bases for Amazon Bedrock now offers observability logs](https://aws.amazon.com/about-aws/whats-new/2024/06/knowledge-bases-amazon-bedrock-observability-logs/)
 - [Amazon OpenSearch Serverless now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-opensearch-serverless-canada-central-region/)
 - [Amazon RDS for MySQL supports new minor version 8.0.37](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-mysql-new-minor-version-8-0-37)
-- [AWS B2B Data Interchange announces automated 999 acknowledgements for healthcare transactions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-b2b-data-automated-acknowledgements-healthcare-transactions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

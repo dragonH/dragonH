@@ -65,9 +65,9 @@
 - [AWS B2B Data Interchange announces automated 999 acknowledgements for healthcare transactions](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-b2b-data-automated-acknowledgements-healthcare-transactions/)
 - [Amazon RDS announces integration with AWS Secrets Manager in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-secrets-manager-aws-govcloud-us-regions/)
 - [Amazon S3 Replication Time Control is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-s3-replication-time-control-aws-govcloud-regions)
-- [Amazon SageMaker JumpStart now provides granular access control for foundation models](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-jumpstart-granular-control-foundation-models/)
 - [Amazon EC2 macOS AMIs are now available on AWS Systems Manager Parameter Store](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-macos-systems-manager-parameter-store/)
 - [AWS Billing and Cost Management now provides Data Exports for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-billing-cost-management-data-exports-cost-optimization-hub/)
+- [Amazon SageMaker JumpStart now provides granular access control for foundation models](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-jumpstart-granular-control-foundation-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

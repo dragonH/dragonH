@@ -60,9 +60,9 @@
 <!-- AWS-NEWS:START -->
 - [AI21 Labs&#39; Jamba-Instruct model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/ai21-labs-jamba-instruct-model-amazon-bedrock)
 - [Amazon CodeCatalyst now supports GitLab.com source code repositories](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-gitlab-com-source-code-repositories)
+- [Amazon MSK supports in-place upgrades from M5, T3 instance types to Graviton3 based M7G](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-msk-upgrades-m5-t3-instance-graviton3-m7g/)
 - [Amazon DocumentDB announces IAM database authentication](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-documentdb-iam-database-authentication/)
 - [Amazon Redshift Serverless with lower base capacity available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-lower-base-capacity-mumbai/)
-- [Amazon MSK supports in-place upgrades from M5, T3 instance types to Graviton3 based M7G](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-msk-upgrades-m5-t3-instance-graviton3-m7g/)
 - [Amazon Aurora now provides additional monitoring information during upgrades](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-aurora-monitoring-information-upgrades)
 - [Amazon EC2 C6a instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-c6a-instances-in-additional-regions)
 - [AWS CodeBuild supports Arm-based workloads using AWS Graviton3](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codebuild-arm-based-workloads-graviton3/)

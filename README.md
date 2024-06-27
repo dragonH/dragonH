@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS Real-Time Streaming now supports up to 25,000 viewers](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ivs-real-time-streaming-25000-viewers)
 - [Amazon EKS introduces cluster creation flexibility for networking add-ons](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eks-cluster-creation-flexibility-networking-add-ons)
 - [AWS Blu Insights accelerates migrations with new AI capabilities](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-blu-insights-accelerates-migrations-ai-capabilities)
 - [Amazon Managed Service for Apache Flink introduces two new APIs to query operations on Flink applications](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-new-apis-query-operations-applications)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Logs now supports account level subscription filter in 4 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-cloudwatch-logs-subscription-filter-4-regions/)
 - [AWS CloudShell now supports Amazon Virtual Private Cloud &lpar;VPC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudshell-amazon-virtual-private-cloud/)
 - [Amazon Athena Provisioned Capacity now available in South America &lpar;São Paulo&rpar; and Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-athena-provisioned-capacity-south-america-europe/)
-- [Amazon Linux announces availability of AL2023.5 with new versions of PHP and Microsoft .NET](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-linux-al2023-5-versions-php-microsoft-net/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

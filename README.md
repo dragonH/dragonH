@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight simplifies building pixel-perfect reports with Repeating Sections](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-quicksight-building-pixel-perfect-reports-repeating-sections)
 - [Amazon DataZone introduces API-driven, OpenLineage-compatible data lineage visualization in preview](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-openlineage-compatible-data-lineage-visualization-preview)
 - [Amazon Managed Service for Apache Flink now supports Apache Flink 1.19](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-1-19)
 - [Amazon IVS Real-Time Streaming now supports up to 25,000 viewers](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ivs-real-time-streaming-25000-viewers)
@@ -67,7 +68,6 @@
 - [Updates and Expansion to the AWS Well-Architected Framework and Lens Catalog](https://aws.amazon.com/about-aws/whats-new/2024/06/updates-expansion-aws-well-architected-lens-catalog/)
 - [PostgreSQL 17 Beta 2 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/06/postgresql-17-beta-2-rds-database-preview-environment/)
 - [Amazon RDS Multi-AZ deployment with two readable standbys now supports snapshot export to S3](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-rds-multi-az-two-standbys-snapshot-export-s3/)
-- [Amazon Managed Service for Apache Flink introduces two new APIs to query operations on Flink applications](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-new-apis-query-operations-applications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

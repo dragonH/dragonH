@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS introduces cluster creation flexibility for networking add-ons](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eks-cluster-creation-flexibility-networking-add-ons)
+- [AWS Blu Insights accelerates migrations with new AI capabilities](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-blu-insights-accelerates-migrations-ai-capabilities)
 - [Amazon Managed Service for Apache Flink introduces two new APIs to query operations on Flink applications](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-new-apis-query-operations-applications)
 - [Amazon Managed Service for Apache Flink now supports system-rollback](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-system-rollback)
 - [Amazon Route 53 Application Recovery Controller zonal autoshift available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-route-53-application-recovery-controller-zonal-autoshift-govcloud-regions)
@@ -66,8 +68,6 @@
 - [AWS CloudShell now supports Amazon Virtual Private Cloud &lpar;VPC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-cloudshell-amazon-virtual-private-cloud/)
 - [Amazon Athena Provisioned Capacity now available in South America &lpar;São Paulo&rpar; and Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-athena-provisioned-capacity-south-america-europe/)
 - [Amazon Linux announces availability of AL2023.5 with new versions of PHP and Microsoft .NET](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-linux-al2023-5-versions-php-microsoft-net/)
-- [EventBridge Scheduler adds more universal targets including Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/06/eventbridge-scheduler-universal-targets-amazon-bedrock)
-- [Amazon Redshift Serverless with lower base capacity available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-redshift-serverless-lower-base-capacity-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

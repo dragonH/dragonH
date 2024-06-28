@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Backup support for Amazon S3 is now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-backup-amazon-s3-calgary-region)
-- [Amazon QuickSight simplifies building pixel-perfect reports with Repeating Sections](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-quicksight-building-pixel-perfect-reports-repeating-sections)
-- [Amazon DataZone introduces API-driven, OpenLineage-compatible data lineage visualization in preview](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-datazone-openlineage-compatible-data-lineage-visualization-preview)
-- [Amazon Managed Service for Apache Flink now supports Apache Flink 1.19](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-managed-service-apache-flink-1-19)
-- [Amazon IVS Real-Time Streaming now supports up to 25,000 viewers](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ivs-real-time-streaming-25000-viewers)
-- [AWS Blu Insights accelerates migrations with new AI capabilities](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-blu-insights-accelerates-migrations-ai-capabilities)
-- [Amazon EKS introduces cluster creation flexibility for networking add-ons](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eks-cluster-creation-flexibility-networking-add-ons)
-- [Amazon ECR supports Open Container Initiative Image and Distribution specification version 1.1](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ecr-oci-image-distribution-version-1-1/)
-- [Updates and Expansion to the AWS Well-Architected Framework and Lens Catalog](https://aws.amazon.com/about-aws/whats-new/2024/06/updates-expansion-aws-well-architected-lens-catalog/)
-- [Announcing Amazon WorkSpaces Pools, a new feature of Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-workspaces-pools-amazon-workspaces/)
+- [Amazon EventBridge announces new console dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-console-dashboard)
+- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-high-memory-instances-hong-kong-region)
+- [AWS ParallelCluster 3.10 with support for Amazon Linux 2023 and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-parallelcluster-3-10-amazon-linux-2023-terraform)
+- [Amazon Q in Connect now recommends step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-connect-step-by-step-guides)
+- [Amazon SageMaker now supports SageMaker Studio Personalization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-sagemaker-studio-personalization/)
+- [Amazon SageMaker Model Registry now supports cross-account machine learning &lpar;ML&rpar; model sharing](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-cross-account-ml-model-sharing)
+- [Amazon EventBridge Pipes now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-pipes-aws-privatelink/)
+- [Announcing Data Quality Definition Language &lpar;DQDL&rpar; enhancements for AWS Glue Data Quality](https://aws.amazon.com/about-aws/whats-new/2024/06/data-quality-language-enhancements-glue-data-quality/)
+- [AWS Elemental MediaTailor now supports CMAF for dynamic ad transcoding](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediatailor-cmaf-dynamic-ad-transcoding/)
+- [Amazon CodeCatalyst now allows conversion of source repositories to custom blueprints](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-conversion-source-repositories-custom-blueprints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

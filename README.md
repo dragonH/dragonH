@@ -65,9 +65,9 @@
 - [Amazon SageMaker now supports SageMaker Studio Personalization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-sagemaker-studio-personalization/)
 - [Amazon SageMaker Model Registry now supports cross-account machine learning &lpar;ML&rpar; model sharing](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-cross-account-ml-model-sharing)
 - [Amazon EventBridge Pipes now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-pipes-aws-privatelink/)
+- [Announcing Data Quality Definition Language &lpar;DQDL&rpar; enhancements for AWS Glue Data Quality](https://aws.amazon.com/about-aws/whats-new/2024/06/data-quality-language-enhancements-glue-data-quality/)
 - [AWS Elemental MediaTailor now supports CMAF for dynamic ad transcoding](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-elemental-mediatailor-cmaf-dynamic-ad-transcoding/)
 - [Amazon CodeCatalyst now allows conversion of source repositories to custom blueprints](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-codecatalyst-conversion-source-repositories-custom-blueprints)
-- [AWS CodeBuild build timeout limit increased to 36 hours](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-codebuild-build-timeout-limit-increased-36-hours)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

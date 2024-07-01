@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service supports Dynatrace post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-application-migration-service-dynatrace-post-launch-action)
+- [Amazon API Gateway WebSocket APIs now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-api-gateway-websocket-apis-additional-aws-regions)
+- [Amazon Connect launches the ability to preferentially route contacts to specific agents within a queue](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-preferentially-route-contacts-agents-queue)
 - [Amazon GuardDuty EC2 Runtime Monitoring now supports Ubuntu and Debian OS](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-guardduty-ec2-runtime-monitoring-ubuntu-debian-os)
 - [EvolutionaryScale’s ESM3, a frontier language model family for biology, now available on AWS](https://aws.amazon.com/about-aws/whats-new/2024/06/evolutionaryscale-esm3-available-aws)
 - [Amazon EventBridge announces new console dashboard](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-console-dashboard)
@@ -65,9 +68,6 @@
 - [AWS ParallelCluster 3.10 with support for Amazon Linux 2023 and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-parallelcluster-3-10-amazon-linux-2023-terraform)
 - [Amazon SageMaker Model Registry now supports cross-account machine learning &lpar;ML&rpar; model sharing](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-cross-account-ml-model-sharing)
 - [Amazon EventBridge Pipes now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-pipes-aws-privatelink/)
-- [Amazon SageMaker now supports SageMaker Studio Personalization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-sagemaker-studio-personalization/)
-- [Amazon Q in Connect now recommends step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-connect-step-by-step-guides)
-- [Amazon WorkSpaces introduces support for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-workspaces-red-hat-enterprise-linux/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

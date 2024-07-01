@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing streamlined Migration Acceleration Program &lpar;MAP&rpar; funding and approval process in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/07/streamlined-map-funding-approval-aws-partner-central)
 - [AWS Application Migration Service supports Dynatrace post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-application-migration-service-dynatrace-post-launch-action)
 - [Amazon API Gateway WebSocket APIs now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-api-gateway-websocket-apis-additional-aws-regions)
 - [Amazon Connect launches the ability to preferentially route contacts to specific agents within a queue](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-preferentially-route-contacts-agents-queue)
@@ -67,7 +68,6 @@
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-ec2-high-memory-instances-hong-kong-region)
 - [AWS ParallelCluster 3.10 with support for Amazon Linux 2023 and Terraform](https://aws.amazon.com/about-aws/whats-new/2024/06/aws-parallelcluster-3-10-amazon-linux-2023-terraform)
 - [Amazon SageMaker Model Registry now supports cross-account machine learning &lpar;ML&rpar; model sharing](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-model-registry-cross-account-ml-model-sharing)
-- [Amazon EventBridge Pipes now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-pipes-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

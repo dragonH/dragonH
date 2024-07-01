@@ -67,7 +67,7 @@
 - [Amazon EventBridge Pipes now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-eventbridge-pipes-aws-privatelink/)
 - [Amazon SageMaker now supports SageMaker Studio Personalization](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-sagemaker-sagemaker-studio-personalization/)
 - [Amazon Q in Connect now recommends step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-q-connect-step-by-step-guides)
-- [Announcing Data Quality Definition Language &lpar;DQDL&rpar; enhancements for AWS Glue Data Quality](https://aws.amazon.com/about-aws/whats-new/2024/06/data-quality-language-enhancements-glue-data-quality/)
+- [Amazon WorkSpaces introduces support for Red Hat Enterprise Linux](https://aws.amazon.com/about-aws/whats-new/2024/06/amazon-workspaces-red-hat-enterprise-linux/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

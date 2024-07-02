@@ -61,13 +61,13 @@
 - [AWS Private CA is now available in the Beijing and Ningxia Regions in China](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-private-ca-beijing-ningxia-regions)
 - [AWS Managed Services &lpar;AMS&rpar; Accelerate now includes Trusted Remediator](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-managed-services-accelerate-trusted-remediator/)
 - [RDS for Db2 now supports Private Offers on licensing through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/07/rds-db2-private-offers-licensing-aws-marketplace/)
+- [Amazon EKS natively supports EC2 capacity blocks for ML](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eks-natively-ec2-capacity-blocks-for-ml/)
 - [AWS Direct Connect announces native 400 Gbps Dedicated Connections at select locations](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-direct-connect-native-400-gbps-dedicated-connections-select-locations)
 - [Amazon OpenSearch Ingestion adds support for ingesting data from self-managed sources](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-ingesting-data-self-managed-sources)
 - [Announcing streamlined Migration Acceleration Program &lpar;MAP&rpar; funding and approval process in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/07/streamlined-map-funding-approval-aws-partner-central)
 - [Amazon API Gateway WebSocket APIs now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-api-gateway-websocket-apis-additional-aws-regions)
 - [AWS Application Migration Service supports Dynatrace post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-application-migration-service-dynatrace-post-launch-action)
-- [RDS for PostgreSQL supports PL/Rust crates serde, serde_json, regex, and url](https://aws.amazon.com/about-aws/whats-new/2024/07/rds-postgresql-pl-rust-crates-serde-json-regex-url/)
-- [Amazon S3 Access Grants now integrate with open source Python frameworks](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-s3-access-grants-integrate-open-source-python/)
+- [Amazon Connect launches the ability to preferentially route contacts to specific agents within a queue](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-preferentially-route-contacts-agents-queue)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

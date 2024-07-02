@@ -66,8 +66,8 @@
 - [Announcing streamlined Migration Acceleration Program &lpar;MAP&rpar; funding and approval process in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/07/streamlined-map-funding-approval-aws-partner-central)
 - [Amazon API Gateway WebSocket APIs now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-api-gateway-websocket-apis-additional-aws-regions)
 - [AWS Application Migration Service supports Dynatrace post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-application-migration-service-dynatrace-post-launch-action)
-- [Amazon Connect launches the ability to preferentially route contacts to specific agents within a queue](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-preferentially-route-contacts-agents-queue)
 - [RDS for PostgreSQL supports PL/Rust crates serde, serde_json, regex, and url](https://aws.amazon.com/about-aws/whats-new/2024/07/rds-postgresql-pl-rust-crates-serde-json-regex-url/)
+- [Amazon S3 Access Grants now integrate with open source Python frameworks](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-s3-access-grants-integrate-open-source-python/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

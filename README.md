@@ -60,9 +60,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Q Developer is now generally available &lpar;GA&rpar; in the Visual Studio IDE](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-ga-visual-studio-ide)
 - [AWS Lambda introduces new controls to make it easier to search, filter, and aggregate Lambda function logs](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-search-filter-aggregate-function-logs)
-- [AWS Lambda adds support for runtime management controls in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-runtime-management-controls-govcloud-regions)
 - [Amazon DataZone introduces fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-datazone-fine-grained-access-control/)
 - [Amazon RDS now supports M6gd and R6gd database instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-m6gd-r6gd-database-instances-govcloud/)
+- [AWS Lambda adds support for runtime management controls in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-runtime-management-controls-govcloud-regions)
 - [AWS Private CA is now available in the Beijing and Ningxia Regions in China](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-private-ca-beijing-ningxia-regions)
 - [AWS Managed Services &lpar;AMS&rpar; Accelerate now includes Trusted Remediator](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-managed-services-accelerate-trusted-remediator/)
 - [RDS for Db2 now supports Private Offers on licensing through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/07/rds-db2-private-offers-licensing-aws-marketplace/)

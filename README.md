@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Migration Acceleration Program &lpar;MAP&rpar; visualizations available in AWS Partner Central- Analytics and Insights Dashboard](https://aws.amazon.com/about-aws/whats-new/2024/07/map-visualizations-aws-partner-central-analytics-insights-dashboard)
 - [Amazon Connect  launches automated rotation of agent shifts](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts)
 - [Amazon EMR support for backup and restore for Apache HBase Tables available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-emr-backup-restore-apache-hbase-tables-seoul/)
 - [Amazon ECR adds EventBridge support with ECR’s replication feature](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-eventbridge-ecrs-replication-feature/)
@@ -67,7 +68,6 @@
 - [Amazon Q Developer is now generally available &lpar;GA&rpar; in the Visual Studio IDE](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-ga-visual-studio-ide)
 - [AWS Lambda adds support for runtime management controls in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-runtime-management-controls-govcloud-regions)
 - [Amazon DataZone introduces fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-datazone-fine-grained-access-control/)
-- [Amazon RDS now supports M6gd and R6gd database instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-m6gd-r6gd-database-instances-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [FreeRTOS releases new  Long Term Support version](https://aws.amazon.com/about-aws/whats-new/2024/07/freertos-long-term-support-version)
 - [Migration Acceleration Program &lpar;MAP&rpar; visualizations available in AWS Partner Central- Analytics and Insights Dashboard](https://aws.amazon.com/about-aws/whats-new/2024/07/map-visualizations-aws-partner-central-analytics-insights-dashboard)
 - [Amazon EMR support for backup and restore for Apache HBase Tables available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-emr-backup-restore-apache-hbase-tables-seoul/)
 - [Amazon Connect  launches automated rotation of agent shifts](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts)
@@ -67,7 +68,6 @@
 - [Amazon RDS Snapshot Export to S3 now available in eight additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-snapshot-export-s3-additional-aws-regions)
 - [AWS Lambda introduces new controls to make it easier to search, filter, and aggregate Lambda function logs](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-search-filter-aggregate-function-logs)
 - [Amazon Q Developer is now generally available &lpar;GA&rpar; in the Visual Studio IDE](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-ga-visual-studio-ide)
-- [AWS Lambda adds support for runtime management controls in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-runtime-management-controls-govcloud-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

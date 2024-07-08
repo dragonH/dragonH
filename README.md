@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect  launches automated rotation of agent shifts](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts)
+- [Amazon EMR support for backup and restore for Apache HBase Tables available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-emr-backup-restore-apache-hbase-tables-seoul/)
 - [Amazon ECR adds EventBridge support with ECR’s replication feature](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-eventbridge-ecrs-replication-feature/)
 - [Amazon SNS now supports sending SMS from Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sns-sending-sms-calgary)
 - [Amazon RDS Snapshot Export to S3 now available in eight additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-snapshot-export-s3-additional-aws-regions)
@@ -67,7 +68,6 @@
 - [AWS Lambda adds support for runtime management controls in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-runtime-management-controls-govcloud-regions)
 - [Amazon DataZone introduces fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-datazone-fine-grained-access-control/)
 - [Amazon RDS now supports M6gd and R6gd database instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-m6gd-r6gd-database-instances-govcloud/)
-- [AWS Launch Wizard now adds programmatic deployments through APIs and Cloudformation templates](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-launch-wizard-deployments-apis-cloudformation-templates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

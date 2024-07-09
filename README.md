@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA now supports Apache Airflow version 2.9](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-apache-airflow-version-2-9)
 - [Amazon EC2 R8g instances powered by AWS Graviton4 now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available)
 - [Amazon OpenSearch Service announces Natural Language Query Generation for log analysis](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-service-natural-language-query-generation)
 - [AWS Partner Central now supports multi-factor authentication](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-partner-central-multi-factor-authentication)
 - [Simplified service terms for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2024/07/simplified-service-terms-aws-marketplace-sellers)
-- [Amazon Q Business now provides responses that are personalized to users](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users)
 - [Amazon EventBridge Schema Registry now supports AWS PrivateLink VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints)
+- [Amazon Q Business now provides responses that are personalized to users](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users)
 - [Amazon FSx for OpenZFS introduces a highly available Single-AZ deployment option](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-single-az-deployment-option)
+- [Announcing Playlist page for PartyRock](https://aws.amazon.com/about-aws/whats-new/2024/07/playlist-page-for-partyrock/)
 - [Amazon OpenSearch Serverless expands support for time-series workloads up to 30TB](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-time-series-workloads-30tb)
-- [Announcing Valkey GLIDE, an open source client library for Valkey and Redis open source](https://aws.amazon.com/about-aws/whats-new/2024/07/valkey-glide-open-source-valkey-redis/)
-- [Amazon CloudFront announces managed cache policies for web applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudfront-managed-cache-policies-web-applications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

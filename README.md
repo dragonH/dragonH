@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Business now provides responses that are personalized to users](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users)
+- [Amazon EventBridge Schema Registry now supports AWS PrivateLink VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints)
+- [Amazon FSx for OpenZFS introduces a highly available Single-AZ deployment option](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-single-az-deployment-option)
+- [Amazon OpenSearch Serverless expands support for time-series workloads up to 30TB](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-time-series-workloads-30tb)
 - [Amazon CloudFront announces managed cache policies for web applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudfront-managed-cache-policies-web-applications)
 - [FreeRTOS releases new  Long Term Support version](https://aws.amazon.com/about-aws/whats-new/2024/07/freertos-long-term-support-version)
 - [Migration Acceleration Program &lpar;MAP&rpar; visualizations available in AWS Partner Central- Analytics and Insights Dashboard](https://aws.amazon.com/about-aws/whats-new/2024/07/map-visualizations-aws-partner-central-analytics-insights-dashboard)
 - [Amazon EMR support for backup and restore for Apache HBase Tables available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-emr-backup-restore-apache-hbase-tables-seoul/)
 - [Amazon Connect  launches automated rotation of agent shifts](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts)
 - [Amazon ECR adds EventBridge support with ECR’s replication feature](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-eventbridge-ecrs-replication-feature/)
-- [Amazon SNS now supports sending SMS from Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sns-sending-sms-calgary)
-- [Amazon SQS introduces new Amazon CloudWatch metrics for FIFO queues](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sqs-cloudwatch-metrics-fifo-queues)
-- [Amazon RDS Snapshot Export to S3 now available in eight additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-snapshot-export-s3-additional-aws-regions)
-- [AWS Lambda introduces new controls to make it easier to search, filter, and aggregate Lambda function logs](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-search-filter-aggregate-function-logs)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

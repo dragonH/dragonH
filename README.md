@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the next generation of Amazon FSx for NetApp ONTAP file systems](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-for-netapp-ontap-file-systems/)
+- [Amazon FSx for NetApp ONTAP now supports NVMe-over-TCP for simpler, lower-latency shared block storage](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-nvme-over-tcp)
+- [AWS Glue Data catalog now supports generating statistics for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-glue-data-catalog-generating-statistics-apache-iceberg-tables)
+- [Amazon FSx for NetApp ONTAP now allows you to read data during backup restores](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-read-data-backup-restores)
+- [Amazon SageMaker introduces a new generative AI inference optimization capability](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sagamaker-generative-ai-inference-optimization-capability)
+- [AWS Glue Studio now offers a no code data preparation authoring experience](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-glue-studio-no-code-data-preparation-authoring-experience)
+- [Amazon RDS Data API for Aurora PostgreSQL is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-data-api-aurora-postgresql-additional-regions)
 - [Amazon MWAA now supports Apache Airflow version 2.9](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-apache-airflow-version-2-9)
 - [Amazon EC2 R8g instances powered by AWS Graviton4 now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available)
 - [Amazon OpenSearch Service announces Natural Language Query Generation for log analysis](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-service-natural-language-query-generation)
-- [AWS Partner Central now supports multi-factor authentication](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-partner-central-multi-factor-authentication)
-- [Simplified service terms for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2024/07/simplified-service-terms-aws-marketplace-sellers)
-- [Amazon EventBridge Schema Registry now supports AWS PrivateLink VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints)
-- [Amazon Q Business now provides responses that are personalized to users](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users)
-- [Amazon FSx for OpenZFS introduces a highly available Single-AZ deployment option](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-single-az-deployment-option)
-- [Announcing Playlist page for PartyRock](https://aws.amazon.com/about-aws/whats-new/2024/07/playlist-page-for-partyrock/)
-- [Amazon OpenSearch Serverless expands support for time-series workloads up to 30TB](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-time-series-workloads-30tb)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

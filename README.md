@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Simplified service terms for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2024/07/simplified-service-terms-aws-marketplace-sellers)
 - [Amazon Q Business now provides responses that are personalized to users](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users)
 - [Amazon EventBridge Schema Registry now supports AWS PrivateLink VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints)
 - [Amazon FSx for OpenZFS introduces a highly available Single-AZ deployment option](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-single-az-deployment-option)
@@ -67,7 +68,6 @@
 - [Migration Acceleration Program &lpar;MAP&rpar; visualizations available in AWS Partner Central- Analytics and Insights Dashboard](https://aws.amazon.com/about-aws/whats-new/2024/07/map-visualizations-aws-partner-central-analytics-insights-dashboard)
 - [Amazon EMR support for backup and restore for Apache HBase Tables available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-emr-backup-restore-apache-hbase-tables-seoul/)
 - [Amazon Connect  launches automated rotation of agent shifts](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts)
-- [Amazon ECR adds EventBridge support with ECR’s replication feature](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecr-eventbridge-ecrs-replication-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

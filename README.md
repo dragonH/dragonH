@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service announces Natural Language Query Generation for log analysis](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-service-natural-language-query-generation)
+- [AWS Partner Central now supports multi-factor authentication](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-partner-central-multi-factor-authentication)
 - [Simplified service terms for AWS Marketplace sellers](https://aws.amazon.com/about-aws/whats-new/2024/07/simplified-service-terms-aws-marketplace-sellers)
 - [Amazon Q Business now provides responses that are personalized to users](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-responses-personalized-users)
 - [Amazon EventBridge Schema Registry now supports AWS PrivateLink VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eventbridge-schema-registry-privatelink-vpc-endpoints)
 - [Amazon FSx for OpenZFS introduces a highly available Single-AZ deployment option](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-single-az-deployment-option)
 - [Amazon OpenSearch Serverless expands support for time-series workloads up to 30TB](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-time-series-workloads-30tb)
+- [Announcing Valkey GLIDE, an open source client library for Valkey and Redis open source](https://aws.amazon.com/about-aws/whats-new/2024/07/valkey-glide-open-source-valkey-redis/)
 - [Amazon CloudFront announces managed cache policies for web applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudfront-managed-cache-policies-web-applications)
 - [FreeRTOS releases new  Long Term Support version](https://aws.amazon.com/about-aws/whats-new/2024/07/freertos-long-term-support-version)
-- [Migration Acceleration Program &lpar;MAP&rpar; visualizations available in AWS Partner Central- Analytics and Insights Dashboard](https://aws.amazon.com/about-aws/whats-new/2024/07/map-visualizations-aws-partner-central-analytics-insights-dashboard)
-- [Amazon EMR support for backup and restore for Apache HBase Tables available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-emr-backup-restore-apache-hbase-tables-seoul/)
-- [Amazon Connect  launches automated rotation of agent shifts](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-automated-rotation-agent-shifts)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

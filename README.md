@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Guardrails for Amazon Bedrock can now detect hallucinations &amp; safeguard apps using any FM](https://aws.amazon.com/about-aws/whats-new/2024/07/guardrails-bedrock-hallucinations-safeguard-apps-fm)
+- [Amazon Q Developer is now available in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-sagemaker-studio)
+- [Agents for Amazon Bedrock now retain memory &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-retain-memory-preview)
+- [Agents for Amazon Bedrock now support code interpretation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-code-interpretation-preview)
+- [Knowledge Bases for Amazon Bedrock now supports advanced RAG capabilities](https://aws.amazon.com/about-aws/whats-new/2024/07/knowledge-bases-amazon-bedrock-advanced-rag-capabilities)
+- [Knowledge Bases for Amazon Bedrock now supports additional data sources &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/knowledge-bases-amazon-bedrock-additional-data-sources-preview)
+- [Fine-tuning for Anthropic&#39;s Claude 3 Haiku in Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/fine-tuning-anthropics-claude-3-haiku-bedrock-preview/)
 - [Announcing the next generation of Amazon FSx for NetApp ONTAP file systems](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-for-netapp-ontap-file-systems/)
-- [Amazon FSx for NetApp ONTAP now supports NVMe-over-TCP for simpler, lower-latency shared block storage](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-nvme-over-tcp)
 - [AWS Glue Data catalog now supports generating statistics for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-glue-data-catalog-generating-statistics-apache-iceberg-tables)
 - [Amazon FSx for NetApp ONTAP now allows you to read data during backup restores](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-read-data-backup-restores)
-- [Amazon SageMaker introduces a new generative AI inference optimization capability](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sagamaker-generative-ai-inference-optimization-capability)
-- [AWS Glue Studio now offers a no code data preparation authoring experience](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-glue-studio-no-code-data-preparation-authoring-experience)
-- [Amazon RDS Data API for Aurora PostgreSQL is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-data-api-aurora-postgresql-additional-regions)
-- [Amazon MWAA now supports Apache Airflow version 2.9](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-apache-airflow-version-2-9)
-- [Amazon EC2 R8g instances powered by AWS Graviton4 now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-r8g-instances-aws-graviton4-generally-available)
-- [Amazon OpenSearch Service announces Natural Language Query Generation for log analysis](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-service-natural-language-query-generation)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

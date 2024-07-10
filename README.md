@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS License Manager now integrates with Red Hat Subscription Manager](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-license-manager-integrates-red-hat-subscription-manager/)
+- [Amazon QuickSight launches a 20x higher limit for SPICE JOIN](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-20x-higher-limit-spice-join)
 - [Guardrails for Amazon Bedrock can now detect hallucinations &amp; safeguard apps using any FM](https://aws.amazon.com/about-aws/whats-new/2024/07/guardrails-bedrock-hallucinations-safeguard-apps-fm)
 - [AWS Backup now supports Amazon Elastic Block Store &lpar;EBS&rpar; Snapshots Archive in backup policies](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-backup-ebs-snapshots-archive-backup-policies)
 - [Amazon Q Developer is now available in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-sagemaker-studio)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cognito-asia-pacific-hong-kong-region/)
 - [Customize Amazon Q Developer code recommendations, and receive chat responses in the IDE &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/customize-amazon-q-developer-code-recommendations-receive-chat-responses-ide-preview)
-- [Agents for Amazon Bedrock now retain memory &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-retain-memory-preview)
 - [Agents for Amazon Bedrock now support code interpretation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-code-interpretation-preview)
+- [Agents for Amazon Bedrock now retain memory &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-retain-memory-preview)
 - [Knowledge Bases for Amazon Bedrock now supports advanced RAG capabilities](https://aws.amazon.com/about-aws/whats-new/2024/07/knowledge-bases-amazon-bedrock-advanced-rag-capabilities)
-- [Knowledge Bases for Amazon Bedrock now supports additional data sources &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/knowledge-bases-amazon-bedrock-additional-data-sources-preview)
-- [Amazon Bedrock Prompt Management and Prompt Flows now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-bedrock-prompt-management-flows-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

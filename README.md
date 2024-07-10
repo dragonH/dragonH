@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Guardrails for Amazon Bedrock can now detect hallucinations &amp; safeguard apps using any FM](https://aws.amazon.com/about-aws/whats-new/2024/07/guardrails-bedrock-hallucinations-safeguard-apps-fm)
 - [Amazon Q Developer is now available in SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-developer-sagemaker-studio)
+- [Customize Amazon Q Developer code recommendations, and receive chat responses in the IDE &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/customize-amazon-q-developer-code-recommendations-receive-chat-responses-ide-preview)
 - [Agents for Amazon Bedrock now retain memory &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-retain-memory-preview)
 - [Agents for Amazon Bedrock now support code interpretation &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/agents-amazon-bedrock-code-interpretation-preview)
 - [Knowledge Bases for Amazon Bedrock now supports advanced RAG capabilities](https://aws.amazon.com/about-aws/whats-new/2024/07/knowledge-bases-amazon-bedrock-advanced-rag-capabilities)
 - [Knowledge Bases for Amazon Bedrock now supports additional data sources &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/knowledge-bases-amazon-bedrock-additional-data-sources-preview)
+- [Amazon Bedrock Prompt Management and Prompt Flows now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-bedrock-prompt-management-flows-preview)
 - [Fine-tuning for Anthropic&#39;s Claude 3 Haiku in Amazon Bedrock &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/fine-tuning-anthropics-claude-3-haiku-bedrock-preview/)
-- [Announcing the next generation of Amazon FSx for NetApp ONTAP file systems](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-for-netapp-ontap-file-systems/)
-- [AWS Glue Data catalog now supports generating statistics for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-glue-data-catalog-generating-statistics-apache-iceberg-tables)
-- [Amazon FSx for NetApp ONTAP now allows you to read data during backup restores](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-netapp-ontap-read-data-backup-restores)
+- [AWS announces the general availability of vector search for Amazon MemoryDB](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-vector-search-for-amazon-memorydb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing IDE workspace context awareness in Q Developer chat](https://aws.amazon.com/about-aws/whats-new/2024/07/ide-workspace-context-awareness-q-developer-chat)
 - [AWS Secrets Manager announces open source release of Secrets Manager Agent](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-secrets-manager-open-source-secrets-manager-agent)
 - [Amazon ECS now enforces software version consistency for containerized applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications)
 - [Amazon RDS for SQL Server supports minor version 2019 CU27](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-minor-version-2019-cu27)
 - [Announcing availability of AWS Outposts in Senegal](https://aws.amazon.com/about-aws/whats-new/2024/07/availability-aws-outposts-senegal)
 - [Chatting about your AWS resources is now generally available for Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2024/07/chatting-aws-resources-generally-available-amazon-q-developer)
-- [Amazon ECS now provides enhanced stopped task error messages for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-stopped-task-error-messages-troubleshooting/)
+- [AWS Batch now supports gang-scheduling on Amazon EKS using multi-node parallel jobs](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-batch-gang-scheduling-eks-multi-node-parallel-jobs/)
 - [AWS Neuron introduces Flash Attention kernel enabling high performance and large sequence lengths](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-neuron-flash-kernel-performance-sequence-lengths/)
-- [Amazon MWAA now available in nine additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mwaa-additional-regions)
-- [AWS License Manager now integrates with Red Hat Subscription Manager](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-license-manager-integrates-red-hat-subscription-manager/)
-- [Amazon QuickSight launches a 20x higher limit for SPICE JOIN](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-20x-higher-limit-spice-join)
+- [Amazon ECS now provides enhanced stopped task error messages for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-stopped-task-error-messages-troubleshooting/)
+- [RDS Performance Insights provides support for AWS PrivateLink and IPv6](https://aws.amazon.com/about-aws/whats-new/2024/07/rds-performance-insights-privatelink-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

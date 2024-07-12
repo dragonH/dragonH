@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Identity and Access Management simplifies management of OpenID Connect identity providers](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-identity-access-management-open-id-connect-identity-providers)
+- [Amazon Q introduces support for scanned PDFs and embedded images in PDF documents](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-scanned-pdfs-embedded-images-documents/)
 - [Announcing IDE workspace context awareness in Q Developer chat](https://aws.amazon.com/about-aws/whats-new/2024/07/ide-workspace-context-awareness-q-developer-chat)
 - [AWS Secrets Manager announces open source release of Secrets Manager Agent](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-secrets-manager-open-source-secrets-manager-agent)
 - [Amazon ECS now enforces software version consistency for containerized applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications)
@@ -67,7 +68,6 @@
 - [AWS Batch now supports gang-scheduling on Amazon EKS using multi-node parallel jobs](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-batch-gang-scheduling-eks-multi-node-parallel-jobs/)
 - [Chatting about your AWS resources is now generally available for Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2024/07/chatting-aws-resources-generally-available-amazon-q-developer)
 - [AWS Neuron introduces Flash Attention kernel enabling high performance and large sequence lengths](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-neuron-flash-kernel-performance-sequence-lengths/)
-- [Amazon ECS now provides enhanced stopped task error messages for easier troubleshooting](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-stopped-task-error-messages-troubleshooting/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

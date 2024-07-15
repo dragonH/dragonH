@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless levels up speed and efficiency with smart caching](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-speed-efficiency-smart-caching/)
+- [AWS Cloud Control API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cloud-control-api-ipv6/)
+- [AWS Elemental MediaConnect supports individual output stopping capability](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elemental-mediaconnect-individual-output-stopping/)
+- [Amazon RDS for MariaDB supports Long-Term Support version 11.4 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-mariadb-long-term-support-version-11-4-preview-environment)
+- [Amazon FSx for OpenZFS now supports additional deployment options in two AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-deployment-options-two-aws-regions)
+- [AWS Security Hub launches 24 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-security-hub-24-security-controls/)
 - [AWS Identity and Access Management simplifies management of OpenID Connect identity providers](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-identity-access-management-open-id-connect-identity-providers)
 - [Amazon Q introduces support for scanned PDFs and embedded images in PDF documents](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-scanned-pdfs-embedded-images-documents/)
 - [Announcing IDE workspace context awareness in Q Developer chat](https://aws.amazon.com/about-aws/whats-new/2024/07/ide-workspace-context-awareness-q-developer-chat)
 - [AWS Secrets Manager announces open source release of Secrets Manager Agent](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-secrets-manager-open-source-secrets-manager-agent)
-- [Amazon ECS now enforces software version consistency for containerized applications](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-software-version-consistency-containerized-applications)
-- [Amazon RDS for SQL Server supports minor version 2019 CU27](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-minor-version-2019-cu27)
-- [Announcing availability of AWS Outposts in Senegal](https://aws.amazon.com/about-aws/whats-new/2024/07/availability-aws-outposts-senegal)
-- [AWS Batch now supports gang-scheduling on Amazon EKS using multi-node parallel jobs](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-batch-gang-scheduling-eks-multi-node-parallel-jobs/)
-- [Chatting about your AWS resources is now generally available for Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2024/07/chatting-aws-resources-generally-available-amazon-q-developer)
-- [AWS Neuron introduces Flash Attention kernel enabling high performance and large sequence lengths](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-neuron-flash-kernel-performance-sequence-lengths/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

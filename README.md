@@ -62,10 +62,10 @@
 - [Announcing the July 2024 updates to Amazon Corretto](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-corretto-july-2024-quarterly-updates/)
 - [AWS Artifact now supports enhanced search capability for reports](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-artifact-enhanced-search-reports/)
 - [Amazon QuickSight improves controls performance](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-controls-performance)
+- [AWS Cloud Control API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cloud-control-api-ipv6/)
 - [Amazon OpenSearch Serverless levels up speed and efficiency with smart caching](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-speed-efficiency-smart-caching/)
 - [Amazon RDS for MariaDB supports Long-Term Support version 11.4 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-mariadb-long-term-support-version-11-4-preview-environment)
 - [AWS Elemental MediaConnect supports individual output stopping capability](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elemental-mediaconnect-individual-output-stopping/)
-- [AWS Cloud Control API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cloud-control-api-ipv6/)
 - [Amazon FSx for OpenZFS now supports additional deployment options in two AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-fsx-openzfs-deployment-options-two-aws-regions)
 - [AWS Security Hub launches 24 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-security-hub-24-security-controls/)
 <!-- AWS-NEWS:END -->

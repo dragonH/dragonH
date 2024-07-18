@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-high-memory-instances-jakarta-region)
 - [New open-source Advanced MYSQL ODBC Driver  now available for Amazon Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2024/07/open-source-advanced-mysql-odbc-driver-aurora-rds/)
 - [AWS Private CA now supports ARM architecture in Kubernetes](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-private-ca-arm-architecture-kubernetes/)
 - [AWS Network Firewall is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-network-firewall-calgary-region)
 - [Amazon Redshift Serverless with lower base capacity available in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-redshift-serverless-lower-base-capacity-london/)
+- [AWS IAM Identity Center adds independent 90-days session duration for Amazon CodeWhisperer](https://aws.amazon.com/about-aws/whats-new/2024/04/aws-iam-identity-center-90-days-session-codewhisperer/)
 - [Announcing expanded DICOMweb retrievals with AWS HealthImaging](https://aws.amazon.com/about-aws/whats-new/2024/07/expanded-dicomweb-retrievals-aws-healthimaging)
 - [Announcing the July 2024 updates to Amazon Corretto](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-corretto-july-2024-quarterly-updates/)
 - [AWS Artifact now supports enhanced search capability for reports](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-artifact-enhanced-search-reports/)
 - [Amazon QuickSight improves controls performance](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-quicksight-controls-performance)
-- [AWS Cloud Control API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cloud-control-api-ipv6/)
-- [Amazon OpenSearch Serverless levels up speed and efficiency with smart caching](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-opensearch-serverless-speed-efficiency-smart-caching/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

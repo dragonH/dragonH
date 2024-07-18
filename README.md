@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-c7i-flex-instances-sydney-tokyo-regions)
+- [Amazon RDS for SQL Server supports password policies for SQL Server logins](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-password-policies-logins)
 - [AWS Lambda now supports SnapStart for Java functions that use the ARM64 architecture](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-snapstart-java-functions-arm64-architecture)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-high-memory-instances-jakarta-region)
 - [New open-source Advanced MYSQL ODBC Driver  now available for Amazon Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2024/07/open-source-advanced-mysql-odbc-driver-aurora-rds/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift Serverless with lower base capacity available in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-redshift-serverless-lower-base-capacity-london/)
 - [AWS Network Firewall is now available in the AWS Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-network-firewall-calgary-region)
 - [AWS IAM Identity Center adds independent 90-days session duration for Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-90-session-duration-q-developer/)
-- [Announcing expanded DICOMweb retrievals with AWS HealthImaging](https://aws.amazon.com/about-aws/whats-new/2024/07/expanded-dicomweb-retrievals-aws-healthimaging)
-- [Announcing the July 2024 updates to Amazon Corretto](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-corretto-july-2024-quarterly-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

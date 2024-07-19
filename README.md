@@ -63,11 +63,11 @@
 - [Amazon Connect launches search API for agent status](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-apis-agent-status)
 - [Simplify Your AWS Marketplace Catalog API &lpar;CAPI&rpar; Integration with Strongly-Typed API Schemas](https://aws.amazon.com/about-aws/whats-new/2024/07/marketplace-catalog-integration-typed-api-schemas/)
 - [Amazon CloudWatch Logs Infrequent Access log class available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudwatch-logs-infrequent-class-govcloud/)
+- [AWS Lambda now supports Amazon MQ for ActiveMQ and RabbitMQ in five new regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-amazon-mq-activemq-rabbitmq-five-regions/)
 - [Amazon EC2 C7i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-c7i-flex-instances-sydney-tokyo-regions)
 - [Amazon RDS for SQL Server supports password policies for SQL Server logins](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-password-policies-logins)
 - [AWS Lambda now supports SnapStart for Java functions that use the ARM64 architecture](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-snapstart-java-functions-arm64-architecture)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-high-memory-instances-jakarta-region)
-- [AWS Private CA now supports ARM architecture in Kubernetes](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-private-ca-arm-architecture-kubernetes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS KMS increases default service quotas for cryptographic operations](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-kms-increases-default-service-quotas-cryptographic-operations)
+- [Amazon Connect Contact Lens now provides generative AI-powered summaries within seconds after a contact ends](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-ai-powered-summaries/)
+- [Amazon RDS now supports M6i, R6i, M6g, R6g, and T4g database instances in Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-m6i-r6i-m6g-r6g-t4g-instances-israel/)
 - [Productionize Fine-tuned Foundation Models from SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2024/07/productionize-fine-tuned-foundation-models-sagemaker-canvas)
 - [Amazon Connect launches search API for hierarchy groups](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-api-hierarchy-groups)
 - [Amazon Connect launches search API for agent status](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-search-apis-agent-status)
@@ -65,9 +68,6 @@
 - [Amazon CloudWatch Logs Infrequent Access log class available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-cloudwatch-logs-infrequent-class-govcloud/)
 - [AWS Lambda now supports Amazon MQ for ActiveMQ and RabbitMQ in five new regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-amazon-mq-activemq-rabbitmq-five-regions/)
 - [Amazon EC2 C7i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; and Asia Pacific &lpar;Tokyo&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-c7i-flex-instances-sydney-tokyo-regions)
-- [Amazon RDS for SQL Server supports password policies for SQL Server logins](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-rds-sql-server-password-policies-logins)
-- [AWS Lambda now supports SnapStart for Java functions that use the ARM64 architecture](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-lambda-snapstart-java-functions-arm64-architecture)
-- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-high-memory-instances-jakarta-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

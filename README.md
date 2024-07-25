@@ -58,13 +58,13 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Signer open sources Notation plugin for container image signing](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-signer-open-sources-notation-plugin-container-image-signing)
 - [Mistral Large 2 foundation model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/mistral-large-2-foundation-model-amazon-bedrock/)
+- [AWS Signer open sources Notation plugin for container image signing](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-signer-open-sources-notation-plugin-container-image-signing)
 - [AWS DataSync expands support for agentless cross-region data transfers to include opt-in regions](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-datasync-agentless-data-transfers-opt-in-regions/)
 - [AWS Cost Categories now supports “Billing Entity” dimension](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-cost-categories-billing-entity-dimension)
 - [Meta Llama 3.1 generative AI models now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-sagemaker-jumpstart)
-- [AWS AppConfig announces feature flag targets, variants, and splits](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-appconfig-feature-flag-targets-variants-splits)
 - [Amazon ECS now supports Amazon Linux 2023 and more for on-premises container workloads](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ecs-linux-2023-on-premises-container-workloads/)
+- [AWS AppConfig announces feature flag targets, variants, and splits](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-appconfig-feature-flag-targets-variants-splits)
 - [Meta Llama 3.1 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-generative-ai-models-amazon-bedrock)
 - [AWS Mainframe Modernization Code Conversion with mLogica is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-mainframe-modernization-code-conversion-mlogica-generally-available)
 - [Amazon EKS introduces new controls for Kubernetes version support policy](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-eks-controls-kubernetes-version-support-policy/)

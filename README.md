@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS launches a self-guided journey for AWS Partners enrolled on the Services Path](https://aws.amazon.com/about-aws/whats-new/2024/07/self-guided-journey-aws-partners-services-path)
 - [AWS IAM Identity Center is now available in the Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-calgary-region)
 - [Amazon SageMaker launches faster auto-scaling for Generative AI models](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sagemaker-faster-auto-scaling-generative-ai-models)
 - [Amazon GameLift now supports AWS Nigeria Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-gamelift-aws-nigeria-local-zone)
@@ -67,7 +68,6 @@
 - [CloudWatch RUM PutRumEvents API now supports data event logging in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/07/cloudwatch-rum-putrumevents-api-data-event-logging-aws-cloudtrail)
 - [AWS Clean Rooms launches new capabilities for entity resolution, ML modeling, privacy, and analysis controls](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-clean-rooms-capabilities-entity-resolution-ml-modeling-privacy-analysis-controls)
 - [Announcing 24 months support for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2024/07/24-month-support-amazon-emr)
-- [Amazon EC2 D3en instances are now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-d3en-instances-asia-jakarta-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

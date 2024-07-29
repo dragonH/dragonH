@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens now provides downloadable screen recordings](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-downloadable-screen-recordings)
 - [Amazon MQ now supports ActiveMQ version 5.18](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mq-supports-activemq-version-5-18)
 - [AWS Elemental MediaLive now supports SRT caller input](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elemental-medialive-srt-caller-input/)
 - [Amazon Q Business launches support for cross-region AWS IAM Identity Center access](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-q-business-cross-region-aws-iam-identity-center-access)
 - [Introducing AWS End User Messaging](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-end-user-messaging)
+- [Build your event-driven application using AWS CloudFormation Git sync status changes](https://aws.amazon.com/about-aws/whats-new/2024/07/build-event-driven-application-aws-cloudformation/)
 - [Meta Llama 3.1 405B now generally available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/07/meta-llama-3-1-405b-generally-available-amazon-bedrock)
 - [AWS launches a self-guided journey for AWS Partners enrolled on the Services Path](https://aws.amazon.com/about-aws/whats-new/2024/07/self-guided-journey-aws-partners-services-path)
 - [AWS IAM Identity Center is now available in the Canada West &lpar;Calgary&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iam-identity-center-calgary-region)
 - [Amazon SageMaker launches faster auto-scaling for Generative AI models](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-sagemaker-faster-auto-scaling-generative-ai-models)
-- [Amazon GameLift now supports AWS Nigeria Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-gamelift-aws-nigeria-local-zone)
-- [AWS HealthImaging announces enhanced copy and update capabilities](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-healthimaging-enhanced-copy-update-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

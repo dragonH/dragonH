@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Graviton-based EC2 instances now support hibernation](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-graviton-based-ec2-instances-hibernation)
 - [AWS Elastic Disaster Recovery now supports Flexible Instance Types launch setting](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elastic-disaster-recovery-flexible-instance-types-launch-setting)
 - [AWS IoT SiteWise Edge on Siemens Industrial Edge is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iot-sitewise-edge-siemens-industrial-edge/)
 - [Create an AWS Account using your bank account available in Germany](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-account-using-bank-account-germany)
@@ -67,7 +68,6 @@
 - [Amazon Connect Contact Lens now provides downloadable screen recordings](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-downloadable-screen-recordings)
 - [Amazon MQ now supports ActiveMQ version 5.18](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mq-supports-activemq-version-5-18)
 - [AWS Elemental MediaLive now supports SRT caller input](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elemental-medialive-srt-caller-input/)
-- [Build your event-driven application using AWS CloudFormation Git sync status changes](https://aws.amazon.com/about-aws/whats-new/2024/07/build-event-driven-application-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

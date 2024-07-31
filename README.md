@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now enables agents to view pre-approved windows when scheduling time off](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-agents-pre-approved-time-off/)
 - [AWS Graviton-based EC2 instances now support hibernation](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-graviton-based-ec2-instances-hibernation)
 - [AWS Elastic Disaster Recovery now supports Flexible Instance Types launch setting](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elastic-disaster-recovery-flexible-instance-types-launch-setting)
 - [AWS IoT SiteWise Edge on Siemens Industrial Edge is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iot-sitewise-edge-siemens-industrial-edge/)
@@ -67,7 +68,6 @@
 - [Amazon Neptune Analytics now introduces new smaller capacity units](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-neptune-analytics-smaller-capacity-units/)
 - [Amazon EC2 Fleet and EC2 Auto Scaling groups now supports aliases for Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-fleet-auto-scaling-groups-aliases-amis)
 - [Amazon Connect Contact Lens now provides downloadable screen recordings](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-contact-lens-downloadable-screen-recordings)
-- [Amazon MQ now supports ActiveMQ version 5.18](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-mq-supports-activemq-version-5-18)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

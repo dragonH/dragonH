@@ -61,13 +61,13 @@
 - [Amazon RDS for SQL Server supports integration of transaction log backup with DMS](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-integration-transaction-log-backup-with-dms)
 - [AWS Application Migration Service supports New Relic post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-application-migration-service-relic-post-launch/)
 - [Llama 3 is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/llama-3-aws-govcloud-us-west-region/)
-- [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-dax-additional-aws-regions)
+- [Amazon RDS for MySQL supports Long-Term Support version 8.4 in RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-long-term-8-4-rds-database-preview/)
 - [Amazon Bedrock achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-achieves-fedramp-high-authorization)
+- [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-dax-additional-aws-regions)
 - [Amazon WorkSpaces Thin Client has received Carbon Trust verification for the product&#39;s carbon footprint](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-thin-client-carbon-trust-verification/)
+- [Amazon WorkSpaces now offers Microsoft Visual Studio](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-microsoft-visual-studio/)
 - [Announcing fine-grained access control via AWS Lake Formation with EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2024/07/fine-grained-access-control-aws-lake-formation-emr-serverless)
 - [Amazon Connect now enables agents to view pre-approved windows when scheduling time off](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-agents-pre-approved-time-off/)
-- [AWS Graviton-based EC2 instances now support hibernation](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-graviton-based-ec2-instances-hibernation)
-- [AWS Elastic Disaster Recovery now supports Flexible Instance Types launch setting](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elastic-disaster-recovery-flexible-instance-types-launch-setting)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

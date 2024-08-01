@@ -64,9 +64,9 @@
 - [AWS Elastic Disaster Recovery now supports Flexible Instance Types launch setting](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-elastic-disaster-recovery-flexible-instance-types-launch-setting)
 - [AWS IoT SiteWise Edge on Siemens Industrial Edge is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-iot-sitewise-edge-siemens-industrial-edge/)
 - [Amazon AppStream 2.0 introduces Red Hat Enterprise Linux Application and Desktop streaming](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-appstream-red-hat-linux-desktop-streaming/)
+- [Amazon Connect now supports Inbound DID calling in Vietnam](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-inbound-did-calling-vietnam)
 - [Amazon Neptune Analytics now introduces new smaller capacity units](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-neptune-analytics-smaller-capacity-units/)
 - [Create an AWS Account using your bank account available in Germany](https://aws.amazon.com/about-aws/whats-new/2024/07/aws-account-using-bank-account-germany)
-- [Amazon Connect now supports Inbound DID calling in Vietnam](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-connect-inbound-did-calling-vietnam)
 - [Amazon EC2 Fleet and EC2 Auto Scaling groups now supports aliases for Amazon Machine Images &lpar;AMIs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/07/amazon-ec2-fleet-auto-scaling-groups-aliases-amis)
 <!-- AWS-NEWS:END -->
 

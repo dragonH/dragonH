@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Systems Manager launches API support for Quick Setup](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-systems-manager-api-support-quick-setup)
+- [New Amazon CloudWatch dimensions for Amazon EC2 On Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-dimensions-ec2-on-demand-capacity-reservations)
 - [AWS CodePipeline introduces stage level conditions to implement pipeline gates](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codepipeline-stage-level-conditions-implement-pipeline-gates)
 - [Amazon RDS for SQL Server supports integration of transaction log backup with DMS](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-integration-transaction-log-backup-with-dms)
 - [Llama 3 is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/llama-3-aws-govcloud-us-west-region/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for MySQL supports version 8.4 in RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-long-term-8-4-rds-database-preview/)
 - [Amazon Bedrock achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-achieves-fedramp-high-authorization)
 - [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-dax-additional-aws-regions)
-- [Amazon WorkSpaces Thin Client has received Carbon Trust verification for the product&#39;s carbon footprint](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-thin-client-carbon-trust-verification/)
-- [Amazon WorkSpaces now offers Microsoft Visual Studio](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-microsoft-visual-studio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

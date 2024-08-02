@@ -62,10 +62,10 @@
 - [New Amazon CloudWatch dimensions for Amazon EC2 On Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-dimensions-ec2-on-demand-capacity-reservations)
 - [AWS CodePipeline introduces stage level conditions to implement pipeline gates](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codepipeline-stage-level-conditions-implement-pipeline-gates)
 - [Amazon RDS for SQL Server supports integration of transaction log backup with DMS](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-integration-transaction-log-backup-with-dms)
-- [Amazon Redshift releases drivers for supporting single sign-on with AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-drivers-sign-on-iam-identity-center/)
 - [Llama 3 is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/llama-3-aws-govcloud-us-west-region/)
-- [Amazon RDS for MySQL supports version 8.4 in RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-long-term-8-4-rds-database-preview/)
 - [AWS Application Migration Service supports New Relic post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-application-migration-service-relic-post-launch/)
+- [Amazon Redshift releases drivers for supporting single sign-on with AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-drivers-sign-on-iam-identity-center/)
+- [Amazon RDS for MySQL supports version 8.4 in RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-long-term-8-4-rds-database-preview/)
 - [Amazon Bedrock achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-achieves-fedramp-high-authorization)
 - [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-dax-additional-aws-regions)
 <!-- AWS-NEWS:END -->

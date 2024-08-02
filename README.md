@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing purchase order support for AWS Data Exchange private offers](https://aws.amazon.com/about-aws/whats-new/2024/08/purchase-order-aws-data-exchange-private-offers)
+- [AWS Database Migration Service &lpar;DMS&rpar; expands DMS homogeneous data migrations feature to 29 AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-dms-homogeneous-data-migrations-feature-29-regions)
+- [Amazon Connect launches the ability to configure when whisper flows are used](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-whisper-flows)
 - [AWS Systems Manager launches API support for Quick Setup](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-systems-manager-api-support-quick-setup)
 - [New Amazon CloudWatch dimensions for Amazon EC2 On Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-dimensions-ec2-on-demand-capacity-reservations)
 - [AWS CodePipeline introduces stage level conditions to implement pipeline gates](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codepipeline-stage-level-conditions-implement-pipeline-gates)
@@ -65,9 +68,6 @@
 - [Amazon RDS for MySQL supports version 8.4 in RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-long-term-8-4-rds-database-preview/)
 - [Llama 3 is now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/llama-3-aws-govcloud-us-west-region/)
 - [AWS Application Migration Service supports New Relic post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-application-migration-service-relic-post-launch/)
-- [Amazon Redshift releases drivers for supporting single sign-on with AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-drivers-sign-on-iam-identity-center/)
-- [Amazon Bedrock achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-achieves-fedramp-high-authorization)
-- [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-dax-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

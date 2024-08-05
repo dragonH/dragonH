@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports July 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-july-2024-release-update/)
+- [AWS Resilience Hub introduces improved resource grouping capabilities](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resilience-hub-improved-resource-grouping-capabilities)
 - [Amazon DataZone achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-achieves-pci-dss-certification)
 - [AWS Payment Cryptography is now available in four new regions across Europe and Asia](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-payment-cryptography-new-regions-europe-asia)
 - [AWS Database Migration Service &lpar;DMS&rpar; expands DMS homogeneous data migrations feature to 29 AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-dms-homogeneous-data-migrations-feature-29-regions)
@@ -66,8 +68,6 @@
 - [Amazon Connect launches the ability to configure when whisper flows are used](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-whisper-flows)
 - [AWS Systems Manager launches API support for Quick Setup](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-systems-manager-api-support-quick-setup)
 - [New Amazon CloudWatch dimensions for Amazon EC2 On Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-dimensions-ec2-on-demand-capacity-reservations)
-- [AWS CodePipeline introduces stage level conditions to implement pipeline gates](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codepipeline-stage-level-conditions-implement-pipeline-gates)
-- [Amazon RDS for SQL Server supports integration of transaction log backup with DMS](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-integration-transaction-log-backup-with-dms)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

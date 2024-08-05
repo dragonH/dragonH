@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports additional agent scheduling staffing rules](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-additional-agent-scheduling-staffing-rules)
 - [Elastic Load Balancing Trust Store now supports cross-account sharing using AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/elastic-load-balancing-trust-store-cross-account-sharing-aws-resource-access-manager)
 - [Amazon Connect now supports audio optimization for Amazon WorkSpaces cloud desktops](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-audio-optimization-workspaces-desktops/)
+- [Amazon Verified Permissions improves support for OIDC identity providers](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-verified-permissions-oidc-identity-providers/)
+- [AWS Resilience Hub introduces improved resource grouping capabilities](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resilience-hub-improved-resource-grouping-capabilities)
 - [AWS CodeBuild now supports three new Arm-based compute types](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-three-arm-based-compute-types/)
 - [Amazon RDS for Oracle now supports July 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-july-2024-release-update/)
-- [AWS Resilience Hub introduces improved resource grouping capabilities](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resilience-hub-improved-resource-grouping-capabilities)
+- [Amazon DataZone offers business use case-based grouping with data products](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-business-case-based-grouping-data-products/)
 - [Amazon DataZone achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-achieves-pci-dss-certification)
 - [AWS Payment Cryptography is now available in four new regions across Europe and Asia](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-payment-cryptography-new-regions-europe-asia)
-- [AWS Database Migration Service &lpar;DMS&rpar; expands DMS homogeneous data migrations feature to 29 AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-dms-homogeneous-data-migrations-feature-29-regions)
-- [Amazon EBS Fast Snapshot Restore &lpar;FSR&rpar; is now available in six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ebs-fast-snapshot-restore-six-additional-regions/)
-- [Announcing purchase order support for AWS Data Exchange private offers](https://aws.amazon.com/about-aws/whats-new/2024/08/purchase-order-aws-data-exchange-private-offers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Elastic Load Balancing Trust Store now supports cross-account sharing using AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/elastic-load-balancing-trust-store-cross-account-sharing-aws-resource-access-manager)
 - [Amazon Connect now supports audio optimization for Amazon WorkSpaces cloud desktops](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-audio-optimization-workspaces-desktops/)
+- [AWS CodeBuild now supports three new Arm-based compute types](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-three-arm-based-compute-types/)
 - [Amazon RDS for Oracle now supports July 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-july-2024-release-update/)
 - [AWS Resilience Hub introduces improved resource grouping capabilities](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resilience-hub-improved-resource-grouping-capabilities)
 - [Amazon DataZone achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-achieves-pci-dss-certification)
@@ -67,7 +68,6 @@
 - [AWS Database Migration Service &lpar;DMS&rpar; expands DMS homogeneous data migrations feature to 29 AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-dms-homogeneous-data-migrations-feature-29-regions)
 - [Amazon EBS Fast Snapshot Restore &lpar;FSR&rpar; is now available in six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ebs-fast-snapshot-restore-six-additional-regions/)
 - [Announcing purchase order support for AWS Data Exchange private offers](https://aws.amazon.com/about-aws/whats-new/2024/08/purchase-order-aws-data-exchange-private-offers)
-- [Amazon Connect launches the ability to configure when whisper flows are used](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-whisper-flows)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

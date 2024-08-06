@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances now available in Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-europe-frankfurt-region/)
+- [New version of Amazon ECR basic scanning is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/08/new-version-amazon-ecr-basic-scanning/)
+- [Amazon OpenSearch Service OR1 instances now available in Sao Paulo](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-service-or1-instances-sao-paulo/)
+- [AWS Control Tower releases 2 new descriptive control APIs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-new-descriptive-control-apis)
 - [Amazon Connect now supports additional agent scheduling staffing rules](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-additional-agent-scheduling-staffing-rules)
 - [Elastic Load Balancing Trust Store now supports cross-account sharing using AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/elastic-load-balancing-trust-store-cross-account-sharing-aws-resource-access-manager)
 - [AWS CodeBuild now supports three new Arm-based compute types](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-three-arm-based-compute-types/)
 - [Amazon RDS for Oracle now supports July 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-july-2024-release-update/)
 - [AWS Resilience Hub introduces improved resource grouping capabilities](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resilience-hub-improved-resource-grouping-capabilities)
 - [Amazon DataZone offers business use case-based grouping with data products](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-business-case-based-grouping-data-products/)
-- [Amazon Connect now supports audio optimization for Amazon WorkSpaces cloud desktops](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-audio-optimization-workspaces-desktops/)
-- [Amazon Verified Permissions improves support for OIDC identity providers](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-verified-permissions-oidc-identity-providers/)
-- [Amazon DataZone achieves PCI DSS Certification](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-achieves-pci-dss-certification)
-- [AWS Payment Cryptography is now available in four new regions across Europe and Asia](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-payment-cryptography-new-regions-europe-asia)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

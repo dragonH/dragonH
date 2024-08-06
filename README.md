@@ -67,7 +67,7 @@
 - [AWS Control Tower releases 2 new descriptive control APIs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-new-descriptive-control-apis)
 - [Announcing Terraform support Amazon Timestream for InfluxDB Deployments](https://aws.amazon.com/about-aws/whats-new/2024/08/terraform-amazon-timestream-influxdb-deployments/)
 - [Amazon OpenSearch Service OR1 instances now available in Sao Paulo](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-service-or1-instances-sao-paulo/)
-- [Amazon Connect now supports additional agent scheduling staffing rules](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-additional-agent-scheduling-staffing-rules)
+- [Amazon Cognito enhances Advanced Security Features &lpar;ASF&rpar; to disallow password reuse and stream security events](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cognito-asf-password-reuse-stream-security-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

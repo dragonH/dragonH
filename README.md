@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing delegated administrator for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/08/delegated-administrator-cost-optimization-hub)
+- [Amazon EFS now supports up to 30 GiB/s &lpar;a 50% increase&rpar; of read throughput](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-efs-30-gibs-read-throughput)
+- [Amazon EC2 High Memory instances now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-paris-region)
+- [Claude 3.5 Sonnet and Claude 3 Haiku now available in more regions](https://aws.amazon.com/about-aws/whats-new/2024/08/claude-3-5-sonnet-haiku-more-regions)
 - [Announcing G4dn WorkSpaces Personal bundles with WSP for Windows](https://aws.amazon.com/about-aws/whats-new/2024/08/g4dn-workspaces-personal-bundles-wsp-windows)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-europe-frankfurt-region/)
 - [Introducing Titan Image Generator v2 now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/titan-image-generator-v2-amazon-bedrock/)
 - [Large language models powered by Amazon Sagemaker Jumpstart available in Redshift ML](https://aws.amazon.com/about-aws/whats-new/2024/08/large-language-models-sagemaker-jumpstart-redshift-ml/)
 - [Simplified Migration Acceleration Program for VMware funding experience in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/08/migration-acceleration-vmware-funding-partner-central/)
 - [New version of Amazon ECR basic scanning is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/08/new-version-amazon-ecr-basic-scanning/)
-- [AWS Control Tower releases 2 new descriptive control APIs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-new-descriptive-control-apis)
-- [Announcing Terraform support Amazon Timestream for InfluxDB Deployments](https://aws.amazon.com/about-aws/whats-new/2024/08/terraform-amazon-timestream-influxdb-deployments/)
-- [Amazon OpenSearch Service OR1 instances now available in Sao Paulo](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-service-or1-instances-sao-paulo/)
-- [Amazon Cognito enhances Advanced Security Features &lpar;ASF&rpar; to disallow password reuse and stream security events](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cognito-asf-password-reuse-stream-security-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

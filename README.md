@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Application Signals now supports Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-application-signals-bedrock)
 - [Announcing the general availability of AWS Backup logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2024/08/general-availability-aws-backup-logically-air-gapped-vault)
+- [Amazon RDS for Oracle supports memory optimized R6i instance types in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-optimized-r6i-instance-types-govcloud/)
 - [Claude 3.5 Sonnet and Claude 3 Haiku now available in more regions](https://aws.amazon.com/about-aws/whats-new/2024/08/claude-3-5-sonnet-haiku-more-regions)
 - [Announcing delegated administrator for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/08/delegated-administrator-cost-optimization-hub)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-paris-region)
@@ -66,8 +68,6 @@
 - [Amazon QuickSight now includes nested filters](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-quicksight-nested-filters/)
 - [Announcing G4dn WorkSpaces Personal bundles with WSP for Windows](https://aws.amazon.com/about-aws/whats-new/2024/08/g4dn-workspaces-personal-bundles-wsp-windows)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-europe-frankfurt-region/)
-- [Introducing Titan Image Generator v2 now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/titan-image-generator-v2-amazon-bedrock/)
-- [Large language models powered by Amazon Sagemaker Jumpstart available in Redshift ML](https://aws.amazon.com/about-aws/whats-new/2024/08/large-language-models-sagemaker-jumpstart-redshift-ml/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

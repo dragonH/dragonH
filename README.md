@@ -63,11 +63,11 @@
 - [Announcing delegated administrator for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/08/delegated-administrator-cost-optimization-hub)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-paris-region)
 - [Amazon EFS now supports up to 30 GiB/s &lpar;a 50% increase&rpar; of read throughput](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-efs-30-gibs-read-throughput)
+- [Amazon QuickSight now includes nested filters](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-quicksight-nested-filters/)
 - [Announcing G4dn WorkSpaces Personal bundles with WSP for Windows](https://aws.amazon.com/about-aws/whats-new/2024/08/g4dn-workspaces-personal-bundles-wsp-windows)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-high-memory-instances-europe-frankfurt-region/)
 - [Introducing Titan Image Generator v2 now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/titan-image-generator-v2-amazon-bedrock/)
 - [Large language models powered by Amazon Sagemaker Jumpstart available in Redshift ML](https://aws.amazon.com/about-aws/whats-new/2024/08/large-language-models-sagemaker-jumpstart-redshift-ml/)
-- [Simplified Migration Acceleration Program for VMware funding experience in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/08/migration-acceleration-vmware-funding-partner-central/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

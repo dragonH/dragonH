@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7i-flex instances are now available in US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c7i-flex-instances-us-west-oregon-region)
 - [AWS announces private IPv6 addressing for VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-private-ipv6-addressing-vpcs-subnets)
 - [Amazon WorkSpaces Thin Client now supports Amazon WorkSpaces Pools](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-thin-client-pools)
 - [Amazon RDS for Db2 supports loading data from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3)
 - [PostgreSQL 17 Beta 3 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/postgresql-17-beta-3-rds-database-preview-environment/)
-- [AWS Glue announces GA of new ML-powered Glue Data Quality capability](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-ml-powered-glue-data-quality-capability/)
 - [AWS Snowball Edge Storage Optimized 210TB device offers lower capacity pricing option](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-snowball-edge-storage-optimized-210tb-device--lower-capacity-pricing-option)
 - [Amazon EMR 7.2 now supports Apache Spark 3.5.1](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-7-2-apache-spark-3-5-1/)
 - [Amazon RDS for PostgreSQL supports minor versions 16.4, 15.8, 14.13, 13.16, and 12.20](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-for-postgresql-supports-minor-versions/)
+- [AWS Glue announces GA of new ML-powered Glue Data Quality capability](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-ml-powered-glue-data-quality-capability/)
 - [Amazon CloudWatch Application Signals now supports Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-application-signals-bedrock)
-- [Announcing the general availability of AWS Backup logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2024/08/general-availability-aws-backup-logically-air-gapped-vault)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

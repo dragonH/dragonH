@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Db2 supports loading data from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3)
 - [PostgreSQL 17 Beta 3 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/postgresql-17-beta-3-rds-database-preview-environment/)
 - [AWS Glue announces GA of new ML-powered Glue Data Quality capability](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-ml-powered-glue-data-quality-capability/)
 - [AWS Snowball Edge Storage Optimized 210TB device offers lower capacity pricing option](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-snowball-edge-storage-optimized-210tb-device--lower-capacity-pricing-option)
@@ -67,7 +68,6 @@
 - [Announcing the general availability of AWS Backup logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2024/08/general-availability-aws-backup-logically-air-gapped-vault)
 - [Amazon RDS for Oracle supports memory optimized R6i instance types in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-oracle-optimized-r6i-instance-types-govcloud/)
 - [Claude 3.5 Sonnet and Claude 3 Haiku now available in more regions](https://aws.amazon.com/about-aws/whats-new/2024/08/claude-3-5-sonnet-haiku-more-regions)
-- [Announcing delegated administrator for Cost Optimization Hub](https://aws.amazon.com/about-aws/whats-new/2024/08/delegated-administrator-cost-optimization-hub)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

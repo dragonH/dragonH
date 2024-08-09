@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config expands support for 124 resource types across 29 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-124-resource-types-29aws-regions)
 - [Amazon DocumentDB achieves FedRAMP High approval in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-fedramp-high-approval-govcloud/)
+- [Amazon Connect now provides an API to update routing criteria on a queued contact](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-api-routing-criteria-queued-contact/)
 - [Amazon Cognito enhances Advanced Security Features &lpar;ASF&rpar; to detect additional risks and to cover custom authentication flows](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cognito-asf-additional-risks-cover-custom-authentication-flows)
 - [Amazon EC2 C7i-flex instances are now available in US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c7i-flex-instances-us-west-oregon-region)
 - [AWS announces private IPv6 addressing for VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-private-ipv6-addressing-vpcs-subnets)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Db2 supports loading data from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3)
 - [Amazon Aurora supports PostgreSQL 16.3, 15.7, 14.12, 13.15, and 12.19](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-aurora-postgresql-new-version-support/)
 - [Announcing pgvector 0.7.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2024/08/pgvector-0-7-0-aurora-postgresql/)
-- [AWS Glue Data Catalog views are now GA with Amazon Athena and Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-data-catalog-views-athena-redshift/)
-- [PostgreSQL 17 Beta 3 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/08/postgresql-17-beta-3-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

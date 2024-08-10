@@ -59,8 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Config expands support for 124 resource types across 29 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-124-resource-types-29aws-regions)
-- [Amazon DocumentDB achieves FedRAMP High approval in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-fedramp-high-approval-govcloud/)
 - [Amazon Connect now provides an API to update routing criteria on a queued contact](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-api-routing-criteria-queued-contact/)
+- [Amazon DocumentDB achieves FedRAMP High approval in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-fedramp-high-approval-govcloud/)
 - [Amazon Cognito enhances Advanced Security Features &lpar;ASF&rpar; to detect additional risks and to cover custom authentication flows](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cognito-asf-additional-risks-cover-custom-authentication-flows)
 - [Amazon EC2 C7i-flex instances are now available in US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c7i-flex-instances-us-west-oregon-region)
 - [AWS announces private IPv6 addressing for VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-private-ipv6-addressing-vpcs-subnets)

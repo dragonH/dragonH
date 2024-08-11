@@ -66,8 +66,8 @@
 - [AWS announces private IPv6 addressing for VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-private-ipv6-addressing-vpcs-subnets)
 - [Amazon WorkSpaces Thin Client now supports Amazon WorkSpaces Pools](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-thin-client-pools)
 - [Amazon RDS for Db2 supports loading data from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3)
-- [AWS Glue Data Catalog views are now GA with Amazon Athena and Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-glue-data-catalog-views-athena-redshift/)
 - [Amazon Aurora supports PostgreSQL 16.3, 15.7, 14.12, 13.15, and 12.19](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-aurora-postgresql-new-version-support/)
+- [Announcing pgvector 0.7.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2024/08/pgvector-0-7-0-aurora-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

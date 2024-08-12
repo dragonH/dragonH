@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces expanded service support in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/08/expanded-service-support-aws-console-mobile-app)
+- [Amazon RDS for MySQL supports new minor version 8.0.39](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-new-minor-version-8-0-39/)
 - [AWS Config expands support for 124 resource types across 29 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-124-resource-types-29aws-regions)
 - [Amazon DocumentDB achieves FedRAMP High approval in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-fedramp-high-approval-govcloud/)
 - [Amazon Connect now provides an API to update routing criteria on a queued contact](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-api-routing-criteria-queued-contact/)
@@ -66,8 +68,6 @@
 - [AWS announces private IPv6 addressing for VPCs and subnets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-private-ipv6-addressing-vpcs-subnets)
 - [Amazon WorkSpaces Thin Client now supports Amazon WorkSpaces Pools](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-workspaces-thin-client-pools)
 - [Amazon RDS for Db2 supports loading data from Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-db2-loading-data-s3)
-- [Amazon Aurora supports PostgreSQL 16.3, 15.7, 14.12, 13.15, and 12.19](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-aurora-postgresql-new-version-support/)
-- [Announcing pgvector 0.7.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2024/08/pgvector-0-7-0-aurora-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

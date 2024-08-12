@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch adds support for cancelling queued jobs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-batch-cancelling-queued-jobs)
 - [AWS announces support for Cost Allocation Tags on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2024/08/cost-allocation-tags-aws-transit-gateway)
 - [Amazon Connect Contact Lens generative AI-powered agent performance evaluations &lpar;preview&rpar; now available in 6 new regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-generative-ai-powered-agent-performance-evaluations-preview-new-regions)
 - [Amazon RDS for SQL Server supports minor versions 2016 GDR, 2017 CU31 GDR, 2019 GDR, 2022 GDR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-minor-versions-gdr/)
@@ -67,7 +68,6 @@
 - [Amazon DocumentDB achieves FedRAMP High approval in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-fedramp-high-approval-govcloud/)
 - [Amazon Connect now provides an API to update routing criteria on a queued contact](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-api-routing-criteria-queued-contact/)
 - [Amazon Cognito enhances Advanced Security Features &lpar;ASF&rpar; to detect additional risks and to cover custom authentication flows](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cognito-asf-additional-risks-cover-custom-authentication-flows)
-- [Amazon EC2 C7i-flex instances are now available in US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c7i-flex-instances-us-west-oregon-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

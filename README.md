@@ -62,12 +62,12 @@
 - [Amazon DataZone launches domain units and authorization policies](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-launches-domain-units-authorization-policies)
 - [Announcing Amazon S3 Express One Zone storage class support on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-express-one-zone-storage-class-emr)
 - [Amazon Neptune Analytics now supports openCypher queries over RDF Graphs](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-analytics-opencypher-queries-graphs/)
+- [Announcing a larger Windows instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/larger-windows-instance-bundle-amazon-lightsail/)
 - [AWS Batch adds support for cancelling queued jobs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-batch-cancelling-queued-jobs)
 - [AWS announces support for Cost Allocation Tags on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2024/08/cost-allocation-tags-aws-transit-gateway)
 - [Amazon Connect Contact Lens generative AI-powered agent performance evaluations &lpar;preview&rpar; now available in 6 new regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-generative-ai-powered-agent-performance-evaluations-preview-new-regions)
 - [Amazon CloudWatch Internet Monitor enhances dashboard and traffic suggestions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-cloudwatch-internet-monitor-dashboard-traffic/)
 - [AWS Wickr is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-wickr-europe-zurich-region/)
-- [Amazon RDS for SQL Server supports minor versions 2016 GDR, 2017 CU31 GDR, 2019 GDR, 2022 GDR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-minor-versions-gdr/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

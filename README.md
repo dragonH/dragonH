@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DataZone launches domain units and authorization policies](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-launches-domain-units-authorization-policies)
+- [Announcing Amazon S3 Express One Zone storage class support on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-express-one-zone-storage-class-emr)
 - [AWS Batch adds support for cancelling queued jobs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-batch-cancelling-queued-jobs)
 - [AWS announces support for Cost Allocation Tags on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2024/08/cost-allocation-tags-aws-transit-gateway)
 - [Amazon Connect Contact Lens generative AI-powered agent performance evaluations &lpar;preview&rpar; now available in 6 new regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-generative-ai-powered-agent-performance-evaluations-preview-new-regions)
@@ -66,8 +68,6 @@
 - [Amazon RDS for SQL Server supports minor versions 2016 GDR, 2017 CU31 GDR, 2019 GDR, 2022 GDR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-sql-server-minor-versions-gdr/)
 - [Amazon RDS for MySQL supports new minor version 8.0.39](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-new-minor-version-8-0-39/)
 - [AWS announces expanded service support in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/08/expanded-service-support-aws-console-mobile-app)
-- [AWS Config expands support for 124 resource types across 29 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-124-resource-types-29aws-regions)
-- [Amazon DocumentDB achieves FedRAMP High approval in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-fedramp-high-approval-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

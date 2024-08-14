@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Karpenter 1.0](https://aws.amazon.com/about-aws/whats-new/2024/08/karpenter-1-0)
 - [Amazon Redshift Query Editor V2 now supports query import](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-query-editor-v2-query-import)
 - [New capabilities for Amazon EC2 On-Demand Capacity Reservations: Split, Move, and Modify additional attributes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-on-demand-capacity-reservations-attributes/)
 - [AWS HealthOmics now supports DSL and Nextflow version detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-healthomics-dsl-nextflow-version-detection)
 - [Amazon DataZone launches domain units and authorization policies](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-launches-domain-units-authorization-policies)
+- [Announcing a larger Windows instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/larger-windows-instance-bundle-amazon-lightsail/)
 - [Announcing Amazon S3 Express One Zone storage class support on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-express-one-zone-storage-class-emr)
 - [Amazon Neptune Analytics now supports openCypher queries over RDF Graphs](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-analytics-opencypher-queries-graphs/)
-- [Announcing a larger Windows instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/larger-windows-instance-bundle-amazon-lightsail/)
 - [AWS Batch adds support for cancelling queued jobs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-batch-cancelling-queued-jobs)
 - [AWS announces support for Cost Allocation Tags on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2024/08/cost-allocation-tags-aws-transit-gateway)
-- [Amazon Connect Contact Lens generative AI-powered agent performance evaluations &lpar;preview&rpar; now available in 6 new regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-generative-ai-powered-agent-performance-evaluations-preview-new-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,7 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CloudFormation Git sync now supports pull request workflows to review your stack changes](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-cloudformation-git-sync-pull-request-workflows)
+- [Announcing AWS Support Official channel on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-support-official-channel-re-post)
+- [Digital twin is now generally available for AWS Ground Station](https://aws.amazon.com/about-aws/whats-new/2024/08/digital-twin-available-aws-ground-station/)
 - [AWS CodeBuild now supports using GitHub Apps to access source repositories](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-github-apps-access-source-repositories)
 - [AWS Control Tower launches landing zone version selection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-landing-zone-version-selection)
 - [AWS CodeBuild now supports multiple access tokens via AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-multiple-access-tokens-secrets-manager/)
@@ -67,7 +68,6 @@
 - [Announcing Karpenter 1.0](https://aws.amazon.com/about-aws/whats-new/2024/08/karpenter-1-0)
 - [Amazon Redshift Query Editor V2 now supports query import](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-query-editor-v2-query-import)
 - [Amazon Q in QuickSight is now available in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-quicksight-additional-regions)
-- [New capabilities for Amazon EC2 On-Demand Capacity Reservations: Split, Move, and Modify additional attributes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-on-demand-capacity-reservations-attributes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

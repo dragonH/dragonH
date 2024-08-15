@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild now supports using GitHub Apps to access source repositories](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-github-apps-access-source-repositories)
+- [AWS Control Tower launches landing zone version selection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-landing-zone-version-selection)
 - [Amazon EKS introduces EKS Pod Identity in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eks-pod-identity-aws-govcloud-us-regions)
 - [Announcing Karpenter 1.0](https://aws.amazon.com/about-aws/whats-new/2024/08/karpenter-1-0)
 - [Amazon Redshift Query Editor V2 now supports query import](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-query-editor-v2-query-import)
@@ -66,8 +68,6 @@
 - [AWS HealthOmics now supports DSL and Nextflow version detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-healthomics-dsl-nextflow-version-detection)
 - [Amazon DataZone launches domain units and authorization policies](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-datazone-launches-domain-units-authorization-policies)
 - [Amazon Neptune Analytics now supports openCypher queries over RDF Graphs](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-analytics-opencypher-queries-graphs/)
-- [Announcing a larger Windows instance bundle for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/larger-windows-instance-bundle-amazon-lightsail/)
-- [Announcing Amazon S3 Express One Zone storage class support on Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-express-one-zone-storage-class-emr)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

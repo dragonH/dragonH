@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Second-generation Amazon FSx for NetApp ONTAP now available in 2 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/second-generation-amazon-fsx-netapp-ontap-additional-regions)
+- [Amazon Neptune now introduces support for PropertyGraphStore in Neptune to build more reliable GraphRAG applications](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-propertygraphstore-graphrag-applications)
+- [Blueprints simplify agent-based automation on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/blueprints-agent-based-automation-amazon-bedrock/)
+- [SageMaker Canvas unlocks no-code ML and data preparation at petabyte-scale](https://aws.amazon.com/about-aws/whats-new/2024/08/sagemaker-canvas-no-code-ml-data-petabyte-scale/)
 - [Amazon VPC Lattice is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-vpc-lattice-additional-regions)
 - [Announcing AWS Support Official channel on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-support-official-channel-re-post)
-- [Digital twin is now generally available for AWS Ground Station](https://aws.amazon.com/about-aws/whats-new/2024/08/digital-twin-available-aws-ground-station/)
 - [Announcing general availability of Amazon EC2 G6e instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-g6e-instances/)
+- [Digital twin is now generally available for AWS Ground Station](https://aws.amazon.com/about-aws/whats-new/2024/08/digital-twin-available-aws-ground-station/)
 - [AWS Control Tower launches landing zone version selection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-landing-zone-version-selection)
 - [Amazon ECS provides the ability to restart containers without requiring a task relaunch](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ecs-restart-containers-task-relaunch/)
-- [AWS CodeBuild now supports using GitHub Apps to access source repositories](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-github-apps-access-source-repositories)
-- [AWS CodeBuild now supports multiple access tokens via AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-multiple-access-tokens-secrets-manager/)
-- [Amazon EKS introduces EKS Pod Identity in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eks-pod-identity-aws-govcloud-us-regions)
-- [Announcing Karpenter 1.0](https://aws.amazon.com/about-aws/whats-new/2024/08/karpenter-1-0)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

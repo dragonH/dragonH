@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild now supports Mac builds](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-mac-builds)
 - [Amazon S3 no longer charges for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-no-charges-several-http-error-codes)
 - [Introducing browser-based SSH/RDP support for IPv6-only instances bundles on Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/browser-based-ssh-rdp-ipv6-only-instances-bundles-lightsail)
 - [Amazon EMR support prioritized and capacity-optimized-prioritized allocation strategies for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-capacity-prioritized-allocation-strategies-ec2/)
@@ -67,7 +68,6 @@
 - [SageMaker Canvas unlocks no-code ML and data preparation at petabyte-scale](https://aws.amazon.com/about-aws/whats-new/2024/08/sagemaker-canvas-no-code-ml-data-petabyte-scale/)
 - [Blueprints simplify agent-based automation on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/blueprints-agent-based-automation-amazon-bedrock/)
 - [Amazon VPC Lattice is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-vpc-lattice-additional-regions)
-- [Announcing AWS Support Official channel on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-support-official-channel-re-post)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

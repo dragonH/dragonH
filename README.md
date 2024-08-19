@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR support prioritized and capacity-optimized-prioritized allocation strategies for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-capacity-prioritized-allocation-strategies-ec2/)
 - [Second-generation Amazon FSx for NetApp ONTAP now available in 2 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/second-generation-amazon-fsx-netapp-ontap-additional-regions)
 - [Amazon Neptune now introduces support for PropertyGraphStore in Neptune to build more reliable GraphRAG applications](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-propertygraphstore-graphrag-applications)
 - [SageMaker Canvas unlocks no-code ML and data preparation at petabyte-scale](https://aws.amazon.com/about-aws/whats-new/2024/08/sagemaker-canvas-no-code-ml-data-petabyte-scale/)
@@ -67,7 +68,6 @@
 - [AWS Control Tower launches landing zone version selection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-control-tower-landing-zone-version-selection)
 - [Amazon ECS provides the ability to restart containers without requiring a task relaunch](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ecs-restart-containers-task-relaunch/)
 - [AWS CodeBuild now supports using GitHub Apps to access source repositories](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-github-apps-access-source-repositories)
-- [AWS CodeBuild now supports multiple access tokens via AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-multiple-access-tokens-secrets-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

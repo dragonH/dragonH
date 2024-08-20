@@ -66,7 +66,7 @@
 - [Second-generation Amazon FSx for NetApp ONTAP now available in 2 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/second-generation-amazon-fsx-netapp-ontap-additional-regions)
 - [Amazon Neptune now introduces support for PropertyGraphStore in Neptune to build more reliable GraphRAG applications](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-propertygraphstore-graphrag-applications)
 - [SageMaker Canvas unlocks no-code ML and data preparation at petabyte-scale](https://aws.amazon.com/about-aws/whats-new/2024/08/sagemaker-canvas-no-code-ml-data-petabyte-scale/)
-- [Blueprints simplify agent-based automation on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/blueprints-agent-based-automation-amazon-bedrock/)
+- [Introducing Blueprints to simplify agent-based automation on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/blueprints-agent-based-automation-amazon-bedrock/)
 - [Amazon VPC Lattice is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-vpc-lattice-additional-regions)
 <!-- AWS-NEWS:END -->
 

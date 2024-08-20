@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports function-level configuration for recursive loop detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-supports-function-level-configuration-recursive-loop-detection)
 - [AWS CodeBuild now supports Mac builds](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-mac-builds)
 - [Amazon S3 no longer charges for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-no-charges-several-http-error-codes)
 - [Introducing browser-based SSH/RDP support for IPv6-only instances bundles on Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/browser-based-ssh-rdp-ipv6-only-instances-bundles-lightsail)
-- [Amazon SageMaker Pipelines now provides a drag-and-drop UI to easily create ML workflows](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-pipelines-drag-drop-ui-ml-workflows/)
 - [Amazon EMR support prioritized and capacity-optimized-prioritized allocation strategies for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-capacity-prioritized-allocation-strategies-ec2/)
+- [Amazon SageMaker Pipelines now provides a drag-and-drop UI to easily create ML workflows](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-pipelines-drag-drop-ui-ml-workflows/)
 - [Second-generation Amazon FSx for NetApp ONTAP now available in 2 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/second-generation-amazon-fsx-netapp-ontap-additional-regions)
 - [Amazon Neptune now introduces support for PropertyGraphStore in Neptune to build more reliable GraphRAG applications](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-neptune-propertygraphstore-graphrag-applications)
 - [SageMaker Canvas unlocks no-code ML and data preparation at petabyte-scale](https://aws.amazon.com/about-aws/whats-new/2024/08/sagemaker-canvas-no-code-ml-data-petabyte-scale/)
 - [Introducing Blueprints to simplify agent-based automation on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/08/blueprints-agent-based-automation-amazon-bedrock/)
-- [Amazon VPC Lattice is now available in 7 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-vpc-lattice-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge Scheduler now provides higher default service quotas](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eventbridge-scheduler-higher-quotas/)
+- [Amazon S3 adds additional context to HTTP 403 Access Denied error messages](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-http-403-access-denied-error-messages/)
 - [AWS CloudHSM launches new hsm2m.medium instance type](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-cloudhsm-hsm2m-medium-instance-type)
 - [Amazon SageMaker Canvas now supports data flows import, and faster data prep for ML](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-canvas-data-flows-import-data-prep-ml)
 - [AWS Lambda now supports function-level configuration for recursive loop detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-supports-function-level-configuration-recursive-loop-detection)
@@ -66,8 +68,6 @@
 - [AWS CodeBuild now supports Mac builds](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-codebuild-mac-builds)
 - [Amazon S3 no longer charges for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-no-charges-several-http-error-codes)
 - [Introducing browser-based SSH/RDP support for IPv6-only instances bundles on Lightsail](https://aws.amazon.com/about-aws/whats-new/2024/08/browser-based-ssh-rdp-ipv6-only-instances-bundles-lightsail)
-- [Amazon EMR support prioritized and capacity-optimized-prioritized allocation strategies for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-capacity-prioritized-allocation-strategies-ec2/)
-- [Amazon SageMaker Pipelines now provides a drag-and-drop UI to easily create ML workflows](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-pipelines-drag-drop-ui-ml-workflows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

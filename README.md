@@ -63,11 +63,11 @@
 - [Amazon EventBridge Scheduler now provides higher default service quotas](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eventbridge-scheduler-higher-quotas/)
 - [Amazon S3 adds additional context to HTTP 403 Access Denied error messages](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-http-403-access-denied-error-messages/)
 - [Amazon Bedrock offers select FMs for batch inference at 50% of on-demand inference price](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-fms-batch-inference-50-price/)
+- [AWS announces new AWS Direct Connect location and expansion in Kuala Lumpur, Malaysia](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-direct-connect-location-expansion-malaysia/)
 - [AWS CloudHSM launches new hsm2m.medium instance type](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-cloudhsm-hsm2m-medium-instance-type)
 - [Amazon SageMaker Canvas now supports data flows import, and faster data prep for ML](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-canvas-data-flows-import-data-prep-ml)
 - [AWS Lambda now supports function-level configuration for recursive loop detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-supports-function-level-configuration-recursive-loop-detection)
 - [Amazon Connect in-app, web, and video calling is now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-in-app-web-video-calling-africa/)
-- [Amazon S3 now supports conditional writes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-conditional-writes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

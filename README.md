@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Lambda announces support for encryption of filter criteria for event source mappings](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-encryption-filter-criteria-event-source-mappings)
-- [AWS Backup adds cross-Region, cross-account copy for SAP HANA on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-cross-region-cross-account-copy-sap-hana-ec2)
-- [Amazon EventBridge Scheduler now provides higher default service quotas](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-eventbridge-scheduler-higher-quotas/)
-- [Amazon Bedrock offers select FMs for batch inference at 50% of on-demand inference price](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-fms-batch-inference-50-price/)
-- [AWS announces new AWS Direct Connect location and expansion in Kuala Lumpur, Malaysia](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-direct-connect-location-expansion-malaysia/)
-- [Amazon S3 adds additional context to HTTP 403 Access Denied error messages](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-http-403-access-denied-error-messages/)
-- [AWS CloudHSM launches new hsm2m.medium instance type](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-cloudhsm-hsm2m-medium-instance-type)
-- [Amazon SageMaker Canvas now supports data flows import, and faster data prep for ML](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-canvas-data-flows-import-data-prep-ml)
-- [AWS Lambda now supports function-level configuration for recursive loop detection](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-lambda-supports-function-level-configuration-recursive-loop-detection)
-- [Amazon Connect in-app, web, and video calling is now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-in-app-web-video-calling-africa/)
+- [CloudFormation simplifies resource discovery and template review in the IaC Generator](https://aws.amazon.com/about-aws/whats-new/2024/08/cloudformation-resource-discovery-template-review-iac-generator)
+- [Amazon Q now provides more details about user subscriptions and associated resources](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-details-user-subscription-associated-resources)
+- [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Failover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-mongodb-compatibility-global-clusters-failover)
+- [AWS Amplify introduces multiple bucket support for Storage](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-multiple-bucket-storage)
+- [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Switchover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-document-mongodb-compatibility-global-clusters-switchover)
+- [Amazon Route 53 Resolver Endpoints now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-route-53-resolver-endpoints-malaysia-region/)
+- [Amazon Connect Contact Lens now provides an audit trail for changes to an agent performance evaluation](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-audit-trail-agent-evaluation/)
+- [Amazon Data Firehose is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-data-firehose-asia-pacific-malaysia-region/)
+- [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resource-access-manager-asia-pacific-malaysia-region/)
+- [Amazon EC2 C7i-flex instances are now available in US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c7i-flex-instances-n-virginia-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

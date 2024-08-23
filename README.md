@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Knowledge Bases for Amazon Bedrock supports Anthropic’s Claude 3.5 Sonnet](https://aws.amazon.com/about-aws/whats-new/2024/08/knowledge-bases-amazon-bedrock-anthropics-claude-3-5-sonnet/)
 - [CloudFormation simplifies resource discovery and template review in the IaC Generator](https://aws.amazon.com/about-aws/whats-new/2024/08/cloudformation-resource-discovery-template-review-iac-generator)
 - [Amazon Q now provides more details about user subscriptions and associated resources](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-details-user-subscription-associated-resources)
 - [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Failover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-mongodb-compatibility-global-clusters-failover)
@@ -67,7 +68,6 @@
 - [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resource-access-manager-asia-pacific-malaysia-region/)
 - [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Switchover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-document-mongodb-compatibility-global-clusters-switchover)
 - [Amazon Route 53 Resolver Endpoints now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-route-53-resolver-endpoints-malaysia-region/)
-- [AWS Identity and Access Management now supports AWS PrivateLink in all commercial Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-identity-access-management-aws-privatelink-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

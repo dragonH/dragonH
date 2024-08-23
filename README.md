@@ -62,12 +62,12 @@
 - [Amazon Q now provides more details about user subscriptions and associated resources](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-details-user-subscription-associated-resources)
 - [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Failover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-documentdb-mongodb-compatibility-global-clusters-failover)
 - [AWS Amplify introduces multiple bucket support for Storage](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-multiple-bucket-storage)
-- [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Switchover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-document-mongodb-compatibility-global-clusters-switchover)
-- [Amazon Route 53 Resolver Endpoints now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-route-53-resolver-endpoints-malaysia-region/)
 - [Amazon Connect Contact Lens now provides an audit trail for changes to an agent performance evaluation](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-audit-trail-agent-evaluation/)
 - [Amazon Data Firehose is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-data-firehose-asia-pacific-malaysia-region/)
 - [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resource-access-manager-asia-pacific-malaysia-region/)
-- [Amazon EC2 C7i-flex instances are now available in US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c7i-flex-instances-n-virginia-region/)
+- [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Switchover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-document-mongodb-compatibility-global-clusters-switchover)
+- [Amazon Route 53 Resolver Endpoints now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-route-53-resolver-endpoints-malaysia-region/)
+- [AWS Identity and Access Management now supports AWS PrivateLink in all commercial Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-identity-access-management-aws-privatelink-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

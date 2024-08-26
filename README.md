@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports sharing views of embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-quicksight-sharing-views-embedded-dashboards)
+- [AWS announces a streamlined Federated and SSO sign in process for the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-streamlined-federated-sso-sign-in-process-console-mobile-app)
 - [Knowledge Bases for Amazon Bedrock supports Anthropic’s Claude 3.5 Sonnet](https://aws.amazon.com/about-aws/whats-new/2024/08/knowledge-bases-amazon-bedrock-anthropics-claude-3-5-sonnet/)
 - [Amazon Connect provides new ways to configure callbacks](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-configure-callbacks)
 - [CloudFormation simplifies resource discovery and template review in the IaC Generator](https://aws.amazon.com/about-aws/whats-new/2024/08/cloudformation-resource-discovery-template-review-iac-generator)
@@ -66,8 +68,6 @@
 - [AWS Amplify introduces multiple bucket support for Storage](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-multiple-bucket-storage)
 - [Amazon Connect Contact Lens now provides an audit trail for changes to an agent performance evaluation](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-connect-contact-lens-audit-trail-agent-evaluation/)
 - [Amazon Data Firehose is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-data-firehose-asia-pacific-malaysia-region/)
-- [AWS Resource Access Manager is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-resource-access-manager-asia-pacific-malaysia-region/)
-- [Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar; Global Clusters introduces Switchover](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-document-mongodb-compatibility-global-clusters-switchover)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

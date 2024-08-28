@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-serverless-aws-govcloud-us-west-region)
 - [Amazon EC2 status checks now support reachability health of attached EBS volumes](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-status-checks-reachability-health-ebs-volume)
 - [Polly Voices for two new locales: Czechia and Switzerland](https://aws.amazon.com/about-aws/whats-new/2024/08/polly-voices-new-locales)
 - [Amazon EC2 C6gd and R6gd instances are now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-ec2-c6gd-r6gd-instances-available-spain)
@@ -67,7 +68,6 @@
 - [Amazon Q Business launches IAM federation for user identity authentication](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-business-iam-user-authentication/)
 - [Amazon Braket adds support for Rigetti&#39;s 84-Qubit Ankaa™-2 system, our largest gate-based superconducting device](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-braket-rigettis-84-qubit-ankaa-2-system)
 - [Amazon QuickSight now supports sharing views of embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-quicksight-sharing-views-embedded-dashboards)
-- [AWS announces a streamlined Federated and SSO sign in process for the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-streamlined-federated-sso-sign-in-process-console-mobile-app)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

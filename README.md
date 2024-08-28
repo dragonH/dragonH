@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall introduces GeoIP Filtering to inspect traffic based on geographic location](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-network-firewall-geoip-filtering)
 - [Announcing AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-parallel-computing-service)
 - [Amazon Location Service announces Migration SDK](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-location-service-migration-sdk/)
 - [Amazon OpenSearch Serverless now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-serverless-aws-govcloud-us-west-region)
@@ -67,7 +68,6 @@
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20240808](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-postgresql-minor-11-22-rds-20240808/)
 - [Amazon Bedrock now supports cross-region inference](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-cross-region-inference/)
 - [AWS announces support for Microsoft Entra ID and Microsoft Intune on Amazon WorkSpaces Personal](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-microsoft-entra-id-intune-amazon-workspaces-personal)
-- [Amazon Q Business launches IAM federation for user identity authentication](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-q-business-iam-user-authentication/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

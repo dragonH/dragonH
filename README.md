@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now supports Windows Server 2022 in service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-deadline-cloud-windows-server-2022-service-managed-fleets)
 - [Announcing Validation API for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2024/08/validation-api-step-functions)
 - [AWS AppConfig now provides deletion protection for additional guardrails](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-appconfig-deletion-protection-additional-guardrails)
 - [Amazon OpenSearch Service now supports Graviton3 &lpar;C7g, M7g, R7g, R7gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-service-graviton3-c7g-m7g-r7g-r7gd-instances)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock Knowledge Bases now supports Llama 3.1 405B, 70B, and 8B](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-knowledge-bases-llama-models/)
 - [AWS Network Firewall introduces GeoIP Filtering to inspect traffic based on geographic location](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-network-firewall-geoip-filtering)
 - [Announcing AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-parallel-computing-service)
-- [Amazon Location Service announces Migration SDK](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-location-service-migration-sdk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

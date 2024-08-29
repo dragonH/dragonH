@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Validation API for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2024/08/validation-api-step-functions)
+- [AWS AppConfig now provides deletion protection for additional guardrails](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-appconfig-deletion-protection-additional-guardrails)
 - [Amazon OpenSearch Service now supports Graviton3 &lpar;C7g, M7g, R7g, R7gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-service-graviton3-c7g-m7g-r7g-r7gd-instances)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-jakarta-region/)
 - [Amazon SageMaker Projects now allows you to reuse names of previously deleted Projects](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-projects-names-deleted-projects/)
@@ -66,8 +68,6 @@
 - [AWS Network Firewall introduces GeoIP Filtering to inspect traffic based on geographic location](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-network-firewall-geoip-filtering)
 - [Announcing AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-parallel-computing-service)
 - [Amazon Location Service announces Migration SDK](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-location-service-migration-sdk/)
-- [Amazon OpenSearch Serverless now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-opensearch-serverless-aws-govcloud-us-west-region)
-- [AWS announces Amazon-provided contiguous IPv4 blocks](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-provided-contiguous-ipv4-blocks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

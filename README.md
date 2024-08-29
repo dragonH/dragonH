@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240808](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20240808)
 - [AWS Deadline Cloud now supports Windows Server 2022 in service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-deadline-cloud-windows-server-2022-service-managed-fleets)
 - [Announcing Validation API for AWS Step Functions](https://aws.amazon.com/about-aws/whats-new/2024/08/validation-api-step-functions)
 - [AWS AppConfig now provides deletion protection for additional guardrails](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-appconfig-deletion-protection-additional-guardrails)
@@ -66,8 +67,7 @@
 - [Amazon SageMaker Projects now allows you to reuse names of previously deleted Projects](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-sagemaker-projects-names-deleted-projects/)
 - [AWS Global Accelerator launches new edge location in Cairo, Egypt](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-global-accelerator-edge-cairo-egypt/)
 - [Amazon Bedrock Knowledge Bases now supports Llama 3.1 405B, 70B, and 8B](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-bedrock-knowledge-bases-llama-models/)
-- [AWS Network Firewall introduces GeoIP Filtering to inspect traffic based on geographic location](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-network-firewall-geoip-filtering)
-- [Announcing AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-parallel-computing-service)
+- [Research and Engineering Studio on AWS Version 2024.08 now available](https://aws.amazon.com/about-aws/whats-new/2024/08/research-engineering-studio-version-2024-08/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

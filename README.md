@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Organizational Units in AWS Control Tower can now contain up to 1,000 accounts](https://aws.amazon.com/about-aws/whats-new/2024/08/organizational-units-aws-control-tower-1000-accounts)
 - [Amazon Redshift Serverless now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink)
 - [AWS IoT SiteWise models now support versioning](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-iot-sitewise-models-support-versioning)
 - [AWS Security Hub launches 8 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-security-hub-8-new-security-controls/)
@@ -67,7 +68,6 @@
 - [Amazon Personalize enhances automatic solution training](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-personalize-automatic-solution-training/)
 - [AWS WAF enhances rate-based rules to support lower rate limits](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-waf-rate-based-rules-lower-rate-limits/)
 - [AWS Amplify introduces new function capabilities with scheduled cron jobs and streaming logs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-function-cron-jobs-streaming-logs/)
-- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20240808](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20240808)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

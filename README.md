@@ -63,11 +63,11 @@
 - [AWS IoT SiteWise models now support versioning](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-iot-sitewise-models-support-versioning)
 - [AWS Security Hub launches 8 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-security-hub-8-new-security-controls/)
 - [AWS Config conformance packs now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-conformance-packs-additional-regions)
-- [AWS Backup extends support for Cross-Region backup with Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-support-cross-region-backup-amazon-neptune)
 - [Amazon EMR Managed Scaling is now Application Master placement aware](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-managed-scaling-application-master-placement-aware)
 - [Amazon Personalize enhances automatic solution training](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-personalize-automatic-solution-training/)
 - [AWS WAF enhances rate-based rules to support lower rate limits](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-waf-rate-based-rules-lower-rate-limits/)
 - [AWS Amplify introduces new function capabilities with scheduled cron jobs and streaming logs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-function-cron-jobs-streaming-logs/)
+- [AWS Backup extends support for Cross-Region backup with Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-support-cross-region-backup-amazon-neptune)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

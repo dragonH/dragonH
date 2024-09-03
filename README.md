@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fault Injection Service introduces additional safety control](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-fault-injection-service-additional-safety-control)
+- [AWS Glue now provides job queuing](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-job-queuing)
+- [Amazon EBS direct APIs now supports IPv6 in AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ebs-direct-apis-ipv6-aws-privatelink)
+- [Introducing sagemaker-core: A New Object-Oriented SDK for Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2024/09/sagemaker-core-object-oriented-sdk-amazon-sagemaker)
 - [Amazon DynamoDB announces support for Attribute-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-dynamodb-attribute-based-access-control)
 - [AWS announces session reuse with Amazon Redshift Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/session-reuse-amazon-redshift-data-api)
 - [Amazon Connect now provides a weekly view of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-weekly-view-agent-schedules/)
-- [AI recommendations for descriptions in Amazon DataZone expanded to more regions](https://aws.amazon.com/about-aws/whats-new/2024/09/ai-descriptions-amazon-datazone-more-regions/)
 - [Amazon Connect Contact Lens can now generate transcriptions in 10 new languages](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-transcriptions-10-languages/)
-- [Organizational Units in AWS Control Tower can now contain up to 1,000 accounts](https://aws.amazon.com/about-aws/whats-new/2024/08/organizational-units-aws-control-tower-1000-accounts)
-- [Amazon Redshift Serverless now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink)
-- [AWS IoT SiteWise models now support versioning](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-iot-sitewise-models-support-versioning)
-- [AWS Security Hub launches 8 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-security-hub-8-new-security-controls/)
-- [AWS Config conformance packs now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-conformance-packs-additional-regions)
+- [AI recommendations for descriptions in Amazon DataZone expanded to more regions](https://aws.amazon.com/about-aws/whats-new/2024/09/ai-descriptions-amazon-datazone-more-regions/)
+- [AWS Network Load Balancer now supports configurable TCP idle timeout](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-network-load-balancer-tcp-idle-timeout/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

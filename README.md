@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces session reuse with Amazon Redshift Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/session-reuse-amazon-redshift-data-api)
+- [Amazon Connect now provides a weekly view of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-weekly-view-agent-schedules/)
+- [AI recommendations for descriptions in Amazon DataZone expanded to more regions](https://aws.amazon.com/about-aws/whats-new/2024/09/ai-descriptions-amazon-datazone-more-regions/)
+- [Amazon Connect Contact Lens can now generate transcriptions in 10 new languages](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-transcriptions-10-languages/)
 - [Organizational Units in AWS Control Tower can now contain up to 1,000 accounts](https://aws.amazon.com/about-aws/whats-new/2024/08/organizational-units-aws-control-tower-1000-accounts)
 - [Amazon Redshift Serverless now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-redshift-serverless-aws-privatelink)
 - [AWS IoT SiteWise models now support versioning](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-iot-sitewise-models-support-versioning)
 - [AWS Security Hub launches 8 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-security-hub-8-new-security-controls/)
 - [AWS Config conformance packs now available in 12 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-config-conformance-packs-additional-regions)
 - [AWS Backup extends support for Cross-Region backup with Amazon Neptune](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-backup-support-cross-region-backup-amazon-neptune)
-- [Amazon EMR Managed Scaling is now Application Master placement aware](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-emr-managed-scaling-application-master-placement-aware)
-- [Amazon Personalize enhances automatic solution training](https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-personalize-automatic-solution-training/)
-- [AWS WAF enhances rate-based rules to support lower rate limits](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-waf-rate-based-rules-lower-rate-limits/)
-- [AWS Amplify introduces new function capabilities with scheduled cron jobs and streaming logs](https://aws.amazon.com/about-aws/whats-new/2024/08/aws-amplify-function-cron-jobs-streaming-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

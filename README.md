@@ -64,10 +64,10 @@
 - [Amazon SES announces enhanced onboarding with adaptive setup wizard and Virtual Deliverability Manager](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-onboarding-setup-wizard-virtual-manager/)
 - [Stability AI’s Top 3 Text-to-Image Models Now Available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/stability-ais-text-to-image-models-amazon-bedrock)
 - [Amazon Timestream for InfluxDB now supports enhanced management features](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-enhanced-managed-features/)
+- [Amazon EC2 X2idn instances now available in Middle East &lpar;Bahrain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x2idn-instances-bahrain-region/)
 - [AWS Fault Injection Service introduces additional safety control](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-fault-injection-service-additional-safety-control)
 - [AWS Glue now provides job queuing](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-job-queuing)
 - [Amazon EBS direct APIs now supports IPv6 in AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ebs-direct-apis-ipv6-aws-privatelink)
-- [Introducing sagemaker-core: A New Object-Oriented SDK for Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2024/09/sagemaker-core-object-oriented-sdk-amazon-sagemaker)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Timestream for InfluxDB now supports enhanced managed features](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-enhanced-managed-features/)
+- [AWS AppSync enhances API monitoring with new DEBUG and INFO logging levels](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-appsync-api-monitoring-debug-info-logging-levels)
+- [Use Apache Spark on Amazon EMR Serverless directly from Amazon Sagemaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/09/apache-spark-amazon-emr-serverless-sagemaker-studio)
 - [Stability AI’s Top 3 Text-to-Image Models Now Available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/stability-ais-text-to-image-models-amazon-bedrock)
+- [Amazon Timestream for InfluxDB now supports enhanced management features](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-enhanced-managed-features/)
 - [AWS Fault Injection Service introduces additional safety control](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-fault-injection-service-additional-safety-control)
 - [AWS Glue now provides job queuing](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-job-queuing)
 - [Amazon EBS direct APIs now supports IPv6 in AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ebs-direct-apis-ipv6-aws-privatelink)
 - [Introducing sagemaker-core: A New Object-Oriented SDK for Amazon SageMaker](https://aws.amazon.com/about-aws/whats-new/2024/09/sagemaker-core-object-oriented-sdk-amazon-sagemaker)
 - [Amazon DynamoDB announces support for Attribute-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-dynamodb-attribute-based-access-control)
 - [AWS announces session reuse with Amazon Redshift Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/session-reuse-amazon-redshift-data-api)
-- [Amazon Connect now provides a weekly view of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-weekly-view-agent-schedules/)
-- [Amazon Connect Contact Lens can now generate transcriptions in 10 new languages](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-transcriptions-10-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

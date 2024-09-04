@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream for InfluxDB now supports enhanced managed features](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-influxdb-enhanced-managed-features/)
 - [AWS Fault Injection Service introduces additional safety control](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-fault-injection-service-additional-safety-control)
 - [AWS Glue now provides job queuing](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-job-queuing)
 - [Amazon EBS direct APIs now supports IPv6 in AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ebs-direct-apis-ipv6-aws-privatelink)
@@ -67,7 +68,6 @@
 - [Amazon Connect now provides a weekly view of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-weekly-view-agent-schedules/)
 - [Amazon Connect Contact Lens can now generate transcriptions in 10 new languages](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-transcriptions-10-languages/)
 - [AWS Network Load Balancer now supports configurable TCP idle timeout](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-network-load-balancer-tcp-idle-timeout/)
-- [AI recommendations for descriptions in Amazon DataZone expanded to more regions](https://aws.amazon.com/about-aws/whats-new/2024/09/ai-descriptions-amazon-datazone-more-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

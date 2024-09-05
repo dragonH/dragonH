@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Access Grants introduce the ListCallerAccessGrants API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-access-grants-listcalleraccessgrants-api)
+- [Amazon WorkSpaces Pools now allows you to bring your Windows 10 or 11 licenses](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-workspaces-pools-windows-10-11-licenses)
 - [Amazon Connect Contact Lens now supports new ways to automate agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-automate-agent-performance-evaluations)
 - [Amazon EC2 R7i instances are now available in additional AWS region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-r7i-instances-additional-aws-region)
 - [Amazon Managed Service for Apache Flink now supports Apache Flink 1.20](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-managed-service-apache-flink-1-20/)
 - [Amazon RDS for Oracle now supports OEM and OLS options with Multitenant configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-oem-ols-options-multitenant-configuration)
 - [AWS Gateway Load Balancer now supports configurable TCP idle timeout](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-gateway-load-balancer-tcp-idle-timeout/)
 - [Amazon RDS Custom for SQL Server supports Cross-region Snapshot Copying](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-cross-region-snapshot-copying/)
+- [Announcing Storage Browser for Amazon S3 for your web applications &lpar;alpha release&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/storage-browser-amazon-s3-alpha-release/)
 - [Bedrock Agents on Sonnet 3.5](https://aws.amazon.com/about-aws/whats-new/2024/09/bedrock-agents-sonnet-3-5)
-- [AWS AppSync enhances API monitoring with new DEBUG and INFO logging levels](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-appsync-api-monitoring-debug-info-logging-levels)
-- [Use Apache Spark on Amazon EMR Serverless directly from Amazon Sagemaker Studio](https://aws.amazon.com/about-aws/whats-new/2024/09/apache-spark-amazon-emr-serverless-sagemaker-studio)
-- [Amazon SES announces enhanced onboarding with adaptive setup wizard and Virtual Deliverability Manager](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-onboarding-setup-wizard-virtual-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

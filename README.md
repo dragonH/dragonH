@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [PostgreSQL 17 RC1 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-17-rc1-amazon-rds-database-preview-environment)
+- [Amazon RDS for MariaDB supports minors 10.11.9, 10.6.19, 10.5.26](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-mariadb-minors-10/)
 - [Amazon S3 Access Grants introduce the ListCallerAccessGrants API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-access-grants-listcalleraccessgrants-api)
 - [Amazon WorkSpaces Pools now allows you to bring your Windows 10 or 11 licenses](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-workspaces-pools-windows-10-11-licenses)
 - [Amazon Connect Contact Lens now supports new ways to automate agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-contact-lens-automate-agent-performance-evaluations)
@@ -66,8 +68,6 @@
 - [Amazon RDS for Oracle now supports OEM and OLS options with Multitenant configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-oem-ols-options-multitenant-configuration)
 - [AWS Gateway Load Balancer now supports configurable TCP idle timeout](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-gateway-load-balancer-tcp-idle-timeout/)
 - [Amazon RDS Custom for SQL Server supports Cross-region Snapshot Copying](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-cross-region-snapshot-copying/)
-- [Announcing Storage Browser for Amazon S3 for your web applications &lpar;alpha release&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/storage-browser-amazon-s3-alpha-release/)
-- [Bedrock Agents on Sonnet 3.5](https://aws.amazon.com/about-aws/whats-new/2024/09/bedrock-agents-sonnet-3-5)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

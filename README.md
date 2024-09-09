@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints)
+- [Amazon Aurora now supports R7g Graviton3-based instance family in 15 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-r7g-graviton3-based-instance-family-additional-regions)
 - [Secondary sensor support for AWS IoT SiteWise Edge through CloudRail](https://aws.amazon.com/about-aws/whats-new/2024/09/secondary-sensor-aws-iot-sitewise-edge-cloudrail)
 - [Amazon IVS Real-Time Streaming now supports RTMP ingest](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ivs-real-time-streaming-rtmp-ingest/)
 - [AWS IoT SiteWise Edge adds support for 100+ protocols through Litmus Edge](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iot-sitewise-edge-100-protocols-litmus-edge/)
@@ -67,7 +68,6 @@
 - [Amazon Kinesis Data Streams now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint)
 - [Amazon RDS Custom for SQL Server is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-additional-aws-regions)
 - [CloudWatch Application Signals now supports request based Service Level Objectives &lpar;SLOs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/cloudwatch-application-signals-service-level-objectives/)
-- [PostgreSQL 17 RC1 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-17-rc1-amazon-rds-database-preview-environment)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EKS support in Amazon SageMaker HyperPod to scale foundation model development](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-sagemaker-hyperpod-scale-foundation-model-development)
 - [Container Insights now announces SageMaker HyperPod node health observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/09/container-insights-sagemaker-hyperpod-node-health/)
+- [Amazon EMR on EC2 improves cluster launch experience with intelligent subnet selection](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-emr-ec2-cluster-launch-intelligent-selection/)
 - [Amazon MSK enhances cross-cluster replication with support for identical topic names](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-cross-cluster-replication-identical-topic-names/)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.15](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-opensearch-service-version-2-15/)
 - [AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints)
@@ -67,7 +68,6 @@
 - [Secondary sensor support for AWS IoT SiteWise Edge through CloudRail](https://aws.amazon.com/about-aws/whats-new/2024/09/secondary-sensor-aws-iot-sitewise-edge-cloudrail)
 - [Amazon IVS Real-Time Streaming now supports RTMP ingest](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ivs-real-time-streaming-rtmp-ingest/)
 - [AWS IoT SiteWise Edge adds support for 100+ protocols through Litmus Edge](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iot-sitewise-edge-100-protocols-litmus-edge/)
-- [AWS Resource Access Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-access-manager-privatelink)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

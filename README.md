@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK enhances cross-cluster replication with support for identical topic names](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-cross-cluster-replication-identical-topic-names/)
 - [AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints)
 - [Amazon Aurora now supports R7g Graviton3-based instance family in 15 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-r7g-graviton3-based-instance-family-additional-regions)
 - [Secondary sensor support for AWS IoT SiteWise Edge through CloudRail](https://aws.amazon.com/about-aws/whats-new/2024/09/secondary-sensor-aws-iot-sitewise-edge-cloudrail)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaConnect adds support for input thumbnail images](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-mediaconnect-input-thumbnail-images/)
 - [Amazon EC2 P5e instances are generally available via EC2 Capacity Blocks](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-p5e-instances-ec2-capacity-blocks/)
 - [Amazon Kinesis Data Streams now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-fips-140-3-interface-vpc-endpoint)
-- [Amazon RDS Custom for SQL Server is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-custom-sql-server-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

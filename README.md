@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing sticky session routing for Amazon SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2024/09/sticky-session-routing-amazon-sagemaker-inference)
+- [AWS Network Firewall now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-network-firewall-privatelink)
+- [Amazon EC2 R6in and R6idn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-r6in-r6idn-instances-additional-region)
+- [AWS Application Migration Service supports Trend Micro post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-application-migration-service-launch-action/)
+- [AWS Elemental Media Services now support live AV1 encoding](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-media-services-live-av1-encoding)
+- [Announcing AWS Elemental MediaLive Anywhere for live video encoding on your own hardware](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-medialive-anywhere-video-encoding-hardware/)
+- [Amazon ECR announces support for dual-layer server-side encryption in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecr-dual-layer-server-side-encryption-govcloud/)
 - [AWS IAM Identity Center now supports language and visual mode preferences in the AWS access portal](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iam-identity-center-language-visual-mode-preferences-access-portal)
-- [Amazon Redshift now supports altering sort keys on tables in zero-ETL integration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-altering-sort-keys-tables-zero-etl-integration)
 - [Amazon EventBridge Pipes now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eventbridge-pipes-customer-managed-keys/)
-- [Amazon EKS support in Amazon SageMaker HyperPod to scale foundation model development](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-sagemaker-hyperpod-scale-foundation-model-development)
-- [Amazon EMR on EC2 improves cluster launch experience with intelligent subnet selection](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-emr-ec2-cluster-launch-intelligent-selection/)
-- [Container Insights now announces SageMaker HyperPod node health observability on EKS](https://aws.amazon.com/about-aws/whats-new/2024/09/container-insights-sagemaker-hyperpod-node-health/)
-- [Amazon MSK enhances cross-cluster replication with support for identical topic names](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-cross-cluster-replication-identical-topic-names/)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.15](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-opensearch-service-version-2-15/)
-- [AWS Elastic Beanstalk adds support for IPv6 inbound traffic to service endpoints](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-beanstalk-ipv6-inbound-traffic-service-endpoints)
-- [Amazon Aurora now supports R7g Graviton3-based instance family in 15 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-r7g-graviton3-based-instance-family-additional-regions)
+- [Amazon Redshift now supports altering sort keys on tables in zero-ETL integration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-altering-sort-keys-tables-zero-etl-integration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

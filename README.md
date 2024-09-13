@@ -67,7 +67,7 @@
 - [AWS Elemental Media Services now support live AV1 encoding](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-media-services-live-av1-encoding)
 - [Announcing AWS Elemental MediaLive Anywhere for live video encoding on your own hardware](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-medialive-anywhere-video-encoding-hardware/)
 - [AWS Backup Audit Manager adds new control to audit resources inside logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-backup-audit-manager-control-audit-resources/)
-- [AWS Glue Data Catalog now supports storage optimization of Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-glue-data-catalog-optimization-apache-iceberg-tables/)
+- [Amazon ECR announces support for dual-layer server-side encryption in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecr-dual-layer-server-side-encryption-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

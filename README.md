@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MySQL zero-ETL integration with Amazon Redshift is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-mysql-zero-etl-integration-redshift-generally-available)
+- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Hong Kong&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-aws-asia-pacific-hong-kong-israel-tel-aviv-regions)
 - [Announcing sticky session routing for Amazon SageMaker Inference](https://aws.amazon.com/about-aws/whats-new/2024/09/sticky-session-routing-amazon-sagemaker-inference)
 - [AWS Network Firewall now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-network-firewall-privatelink)
 - [Amazon EC2 R6in and R6idn instances are now available in an additional region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-r6in-r6idn-instances-additional-region)
-- [AWS Application Migration Service supports Trend Micro post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-application-migration-service-launch-action/)
 - [AWS Elemental Media Services now support live AV1 encoding](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-media-services-live-av1-encoding)
 - [Announcing AWS Elemental MediaLive Anywhere for live video encoding on your own hardware](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-medialive-anywhere-video-encoding-hardware/)
+- [AWS Application Migration Service supports Trend Micro post-launch action](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-application-migration-service-launch-action/)
+- [AWS Backup Audit Manager adds new control to audit resources inside logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-backup-audit-manager-control-audit-resources/)
 - [Amazon ECR announces support for dual-layer server-side encryption in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ecr-dual-layer-server-side-encryption-govcloud/)
-- [AWS IAM Identity Center now supports language and visual mode preferences in the AWS access portal](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iam-identity-center-language-visual-mode-preferences-access-portal)
-- [Amazon EventBridge Pipes now supports customer managed KMS keys](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eventbridge-pipes-customer-managed-keys/)
-- [Amazon Redshift now supports altering sort keys on tables in zero-ETL integration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-altering-sort-keys-tables-zero-etl-integration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

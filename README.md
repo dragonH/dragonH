@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect expands AWS CloudFormation support for agent hierarchies](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies)
+- [AWS WAF Bot Control Managed Rule expands bot detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-rule-bot-detection-capabilities)
 - [Amazon QuickSight now supports Direct Query for Google BigQuery connector](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-quicksight-direct-query-functionality-google-bigquery-connector)
 - [Amazon Connect launches AWS CloudFormation support for agent status](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-status)
 - [Amazon Redshift Serverless now supports higher base capacity of 1024 Redshift Processing Units](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-capacity-1024-processing-units/)
@@ -66,8 +68,6 @@
 - [Amazon Bedrock Knowledge Bases now supports cross-region inference](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-bedrock-knowledge-bases-cross-region-inference)
 - [Amazon Neptune Database is now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-neptune-database-asia-pacific-jakarta-region)
 - [Amazon Neptune Database is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-neptune-database-aws-europe-spain-region)
-- [Amazon RDS for MySQL zero-ETL integration with Amazon Redshift is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-mysql-zero-etl-integration-redshift-generally-available)
-- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Hong Kong&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-aws-asia-pacific-hong-kong-israel-tel-aviv-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

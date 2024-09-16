@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon Aurora PostgreSQL Optimized Reads in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-postgresql-optimized-reads-govcloud/)
 - [Amazon Connect expands AWS CloudFormation support for agent hierarchies](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies)
 - [AWS WAF Bot Control Managed Rule Group expands bot detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-group-rule-bot-detection-capabilities)
 - [Amazon QuickSight now supports Direct Query for Google BigQuery connector](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-quicksight-direct-query-functionality-google-bigquery-connector)
@@ -67,7 +68,6 @@
 - [Amazon Cognito user pools now offer email as a multi-factor authentication &lpar;MFA&rpar; option](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-cognito-user-pools-email-authentication-option/)
 - [Amazon Bedrock Knowledge Bases now supports cross-region inference](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-bedrock-knowledge-bases-cross-region-inference)
 - [Amazon Neptune Database is now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-neptune-database-asia-pacific-jakarta-region)
-- [Amazon Neptune Database is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-neptune-database-aws-europe-spain-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

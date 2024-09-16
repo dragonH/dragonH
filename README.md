@@ -59,7 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect expands AWS CloudFormation support for agent hierarchies](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies)
-- [AWS WAF Bot Control Managed Rule expands bot detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-rule-bot-detection-capabilities)
+- [AWS WAF Bot Control Managed Rule Group expands bot detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-group-rule-bot-detection-capabilities)
 - [Amazon QuickSight now supports Direct Query for Google BigQuery connector](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-quicksight-direct-query-functionality-google-bigquery-connector)
 - [Amazon Connect launches AWS CloudFormation support for agent status](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-status)
 - [Amazon Redshift Serverless now supports higher base capacity of 1024 Redshift Processing Units](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-capacity-1024-processing-units/)

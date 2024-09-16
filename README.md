@@ -58,8 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS announces Amazon Aurora PostgreSQL Optimized Reads in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-postgresql-optimized-reads-govcloud/)
+- [AWS Private CA now supports SCEP for mobile devices](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-private-ca-scep-mobile-devices)
 - [Announcing general availability &lpar;GA&rpar; of Amazon Q generative SQL for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-q-generative-sql-amazon-redshift/)
+- [AWS announces Amazon Aurora PostgreSQL Optimized Reads in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-postgresql-optimized-reads-govcloud/)
 - [Amazon Redshift now supports enhanced VPC routing warehouses in zero-ETL integration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-enhanced-vpc-routing-warehouses-zero-etl-integration)
 - [Amazon Connect expands AWS CloudFormation support for agent hierarchies](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies)
 - [AWS WAF Bot Control Managed Rule Group expands bot detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-group-rule-bot-detection-capabilities)
@@ -67,7 +68,6 @@
 - [Amazon Connect launches AWS CloudFormation support for agent status](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-status)
 - [Amazon Redshift Serverless now supports higher base capacity of 1024 Redshift Processing Units](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-capacity-1024-processing-units/)
 - [Amazon RDS for SQL Server Supports Minor Versions 2019 CU28, 2022 CU14](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-sql-server-minor-versions-cu28-cu14/)
-- [Amazon Cognito user pools now offer email as a multi-factor authentication &lpar;MFA&rpar; option](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-cognito-user-pools-email-authentication-option/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

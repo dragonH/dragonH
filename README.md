@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Chatbot now allows you to interact with Amazon Bedrock agents from Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-chatbot-amazon-bedrock-agent-microsoft-teams-slack)
+- [AWS Amplify now supports long-running tasks with asynchronous server-side function calls](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-amplify-long-running-tasks-asynchronous-function-calls/)
 - [AWS Transfer Family increases throughput and file sizes supported by SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-transfer-family-throughput-file-sizes-sftp-connectors)
 - [AWS Private CA now supports SCEP for mobile devices](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-private-ca-scep-mobile-devices)
 - [Announcing general availability &lpar;GA&rpar; of Amazon Q generative SQL for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-q-generative-sql-amazon-redshift/)
@@ -67,7 +68,6 @@
 - [Amazon Connect expands AWS CloudFormation support for agent hierarchies](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-hierarchies)
 - [AWS WAF Bot Control Managed Rule Group expands bot detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-group-rule-bot-detection-capabilities)
 - [Amazon QuickSight now supports Direct Query for Google BigQuery connector](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-quicksight-direct-query-functionality-google-bigquery-connector)
-- [Amazon Connect launches AWS CloudFormation support for agent status](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-status)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Chatbot now allows you to interact with Amazon Bedrock agents from Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-chatbot-amazon-bedrock-agent-microsoft-teams-slack)
+- [AWS Transfer Family increases throughput and file sizes supported by SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-transfer-family-throughput-file-sizes-sftp-connectors)
 - [AWS Private CA now supports SCEP for mobile devices](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-private-ca-scep-mobile-devices)
 - [Announcing general availability &lpar;GA&rpar; of Amazon Q generative SQL for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-q-generative-sql-amazon-redshift/)
 - [AWS announces Amazon Aurora PostgreSQL Optimized Reads in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-postgresql-optimized-reads-govcloud/)
@@ -66,8 +68,6 @@
 - [AWS WAF Bot Control Managed Rule Group expands bot detection capabilities](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-waf-bot-control-managed-group-rule-bot-detection-capabilities)
 - [Amazon QuickSight now supports Direct Query for Google BigQuery connector](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-quicksight-direct-query-functionality-google-bigquery-connector)
 - [Amazon Connect launches AWS CloudFormation support for agent status](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-connect-aws-cloudformation-agent-status)
-- [Amazon Redshift Serverless now supports higher base capacity of 1024 Redshift Processing Units](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-serverless-capacity-1024-processing-units/)
-- [Amazon RDS for SQL Server Supports Minor Versions 2019 CU28, 2022 CU14](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-sql-server-minor-versions-cu28-cu14/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

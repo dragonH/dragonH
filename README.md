@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-graviton3-based-m7g-instances-london/)
+- [Amazon Corretto 23 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/)
+- [Amazon RDS for SQL Server Supports Minor Versions in September 2024](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-sql-server-minor-versions-september-2024/)
 - [AWS CodeBuild now supports managed GitLab runners](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-codebuild-managed-gitlab-runners)
 - [Amazon S3 Express One Zone now supports AWS-KMS with customer managed keys](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-express-one-zone-aws-kms-customer-managed-keys)
 - [Announcing general availability of AWS SDK for Swift](https://aws.amazon.com/about-aws/whats-new/2024/09/general-availability-aws-sdk-swift)
-- [AWS Chatbot now allows you to interact with Amazon Bedrock agents from Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-chatbot-amazon-bedrock-agent-microsoft-teams-slack)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports add-column for multi-Region tables](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-keyspaces-apache-cassandra-column-multi-region-tables/)
-- [AWS Amplify now supports long-running tasks with asynchronous server-side function calls](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-amplify-long-running-tasks-asynchronous-function-calls/)
-- [Announcing AWS Elemental MediaConvert on-demand volume discount pricing](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-mediaconvert-discount-pricing/)
 - [AWS Neuron introduces Neuron Kernel Interface &lpar;NKI&rpar;, NxD Training, and JAX support for training](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-neuron-nki-nxd-training-jax/)
 - [AWS Transfer Family increases throughput and file sizes supported by SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-transfer-family-throughput-file-sizes-sftp-connectors)
 - [AWS Elastic Disaster Recovery now supports recovery to AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-disaster-recovery-recovery-aws-local-zones/)
+- [AWS Chatbot now allows you to interact with Amazon Bedrock agents from Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-chatbot-amazon-bedrock-agent-microsoft-teams-slack)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

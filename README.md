@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon EC2 X8g Instances](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances)
+- [Amazon DocumentDB&lpar;with MongoDB compatibility&rpar; is now available in the Cape Town region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-documentdb-mongodb-compatibility-cape-town-region)
+- [Amazon OpenSearch Service now supports i4g &amp; i4i instances](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-opensearch-service-i4g-i4i-instances/)
 - [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-graviton3-based-m7g-instances-london/)
-- [Amazon Corretto 23 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/)
 - [Amazon RDS for SQL Server Supports Minor Versions in September 2024](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-sql-server-minor-versions-september-2024/)
+- [Amazon Corretto 23 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the Spain region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-documentdb-mongodb-compatibility-spain-region/)
 - [AWS CodeBuild now supports managed GitLab runners](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-codebuild-managed-gitlab-runners)
 - [Amazon S3 Express One Zone now supports AWS-KMS with customer managed keys](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-express-one-zone-aws-kms-customer-managed-keys)
 - [Announcing general availability of AWS SDK for Swift](https://aws.amazon.com/about-aws/whats-new/2024/09/general-availability-aws-sdk-swift)
-- [AWS Neuron introduces Neuron Kernel Interface &lpar;NKI&rpar;, NxD Training, and JAX support for training](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-neuron-nki-nxd-training-jax/)
-- [AWS Transfer Family increases throughput and file sizes supported by SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-transfer-family-throughput-file-sizes-sftp-connectors)
-- [AWS Elastic Disaster Recovery now supports recovery to AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elastic-disaster-recovery-recovery-aws-local-zones/)
-- [AWS Chatbot now allows you to interact with Amazon Bedrock agents from Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-chatbot-amazon-bedrock-agent-microsoft-teams-slack)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Performance Insights supports Aurora cluster-level configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-supports-aurora-cluster-level-configuration)
+- [OR1 instances now available for existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2024/09/or1-instances-amazon-opensearch-service-domains)
+- [AWS IoT Device Management adds enhancements to Software Package Catalog and Jobs](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iot-device-management-software-package-catalog-jobs)
+- [Amazon SES now offers automated complaint rate recommendations](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-automated-complaint-rate-recommendations)
+- [Amazon EC2 G6 instances now available in Spain region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-g6-instances-spain-region)
 - [AWS Cost Management now provides purchase recommendations for Amazon DynamoDB reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cost-management-purchase-recommendations-amazon-dynamodb-reserved-capacity)
 - [Introducing Amazon EC2 X8g Instances](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-x8g-instances)
 - [Amazon DocumentDB&lpar;with MongoDB compatibility&rpar; is now available in the Cape Town region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-documentdb-mongodb-compatibility-cape-town-region)
-- [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-graviton3-based-m7g-instances-london/)
-- [Amazon Corretto 23 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-corretto-23-generally-available/)
 - [Amazon OpenSearch Service now supports i4g &amp; i4i instances](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-opensearch-service-i4g-i4i-instances/)
-- [Amazon RDS for SQL Server Supports Minor Versions in September 2024](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-sql-server-minor-versions-september-2024/)
-- [AWS Directory Service adds user and group management using APIs and Console](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-managed-microsoft-ad-users-groups-using-apis/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the Spain region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-documentdb-mongodb-compatibility-spain-region/)
-- [AWS CodeBuild now supports managed GitLab runners](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-codebuild-managed-gitlab-runners)
+- [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-msk-graviton3-based-m7g-instances-london/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Mainframe Modernization File Transfer adds binary transfer and better performance](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-mainframe-modernization-file-transfer-binary-transfer-performance)
+- [Amazon FSx for Lustre is now available in the AWS US East &lpar;Dallas&rpar; Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-fsx-for-lustre-dallas-local-zone/)
 - [Announcing availability of AWS Outposts in Jordan](https://aws.amazon.com/about-aws/whats-new/2024/09/availability-aws-outposts-jordan)
 - [AWS Deadline Cloud launches additional sort fields for steps, tasks, and workers](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-deadline-cloud-sort-fields-steps-tasks-workers/)
 - [AWS CloudFormation Git sync now supports pull request workflows to review your stack changes](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudformation-git-sync-supports-pull-request-workflows)
@@ -67,7 +68,6 @@
 - [Amazon RDS Performance Insights supports Aurora cluster-level configuration](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-supports-aurora-cluster-level-configuration)
 - [OR1 instances now available for existing Amazon OpenSearch Service domains](https://aws.amazon.com/about-aws/whats-new/2024/09/or1-instances-amazon-opensearch-service-domains)
 - [AWS IoT Device Management adds enhancements to Software Package Catalog and Jobs](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-iot-device-management-software-package-catalog-jobs)
-- [Amazon EC2 G6 instances now available in Spain region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-g6-instances-spain-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

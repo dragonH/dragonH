@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio now supports automatic shutdown of idle applications](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-studio-automatic-shutdown-idle-applications)
+- [AWS Lambda now supports tagging of Event Source Mappings and Code Signing Config resources](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-tagging-event-source-mappings-code-signing-config-resources)
 - [Amazon EC2 Instance Connect now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-instance-connect-ipv6)
 - [Announcing G4dn WorkSpaces Pools bundles with WSP for Windows](https://aws.amazon.com/about-aws/whats-new/2024/09/g4dn-workspaces-pools-bundles-wsp-windows)
 - [Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/jamba-1-5-family-models-amazon-bedrock)
@@ -66,8 +68,6 @@
 - [AWS Elemental MediaLive introduces bandwidth reduction filter](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-elemental-medialive-bandwidth-reduction-filter/)
 - [Announcing Content Credentials for Amazon Titan Image Generator](https://aws.amazon.com/about-aws/whats-new/2024/09/content-credentials-amazon-titan-image-generator)
 - [AWS Mainframe Modernization File Transfer adds binary transfer and better performance](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-mainframe-modernization-file-transfer-binary-transfer-performance)
-- [Amazon FSx for Lustre is now available in the AWS US East &lpar;Dallas&rpar; Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-fsx-for-lustre-dallas-local-zone/)
-- [AWS CloudFormation Git sync now supports pull request workflows to review your stack changes](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudformation-git-sync-supports-pull-request-workflows)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

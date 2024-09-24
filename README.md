@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resilience Hub extends support for Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resilience-hub-support-amazon-elasticache)
 - [Amazon Redshift data sharing governed through AWS Lake Formation is now available in 11 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-data-sharing-aws-lake-formation-additional-regions)
 - [Valkey GLIDE v1.1, a client for Valkey and Redis OSS, now supports Node.js](https://aws.amazon.com/about-aws/whats-new/2024/09/valkey-glide-v11-redis-oss-nodejs/)
 - [AWS Resource Explore now supports discovery of all tagged AWS resources](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-explore-discovery-tagged-aws-resources)
@@ -67,7 +68,6 @@
 - [AWS Lambda now supports tagging of Event Source Mappings and Code Signing Config resources](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-tagging-event-source-mappings-code-signing-config-resources)
 - [Amazon EC2 Instance Connect now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-instance-connect-ipv6)
 - [Announcing G4dn WorkSpaces Pools bundles with WSP for Windows](https://aws.amazon.com/about-aws/whats-new/2024/09/g4dn-workspaces-pools-bundles-wsp-windows)
-- [Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/jamba-1-5-family-models-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

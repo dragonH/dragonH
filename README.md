@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Resilience Hub extends support for Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resilience-hub-support-amazon-elasticache)
-- [Amazon Redshift data sharing governed through AWS Lake Formation is now available in 11 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-data-sharing-aws-lake-formation-additional-regions)
-- [Valkey GLIDE v1.1, a client for Valkey and Redis OSS, now supports Node.js](https://aws.amazon.com/about-aws/whats-new/2024/09/valkey-glide-v11-redis-oss-nodejs/)
-- [AWS Resource Explore now supports discovery of all tagged AWS resources](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-resource-explore-discovery-tagged-aws-resources)
-- [Amazon S3 to apply a default minimum object size for S3 Lifecycle transition rules](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-s3-default-minimum-object-size-lifecycle-transition-rules)
-- [Amazon Managed Grafana now supports silences for Grafana alerts](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-managed-grafana-silences-alerts/)
-- [WorkSpaces Secure Browser now supports FIPS 140-3 validated cryptography](https://aws.amazon.com/about-aws/whats-new/2024/09/workspaces-secure-browser-fips-140-3-validated-cryptography/)
-- [Amazon SageMaker Studio now supports automatic shutdown of idle applications](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-studio-automatic-shutdown-idle-applications)
-- [AWS Lambda now supports tagging of Event Source Mappings and Code Signing Config resources](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-tagging-event-source-mappings-code-signing-config-resources)
-- [Amazon EC2 Instance Connect now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ec2-instance-connect-ipv6)
+- [Amazon FSx for Lustre provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-fsx-lustre-performance-metrics-enhanced-monitoring-dashboard)
+- [Amazon Kinesis Data Streams announces support for Attribute-Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-abac)
+- [Llama 3.2 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/llama-3-2-generative-ai-models-amazon-bedrock)
+- [AWS announces general availability for Security Group Referencing on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2024/09/general-availability-security-group-referencing-aws-transit-gateway)
+- [AWS CloudTrail launches network activity events for VPC endpoints &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudtrail-network-activity-events-vpc-endpoints-preview)
+- [Announcing the new Resources widget on myApplications](https://aws.amazon.com/about-aws/whats-new/2024/09/resources-widget-myapplications)
+- [Customize your Amazon SageMaker model deployment software and driver versions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-model-deployment-software-driver-versions/)
+- [Amazon SageMaker with MLflow now supports AWS PrivateLink for secure traffic routing](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-mlflow-privatelink-secure-traffic-routing/)
+- [WorkSpaces Secure Browser announces new session management dashboard](https://aws.amazon.com/about-aws/whats-new/2024/09/workspaces-secure-browser-session-management-dashboard/)
+- [Announcing Region Expansion of P4d instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2024/09/region-expansion-p4d-instances-sagemaker-studio-notebooks)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

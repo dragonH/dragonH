@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MemoryDB is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-memorydb-aws-europe-spain-region)
 - [Application Discovery Service Agentless Collector now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/09/application-discovery-service-agentless-collector-amazon-linux-2023)
 - [Amazon RDS Performance Insights now supports queries run through Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-queries-run-data-api)
 - [Amazon RDS for Oracle now supports Oracle Management Agent version 13.5.0.0.v2 for Oracle Enterprise Manager Cloud Control 13cR5](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-management-agent-version-13-5-0-0-v2-enterprise-manager-cloud-control-13cr5)
 - [AWS ParallelCluster 3.11 now available with login node enhancements](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-parallelcluster-3-11-login-node-enhancements)
 - [PostgreSQL 17.0 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-170-amazon-rds-database-preview-environment/)
 - [Amazon CloudWatch Natural Language Query Generation is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-cloudwatch-language-query-generation-7-additional-regions/)
+- [AWS Lambda now supports SnapStart for Java functions in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-snapstart-java-functions-govcloud/)
 - [Amazon Aurora MySQL now supports RDS Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-mysql-rds-data-api/)
-- [Amazon FSx for Lustre provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-fsx-lustre-performance-metrics-enhanced-monitoring-dashboard)
-- [Amazon Kinesis Data Streams announces support for Attribute-Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-abac)
-- [Llama 3.2 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/llama-3-2-generative-ai-models-amazon-bedrock)
+- [Amazon MWAA now supports Apache Airflow version 2.10](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-mwaa-apache-airflow-version-210/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

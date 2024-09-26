@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Performance Insights now supports queries run through Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-queries-run-data-api)
+- [Amazon RDS for Oracle now supports Oracle Management Agent version 13.5.0.0.v2 for Oracle Enterprise Manager Cloud Control 13cR5](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-management-agent-version-13-5-0-0-v2-enterprise-manager-cloud-control-13cr5)
+- [AWS ParallelCluster 3.11 now available with login node enhancements](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-parallelcluster-3-11-login-node-enhancements)
 - [PostgreSQL 17.0 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-170-amazon-rds-database-preview-environment/)
+- [Amazon CloudWatch Natural Language Query Generation is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-cloudwatch-language-query-generation-7-additional-regions/)
 - [Amazon FSx for Lustre provides additional performance metrics and an enhanced monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-fsx-lustre-performance-metrics-enhanced-monitoring-dashboard)
 - [Amazon Kinesis Data Streams announces support for Attribute-Based Access Control &lpar;ABAC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-kinesis-data-streams-abac)
 - [Llama 3.2 generative AI models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/09/llama-3-2-generative-ai-models-amazon-bedrock)
 - [AWS announces general availability for Security Group Referencing on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2024/09/general-availability-security-group-referencing-aws-transit-gateway)
 - [AWS CloudTrail launches network activity events for VPC endpoints &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudtrail-network-activity-events-vpc-endpoints-preview)
-- [Announcing the new Resources widget on myApplications](https://aws.amazon.com/about-aws/whats-new/2024/09/resources-widget-myapplications)
-- [Customize your Amazon SageMaker model deployment software and driver versions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-model-deployment-software-driver-versions/)
-- [WorkSpaces Secure Browser announces new session management dashboard](https://aws.amazon.com/about-aws/whats-new/2024/09/workspaces-secure-browser-session-management-dashboard/)
-- [Amazon SageMaker with MLflow now supports AWS PrivateLink for secure traffic routing](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-mlflow-privatelink-secure-traffic-routing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

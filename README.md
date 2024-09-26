@@ -63,11 +63,11 @@
 - [Amazon RDS Performance Insights now supports queries run through Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-queries-run-data-api)
 - [Amazon RDS for Oracle now supports Oracle Management Agent version 13.5.0.0.v2 for Oracle Enterprise Manager Cloud Control 13cR5](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-oracle-management-agent-version-13-5-0-0-v2-enterprise-manager-cloud-control-13cr5)
 - [AWS ParallelCluster 3.11 now available with login node enhancements](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-parallelcluster-3-11-login-node-enhancements)
-- [PostgreSQL 17.0 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-170-amazon-rds-database-preview-environment/)
 - [Amazon CloudWatch Natural Language Query Generation is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-cloudwatch-language-query-generation-7-additional-regions/)
 - [AWS Lambda now supports SnapStart for Java functions in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-lambda-snapstart-java-functions-govcloud/)
+- [PostgreSQL 17.0 is now available in Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2024/09/postgresql-170-amazon-rds-database-preview-environment/)
+- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.31](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eks-distro-kubernetes-version-1-31/)
 - [Amazon Aurora MySQL now supports RDS Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-mysql-rds-data-api/)
-- [Amazon MWAA now supports Apache Airflow version 2.10](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-mwaa-apache-airflow-version-210/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

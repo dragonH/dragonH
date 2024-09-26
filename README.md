@@ -65,8 +65,8 @@
 - [AWS CloudTrail launches network activity events for VPC endpoints &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudtrail-network-activity-events-vpc-endpoints-preview)
 - [Announcing the new Resources widget on myApplications](https://aws.amazon.com/about-aws/whats-new/2024/09/resources-widget-myapplications)
 - [Customize your Amazon SageMaker model deployment software and driver versions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-model-deployment-software-driver-versions/)
-- [Amazon SageMaker with MLflow now supports AWS PrivateLink for secure traffic routing](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-mlflow-privatelink-secure-traffic-routing/)
 - [WorkSpaces Secure Browser announces new session management dashboard](https://aws.amazon.com/about-aws/whats-new/2024/09/workspaces-secure-browser-session-management-dashboard/)
+- [Amazon SageMaker with MLflow now supports AWS PrivateLink for secure traffic routing](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-sagemaker-mlflow-privatelink-secure-traffic-routing/)
 - [Announcing Region Expansion of P4d instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2024/09/region-expansion-p4d-instances-sagemaker-studio-notebooks)
 <!-- AWS-NEWS:END -->
 

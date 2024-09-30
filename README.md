@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Announces AWS re:Post Agent, a generative AI-powered virtual assistant](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-re-post-agent-generative-ai-powered-virtual-assistant)
 - [Amazon AppStream 2.0 increases application settings storage limit](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-appstream-2-0-increases-application-settings-storage-limit)
 - [Amazon EventBridge announces new event delivery latency metric for Event Buses](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-eventbridge-event-delivery-latency-metric-event-buses)
 - [Launch Amazon CloudWatch Internet Monitor from Amazon Network Load Balancer console](https://aws.amazon.com/about-aws/whats-new/2024/09/launch-amazon-cloudwatch-internet-monitor-network-load-balancer-console)
@@ -67,7 +68,6 @@
 - [Amazon SES adds HTTPS open tracking for custom domains](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-https-tracking-custom-domains/)
 - [Announcing sample-based partitioning for AWS HealthOmics variant stores](https://aws.amazon.com/about-aws/whats-new/2024/09/sample-based-partitioning-healthomics-variant-stores/)
 - [Amazon Aurora supports PostgreSQL 16.4, 15.8, 14.13, 13.16, and 12.20](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-supports-postgresql-new-versions/)
-- [Amazon Redshift announces mTLS support for Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-mtls-amazon-msk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

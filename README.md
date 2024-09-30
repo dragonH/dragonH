@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing sample-based partitioning for AWS HealthOmics variant stores](https://aws.amazon.com/about-aws/whats-new/2024/09/sample-based-partitioning-healthomics-variant-stores/)
-- [AWS CloudShell extends most recent capabilities to all commercial Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudshell-recent-capabilities-commercial-regions)
-- [Amazon Bedrock Model Evaluation now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-bedrock-model-evaluation-govcloud-us-west-region/)
+- [Launch Amazon CloudWatch Internet Monitor from Amazon Network Load Balancer console](https://aws.amazon.com/about-aws/whats-new/2024/09/launch-amazon-cloudwatch-internet-monitor-network-load-balancer-console)
 - [Amazon Inspector enhances engine for Lambda standard scanning](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-inspector-enhances-engine-powering-lambda-standard-scanning)
+- [AWS CloudShell extends most recent capabilities to all commercial Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudshell-recent-capabilities-commercial-regions)
+- [Amazon Aurora supports PostgreSQL 16.4, 15.8, 14.13, 13.16, and 12.20](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-supports-postgresql-new-versions/)
+- [Amazon Bedrock Model Evaluation now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-bedrock-model-evaluation-govcloud-us-west-region/)
+- [Amazon SES adds HTTPS open tracking for custom domains](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-https-tracking-custom-domains/)
+- [Amazon Redshift announces mTLS support for Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-mtls-amazon-msk/)
+- [Announcing sample-based partitioning for AWS HealthOmics variant stores](https://aws.amazon.com/about-aws/whats-new/2024/09/sample-based-partitioning-healthomics-variant-stores/)
 - [Announcing availability of AWS Outposts in Kuwait](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-outposts-kuwait/)
 - [Amazon Timestream for InfluxDB is now available in the Jakarta, Milan, UAE and Zaragoza AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-timestream-for-influxdb-jakarta-milan-uae-zaragoza/)
-- [AWS CodePipeline introduces pipeline variable check rule for stage level condition](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-codepipeline-pipeline-variable-check-rule-stage-level-condition)
-- [Amazon MemoryDB is now available in the AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-memorydb-aws-europe-spain-region)
-- [Application Discovery Service Agentless Collector now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2024/09/application-discovery-service-agentless-collector-amazon-linux-2023)
-- [Amazon RDS Performance Insights now supports queries run through Data API](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-rds-performance-insights-queries-run-data-api)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

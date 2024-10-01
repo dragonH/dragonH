@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift launches RA3.large instances](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-ra3-large)
 - [AWS announces Reserved Nodes flexibility for Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-reserved-nodes-flexibility-amazon-elasticache)
-- [Amazon Connect launches the ability to initiate outbound SMS contacts](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-initiate-outbound-sms-contacts/)
 - [Amazon Data Firehose delivers data streams into Apache Iceberg format tables in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-data-firehose-data-streams-iceberg-format-tables-s3/)
 - [Amazon MSK APIs now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-msk-apis-aws-privatelink/)
+- [Amazon Connect launches the ability to initiate outbound SMS contacts](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-initiate-outbound-sms-contacts/)
 - [AWS Incident Detection and Response now available in Japanese](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-incident-detection-response-japanese/)
 - [AWS Chatbot adds support to centrally manage access to AWS accounts from Slack and Microsoft Teams with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-chatbot-centrally-manage-access-accounts-slack-microsoft-teams-organizations)
 - [Amazon EMR Serverless introduces Job Run Concurrency and Queuing controls](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-emr-serverless-job-run-concurrency-queuing-controls/)
 - [Amazon S3 adds Service Quotas support for S3 general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-s3-service-quotas-general-purpose-buckets)
-- [AWS Announces AWS re:Post Agent, a generative AI-powered virtual assistant](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-re-post-agent-generative-ai-powered-virtual-assistant)
-- [Amazon AppStream 2.0 increases application settings storage limit](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-appstream-2-0-increases-application-settings-storage-limit)
+- [NICE DCV renames to Amazon DCV and releases version 2024.0 with support for Ubuntu 24.04](https://aws.amazon.com/about-aws/whats-new/2024/10/nice-dcv-amazon-dcv-20240-ubuntu-2404/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

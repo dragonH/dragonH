@@ -64,10 +64,10 @@
 - [Launch Amazon CloudWatch Internet Monitor from Amazon Network Load Balancer console](https://aws.amazon.com/about-aws/whats-new/2024/09/launch-amazon-cloudwatch-internet-monitor-network-load-balancer-console)
 - [Amazon Inspector enhances engine for Lambda standard scanning](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-inspector-enhances-engine-powering-lambda-standard-scanning)
 - [AWS CloudShell extends most recent capabilities to all commercial Regions](https://aws.amazon.com/about-aws/whats-new/2024/09/aws-cloudshell-recent-capabilities-commercial-regions)
-- [Amazon Aurora supports PostgreSQL 16.4, 15.8, 14.13, 13.16, and 12.20](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-supports-postgresql-new-versions/)
 - [Amazon Bedrock Model Evaluation now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-bedrock-model-evaluation-govcloud-us-west-region/)
 - [Amazon SES adds HTTPS open tracking for custom domains](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-ses-https-tracking-custom-domains/)
-- [Amazon Redshift announces mTLS support for Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-redshift-mtls-amazon-msk/)
+- [Announcing sample-based partitioning for AWS HealthOmics variant stores](https://aws.amazon.com/about-aws/whats-new/2024/09/sample-based-partitioning-healthomics-variant-stores/)
+- [Amazon Aurora supports PostgreSQL 16.4, 15.8, 14.13, 13.16, and 12.20](https://aws.amazon.com/about-aws/whats-new/2024/09/amazon-aurora-supports-postgresql-new-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

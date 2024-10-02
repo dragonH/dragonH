@@ -67,7 +67,7 @@
 - [AWS Incident Detection and Response now available in Japanese](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-incident-detection-response-japanese/)
 - [AWS Chatbot adds support to centrally manage access to AWS accounts from Slack and Microsoft Teams with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-chatbot-centrally-manage-access-accounts-slack-microsoft-teams-organizations)
 - [Amazon EMR Serverless introduces Job Run Concurrency and Queuing controls](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-emr-serverless-job-run-concurrency-queuing-controls/)
-- [Amazon S3 adds Service Quotas support for S3 general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-s3-service-quotas-general-purpose-buckets)
+- [NICE DCV renames to Amazon DCV and releases version 2024.0 with support for Ubuntu 24.04](https://aws.amazon.com/about-aws/whats-new/2024/10/nice-dcv-amazon-dcv-20240-ubuntu-2404/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

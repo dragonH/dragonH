@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon AppStream 2.0 enables automatic time zone redirection for enhanced user experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-automatic-time-zone-redirection)
+- [Printer redirection and user selected regional settings now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/10/printer-redirection-user-selected-regional-settings-amazon-appstream-2-0-multi-session-fleets)
 - [AWS Snowball Edge Storage Optimized 210TB device is available in three new regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-snowball-edge-storage-optimized-210tb-device-new-regions)
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Seoul&rpar; and US East &lpar;Ohio&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-seoul-ohio-regions)
 - [Amazon Managed Service for Prometheus now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-managed-service-prometheus-ipv6/)
+- [Amazon Virtual Private Cloud &lpar;VPC&rpar; now supports BYOIP and BYOASN in all AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-virtual-private-cloud-byoip-byoasn-local-zones/)
 - [Amazon Timestream for InfluxDB now includes advanced configuration options](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-timestream-influxdb-advanced-configuration/)
 - [New VMware Strategic Partner Incentive &lpar;SPI&rpar; for Managed Services in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/10/vmware-spi-managed-services-aws-partner-central)
 - [Amazon Redshift launches RA3.large instances](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-ra3-large)
 - [AWS announces Reserved Nodes flexibility for Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-reserved-nodes-flexibility-amazon-elasticache)
-- [Amazon Data Firehose delivers data streams into Apache Iceberg format tables in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-data-firehose-data-streams-iceberg-format-tables-s3/)
-- [Amazon MSK APIs now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-msk-apis-aws-privatelink/)
-- [Amazon Connect launches the ability to initiate outbound SMS contacts](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-initiate-outbound-sms-contacts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

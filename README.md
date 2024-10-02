@@ -65,9 +65,9 @@
 - [Amazon MSK APIs now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-msk-apis-aws-privatelink/)
 - [Amazon Connect launches the ability to initiate outbound SMS contacts](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-initiate-outbound-sms-contacts/)
 - [AWS Incident Detection and Response now available in Japanese](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-incident-detection-response-japanese/)
-- [NICE DCV renames to Amazon DCV and releases version 2024.0 with support for Ubuntu 24.04](https://aws.amazon.com/about-aws/whats-new/2024/10/nice-dcv-amazon-dcv-20240-ubuntu-2404/)
-- [Amazon Bedrock Knowledge Bases now provides option to stop ingestion jobs](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-knowledge-bases-stop-ingestion-jobs/)
 - [AWS Chatbot adds support to centrally manage access to AWS accounts from Slack and Microsoft Teams with AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-chatbot-centrally-manage-access-accounts-slack-microsoft-teams-organizations)
+- [Amazon EMR Serverless introduces Job Run Concurrency and Queuing controls](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-emr-serverless-job-run-concurrency-queuing-controls/)
+- [NICE DCV renames to Amazon DCV and releases version 2024.0 with support for Ubuntu 24.04](https://aws.amazon.com/about-aws/whats-new/2024/10/nice-dcv-amazon-dcv-20240-ubuntu-2404/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Business is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-hipaa-eligible)
+- [Amazon Location Service is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-aws-europe-spain-region)
 - [Amazon AppStream 2.0 enables automatic time zone redirection for enhanced user experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-automatic-time-zone-redirection)
 - [Printer redirection and user selected regional settings now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/10/printer-redirection-user-selected-regional-settings-amazon-appstream-2-0-multi-session-fleets)
 - [AWS Snowball Edge Storage Optimized 210TB device is available in three new regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-snowball-edge-storage-optimized-210tb-device-new-regions)
@@ -66,8 +68,6 @@
 - [Amazon Virtual Private Cloud &lpar;VPC&rpar; now supports BYOIP and BYOASN in all AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-virtual-private-cloud-byoip-byoasn-local-zones/)
 - [Amazon Timestream for InfluxDB now includes advanced configuration options](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-timestream-influxdb-advanced-configuration/)
 - [New VMware Strategic Partner Incentive &lpar;SPI&rpar; for Managed Services in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/10/vmware-spi-managed-services-aws-partner-central)
-- [Amazon Redshift launches RA3.large instances](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-ra3-large)
-- [AWS announces Reserved Nodes flexibility for Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-reserved-nodes-flexibility-amazon-elasticache)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

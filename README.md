@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS B2B Data Interchange announces support for generating outbound X12 EDI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-b2b-data-interchange-generating-outbound-x12-edi)
 - [AWS Compute Optimizer now supports 80 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-compute-optimizer-new-amazon-ec2-instance-types)
-- [Amazon Q Business is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-hipaa-eligible)
+- [AWS Cloud WAN and AWS Network Manager are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloud-wan-network-manager-additional-regions)
 - [Amazon Location Service is now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-aws-europe-spain-region)
+- [Amazon Q Business is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-hipaa-eligible)
 - [Amazon Aurora Serverless v2 now supports up to 256 ACUs](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-serverless-v2-256-acus/)
 - [Auto Scaling in AWS Glue interactive sessions is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/auto-scaling-aws-glue-interactive-sessions/)
 - [Amazon AppStream 2.0 enables automatic time zone redirection for enhanced user experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-automatic-time-zone-redirection)
 - [Printer redirection and user selected regional settings now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2024/10/printer-redirection-user-selected-regional-settings-amazon-appstream-2-0-multi-session-fleets)
 - [AWS Snowball Edge Storage Optimized 210TB device is available in three new regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-snowball-edge-storage-optimized-210tb-device-new-regions)
-- [Amazon Bedrock now available in the Asia Pacific &lpar;Seoul&rpar; and US East &lpar;Ohio&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-seoul-ohio-regions)
-- [Amazon Managed Service for Prometheus now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-managed-service-prometheus-ipv6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -65,9 +65,9 @@
 - [AWS Application Composer is now AWS Infrastructure Composer](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-application-composer-infrastructure-composer)
 - [Amazon Connect can now generate forecast for workloads with as little as one contact](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-generate-forecast-workloads)
 - [Amazon Connect Contact Lens supports new read-only permissions for reports and dashboards](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-read-only-permissions-reports-dashboards)
-- [Amazon EC2 now supports Optimize CPUs post instance launch](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-optimize-cpus-post-instance-launch/)
-- [Amazon Connect now supports multi-day copy and paste of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-multi-day-copy-paste-agent-schedules/)
 - [Amazon WorkSpaces now supports file transfer between WorkSpaces sessions and local devices](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workspaces-file-transfer-sessions-local-devices/)
+- [Amazon Connect now supports multi-day copy and paste of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-multi-day-copy-paste-agent-schedules/)
+- [Amazon EC2 now supports Optimize CPUs post instance launch](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-optimize-cpus-post-instance-launch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

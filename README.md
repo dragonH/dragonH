@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Outposts supported in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-outposts-europe-spain-region)
 - [AWS Security Hub launches 7 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-security-hub-new-security-controls)
 - [AWS CodePipeline introduces new general purpose compute action](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-general-purpose-compute-action/)
 - [Amazon Route 53 Resolver endpoints now support DNS-over-HTTPS &lpar;DoH&rpar; with Server Name Indication &lpar;SNI&rpar; validation](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-route-53-resolver-endpoints-doh-sni-validation)
@@ -67,7 +68,6 @@
 - [Amazon Connect Contact Lens supports new read-only permissions for reports and dashboards](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-read-only-permissions-reports-dashboards)
 - [Amazon WorkSpaces now supports file transfer between WorkSpaces sessions and local devices](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workspaces-file-transfer-sessions-local-devices/)
 - [Amazon Connect now supports multi-day copy and paste of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-multi-day-copy-paste-agent-schedules/)
-- [Amazon EC2 now supports Optimize CPUs post instance launch](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-optimize-cpus-post-instance-launch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

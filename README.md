@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Security Hub launches 7 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-security-hub-new-security-controls)
-- [Amazon Connect Contact Lens supports new read-only permissions for reports and dashboards](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-read-only-permissions-reports-dashboards)
 - [AWS CodePipeline introduces new general purpose compute action](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-general-purpose-compute-action/)
 - [Amazon Route 53 Resolver endpoints now support DNS-over-HTTPS &lpar;DoH&rpar; with Server Name Indication &lpar;SNI&rpar; validation](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-route-53-resolver-endpoints-doh-sni-validation)
 - [Amazon SageMaker JumpStart is now available in the AWS GovCloud &lpar;US-West and US-East&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-sagemaker-jumpstart-aws-govcloud-regions)
-- [Amazon Connect can now generate forecast for workloads with as little as one contact](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-generate-forecast-workloads)
 - [AWS Application Composer is now AWS Infrastructure Composer](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-application-composer-infrastructure-composer)
-- [Amazon EC2 now supports Optimize CPUs post instance launch](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-optimize-cpus-post-instance-launch/)
-- [Amazon Connect now supports multi-day copy and paste of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-multi-day-copy-paste-agent-schedules/)
+- [Amazon Connect can now generate forecast for workloads with as little as one contact](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-generate-forecast-workloads)
+- [Amazon Connect Contact Lens supports new read-only permissions for reports and dashboards](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-read-only-permissions-reports-dashboards)
 - [Amazon WorkSpaces now supports file transfer between WorkSpaces sessions and local devices](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workspaces-file-transfer-sessions-local-devices/)
+- [Amazon Connect now supports multi-day copy and paste of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-multi-day-copy-paste-agent-schedules/)
+- [Amazon EC2 now supports Optimize CPUs post instance launch](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-optimize-cpus-post-instance-launch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

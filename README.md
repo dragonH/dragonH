@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Preview: Amazon Q Business now supports an integration with Smartsheet](https://aws.amazon.com/about-aws/whats-new/2024/10/preview-amazon-q-business-integration-smartsheet)
 - [AWS Outposts supported in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-outposts-europe-spain-region)
 - [AWS Security Hub launches 7 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-security-hub-new-security-controls)
 - [AWS CodePipeline introduces new general purpose compute action](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-general-purpose-compute-action/)
@@ -67,7 +68,6 @@
 - [Amazon Connect can now generate forecast for workloads with as little as one contact](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-generate-forecast-workloads)
 - [Amazon Connect Contact Lens supports new read-only permissions for reports and dashboards](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-read-only-permissions-reports-dashboards)
 - [Amazon EC2 now supports Optimize CPUs post instance launch](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-optimize-cpus-post-instance-launch/)
-- [Amazon Connect now supports multi-day copy and paste of agent schedules](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-multi-day-copy-paste-agent-schedules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

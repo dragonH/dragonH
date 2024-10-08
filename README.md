@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon ElastiCache for Valkey](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-elasticache-valkey)
+- [Announcing Amazon MemoryDB for Valkey](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-memorydb-valkey)
 - [Access organization-wide views of agreements and spend in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/organization-wide-views-agreements-spend-aws-marketplace)
 - [Extension of EOL Dates for Amazon Corretto 8 and 11](https://aws.amazon.com/about-aws/whats-new/2024/10/extension-eol-dates-amazon-corretto-8-11)
 - [Amazon OpenSearch Serverless introduces a suite of new features and enhancements](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-serverless-suite-features-enhancements/)
@@ -66,8 +68,6 @@
 - [Mountpoint for Amazon S3 CSI driver introduces new access controls for individual Kubernetes pods](https://aws.amazon.com/about-aws/whats-new/2024/10/mountpoint-amazon-s3-csi-driver-access-controls-kubernetes-pods)
 - [Amazon Connect launches prompt customizations for Amazon Q in Connect](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-customizations-q-connect/)
 - [AWS Deadline Cloud now supports resubmitting jobs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-resubmitting-jobs/)
-- [Preview: Amazon Q Business now supports an integration with Smartsheet](https://aws.amazon.com/about-aws/whats-new/2024/10/preview-amazon-q-business-integration-smartsheet)
-- [AWS Outposts supported in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-outposts-europe-spain-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

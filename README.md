@@ -63,9 +63,9 @@
 - [Amazon OpenSearch Serverless introduces a suite of new features and enhancements](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-serverless-suite-features-enhancements/)
 - [Amazon VPC Lattice is now available in 3 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-vpc-lattice-3-additional-regions)
 - [Amazon Q in Connect adds personalized guidance for agents](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-connect-personalized-guidance-agents/)
-- [AWS Deadline Cloud now supports resubmitting jobs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-resubmitting-jobs/)
 - [Mountpoint for Amazon S3 CSI driver introduces new access controls for individual Kubernetes pods](https://aws.amazon.com/about-aws/whats-new/2024/10/mountpoint-amazon-s3-csi-driver-access-controls-kubernetes-pods)
 - [Amazon Connect launches prompt customizations for Amazon Q in Connect](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-customizations-q-connect/)
+- [AWS Deadline Cloud now supports resubmitting jobs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-resubmitting-jobs/)
 - [Preview: Amazon Q Business now supports an integration with Smartsheet](https://aws.amazon.com/about-aws/whats-new/2024/10/preview-amazon-q-business-integration-smartsheet)
 - [AWS Outposts supported in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-outposts-europe-spain-region)
 <!-- AWS-NEWS:END -->

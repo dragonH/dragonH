@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC Lattice is now available in 3 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-vpc-lattice-3-additional-regions)
+- [Amazon OpenSearch Serverless introduces a suite of new features and enhancements](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-serverless-suite-features-enhancements/)
+- [Amazon Q in Connect adds personalized guidance for agents](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-connect-personalized-guidance-agents/)
+- [Mountpoint for Amazon S3 CSI driver introduces new access controls for individual Kubernetes pods](https://aws.amazon.com/about-aws/whats-new/2024/10/mountpoint-amazon-s3-csi-driver-access-controls-kubernetes-pods)
+- [AWS Deadline Cloud now supports resubmitting jobs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-resubmitting-jobs/)
+- [Amazon Connect launches prompt customizations for Amazon Q in Connect](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-customizations-q-connect/)
 - [Preview: Amazon Q Business now supports an integration with Smartsheet](https://aws.amazon.com/about-aws/whats-new/2024/10/preview-amazon-q-business-integration-smartsheet)
 - [AWS Outposts supported in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-outposts-europe-spain-region)
 - [AWS Security Hub launches 7 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-security-hub-new-security-controls)
 - [AWS CodePipeline introduces new general purpose compute action](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-general-purpose-compute-action/)
-- [Amazon Route 53 Resolver endpoints now support DNS-over-HTTPS &lpar;DoH&rpar; with Server Name Indication &lpar;SNI&rpar; validation](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-route-53-resolver-endpoints-doh-sni-validation)
-- [Amazon SageMaker JumpStart is now available in the AWS GovCloud &lpar;US-West and US-East&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-sagemaker-jumpstart-aws-govcloud-regions)
-- [AWS Application Composer is now AWS Infrastructure Composer](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-application-composer-infrastructure-composer)
-- [Amazon Connect can now generate forecast for workloads with as little as one contact](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-generate-forecast-workloads)
-- [Amazon Connect Contact Lens supports new read-only permissions for reports and dashboards](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-read-only-permissions-reports-dashboards)
-- [Amazon EC2 now supports Optimize CPUs post instance launch](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-optimize-cpus-post-instance-launch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

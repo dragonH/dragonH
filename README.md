@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge Schema Registry now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-schema-registry-aws-govcloud-us-regions)
 - [Amazon Bedrock Model Evaluation now supports evaluating custom models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-evaluating-custom-models)
-- [AWS CodePipeline introduces new getting started experience](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-getting-started-experience/)
 - [Amazon Connect now supports using your customer’s initial chat message to personalize the customer experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-customers-chat-message-personalize-customer-experience)
+- [AWS CodePipeline introduces new getting started experience](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-getting-started-experience/)
+- [Amazon EventBridge Archive and Replay now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-archive-replay-govcloud-us-regions/)
+- [AWS Lambda now detects and stops recursive loops between Lambda and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-detects-stops-recursive-loops-lambda-s3/)
 - [Announcing Amazon ElastiCache for Valkey](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-elasticache-valkey)
 - [Announcing Amazon MemoryDB for Valkey](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-memorydb-valkey)
 - [Access organization-wide views of agreements and spend in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/organization-wide-views-agreements-spend-aws-marketplace)
 - [Extension of EOL Dates for Amazon Corretto 8 and 11](https://aws.amazon.com/about-aws/whats-new/2024/10/extension-eol-dates-amazon-corretto-8-11)
-- [Amazon OpenSearch Serverless introduces a suite of new features and enhancements](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-serverless-suite-features-enhancements/)
-- [Amazon VPC Lattice is now available in 3 additional Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-vpc-lattice-3-additional-regions)
-- [Amazon Q in Connect adds personalized guidance for agents](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-connect-personalized-guidance-agents/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

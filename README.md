@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift introduces query identifiers for improved query performance monitoring](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-identifiers-performance-monitoring)
 - [Four new synthetic generative voices for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2024/10/four-new-synthetic-generative-voices-amazon-polly/)
 - [Announcing general availability of Console to Code to generate code](https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-console-to-code-generate-code)
 - [Amazon EventBridge Schema Registry now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-schema-registry-aws-govcloud-us-regions)
 - [Amazon Bedrock Model Evaluation now supports evaluating custom models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-evaluating-custom-models)
 - [Amazon Connect now supports using your customer’s initial chat message to personalize the customer experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-customers-chat-message-personalize-customer-experience)
 - [AWS CodePipeline introduces new getting started experience](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-getting-started-experience/)
-- [AWS Lambda now detects and stops recursive loops between Lambda and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-detects-stops-recursive-loops-lambda-s3/)
 - [Amazon EventBridge Archive and Replay now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eventbridge-archive-replay-govcloud-us-regions/)
+- [AWS Lambda now detects and stops recursive loops between Lambda and Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-detects-stops-recursive-loops-lambda-s3/)
 - [Announcing Amazon ElastiCache for Valkey](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-elasticache-valkey)
-- [Announcing Amazon MemoryDB for Valkey](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-memorydb-valkey)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

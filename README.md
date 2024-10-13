@@ -62,10 +62,10 @@
 - [Amazon Redshift announces generally availability for data sharing with data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-generally-availability-data-sharing-data-lake-tables)
 - [AWS Backup is now available in AWS Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-backup-available-aws-asia-pacific-malaysia)
 - [AWS Resource Explorer introduces new API to list resource inventory](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-resource-explorer-api-list-resource-inventory/)
-- [AWS Elemental MediaPackage now available in Middle East &lpar;UAE&rpar; and Asia Pacific &lpar;Hyderabad&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-elemental-mediapackage-uae-hyderabad-regions)
-- [Amazon Connect Contact Lens dashboards now support additional customization capabilities](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-dashboards-customization/)
 - [Cross-zone enabled Network Load Balancer now supports zonal shift and zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2024/10/cross-zone-network-load-balancer-zonal-shift-autoshift/)
 - [Amazon CloudFront launches support for JA4 fingerprinting](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-cloudfront-ja4-fingerprinting/)
+- [AWS Elemental MediaPackage now available in Middle East &lpar;UAE&rpar; and Asia Pacific &lpar;Hyderabad&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-elemental-mediapackage-uae-hyderabad-regions)
+- [Amazon Connect Contact Lens dashboards now support additional customization capabilities](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-dashboards-customization/)
 - [Amazon Redshift introduces query identifiers for improved query performance monitoring](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-identifiers-performance-monitoring)
 - [Four new synthetic generative voices for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2024/10/four-new-synthetic-generative-voices-amazon-polly/)
 <!-- AWS-NEWS:END -->

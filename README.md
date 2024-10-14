@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon Q in AWS Supply Chain](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-aws-supply-chain/)
+- [Amazon EKS now supports using NVIDIA and AWS Neuron accelerated instance types with AL2023](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-nvidia-aws-neuron-instance-types-al2023/)
 - [Bring your conversations to WhatsApp with AWS End User Messaging Social](https://aws.amazon.com/about-aws/whats-new/2024/10/conversations-whatsapp-aws-end-user-messaging-social)
 - [Amazon Redshift announces generally availability for data sharing with data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-generally-availability-data-sharing-data-lake-tables)
 - [AWS Backup is now available in AWS Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-backup-available-aws-asia-pacific-malaysia)
@@ -66,8 +68,6 @@
 - [Amazon Connect Contact Lens dashboards now support additional customization capabilities](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-dashboards-customization/)
 - [Cross-zone enabled Network Load Balancer now supports zonal shift and zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2024/10/cross-zone-network-load-balancer-zonal-shift-autoshift/)
 - [Amazon CloudFront launches support for JA4 fingerprinting](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-cloudfront-ja4-fingerprinting/)
-- [Amazon Redshift introduces query identifiers for improved query performance monitoring](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-identifiers-performance-monitoring)
-- [Amazon WorkSpaces Thin Client inventory now available to purchase in UK](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workspaces-thin-client-inventory-purchase-uk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

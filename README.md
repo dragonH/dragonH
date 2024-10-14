@@ -67,7 +67,7 @@
 - [Cross-zone enabled Network Load Balancer now supports zonal shift and zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2024/10/cross-zone-network-load-balancer-zonal-shift-autoshift/)
 - [Amazon CloudFront launches support for JA4 fingerprinting](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-cloudfront-ja4-fingerprinting/)
 - [Amazon Redshift introduces query identifiers for improved query performance monitoring](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-identifiers-performance-monitoring)
-- [Four new synthetic generative voices for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2024/10/four-new-synthetic-generative-voices-amazon-polly/)
+- [Amazon WorkSpaces Thin Client inventory now available to purchase in UK](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workspaces-thin-client-inventory-purchase-uk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

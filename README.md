@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodePipeline supports automatic retry on stage failure](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-automatic-retry-stage-failure/)
+- [Amazon RDS now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7g-r7g-database-instances-additional-aws-regions)
+- [Amazon SageMaker Studio notebooks now support G6e instance types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-sagemaker-studio-notebooks-g6e-instance-types)
+- [Amazon AppStream 2.0 now supports custom shared network storage](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-custom-shared-network-storage)
+- [Amazon EFS now supports up to 60 GiB/s &lpar;a 2x increase&rpar; of read throughput](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-efs-60-gib-s-2x-increase-read-throughput/)
+- [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;Zurich&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-serverless-seoul-zurich-regions/)
+- [AWS access portal now offers streamlined sign in for AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-access-portal-streamlined-sign-console-mobile-app)
+- [Assign billing of your shared Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2024/10/assign-billing-shared-amazon-ec2-on-demand-capacity-reservations)
+- [Amazon Verified Permissions is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-verified-permissions-hipaa-eligible)
 - [Announcing Amazon Q in AWS Supply Chain](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-aws-supply-chain/)
-- [Amazon EKS now supports using NVIDIA and AWS Neuron accelerated instance types with AL2023](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-nvidia-aws-neuron-instance-types-al2023/)
-- [Amazon Redshift Multi-AZ is generally available for RA3 clusters in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-multi-az-ra3-clusters-govcloud-us-regions)
-- [Bring your conversations to WhatsApp with AWS End User Messaging Social](https://aws.amazon.com/about-aws/whats-new/2024/10/conversations-whatsapp-aws-end-user-messaging-social)
-- [Amazon Redshift announces generally availability for data sharing with data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-generally-availability-data-sharing-data-lake-tables)
-- [AWS Backup is now available in AWS Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-backup-available-aws-asia-pacific-malaysia)
-- [AWS Resource Explorer introduces new API to list resource inventory](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-resource-explorer-api-list-resource-inventory/)
-- [AWS Elemental MediaPackage now available in Middle East &lpar;UAE&rpar; and Asia Pacific &lpar;Hyderabad&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-elemental-mediapackage-uae-hyderabad-regions)
-- [Amazon Connect Contact Lens dashboards now support additional customization capabilities](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-contact-lens-dashboards-customization/)
-- [Cross-zone enabled Network Load Balancer now supports zonal shift and zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2024/10/cross-zone-network-load-balancer-zonal-shift-autoshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Transcribe now supports streaming transcription in 30 additional languages](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-transcribe-streaming-transcription-additional-languages)
 - [AWS Beanstalk adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-beanstalk-python-3-12)
 - [AWS CloudShell now supports Amazon Q CLI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloudshell-amazon-q-cli)
 - [Amazon Bedrock Agents now provides Conversational Builder](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-agents-conversational-builder/)
@@ -67,7 +68,6 @@
 - [AWS CodePipeline supports automatic retry on stage failure](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-automatic-retry-stage-failure/)
 - [Amazon RDS now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7g-r7g-database-instances-additional-aws-regions)
 - [Finch expands support to Linux, streamlining container development across platforms](https://aws.amazon.com/about-aws/whats-new/2024/10/finch-linux-container-development-platform)
-- [Amazon AppStream 2.0 now supports custom shared network storage](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-custom-shared-network-storage)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

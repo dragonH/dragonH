@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Beanstalk adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-beanstalk-python-3-12)
+- [AWS CloudShell now supports Amazon Q CLI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloudshell-amazon-q-cli)
+- [Announcing AWS DMS Serverless support for MongoDB and DocDB as a source](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-serverless-mongodb-docdb-source)
+- [Amazon Corretto October, 2024 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-corretto-october-2024-quarterly-updates)
 - [Amazon EC2 C7i-flex instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-c7i-flex-instances-available-seoul-frankfurt)
 - [AWS CodePipeline supports automatic retry on stage failure](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-automatic-retry-stage-failure/)
 - [Amazon RDS now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7g-r7g-database-instances-additional-aws-regions)
 - [Finch expands support to Linux, streamlining container development across platforms](https://aws.amazon.com/about-aws/whats-new/2024/10/finch-linux-container-development-platform)
 - [Amazon AppStream 2.0 now supports custom shared network storage](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-custom-shared-network-storage)
 - [Amazon RDS now supports 1-click connectivity to EC2 instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-1-click-connectivity-ec2-instances-aws-govcloud-regions)
-- [AWS announces general availability of Amazon DynamoDB zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-dynamodb-zero-etl-integration-redshift/)
-- [Amazon RDS for MariaDB now supports MariaDB 11.4 with new password validation options](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-mariadb-mariadb-11-4-password-validation-options)
-- [Amazon SageMaker Studio notebooks now support G6e instance types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-sagemaker-studio-notebooks-g6e-instance-types)
-- [Amazon EFS now supports up to 60 GiB/s &lpar;a 2x increase&rpar; of read throughput](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-efs-60-gib-s-2x-increase-read-throughput/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

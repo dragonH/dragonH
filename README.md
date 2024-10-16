@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7i-flex instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-c7i-flex-instances-available-seoul-frankfurt)
 - [AWS CodePipeline supports automatic retry on stage failure](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-automatic-retry-stage-failure/)
 - [Amazon RDS now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7g-r7g-database-instances-additional-aws-regions)
 - [Amazon SageMaker Studio notebooks now support G6e instance types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-sagemaker-studio-notebooks-g6e-instance-types)
 - [Amazon AppStream 2.0 now supports custom shared network storage](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-custom-shared-network-storage)
+- [AWS announces general availability of Amazon DynamoDB zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-dynamodb-zero-etl-integration-redshift/)
+- [Finch expands support to Linux, streamlining container development across platforms](https://aws.amazon.com/about-aws/whats-new/2024/10/finch-linux-container-development-platform)
+- [Amazon RDS for MariaDB now supports MariaDB 11.4 with new password validation options](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-mariadb-mariadb-11-4-password-validation-options)
+- [Amazon RDS now supports 1-click connectivity to EC2 instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-1-click-connectivity-ec2-instances-aws-govcloud-regions)
 - [Amazon EFS now supports up to 60 GiB/s &lpar;a 2x increase&rpar; of read throughput](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-efs-60-gib-s-2x-increase-read-throughput/)
-- [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;Zurich&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-serverless-seoul-zurich-regions/)
-- [AWS access portal now offers streamlined sign in for AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-access-portal-streamlined-sign-console-mobile-app)
-- [Assign billing of your shared Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2024/10/assign-billing-shared-amazon-ec2-on-demand-capacity-reservations)
-- [Amazon Verified Permissions is now HIPAA eligible](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-verified-permissions-hipaa-eligible)
-- [Announcing Amazon Q in AWS Supply Chain](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-aws-supply-chain/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

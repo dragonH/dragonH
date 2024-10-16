@@ -64,10 +64,10 @@
 - [Amazon Bedrock Agents now provides Conversational Builder](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-agents-conversational-builder/)
 - [Announcing AWS DMS Serverless support for MongoDB and DocDB as a source](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-serverless-mongodb-docdb-source)
 - [Amazon Corretto October, 2024 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-corretto-october-2024-quarterly-updates)
+- [Amazon Managed Service for Prometheus now supports configuring a minimum firing period for alerts](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-prometheus-configuring-firing-period-alerts/)
 - [Amazon EC2 C7i-flex instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-c7i-flex-instances-available-seoul-frankfurt)
 - [AWS CodePipeline supports automatic retry on stage failure](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codepipeline-automatic-retry-stage-failure/)
 - [Amazon RDS now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7g-r7g-database-instances-additional-aws-regions)
-- [Finch expands support to Linux, streamlining container development across platforms](https://aws.amazon.com/about-aws/whats-new/2024/10/finch-linux-container-development-platform)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

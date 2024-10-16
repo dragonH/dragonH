@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS Beanstalk adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-beanstalk-python-3-12)
 - [AWS CloudShell now supports Amazon Q CLI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloudshell-amazon-q-cli)
+- [Amazon Bedrock Agents now provides Conversational Builder](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-agents-conversational-builder/)
 - [Announcing AWS DMS Serverless support for MongoDB and DocDB as a source](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-serverless-mongodb-docdb-source)
 - [Amazon Corretto October, 2024 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-corretto-october-2024-quarterly-updates)
 - [Amazon EC2 C7i-flex instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-c7i-flex-instances-available-seoul-frankfurt)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7g-r7g-database-instances-additional-aws-regions)
 - [Finch expands support to Linux, streamlining container development across platforms](https://aws.amazon.com/about-aws/whats-new/2024/10/finch-linux-container-development-platform)
 - [Amazon AppStream 2.0 now supports custom shared network storage](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-appstream-2-0-custom-shared-network-storage)
-- [Amazon RDS now supports 1-click connectivity to EC2 instances in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-1-click-connectivity-ec2-instances-aws-govcloud-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

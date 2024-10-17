@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB announces user experience enhancements to organize your tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-dynamodb-user-experience-enhancements-organize-tables)
 - [Amazon Aurora PostgreSQL now supports local write forwarding](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-local-write-forwarding)
 - [Amazon RDS Multi-AZ deployment with two readable standbys now supports AWS IAM database authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-multi-az-deployment-standbys-aws-iam-authentication)
 - [Ubuntu Pro for EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2024/10/ubuntu-pro-ec2-spot-instances)
@@ -67,7 +68,6 @@
 - [AWS Beanstalk adds support for Python 3.12](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-beanstalk-python-3-12)
 - [AWS CloudShell now supports Amazon Q CLI](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-cloudshell-amazon-q-cli)
 - [Amazon Bedrock Agents now provides Conversational Builder](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-agents-conversational-builder/)
-- [Announcing AWS DMS Serverless support for MongoDB and DocDB as a source](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-serverless-mongodb-docdb-source)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

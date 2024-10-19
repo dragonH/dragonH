@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
 - [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
-- [Amazon Bedrock Model Evaluation now supports evaluating custom model import models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-custom-import-models/)
 - [Amazon DataZone introduces new designations in projects for members to perform specific tasks](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-designations-projects-perform-tasks)
 - [MemoryDB is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/memorydb-aws-govcloud-us-regions)
+- [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
+- [Amazon Bedrock Model Evaluation now supports evaluating custom model import models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-custom-import-models/)
 - [Amazon EC2 High Memory instances now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-high-memory-instances-africa-cape-town/)
 - [QuickSight Reporting now supports triggering scheduled reports via API](https://aws.amazon.com/about-aws/whats-new/2024/10/quicksight-reporting-triggering-scheduled-reports-api/)
 - [Amazon QuickSight now supports programmatic export and import of shared folders](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-programmatic-export-import-shared-folders)

@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Streamlined SAP application management with AWS Launch Wizard and AWS Systems Manager integration](https://aws.amazon.com/about-aws/whats-new/2024/10/sap-application-management-aws-launch-wizard-systems-manager-integration)
 - [AWS announces a seamless link experience for the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-seamless-link-experience-console-mobile-app)
+- [Amazon Bedrock Custom Model Import now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-custom-model-import/)
+- [RDS Custom for SQL Server now supports Windows Authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/rds-custom-sql-server-windows-authentication/)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-control-tower-asia-pacific-malaysia-region)
 - [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
 - [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
 - [Amazon Bedrock Model Evaluation now supports evaluating custom model import models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-custom-import-models/)
 - [Amazon DataZone introduces new designations in projects for members to perform specific tasks](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-designations-projects-perform-tasks)
 - [MemoryDB is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/memorydb-aws-govcloud-us-regions)
-- [QuickSight Reporting now supports triggering scheduled reports via API](https://aws.amazon.com/about-aws/whats-new/2024/10/quicksight-reporting-triggering-scheduled-reports-api/)
-- [Amazon QuickSight now supports programmatic export and import of shared folders](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-programmatic-export-import-shared-folders)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

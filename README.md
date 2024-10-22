@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Mainframe Modernization introduces new integrations for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-mainframe-modernization-integrations-managed-runtimes)
 - [Announcing the new Resiliency widget on myApplications](https://aws.amazon.com/about-aws/whats-new/2024/10/resiliency-widget-myapplications)
 - [Amazon EKS now supports Amazon Application Recovery Controller &lpar;ARC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-application-recovery-controller-arc)
 - [Amazon Redshift launches query profiler for enhanced query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-profiler-monitoring-diagnostics/)
@@ -66,8 +67,7 @@
 - [Enhanced Monitoring for applications hosted on Amazon ECS via Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/10/enhanced-monitoring-applications-amazon-ecs-application-signals)
 - [AWS DMS now supports homogenous migrations via CLI, SDK and API](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-homogenous-migrations-cli-sdk-api/)
 - [Amazon EKS endpoints now support connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-endpoints-connectivity-ipv6)
-- [AWS Lambda console now features a new code editor based on Code-OSS &lpar;VS Code - Open Source&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-code-editor-based-code-oss/)
-- [Streamlined SAP application management with AWS Launch Wizard and AWS Systems Manager integration](https://aws.amazon.com/about-aws/whats-new/2024/10/sap-application-management-aws-launch-wizard-systems-manager-integration)
+- [Gain deeper insights into Amazon Q Business with new analytics and conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-analytics-conversation-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

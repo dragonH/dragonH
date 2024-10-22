@@ -64,8 +64,8 @@
 - [Amazon Redshift launches query profiler for enhanced query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-profiler-monitoring-diagnostics/)
 - [Amazon Application Recovery Controller zonal shift and zonal autoshift extends support for two new multi-AZ resources](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-arc-shift-zonal-autoshift-two-multi-az-resources/)
 - [Anthropic’s upgraded Claude 3.5 Sonnet model and computer use now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/10/anthropics-claude-35-sonnet-model-computer-amazon-bedrock/)
+- [Amazon Aurora launches Global Database writer endpoint](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-global-database-writer-endpoint/)
 - [Enhanced Monitoring for applications hosted on Amazon ECS via Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/10/enhanced-monitoring-applications-amazon-ecs-application-signals)
-- [AWS DMS now supports homogenous migrations via CLI, SDK and API](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-dms-homogenous-migrations-cli-sdk-api/)
 - [Amazon EKS endpoints now support connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-endpoints-connectivity-ipv6)
 - [Gain deeper insights into Amazon Q Business with new analytics and conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-analytics-conversation-insights/)
 <!-- AWS-NEWS:END -->

@@ -63,11 +63,11 @@
 - [Amazon Bedrock Custom Model Import now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-custom-model-import/)
 - [RDS Custom for SQL Server now supports Windows Authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/rds-custom-sql-server-windows-authentication/)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-control-tower-asia-pacific-malaysia-region)
+- [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
 - [AWS Marketplace now supports notifications for private marketplace](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-marketplace-notifications-private-marketplace)
+- [Amazon Bedrock Model Evaluation now supports evaluating custom model import models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-custom-import-models/)
 - [Amazon DataZone introduces new designations in projects for members to perform specific tasks](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-datazone-designations-projects-perform-tasks)
 - [MemoryDB is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/memorydb-aws-govcloud-us-regions)
-- [Amazon QuickSight expands integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-quicksight-integration-eventbridge)
-- [Amazon Bedrock Model Evaluation now supports evaluating custom model import models](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-bedrock-model-evaluation-custom-import-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

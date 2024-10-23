@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF Bot and Fraud Control RuleGroup is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-waf-bot-fraud-control-rulegroup-additional-aws-regions)
 - [Amazon Connect now offers screen sharing](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-screen-sharing)
 - [Research and Engineering Studio on AWS Version 2024.10 now available](https://aws.amazon.com/about-aws/whats-new/2024/10/research-engineering-studio-aws-version-2024-10)
 - [AWS IAM Identity Center simplifies calls to AWS services with single identity context](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-iam-identity-center-simplifies-calls-services-single-identity-context)
@@ -67,7 +68,6 @@
 - [AWS Billing Conductor now supports RI and Savings Plans coverage and utilization reports](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-billing-conductor-ri-savings-plans-coverage-utilization-reports)
 - [EC2 Image Builder now supports Apple macOS](https://aws.amazon.com/about-aws/whats-new/2024/10/ec2-image-builder-apple-macos/)
 - [Amazon Connect launches iOS and Android Chat SDKs to support in-app chat experiences](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-ios-android-sdks-chat-experiences/)
-- [NVIDIA GPU Time-slicing Now Available for Bottlerocket to Enhance AI/ML Workload Efficiency](https://aws.amazon.com/about-aws/whats-new/2024/10/nvidia-gpu-time-slicing-bottlerocket-ai-ml-workload-efficiency)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

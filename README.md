@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now offers screen sharing](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-screen-sharing)
+- [Research and Engineering Studio on AWS Version 2024.10 now available](https://aws.amazon.com/about-aws/whats-new/2024/10/research-engineering-studio-aws-version-2024-10)
+- [AWS IAM Identity Center simplifies calls to AWS services with single identity context](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-iam-identity-center-simplifies-calls-services-single-identity-context)
+- [Amazon MWAA now simplifies interaction with the Airflow REST API](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-mwaa-simplifies-interaction-airflow-rest-api)
 - [Amazon Managed Service for Apache Flink now supports per second billing](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-managed-service-apache-flink-per-second-billing/)
 - [Amazon Timestream for LiveAnalytics introduces Query Insights](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-timestream-liveanalytics-introduces-query-insights)
 - [AWS Billing Conductor now supports RI and Savings Plans coverage and utilization reports](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-billing-conductor-ri-savings-plans-coverage-utilization-reports)
 - [EC2 Image Builder now supports Apple macOS](https://aws.amazon.com/about-aws/whats-new/2024/10/ec2-image-builder-apple-macos/)
-- [AWS Mainframe Modernization introduces new integrations for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-mainframe-modernization-integrations-managed-runtimes)
-- [Announcing the new Resiliency widget on myApplications](https://aws.amazon.com/about-aws/whats-new/2024/10/resiliency-widget-myapplications)
-- [Amazon EKS now supports Amazon Application Recovery Controller &lpar;ARC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-application-recovery-controller-arc)
-- [Amazon Redshift launches query profiler for enhanced query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-query-profiler-monitoring-diagnostics/)
-- [Anthropic’s upgraded Claude 3.5 Sonnet model and computer use now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/10/anthropics-claude-35-sonnet-model-computer-amazon-bedrock/)
-- [Amazon Aurora launches Global Database writer endpoint](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-global-database-writer-endpoint/)
+- [Amazon Connect launches iOS and Android Chat SDKs to support in-app chat experiences](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-ios-android-sdks-chat-experiences/)
+- [NVIDIA GPU Time-slicing Now Available for Bottlerocket to Enhance AI/ML Workload Efficiency](https://aws.amazon.com/about-aws/whats-new/2024/10/nvidia-gpu-time-slicing-bottlerocket-ai-ml-workload-efficiency)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

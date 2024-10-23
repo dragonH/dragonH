@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Billing Conductor now supports RI and Savings Plans coverage and utilization reports](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-billing-conductor-ri-savings-plans-coverage-utilization-reports)
 - [AWS Mainframe Modernization introduces new integrations for managed runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-mainframe-modernization-integrations-managed-runtimes)
 - [Announcing the new Resiliency widget on myApplications](https://aws.amazon.com/about-aws/whats-new/2024/10/resiliency-widget-myapplications)
 - [Amazon EKS now supports Amazon Application Recovery Controller &lpar;ARC&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-application-recovery-controller-arc)
@@ -67,7 +68,6 @@
 - [Amazon Application Recovery Controller zonal shift and zonal autoshift extends support for two new multi-AZ resources](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-arc-shift-zonal-autoshift-two-multi-az-resources/)
 - [Enhanced Monitoring for applications hosted on Amazon ECS via Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/10/enhanced-monitoring-applications-amazon-ecs-application-signals)
 - [Amazon EKS endpoints now support connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-eks-endpoints-connectivity-ipv6)
-- [Gain deeper insights into Amazon Q Business with new analytics and conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-business-analytics-conversation-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

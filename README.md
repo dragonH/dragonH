@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Firewall Manager now supports retrofitting of existing AWS WAF WebACLs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-firewall-manager-retrofitting-existing-waf-webacls)
 - [AWS now accepts partial card payments](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-accepts-partial-card-payments)
 - [Announcing increased quotas and improvements to CloudWatch Logs Anomaly Detection and Pattern Analysis](https://aws.amazon.com/about-aws/whats-new/2024/10/increased-quotas-improvements-cloudwatch-logs-anomaly-detection-pattern-analysis)
 - [Amazon Aurora Global Database support for tagging global clusters](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-global-database-tagging-global-clusters/)
+- [AWS Storage Gateway is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-storage-gateway-asia-pacific-malaysia-region/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.1](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-oracle-application-express)
 - [AWS Deadline Cloud now sends Job, Step, and Task related events](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-sends-job-step-task-events)
 - [AWS announces EFA update for scalability with AI/ML applications](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-efa-updates-scalability-ai-ml-applications/)
 - [AWS Lambda now supports using a custom serializer with Java runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-custom-serializer-java-runtimes/)
 - [Amazon SES now provides TLS Version for Outgoing Messages within AutoTags](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ses-tls-version-outgoing-messages-autotags)
-- [Amazon Redshift Serverless is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-aws-govcloud-regions)
-- [Announcing pro forma budgets integration for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2024/10/pro-forma-budgets-integration-aws-billing-conductor/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

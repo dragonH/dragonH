@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-r7gd-instances-additional-regions)
+- [AWS India customers can now setup automated recurring payments on their cards](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-india-customers-automated-recurring-payments)
+- [Amazon Connect now provides published forecast data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-published-forecast-analytics-data-lake)
+- [Amazon Location Service achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-fedramp-high-authorization)
+- [AWS Blu Age Runtime non managed now available in 11 more regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-blu-age-runtime-non-managed-more-regions)
 - [AWS Firewall Manager now supports retrofitting of existing AWS WAF WebACLs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-firewall-manager-retrofitting-existing-waf-webacls)
+- [Amazon Aurora Global Database support for tagging global clusters](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-global-database-tagging-global-clusters/)
 - [AWS now accepts partial card payments](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-accepts-partial-card-payments)
 - [Announcing increased quotas and improvements to CloudWatch Logs Anomaly Detection and Pattern Analysis](https://aws.amazon.com/about-aws/whats-new/2024/10/increased-quotas-improvements-cloudwatch-logs-anomaly-detection-pattern-analysis)
-- [Amazon Aurora Global Database support for tagging global clusters](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-global-database-tagging-global-clusters/)
 - [AWS Storage Gateway is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-storage-gateway-asia-pacific-malaysia-region/)
-- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.1](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-oracle-application-express)
-- [AWS Deadline Cloud now sends Job, Step, and Task related events](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-sends-job-step-task-events)
-- [AWS announces EFA update for scalability with AI/ML applications](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-efa-updates-scalability-ai-ml-applications/)
-- [AWS Lambda now supports using a custom serializer with Java runtimes](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-lambda-custom-serializer-java-runtimes/)
-- [Amazon SES now provides TLS Version for Outgoing Messages within AutoTags](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ses-tls-version-outgoing-messages-autotags)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

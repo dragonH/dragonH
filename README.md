@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-r7gd-instances-additional-regions)
 - [AWS India customers can now setup automated recurring payments on their cards](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-india-customers-automated-recurring-payments)
+- [Amazon EC2 R7gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-r7gd-instances-additional-regions)
+- [Meta’s Llama 3.1 8B and 70B models are now available for fine-tuning in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/10/metas-llama-31-8b-70b-models-fine-tuning-amazon-bedrock/)
 - [Amazon Connect now provides published forecast data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-connect-published-forecast-analytics-data-lake)
+- [New look for AWS Marketplace product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/10/new-look-aws-marketplace-product-detail-pages/)
 - [AWS Blu Age Runtime non managed now available in 11 more regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-blu-age-runtime-non-managed-more-regions)
 - [Amazon Location Service achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-fedramp-high-authorization)
 - [AWS Firewall Manager now supports retrofitting of existing AWS WAF WebACLs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-firewall-manager-retrofitting-existing-waf-webacls)
-- [Amazon Aurora Global Database support for tagging global clusters](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-global-database-tagging-global-clusters/)
 - [AWS now accepts partial card payments](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-accepts-partial-card-payments)
 - [Announcing increased quotas and improvements to CloudWatch Logs Anomaly Detection and Pattern Analysis](https://aws.amazon.com/about-aws/whats-new/2024/10/increased-quotas-improvements-cloudwatch-logs-anomaly-detection-pattern-analysis)
-- [AWS Storage Gateway is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-storage-gateway-asia-pacific-malaysia-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

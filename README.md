@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer announces support for inline chat to streamline the developer experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-developer-inline-chat-streamline-developer-experience)
 - [AWS Trust &amp; Safety Center is now available on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-trust-safety-center-re-post)
 - [VPC DNS Query Logging now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/vpc-dns-query-logging-asia-pacific-malaysia-region)
 - [AWS India customers can now setup automated recurring payments on their cards](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-india-customers-automated-recurring-payments)
@@ -67,7 +68,6 @@
 - [New look for AWS Marketplace product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/10/new-look-aws-marketplace-product-detail-pages/)
 - [AWS Blu Age Runtime non managed now available in 11 more regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-blu-age-runtime-non-managed-more-regions)
 - [Amazon Location Service achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-location-service-fedramp-high-authorization)
-- [AWS Firewall Manager now supports retrofitting of existing AWS WAF WebACLs](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-firewall-manager-retrofitting-existing-waf-webacls)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

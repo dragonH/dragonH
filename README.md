@@ -63,11 +63,11 @@
 - [Amazon Aurora supports rolling upgrades for Operating System upgrades](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-rolling-upgrades-operating-system/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-keyspaces-apache-cassandra-user-defined-types/)
 - [Three enhancements for SES Mail Manager to improve interoperability, security, and compliance](https://aws.amazon.com/about-aws/whats-new/2024/10/enhancements-ses-mail-manager-interoperability-security-compliance)
+- [AWS WAF is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-waf-asia-pacific-malaysia-region/)
 - [Amazon WorkMail now supports multi-factor authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workmail-multi-factor-authentication)
 - [AWS Glue Studio data preparation experience is available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-glue-studio-data-preparation-experience-additional-regions)
 - [Announcing general availability of auto-copy for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-auto-copy-amazon-redshift)
 - [AWS announces Amazon Redshift integration with Amazon Bedrock for generative AI](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-integration-bedrock-generative-ai)
-- [Amazon Redshift now supports incremental refresh on Materialized Views &lpar;MVs&rpar; for data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-incremental-refresh-mvs-data-lake-tables)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

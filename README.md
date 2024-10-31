@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-keyspaces-apache-cassandra-user-defined-types/)
+- [Amazon Aurora PostgreSQL Limitless Database is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-limitless-database-generally-available)
+- [Anthropic’s Claude 3.5 Sonnet and Claude 3 Haiku models are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/anthropics-claude-3-5-sonnet-claude-3-haiku-models-aws-govcloud-us-west-region)
 - [Amazon Aurora supports rolling upgrades for Operating System upgrades](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-rolling-upgrades-operating-system/)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-keyspaces-apache-cassandra-user-defined-types/)
+- [Three enhancements for SES Mail Manager to improve interoperability, security, and compliance](https://aws.amazon.com/about-aws/whats-new/2024/10/enhancements-ses-mail-manager-interoperability-security-compliance)
 - [Amazon WorkMail now supports multi-factor authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workmail-multi-factor-authentication)
 - [AWS Glue Studio data preparation experience is available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-glue-studio-data-preparation-experience-additional-regions)
 - [Announcing general availability of auto-copy for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-auto-copy-amazon-redshift)
 - [AWS announces Amazon Redshift integration with Amazon Bedrock for generative AI](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-integration-bedrock-generative-ai)
 - [Amazon Redshift now supports incremental refresh on Materialized Views &lpar;MVs&rpar; for data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-incremental-refresh-mvs-data-lake-tables)
-- [AWS Deadline Cloud now adds budget-related events](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-budget-related-events)
-- [Amazon EMR 7.3 now provides enhanced protection for In-Transit data](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-emr-7-3-enhanced-protection-in-transit-data)
-- [Announcing Amazon Redshift Serverless with AI-driven scaling and optimization](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-ai-driven-scaling-optimization)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

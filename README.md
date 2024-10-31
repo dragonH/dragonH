@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 Mac instances now support Apple macOS Sequoia](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-mac-instances-apple-macos-sequoia)
-- [AWS CodeBuild now supports retrying builds automatically](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-codebuild-retrying-builds-automatically)
-- [Amazon ElastiCache for Valkey adds new CloudWatch metrics to monitor server-side response time](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-elasticache-metrics-monitor-server-response-time/)
-- [Amazon MemoryDB for Valkey adds new CloudWatch metrics to monitor server-side response time](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-memorydb-valkey-cloudwatch-metrics-monitor-server-response-time/)
-- [Amazon OpenSearch Service now supports dedicated coordinator nodes](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-opensearch-service-dedicated-coordinator-nodes/)
-- [Amazon RDS now supports M7i and R7i database instances](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-rds-m7i-r7i-database-instances/)
-- [AWS Clean Rooms launches Spark SQL support with configurable compute size](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-clean-rooms-spark-sql-configurable-compute)
-- [Amazon Q Developer announces support for inline chat to streamline the developer experience](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-q-developer-inline-chat-streamline-developer-experience)
-- [AWS Trust &amp; Safety Center is now available on AWS re:Post](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-trust-safety-center-re-post)
-- [VPC DNS Query Logging now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/vpc-dns-query-logging-asia-pacific-malaysia-region)
+- [Amazon WorkMail now supports multi-factor authentication](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-workmail-multi-factor-authentication)
+- [AWS Glue Studio data preparation experience is available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-glue-studio-data-preparation-experience-additional-regions)
+- [Announcing general availability of auto-copy for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/10/general-availability-auto-copy-amazon-redshift)
+- [AWS announces Amazon Redshift integration with Amazon Bedrock for generative AI](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-integration-bedrock-generative-ai)
+- [Amazon Redshift now supports incremental refresh on Materialized Views &lpar;MVs&rpar; for data lake tables](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-incremental-refresh-mvs-data-lake-tables)
+- [AWS Deadline Cloud now adds budget-related events](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-deadline-cloud-budget-related-events)
+- [Amazon EMR 7.3 now provides enhanced protection for In-Transit data](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-emr-7-3-enhanced-protection-in-transit-data)
+- [Announcing Amazon Redshift Serverless with AI-driven scaling and optimization](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-redshift-serverless-ai-driven-scaling-optimization)
+- [Announcing AWS Amplify integration with Amazon S3 for static website hosting](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-amplify-amazon-s3-static-website-hosting)
+- [Amazon CloudWatch now monitors EBS volumes exceeding provisioned performance](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-cloudwatch-ebs-volumes-exceeding-performance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

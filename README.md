@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS Partner Central now supports dedicated Slack channels for collaboration on co-selling opportunities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-slack-channels-collaboration-co-selling/)
 - [Amazon RDS announces cross-region automated backups in Asia Pacific &lpar;Hyderabad&rpar; and Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cross-region-automated-backups-hyderbad-cape-town)
+- [Amazon RDS Performance Insights now supports Data API for Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-performance-insights-data-api-aurora-mysql/)
+- [Introducing Amazon EC2 M8g instances in Dallas Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-m8g-instances-dallas)
 - [Amazon EC2 Auto Scaling supports final validation time for instance refresh](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-auto-scaling-final-validation-time-instance-refresh)
 - [AWS announces UDP support for AWS PrivateLink and dual-stack Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-udp-privatelink-dual-stack-network-load-balancers)
 - [Amazon Aurora PostgreSQL Limitless Database is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-limitless-database-generally-available)
 - [Anthropic’s Claude 3.5 Sonnet and Claude 3 Haiku models are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/anthropics-claude-3-5-sonnet-claude-3-haiku-models-aws-govcloud-us-west-region)
 - [Three enhancements for SES Mail Manager to improve interoperability, security, and compliance](https://aws.amazon.com/about-aws/whats-new/2024/10/enhancements-ses-mail-manager-interoperability-security-compliance)
 - [AWS WAF is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-waf-asia-pacific-malaysia-region/)
-- [AWS enhances the Lambda application building experience with VS Code IDE and AWS Toolkit](https://aws.amazon.com/about-aws/whats-new/2024/10/lambda-application-building-vs-code-ide-aws-toolkit/)
-- [AWS Supply Chain now offers embedded Analytics powered by Amazon Quicksight](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-supply-chain-embedded-analytics-amazon-quicksight/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

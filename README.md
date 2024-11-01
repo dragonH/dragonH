@@ -62,12 +62,12 @@
 - [AWS announces UDP support for AWS PrivateLink and dual-stack Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-udp-privatelink-dual-stack-network-load-balancers)
 - [Amazon Aurora PostgreSQL Limitless Database is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-limitless-database-generally-available)
 - [Anthropic’s Claude 3.5 Sonnet and Claude 3 Haiku models are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/anthropics-claude-3-5-sonnet-claude-3-haiku-models-aws-govcloud-us-west-region)
-- [Amazon Aurora supports rolling upgrades for Operating System upgrades](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-rolling-upgrades-operating-system/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-keyspaces-apache-cassandra-user-defined-types/)
 - [Three enhancements for SES Mail Manager to improve interoperability, security, and compliance](https://aws.amazon.com/about-aws/whats-new/2024/10/enhancements-ses-mail-manager-interoperability-security-compliance)
 - [AWS WAF is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-waf-asia-pacific-malaysia-region/)
 - [AWS Supply Chain now offers embedded Analytics powered by Amazon Quicksight](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-supply-chain-embedded-analytics-amazon-quicksight/)
 - [AWS enhances the Lambda application building experience with VS Code IDE and AWS Toolkit](https://aws.amazon.com/about-aws/whats-new/2024/10/lambda-application-building-vs-code-ide-aws-toolkit/)
+- [Amazon Aurora supports rolling upgrades for Operating System upgrades](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-rolling-upgrades-operating-system/)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-keyspaces-apache-cassandra-user-defined-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

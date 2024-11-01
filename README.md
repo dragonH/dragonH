@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches support for callbacks when using Chats and Tasks](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-callbacks-chats-tasks)
 - [Amazon SageMaker Notebook Instances now support JupyterLab 4 notebooks](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-notebook-instances-jupyterlab-4-notebooks)
 - [Amazon Bedrock announces support for cost allocation tags on inference profiles](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-cost-allocation-tags-inference-profiles)
 - [Amazon WorkSpaces WSP enables desktop traffic over TCP/UDP port 443](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-workspaces-wsp-desktop-traffic-tcp-udp-port-443)
@@ -67,7 +68,6 @@
 - [Amazon RDS announces cross-region automated backups in Asia Pacific &lpar;Hyderabad&rpar; and Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cross-region-automated-backups-hyderbad-cape-town)
 - [Amazon RDS Performance Insights now supports Data API for Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-performance-insights-data-api-aurora-mysql/)
 - [Introducing Amazon EC2 M8g instances in Dallas Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-m8g-instances-dallas)
-- [Amazon EC2 Auto Scaling supports final validation time for instance refresh](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-auto-scaling-final-validation-time-instance-refresh)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

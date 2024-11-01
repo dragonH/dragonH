@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Partner Central now supports dedicated Slack channels for collaboration on co-selling opportunities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-slack-channels-collaboration-co-selling/)
+- [Amazon RDS announces cross-region automated backups in Asia Pacific &lpar;Hyderabad&rpar; and Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cross-region-automated-backups-hyderbad-cape-town)
 - [Amazon EC2 Auto Scaling supports final validation time for instance refresh](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-ec2-auto-scaling-final-validation-time-instance-refresh)
 - [AWS announces UDP support for AWS PrivateLink and dual-stack Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-udp-privatelink-dual-stack-network-load-balancers)
 - [Amazon Aurora PostgreSQL Limitless Database is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-postgresql-limitless-database-generally-available)
@@ -66,8 +68,6 @@
 - [AWS WAF is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-waf-asia-pacific-malaysia-region/)
 - [AWS enhances the Lambda application building experience with VS Code IDE and AWS Toolkit](https://aws.amazon.com/about-aws/whats-new/2024/10/lambda-application-building-vs-code-ide-aws-toolkit/)
 - [AWS Supply Chain now offers embedded Analytics powered by Amazon Quicksight](https://aws.amazon.com/about-aws/whats-new/2024/10/aws-supply-chain-embedded-analytics-amazon-quicksight/)
-- [Amazon Aurora supports rolling upgrades for Operating System upgrades](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-aurora-rolling-upgrades-operating-system/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types](https://aws.amazon.com/about-aws/whats-new/2024/10/amazon-keyspaces-apache-cassandra-user-defined-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

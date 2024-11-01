@@ -67,7 +67,7 @@
 - [AWS Partner Central now supports dedicated Slack channels for collaboration on co-selling opportunities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-slack-channels-collaboration-co-selling/)
 - [Amazon RDS announces cross-region automated backups in Asia Pacific &lpar;Hyderabad&rpar; and Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cross-region-automated-backups-hyderbad-cape-town)
 - [Amazon RDS Performance Insights now supports Data API for Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-performance-insights-data-api-aurora-mysql/)
-- [Introducing Amazon EC2 M8g instances in Dallas Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-m8g-instances-dallas)
+- [AWS announces CSV result format support for Amazon Redshift Data API](https://aws.amazon.com/about-aws/whats-new/2024/11/csv-result-format-amazon-redshift-data-api)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Anthropic’s Claude 3.5 Haiku model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/anthropics-claude-3-5-haiku-model-amazon-bedrock)
 - [Announcing enhanced support for medical imaging data with lossy compression](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-support-medical-imaging-data-lossy-compression)
 - [Amazon Q Business adds simplified setup and new web app experience](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience)
 - [Amazon SES adds inline template support to send email APIs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ses-inline-template-support-send-email-apis)
@@ -65,9 +66,8 @@
 - [Amazon SageMaker Notebook Instances now support JupyterLab 4 notebooks](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-notebook-instances-jupyterlab-4-notebooks)
 - [Amazon Bedrock announces support for cost allocation tags on inference profiles](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-cost-allocation-tags-inference-profiles)
 - [Amazon WorkSpaces WSP enables desktop traffic over TCP/UDP port 443](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-workspaces-wsp-desktop-traffic-tcp-udp-port-443)
-- [AWS Incident Detection and Response now available in 16 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-incident-detection-response-16-additional-aws-regions/)
-- [AWS announces new edge location in Qatar](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-announces-edge-location-qatar)
-- [AWS Partner Central now supports dedicated Slack channels for collaboration on co-selling opportunities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-slack-channels-collaboration-co-selling/)
+- [Amazon RDS announces cross-region automated backups in Asia Pacific &lpar;Hyderabad&rpar; and Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cross-region-automated-backups-hyderbad-cape-town)
+- [Amazon RDS Performance Insights now supports Data API for Aurora MySQL](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-performance-insights-data-api-aurora-mysql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

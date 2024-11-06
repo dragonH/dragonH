@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Well-Architected adds enhanced implementation guidance](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-well-architected-enhanced-implementation-guidance)
+- [Announcing an improved self-guided experience for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/improved-self-guided-experience-aws-partner-central)
 - [Amazon S3 Access Grants is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-canada-west-calgary-region)
 - [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-high-memory-instances-mumbai)
 - [Amazon Redshift Multi-AZ is generally available for RA3 clusters in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-az-ra3-clusters-additional-regions)
 - [Amazon DataZone Achieves HITRUST Certification](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-hitrust-certification/)
 - [Amazon S3 Access Grants now integrate with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-integrate-amazon-redshift/)
+- [AWS CodeBuild now supports additional compute types for reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-compute-types-reserved-capacity/)
 - [AWS Security Hub launches 7 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-security-hub-7-new-security-controls/)
 - [Anthropic’s Claude 3.5 Haiku model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/anthropics-claude-3-5-haiku-model-amazon-bedrock)
-- [Announcing enhanced support for medical imaging data with lossy compression](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-support-medical-imaging-data-lossy-compression)
-- [Amazon Q Business adds simplified setup and new web app experience](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-simplified-setup-web-app-experience)
-- [Amazon SES adds inline template support to send email APIs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ses-inline-template-support-send-email-apis)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

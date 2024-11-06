@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Data Firehose support for delivering data into Apache Iceberg tables is available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-support-data-apache-iceberg-tables-additional-regions)
 - [AWS Well-Architected adds enhanced implementation guidance](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-well-architected-enhanced-implementation-guidance)
 - [Announcing an improved self-guided experience for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/improved-self-guided-experience-aws-partner-central)
 - [Amazon S3 Access Grants is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-canada-west-calgary-region)
@@ -67,7 +68,6 @@
 - [Amazon S3 Access Grants now integrate with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-integrate-amazon-redshift/)
 - [AWS CodeBuild now supports additional compute types for reserved capacity](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-compute-types-reserved-capacity/)
 - [AWS Security Hub launches 7 new security controls](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-security-hub-7-new-security-controls/)
-- [Anthropic’s Claude 3.5 Haiku model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/anthropics-claude-3-5-haiku-model-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

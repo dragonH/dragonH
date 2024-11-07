@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now monitors EBS volumes exceeding provisioned performance](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-ebs-volumes-exceeding-performance/)
 - [Amazon Data Firehose support for delivering data into Apache Iceberg tables is available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-support-data-apache-iceberg-tables-additional-regions)
 - [AWS Well-Architected adds enhanced implementation guidance](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-well-architected-enhanced-implementation-guidance)
 - [Announcing an improved self-guided experience for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/improved-self-guided-experience-aws-partner-central)
@@ -67,7 +68,6 @@
 - [Amazon CloudFront no longer charges for requests blocked by AWS WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-charges-requests-blocked-aws-waf)
 - [Amazon DataZone Achieves HITRUST Certification](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-hitrust-certification/)
 - [AWS announces availability of Microsoft Windows Server 2025 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2024/11/microsoft-windows-server-2025-images-amazon-ec2/)
-- [Six new synthetic generative voices for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2024/11/six-new-synthetic-generative-voices-amazon-polly)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

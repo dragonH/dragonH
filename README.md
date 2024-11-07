@@ -67,7 +67,7 @@
 - [Amazon CloudFront no longer charges for requests blocked by AWS WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-charges-requests-blocked-aws-waf)
 - [Amazon DataZone Achieves HITRUST Certification](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-hitrust-certification/)
 - [AWS announces availability of Microsoft Windows Server 2025 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2024/11/microsoft-windows-server-2025-images-amazon-ec2/)
-- [Amazon S3 Access Grants now integrate with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-integrate-amazon-redshift/)
+- [Six new synthetic generative voices for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2024/11/six-new-synthetic-generative-voices-amazon-polly)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

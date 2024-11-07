@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda announces JSON logging support for .NET managed runtime](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-json-logging-net-managed-runtime)
 - [Configure Route53 CIDR blocks rules based on Internet Monitor suggestions](https://aws.amazon.com/about-aws/whats-new/2024/11/configure-route53-cidr-blocks-rules-based-internet-monitor-suggestions)
 - [Amazon Bedrock now available in the Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-europe-zurich-regions)
 - [Amazon OpenSearch Service launches next-gen UI for enhanced data exploration and collaboration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-next-gen-ui)
 - [Amazon SNS supports message archiving and replay for FIFO topics in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-message-archiving-replay-fifo-topics-govcloud/)
-- [Amazon OpenSearch Service announces Extended Support for engine versions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-support-engine-versions/)
+- [AWS Mainframe Modernization achieves FedRAMP Moderate and SOC compliance](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-mainframe-modernization-fedramp-moderate-soc-compliance/)
 - [AWS Clean Rooms ML supports privacy-enhanced model training and inference](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-clean-rooms-ml-privacy-enhanced-model-training-inferencing)
+- [Amazon OpenSearch Service announces Extended Support for engine versions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-support-engine-versions/)
 - [Amazon EC2 High Memory instances now available in South America &lpar;Sao Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-high-memory-instances-sao-paulo-region/)
 - [Express brokers for Amazon MSK is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/express-brokers-amazon-msk-generally-available/)
-- [Amazon RDS for SQL Server supports minor versions in October 2024](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-sql-server-minor-versions-october-2024)
-- [Amazon Verified Permissions launches new API to get multiple policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-verified-permissions-api-multiple-policies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

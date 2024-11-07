@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Configure Route53 CIDR blocks rules based on Internet Monitor suggestions](https://aws.amazon.com/about-aws/whats-new/2024/11/configure-route53-cidr-blocks-rules-based-internet-monitor-suggestions)
+- [Amazon Bedrock now available in the Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-europe-zurich-regions)
+- [Amazon OpenSearch Service launches next-gen UI for enhanced data exploration and collaboration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-next-gen-ui)
+- [AWS Clean Rooms ML supports privacy-enhanced model training and inferencing](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-clean-rooms-ml-privacy-enhanced-model-training-inferencing)
+- [Amazon EC2 High Memory instances now available in South America &lpar;Sao Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-high-memory-instances-sao-paulo-region/)
+- [Express brokers for Amazon MSK is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/express-brokers-amazon-msk-generally-available/)
+- [Amazon RDS for SQL Server supports minor versions in October 2024](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-sql-server-minor-versions-october-2024)
+- [Amazon RDS for Oracle now supports October 2024 Release Update](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-oracle-october-2024-update)
 - [Amazon Data Firehose support for delivering data into Apache Iceberg tables is available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-support-data-apache-iceberg-tables-additional-regions)
 - [AWS Well-Architected adds enhanced implementation guidance](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-well-architected-enhanced-implementation-guidance)
-- [Announcing an improved self-guided experience for AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/improved-self-guided-experience-aws-partner-central)
-- [Amazon Redshift Multi-AZ is generally available for RA3 clusters in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-az-ra3-clusters-additional-regions)
-- [Amazon EC2 High Memory instances now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-high-memory-instances-mumbai)
-- [Amazon S3 Access Grants is now available in the AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-canada-west-calgary-region)
-- [Amazon CloudFront no longer charges for requests blocked by AWS WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-charges-requests-blocked-aws-waf)
-- [Amazon DataZone Achieves HITRUST Certification](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-hitrust-certification/)
-- [AWS announces availability of Microsoft Windows Server 2025 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2024/11/microsoft-windows-server-2025-images-amazon-ec2/)
-- [Amazon S3 Access Grants now integrate with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-access-grants-integrate-amazon-redshift/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

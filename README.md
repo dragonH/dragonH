@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon DataZone now supports meaning-based Semantic search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-meaning-based-semantic-search)
+- [Amazon SNS delivers to Amazon Data Firehose endpoints in six new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-delivers-data-firehose-endpoints-new-regions/)
 - [AWS IAM now supports PrivateLink in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iam-privatelink-govcloud-us-regions)
 - [AWS CodePipeline open source starter templates for simplified getting started experience](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-open-source-templates-simplified-experience)
 - [Amazon QuickSight now supports Client Credentials OAuth for Snowflake through API/CLI](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-client-credentials-oauth-snowflake-api-cli)
+- [Amazon SNS delivers to Amazon Data Firehose endpoints in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-data-firehose-endpoints-govcloud/)
 - [Amazon DataZone updates pricing and removes the user-level subscription fee](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-pricing-removes-user-subscription-fee/)
 - [Amazon Redshift Serverless higher base capacity of 1024 RPUs is now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-serverless-higher-capacity-1024-rpus/)
 - [Amazon QuickSight now supports Client Credentials OAuth for Starburst through API/CLI](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-client-credentials-oauth-starburst-api-cli/)
 - [Amazon Location Service launches Enhanced Places, Routes, and Maps](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-location-service-enhanced-places-routes-maps/)
-- [AWS introduces service versioning and deployment history for Amazon ECS services](https://aws.amazon.com/about-aws/whats-new/2024/11/service-versioning-deployment-history-amazon-ecs-services)
-- [AWS Lambda announces JSON logging support for .NET managed runtime](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-json-logging-net-managed-runtime)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

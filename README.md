@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DataZone now supports meaning-based Semantic search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-meaning-based-semantic-search)
+- [AWS CodePipeline open source starter templates for simplified getting started experience](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-open-source-templates-simplified-experience)
+- [AWS IAM now supports PrivateLink in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iam-privatelink-govcloud-us-regions)
+- [Amazon DataZone updates pricing and removes the user-level subscription fee](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-pricing-removes-user-subscription-fee/)
+- [Amazon Location Service launches Enhanced Places, Routes, and Maps](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-location-service-enhanced-places-routes-maps/)
 - [AWS introduces service versioning and deployment history for Amazon ECS services](https://aws.amazon.com/about-aws/whats-new/2024/11/service-versioning-deployment-history-amazon-ecs-services)
 - [AWS Lambda announces JSON logging support for .NET managed runtime](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-json-logging-net-managed-runtime)
 - [AWS Mainframe Modernization achieves FedRAMP Moderate and SOC compliance](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-mainframe-modernization-fedramp-moderate-soc-compliance/)
 - [Amazon Bedrock Prompt Management is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-prompt-management-available/)
 - [Configure Route53 CIDR blocks rules based on Internet Monitor suggestions](https://aws.amazon.com/about-aws/whats-new/2024/11/configure-route53-cidr-blocks-rules-based-internet-monitor-suggestions)
-- [Amazon Bedrock now available in the Europe &lpar;Zurich&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-europe-zurich-regions)
-- [Amazon OpenSearch Service launches next-gen UI for enhanced data exploration and collaboration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-next-gen-ui)
-- [Amazon SNS supports message archiving and replay for FIFO topics in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-message-archiving-replay-fifo-topics-govcloud/)
-- [AWS Clean Rooms ML supports privacy-enhanced model training and inference](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-clean-rooms-ml-privacy-enhanced-model-training-inferencing)
-- [Amazon OpenSearch Service announces Extended Support for engine versions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-support-engine-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

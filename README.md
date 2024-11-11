@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Kinesis Data Streams launches CloudFormation support for resource policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-kinesis-data-streams-cloudformation-resource-policies)
+- [AWS IAM Identity Center now supports search by permission set name](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iam-identity-center-search-permission-name)
 - [AWS CloudTrail Lake announces enhanced event filtering](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloudtrail-lake-enhanced-event-filtering)
 - [AWS Lambda supports Customer Managed Key &lpar;CMK&rpar; encryption for Zip function code artifacts](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-cmk-encryption-zip-function-code-artifacts/)
 - [Network connections is now discoverable with AWS Application Discovery Service Agentless Collector](https://aws.amazon.com/about-aws/whats-new/2024/11/network-connections-aws-application-discovery-service-agentless-collector)
@@ -67,7 +68,6 @@
 - [AWS Firewall Manager is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-firewall-manager-asia-pacific-malaysia-region/)
 - [AWS IAM now supports PrivateLink in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iam-privatelink-govcloud-us-regions)
 - [AWS CodePipeline open source starter templates for simplified getting started experience](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codepipeline-open-source-templates-simplified-experience)
-- [Amazon SNS delivers to Amazon Data Firehose endpoints in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sns-data-firehose-endpoints-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

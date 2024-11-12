@@ -67,7 +67,7 @@
 - [Amazon Q Developer Pro tier adds enhanced administrator capabilities to view user activity](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-pro-administrator-capabilities-user-activity/)
 - [Amazon OpenSearch Ingestion adds support for ingesting data from Amazon Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-amazon-kinesis-data-streams)
 - [Amazon Kinesis Data Streams launches CloudFormation support for resource policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-kinesis-data-streams-cloudformation-resource-policies)
-- [AWS IAM Identity Center now supports search by permission set name](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iam-identity-center-search-permission-name)
+- [Get x-ray vision into AWS CloudFormation deployments with a timeline view](https://aws.amazon.com/about-aws/whats-new/2024/11/x-ray-vision-cloudformation-deployments-timeline-view/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

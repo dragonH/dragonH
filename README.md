@@ -61,12 +61,12 @@
 - [Amazon DynamoDB announces user experience enhancements to organize your tables in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamodb-user-experience-enhancements-aws-govcloud-regions)
 - [Amazon Managed Service for Apache Flink now supports Amazon DynamoDB Streams as a source](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source)
 - [Amazon Neptune Serverless is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-neptune-serverless-six-aws-regions)
+- [Announcing financing program for AWS Marketplace purchases for select US customers](https://aws.amazon.com/about-aws/whats-new/2024/11/financing-program-aws-marketplace-purchases-us-customers/)
+- [Amazon EBS now supports detailed performance statistics on EBS volume health](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ebs-performance-statistics-ebs-volume-health/)
 - [Amazon SageMaker Model Registry now supports defining machine learning model lifecycle stages](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-model-registry-defining-machine-learning-lifecycle-stages)
 - [Amazon EC2 Capacity Blocks expands to new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-capacity-blocks-new-regions)
 - [AWS CodeBuild now supports Windows Docker builds in reserved capacity fleets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-codebuild-windows-docker-reserved-capacity-fleets)
 - [Amazon Managed Service for Apache Flink is now available in Asia Pacific &lpar;Kuala Lumpur&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kuala-lumpur-region/)
-- [Announcing financing program for AWS Marketplace purchases for select US customers](https://aws.amazon.com/about-aws/whats-new/2024/11/financing-program-aws-marketplace-purchases-us-customers/)
-- [Amazon EBS now supports detailed performance statistics on EBS volume health](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ebs-performance-statistics-ebs-volume-health/)
 - [Amazon EventBridge announces up to 94% improvement in end-to-end latency for Event Buses](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eventbridge-improvement-latency-event-buses/)
 <!-- AWS-NEWS:END -->
 

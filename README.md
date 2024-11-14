@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 now supports up to 1 million buckets per AWS account](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account)
+- [Amazon QuickSight launches self serve Brand Customization](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-self-serve-brand-customization)
 - [Amazon IVS introduces Multitrack Video to save input costs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ivs-multitrack-video-save-input-costs)
 - [AWS Partner Central  now provides API for Selling with AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-api-selling)
 - [AWS Backup now supports Amazon Neptune in three new Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-neptune-new-regions)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; reduces prices by up to 75%](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent)
 - [Amazon DynamoDB reduces prices for on-demand throughput and global tables](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables)
-- [Customers can now make payments using SEPA accounts in Five EU countries](https://aws.amazon.com/about-aws/whats-new/2024/11/payments-using-sepa-accounts-five-countries)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.17](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-opensearch-version-2-17)
-- [AWS Glue is now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-asia-pacific-malaysia/)
-- [Amazon OpenSearch Service adds supports for two new third party plugins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-new-third-party-plugins)
-- [Three new Long-Form Voices](https://aws.amazon.com/about-aws/whats-new/2024/11/three-long-form-voices/)
+- [Customers can now make payments using SEPA accounts in Five EU countries](https://aws.amazon.com/about-aws/whats-new/2024/11/payments-using-sepa-accounts-five-countries)
+- [Customize scope of IAM Access Analyzer unused access analysis](https://aws.amazon.com/about-aws/whats-new/2024/11/customize-scope-iam-access-analyzer-unused-access-analysis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

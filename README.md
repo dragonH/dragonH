@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports Amazon Neptune in three new Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-neptune-new-regions)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; reduces prices by up to 75%](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent)
+- [Amazon DynamoDB reduces prices for on-demand throughput and global tables](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables)
+- [Customers can now make payments using SEPA accounts in Five EU countries](https://aws.amazon.com/about-aws/whats-new/2024/11/payments-using-sepa-accounts-five-countries)
+- [Amazon OpenSearch Service now supports OpenSearch version 2.17](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-opensearch-version-2-17)
+- [Amazon OpenSearch Service adds supports for two new third party plugins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-new-third-party-plugins)
+- [Three new Long-Form Voices](https://aws.amazon.com/about-aws/whats-new/2024/11/three-long-form-voices/)
+- [Amazon Q Developer plugins for Datadog and Wiz now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-plugins-datadog-wiz-services)
+- [AWS Lambda adds support for Python 3.13](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-support-python-313)
 - [AWS CloudTrail Lake enhances log analysis with AI-powered features](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloudtrail-lake-log-analysis-ai-powered-features)
-- [AWS SDK now supports ListBillingViewsAPI for AWS Billing Conductor users](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-sdk-listbillingviewsapi-billing-conductor-users)
-- [Amazon OpenSearch Service now supports 4th generation Intel &lpar;C7i, M7i, R7i&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-supports-4th-generation-intel-c7i-m7i-r7i-instances)
-- [AWS B2B Data Interchange introduces generative AI-assisted EDI mappings](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b2b-data-interchange-generative-ai-assisted-edi-mappings)
-- [AWS Client VPN now supports the latest Ubuntu OS versions - 22.04 LTS and 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-client-vpn-supports-latest-ubuntu-os-versions/)
-- [Amazon GameLift adds containers for faster dev iteration and simplified management](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-gamelift-containers-dev-iteration-management/)
-- [Application Signals now supports burn rate for application performance goals](https://aws.amazon.com/about-aws/whats-new/2024/11/application-signals-burn-rate-application-performance-goals)
-- [Introducing resource control policies &lpar;RCPs&rpar; to centrally restrict access to AWS resources](https://aws.amazon.com/about-aws/whats-new/2024/11/resource-control-policies-restrict-access-aws-resources/)
-- [Amazon DynamoDB introduces warm throughput for tables and indexes](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamodb-warm-throughput-ondemand-provisioned-tables)
-- [SageMaker Model Registry now supports model lineage to improve model governance](https://aws.amazon.com/about-aws/whats-new/2024/11/sagemaker-model-registry-model-lineage-governance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

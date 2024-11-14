@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudTrail Lake enhances log analysis with AI-powered features](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloudtrail-lake-log-analysis-ai-powered-features)
+- [AWS SDK now supports ListBillingViewsAPI for AWS Billing Conductor users](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-sdk-listbillingviewsapi-billing-conductor-users)
+- [Amazon OpenSearch Service now supports 4th generation Intel &lpar;C7i, M7i, R7i&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-supports-4th-generation-intel-c7i-m7i-r7i-instances)
+- [AWS B2B Data Interchange introduces generative AI-assisted EDI mappings](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b2b-data-interchange-generative-ai-assisted-edi-mappings)
 - [AWS Client VPN now supports the latest Ubuntu OS versions - 22.04 LTS and 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-client-vpn-supports-latest-ubuntu-os-versions/)
-- [AWS Control Tower launches the ability to resolve drift for optional controls](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-resolve-drift-optional-controls/)
-- [Amazon EC2 Mac instances now available in AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-mac-instances-aws-canada-central-region)
-- [AWS Directory Service is available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-directory-service-asia-pacific-malaysia-region/)
-- [Amazon Timestream for InfluxDB is now available in China regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-timestream-influxdb-china-regions)
-- [Amazon DynamoDB announces user experience enhancements to organize your tables in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamodb-user-experience-enhancements-aws-govcloud-regions)
-- [Amazon Managed Service for Apache Flink now supports Amazon DynamoDB Streams as a source](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-dynamodb-streams-source)
-- [Amazon Neptune Serverless is now available in 6 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-neptune-serverless-six-aws-regions)
-- [Amazon EC2 Capacity Blocks expands to new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-capacity-blocks-new-regions)
-- [Amazon SageMaker Model Registry now supports defining machine learning model lifecycle stages](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-model-registry-defining-machine-learning-lifecycle-stages)
+- [Amazon GameLift adds containers for faster dev iteration and simplified management](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-gamelift-containers-dev-iteration-management/)
+- [Application Signals now supports burn rate for application performance goals](https://aws.amazon.com/about-aws/whats-new/2024/11/application-signals-burn-rate-application-performance-goals)
+- [Introducing resource control policies &lpar;RCPs&rpar; to centrally restrict access to AWS resources](https://aws.amazon.com/about-aws/whats-new/2024/11/resource-control-policies-restrict-access-aws-resources/)
+- [Amazon DynamoDB introduces warm throughput for tables and indexes](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamodb-warm-throughput-ondemand-provisioned-tables)
+- [SageMaker Model Registry now supports model lineage to improve model governance](https://aws.amazon.com/about-aws/whats-new/2024/11/sagemaker-model-registry-model-lineage-governance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

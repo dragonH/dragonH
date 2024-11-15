@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now provides new set up experience for Amazon DataZone projects](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-set-up-experience-amazon-datazone-projects)
+- [Centrally manage root access in AWS Identity and Access Management &lpar;IAM&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/manage-root-access-aws-identity-access-management/)
+- [Split cost allocation data for Amazon EKS now supports metrics from Amazon CloudWatch Container Insights](https://aws.amazon.com/about-aws/whats-new/2024/11/split-cost-allocation-data-amazon-eks-metrics-amazon-cloudwatch-container-insights)
+- [AWS Backup now supports resource type and multiple tag selections in backup policies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-resource-type-multiple-tag-backup-policies)
+- [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6-instances-aws-govcloud-us-west-region)
 - [Amazon S3 now supports up to 1 million buckets per AWS account](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account)
 - [Amazon QuickSight launches self serve Brand Customization](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-self-serve-brand-customization)
 - [Amazon IVS introduces Multitrack Video to save input costs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ivs-multitrack-video-save-input-costs)
 - [AWS Partner Central  now provides API for Selling with AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-api-selling)
 - [AWS Backup now supports Amazon Neptune in three new Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-neptune-new-regions)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; reduces prices by up to 75%](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-reduces-prices-75-percent)
-- [Amazon DynamoDB reduces prices for on-demand throughput and global tables](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamo-db-reduces-prices-on-demand-throughput-global-tables)
-- [Amazon OpenSearch Service now supports OpenSearch version 2.17](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-opensearch-version-2-17)
-- [Customers can now make payments using SEPA accounts in Five EU countries](https://aws.amazon.com/about-aws/whats-new/2024/11/payments-using-sepa-accounts-five-countries)
-- [AWS launches user-based subscription of Microsoft Remote Desktop Services](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-user-based-subscription-microsoft-remote-desktop-services/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

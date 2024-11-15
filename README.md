@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Amazon Route 53 Resolver DNS Firewall Advanced](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-route-53-resolver-dns-firewall-advanced)
+- [Amazon Time Sync Service supports Microsecond-Accurate Time in Stockholm Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-time-sync-service-microsecond-accurate-time-stockholm-region)
+- [AWS Organizations member accounts can now regain access to accidentally locked Amazon S3 buckets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-organizations-member-accounts-access-locked-amazon-3-buckets)
 - [Amazon SageMaker now provides new set up experience for Amazon DataZone projects](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-set-up-experience-amazon-datazone-projects)
 - [Centrally manage root access in AWS Identity and Access Management &lpar;IAM&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/manage-root-access-aws-identity-access-management/)
 - [Split cost allocation data for Amazon EKS now supports metrics from Amazon CloudWatch Container Insights](https://aws.amazon.com/about-aws/whats-new/2024/11/split-cost-allocation-data-amazon-eks-metrics-amazon-cloudwatch-container-insights)
-- [AWS Backup now supports resource type and multiple tag selections in backup policies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-resource-type-multiple-tag-backup-policies)
-- [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6-instances-aws-govcloud-us-west-region)
-- [Amazon S3 now supports up to 1 million buckets per AWS account](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account)
-- [Amazon QuickSight launches self serve Brand Customization](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-self-serve-brand-customization)
-- [Amazon IVS introduces Multitrack Video to save input costs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ivs-multitrack-video-save-input-costs)
-- [AWS Partner Central  now provides API for Selling with AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-central-api-selling)
-- [AWS Backup now supports Amazon Neptune in three new Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-neptune-new-regions)
+- [AWS Partner CRM Connector Adds Partner Central API Support](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-crm-connector-partner-central-api-support/)
+- [AWS Control Tower launches configurable managed controls implemented using resource control policies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-configurable-resource-control-policies)
+- [Amazon EventBridge event delivery latency metric now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eventbridge-event-delivery-latency-metric-govcloud/)
+- [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-transfer-family-available-malaysia-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

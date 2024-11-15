@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Notebook Instances now support Trainium1 and Inferentia 2 based instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-notebook-instances-trainium1-inferentia-2-based-instances)
 - [AWS Application Load Balancer announces CloudFront integration with built-in WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-cloudfront-integration-builtin-waf)
 - [AWS IoT Core adds capabilities to enrich MQTT messages and simplify permission management](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-core-capabilities-mqtt-messages-simplify-permission-management)
 - [Amazon CloudWatch launches Observability Solutions for AWS Services and Workloads on AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-observability-solutions-aws-services-workloads)
@@ -67,7 +68,6 @@
 - [AWS Organizations member accounts can now regain access to accidentally locked Amazon S3 buckets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-organizations-member-accounts-access-locked-amazon-3-buckets)
 - [AWS Partner CRM Connector Adds Partner Central API Support](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-crm-connector-partner-central-api-support/)
 - [Amazon SageMaker now provides new set up experience for Amazon DataZone projects](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-set-up-experience-amazon-datazone-projects)
-- [Centrally manage root access in AWS Identity and Access Management &lpar;IAM&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/manage-root-access-aws-identity-access-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

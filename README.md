@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Load Balancer announces CloudFront integration with built-in WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-cloudfront-integration-builtin-waf)
+- [AWS IoT Core adds capabilities to enrich MQTT messages and simplify permission management](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-core-capabilities-mqtt-messages-simplify-permission-management)
+- [Amazon CloudWatch launches Observability Solutions for AWS Services and Workloads on AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-observability-solutions-aws-services-workloads)
+- [Amazon Data Firehose supports continuous replication of database changes to Apache Iceberg Tables in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-continuous-replication-database-changes-apache-iceberg-tables-s3)
 - [Introducing Amazon Route 53 Resolver DNS Firewall Advanced](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-route-53-resolver-dns-firewall-advanced)
 - [Amazon Time Sync Service supports Microsecond-Accurate Time in Stockholm Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-time-sync-service-microsecond-accurate-time-stockholm-region)
 - [AWS Organizations member accounts can now regain access to accidentally locked Amazon S3 buckets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-organizations-member-accounts-access-locked-amazon-3-buckets)
+- [AWS Partner CRM Connector Adds Partner Central API Support](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-crm-connector-partner-central-api-support/)
 - [Amazon SageMaker now provides new set up experience for Amazon DataZone projects](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-set-up-experience-amazon-datazone-projects)
 - [Centrally manage root access in AWS Identity and Access Management &lpar;IAM&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/manage-root-access-aws-identity-access-management/)
-- [Split cost allocation data for Amazon EKS now supports metrics from Amazon CloudWatch Container Insights](https://aws.amazon.com/about-aws/whats-new/2024/11/split-cost-allocation-data-amazon-eks-metrics-amazon-cloudwatch-container-insights)
-- [AWS Partner CRM Connector Adds Partner Central API Support](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-crm-connector-partner-central-api-support/)
-- [AWS Control Tower launches configurable managed controls implemented using resource control policies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-configurable-resource-control-policies)
-- [Amazon EventBridge event delivery latency metric now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eventbridge-event-delivery-latency-metric-govcloud/)
-- [AWS Transfer Family is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-transfer-family-available-malaysia-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

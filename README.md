@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Q Developer in the AWS Management Console now uses the service you’re viewing as context for your chat](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-aws-management-console-service-viewing-context-chat)
+- [Easily troubleshoot NodeJS applications with Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/11/troubleshoot-nodejs-applications-amazon-cloudwatch-application-signals)
+- [Amazon Q generative SQL in Amazon Redshift Query Editor now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-generative-sql-redshift-query-editor-aws-regions/)
+- [Self-service capacity management for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-capacity-management-aws-outposts/)
+- [AWS End User Messaging announces cost allocation tags for SMS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-cost-allocation-tags-for-sms/)
 - [Announcing Amazon CloudWatch Metrics support in AWS End User Messaging](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-end-user-messaging/)
+- [AWS End User Messaging introduces phone number block/allow rules](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-phone-number-block-allow-rules)
+- [AWS End User Messaging launches message feedback tracking](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-feedback-tracking/)
+- [Amazon Q Developer in the AWS Management Console now uses the service you’re viewing as context for your chat](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-aws-management-console-service-viewing-context-chat)
 - [AWS Batch now supports multiple EC2 Launch Templates per Compute Environment](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-batch-multiple-ec2-launch-templates-compute-environment)
-- [Amazon SageMaker Notebook Instances now support Trainium1 and Inferentia 2 based instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-notebook-instances-trainium1-inferentia-2-based-instances)
-- [AWS Application Load Balancer announces CloudFront integration with built-in WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-cloudfront-integration-builtin-waf)
-- [AWS IoT Core adds capabilities to enrich MQTT messages and simplify permission management](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-core-capabilities-mqtt-messages-simplify-permission-management)
-- [Amazon CloudWatch launches Observability Solutions for AWS Services and Workloads on AWS](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-observability-solutions-aws-services-workloads)
-- [Amazon Data Firehose supports continuous replication of database changes to Apache Iceberg Tables in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-continuous-replication-database-changes-apache-iceberg-tables-s3)
-- [Introducing Amazon Route 53 Resolver DNS Firewall Advanced](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-route-53-resolver-dns-firewall-advanced)
-- [Amazon Time Sync Service supports Microsecond-Accurate Time in Stockholm Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-time-sync-service-microsecond-accurate-time-stockholm-region)
+- [Amazon Connect offers new personalized and proactive engagement capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-personalized-proactive-engagement-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

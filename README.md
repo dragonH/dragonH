@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing business planning feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/business-planning-feature-aws-partner-central)
 - [Easily troubleshoot NodeJS applications with Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/11/troubleshoot-nodejs-applications-amazon-cloudwatch-application-signals)
 - [Amazon Q generative SQL in Amazon Redshift Query Editor now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-generative-sql-redshift-query-editor-aws-regions/)
 - [Self-service capacity management for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-capacity-management-aws-outposts/)
@@ -67,7 +68,6 @@
 - [AWS End User Messaging launches message feedback tracking](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-feedback-tracking/)
 - [Amazon Q Developer in the AWS Management Console now uses the service you’re viewing as context for your chat](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-aws-management-console-service-viewing-context-chat)
 - [AWS Batch now supports multiple EC2 Launch Templates per Compute Environment](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-batch-multiple-ec2-launch-templates-compute-environment)
-- [Amazon Connect offers new personalized and proactive engagement capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-personalized-proactive-engagement-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

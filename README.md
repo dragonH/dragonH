@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer in the AWS Management Console now uses the service you’re viewing as context for your chat](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-aws-management-console-service-viewing-context-chat)
+- [Announcing Amazon CloudWatch Metrics support in AWS End User Messaging](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-end-user-messaging/)
+- [AWS Batch now supports multiple EC2 Launch Templates per Compute Environment](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-batch-multiple-ec2-launch-templates-compute-environment)
 - [Amazon SageMaker Notebook Instances now support Trainium1 and Inferentia 2 based instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-notebook-instances-trainium1-inferentia-2-based-instances)
 - [AWS Application Load Balancer announces CloudFront integration with built-in WAF](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-cloudfront-integration-builtin-waf)
 - [AWS IoT Core adds capabilities to enrich MQTT messages and simplify permission management](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-core-capabilities-mqtt-messages-simplify-permission-management)
@@ -65,9 +68,6 @@
 - [Amazon Data Firehose supports continuous replication of database changes to Apache Iceberg Tables in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-data-firehose-continuous-replication-database-changes-apache-iceberg-tables-s3)
 - [Introducing Amazon Route 53 Resolver DNS Firewall Advanced](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-route-53-resolver-dns-firewall-advanced)
 - [Amazon Time Sync Service supports Microsecond-Accurate Time in Stockholm Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-time-sync-service-microsecond-accurate-time-stockholm-region)
-- [AWS Organizations member accounts can now regain access to accidentally locked Amazon S3 buckets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-organizations-member-accounts-access-locked-amazon-3-buckets)
-- [AWS Partner CRM Connector Adds Partner Central API Support](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-partner-crm-connector-partner-central-api-support/)
-- [Amazon SageMaker now provides new set up experience for Amazon DataZone projects](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-set-up-experience-amazon-datazone-projects)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

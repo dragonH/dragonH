@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X2iezn instances are now available in additional AWS region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-x2iezn-instances-additional-aws-region)
 - [AWS IoT SiteWise announces new generative AI-powered industrial assistant](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-sitewise-generative-ai-powered-industrial-assistant)
 - [Amazon EKS simplifies providing IAM permissions to EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eks-iam-permissions-eks-add-ons)
 - [Amazon Aurora MySQL 3.08 &lpar;compatible with MySQL 8.0.39&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-mysql-3-08-compatible-8-0-39-generally-available)
@@ -67,7 +68,6 @@
 - [Announcing business planning feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/business-planning-feature-aws-partner-central)
 - [Easily troubleshoot NodeJS applications with Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/11/troubleshoot-nodejs-applications-amazon-cloudwatch-application-signals)
 - [Amazon Q generative SQL in Amazon Redshift Query Editor now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-generative-sql-redshift-query-editor-aws-regions/)
-- [Self-service capacity management for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-capacity-management-aws-outposts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

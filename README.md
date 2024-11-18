@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT SiteWise announces new generative AI-powered industrial assistant](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-sitewise-generative-ai-powered-industrial-assistant)
+- [Amazon EKS simplifies providing IAM permissions to EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eks-iam-permissions-eks-add-ons)
+- [Amazon Aurora MySQL 3.08 &lpar;compatible with MySQL 8.0.39&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-mysql-3-08-compatible-8-0-39-generally-available)
+- [AWS Chatbot adds support for chatting about AWS resources with Amazon Q Developer in Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-chatbot-chatting-amazon-q-developer-microsoft-teams-slack)
+- [Amazon DynamoDB announces general availability of attribute-based access control](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-dynamodb-general-availability-attribute-based-access-control)
 - [AWS Controllers for Kubernetes for AWS Private CA now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-controllers-kubernetes-aws-private-ca)
 - [Announcing business planning feature in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/11/business-planning-feature-aws-partner-central)
 - [Easily troubleshoot NodeJS applications with Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2024/11/troubleshoot-nodejs-applications-amazon-cloudwatch-application-signals)
-- [AWS End User Messaging announces cost allocation tags for SMS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-end-user-messaging-cost-allocation-tags-for-sms/)
 - [Amazon Q generative SQL in Amazon Redshift Query Editor now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-generative-sql-redshift-query-editor-aws-regions/)
 - [Self-service capacity management for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-capacity-management-aws-outposts/)
-- [Amazon Connect offers new personalized and proactive engagement capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-personalized-proactive-engagement-capabilities)
-- [Amazon Q Developer in the AWS Management Console now uses the service you’re viewing as context for your chat](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-aws-management-console-service-viewing-context-chat)
-- [AWS End User Messaging announces integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2024/11/end-user-messaging-integration-amazon-eventbridge/)
-- [Announcing Amazon CloudWatch Metrics support in AWS End User Messaging](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-end-user-messaging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

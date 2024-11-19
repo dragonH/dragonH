@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync GraphQL APIs now support data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-graphql-apis-data-plane-logging-cloudtrail)
 - [Amazon OpenSearch Serverless now supports point in time &lpar;PIT&rpar; search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-pit-search)
 - [Introducing Binary Embeddings for Titan Text Embeddings model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/binary-embeddings-titan-text-embeddings-model-amazon-bedrock)
 - [AWS support case management is now available in AWS Chatbot for Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-support-case-management-aws-chatbot-microsoft-teams-slack)
 - [Amazon EFS now supports cross-account Replication](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-efs-cross-account-replication/)
-- [Amazon OpenSearch Service now scales to 1000 data nodes on a single cluster](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-scales-1000-nodes-cluster)
 - [Amazon EKS enhances Kubernetes control plane monitoring](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eks-kubernetes-control-plane-monitoring)
+- [Amazon OpenSearch Service now scales to 1000 data nodes on a single cluster](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-scales-1000-nodes-cluster)
 - [AWS Amplify launches the full-stack AI kit for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-amplify-full-stack-ai-kit-amazon-bedrock)
 - [Amazon OpenSearch Serverless now supports Binary Vector and FP16 cost savings features](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-binary-vector-cost-savings)
 - [Amazon EC2 X2iezn instances are now available in additional AWS region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-x2iezn-instances-additional-aws-region)
-- [AWS IoT SiteWise announces new generative AI-powered industrial assistant](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-iot-sitewise-generative-ai-powered-industrial-assistant)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

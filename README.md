@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch RUM now supports percentile aggregations and simplified troubleshooting with web vitals metrics](https://aws.amazon.com/about-aws/whats-new/2024/11/cloudwatch-rum-percentile-aggregations-simplified-troubleshooting)
+- [Disk-optimized vector engine now available on the Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/disk-optimized-vector-engine-amazon-opensearch-service)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports adding Regions to existing Keyspaces](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-regions-existing-keyspaces)
+- [AWS Glue expands connectivity to 19 native connectors for Enterprise applications](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-connectivity-19-native-connectors-enterprise-applications)
 - [AWS AppSync GraphQL APIs now support data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-graphql-apis-data-plane-logging-cloudtrail)
 - [Amazon OpenSearch Serverless now supports point in time &lpar;PIT&rpar; search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-pit-search)
 - [Introducing Binary Embeddings for Titan Text Embeddings model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/binary-embeddings-titan-text-embeddings-model-amazon-bedrock)
 - [AWS support case management is now available in AWS Chatbot for Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-support-case-management-aws-chatbot-microsoft-teams-slack)
 - [Amazon EFS now supports cross-account Replication](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-efs-cross-account-replication/)
-- [Amazon EKS enhances Kubernetes control plane monitoring](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-eks-kubernetes-control-plane-monitoring)
-- [Amazon OpenSearch Service now scales to 1000 data nodes on a single cluster](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-scales-1000-nodes-cluster)
-- [AWS Amplify launches the full-stack AI kit for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-amplify-full-stack-ai-kit-amazon-bedrock)
-- [Amazon OpenSearch Serverless now supports Binary Vector and FP16 cost savings features](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-binary-vector-cost-savings)
-- [Amazon EC2 X2iezn instances are now available in additional AWS region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-x2iezn-instances-additional-aws-region)
+- [Amazon ECS now allows you to configure software version consistency](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ecs-configure-software-version-consistency/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

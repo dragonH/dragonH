@@ -58,7 +58,6 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudFront now supports additional log formats and destinations for access logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-log-formats-destinations-access)
 - [Amazon Connect now supports nine additional languages for forecasting, capacity planning, and scheduling](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-additional-languages-forecasting-capacity-planning-scheduling)
 - [OpenSearch’s vector engine adds support for UltraWarm on Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/opensearch-vector-engine-ultrawarm-amazon-opensearch-service)
 - [AWS B2B Data Interchange now supports all X12 transaction sets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b-2-b-data-interchange-x12-transaction-sets)
@@ -68,6 +67,7 @@
 - [Announcing auto migration of EC2 databases to Amazon RDS using AWS Database Migration Service](https://aws.amazon.com/about-aws/whats-new/2024/11/auto-migration-ec2-databases-amazon-rds-aws-database-migration-service)
 - [AWS re:Post Private is now integrated with Amazon Bedrock to offer contextual knowledge to organizations](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-repost-private-integrated-amazon-bedrock)
 - [AWS Compute Optimizer now supports idle resource recommendation](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-compute-optimizer-idle-resource-recommendation)
+- [Amazon CloudFront now supports additional log formats and destinations for access logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-log-formats-destinations-access)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

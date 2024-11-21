@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now provides lineage information for your AMIs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-lineage-information-amis)
+- [AWS DMS now delivers improved performance for data validation](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-dms-improved-performance-data-validation)
+- [AWS Marketplace announces improved offer and agreement management capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-offer-agreement-management-capabilities-sellers)
 - [Amazon CloudWatch Logs launches the ability to transform and enrich logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-logs-transform-enrich/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.8.0](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-for-postgresql-pgvector-080/)
-- [Introducing an AWS Management Console Visual Update &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-management-console-visual-update-preview)
-- [Amazon OpenSearch Service now supports Custom Plugins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-custom-plugins/)
-- [AWS Elastic Beanstalk adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-elastic-beanstalk-ruby-3-3)
-- [Amazon MQ is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-mq-malaysia-region)
-- [Amazon RDS for PostgreSQL supports minor versions 17.2, 16.6, 15.10, 14.15, 13.18, and 12.22](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-postgresql-supports-minor-versions/)
-- [Amazon SQS increases in-flight limit for FIFO queues from 20K to 120K](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sqs-increases-in-flight-limit-fifo-queues/)
 - [Amazon RDS Blue/Green Deployments Green storage fully performant prior to switchover](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-blue-green-deployments-green-storage-performant-switchover/)
-- [Amazon MWAA adds smaller environment size](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-mwaa-smaller-environment-size)
+- [Amazon OpenSearch Service now supports Custom Plugins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-custom-plugins/)
+- [Amazon RDS for PostgreSQL supports minor versions 17.2, 16.6, 15.10, 14.15, 13.18, and 12.22](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-postgresql-supports-minor-versions/)
+- [Introducing an AWS Management Console Visual Update &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-management-console-visual-update-preview)
+- [AWS Elastic Beanstalk adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-elastic-beanstalk-ruby-3-3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

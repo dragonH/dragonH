@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Express One Zone now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object)
+- [Amazon EC2 G6e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6e-instances-additional-regions)
+- [AWS Application Load Balancer introduces header modification for enhanced traffic control and security](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security)
+- [Amazon CloudWatch Synthetics now supports Playwright runtime to create canaries with NodeJS](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-synthetics-playwright-runtime-canaries-nodejs)
+- [Amazon S3 Express One Zone now supports S3 Lifecycle expirations](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-s3-lifecycle-expirations)
+- [Announcing new Amazon CloudWatch Metrics for AWS Lambda Event Source Mappings &lpar;ESMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms)
+- [Amazon EC2 C7i-flex and M7i-flex instances are now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-c7i-flex-m7i-flex-instances-malaysia-region)
 - [Announcing enhanced purchase order support for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-purchase-order-support-aws-marketplace)
 - [Amazon EC2 R8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r8g-instances-aws-europe-stockholm)
 - [Mountpoint for Amazon S3 now supports a high performance shared cache](https://aws.amazon.com/about-aws/whats-new/2024/11/mountpoint-amazon-s3-high-performance-shared-cache)
-- [Amazon VPC IPAM now supports enabling IPAM for organizational units within AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-ipam-organizational-units-aws-organizations)
-- [AWS announces Media Quality-Aware Resiliency for live streaming](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-announces-media-quality-aware-resiliency-live-streaming)
-- [Amazon EC2 now provides lineage information for your AMIs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-lineage-information-amis)
-- [AWS DMS now delivers improved performance for data validation](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-dms-improved-performance-data-validation)
-- [AWS Marketplace announces improved offer and agreement management capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-offer-agreement-management-capabilities-sellers)
-- [Amazon CloudWatch Logs launches the ability to transform and enrich logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-logs-transform-enrich/)
-- [Amazon RDS for PostgreSQL supports pgvector 0.8.0](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-for-postgresql-pgvector-080/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

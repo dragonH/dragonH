@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [CloudWatch RUM now supports percentile aggregations and simplified troubleshooting with web vitals metrics](https://aws.amazon.com/about-aws/whats-new/2024/11/cloudwatch-rum-percentile-aggregations-simplified-troubleshooting)
-- [Disk-optimized vector engine now available on the Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/disk-optimized-vector-engine-amazon-opensearch-service)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports adding Regions to existing Keyspaces](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-keyspaces-apache-cassandra-regions-existing-keyspaces)
-- [AWS Glue expands connectivity to 19 native connectors for Enterprise applications](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-glue-connectivity-19-native-connectors-enterprise-applications)
-- [AWS AppSync GraphQL APIs now support data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-graphql-apis-data-plane-logging-cloudtrail)
-- [Amazon OpenSearch Serverless now supports point in time &lpar;PIT&rpar; search](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-serverless-pit-search)
-- [Introducing Binary Embeddings for Titan Text Embeddings model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/11/binary-embeddings-titan-text-embeddings-model-amazon-bedrock)
-- [AWS support case management is now available in AWS Chatbot for Microsoft Teams and Slack](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-support-case-management-aws-chatbot-microsoft-teams-slack)
-- [Amazon EFS now supports cross-account Replication](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-efs-cross-account-replication/)
-- [Amazon ECS now allows you to configure software version consistency](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ecs-configure-software-version-consistency/)
+- [Amazon CloudFront now supports additional log formats and destinations for access logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-log-formats-destinations-access)
+- [Amazon Connect now supports nine additional languages for forecasting, capacity planning, and scheduling](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-additional-languages-forecasting-capacity-planning-scheduling)
+- [OpenSearch’s vector engine adds support for UltraWarm on Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2024/11/opensearch-vector-engine-ultrawarm-amazon-opensearch-service)
+- [AWS B2B Data Interchange now supports all X12 transaction sets](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-b-2-b-data-interchange-x12-transaction-sets)
+- [AWS Compute Optimizer now supports rightsizing recommendations for Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-compute-optimizer-rightsizing-recommendations-amazon-aurora)
+- [Amazon CloudFront now supports Anycast Static IPs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudfront-anycast-static-ips)
+- [Bottlerocket announces new AMIs that are preconfigured to use FIPS 140-3 validated cryptographic modules](https://aws.amazon.com/about-aws/whats-new/2024/11/bottlerocket-amis-fips140-3-validated-cryptographic-modules)
+- [Announcing auto migration of EC2 databases to Amazon RDS using AWS Database Migration Service](https://aws.amazon.com/about-aws/whats-new/2024/11/auto-migration-ec2-databases-amazon-rds-aws-database-migration-service)
+- [AWS re:Post Private is now integrated with Amazon Bedrock to offer contextual knowledge to organizations](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-repost-private-integrated-amazon-bedrock)
+- [AWS Compute Optimizer now supports idle resource recommendation](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-compute-optimizer-idle-resource-recommendation)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

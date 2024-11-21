@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing enhanced purchase order support for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-purchase-order-support-aws-marketplace)
+- [Amazon EC2 R8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r8g-instances-aws-europe-stockholm)
+- [Mountpoint for Amazon S3 now supports a high performance shared cache](https://aws.amazon.com/about-aws/whats-new/2024/11/mountpoint-amazon-s3-high-performance-shared-cache)
+- [Amazon VPC IPAM now supports enabling IPAM for organizational units within AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-vpc-ipam-organizational-units-aws-organizations)
+- [AWS announces Media Quality-Aware Resiliency for live streaming](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-announces-media-quality-aware-resiliency-live-streaming)
 - [Amazon EC2 now provides lineage information for your AMIs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-lineage-information-amis)
 - [AWS DMS now delivers improved performance for data validation](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-dms-improved-performance-data-validation)
 - [AWS Marketplace announces improved offer and agreement management capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-offer-agreement-management-capabilities-sellers)
 - [Amazon CloudWatch Logs launches the ability to transform and enrich logs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-logs-transform-enrich/)
 - [Amazon RDS for PostgreSQL supports pgvector 0.8.0](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-for-postgresql-pgvector-080/)
-- [Amazon RDS Blue/Green Deployments Green storage fully performant prior to switchover](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-blue-green-deployments-green-storage-performant-switchover/)
-- [Amazon OpenSearch Service now supports Custom Plugins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-service-custom-plugins/)
-- [Amazon RDS for PostgreSQL supports minor versions 17.2, 16.6, 15.10, 14.15, 13.18, and 12.22](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-postgresql-supports-minor-versions/)
-- [Introducing an AWS Management Console Visual Update &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-management-console-visual-update-preview)
-- [AWS Elastic Beanstalk adds support for Ruby 3.3](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-elastic-beanstalk-ruby-3-3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

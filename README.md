@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 added New CPU-Performance Attribute for Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-cpu-performance-attribute-instance-type-selection)
+- [Amazon S3 Express One Zone is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-three-aws-regions)
 - [Amazon S3 Express One Zone now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object)
 - [Amazon EC2 G6e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6e-instances-additional-regions)
 - [AWS Application Load Balancer introduces header modification for enhanced traffic control and security](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security)
@@ -66,8 +68,6 @@
 - [Announcing new Amazon CloudWatch Metrics for AWS Lambda Event Source Mappings &lpar;ESMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms)
 - [Amazon EC2 C7i-flex and M7i-flex instances are now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-c7i-flex-m7i-flex-instances-malaysia-region)
 - [Announcing enhanced purchase order support for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-purchase-order-support-aws-marketplace)
-- [Amazon EC2 R8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r8g-instances-aws-europe-stockholm)
-- [Mountpoint for Amazon S3 now supports a high performance shared cache](https://aws.amazon.com/about-aws/whats-new/2024/11/mountpoint-amazon-s3-high-performance-shared-cache)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

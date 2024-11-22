@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens generative AI-powered post contact summarization is now available in 5 new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-contact-lens-generative-ai-powered-post-contact-summarization-new-regions)
+- [Announcing features to favorite applications and quickly access your recently used applications](https://aws.amazon.com/about-aws/whats-new/2024/11/features-favorite-applications-access-used-applications)
+- [Announcing the Quantum Embark advisory program for customers new to quantum computing](https://aws.amazon.com/about-aws/whats-new/2024/11/quantum-embark-advisory-program-customers-new-quantum-computing)
+- [Amazon Bedrock Flows is now generally available with two new capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-flows-new-capabilities)
+- [Announcing new feature tiers: Essentials and Plus for Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/new-feature-tiers-essentials-plus-amazon-cognito)
 - [Amazon Cognito introduces Managed Login to support rich branding for end user journeys](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cognito-managed-login)
+- [Cross-zone enabled Application Load Balancer now supports zonal shift and zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2024/11/cross-zone-application-load-balancer-zonal-shift-autoshift)
 - [Amazon Cognito now supports passwordless authentication for low-friction and secure logins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cognito-passwordless-authentication-low-friction-secure-logins)
 - [Amazon Bedrock Knowledge Bases now supports binary vector embeddings to build RAG applications](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-knowledge-bases-binary-vector-embeddings-rag-applications)
-- [Cross-zone enabled Application Load Balancer now supports zonal shift and zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2024/11/cross-zone-application-load-balancer-zonal-shift-autoshift)
-- [Announcing new feature tiers: Essentials and Plus for Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/new-feature-tiers-essentials-plus-amazon-cognito)
 - [Amazon Q Business introduces ability to reuse recently uploaded files in a conversation](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-reuse-uploaded-files-conversation)
-- [AWS AppSync now supports cross account sharing of GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-cross-account-sharing-graphql-apis)
-- [Amazon Managed Service for Apache Flink releases a new Amazon Kinesis Data Streams connector](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kinesis-data-streams-connector)
-- [Amazon Redshift announces support for Confluent Cloud and Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-confluent-cloud-apache-kafka)
-- [AWS Billing and Cost Management announces Savings Plans Purchase Analyzer](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-billing-cost-management-savings-plans-purchase-analyzer)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

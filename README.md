@@ -64,8 +64,8 @@
 - [Amazon EC2 G6e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6e-instances-additional-regions)
 - [AWS Application Load Balancer introduces header modification for enhanced traffic control and security](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security)
 - [Amazon CloudWatch Synthetics now supports Playwright runtime to create canaries with NodeJS](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-synthetics-playwright-runtime-canaries-nodejs)
-- [Amazon S3 Express One Zone now supports S3 Lifecycle expirations](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-s3-lifecycle-expirations)
 - [Announcing new Amazon CloudWatch Metrics for AWS Lambda Event Source Mappings &lpar;ESMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms)
+- [Amazon S3 Express One Zone now supports S3 Lifecycle expirations](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-s3-lifecycle-expirations)
 - [Amazon EC2 C7i-flex and M7i-flex instances are now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-c7i-flex-m7i-flex-instances-malaysia-region)
 - [Announcing enhanced purchase order support for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-purchase-order-support-aws-marketplace)
 <!-- AWS-NEWS:END -->

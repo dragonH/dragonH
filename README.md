@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Load Balancer introduces Certificate Authority advertisement to simplify client behavior while using Mutual TLS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-certificate-authority-advertisement)
+- [AWS Application Discovery Service now supports data from commercially available discovery tools](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-data-commercially-available-discovery-tools)
+- [Amazon S3 Connector for PyTorch now supports Distributed Checkpoint](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-connector-pytorch-distributed-checkpoint)
+- [Amazon EC2 Auto Scaling introduces highly responsive scaling policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-auto-scaling-highly-responsive-scaling-policies)
+- [Amazon OpenSearch Ingestion now supports writing security data to Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-writing-security-data-security-lake)
+- [Find security, compliance, and operating metrics in AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2024/11/security-compliance-operating-metrics-aws-resource-explorer)
+- [Amazon QuickSight launches Highcharts visual &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-highcharts-visual-preview)
+- [Amazon QuickSight now supports import visual capability &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-import-visual-capability-preview)
 - [Amazon QuickSight launches Layer Map](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-layer-map)
 - [Amazon QuickSight launches Image component](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-image-component)
-- [AWS Lambda announces Provisioned Mode for Kafka event source mappings &lpar;ESMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-provisioned-mode-kafka-esms)
-- [AWS Application Discovery Service adds integration with AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-integration-application-migration-service)
-- [Amazon Q Business now available as browser extension](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-browser-extension)
-- [Application Signals provides OTEL support via X-Ray OTLP endpoint for traces](https://aws.amazon.com/about-aws/whats-new/2024/11/application-signals-otel-x-ray-otlp-endpoint-traces)
-- [Amazon Q Developer Chat Customizations is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-chat-customizations-generally-available)
-- [Announcing AWS STS support for ECDSA-based signatures of OIDC tokens](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-sts-ecdsa-based-signatures-oidc-tokens)
-- [Smartsheet connector for Amazon Q Business is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/smartsheet-connector-amazon-q-business-generally-available)
-- [Amazon Bedrock Model Evaluation now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-model-evaluation-asia-pacific-seoul)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches Layer Map](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-layer-map)
+- [Amazon QuickSight launches Image component](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-image-component)
+- [AWS Lambda announces Provisioned Mode for Kafka event source mappings &lpar;ESMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-lambda-provisioned-mode-kafka-esms)
+- [AWS Application Discovery Service adds integration with AWS Application Migration Service](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-integration-application-migration-service)
 - [Amazon Q Business now available as browser extension](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-browser-extension)
 - [Application Signals provides OTEL support via X-Ray OTLP endpoint for traces](https://aws.amazon.com/about-aws/whats-new/2024/11/application-signals-otel-x-ray-otlp-endpoint-traces)
 - [Amazon Q Developer Chat Customizations is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-chat-customizations-generally-available)
 - [Announcing AWS STS support for ECDSA-based signatures of OIDC tokens](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-sts-ecdsa-based-signatures-oidc-tokens)
 - [Smartsheet connector for Amazon Q Business is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/smartsheet-connector-amazon-q-business-generally-available)
 - [Amazon Bedrock Model Evaluation now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-model-evaluation-asia-pacific-seoul)
-- [AWS Systems Manager now support Windows Server 2025, Ubuntu Server 24.04, and Ubuntu Server 24.10](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-systems-manager-windows-server-2025-ubuntu-server-24-04-24-10)
-- [SES Mail Manager adds delivery of email to Amazon Q Business applications](https://aws.amazon.com/about-aws/whats-new/2024/11/ses-sail-manager-delivery-email-amazon-q-business-applications)
-- [Announcing Provisioned Timestream Compute Units &lpar;TCUs&rpar; for Amazon Timestream for LiveAnalytics](https://aws.amazon.com/about-aws/whats-new/2024/11/provisioned-tcus-amazon-timestream-liveanalytics)
-- [Amazon Connect Contact Lens generative AI-powered post contact summarization is now available in 5 new regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-connect-contact-lens-generative-ai-powered-post-contact-summarization-new-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

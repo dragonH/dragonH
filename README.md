@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 added New CPU-Performance Attribute for Instance Type Selection](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-cpu-performance-attribute-instance-type-selection)
-- [Amazon S3 Express One Zone is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-three-aws-regions)
-- [Amazon S3 Express One Zone now supports the ability to append data to an object](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-append-data-object)
-- [Amazon EC2 G6e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-g6e-instances-additional-regions)
-- [AWS Application Load Balancer introduces header modification for enhanced traffic control and security](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-header-modification-enhanced-traffic-control-security)
-- [Amazon CloudWatch Synthetics now supports Playwright runtime to create canaries with NodeJS](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-synthetics-playwright-runtime-canaries-nodejs)
-- [Announcing new Amazon CloudWatch Metrics for AWS Lambda Event Source Mappings &lpar;ESMs&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cloudwatch-metrics-aws-lambda-esms)
-- [Amazon S3 Express One Zone now supports S3 Lifecycle expirations](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-express-one-zone-s3-lifecycle-expirations)
-- [Amazon EC2 C7i-flex and M7i-flex instances are now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-c7i-flex-m7i-flex-instances-malaysia-region)
-- [Announcing enhanced purchase order support for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/11/enhanced-purchase-order-support-aws-marketplace)
+- [Amazon Cognito introduces Managed Login to support rich branding for end user journeys](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cognito-managed-login)
+- [Amazon Cognito now supports passwordless authentication for low-friction and secure logins](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-cognito-passwordless-authentication-low-friction-secure-logins)
+- [Amazon Bedrock Knowledge Bases now supports binary vector embeddings to build RAG applications](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-knowledge-bases-binary-vector-embeddings-rag-applications)
+- [Cross-zone enabled Application Load Balancer now supports zonal shift and zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2024/11/cross-zone-application-load-balancer-zonal-shift-autoshift)
+- [Announcing new feature tiers: Essentials and Plus for Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/new-feature-tiers-essentials-plus-amazon-cognito)
+- [Amazon Q Business introduces ability to reuse recently uploaded files in a conversation](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-business-reuse-uploaded-files-conversation)
+- [AWS AppSync now supports cross account sharing of GraphQL APIs](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-appsync-cross-account-sharing-graphql-apis)
+- [Amazon Managed Service for Apache Flink releases a new Amazon Kinesis Data Streams connector](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-kinesis-data-streams-connector)
+- [Amazon Redshift announces support for Confluent Cloud and Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-confluent-cloud-apache-kafka)
+- [AWS Billing and Cost Management announces Savings Plans Purchase Analyzer](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-billing-cost-management-savings-plans-purchase-analyzer)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

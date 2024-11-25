@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Cloud WAN simplifies on-premises connectivity via AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloud-wan-on-premises-connectivity-direct-connect)
 - [Amazon S3 now supports enforcement of conditional write operations for S3 general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-enforcement-conditional-write-operations-general-purpose-buckets)
 - [Amazon S3 adds new functionality for conditional writes](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes)
 - [Announcing Idle Disconnect Timeout for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2024/11/idle-disconnect-timeout-amazon-workspaces)
@@ -67,7 +68,6 @@
 - [AWS Marketplace introduces AI-powered product summaries and comparisons](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-ai-powered-product-summaries-comparisons)
 - [AWS Control Tower adds prescriptive backup plans to landing zone capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-prescriptive-backup-plans-landing-zone/)
 - [Amazon Q Developer now transforms embedded SQL from Oracle to PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-transforms-embedded-sql-oracle-postgresql/)
-- [AWS Billing and Cost Management Data Exports for FOCUS 1.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-billing-cost-management-data-exports-focus-1-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

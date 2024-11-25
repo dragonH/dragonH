@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Application Load Balancer introduces Certificate Authority advertisement to simplify client behavior while using Mutual TLS](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-load-balancer-certificate-authority-advertisement)
-- [AWS Application Discovery Service now supports data from commercially available discovery tools](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-application-discovery-service-data-commercially-available-discovery-tools)
-- [Amazon S3 Connector for PyTorch now supports Distributed Checkpoint](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-connector-pytorch-distributed-checkpoint)
-- [Amazon EC2 Auto Scaling introduces highly responsive scaling policies](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-auto-scaling-highly-responsive-scaling-policies)
-- [Amazon OpenSearch Ingestion now supports writing security data to Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-opensearch-ingestion-writing-security-data-security-lake)
-- [Find security, compliance, and operating metrics in AWS Resource Explorer](https://aws.amazon.com/about-aws/whats-new/2024/11/security-compliance-operating-metrics-aws-resource-explorer)
-- [Amazon QuickSight launches Highcharts visual &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-highcharts-visual-preview)
-- [Amazon QuickSight now supports import visual capability &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-import-visual-capability-preview)
-- [Amazon QuickSight launches Layer Map](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-layer-map)
-- [Amazon QuickSight launches Image component](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-image-component)
+- [Amazon DataZone now enhances data access governance with enforced metadata rules](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-data-access-governance-enforced-metadata-rules)
+- [Amazon Managed Service for Apache Flink now supports Amazon Managed Service for Prometheus as a destination](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-managed-service-prometheus-destination)
+- [Amazon SageMaker introduces Scale Down to Zero for AI inference to help customers save costs](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-sagemaker-scale-down-zero-ai-inference-save-costs/)
+- [Amazon Q Developer Pro tier introduces a new, improved dashboard for user activity](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-pro-tier-dashboard-user-activity/)
+- [Amazon EC2 Capacity Blocks now supports instant start times and extensions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-capacity-blocks-instant-start-times-extensions/)
+- [AWS Backup now supports Amazon Timestream in Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-timestream-asia-pacific-mumbai)
+- [AWS DMS now supports Data Masking](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-dms-data-masking)
+- [AWS Marketplace introduces AI-powered product summaries and comparisons](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-ai-powered-product-summaries-comparisons)
+- [Amazon Q Developer now transforms embedded SQL from Oracle to PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-transforms-embedded-sql-oracle-postgresql/)
+- [AWS Control Tower adds prescriptive backup plans to landing zone capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-prescriptive-backup-plans-landing-zone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

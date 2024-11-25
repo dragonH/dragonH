@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS delivers enhanced root cause insights to help explain cost anomalies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-enhanced-root-cause-insights-cost-anomalies)
 - [Self-Service Know Your Customer &lpar;KYC&rpar; for AWS Marketplace Sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-kyc-aws-marketplace-sellers)
 - [Amazon DataZone now enhances data access governance with enforced metadata rules](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-data-access-governance-enforced-metadata-rules)
 - [Amazon Managed Service for Apache Flink now supports Amazon Managed Service for Prometheus as a destination](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-managed-service-prometheus-destination)
@@ -67,7 +68,6 @@
 - [AWS Backup now supports Amazon Timestream in Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-backup-amazon-timestream-asia-pacific-mumbai)
 - [AWS DMS now supports Data Masking](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-dms-data-masking)
 - [AWS Marketplace introduces AI-powered product summaries and comparisons](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-ai-powered-product-summaries-comparisons)
-- [AWS Control Tower adds prescriptive backup plans to landing zone capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-prescriptive-backup-plans-landing-zone/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

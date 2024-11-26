@@ -65,9 +65,9 @@
 - [AWS delivers enhanced root cause insights to help explain cost anomalies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-enhanced-root-cause-insights-cost-anomalies)
 - [Self-Service Know Your Customer &lpar;KYC&rpar; for AWS Marketplace Sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-kyc-aws-marketplace-sellers)
 - [Amazon DataZone now enhances data access governance with enforced metadata rules](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-data-access-governance-enforced-metadata-rules)
-- [AWS Marketplace introduces AI-powered product summaries and comparisons](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-ai-powered-product-summaries-comparisons)
-- [AWS Control Tower adds prescriptive backup plans to landing zone capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-prescriptive-backup-plans-landing-zone/)
-- [Amazon Q Developer now transforms embedded SQL from Oracle to PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-transforms-embedded-sql-oracle-postgresql/)
+- [AWS Billing and Cost Management Data Exports for FOCUS 1.0 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-billing-cost-management-data-exports-focus-1-0/)
+- [Enhanced Pricing Calculator now supports discounts and purchase commitments &lpar;in preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-pricing-calculator-estimates-purchase-commitments-discounts/)
+- [Amazon Managed Service for Apache Flink now supports Amazon Managed Service for Prometheus as a destination](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-managed-service-apache-flink-managed-service-prometheus-destination)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

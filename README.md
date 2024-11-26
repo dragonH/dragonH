@@ -67,7 +67,7 @@
 - [Amazon EC2 C7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-c7g-instances-additional-regions/)
 - [AWS Network Firewall expands the list of supported protocols and keywords in firewall rules](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-network-firewall-list-protocols-keywords-firewall/)
 - [Amazon RDS for SQL Server Supports Minor Versions in November 2024](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-sql-server-versions-november-2024/)
-- [AWS Cloud WAN simplifies on-premises connectivity via AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloud-wan-on-premises-connectivity-direct-connect)
+- [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r8g-instances-asia-pacific-mumbai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

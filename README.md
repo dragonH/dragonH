@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS announces Time-based Copy for EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ebs-time-based-copy-snapshots)
+- [Amazon EFS now supports up to 2.5 million IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-efs-up-to-2-5-million-iops-per-file-system)
 - [Colombian Sellers and Channel Partners now available in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/11/colombian-sellers-channel-partners-aws-marketplace)
 - [Amazon EC2 R7g instances are now available in AWS Middle East &lpar;Bahrain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r7g-instances-aws-middle-east-bahrain-region)
 - [Amazon Redshift multi-data warehouse writes through data sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-data-warehouse-through-data-sharing/)
@@ -66,8 +68,6 @@
 - [Amazon ECR announces 10x increase in repository limit to 100,000](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ecr-repository-limit-100000)
 - [Amazon EC2 C7g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-c7g-instances-additional-regions/)
 - [AWS Network Firewall expands the list of supported protocols and keywords in firewall rules](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-network-firewall-list-protocols-keywords-firewall/)
-- [Amazon RDS for SQL Server Supports Minor Versions in November 2024](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-rds-sql-server-versions-november-2024/)
-- [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r8g-instances-asia-pacific-mumbai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

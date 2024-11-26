@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now supports prompted reports and reader scheduling for pixel-perfect reports](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-prompted-reports-reader-scheduling-pixel-perfect-reports)
+- [Amazon ECR announces 10x increase in repository limit to 100,000](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ecr-repository-limit-100000)
+- [Amazon Redshift multi-data warehouse writes through data sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-data-warehouse-through-data-sharing/)
+- [AWS Network Firewall expands the list of supported protocols and keywords in firewall rules](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-network-firewall-list-protocols-keywords-firewall/)
 - [AWS Cloud WAN simplifies on-premises connectivity via AWS Direct Connect](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-cloud-wan-on-premises-connectivity-direct-connect)
 - [Amazon S3 now supports enforcement of conditional write operations for S3 general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-enforcement-conditional-write-operations-general-purpose-buckets)
 - [Amazon S3 adds new functionality for conditional writes](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-functionality-conditional-writes)
 - [Announcing Idle Disconnect Timeout for Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2024/11/idle-disconnect-timeout-amazon-workspaces)
 - [AWS delivers enhanced root cause insights to help explain cost anomalies](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-enhanced-root-cause-insights-cost-anomalies)
 - [Self-Service Know Your Customer &lpar;KYC&rpar; for AWS Marketplace Sellers](https://aws.amazon.com/about-aws/whats-new/2024/11/self-service-kyc-aws-marketplace-sellers)
-- [Amazon DataZone now enhances data access governance with enforced metadata rules](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-datazone-data-access-governance-enforced-metadata-rules)
-- [AWS Marketplace introduces AI-powered product summaries and comparisons](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-marketplace-ai-powered-product-summaries-comparisons)
-- [AWS Control Tower adds prescriptive backup plans to landing zone capabilities](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-control-tower-prescriptive-backup-plans-landing-zone/)
-- [Amazon Q Developer now transforms embedded SQL from Oracle to PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-transforms-embedded-sql-oracle-postgresql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

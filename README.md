@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer can now provide more personalized chat answers based on console context](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-personalized-chat-answers-console-context/)
+- [Valkey GLIDE 1.2 adds new features from Valkey 8.0, including AZ awareness](https://aws.amazon.com/about-aws/whats-new/2024/11/valkey-glide-1-2-features-valkey-8-0-az-awareness/)
+- [AWS Amplify introduces passwordless authentication with Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-amplify-passwordless-authentication-amazon-cognito)
+- [Amazon Bedrock Agents now supports custom orchestration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-agents-custom-orchestration/)
+- [Amazon Q Apps introduces data collection &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-data-collection-preview)
+- [Introducing Amazon Q Apps with private sharing](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-private-sharing)
 - [AWS PrivateLink now supports cross-region connectivity](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-privatelink-across-region-connectivity)
 - [Amazon Aurora now supports Graviton4-based R8g database instances](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-aurora-graviton4-based-r8g-database-instances)
 - [Introducing Advanced Scaling in Amazon EMR Managed Scaling](https://aws.amazon.com/about-aws/whats-new/2024/11/introducing-advanced-scaling-amazon-emr-managed-scaling)
 - [Amazon EBS announces Time-based Copy for EBS Snapshots](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ebs-time-based-copy-snapshots)
-- [Amazon EFS now supports up to 2.5 million IOPS per file system](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-efs-up-to-2-5-million-iops-per-file-system)
-- [Colombian Sellers and Channel Partners now available in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/11/colombian-sellers-channel-partners-aws-marketplace)
-- [Amazon EC2 R7g instances are now available in AWS Middle East &lpar;Bahrain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-ec2-r7g-instances-aws-middle-east-bahrain-region)
-- [Amazon Redshift multi-data warehouse writes through data sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-redshift-multi-data-warehouse-through-data-sharing/)
-- [Amazon Q Developer now provides natural language cost analysis](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-natural-language-cost-analysis/)
-- [Amazon QuickSight now supports prompted reports and reader scheduling for pixel-perfect reports](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-quicksight-prompted-reports-reader-scheduling-pixel-perfect-reports)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

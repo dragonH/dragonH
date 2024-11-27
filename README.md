@@ -59,8 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Q Developer for the Eclipse IDE is now in public preview](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-eclipse-ide-public-preview)
-- [Amazon Q Developer can now provide more personalized chat answers based on console context](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-personalized-chat-answers-console-context/)
 - [Valkey GLIDE 1.2 adds new features from Valkey 8.0, including AZ awareness](https://aws.amazon.com/about-aws/whats-new/2024/11/valkey-glide-1-2-features-valkey-8-0-az-awareness/)
+- [Amazon Q Developer can now provide more personalized chat answers based on console context](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-personalized-chat-answers-console-context/)
 - [AWS Amplify introduces passwordless authentication with Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-amplify-passwordless-authentication-amazon-cognito)
 - [Introducing Amazon Q Apps with private sharing](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-private-sharing)
 - [Amazon Bedrock Agents now supports custom orchestration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-agents-custom-orchestration/)

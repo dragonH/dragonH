@@ -61,13 +61,13 @@
 - [Amazon FSx for Lustre now supports Elastic Fabric Adapter and NVIDIA GPUDirect Storage](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-fsx-lustre-elastic-fabric-adapter-nvidia-gpudirect-storage)
 - [Amazon Q Developer launches Java upgrade transformation CLI &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-java-upgrade-transformation-cli-public-preview)
 - [Amazon Q Developer for the Eclipse IDE is now in public preview](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-eclipse-ide-public-preview)
-- [Valkey GLIDE 1.2 adds new features from Valkey 8.0, including AZ awareness](https://aws.amazon.com/about-aws/whats-new/2024/11/valkey-glide-1-2-features-valkey-8-0-az-awareness/)
-- [Amazon Q Developer can now provide more personalized chat answers based on console context](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-personalized-chat-answers-console-context/)
 - [AWS Amplify introduces passwordless authentication with Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-amplify-passwordless-authentication-amazon-cognito)
-- [Introducing Amazon Q Apps with private sharing](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-private-sharing)
+- [Amazon Q Developer can now provide more personalized chat answers based on console context](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-developer-personalized-chat-answers-console-context/)
+- [Valkey GLIDE 1.2 adds new features from Valkey 8.0, including AZ awareness](https://aws.amazon.com/about-aws/whats-new/2024/11/valkey-glide-1-2-features-valkey-8-0-az-awareness/)
 - [Amazon Bedrock Agents now supports custom orchestration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-agents-custom-orchestration/)
+- [Introducing Amazon Q Apps with private sharing](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-private-sharing)
 - [Amazon Q Apps introduces data collection &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-data-collection-preview)
-- [Amazon Q Java transformation launches Step-by-Step and Library Upgrades](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-java-transformation-step-by-step-library-upgrades/)
+- [Neptune Analytics Adds Support for Customer Managed PrivateLink endpoints](https://aws.amazon.com/about-aws/whats-new/2024/11/neptune-analytics-customer-managed-privatelink-endpoints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -66,8 +66,8 @@
 - [AWS Amplify introduces passwordless authentication with Amazon Cognito](https://aws.amazon.com/about-aws/whats-new/2024/11/aws-amplify-passwordless-authentication-amazon-cognito)
 - [Introducing Amazon Q Apps with private sharing](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-private-sharing)
 - [Amazon Q Apps introduces data collection &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-apps-data-collection-preview)
-- [Amazon Bedrock Agents now supports custom orchestration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-agents-custom-orchestration/)
 - [Amazon Q Java transformation launches Step-by-Step and Library Upgrades](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-q-java-transformation-step-by-step-library-upgrades/)
+- [Amazon Bedrock Agents now supports custom orchestration](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-bedrock-agents-custom-orchestration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -61,11 +61,11 @@
 - [Announcing Amazon EC2 I8g instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances)
 - [Amazon Web Services announces declarative policies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-declarative-policies)
 - [Amazon OpenSearch Service zero-ETL integration with Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake)
-- [Amazon CloudWatch and Amazon OpenSearch Service launch an integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-opensearch-service-integrated-analytics/)
-- [Introducing Amazon EC2 next generation high density Storage Optimized I7ie instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances)
 - [Announcing the general availability of Amazon MemoryDB Multi-Region](https://aws.amazon.com/about-aws/whats-new/2024/12/general-availability-amazon-memory-db-multi-region)
 - [Storage Browser for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/storage-browser-amazon-s3/)
 - [Amazon S3 adds new default data integrity protections](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-default-data-integrity-protections/)
+- [Introducing Amazon EC2 next generation high density Storage Optimized I7ie instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances)
+- [Amazon CloudWatch and Amazon OpenSearch Service launch an integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-opensearch-service-integrated-analytics/)
 - [Amazon EC2 introduces Allowed AMIs to enhance AMI governance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-allowed-amis-enhance-ami-governance)
 - [Announcing Amazon EKS Auto Mode](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-auto-mode/)
 <!-- AWS-NEWS:END -->

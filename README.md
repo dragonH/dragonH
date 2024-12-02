@@ -67,7 +67,7 @@
 - [New streamlined deployment experience for Databricks on AWS](https://aws.amazon.com/about-aws/whats-new/2024/12/streamlined-deployment-experience-databricks-aws)
 - [Amazon S3 adds new default data integrity protections](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-default-data-integrity-protections/)
 - [Storage Browser for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/storage-browser-amazon-s3/)
-- [Amazon Connect now provides the ability to record audio during IVR and other automated interactions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-record-audio-ivr-automated-interactions)
+- [Amazon Connect Contact Lens now automatically categorizes your contacts using generative AI](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-categorizes-contacts-generative-ai)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

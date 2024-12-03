@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Announcing Amazon EC2 I8g instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances)
 - [Amazon Web Services announces declarative policies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-declarative-policies)
+- [Amazon OpenSearch Service zero-ETL integration with Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake)
+- [Amazon CloudWatch and Amazon OpenSearch Service launch an integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-opensearch-service-integrated-analytics/)
 - [Introducing Amazon EC2 next generation high density Storage Optimized I7ie instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances)
 - [New streamlined deployment experience for Databricks on AWS](https://aws.amazon.com/about-aws/whats-new/2024/12/streamlined-deployment-experience-databricks-aws)
 - [Amazon S3 adds new default data integrity protections](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-default-data-integrity-protections/)
 - [Storage Browser for Amazon S3 is now generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/storage-browser-amazon-s3/)
-- [Amazon Connect now provides the ability to record audio during IVR and other automated interactions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-record-audio-ivr-automated-interactions)
-- [Amazon Connect Contact Lens now supports external voice](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-external-voice)
-- [Amazon Connect now supports external voice transfers](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-external-voice-transfers)
-- [Amazon CloudWatch Container Insights launches enhanced observability for Amazon ECS](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-container-insights-observability-ecs/)
+- [Amazon Connect Contact Lens now automatically categorizes your contacts using generative AI](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-contact-lens-categorizes-contacts-generative-ai)
+- [Amazon Connect launches AI guardrails for Amazon Q in Connect](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-ai-guardrails-q-connect)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

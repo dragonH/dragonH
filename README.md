@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer can now automate code reviews](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-automate-code-reviews/)
+- [Amazon Bedrock now supports multi-agent collaboration](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-multi-agent-collaboration/)
+- [Amazon Q Business introduces over 50 actions for popular business applications and platforms](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-50-actions-business-applications-platforms)
 - [Amazon Q Developer now provides transformation capabilities for .NET porting &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-transformation-net-porting-preview/)
-- [Amazon Q Developer adds operational investigation capability &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-operational-investigation-preview/)
 - [Amazon DynamoDB zero-ETL integration with Amazon SageMaker Lakehouse](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamo-db-zero-etl-integration-sagemaker-lakehouse)
-- [Amazon S3 Access Grants now integrate with AWS Glue](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-access-grants-integrate-glue/)
-- [AWS expands data connectivity for Amazon SageMaker Lakehouse and AWS Glue](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-expands-data-connectivity-amazon-sagemaker-lakehouse-glue)
-- [Introducing AWS Glue 5.0](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0/)
-- [Amazon SageMaker Lakehouse and Amazon Redshift support for zero-ETL integrations from eight applications](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-lakehouse-redshift-zero-etl-integrations-eight-applications)
-- [AWS announces Amazon SageMaker Lakehouse](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-announces-amazon-sagemaker-lakehouse)
-- [Amazon Q Developer announces automatic unit test generation to accelerate feature development](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-automatic-unit-test-generation)
 - [Announcing Amazon S3 Metadata &lpar;Preview&rpar; – Easiest and fastest way to manage your metadata](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-metadata-preview)
+- [Amazon Bedrock Guardrails now supports Automated Reasoning checks &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-automated-reasoning-checks-preview)
+- [Amazon DynamoDB global tables previews multi-Region strong consistency](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamodb-global-tables-previews-multi-region-strong-consistency)
+- [AWS Glue Data catalog now automates generating statistics for new tables](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-data-catalog-automates-generating-statistics-tables/)
+- [Amazon S3 Access Grants now integrate with AWS Glue](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-access-grants-integrate-glue/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

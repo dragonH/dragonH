@@ -59,8 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 P5en instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-p5en-instances-generative-ai-hpc-generally-available)
-- [VPC Lattice now includes TCP support with VPC Resources](https://aws.amazon.com/about-aws/whats-new/2024/12/vpc-lattice-tcp-vpc-resources)
 - [Introducing latency-optimized inference for foundation models in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/latency-optimized-inference-foundation-models-amazon-bedrock/)
+- [VPC Lattice now includes TCP support with VPC Resources](https://aws.amazon.com/about-aws/whats-new/2024/12/vpc-lattice-tcp-vpc-resources)
 - [Announcing Amazon EC2 I8g instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances)
 - [Amazon Web Services announces declarative policies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-declarative-policies)
 - [Amazon OpenSearch Service zero-ETL integration with Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake)

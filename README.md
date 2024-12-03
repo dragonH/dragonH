@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon S3 Metadata &lpar;Preview&rpar; – Easiest and fastest way to manage your metadata](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-metadata-preview)
+- [Amazon DynamoDB global tables previews multi-Region strong consistency](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamodb-global-tables-previews-multi-region-strong-consistency)
+- [Amazon EC2 Trn2 instances are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-trn2-instances-available/)
+- [Announcing Amazon S3 Tables – Fully managed Apache Iceberg tables optimized for analytics workloads](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-tables-apache-iceberg-tables-analytics-workloads/)
+- [Announcing Amazon Aurora DSQL &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-dsql-preview/)
 - [Amazon EC2 P5en instances, optimized for generative AI and HPC, are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-p5en-instances-generative-ai-hpc-generally-available)
 - [Introducing latency-optimized inference for foundation models in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/latency-optimized-inference-foundation-models-amazon-bedrock/)
 - [VPC Lattice now includes TCP support with VPC Resources](https://aws.amazon.com/about-aws/whats-new/2024/12/vpc-lattice-tcp-vpc-resources)
 - [Deploy GROW with SAP on AWS from AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2024/12/deploy-grow-sap-aws-marketplace/)
 - [Announcing Amazon EC2 I8g instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i8g-instances)
-- [Amazon Web Services announces declarative policies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-declarative-policies)
-- [Amazon OpenSearch Service zero-ETL integration with Amazon Security Lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-zero-etl-integration-security-lake)
-- [Amazon CloudWatch and Amazon OpenSearch Service launch an integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-opensearch-service-integrated-analytics/)
-- [Introducing Amazon EC2 next generation high density Storage Optimized I7ie instances](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-next-generation-high-density-storage-optimized-i7ie-instances)
-- [New streamlined deployment experience for Databricks on AWS](https://aws.amazon.com/about-aws/whats-new/2024/12/streamlined-deployment-experience-databricks-aws)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

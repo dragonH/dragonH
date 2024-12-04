@@ -64,10 +64,10 @@
 - [Amazon Bedrock Marketplace brings over 100 models to Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-marketplace-100-models-bedrock/)
 - [AWS Education Equity Initiative to boost education for underserved learners](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-education-equity-boost-education-underserved-learners/)
 - [Task governance is now generally available for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2024/12/task-governance-amazon-sagemaker-hyperpod/)
-- [Announcing new AWS AI Service Cards to advance responsible generative AI](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-ai-service-cards-advance-responsible-generative-ai/)
-- [Amazon Bedrock Data Automation now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-data-automation-available-preview)
 - [Amazon Bedrock Guardrails supports multimodal toxicity detection for image content &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-multimodal-toxicity-detection-image-content-preview)
+- [Announcing new AWS AI Service Cards to advance responsible generative AI](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-ai-service-cards-advance-responsible-generative-ai/)
 - [Amazon Bedrock announces preview of prompt caching](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-preview-prompt-caching)
+- [Amazon Bedrock Data Automation now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-data-automation-available-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

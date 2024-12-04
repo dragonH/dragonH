@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Amazon SageMaker Partner AI Apps](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-partner-ai-apps/)
+- [Task governance is now generally available for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2024/12/task-governance-amazon-sagemaker-hyperpod/)
+- [Amazon SageMaker HyperPod now provides flexible training plans](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-hyperpod-flexible-training-plans/)
 - [Amazon Q Developer now provides transformation capabilities for .NET porting &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-transformation-net-porting-preview/)
 - [Amazon DynamoDB zero-ETL integration with Amazon SageMaker Lakehouse](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamo-db-zero-etl-integration-sagemaker-lakehouse)
 - [Amazon S3 Access Grants now integrate with AWS Glue](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-access-grants-integrate-glue/)
@@ -65,9 +68,6 @@
 - [Introducing AWS Glue 5.0](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0/)
 - [Amazon SageMaker Lakehouse and Amazon Redshift support for zero-ETL integrations from eight applications](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-lakehouse-redshift-zero-etl-integrations-eight-applications)
 - [AWS announces Amazon SageMaker Lakehouse](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-announces-amazon-sagemaker-lakehouse)
-- [Amazon Q Developer announces automatic unit test generation to accelerate feature development](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-automatic-unit-test-generation)
-- [Announcing Amazon S3 Metadata &lpar;Preview&rpar; – Easiest and fastest way to manage your metadata](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-metadata-preview)
-- [Amazon Bedrock now supports multi-agent collaboration](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-multi-agent-collaboration/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

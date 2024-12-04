@@ -67,7 +67,7 @@
 - [Amazon Bedrock Guardrails supports multimodal toxicity detection for image content &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-multimodal-toxicity-detection-image-content-preview)
 - [Announcing new AWS AI Service Cards to advance responsible generative AI](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-ai-service-cards-advance-responsible-generative-ai/)
 - [Amazon Bedrock announces preview of prompt caching](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-preview-prompt-caching)
-- [Amazon Bedrock Data Automation now available in preview](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-data-automation-available-preview)
+- [Amazon Q Developer can now guide SageMaker Canvas users through ML development](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-guide-sagemaker-canvas-users-ml-development)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

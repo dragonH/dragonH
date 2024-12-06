@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora now available as a quick create vector store in Amazon Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-quick-create-vector-store-bedrock-knowledge-bases)
 - [Amazon CloudWatch now provides centralized visibility into telemetry configurations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-provides-centralized-visibility-telemetry-configurations)
 - [AWS Config now supports a service-linked recorder](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-service-linked-recorder)
 - [Amazon RDS Performance Insights extends On-demand Analysis to new regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-performance-insights-on-demand-analysis-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock Marketplace brings over 100 models to Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-marketplace-100-models-bedrock/)
 - [AWS Education Equity Initiative to boost education for underserved learners](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-education-equity-boost-education-underserved-learners/)
 - [Task governance is now generally available for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2024/12/task-governance-amazon-sagemaker-hyperpod/)
-- [Amazon Bedrock Guardrails supports multimodal toxicity detection for image content &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-multimodal-toxicity-detection-image-content-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

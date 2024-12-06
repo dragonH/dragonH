@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now provides centralized visibility into telemetry configurations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-provides-centralized-visibility-telemetry-configurations)
+- [AWS Config now supports a service-linked recorder](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-service-linked-recorder)
+- [Amazon SageMaker introduces new capabilities to accelerate scaling of Generative AI Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-accelerate-scaling-generative-ai-inference)
 - [Amazon Bedrock Knowledge Bases now supports structured data retrieval](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-knowledge-bases-structured-data-retrieval)
 - [AWS announces Amazon SageMaker Partner AI Apps](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-partner-ai-apps/)
 - [Amazon SageMaker HyperPod now provides flexible training plans](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-hyperpod-flexible-training-plans/)
@@ -65,9 +68,6 @@
 - [AWS Education Equity Initiative to boost education for underserved learners](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-education-equity-boost-education-underserved-learners/)
 - [Task governance is now generally available for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2024/12/task-governance-amazon-sagemaker-hyperpod/)
 - [Amazon Bedrock Guardrails supports multimodal toxicity detection for image content &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-multimodal-toxicity-detection-image-content-preview)
-- [Announcing new AWS AI Service Cards to advance responsible generative AI](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-ai-service-cards-advance-responsible-generative-ai/)
-- [Amazon Bedrock announces preview of prompt caching](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-preview-prompt-caching)
-- [Amazon Q Developer can now guide SageMaker Canvas users through ML development](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-developer-guide-sagemaker-canvas-users-ml-development)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Hpc6id instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc6id-instances-europe-paris-region)
+- [Amazon EC2 Hpc7a instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc7a-instances-europe-paris-region)
 - [Amazon Aurora now available as a quick create vector store in Amazon Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-quick-create-vector-store-bedrock-knowledge-bases)
 - [Amazon CloudWatch now provides centralized visibility into telemetry configurations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-cloudwatch-provides-centralized-visibility-telemetry-configurations)
 - [AWS Config now supports a service-linked recorder](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-service-linked-recorder)
 - [Amazon RDS Performance Insights extends On-demand Analysis to new regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-performance-insights-on-demand-analysis-regions/)
+- [SageMaker SDK enhances training and inference workflows](https://aws.amazon.com/about-aws/whats-new/2024/12/sagemaker-sdk-training-inference-workflows)
 - [Amazon SageMaker introduces new capabilities to accelerate scaling of Generative AI Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-accelerate-scaling-generative-ai-inference)
 - [AWS announces Amazon SageMaker Partner AI Apps](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-partner-ai-apps/)
 - [Amazon SageMaker HyperPod now provides flexible training plans](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-hyperpod-flexible-training-plans/)
-- [Amazon Bedrock Marketplace brings over 100 models to Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-marketplace-100-models-bedrock/)
-- [AWS Education Equity Initiative to boost education for underserved learners](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-education-equity-boost-education-underserved-learners/)
-- [Task governance is now generally available for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2024/12/task-governance-amazon-sagemaker-hyperpod/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

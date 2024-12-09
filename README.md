@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock Model Evaluation now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-model-evaluation-zurich)
+- [Introducing Amazon EC2 High Memory U7i Instances with 6TiB and 8TiB of memory](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-u7i-instances-6tib-8tib-memory/)
 - [Amazon EC2 High Memory U7i instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-high-memory-u7i-instances-govcloud-west/)
 - [Amazon EC2 Hpc6id instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc6id-instances-europe-paris-region)
 - [Amazon EC2 Hpc7a instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc7a-instances-europe-paris-region)
@@ -67,7 +68,6 @@
 - [AWS Config now supports a service-linked recorder](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-service-linked-recorder)
 - [Amazon RDS Performance Insights extends On-demand Analysis to new regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-performance-insights-on-demand-analysis-regions/)
 - [SageMaker SDK enhances training and inference workflows](https://aws.amazon.com/about-aws/whats-new/2024/12/sagemaker-sdk-training-inference-workflows)
-- [Amazon SageMaker introduces new capabilities to accelerate scaling of Generative AI Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-accelerate-scaling-generative-ai-inference)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

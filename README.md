@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Model Evaluation now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-model-evaluation-zurich)
+- [Amazon EC2 High Memory U7i instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-high-memory-u7i-instances-govcloud-west/)
 - [Amazon EC2 Hpc6id instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc6id-instances-europe-paris-region)
 - [Amazon EC2 Hpc7a instances are now available in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-hpc7a-instances-europe-paris-region)
 - [Amazon Aurora now available as a quick create vector store in Amazon Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-quick-create-vector-store-bedrock-knowledge-bases)
@@ -66,8 +68,6 @@
 - [Amazon RDS Performance Insights extends On-demand Analysis to new regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-performance-insights-on-demand-analysis-regions/)
 - [SageMaker SDK enhances training and inference workflows](https://aws.amazon.com/about-aws/whats-new/2024/12/sagemaker-sdk-training-inference-workflows)
 - [Amazon SageMaker introduces new capabilities to accelerate scaling of Generative AI Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-accelerate-scaling-generative-ai-inference)
-- [AWS announces Amazon SageMaker Partner AI Apps](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-partner-ai-apps/)
-- [Amazon SageMaker HyperPod now provides flexible training plans](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-hyperpod-flexible-training-plans/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

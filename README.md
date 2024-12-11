@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m7i-flex-m7i-instances-jakarta-region)
+- [Amazon SageMaker AI announces availability of P5e and G6e instances for Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-ai-p5e-g6e-instances-inference)
+- [AWS Security Hub now supports PCI DSS v4.0.1 standard](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-security-hub-pci-dss-v4.0-1-standard)
+- [Amazon Connect now supports push notifications for mobile chat](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-push-notifications-mobile-chat)
 - [Amazon EC2 M8g instances now available in AWS Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m8g-instances-europe-spain/)
 - [Amazon Lex launches new multilingual speech recognition models](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-lex-multilingual-speech-recognition-models/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; announces frozen collections in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-keyspaces-apache-cassandra-frozen-collections-govcloud/)
+- [AWS Network Firewall is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-network-firewall-asia-pacific-malaysia-region/)
 - [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-r8g-asia-pacific-tokyo/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-keyspaces-apache-cassandra-user-defined-types-govcloud/)
-- [Amazon MQ now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-mq-aws-privatelink)
-- [Amazon Simple Email Services &lpar;SES&rpar; announces Deterministic Easy DKIM](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-simple-email-services-deterministic-easy-dkim)
-- [AWS IoT Core for LoRaWAN announces new feature enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-core-lorawan-feature-enhancements)
-- [Amazon Bedrock Guardrails reduces pricing by up to 85%](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-reduces-pricing-85-percent)
-- [Amazon RDS for SQL Server Supports new custom parameters for native backup and restore](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-sql-server-custom-parameters-backup-restore/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

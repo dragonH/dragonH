@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 M8g instances now available in AWS Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m8g-instances-europe-spain/)
 - [Amazon Lex launches new multilingual speech recognition models](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-lex-multilingual-speech-recognition-models/)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; announces frozen collections in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-keyspaces-apache-cassandra-frozen-collections-govcloud/)
 - [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-r8g-asia-pacific-tokyo/)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports User-Defined Types in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-keyspaces-apache-cassandra-user-defined-types-govcloud/)
 - [Amazon MQ now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-mq-aws-privatelink)
 - [Amazon Simple Email Services &lpar;SES&rpar; announces Deterministic Easy DKIM](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-simple-email-services-deterministic-easy-dkim)
 - [AWS IoT Core for LoRaWAN announces new feature enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-core-lorawan-feature-enhancements)
 - [Amazon Bedrock Guardrails reduces pricing by up to 85%](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-reduces-pricing-85-percent)
 - [Amazon RDS for SQL Server Supports new custom parameters for native backup and restore](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-sql-server-custom-parameters-backup-restore/)
-- [Introducing Amazon EC2 C6in and M6in Instances in Dallas Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-c6in-m6in-instances-dallas-local-zone/)
-- [AWS Resource Groups now supports 405 more resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resource-groups-405-more-resource-types/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

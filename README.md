@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M8g instances now available in AWS Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m8g-instances-europe-spain/)
+- [Amazon Lex launches new multilingual speech recognition models](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-lex-multilingual-speech-recognition-models/)
+- [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-r8g-asia-pacific-tokyo/)
 - [Amazon MQ now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-mq-aws-privatelink)
 - [Amazon Simple Email Services &lpar;SES&rpar; announces Deterministic Easy DKIM](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-simple-email-services-deterministic-easy-dkim)
 - [AWS IoT Core for LoRaWAN announces new feature enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-core-lorawan-feature-enhancements)
@@ -65,9 +68,6 @@
 - [Amazon RDS for SQL Server Supports new custom parameters for native backup and restore](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-sql-server-custom-parameters-backup-restore/)
 - [Introducing Amazon EC2 C6in and M6in Instances in Dallas Local Zone](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-c6in-m6in-instances-dallas-local-zone/)
 - [AWS Resource Groups now supports 405 more resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resource-groups-405-more-resource-types/)
-- [Amazon IVS Introduces Thumbnails Recording for Real-Time Streaming](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ivs-thumbnails-recording-real-time-streaming/)
-- [Amazon Bedrock Model Evaluation now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-model-evaluation-zurich)
-- [Introducing Amazon EC2 High Memory U7i Instances with 6TiB and 8TiB of memory](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-u7i-instances-6tib-8tib-memory/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

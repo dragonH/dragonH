@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Resolver DNS Firewall and DNS Firewall Advanced now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-route-53-resolver-dns-firewall-advanced-malaysia-region)
+- [Amazon EC2 C7g  instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-c7g-instances-aws-govcloud-regions)
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20241121](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-postgresql-minor-11-22-rds-20241121/)
 - [Announcing general availability of auto-copy for Amazon Redshift in the GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/general-availability-auto-copy-amazon-redshift-govcloud-regions)
 - [Amazon OpenSearch Service adds support for r7gd instances in six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-r7gd-instances-six-regions/)
 - [Amazon EC2 F2 instances, featuring up to 8 FPGAs, are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-f2-instances-8-fpgas/)
+- [Amazon Connect now supports holiday overrides for Hours of operation](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-holiday-overrides-hours-operation/)
 - [Amazon EC2 M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m7i-flex-m7i-instances-jakarta-region)
 - [Amazon SageMaker AI announces availability of P5e and G6e instances for Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-ai-p5e-g6e-instances-inference)
 - [AWS Security Hub now supports PCI DSS v4.0.1 standard](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-security-hub-pci-dss-v4.0-1-standard)
-- [Amazon Connect now supports push notifications for mobile chat](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-push-notifications-mobile-chat)
-- [Amazon EC2 M8g instances now available in AWS Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m8g-instances-europe-spain/)
-- [Amazon Lex launches new multilingual speech recognition models](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-lex-multilingual-speech-recognition-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

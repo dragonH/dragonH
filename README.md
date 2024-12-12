@@ -63,11 +63,11 @@
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20241121](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-postgresql-minor-11-22-rds-20241121/)
 - [Announcing general availability of auto-copy for Amazon Redshift in the GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/general-availability-auto-copy-amazon-redshift-govcloud-regions)
 - [Amazon OpenSearch Service adds support for r7gd instances in six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-r7gd-instances-six-regions/)
+- [Amazon Bedrock Guardrails now supports additional languages - Spanish and French](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-guardrails-languages-spanish-french/)
 - [Amazon EC2 F2 instances, featuring up to 8 FPGAs, are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-f2-instances-8-fpgas/)
 - [Research and Engineering Studio on AWS Version 2024.12 now available](https://aws.amazon.com/about-aws/whats-new/2024/12/research-engineering-studio-aws-version-2024-12/)
 - [AWS Toolkit for Visual Studio Code now includes Amazon CloudWatch Logs Live Tail](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-toolkit-visual-studio-code-cloudwatch-logs-live-tail/)
-- [Amazon Connect now supports holiday overrides for Hours of operation](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-holiday-overrides-hours-operation/)
-- [Amazon EC2 M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m7i-flex-m7i-instances-jakarta-region)
+- [AWS Backup expands cross-account management in opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-cross-account-management-opt-in-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

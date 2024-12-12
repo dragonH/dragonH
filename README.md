@@ -58,9 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon OpenSearch Service adds support for r7gd instances in six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-r7gd-instances-six-regions/)
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20241121](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-postgresql-minor-11-22-rds-20241121/)
 - [Announcing general availability of auto-copy for Amazon Redshift in the GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/general-availability-auto-copy-amazon-redshift-govcloud-regions)
+- [Amazon OpenSearch Service adds support for r7gd instances in six additional regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-opensearch-service-r7gd-instances-six-regions/)
 - [Amazon EC2 F2 instances, featuring up to 8 FPGAs, are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-f2-instances-8-fpgas/)
 - [Amazon EC2 M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Jakarta&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-m7i-flex-m7i-instances-jakarta-region)
 - [Amazon SageMaker AI announces availability of P5e and G6e instances for Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-sagemaker-ai-p5e-g6e-instances-inference)

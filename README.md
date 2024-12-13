@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift supports auto and incremental refresh of Materialized Views for zero-ETL integrations](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-redshift-refresh-materialized-views-zero-etl-integrations/)
 - [Amazon Route 53 Resolver DNS Firewall and DNS Firewall Advanced now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-route-53-resolver-dns-firewall-advanced-malaysia-region)
 - [Amazon EC2 C7g  instances are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-c7g-instances-aws-govcloud-regions)
 - [Amazon RDS for PostgreSQL announces Extended Support minor 11.22-RDS.20241121](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-postgresql-minor-11-22-rds-20241121/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 F2 instances, featuring up to 8 FPGAs, are generally available](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-f2-instances-8-fpgas/)
 - [Research and Engineering Studio on AWS Version 2024.12 now available](https://aws.amazon.com/about-aws/whats-new/2024/12/research-engineering-studio-aws-version-2024-12/)
 - [AWS Toolkit for Visual Studio Code now includes Amazon CloudWatch Logs Live Tail](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-toolkit-visual-studio-code-cloudwatch-logs-live-tail/)
-- [AWS Backup expands cross-account management in opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-cross-account-management-opt-in-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

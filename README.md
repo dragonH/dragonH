@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream for InfluxDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar; connectivity](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-timestream-influxdb-ipv6-connectivity)
+- [Kinesis Producer Library now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2024/12/kinesis-producer-library-aws-sdk-java-2-x)
 - [Amazon EBS launches Local Snapshots for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ebs-local-snapshots-aws-dedicated-local-zones)
 - [Bottlerocket now supports Elastic Fabric Adapter for AI/ML and HPC workloads](https://aws.amazon.com/about-aws/whats-new/2024/12/bottlerocket-elastic-fabric-adapter-ai-ml-workloads)
 - [Introducing Amazon EC2 High Memory U7inh Instance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-high-memory-u7inh-instance/)
@@ -66,8 +68,6 @@
 - [AWS Elemental MediaConnect Gateway now supports source-specific multicast](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-elemental-mediaconnect-gateway-source-specific-multicast)
 - [AWS Resource Explorer supports 59 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resource-explorer-new-resource-types)
 - [AWS Cloud Map now supports Service Level Attributes](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloud-map-service-level-attributes)
-- [AWS announces new AWS Direct Connect location in Osaka, Japan](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-direct-connect-location-osaka-japan/)
-- [Amazon DynamoDB announces support for FIPS 140-3 interface VPC and Streams endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-dynamodb-fips-140-3-interface-vpc-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

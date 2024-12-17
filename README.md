@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS re:Post now supports Spanish and Portuguese](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-re-post-spanish-portuguese)
+- [Amazon Route 53 Resolver Endpoints now available in the Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-route-53-resolver-endpoints-thailand-mexico-regions)
+- [AWS Elastic Beanstalk now updates environment status when invalid](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-elastic-beanstalk-updates-environment-status-invalid)
+- [Introducing AWS Glue 5.0 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0-govcloud-us-regions)
 - [New look for AWS Marketplace Professional Services product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/12/new-look-aws-marketplace-professional-services-product-detail-pages)
 - [IAM Roles Anywhere credential helper now supports TPM 2.0](https://aws.amazon.com/about-aws/whats-new/2024/12/iam-roles-anywhere-credential-helper-tpm-2-0)
 - [AWS IoT Greengrass v2.14 now supports a new lightweight edge runtime software, uses less than 5MB of memory](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-greengrass-v2-14-lightweight-edge-runtime-software)
 - [AWS AppSync GraphQL enhances Amazon Aurora PostgreSQL and MySQL support with new resolver utilities](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-appsync-graphql-aurora-postgresql-mysql-utilities/)
 - [Amazon Connect now provides agent schedule data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-agent-schedule-analytics-data-lake)
 - [Amazon Athena is now available in AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-athena-asia-pacific-malaysia-region/)
-- [Amazon Timestream for InfluxDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar; connectivity](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-timestream-influxdb-ipv6-connectivity)
-- [Kinesis Producer Library now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2024/12/kinesis-producer-library-aws-sdk-java-2-x)
-- [Amazon EBS launches Local Snapshots for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ebs-local-snapshots-aws-dedicated-local-zones)
-- [Bottlerocket now supports Elastic Fabric Adapter for AI/ML and HPC workloads](https://aws.amazon.com/about-aws/whats-new/2024/12/bottlerocket-elastic-fabric-adapter-ai-ml-workloads)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

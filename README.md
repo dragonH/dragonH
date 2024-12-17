@@ -62,12 +62,12 @@
 - [Kinesis Producer Library now supports the AWS SDK for Java 2.x](https://aws.amazon.com/about-aws/whats-new/2024/12/kinesis-producer-library-aws-sdk-java-2-x)
 - [Amazon EBS launches Local Snapshots for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ebs-local-snapshots-aws-dedicated-local-zones)
 - [Bottlerocket now supports Elastic Fabric Adapter for AI/ML and HPC workloads](https://aws.amazon.com/about-aws/whats-new/2024/12/bottlerocket-elastic-fabric-adapter-ai-ml-workloads)
+- [Announcing Node Health Monitoring and Auto-Repair for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2024/12/node-health-monitoring-auto-repair-amazon-eks/)
 - [Introducing Amazon EC2 High Memory U7inh Instance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-high-memory-u7inh-instance/)
 - [Amazon AppStream 2.0 users can now save their user preferences between streaming sessions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-appstream-2-0-users-save-user-preferences-streaming-sessions)
 - [Amazon EC2 instances support bandwidth configurations for VPC and EBS](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-instances-bandwidth-configurations-vpc-ebs)
 - [AWS Elemental MediaConnect Gateway now supports source-specific multicast](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-elemental-mediaconnect-gateway-source-specific-multicast)
 - [AWS Resource Explorer supports 59 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resource-explorer-new-resource-types)
-- [AWS Cloud Map now supports Service Level Attributes](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloud-map-service-level-attributes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

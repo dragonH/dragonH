@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS re:Post now supports Spanish and Portuguese](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-re-post-spanish-portuguese)
-- [AWS Elastic Beanstalk now updates environment status when invalid](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-elastic-beanstalk-updates-environment-status-invalid)
-- [Introducing AWS Glue 5.0 in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-5-0-govcloud-us-regions)
-- [New look for AWS Marketplace Professional Services product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/12/new-look-aws-marketplace-professional-services-product-detail-pages)
-- [IAM Roles Anywhere credential helper now supports TPM 2.0](https://aws.amazon.com/about-aws/whats-new/2024/12/iam-roles-anywhere-credential-helper-tpm-2-0)
-- [AWS IoT Greengrass v2.14 now supports a new lightweight edge runtime software, uses less than 5MB of memory](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-greengrass-v2-14-lightweight-edge-runtime-software)
-- [AWS AppSync GraphQL enhances Amazon Aurora PostgreSQL and MySQL support with new resolver utilities](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-appsync-graphql-aurora-postgresql-mysql-utilities/)
-- [Amazon Connect now provides agent schedule data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-agent-schedule-analytics-data-lake)
-- [Amazon Athena is now available in AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-athena-asia-pacific-malaysia-region/)
-- [Amazon Timestream for InfluxDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar; connectivity](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-timestream-influxdb-ipv6-connectivity)
+- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
+- [AWS DMS now supports Kerberos authentication for Oracle and SQL Server Source Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-dms-kerberos-authentication-oracle-sql-server-source-endpoints)
+- [Amazon Q Business analytics dashboard enhanced with conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-analytics-dashboard-conversation-insights)
+- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm version 24.05](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-pcs-slurm-version-24-05)
+- [AWS Resilience Hub now provides tailored AWS Fault Injection Service recommendations](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resilience-hub-fault-injection-service-recommendations/)
+- [AWS Marketplace now supports self-service promotional media on seller product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-marketplace-self-service-promotional-media-seller-product-detail-pages)
+- [AWS offers a self-service feature to update business names on AWS Invoices](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-self-service-update-business-names-aws-invoices)
+- [AWS Resilience Hub now supports Amazon CloudWatch alarm detection for application resilience](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resilience-hub-amazon-cloudwatch-alarm-detection-application-resilence)
+- [AWS Backup launches support for search and item-level recovery](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-search-item-level-recovery)
+- [Amazon Connect Tasks now support durations up to 30 days](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-tasks-durations-30-days)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
-- [AWS DMS now supports Kerberos authentication for Oracle and SQL Server Source Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-dms-kerberos-authentication-oracle-sql-server-source-endpoints)
-- [Amazon Q Business analytics dashboard enhanced with conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-analytics-dashboard-conversation-insights)
-- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm version 24.05](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-pcs-slurm-version-24-05)
+- [AWS Mainframe Modernization now supports connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-mainframe-modernization-connectivity-ipv6)
+- [Announcing NVMe-backed R6gd Instances for Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/nvme-backed-r6gd-instances-amazon-documentdb-mongodb-compatibility)
+- [AWS Backup now supports Amazon Timestream in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-amazon-timestream-govcloud-us-west)
+- [Announcing CloudFormation support for AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/12/cloudformation-aws-parallel-computing-service)
 - [AWS Resilience Hub now provides tailored AWS Fault Injection Service recommendations](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resilience-hub-fault-injection-service-recommendations/)
 - [AWS Marketplace now supports self-service promotional media on seller product detail pages](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-marketplace-self-service-promotional-media-seller-product-detail-pages)
+- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
 - [AWS offers a self-service feature to update business names on AWS Invoices](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-self-service-update-business-names-aws-invoices)
-- [AWS Resilience Hub now supports Amazon CloudWatch alarm detection for application resilience](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-resilience-hub-amazon-cloudwatch-alarm-detection-application-resilence)
-- [AWS Backup launches support for search and item-level recovery](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-search-item-level-recovery)
-- [Amazon Connect Tasks now support durations up to 30 days](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-tasks-durations-30-days)
+- [Amazon Q Business analytics dashboard enhanced with conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-analytics-dashboard-conversation-insights)
+- [AWS DMS now supports Kerberos authentication for Oracle and SQL Server Source Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-dms-kerberos-authentication-oracle-sql-server-source-endpoints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

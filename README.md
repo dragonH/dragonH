@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing Stable Diffusion 3.5 Large in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/stable-diffusion-3-5-large-amazon-bedrock)
+- [New insights and reporting for resell revenue available in AWS Partner Central Analytics](https://aws.amazon.com/about-aws/whats-new/2024/12/insights-reporting-resell-revenue-aws-partner-central-analytics)
 - [AWS ParallelCluster 3.12 now available with custom image build enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-parallelcluster-3-12-custom-image-build-enhancements)
+- [Amazon Connect now supports multi-party chat](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-multiparty-chat/)
+- [Meta’s Llama 3.3 70B model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/metas-llama-3-3-70b-model-amazon-bedrock/)
+- [Amazon AppStream 2.0 introduces Rocky Linux Application and Desktop streaming](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-appstream-2-0-rocky-linux-desktop-streaming/)
+- [Amazon ECS now supports network fault injection experiments on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecs-network-fault-injection-experiments-fargate/)
 - [AWS IoT Device Management introduces high-throughput device connectivity status queries](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-device-management-high-throughput-device-connectivity-status-queries)
 - [Amazon RDS Proxy announces caching_sha2_password authentication support for MySQL on Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-proxy-sha2-password-authentication-mysql-aurora-rds/)
-- [AWS Mainframe Modernization now supports connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-mainframe-modernization-connectivity-ipv6)
-- [Announcing NVMe-backed R6gd Instances for Amazon DocumentDB &lpar;with MongoDB Compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/nvme-backed-r6gd-instances-amazon-documentdb-mongodb-compatibility)
-- [AWS Backup now supports Amazon Timestream in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-amazon-timestream-govcloud-us-west)
-- [Announcing CloudFormation support for AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2024/12/cloudformation-aws-parallel-computing-service)
-- [AWS Glue expands connectivity to 16 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-glue-16-native-connectors-applications/)
-- [AWS DMS now supports Kerberos authentication for Oracle and SQL Server Source Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-dms-kerberos-authentication-oracle-sql-server-source-endpoints)
-- [Amazon Q Business analytics dashboard enhanced with conversation insights](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-analytics-dashboard-conversation-insights)
+- [Amazon RDS for MySQL supports Innovation Release version 9.1 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-mysql-innovation-release-version-9-1-rds-database-preview-environment)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup now supports resource type and multiple tag selections in backup policies in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-resource-type-multiple-tag-selections-backup-policies-govcloud-regions)
+- [Amazon Connect launches support for 64 languages for Amazon Q in Connect agent assistance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-64-languages-q-connect-agent-assistance)
 - [Introducing Stable Diffusion 3.5 Large in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/stable-diffusion-3-5-large-amazon-bedrock)
 - [New insights and reporting for resell revenue available in AWS Partner Central Analytics](https://aws.amazon.com/about-aws/whats-new/2024/12/insights-reporting-resell-revenue-aws-partner-central-analytics)
 - [AWS ParallelCluster 3.12 now available with custom image build enhancements](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-parallelcluster-3-12-custom-image-build-enhancements)
@@ -66,8 +68,6 @@
 - [Amazon AppStream 2.0 introduces Rocky Linux Application and Desktop streaming](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-appstream-2-0-rocky-linux-desktop-streaming/)
 - [AWS Config now supports 3 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-3-new-resource-types/)
 - [Amazon Connect now supports multi-party chat](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-multiparty-chat/)
-- [Amazon AppStream 2.0 introduces client for macOS](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-appstream-introduces-client-macos)
-- [AWS IoT Device Management introduces high-throughput device connectivity status queries](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-iot-device-management-high-throughput-device-connectivity-status-queries)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

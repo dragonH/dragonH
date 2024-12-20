@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Db2 supports multiple databases within an instance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-db2-multiple-databases-instance/)
+- [Amazon WorkSpaces Personal now supports AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-workspaces-personal-aws-global-accelerator)
+- [Amazon Q Business is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-soc-compliant)
+- [Amazon QuickSight Launches Unique Key for Dataset](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-quicksight-unique-key-dataset/)
+- [Amazon RDS for MariaDB supports minors 11.4.4, 10.11.10, 10.6.20, 10.5.27](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-mariadb-supports-new-minors/)
+- [Amazon Connect now supports deletion of queues and routing profiles from the admin website](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-deletion-queues-routing-profiles/)
+- [Amazon Connect now provides built-in capabilities for customer authentication within chats](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-built-in-customer-authentication-chats/)
 - [AWS Backup now supports resource type and multiple tag selections in backup policies in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-resource-type-multiple-tag-selections-backup-policies-govcloud-regions)
 - [Amazon Connect launches support for 64 languages for Amazon Q in Connect agent assistance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-64-languages-q-connect-agent-assistance)
 - [Introducing Stable Diffusion 3.5 Large in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/stable-diffusion-3-5-large-amazon-bedrock)
-- [New insights and reporting for resell revenue available in AWS Partner Central Analytics](https://aws.amazon.com/about-aws/whats-new/2024/12/insights-reporting-resell-revenue-aws-partner-central-analytics)
-- [Amazon AppStream 2.0 introduces Rocky Linux Application and Desktop streaming](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-appstream-2-0-rocky-linux-desktop-streaming/)
-- [Amazon AppStream 2.0 introduces client for macOS](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-appstream-introduces-client-macos)
-- [AWS Config now supports 3 new resource types](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-config-3-new-resource-types/)
-- [Amazon Connect now supports multi-party chat](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-multiparty-chat/)
-- [Meta’s Llama 3.3 70B model now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/metas-llama-3-3-70b-model-amazon-bedrock/)
-- [Amazon ECS now supports network fault injection experiments on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecs-network-fault-injection-experiments-fargate/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

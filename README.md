@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Billing and Cost Management now supports custom billing views for decentralized cloud cost management](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-billing-cost-management-custom-billing-views)
+- [Amazon MSK Connect adds support for Apache Kafka Connect version 3.7](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-connect-apache-kafka-connect-version-3-7)
 - [Amazon RDS for Db2 supports multiple databases within an instance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-db2-multiple-databases-instance/)
+- [Amazon Location Service now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-ipv6/)
+- [Amazon EventBridge announces API destinations proactive OAuth token refresh](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eventbridge-api-oauth-token-refresh/)
 - [Amazon WorkSpaces Personal now supports AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-workspaces-personal-aws-global-accelerator)
 - [Amazon Q Business is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-soc-compliant)
 - [Amazon QuickSight Launches Unique Key for Dataset](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-quicksight-unique-key-dataset/)
 - [Amazon RDS for MariaDB supports minors 11.4.4, 10.11.10, 10.6.20, 10.5.27](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-mariadb-supports-new-minors/)
 - [Amazon Connect now supports deletion of queues and routing profiles from the admin website](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-deletion-queues-routing-profiles/)
-- [Amazon Connect now provides built-in capabilities for customer authentication within chats](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-built-in-customer-authentication-chats/)
-- [AWS Backup now supports resource type and multiple tag selections in backup policies in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-backup-resource-type-multiple-tag-selections-backup-policies-govcloud-regions)
-- [Amazon Connect launches support for 64 languages for Amazon Q in Connect agent assistance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-64-languages-q-connect-agent-assistance)
-- [Introducing Stable Diffusion 3.5 Large in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2024/12/stable-diffusion-3-5-large-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

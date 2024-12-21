@@ -61,13 +61,13 @@
 - [Amazon EKS expands catalog of upgrade insight checks](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-catalog-upgrade-insights-checks)
 - [AWS Billing and Cost Management now supports custom billing views for decentralized cloud cost management](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-billing-cost-management-custom-billing-views)
 - [Amazon MSK Connect adds support for Apache Kafka Connect version 3.7](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-connect-apache-kafka-connect-version-3-7)
-- [Amazon Location Service now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-ipv6/)
 - [Amazon RDS for Db2 supports multiple databases within an instance](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-db2-multiple-databases-instance/)
-- [Amazon EventBridge announces API destinations proactive OAuth token refresh](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eventbridge-api-oauth-token-refresh/)
+- [Amazon Location Service now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-ipv6/)
 - [Amazon Connect launches improved agent hierarchy configuration interface with AWS CloudTrail support](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-agent-hierarchy-configuration-interface-cloudtrail/)
+- [Amazon EventBridge announces API destinations proactive OAuth token refresh](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eventbridge-api-oauth-token-refresh/)
 - [Amazon Connect launches AWS CloudTrail support for Agent Status configuration](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-cloudtrail-agent-status-configuration/)
 - [Amazon WorkSpaces Personal now supports AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-workspaces-personal-aws-global-accelerator)
-- [Amazon RDS for MariaDB supports minors 11.4.4, 10.11.10, 10.6.20, 10.5.27](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-mariadb-supports-new-minors/)
+- [Amazon Q Business is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-soc-compliant)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

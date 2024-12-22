@@ -67,7 +67,7 @@
 - [Amazon EventBridge announces API destinations proactive OAuth token refresh](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eventbridge-api-oauth-token-refresh/)
 - [Amazon Connect launches AWS CloudTrail support for Agent Status configuration](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-cloudtrail-agent-status-configuration/)
 - [Amazon WorkSpaces Personal now supports AWS Global Accelerator](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-workspaces-personal-aws-global-accelerator)
-- [Amazon Q Business is now SOC compliant](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-q-business-soc-compliant)
+- [Amazon RDS for MariaDB supports minors 11.4.4, 10.11.10, 10.6.20, 10.5.27](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-rds-mariadb-supports-new-minors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

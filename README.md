@@ -64,8 +64,8 @@
 - [Amazon Managed Service for Prometheus collector now support collecting metrics from IPv6 EKS clusters](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-prometheus-collector-metrics-ipv6-eks-clusters/)
 - [AWS CloudTrail now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloudtrail-ipv6)
 - [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-graviton3-based-m7g-instances-paris/)
-- [Amazon Connect launches support for routing to a specific range of agent proficiencies](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-routing-range-agent-proficiencies/)
-- [Amazon Connect offers the ability to exclude certain proficiencies during routing](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-exclude-proficiencies-routing)
+- [Amazon Lightsail API endpoints now support connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-lightsail-api-endpoints-connectivity-ipv6)
+- [Amazon Bedrock Agents, Flows, and Knowledge Bases now supports Latency Optimized Models](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-agents-flows-knowledge-optimized-models/)
 - [New Guides on AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/12/guides-aws-partner-central/)
 - [SES Mail Manager now supports full lifecycle logging](https://aws.amazon.com/about-aws/whats-new/2024/12/ses-mail-manager-full-lifecycle-logging/)
 <!-- AWS-NEWS:END -->

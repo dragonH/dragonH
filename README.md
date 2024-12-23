@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Managed Service for Prometheus collector now support collecting metrics from IPv6 EKS clusters](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-prometheus-collector-metrics-ipv6-eks-clusters/)
+- [AWS Neuron introduces support for Trainium2 and NxD Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-neuron-trainium2-nxd-inference)
 - [AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies)
 - [AWS announces notification actions in the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-notification-actions-aws-console-mobile-app-ios)
-- [AWS Neuron introduces support for Trainium2 and NxD Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-neuron-trainium2-nxd-inference)
+- [Amazon Managed Service for Prometheus collector now support collecting metrics from IPv6 EKS clusters](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-prometheus-collector-metrics-ipv6-eks-clusters/)
+- [AWS CloudTrail now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloudtrail-ipv6)
+- [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-graviton3-based-m7g-instances-paris/)
 - [Amazon Connect launches support for routing to a specific range of agent proficiencies](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-routing-range-agent-proficiencies/)
 - [Amazon Connect offers the ability to exclude certain proficiencies during routing](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-connect-exclude-proficiencies-routing)
 - [New Guides on AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/12/guides-aws-partner-central/)
-- [Amazon EKS expands catalog of upgrade insight checks](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-catalog-upgrade-insights-checks)
-- [AWS Billing and Cost Management now supports custom billing views for decentralized cloud cost management](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-billing-cost-management-custom-billing-views)
-- [Amazon MSK Connect adds support for Apache Kafka Connect version 3.7](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-connect-apache-kafka-connect-version-3-7)
+- [SES Mail Manager now supports full lifecycle logging](https://aws.amazon.com/about-aws/whats-new/2024/12/ses-mail-manager-full-lifecycle-logging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

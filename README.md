@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS introduces programmatic access to Kubernetes version availability](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-access-kubernetes-version-availability/)
+- [Amazon EC2 Im4gn Instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-im4gn-instances-spain-region/)
 - [Amazon ECR expands registry policy to all ECR actions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecr-expands-registry-policy-ecr-actions/)
 - [Llama 3.3 70B now available on AWS via Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/12/llama-3-3-70b-aws-amazon-sagemaker-jumpstart)
 - [AWS Neuron introduces support for Trainium2 and NxD Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-neuron-trainium2-nxd-inference)
@@ -66,8 +68,6 @@
 - [Amazon Managed Service for Prometheus collector now support collecting metrics from IPv6 EKS clusters](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-prometheus-collector-metrics-ipv6-eks-clusters/)
 - [AWS CloudTrail now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloudtrail-ipv6)
 - [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-graviton3-based-m7g-instances-paris/)
-- [Amazon Lightsail API endpoints now support connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-lightsail-api-endpoints-connectivity-ipv6)
-- [Amazon Bedrock Agents, Flows, and Knowledge Bases now supports Latency Optimized Models](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-agents-flows-knowledge-optimized-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECR expands registry policy to all ECR actions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecr-expands-registry-policy-ecr-actions/)
+- [Llama 3.3 70B now available on AWS via Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/12/llama-3-3-70b-aws-amazon-sagemaker-jumpstart)
 - [AWS Neuron introduces support for Trainium2 and NxD Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-neuron-trainium2-nxd-inference)
 - [AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies)
 - [AWS announces notification actions in the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-notification-actions-aws-console-mobile-app-ios)
@@ -66,8 +68,6 @@
 - [Amazon MSK now extends support for Graviton3 based M7G instances in Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-msk-graviton3-based-m7g-instances-paris/)
 - [Amazon Lightsail API endpoints now support connectivity over Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-lightsail-api-endpoints-connectivity-ipv6)
 - [Amazon Bedrock Agents, Flows, and Knowledge Bases now supports Latency Optimized Models](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-bedrock-agents-flows-knowledge-optimized-models/)
-- [New Guides on AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2024/12/guides-aws-partner-central/)
-- [SES Mail Manager now supports full lifecycle logging](https://aws.amazon.com/about-aws/whats-new/2024/12/ses-mail-manager-full-lifecycle-logging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

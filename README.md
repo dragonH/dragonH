@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IPv6 compatibility for AWS Secrets Manager VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/ipv6-compatibility-aws-secrets-manager-vpc-endpoints)
 - [Amazon EC2 I7ie instances now available in AWS US East &lpar;Ohio&rpar;, US West &lpar;Oregon&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i7ie-instances-ohio-oregon-regions)
 - [Amazon EKS introduces programmatic access to Kubernetes version availability](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-access-kubernetes-version-availability/)
 - [Amazon EC2 Im4gn Instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-im4gn-instances-spain-region/)
@@ -67,7 +68,6 @@
 - [AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies)
 - [AWS announces notification actions in the AWS Console Mobile App for iOS](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-notification-actions-aws-console-mobile-app-ios)
 - [Amazon Managed Service for Prometheus collector now support collecting metrics from IPv6 EKS clusters](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-prometheus-collector-metrics-ipv6-eks-clusters/)
-- [AWS CloudTrail now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-cloudtrail-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Discovery Services now supports IPv6 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-application-discovery-services-ipv6-endpoints/)
 - [Amazon Location Service is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-aws-asia-pacific-malaysia-region)
 - [Amazon Aurora now supports PostgreSQL 16.6, 15.10, 14.15, 13.18, and 12.22](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-postgresql-supports-new-versions/)
 - [IPv6 compatibility for AWS Secrets Manager VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/ipv6-compatibility-aws-secrets-manager-vpc-endpoints)
@@ -67,7 +68,6 @@
 - [Amazon ECR expands registry policy to all ECR actions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecr-expands-registry-policy-ecr-actions/)
 - [Llama 3.3 70B now available on AWS via Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/12/llama-3-3-70b-aws-amazon-sagemaker-jumpstart)
 - [AWS Neuron introduces support for Trainium2 and NxD Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-neuron-trainium2-nxd-inference)
-- [AWS Systems Manager for SAP now supports SAP NetWeaver based ABAP applications deployed in distributed and HA topologies](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-systems-manager-sap-netweaver-based-abap-applications-deployed-distributed-ha-topologies)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

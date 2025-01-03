@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region)
+- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-lustre-aws-asia-pacific-malaysia-region)
+- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region)
+- [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-openzfs-aws-asia-pacific-malaysia-region)
 - [AWS Application Discovery Services now supports IPv6 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-application-discovery-services-ipv6-endpoints/)
 - [Amazon Location Service is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-aws-asia-pacific-malaysia-region)
 - [Amazon Aurora now supports PostgreSQL 16.6, 15.10, 14.15, 13.18, and 12.22](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-postgresql-supports-new-versions/)
 - [IPv6 compatibility for AWS Secrets Manager VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/ipv6-compatibility-aws-secrets-manager-vpc-endpoints)
 - [Amazon EC2 I7ie instances now available in AWS US East &lpar;Ohio&rpar;, US West &lpar;Oregon&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i7ie-instances-ohio-oregon-regions)
 - [Amazon EKS introduces programmatic access to Kubernetes version availability](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-eks-access-kubernetes-version-availability/)
-- [Amazon EC2 Im4gn Instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-im4gn-instances-spain-region/)
-- [Amazon ECR expands registry policy to all ECR actions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ecr-expands-registry-policy-ecr-actions/)
-- [Llama 3.3 70B now available on AWS via Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2024/12/llama-3-3-70b-aws-amazon-sagemaker-jumpstart)
-- [AWS Neuron introduces support for Trainium2 and NxD Inference](https://aws.amazon.com/about-aws/whats-new/2024/12/aws-neuron-trainium2-nxd-inference)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

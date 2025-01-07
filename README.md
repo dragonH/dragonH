@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing 20 additional AWS Systems Manager Automation runbook recommendations in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2025/01/20-additional-aws-systems-manager-automation-runbook-recommendations-chatbot)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region)
 - [AWS WAF Console adds new Top Insights Visualizations](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-waf-console-top-insights-visualizations/)
 - [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-openzfs-aws-asia-pacific-malaysia-region)
@@ -67,7 +68,6 @@
 - [Amazon Location Service is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-aws-asia-pacific-malaysia-region)
 - [Amazon Aurora now supports PostgreSQL 16.6, 15.10, 14.15, 13.18, and 12.22](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-postgresql-supports-new-versions/)
 - [IPv6 compatibility for AWS Secrets Manager VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2024/12/ipv6-compatibility-aws-secrets-manager-vpc-endpoints)
-- [Amazon EC2 I7ie instances now available in AWS US East &lpar;Ohio&rpar;, US West &lpar;Oregon&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-ec2-i7ie-instances-ohio-oregon-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

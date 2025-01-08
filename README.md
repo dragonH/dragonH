@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK Connect APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-apis-aws-privatelink)
+- [AWS announces new AWS Direct Connect location and expansion in Bangkok, Thailand](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-location-expansion-bangkok-thailand/)
 - [Announcing 20 additional AWS Systems Manager Automation runbook recommendations in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2025/01/20-additional-aws-systems-manager-automation-runbook-recommendations-chatbot)
 - [Amazon DynamoDB now supports configurable point-in-time-recovery periods](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-dynamodb-configurable-point-in-time-recovery-periods/)
 - [AWS WAF Console adds new Top Insights Visualizations](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-waf-console-top-insights-visualizations/)
@@ -66,8 +68,6 @@
 - [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region)
 - [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-lustre-aws-asia-pacific-malaysia-region)
 - [AWS Application Discovery Services now supports IPv6 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-application-discovery-services-ipv6-endpoints/)
-- [Amazon Location Service is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-location-service-aws-asia-pacific-malaysia-region)
-- [Amazon Aurora now supports PostgreSQL 16.6, 15.10, 14.15, 13.18, and 12.22](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-aurora-postgresql-supports-new-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

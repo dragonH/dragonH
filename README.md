@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability of a new AWS Local Zone in New York City](https://aws.amazon.com/about-aws/whats-new/2025/01/general-availability-aws-local-zone-new-york-city)
+- [Amazon EC2 C7i instances now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c7i-instances-aws-govcloud-us-west-region)
 - [Amazon Connect Contact Lens now provides free trials for conversational analytics and performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-free-trials-conversational-analytics-performance-evaluations)
 - [Amazon MSK Connect APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-apis-aws-privatelink)
 - [AWS announces new AWS Direct Connect location and expansion in Bangkok, Thailand](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-location-expansion-bangkok-thailand/)
@@ -66,8 +68,6 @@
 - [Amazon DynamoDB now supports configurable point-in-time-recovery periods](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-dynamodb-configurable-point-in-time-recovery-periods/)
 - [AWS WAF Console adds new Top Insights Visualizations](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-waf-console-top-insights-visualizations/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-netapp-ontap-aws-asia-pacific-malaysia-region)
-- [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-openzfs-aws-asia-pacific-malaysia-region)
-- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-fsx-windows-file-server-aws-asia-pacific-malaysia-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

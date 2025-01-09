@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS Marketplace launches disbursement pause notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-disbursement-pause-notifications)
 - [AWS Compute Optimizer now expands idle and rightsizing recommendations for Amazon EC2 Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups)
+- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c8g-instances-additional-regions/)
 - [Announcing the general availability of a new AWS Local Zone in New York City](https://aws.amazon.com/about-aws/whats-new/2025/01/general-availability-aws-local-zone-new-york-city)
 - [Amazon EC2 C7i instances now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c7i-instances-aws-govcloud-us-west-region)
 - [Amazon Connect Contact Lens now provides free trials for conversational analytics and performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-free-trials-conversational-analytics-performance-evaluations)
 - [Amazon Q Developer is now available in Amazon SageMaker Code Editor IDE](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-sagemaker-code-editor-ide/)
-- [AWS announces new AWS Direct Connect location and expansion in Bangkok, Thailand](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-location-expansion-bangkok-thailand/)
 - [Amazon MSK Connect APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-apis-aws-privatelink)
+- [AWS announces new AWS Direct Connect location and expansion in Bangkok, Thailand](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-location-expansion-bangkok-thailand/)
 - [Announcing 20 additional AWS Systems Manager Automation runbook recommendations in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2025/01/20-additional-aws-systems-manager-automation-runbook-recommendations-chatbot)
-- [Amazon DynamoDB now supports configurable point-in-time-recovery periods](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-dynamodb-configurable-point-in-time-recovery-periods/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports Innovation Release 11.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-mariadb-innovation-release-11-7-rds-database-preview-environment)
+- [AWS CodeBuild now supports batch builds with reserved capacity and Lambda compute](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-batch-builds-reserved-capacity-lambda-compute/)
 - [AWS Marketplace launches disbursement pause notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-disbursement-pause-notifications)
 - [AWS Compute Optimizer now expands idle and rightsizing recommendations for Amazon EC2 Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c8g-instances-additional-regions/)
@@ -66,8 +68,6 @@
 - [Amazon Connect Contact Lens now provides free trials for conversational analytics and performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-free-trials-conversational-analytics-performance-evaluations)
 - [Amazon Q Developer is now available in Amazon SageMaker Code Editor IDE](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-sagemaker-code-editor-ide/)
 - [Amazon MSK Connect APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-apis-aws-privatelink)
-- [AWS announces new AWS Direct Connect location and expansion in Bangkok, Thailand](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-location-expansion-bangkok-thailand/)
-- [Announcing 20 additional AWS Systems Manager Automation runbook recommendations in AWS Chatbot](https://aws.amazon.com/about-aws/whats-new/2025/01/20-additional-aws-systems-manager-automation-runbook-recommendations-chatbot)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

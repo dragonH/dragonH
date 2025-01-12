@@ -60,8 +60,8 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Connect Contact Lens launches agent performance evaluations for email contacts](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-agent-performance-evaluations-email-contacts)
 - [Amazon RDS for MariaDB supports Innovation Release 11.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-mariadb-innovation-release-11-7-rds-database-preview-environment)
-- [AWS CodeBuild now supports batch builds with reserved capacity and Lambda compute](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-batch-builds-reserved-capacity-lambda-compute/)
 - [AWS End User Messaging expands self-service sender ID registration support in 19 new countries](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-end-user-messaging-self-service-id-registration/)
+- [AWS CodeBuild now supports batch builds with reserved capacity and Lambda compute](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-batch-builds-reserved-capacity-lambda-compute/)
 - [AWS Marketplace launches disbursement pause notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-disbursement-pause-notifications)
 - [AWS Compute Optimizer now expands idle and rightsizing recommendations for Amazon EC2 Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c8g-instances-additional-regions/)

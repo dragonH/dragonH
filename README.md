@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Image Builder simplifies converting Windows ISO files to AMIs](https://aws.amazon.com/about-aws/whats-new/2025/01/ec2-image-builder-converting-windows-iso-files-amis)
 - [AWS now accepts payments in 8 new local currencies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-payments-new-local-currencies)
 - [AWS Security Hub now integrates with Amazon Route 53 Resolver DNS Firewall](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/)
 - [Amazon MSK Connect now supports updating connector configuration](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-connect-updating-connector-configuration/)
@@ -67,7 +68,6 @@
 - [AWS CodeBuild now supports batch builds with reserved capacity and Lambda compute](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-batch-builds-reserved-capacity-lambda-compute/)
 - [AWS Marketplace launches disbursement pause notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-disbursement-pause-notifications)
 - [AWS Compute Optimizer now expands idle and rightsizing recommendations for Amazon EC2 Auto Scaling groups](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-compute-optimizer-idle-rightsizing-recommendations-amazon-ec2-auto-scaling-groups)
-- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c8g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [EC2 Image Builder simplifies converting Windows ISO files to AMIs](https://aws.amazon.com/about-aws/whats-new/2025/01/ec2-image-builder-converting-windows-iso-files-amis)
+- [Amazon EC2 M8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-m8g-instances-europe-stockholm/)
 - [AWS announces new AWS Direct Connect location and expansion in Querétaro, Mexico](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-expansion-queretaro-mexico/)
 - [AWS now accepts payments in 8 new local currencies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-payments-new-local-currencies)
 - [AWS Security Hub now integrates with Amazon Route 53 Resolver DNS Firewall](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-security-hub-route-53-resolver-dns-firewall/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for MariaDB supports Innovation Release 11.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-mariadb-innovation-release-11-7-rds-database-preview-environment)
 - [AWS End User Messaging expands self-service sender ID registration support in 19 new countries](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-end-user-messaging-self-service-id-registration/)
 - [AWS CodeBuild now supports batch builds with reserved capacity and Lambda compute](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-batch-builds-reserved-capacity-lambda-compute/)
-- [AWS Marketplace launches disbursement pause notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-disbursement-pause-notifications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

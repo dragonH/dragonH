@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-opensearch-serverless-asia-pacific-hong-kong-region)
 - [EC2 Image Builder simplifies converting Windows ISO files to AMIs](https://aws.amazon.com/about-aws/whats-new/2025/01/ec2-image-builder-converting-windows-iso-files-amis)
 - [Amazon EC2 M8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-m8g-instances-europe-stockholm/)
 - [AWS announces new AWS Direct Connect location and expansion in Querétaro, Mexico](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-direct-connect-expansion-queretaro-mexico/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Contact Lens launches agent performance evaluations for email contacts](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-agent-performance-evaluations-email-contacts)
 - [Amazon RDS for MariaDB supports Innovation Release 11.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-mariadb-innovation-release-11-7-rds-database-preview-environment)
 - [AWS End User Messaging expands self-service sender ID registration support in 19 new countries](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-end-user-messaging-self-service-id-registration/)
-- [AWS CodeBuild now supports batch builds with reserved capacity and Lambda compute](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-batch-builds-reserved-capacity-lambda-compute/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

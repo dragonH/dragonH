@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Start collaborating on multi-partner opportunities with Partner Connections](https://aws.amazon.com/about-aws/whats-new/2025/01/multi-partner-opportunities-partner-connections)
 - [AWS Elastic Beanstalk adds additional Spot allocation strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-spot-allocation-strategies)
 - [Amazon ElastiCache now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-service-quotas)
 - [Amazon MSK announces support for additional Graviton-3 &lpar;m7g&rpar; instance sizes for Express Brokers](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-graviton-3-m7g-instance-sizes-express-brokers)
@@ -66,8 +67,7 @@
 - [AWS Backup supports organization-wide reports in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/)
 - [AWS Marketplace now supports Tax Collection and Multiple Tax Profiles for Switzerland](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-tax-collection-profiles-switzerland/)
 - [Amazon EC2 C7i-flex instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c7i-flex-instances-govcloud-us-west-region/)
-- [AWS Elemental MediaTailor now supports log filtering](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediatailor-supports-log-filtering/)
-- [Customer Carbon Footprint Tool moved to a new dedicated page](https://aws.amazon.com/about-aws/whats-new/2025/01/customer-carbon-footprint-tool-dedicated-page/)
+- [Announcing larger General Purpose bundles for WorkSpaces Personal and Core](https://aws.amazon.com/about-aws/whats-new/2025/01/larger-general-purpose-bundles-workspaces-personal-core/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

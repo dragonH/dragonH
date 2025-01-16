@@ -63,11 +63,11 @@
 - [Amazon ElastiCache now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-service-quotas)
 - [Amazon MSK announces support for additional Graviton-3 &lpar;m7g&rpar; instance sizes for Express Brokers](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-graviton-3-m7g-instance-sizes-express-brokers)
 - [Amazon MemoryDB now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-memorydb-service-quotas)
-- [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-opensearch-serverless-asia-pacific-hong-kong-region)
 - [AWS Marketplace now supports Tax Collection and Multiple Tax Profiles for Switzerland](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-tax-collection-profiles-switzerland/)
 - [Announcing larger General Purpose bundles for WorkSpaces Personal and Core](https://aws.amazon.com/about-aws/whats-new/2025/01/larger-general-purpose-bundles-workspaces-personal-core/)
 - [AWS Backup supports organization-wide reports in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/)
 - [Amazon EC2 C7i-flex instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c7i-flex-instances-govcloud-us-west-region/)
+- [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-opensearch-serverless-asia-pacific-hong-kong-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

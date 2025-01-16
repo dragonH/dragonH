@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [The AWS Management Console now supports simultaneous sign-in for multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-management-console-simultaneous-sign-in-multiple-accounts)
 - [Amazon EC2 I8g instances are now available in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i8g-instances-europe-frankfurt-region)
+- [AWS Resource Explorer supports 29 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-explorer-29-new-resource-types/)
 - [Start collaborating on multi-partner opportunities with Partner Connections](https://aws.amazon.com/about-aws/whats-new/2025/01/multi-partner-opportunities-partner-connections)
 - [AWS Elastic Beanstalk adds additional Spot allocation strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-spot-allocation-strategies)
 - [Amazon ElastiCache now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-service-quotas)
 - [Amazon MSK announces support for additional Graviton-3 &lpar;m7g&rpar; instance sizes for Express Brokers](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-graviton-3-m7g-instance-sizes-express-brokers)
 - [Amazon MemoryDB now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-memorydb-service-quotas)
-- [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hong Kong&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-opensearch-serverless-asia-pacific-hong-kong-region)
 - [AWS Marketplace now supports Tax Collection and Multiple Tax Profiles for Switzerland](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-tax-collection-profiles-switzerland/)
 - [Announcing larger General Purpose bundles for WorkSpaces Personal and Core](https://aws.amazon.com/about-aws/whats-new/2025/01/larger-general-purpose-bundles-workspaces-personal-core/)
-- [AWS Backup supports organization-wide reports in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS CodePipeline introduces new debugging experience in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codepipeline-debugging-experience-aws-management-console)
 - [The AWS Management Console now supports simultaneous sign-in for multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-management-console-simultaneous-sign-in-multiple-accounts)
+- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-r8g-instances-additional-regions/)
 - [Amazon EC2 I8g instances are now available in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i8g-instances-europe-frankfurt-region)
 - [AWS Resource Explorer supports 29 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-explorer-29-new-resource-types/)
 - [Start collaborating on multi-partner opportunities with Partner Connections](https://aws.amazon.com/about-aws/whats-new/2025/01/multi-partner-opportunities-partner-connections)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-service-quotas)
 - [Amazon MSK announces support for additional Graviton-3 &lpar;m7g&rpar; instance sizes for Express Brokers](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-msk-graviton-3-m7g-instance-sizes-express-brokers)
 - [Amazon MemoryDB now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-memorydb-service-quotas)
-- [AWS Marketplace now supports Tax Collection and Multiple Tax Profiles for Switzerland](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-tax-collection-profiles-switzerland/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

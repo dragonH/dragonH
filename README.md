@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I8g instances are now available in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i8g-instances-europe-frankfurt-region)
 - [Start collaborating on multi-partner opportunities with Partner Connections](https://aws.amazon.com/about-aws/whats-new/2025/01/multi-partner-opportunities-partner-connections)
 - [AWS Elastic Beanstalk adds additional Spot allocation strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-spot-allocation-strategies)
 - [Amazon ElastiCache now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-service-quotas)
@@ -67,7 +68,6 @@
 - [AWS Marketplace now supports Tax Collection and Multiple Tax Profiles for Switzerland](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-tax-collection-profiles-switzerland/)
 - [Announcing larger General Purpose bundles for WorkSpaces Personal and Core](https://aws.amazon.com/about-aws/whats-new/2025/01/larger-general-purpose-bundles-workspaces-personal-core/)
 - [AWS Backup supports organization-wide reports in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-organization-wide-reports-govcloud/)
-- [Amazon EC2 C7i-flex instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c7i-flex-instances-govcloud-us-west-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

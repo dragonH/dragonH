@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Tables are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-additional-aws-regions)
+- [Amazon Connect outbound campaigns can connect a call with an agent in under 2 seconds](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-outbound-campaigns-connect-call-agent-2-seconds)
+- [Amazon Redshift announces support for two new geospatial H3 Indexing functions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-new-geospatial-h3-indexing-functions)
 - [AWS Encryption SDK for Go now generally available](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-encryption-sdk-go-available/)
+- [Amazon Connect now offers a public preview of persistent agent connections for faster call handling](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-public-preview-persistent-agent-connections/)
+- [Announcing AWS User Notifications GA on AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-user-notifications-ga-cloudformation/)
 - [AWS CodePipeline introduces new debugging experience in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codepipeline-debugging-experience-aws-management-console)
 - [The AWS Management Console now supports simultaneous sign-in for multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-management-console-simultaneous-sign-in-multiple-accounts)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-r8g-instances-additional-regions/)
 - [Amazon GuardDuty is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-guardduty-asia-pacific-malaysia-region/)
 - [Amazon Connect Contact Lens launches new real-time dashboard](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-real-time-dashboard/)
-- [Introducing new larger sizes on Amazon EC2 Flex instances](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-flex-instances-new-larger-sizes/)
-- [Amazon EC2 I8g instances are now available in Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i8g-instances-europe-frankfurt-region)
-- [AWS Resource Explorer supports 29 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-explorer-29-new-resource-types/)
-- [Amazon Connect Contact Lens dashboards now provide configurable groupings and filters](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-contact-lens-dashboards-groupings-filters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

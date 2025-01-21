@@ -67,7 +67,7 @@
 - [Amazon S3 Tables are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-additional-aws-regions)
 - [Amazon Connect outbound campaigns can connect a call with an agent in under 2 seconds](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-outbound-campaigns-connect-call-agent-2-seconds)
 - [Amazon Redshift announces support for two new geospatial H3 Indexing functions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-new-geospatial-h3-indexing-functions)
-- [Announcing AWS User Notifications GA on AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-user-notifications-ga-cloudformation/)
+- [Amazon Connect now offers a public preview of persistent agent connections for faster call handling](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-public-preview-persistent-agent-connections/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge announces direct delivery to cross-account targets](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-direct-delivery-cross-account-targets)
+- [Amazon Aurora now supports R7g and R7i database instances in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-aurora-r7g-r7i-database-instances-asia-pacific-malaysia-region)
 - [Announcing high-throughput mode for Amazon SNS FIFO Topics](https://aws.amazon.com/about-aws/whats-new/2025/01/high-throughput-mode-amazon-sns-fifo-topics)
+- [Amazon Neptune now supports open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-neptune-open-source-graphrag-toolkit/)
+- [Amazon RDS adds Oracle Database R6i SE2 License-Included option in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-oracle-database-r6i-se2-license/)
 - [AWS CodeBuild now supports test splitting and parallelism](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-test-splitting-parallelism)
 - [Amazon S3 Tables are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-additional-aws-regions)
 - [Amazon Connect outbound campaigns can connect a call with an agent in under 2 seconds](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-outbound-campaigns-connect-call-agent-2-seconds)
 - [Amazon Redshift announces support for two new geospatial H3 Indexing functions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-new-geospatial-h3-indexing-functions)
 - [Announcing AWS User Notifications GA on AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-user-notifications-ga-cloudformation/)
-- [Amazon Connect now offers a public preview of persistent agent connections for faster call handling](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-public-preview-persistent-agent-connections/)
-- [Amazon Connect Screen Recording now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-screen-recording-govcloud-us-west/)
-- [AWS Encryption SDK for Go now generally available](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-encryption-sdk-go-available/)
-- [AWS CodePipeline introduces new debugging experience in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codepipeline-debugging-experience-aws-management-console)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

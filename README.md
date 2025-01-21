@@ -64,10 +64,10 @@
 - [Announcing high-throughput mode for Amazon SNS FIFO Topics](https://aws.amazon.com/about-aws/whats-new/2025/01/high-throughput-mode-amazon-sns-fifo-topics)
 - [Amazon RDS adds Oracle Database R6i SE2 License-Included option in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-oracle-database-r6i-se2-license/)
 - [Amazon Neptune now supports open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-neptune-open-source-graphrag-toolkit/)
+- [Amazon Corretto January 2025 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-corretto-january-2025-quarterly-updates/)
 - [AWS Backup is now available in AWS Mexico &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-mexico-central/)
 - [Amazon Redshift introduces new SQL features for zero-ETL integrations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-sql-features-zero-etl-integrations/)
 - [AWS CodeBuild now supports test splitting and parallelism](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-test-splitting-parallelism)
-- [Amazon S3 Tables are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

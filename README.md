@@ -65,8 +65,8 @@
 - [Amazon Neptune now supports open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-neptune-open-source-graphrag-toolkit/)
 - [Amazon RDS adds Oracle Database R6i SE2 License-Included option in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-oracle-database-r6i-se2-license/)
 - [Amazon Corretto January 2025 quarterly updates](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-corretto-january-2025-quarterly-updates/)
-- [Amazon Redshift introduces new SQL features for zero-ETL integrations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-sql-features-zero-etl-integrations/)
 - [AWS Backup is now available in AWS Mexico &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-backup-mexico-central/)
+- [Amazon Redshift introduces new SQL features for zero-ETL integrations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-sql-features-zero-etl-integrations/)
 - [AWS CodeBuild now supports test splitting and parallelism](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-test-splitting-parallelism)
 <!-- AWS-NEWS:END -->
 

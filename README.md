@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Groups now supports 172 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types)
+- [Amazon ElastiCache now supports 1-click connectivity setup between EC2 and your cache](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-1-click-connectivity-setup-ec2-cache)
 - [Amazon CloudWatch Observability add-on launches one step onboarding for EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-observability-add-on-one-step-onboarding-eks-workloads)
 - [AWS Marketplace introduces 8 decimal place precision for usage pricing](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-8-decimal-place-precision-usage-pricing)
 - [CloudWatch provides execution plan capture for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-execution-plan-capture-aurora-postgresql)
@@ -66,8 +68,6 @@
 - [Amazon Connect now provides daily headcount projections in capacity plan downloads](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-headcount-projections-plan-downloads/)
 - [Amazon DynamoDB introduces warm throughput for tables and indexes in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-dynamodb-warm-tables-indexes-govcloud/)
 - [Amazon EC2 introduces provisioning control for On-Demand Capacity Reservations in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-provisioning-on-demand-capacity-reservations/)
-- [Amazon Redshift announces support for History Mode for zero-ETL integrations](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-history-mode-zero-etl-integrations/)
-- [Amazon Connect agent workspace now supports audio optimization for Citrix and Amazon WorkSpaces virtual desktops](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-workspace-audio-optimization-citrix-workspaces-virtual-desktops)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

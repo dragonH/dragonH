@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces new edge location in the Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2025/01/new-edge-location-kingdom-saudi-arabia)
+- [Amazon Bedrock now offers multimodal support for Cohere Embed 3 Multilingual and Embed 3 English](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-multimodal-cohere-embed-3-multilingual-english)
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.32](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-eks-distro-kubernetes-version-1-32)
 - [Amazon Q Business now supports insights from images uploaded in chat](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-business-insights-images-uploaded-chat)
 - [Amazon Redshift Multi-AZ is generally available for RA3 clusters in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-multi-az-ra3-clusters-2-regions/)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.6](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-aurora-postgresql-limitless-database-16-6/)
 - [Amazon EC2 I7ie instances now available in AWS Europe &lpar;Frankfurt, London&rpar;, and Asia Pacific &lpar;Tokyo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i7ie-instances-frankfurt-london-tokyo-regions/)
+- [AWS Transfer Family supports custom directory locations to store AS2 files](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-transfer-family-custom-directory-locations-as2-files/)
 - [Amazon EFS is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-efs-aws-mexico-central-region)
 - [AWS Elastic Beanstalk improves scaling and deployment speeds for Windows instance with EC2 Fast-launch](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-scaling-deployment-speeds-windows-instance-ec2-fast-launch)
-- [AWS Marketplace launches automated version archiving for AMI and container products](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-automated-archiving-ami-container-products/)
-- [AWS Elastic Beanstalk adds default support of EC2 Launch Template when creating new environments](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-ec2-launch-template-environments/)
-- [AWS Resource Groups now supports 172 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EFS is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-efs-aws-mexico-central-region)
 - [AWS Elastic Beanstalk improves scaling and deployment speeds for Windows instance with EC2 Fast-launch](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-scaling-deployment-speeds-windows-instance-ec2-fast-launch)
-- [AWS Resource Groups now supports 172 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types)
 - [Luma AI&#39;s Ray2 visual AI model Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/01/luma-ais-ray2-visual-ai-model-amazon-bedrock/)
 - [AWS Marketplace launches automated version archiving for AMI and container products](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-automated-archiving-ami-container-products/)
 - [AWS Elastic Beanstalk adds default support of EC2 Launch Template when creating new environments](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-ec2-launch-template-environments/)
+- [AWS Resource Groups now supports 172 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-resource-groups-more-resource-types)
 - [Amazon ElastiCache now supports 1-click connectivity setup between EC2 and your cache](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-elasticache-1-click-connectivity-setup-ec2-cache)
 - [Amazon CloudWatch allows alarming on data up to 7 days old](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-allows-alarming-data-7-days-old/)
 - [Amazon Bedrock Flows announces preview of multi-turn conversation support](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-flows-multi-turn-conversation-support/)
 - [Amazon CloudWatch Observability add-on launches one step onboarding for EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-observability-add-on-one-step-onboarding-eks-workloads)
-- [AWS Marketplace introduces 8 decimal place precision for usage pricing](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-8-decimal-place-precision-usage-pricing)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing general availability of AWS Managed Notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/general-availability-aws-managed-notifications)
+- [Announcing AWS Managed Notifications in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-managed-notifications-console-mobile-app/)
 - [AWS announces new edge location in the Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2025/01/new-edge-location-kingdom-saudi-arabia)
 - [Amazon Bedrock now offers multimodal support for Cohere Embed 3 Multilingual and Embed 3 English](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-multimodal-cohere-embed-3-multilingual-english)
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.32](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-eks-distro-kubernetes-version-1-32)
@@ -66,8 +68,6 @@
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.6](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-aurora-postgresql-limitless-database-16-6/)
 - [Amazon EC2 I7ie instances now available in AWS Europe &lpar;Frankfurt, London&rpar;, and Asia Pacific &lpar;Tokyo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i7ie-instances-frankfurt-london-tokyo-regions/)
 - [AWS Transfer Family supports custom directory locations to store AS2 files](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-transfer-family-custom-directory-locations-as2-files/)
-- [Amazon EFS is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-efs-aws-mexico-central-region)
-- [AWS Elastic Beanstalk improves scaling and deployment speeds for Windows instance with EC2 Fast-launch](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elastic-beanstalk-scaling-deployment-speeds-windows-instance-ec2-fast-launch)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaConnect introduces content quality metrics](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediaconnect-content-quality-metrics)
 - [Announcing general availability of AWS Managed Notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/general-availability-aws-managed-notifications)
 - [Amazon EKS managed node groups introduces new update strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-managed-node-groups-update-strategies/)
 - [Announcing AWS Managed Notifications in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-managed-notifications-console-mobile-app/)
@@ -67,7 +68,6 @@
 - [Amazon Q Business now supports insights from images uploaded in chat](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-business-insights-images-uploaded-chat)
 - [Amazon Redshift Multi-AZ is generally available for RA3 clusters in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-multi-az-ra3-clusters-2-regions/)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.6](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-aurora-postgresql-limitless-database-16-6/)
-- [Amazon EC2 I7ie instances now available in AWS Europe &lpar;Frankfurt, London&rpar;, and Asia Pacific &lpar;Tokyo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-i7ie-instances-frankfurt-london-tokyo-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

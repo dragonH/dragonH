@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync adds support for Kerberos authentication](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-datasync-kerberos-authentication/)
 - [AWS Amplify now supports using the TypeScript Data client in server-side AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-amplify-typescript-data-client-server-side-lambda/)
 - [Amazon Redshift announces enhanced default security configurations for new warehouses](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-default-security-configurations-new-warehouses)
 - [Amazon Lex Global Resiliency now supports CloudFormation and existing alias replication](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-lex-global-resiliency-cloudformation-existing-alias-replication)
@@ -67,7 +68,6 @@
 - [AWS Elemental MediaConnect introduces content quality metrics](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediaconnect-content-quality-metrics)
 - [Announcing general availability of AWS Managed Notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/general-availability-aws-managed-notifications)
 - [Amazon EKS managed node groups introduces new update strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-managed-node-groups-update-strategies/)
-- [Announcing AWS Managed Notifications in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-managed-notifications-console-mobile-app/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

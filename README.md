@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Amplify now supports using the TypeScript Data client in server-side AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-amplify-typescript-data-client-server-side-lambda/)
+- [Amazon Redshift announces enhanced default security configurations for new warehouses](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-default-security-configurations-new-warehouses)
+- [Amazon Lex Global Resiliency now supports CloudFormation and existing alias replication](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-lex-global-resiliency-cloudformation-existing-alias-replication)
+- [AWS Health now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-health-internet-protocol-version-6-ipv6)
 - [Announcing support for Maxon Cinema 4D and Maxon Redshift in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2025/01/maxon-cinema-4d-redshift-aws-deadline-cloud)
 - [Amazon S3 Metadata is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-metadata-generally-available)
 - [AWS Elemental MediaConnect introduces content quality metrics](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-elemental-mediaconnect-content-quality-metrics)
 - [Announcing general availability of AWS Managed Notifications](https://aws.amazon.com/about-aws/whats-new/2025/01/general-availability-aws-managed-notifications)
 - [Amazon EKS managed node groups introduces new update strategies](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-managed-node-groups-update-strategies/)
 - [Announcing AWS Managed Notifications in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-managed-notifications-console-mobile-app/)
-- [AWS now supports Zone Groups for Availability Zones](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-zone-groups-availability-zones/)
-- [AWS announces new edge location in the Kingdom of Saudi Arabia](https://aws.amazon.com/about-aws/whats-new/2025/01/new-edge-location-kingdom-saudi-arabia)
-- [Amazon Bedrock now offers multimodal support for Cohere Embed 3 Multilingual and Embed 3 English](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-bedrock-multimodal-cohere-embed-3-multilingual-english)
-- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.32](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eks-eks-distro-kubernetes-version-1-32)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

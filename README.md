@@ -65,9 +65,9 @@
 - [AWS CodeBuild announces support for project ARN and build ARN IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-project-arn-build-arn-iam-condition-keys)
 - [Amazon EC2 C8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c8g-instances-aws-europe-stockholm)
 - [AWS DataSync adds support for Kerberos authentication](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-datasync-kerberos-authentication/)
-- [AWS Health now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-health-internet-protocol-version-6-ipv6)
 - [Amazon Redshift announces enhanced default security configurations for new warehouses](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-default-security-configurations-new-warehouses)
 - [Amazon Lex Global Resiliency now supports CloudFormation and existing alias replication](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-lex-global-resiliency-cloudformation-existing-alias-replication)
+- [AWS Health now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-health-internet-protocol-version-6-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift launches enhanced query monitoring to improve query monitoring and diagnostics](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-enhanced-query-monitoring-diagnostics/)
+- [AWS Marketplace adds self-service seller onboarding support for demo and private offer requests](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-self-service-seller-onboarding-demo-private/)
 - [AWS Marketplace expands self-service listing experience for AMI products with CloudFormation templates](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-self-service-listing-ami-cloudformation-templates/)
 - [Amazon EC2 M7g instances are now available in the AWS Middle East &lpar;UAE&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-m7g-instances-aws-middle-east-uae)
 - [AWS CodeBuild announces support for project ARN and build ARN IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-codebuild-project-arn-build-arn-iam-condition-keys)
 - [Amazon EC2 C8g instances now available in AWS Europe &lpar;Stockholm&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ec2-c8g-instances-aws-europe-stockholm)
 - [AWS DataSync adds support for Kerberos authentication](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-datasync-kerberos-authentication/)
-- [AWS Amplify now supports using the TypeScript Data client in server-side AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-amplify-typescript-data-client-server-side-lambda/)
 - [AWS Health now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-health-internet-protocol-version-6-ipv6)
 - [Amazon Redshift announces enhanced default security configurations for new warehouses](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-redshift-default-security-configurations-new-warehouses)
 - [Amazon Lex Global Resiliency now supports CloudFormation and existing alias replication](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-lex-global-resiliency-cloudformation-existing-alias-replication)
-- [Announcing support for Maxon Cinema 4D and Maxon Redshift in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2025/01/maxon-cinema-4d-redshift-aws-deadline-cloud)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

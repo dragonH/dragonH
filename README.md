@@ -67,7 +67,7 @@
 - [Amazon Timestream for InfluxDb now supports Storage Scaling](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-timestream-influxdb-storage-scaling/)
 - [Amazon EMR Serverless adds support for Public Subnets](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-emr-serverless-public-subnets)
 - [Announcing new AWS Wavelength Zone in Casablanca](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-wavelength-zone-casablanca)
-- [SES Mail Manager adds support for address and domain lists](https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists)
+- [Amazon CloudWatch Synthetics adds IPv6 support](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-synthetics-ipv6-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

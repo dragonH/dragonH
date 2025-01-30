@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Tables add schema definition support to the CreateTable API](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-schema-definition-createtable-api)
+- [Amazon S3 Tables now support 10,000 tables per table bucket](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-10000-tables-bucket)
+- [Amazon Q Developer Pro tier adds automated user onboarding emails](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-pro-tier-automated-user-onboarding-emails)
 - [Amazon SageMaker Unified Studio now in preview in seven additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-sagemaker-unified-studio-preview-additional-regions)
 - [CloudWatch Database Insights now supports historical OS process snapshots](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots)
 - [SES Mail Manager is now available in 11 new AWS Regions, 17 total](https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-available-new-regions)
@@ -65,9 +68,6 @@
 - [Amazon EMR Serverless adds support for Public Subnets](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-emr-serverless-public-subnets)
 - [Announcing new AWS Wavelength Zone in Casablanca](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-wavelength-zone-casablanca)
 - [SES Mail Manager adds support for address and domain lists](https://aws.amazon.com/about-aws/whats-new/2025/01/ses-mail-manager-address-domain-lists)
-- [Amazon CloudWatch Synthetics adds IPv6 support](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-cloudwatch-synthetics-ipv6-support/)
-- [Amazon Lex expands Assisted Slot Resolution regions and model access](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-lex-assisted-slot-resolution-regions-model-access/)
-- [AWS Marketplace adds self-service seller onboarding support for demo and private offer requests](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-marketplace-self-service-seller-onboarding-demo-private/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

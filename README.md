@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS now supports additional resource-level permissions for creating EBS volumes from snapshots](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ebs-resource-level-permissions-creating-ebs-volumes-snapshots)
+- [Amazon Q Developer agent now runs builds and tests to validate generated code in real time](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-agent-builds-tests-validate-generated-code-real-time)
 - [AWS Deadline Cloud now supports configurable limits to effectively manage fixed resources](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-deadline-cloud-configurable-limits-fixed-resources/)
 - [Amazon Connect now supports agent time off scheduling up to 24 months in the future](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-time-off-scheduling-24-months-future)
+- [Amazon RDS Custom for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-custom-sql-server-iops-io2-block-volumes/)
 - [Amazon AppStream 2.0 now supports administrative control over admin consent for linking OneDrive for Business](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-appstream-2-0-administrative-control-admin-consent-linking-onedrive-business)
 - [AWS Glue expands connectivity to 14 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-glue-connectivity-native-connectors-applications)
-- [Amazon RDS Custom for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-custom-sql-server-iops-io2-block-volumes/)
+- [Amazon EventBridge enhances event source discovery in the console](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-event-source-discovery-console/)
+- [Amazon Connect Cases now provides more granular search capabilities and customizable case list views](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-cases-granular-search-case-list-views/)
 - [Amazon S3 Tables add schema definition support to the CreateTable API](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-schema-definition-createtable-api)
-- [Amazon S3 Tables now support 10,000 tables per table bucket](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-tables-10000-tables-bucket)
-- [Amazon Q Developer Pro tier adds automated user onboarding emails](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-pro-tier-automated-user-onboarding-emails)
-- [Amazon SageMaker Unified Studio now in preview in seven additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-sagemaker-unified-studio-preview-additional-regions)
-- [CloudWatch Database Insights now supports historical OS process snapshots](https://aws.amazon.com/about-aws/whats-new/2025/01/cloudwatch-database-insights-historical-os-process-snapshots)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

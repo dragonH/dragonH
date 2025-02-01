@@ -64,9 +64,9 @@
 - [Amazon Q Developer agent now runs builds and tests to validate generated code in real time](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-agent-builds-tests-validate-generated-code-real-time)
 - [AWS Deadline Cloud now supports configurable limits to effectively manage fixed resources](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-deadline-cloud-configurable-limits-fixed-resources/)
 - [Amazon Connect now supports agent time off scheduling up to 24 months in the future](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-time-off-scheduling-24-months-future)
+- [Amazon RDS Custom for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-custom-sql-server-iops-io2-block-volumes/)
 - [Amazon AppStream 2.0 now supports administrative control over admin consent for linking OneDrive for Business](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-appstream-2-0-administrative-control-admin-consent-linking-onedrive-business)
 - [AWS Glue expands connectivity to 14 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-glue-connectivity-native-connectors-applications)
-- [Amazon RDS Custom for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-custom-sql-server-iops-io2-block-volumes/)
 - [Amazon EventBridge enhances event source discovery in the console](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-event-source-discovery-console/)
 <!-- AWS-NEWS:END -->
 

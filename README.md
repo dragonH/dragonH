@@ -65,9 +65,9 @@
 - [AWS Deadline Cloud now supports configurable limits to effectively manage fixed resources](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-deadline-cloud-configurable-limits-fixed-resources/)
 - [Amazon Connect now supports agent time off scheduling up to 24 months in the future](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-agent-time-off-scheduling-24-months-future)
 - [Amazon RDS Custom for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-custom-sql-server-iops-io2-block-volumes/)
+- [Amazon AppStream 2.0 now supports administrative control over admin consent for linking OneDrive for Business](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-appstream-2-0-administrative-control-admin-consent-linking-onedrive-business)
+- [AWS Glue expands connectivity to 14 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-glue-connectivity-native-connectors-applications)
 - [Amazon EventBridge enhances event source discovery in the console](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-event-source-discovery-console/)
-- [Amazon Connect Cases now provides more granular search capabilities and customizable case list views](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-connect-cases-granular-search-case-list-views/)
-- [Amazon Managed Service for Prometheus collector adds support for cross-account ingestion](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-managed-service-prometheus-collector-cross-account-ingestion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

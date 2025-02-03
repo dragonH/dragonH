@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CodeBuild now integrates with Buildkite](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-integrates-buildkite)
+- [AWS Batch launches new features for access control and management of AWS Batch on EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-batch-access-control-management-batch-eks-workloads)
+- [Amazon EC2 now supports automated recovery of Microsoft SQL Server with VSS](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-automated-recovery-microsoft-sql-server-vss)
 - [Amazon RDS for SQL Server supports new minor version in December 2024](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-december-2024)
+- [AWS CodeBuild now integrates with Buildkite](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-integrates-buildkite)
 - [AWS Transfer Family web apps are now available in 20 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-transfer-family-web-apps-additional-regions)
 - [Q in QuickSight Dashboard Q&amp;A](https://aws.amazon.com/about-aws/whats-new/2025/01/q-quicksight-dashboard-q-a)
 - [Amazon EBS now supports additional resource-level permissions for creating EBS volumes from snapshots](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-ebs-resource-level-permissions-creating-ebs-volumes-snapshots)
 - [Amazon Q Developer agent now runs builds and tests to validate generated code in real time](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-q-developer-agent-builds-tests-validate-generated-code-real-time)
 - [Amazon RDS Custom for SQL Server supports up to 64TiB and 256,000 IOPS with io2 Block Express volumes](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-rds-custom-sql-server-iops-io2-block-volumes/)
 - [Amazon AppStream 2.0 now supports administrative control over admin consent for linking OneDrive for Business](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-appstream-2-0-administrative-control-admin-consent-linking-onedrive-business)
-- [AWS Glue expands connectivity to 14 native connectors for applications](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-glue-connectivity-native-connectors-applications)
-- [Amazon EventBridge enhances event source discovery in the console](https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-eventbridge-event-source-discovery-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

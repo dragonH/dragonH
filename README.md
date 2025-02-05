@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Business introduces orchestration for user query management](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-business-orchestration-user-query-management)
+- [AWS Wickr now provides a dedicated space to organize and access files](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-wickr-dedicated-space-organize-access-files)
+- [Announcing the general availability of AWS Database Migration Service Serverless support for files with an S3 source endpoint](https://aws.amazon.com/about-aws/whats-new/2025/02/general-availability-aws-database-migration-service-serverless-files-s3-source-endpoint)
 - [Amazon Connect Contact Lens can now automatically email agents about completed performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automatically-email-agents-completed-performance-evaluations)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c6in-instances-asia-pacific-malaysia)
 - [Amazon Q Developer now troubleshoots AWS Console errors in all AWS Commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-console-errors-aws-commercial-regions)
@@ -65,9 +68,6 @@
 - [AWS Batch launches new features for access control and management of AWS Batch on EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-batch-access-control-management-batch-eks-workloads)
 - [Amazon EC2 now supports automated recovery of Microsoft SQL Server with VSS](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-automated-recovery-microsoft-sql-server-vss)
 - [Amazon RDS for SQL Server supports new minor version in December 2024](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-december-2024)
-- [AWS CodeBuild now integrates with Buildkite](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-integrates-buildkite)
-- [Amazon Connect now supports configuration of which states an agent can be in when adhering to their schedule](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-configuration-states-agent-schedule/)
-- [AWS Transfer Family web apps are now available in 20 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-transfer-family-web-apps-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -65,8 +65,8 @@
 - [AWS Batch launches new features for access control and management of AWS Batch on EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-batch-access-control-management-batch-eks-workloads)
 - [Amazon EC2 now supports automated recovery of Microsoft SQL Server with VSS](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-automated-recovery-microsoft-sql-server-vss)
 - [Amazon RDS for SQL Server supports new minor version in December 2024](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-december-2024)
-- [AWS CodeBuild now integrates with Buildkite](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-integrates-buildkite)
 - [Amazon Connect now supports configuration of which states an agent can be in when adhering to their schedule](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-configuration-states-agent-schedule/)
+- [AWS CodeBuild now integrates with Buildkite](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-integrates-buildkite)
 - [AWS Transfer Family web apps are now available in 20 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-transfer-family-web-apps-additional-regions)
 <!-- AWS-NEWS:END -->
 

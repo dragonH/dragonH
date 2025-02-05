@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB now offers one-click connectivity with CloudShell](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-documentdb-one-click-connectivity-cloudshell)
+- [Amazon SageMaker AI is now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-sagemaker-ai-asia-pacific-malaysia)
+- [Amazon EC2 M6in and M6idn instances are now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m6in-m6idn-instances-europe-zurich)
 - [Amazon Q Business introduces orchestration for user query management](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-business-orchestration-user-query-management)
 - [AWS Wickr now provides a dedicated space to organize and access files](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-wickr-dedicated-space-organize-access-files)
+- [AWS IAM announces support for encrypted SAML assertions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-encrypted-saml-assertions/)
+- [Amazon Redshift Query Editor V2 is now available in Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-query-editor-v2-malaysia-region/)
 - [Announcing the general availability of AWS Database Migration Service Serverless support for files with an S3 source endpoint](https://aws.amazon.com/about-aws/whats-new/2025/02/general-availability-aws-database-migration-service-serverless-files-s3-source-endpoint)
 - [Amazon Connect Contact Lens can now automatically email agents about completed performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automatically-email-agents-completed-performance-evaluations)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c6in-instances-asia-pacific-malaysia)
-- [Amazon Q Developer now troubleshoots AWS Console errors in all AWS Commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-console-errors-aws-commercial-regions)
-- [Amazon Connect Cases now supports conditionally required fields](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-cases-conditionally-required-fields/)
-- [AWS Batch launches new features for access control and management of AWS Batch on EKS workloads](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-batch-access-control-management-batch-eks-workloads)
-- [Amazon EC2 now supports automated recovery of Microsoft SQL Server with VSS](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-automated-recovery-microsoft-sql-server-vss)
-- [Amazon RDS for SQL Server supports new minor version in December 2024](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-december-2024)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

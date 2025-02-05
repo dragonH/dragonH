@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Service Connect is now available in the AWS GovCloud &lpar;US-West&rpar; and AWS GovCloud &lpar;US-East&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-service-connect-aws-govcloud-regions)
 - [Amazon DocumentDB now offers one-click connectivity with CloudShell](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-documentdb-one-click-connectivity-cloudshell)
 - [Amazon SageMaker AI is now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-sagemaker-ai-asia-pacific-malaysia)
 - [Amazon EC2 M6in and M6idn instances are now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m6in-m6idn-instances-europe-zurich)
@@ -65,9 +66,8 @@
 - [AWS IAM announces support for encrypted SAML assertions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-encrypted-saml-assertions/)
 - [Announcing the general availability of Amazon EC2 F2.6xlarge, a new F2 instance size](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-6xlarge-new-f2-instance-size/)
 - [AWS Wickr now provides a dedicated space to organize and access files](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-wickr-dedicated-space-organize-access-files)
-- [Announcing the general availability of AWS Database Migration Service Serverless support for files with an S3 source endpoint](https://aws.amazon.com/about-aws/whats-new/2025/02/general-availability-aws-database-migration-service-serverless-files-s3-source-endpoint)
 - [Amazon Redshift Query Editor V2 is now available in Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-query-editor-v2-malaysia-region/)
-- [Amazon Connect Contact Lens can now automatically email agents about completed performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automatically-email-agents-completed-performance-evaluations)
+- [Announcing the general availability of AWS Database Migration Service Serverless support for files with an S3 source endpoint](https://aws.amazon.com/about-aws/whats-new/2025/02/general-availability-aws-database-migration-service-serverless-files-s3-source-endpoint)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

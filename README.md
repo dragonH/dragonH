@@ -66,8 +66,8 @@
 - [AWS IAM announces support for encrypted SAML assertions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-encrypted-saml-assertions/)
 - [Announcing the general availability of Amazon EC2 F2.6xlarge, a new F2 instance size](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-6xlarge-new-f2-instance-size/)
 - [AWS Wickr now provides a dedicated space to organize and access files](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-wickr-dedicated-space-organize-access-files)
-- [Amazon Redshift Query Editor V2 is now available in Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-query-editor-v2-malaysia-region/)
 - [Announcing the general availability of AWS Database Migration Service Serverless support for files with an S3 source endpoint](https://aws.amazon.com/about-aws/whats-new/2025/02/general-availability-aws-database-migration-service-serverless-files-s3-source-endpoint)
+- [Amazon Redshift Query Editor V2 is now available in Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-redshift-query-editor-v2-malaysia-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Keyspaces is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-keyspaces-africa-cape-town-region)
+- [AWS Elemental MediaTailor](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elemental-mediatailor-s3-firehose-logging-destinations-lower-cost)
+- [Amazon RDS for Oracle now supports January 2025 Release Update](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-january-2025-release-update)
+- [AWS Toolkit for Visual Studio Code now supports Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-toolkit-visual-studio-code-documentdb-mongodb/)
 - [AWS Verified Access launches Zero Trust access to resources over non-HTTP&lpar;S&rpar; protocols](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-verified-access-zero-trust-resources-non-https-protocols/)
 - [AWS AppSync releases CDK L2 constructs to simplify creating WebSocket APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-cdk-l2-simplify-websocket-apis/)
 - [Amazon GuardDuty Malware Protection for S3 announces price reduction](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-guardduty-malware-protection-s3-price-reduction/)
+- [Amazon Keyspaces is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-keyspaces-africa-cape-town-region)
 - [Amazon ECS Service Connect is now available in the AWS GovCloud &lpar;US-West&rpar; and AWS GovCloud &lpar;US-East&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-service-connect-aws-govcloud-regions)
 - [Amazon DocumentDB now offers one-click connectivity with CloudShell](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-documentdb-one-click-connectivity-cloudshell)
 - [Amazon SageMaker AI is now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-sagemaker-ai-asia-pacific-malaysia)
-- [Amazon EC2 M6in and M6idn instances are now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m6in-m6idn-instances-europe-zurich)
-- [Amazon Q Business introduces orchestration for user query management](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-business-orchestration-user-query-management)
-- [Announcing the general availability of Amazon EC2 F2.6xlarge, a new F2 instance size](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-6xlarge-new-f2-instance-size/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

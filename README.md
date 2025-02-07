@@ -63,11 +63,11 @@
 - [AWS Elemental MediaTailor now supports log delivery to additional destinations](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elemental-mediatailor-s3-firehose-logging-destinations-lower-cost)
 - [Amazon RDS for Oracle now supports January 2025 Release Update](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-january-2025-release-update)
 - [Amazon MSK expands Express Brokers to 10 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-express-brokers-10-regions/)
+- [AWS Toolkit for Visual Studio Code now supports Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-toolkit-visual-studio-code-documentdb-mongodb/)
 - [AWS Verified Access launches Zero Trust access to resources over non-HTTP&lpar;S&rpar; protocols](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-verified-access-zero-trust-resources-non-https-protocols/)
 - [AWS AppSync releases CDK L2 constructs to simplify creating WebSocket APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-cdk-l2-simplify-websocket-apis/)
 - [Amazon GuardDuty Malware Protection for S3 announces price reduction](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-guardduty-malware-protection-s3-price-reduction/)
 - [Amazon Keyspaces is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-keyspaces-africa-cape-town-region)
-- [AWS Toolkit for Visual Studio Code now supports Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-toolkit-visual-studio-code-documentdb-mongodb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

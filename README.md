@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon FSx now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on FSx Service APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/)
+- [Announcing custom payment schedules for AWS Marketplace Channel Partner private offers](https://aws.amazon.com/about-aws/whats-new/2025/02/custom-payment-schedules-marketplace-partner-offers/)
+- [AWS Config now supports 4 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/)
 - [AWS WAF Console adds new top insights visualizations in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions)
 - [AWS IAM Identity Center now offers improved error messages and AWS CloudTrail logging for provisioning issues](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues)
 - [AWS Elemental MediaTailor now supports log delivery to additional destinations](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elemental-mediatailor-s3-firehose-logging-destinations-lower-cost)
 - [Amazon RDS for Oracle now supports January 2025 Release Update](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-january-2025-release-update)
 - [Amazon MSK expands Express Brokers to 10 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-express-brokers-10-regions/)
-- [AWS AppSync releases CDK L2 constructs to simplify creating WebSocket APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-cdk-l2-simplify-websocket-apis/)
-- [Amazon GuardDuty Malware Protection for S3 announces price reduction](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-guardduty-malware-protection-s3-price-reduction/)
-- [Amazon Keyspaces is now available in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-keyspaces-africa-cape-town-region)
 - [AWS Toolkit for Visual Studio Code now supports Amazon DocumentDB &lpar;with MongoDB compatibility&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-toolkit-visual-studio-code-documentdb-mongodb/)
+- [AWS AppSync releases CDK L2 constructs to simplify creating WebSocket APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-cdk-l2-simplify-websocket-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

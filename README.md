@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server supports new minor version in January 2025](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-january-2025)
+- [Amazon EFS now supports up to 10,000 access points per EFS file system](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-efs-access-points-file-system/)
 - [Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql)
 - [AWS Step Functions expands data source and output options for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-step-functions-data-source-output-option-distributed-map)
 - [Amazon FSx now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on FSx Service APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/)
@@ -66,8 +68,6 @@
 - [AWS Config now supports 4 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/)
 - [Amazon EC2 High Memory U7i instances are now available in Seoul &lpar;Asia Pacific&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-high-memory-u7i-instances-seoul/)
 - [AWS WAF Console adds new top insights visualizations in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions)
-- [AWS IAM Identity Center now offers improved error messages and AWS CloudTrail logging for provisioning issues](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iam-identity-center-error-messages-cloudtrail-logging-provisioning-issues)
-- [AWS Elemental MediaTailor now supports log delivery to additional destinations](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elemental-mediatailor-s3-firehose-logging-destinations-lower-cost)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

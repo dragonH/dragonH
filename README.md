@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for SQL Server supports new minor version in January 2025](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-sql-server-minor-version-january-2025)
-- [Amazon EFS now supports up to 10,000 access points per EFS file system](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-efs-access-points-file-system/)
-- [Amazon CloudWatch now provides lock contention diagnostics for Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-cloudwatch-lock-contention-diagnostics-aurora-postgresql)
-- [AWS Step Functions expands data source and output options for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-step-functions-data-source-output-option-distributed-map)
-- [Amazon FSx now supports Internet Protocol Version 6 &lpar;IPv6&rpar; on FSx Service APIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-supports-ipv6-fsx-service-apis/)
-- [Announcing custom payment schedules for AWS Marketplace Channel Partner private offers](https://aws.amazon.com/about-aws/whats-new/2025/02/custom-payment-schedules-marketplace-partner-offers/)
-- [Amazon Data Lifecycle Manager now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-supports-ipv6/)
-- [AWS Config now supports 4 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-config-4-new-resource-types/)
-- [Amazon EC2 High Memory U7i instances are now available in Seoul &lpar;Asia Pacific&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-high-memory-u7i-instances-seoul/)
-- [AWS WAF Console adds new top insights visualizations in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-console-top-insights-visualizations-additional-regions)
+- [Amazon FSx for Lustre now supports Lustre version upgrades](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades)
+- [AWS AppSync enhances resolver testing with comprehensive context object mocking](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-resolver-testing-comprehensive-context-object-mocking)
+- [Amazon Elastic Block Store &lpar;EBS&rpar; now adds full snapshot size information in Console and API](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api)
+- [AWS HealthScribe now supports GIRPP note template for behavioral health](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health)
+- [Amazon Polly launches a new voice in Singaporean English](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-polly-new-voice-singaporean-english)
+- [AWS AppSync GraphQL introduces operation-level caching for faster GraphQL API responses](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-graphql-operation-level-caching-api-responses)
+- [AWS Secrets and Configuration Provider now integrates with Pod Identity for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-secrets-configuration-provider-pod-identity-eks/)
+- [Amazon Connect Contact Lens can now take automated actions based on hold times and agent interaction time](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automated-actions-based-hold-times-agent-interaction-time)
+- [Amazon Connect Contact Lens now provides a dashboard with aggregated insights on agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-dashboard-agent-evaluations/)
+- [Amazon DynamoDB now supports auto-approval of quota adjustments](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-dynamodb-supports-auto-approval-quota-adjustments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

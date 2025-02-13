@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now supports Adobe After Effects in Service-Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-deadline-cloud-adobe-after-effects-service-managed-fleets)
+- [AWS Network Load Balancer now supports removing availability zones](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-load-balancer-removing-availability-zones)
+- [Amazon RDS for PostgreSQL supports minor versions 17.3, 16.7, 15.11, 14.16, 13.19](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-postgresql-new-minor-versions/)
+- [Amazon Q generative SQL is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-generative-sql-additional-regions/)
+- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250103](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250103)
+- [Amazon OpenSearch Serverless expands support for time-series workloads up to 100TB](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-opensearch-serverless-time-series-workloads-100tb)
+- [Introducing Amazon EC2 C6in instances in Chicago and New York City Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c6in-instances-chicago-new-york-city-local-zones)
+- [Amazon ECS now enables you to update services from short to long ARNs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-update-services-short-long-arns/)
 - [Amazon FSx for Lustre now supports Lustre version upgrades](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-fsx-lustre-lustre-version-upgrades)
 - [AWS AppSync enhances resolver testing with comprehensive context object mocking](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-resolver-testing-comprehensive-context-object-mocking)
-- [Amazon Elastic Block Store &lpar;EBS&rpar; now adds full snapshot size information in Console and API](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ebs-full-snapshot-size-information-console-api)
-- [AWS HealthScribe now supports GIRPP note template for behavioral health](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-healthscribe-girpp-note-template-behavioral-health)
-- [Amazon Polly launches a new voice in Singaporean English](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-polly-new-voice-singaporean-english)
-- [AWS AppSync GraphQL introduces operation-level caching for faster GraphQL API responses](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-appsync-graphql-operation-level-caching-api-responses)
-- [AWS Secrets and Configuration Provider now integrates with Pod Identity for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-secrets-configuration-provider-pod-identity-eks/)
-- [Amazon Connect Contact Lens can now take automated actions based on hold times and agent interaction time](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-automated-actions-based-hold-times-agent-interaction-time)
-- [Amazon Connect Contact Lens now provides a dashboard with aggregated insights on agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-dashboard-agent-evaluations/)
-- [Amazon DynamoDB now supports auto-approval of quota adjustments](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-dynamodb-supports-auto-approval-quota-adjustments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

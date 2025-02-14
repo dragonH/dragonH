@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7g instances are now available in the AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/)
 - [Amazon EC2 Capacity Blocks for ML is now available in several new regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-capacity-blocks-ml-new-regions)
 - [AWS Deadline Cloud now supports Adobe After Effects in Service-Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-deadline-cloud-adobe-after-effects-service-managed-fleets)
 - [AWS CodePipeline adds CloudWatch Metrics support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-cloudwatch-metrics-support/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Serverless expands support for time-series workloads up to 100TB](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-opensearch-serverless-time-series-workloads-100tb)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250103](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250103)
 - [Introducing Amazon EC2 C6in instances in Chicago and New York City Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c6in-instances-chicago-new-york-city-local-zones)
-- [Amazon ECS now enables you to update services from short to long ARNs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-update-services-short-long-arns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

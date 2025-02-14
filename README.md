@@ -63,11 +63,11 @@
 - [Amazon Q Developer now supports upgrade to Java 21](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-upgrade-java-21/)
 - [AWS CloudTrail network activity events for VPC endpoints are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudtrail-network-activity-events-vpc-endpoints-generally-available)
 - [Amazon Inspector enhances the security engine for container images scanning](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-inspector-security-engine-container-images-scanning)
+- [AWS Lambda adds application performance monitoring &lpar;APM&rpar; for Java and .NET runtimes via Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-lambda-adds-apm-java-net-runtimes-signals/)
 - [Amazon EC2 Capacity Blocks for ML is now available in several new regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-capacity-blocks-ml-new-regions)
 - [AWS Deadline Cloud now supports Adobe After Effects in Service-Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-deadline-cloud-adobe-after-effects-service-managed-fleets)
 - [AWS CodePipeline adds CloudWatch Metrics support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-cloudwatch-metrics-support/)
 - [Amazon RDS for PostgreSQL supports minor versions 17.3, 16.7, 15.11, 14.16, 13.19](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-postgresql-new-minor-versions/)
-- [AWS Network Load Balancer now supports removing availability zones](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-load-balancer-removing-availability-zones)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

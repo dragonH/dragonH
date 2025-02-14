@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SES now offers tiered pricing for Virtual Deliverability Manager](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ses-tiered-pricing-virtual-deliverability-manager)
 - [Amazon EC2 C7g instances are now available in the AWS Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7g-instances-zurich-region/)
 - [AWS CloudTrail network activity events for VPC endpoints are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cloudtrail-network-activity-events-vpc-endpoints-generally-available)
 - [Amazon Inspector enhances the security engine for container images scanning](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-inspector-security-engine-container-images-scanning)
@@ -67,7 +68,6 @@
 - [Amazon RDS for PostgreSQL supports minor versions 17.3, 16.7, 15.11, 14.16, 13.19](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-postgresql-new-minor-versions/)
 - [AWS Network Load Balancer now supports removing availability zones](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-load-balancer-removing-availability-zones)
 - [Amazon Q generative SQL is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-generative-sql-additional-regions/)
-- [Amazon ECS now enables you to update services from short to long ARNs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-update-services-short-long-arns/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

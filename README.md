@@ -66,7 +66,7 @@
 - [Amazon Q Developer now supports upgrade to Java 21](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-upgrade-java-21/)
 - [Amazon EC2 Capacity Blocks for ML is now available in several new regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-capacity-blocks-ml-new-regions)
 - [AWS Deadline Cloud now supports Adobe After Effects in Service-Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-deadline-cloud-adobe-after-effects-service-managed-fleets)
-- [Amazon ECS now enables you to update services from short to long ARNs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-update-services-short-long-arns/)
+- [Amazon OpenSearch Serverless expands support for time-series workloads up to 100TB](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-opensearch-serverless-time-series-workloads-100tb)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250103](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250103)
 <!-- AWS-NEWS:END -->
 

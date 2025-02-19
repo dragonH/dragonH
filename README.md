@@ -60,9 +60,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 R6a instances now available in Canada &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-r6a-instances-canada-central)
 - [AWS WAF enhances Data Protection and logging experience](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-data-protection-logging-experience)
+- [Amplify Hosting announces support for IAM roles for server-side rendered &lpar;SSR&rpar; applications](https://aws.amazon.com/about-aws/whats-new/2025/02/amplify-hosting-iam-roles-ssr-applications/)
 - [AWS Storage Gateway is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/)
 - [Amazon Timestream for InfluxDB Adds Read Replica support](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-timestream-influxdb-read-replica-support/)
-- [Amplify Hosting announces support for IAM roles for server-side rendered &lpar;SSR&rpar; applications](https://aws.amazon.com/about-aws/whats-new/2025/02/amplify-hosting-iam-roles-ssr-applications/)
 - [Dynamically update your running EMR cluster with reconfiguration for instance fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/update-running-emr-cluster-reconfiguration-instance-fleets)
 - [AWS CDK releases L2 construct support for Amazon Data Firehose delivery streams](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cdk-l2-construct-data-firehose-delivery-streams/)
 - [Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-aurora-postgresql-zero-etl-integration-redshift/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall introduces automated domain lists and insights](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-automated-domain-lists)
 - [Announcing AWS DMS Serverless comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments)
 - [Amazon ECS increases the CPU limit for ECS tasks to 192 vCPUs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-increases-cpu-ecs-tasks/)
 - [Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4)
@@ -67,7 +68,6 @@
 - [AWS Storage Gateway is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/)
 - [Amazon Timestream for InfluxDB Adds Read Replica support](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-timestream-influxdb-read-replica-support/)
 - [Dynamically update your running EMR cluster with reconfiguration for instance fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/update-running-emr-cluster-reconfiguration-instance-fleets)
-- [AWS CDK releases L2 construct support for Amazon Data Firehose delivery streams](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-cdk-l2-construct-data-firehose-delivery-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

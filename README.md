@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SES Outbound now delivers to Mail Manager Archives](https://aws.amazon.com/about-aws/whats-new/2025/02/ses-outbound-delivers-mail-manager-archives)
 - [AWS Network Firewall introduces automated domain lists and insights](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-automated-domain-lists)
 - [Amazon ECS increases the CPU limit for ECS tasks to 192 vCPUs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-increases-cpu-ecs-tasks/)
 - [Announcing AWS DMS Serverless comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments)
@@ -67,7 +68,6 @@
 - [AWS Storage Gateway is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-storage-gateway-mexico-central-region/)
 - [Amazon Timestream for InfluxDB Adds Read Replica support](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-timestream-influxdb-read-replica-support/)
 - [Amplify Hosting announces support for IAM roles for server-side rendered &lpar;SSR&rpar; applications](https://aws.amazon.com/about-aws/whats-new/2025/02/amplify-hosting-iam-roles-ssr-applications/)
-- [Dynamically update your running EMR cluster with reconfiguration for instance fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/update-running-emr-cluster-reconfiguration-instance-fleets)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -61,13 +61,13 @@
 - [AWS CodePipeline adds native Amazon EKS deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-amazon-eks-deployment-support)
 - [Amazon Bedrock now available in Asia Pacific &lpar;Hyderabad&rpar; and Asia Pacific &lpar;Osaka&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-hyderabad-osaka-regions/)
 - [Amazon Elastic Beanstalk now supports Windows Server 2025 and Windows Server Core 2025 environments](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-elastic-beanstalk-windows-server-2025-core-environments/)
+- [Amazon EC2 G6e instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-g6e-instances-stockholm-region/)
+- [AWS announces Backup Payment Methods for invoices](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-backup-payment-methods-invoices/)
 - [SES Outbound now delivers to Mail Manager Archives](https://aws.amazon.com/about-aws/whats-new/2025/02/ses-outbound-delivers-mail-manager-archives)
 - [AWS Network Firewall introduces automated domain lists and insights](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-automated-domain-lists)
 - [Amazon ECS increases the CPU limit for ECS tasks to 192 vCPUs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-increases-cpu-ecs-tasks/)
 - [Announcing AWS DMS Serverless comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments)
 - [Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4)
-- [Amazon EC2 R6a instances now available in Canada &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-r6a-instances-canada-central)
-- [AWS WAF enhances Data Protection and logging experience](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-data-protection-logging-experience)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

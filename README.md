@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Database Migration Service now supports Multi-ENI networking for homogeneous migrations.](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-database-migration-service-multi-eni-networking/)
+- [Amazon RDS for PostgreSQL supports minor versions 17.4, 16.8, 15.12, 14.17, 13.20](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-postgresql-supports-minor-versions/)
 - [AWS CodePipeline adds native Amazon EKS deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-amazon-eks-deployment-support)
 - [Amazon EC2 G6e instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-g6e-instances-stockholm-region/)
 - [AWS announces Backup Payment Methods for invoices](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-backup-payment-methods-invoices/)
@@ -67,7 +68,6 @@
 - [SES Outbound now delivers to Mail Manager Archives](https://aws.amazon.com/about-aws/whats-new/2025/02/ses-outbound-delivers-mail-manager-archives)
 - [AWS Network Firewall introduces automated domain lists and insights](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-automated-domain-lists)
 - [Amazon ECS increases the CPU limit for ECS tasks to 192 vCPUs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-increases-cpu-ecs-tasks/)
-- [Announcing AWS DMS Serverless comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

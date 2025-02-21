@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Database Migration Service now supports Multi-ENI networking for homogeneous migrations.](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-database-migration-service-multi-eni-networking/)
 - [AWS CodePipeline adds native Amazon EKS deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-amazon-eks-deployment-support)
 - [Amazon EC2 G6e instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-g6e-instances-stockholm-region/)
 - [AWS announces Backup Payment Methods for invoices](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-backup-payment-methods-invoices/)
@@ -67,7 +68,6 @@
 - [AWS Network Firewall introduces automated domain lists and insights](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-automated-domain-lists)
 - [Amazon ECS increases the CPU limit for ECS tasks to 192 vCPUs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-increases-cpu-ecs-tasks/)
 - [Announcing AWS DMS Serverless comprehensive premigration assessments](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-dms-serverless-comprehensive-premigration-assessments)
-- [Amazon RDS for MySQL supports new minor versions 8.0.41 and 8.4.4](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-mysql-new-minor-versions-8-0-41-8-4-4)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

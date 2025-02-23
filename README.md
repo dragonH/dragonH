@@ -66,8 +66,8 @@
 - [Announcing fine-grained access control via AWS Lake Formation with EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2025/02/fine-grained-control-aws-lake-formation-emr-eks/)
 - [You can now use your China UnionPay credit card to create an AWS account](https://aws.amazon.com/about-aws/whats-new/2025/02/china-unionpay-credit-card-create-aws-account/)
 - [AWS CodePipeline adds native Amazon EKS deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-amazon-eks-deployment-support)
-- [Amazon EC2 G6e instances now available in Stockholm region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-g6e-instances-stockholm-region/)
-- [AWS announces Backup Payment Methods for invoices](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-backup-payment-methods-invoices/)
+- [Amazon Bedrock now available in Asia Pacific &lpar;Hyderabad&rpar; and Asia Pacific &lpar;Osaka&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-hyderabad-osaka-regions/)
+- [Amazon Elastic Beanstalk now supports Windows Server 2025 and Windows Server Core 2025 environments](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-elastic-beanstalk-windows-server-2025-core-environments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

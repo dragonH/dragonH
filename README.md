@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch Database Insights adds support for RDS databases](https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-database-insights-rds-databases)
+- [AWS WAF enhances integration with Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/)
 - [Amazon Verified Permissions now supports the Cedar JSON entity format](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-verified-permissions-cedar-json-entity-format/)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/02/anthropics-claude-3-7-sonnet-amazon-bedrock/)
+- [Amazon EC2 C7gd instances are now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7gd-instances-govcloud-us-east-region/)
 - [Certificate-Based Authentication is now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/certificate-based-authentication-amazon-appstream-2-0-multi-session-fleets)
 - [AWS CodePipeline adds native Amazon EC2 deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-ec2-deployment-support/)
 - [AWS Database Migration Service now supports Multi-ENI networking for homogeneous migrations.](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-database-migration-service-multi-eni-networking/)
 - [Amazon RDS for PostgreSQL supports minor versions 17.4, 16.8, 15.12, 14.17, 13.20](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-postgresql-supports-minor-versions/)
 - [Amazon MSK adds support for Apache Kafka version 3.8](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-apache-kafka-version-3-8/)
-- [Announcing fine-grained access control via AWS Lake Formation with EMR on EKS](https://aws.amazon.com/about-aws/whats-new/2025/02/fine-grained-control-aws-lake-formation-emr-eks/)
-- [You can now use your China UnionPay credit card to create an AWS account](https://aws.amazon.com/about-aws/whats-new/2025/02/china-unionpay-credit-card-create-aws-account/)
-- [AWS CodePipeline adds native Amazon EKS deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-amazon-eks-deployment-support)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

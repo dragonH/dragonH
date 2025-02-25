@@ -61,13 +61,13 @@
 - [Amazon Bedrock Guardrails announces an increase in service quota limits](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-guardrails-increase-service-quota-limits)
 - [Amazon EC2 High Memory instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-high-memory-instances-europe-zurich-region/)
 - [Amazon Location Service now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-location-service-supports-privatelink/)
+- [Amazon RDS for Oracle now supports Spatial Patch Bundle for January 2025 Release Update](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-oracle-spatial-patch-bundle-update/)
 - [CloudWatch Database Insights adds support for RDS databases](https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-database-insights-rds-databases)
 - [AWS WAF enhances integration with Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/02/anthropics-claude-3-7-sonnet-amazon-bedrock/)
 - [Amazon Verified Permissions now supports the Cedar JSON entity format](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-verified-permissions-cedar-json-entity-format/)
 - [Amazon EC2 C7gd instances are now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-c7gd-instances-govcloud-us-east-region/)
 - [Certificate-Based Authentication is now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2025/02/certificate-based-authentication-amazon-appstream-2-0-multi-session-fleets)
-- [AWS CodePipeline adds native Amazon EC2 deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-ec2-deployment-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

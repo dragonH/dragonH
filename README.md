@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory instances now available in Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-high-memory-instances-europe-zurich-region/)
 - [CloudWatch Database Insights adds support for RDS databases](https://aws.amazon.com/about-aws/whats-new/2025/02/cloudwatch-database-insights-rds-databases)
 - [AWS WAF enhances integration with Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-waf-enhances-integration-service-quotas/)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/02/anthropics-claude-3-7-sonnet-amazon-bedrock/)
@@ -67,7 +68,6 @@
 - [AWS CodePipeline adds native Amazon EC2 deployment support](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-native-ec2-deployment-support/)
 - [AWS Database Migration Service now supports Multi-ENI networking for homogeneous migrations.](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-database-migration-service-multi-eni-networking/)
 - [Amazon RDS for PostgreSQL supports minor versions 17.4, 16.8, 15.12, 14.17, 13.20](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-postgresql-supports-minor-versions/)
-- [Amazon MSK adds support for Apache Kafka version 3.8](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-msk-apache-kafka-version-3-8/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

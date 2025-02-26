@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now provides visibility into IAM DB Authentication metrics and logs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-visibility-iam-db-authentication-metrics-logs)
 - [Amazon Connect now supports interactive welcome messages when starting chats](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-interactive-welcome-messages-starting-chats)
-- [Amazon RDS Data API for Aurora is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-data-api-aurora-10-additional-regions/)
 - [Amazon RDS for MariaDB supports minors 11.4.5, 10.11.11, 10.6.21, 10.5.28](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-mariadb-supports-minors/)
 - [AWS CodeBuild adds support for managed webhooks in GitHub Enterprise](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-webhooks-github-enterprise/)
 - [Amazon ECS adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ecs-additional-iam-condition-keys)
 - [AWS CodeBuild adds support for managed runners for GitLab Self-Managed](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-managed-runners-gitlab-self-managed)
+- [Amazon RDS Data API for Aurora is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-data-api-aurora-10-additional-regions/)
+- [AWS Chatbot is now named Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-chatbot-named-amazon-q-developer/)
 - [Amazon Data Firehose is now available in AWS Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-firehose-thailand-mexico-central-regions/)
 - [Amazon EC2 M6a instances now available in AWS Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-m6a-instances-aws-europe-paris/)
-- [AWS CodePipeline introduces new console experience for viewing pipeline releases](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codepipeline-console-experience-viewing-pipeline-releases)
-- [Amazon Bedrock Guardrails announces an increase in service quota limits](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-guardrails-increase-service-quota-limits)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -61,13 +61,13 @@
 - [Database Insights provides on-demand analysis for RDS MySQL and RDS MariaDB](https://aws.amazon.com/about-aws/whats-new/2025/02/database-insights-on-demand-analysis-rds-mysql-rds-mariadb)
 - [Amazon RDS for Db2 now supports M7i and R7i instances types](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-db2-m7i-r7i-instances-types)
 - [Amazon EC2 announces Time-based Copy for AMIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-time-based-copy-amis)
-- [Amazon EC2 F2 instances are now available in Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-instances-asia-pacific-sydney/)
 - [AWS Batch now supports resource aware scheduling](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-batch-resource-aware-scheduling/)
-- [Monitor and observe apps across multiple accounts with Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/02/monitor-observe-apps-across-multiple-accounts-application-signals)
+- [Amazon EC2 F2 instances are now available in Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-f2-instances-asia-pacific-sydney/)
 - [Amazon Connect reduces telephony pricing in Vietnam](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-reduces-telephony-pricing-vietnam/)
+- [Monitor and observe apps across multiple accounts with Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/02/monitor-observe-apps-across-multiple-accounts-application-signals)
 - [Amazon RDS now provides visibility into IAM DB Authentication metrics and logs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-visibility-iam-db-authentication-metrics-logs)
 - [Amazon Connect now supports interactive welcome messages when starting chats](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-interactive-welcome-messages-starting-chats)
-- [Amazon RDS for MariaDB supports minors 11.4.5, 10.11.11, 10.6.21, 10.5.28](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-for-mariadb-supports-minors/)
+- [Amazon RDS Data API for Aurora is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-data-api-aurora-10-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

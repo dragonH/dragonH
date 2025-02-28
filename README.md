@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock launches Session Management APIs for GenAI applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-session-management-apis-genai-applications-preview)
 - [AWS CodeBuild adds support for macOS 15.2](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-macos-15-2)
 - [AWS Network Firewall simplifies policy management with enhanced console features](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-policy-management-console-features/)
-- [Announcing new features for AWS IoT Device Defender to improve IoT certificate lifecycle management](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iot-device-defender-iot-certificate-lifecycle-management/)
 - [Amazon Q Developer is now generally available in Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-generally-available-sagemaker-canvas)
-- [Amazon Nova Creative Models now available in Asia Pacific](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-nova-creative-models-asia-pacific)
 - [Mountpoint for Amazon S3 CSI driver is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/02/mountpoint-for-amazon-s3-csi-driver-govcloud/)
-- [Database Insights provides on-demand analysis for RDS MySQL and RDS MariaDB](https://aws.amazon.com/about-aws/whats-new/2025/02/database-insights-on-demand-analysis-rds-mysql-rds-mariadb)
-- [Amazon RDS for Db2 now supports M7i and R7i instances types](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-rds-db2-m7i-r7i-instances-types)
-- [Amazon EC2 announces Time-based Copy for AMIs](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-time-based-copy-amis)
-- [AWS Batch now supports resource aware scheduling](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-batch-resource-aware-scheduling/)
+- [Announcing new features for AWS IoT Device Defender to improve IoT certificate lifecycle management](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iot-device-defender-iot-certificate-lifecycle-management/)
+- [Amazon EC2 Fleet added support for Block Device Mapping overrides](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-fleet-block-device-mapping-overrides/)
+- [Amazon Nova Creative Models now available in Asia Pacific](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-nova-creative-models-asia-pacific)
+- [AWS announces Microsoft 365 for Word and Outlook integrations for Amazon Q Business](https://aws.amazon.com/about-aws/whats-new/2025/02/microsoft-365-word-outlook-amazon-q-business/)
+- [AWS Elastic Beanstalk now supports Ruby 3.4 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elastic-beanstalk-ruby-3-4-amazon-linux-2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

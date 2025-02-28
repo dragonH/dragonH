@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens now offers AI-powered contact categorization in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-ai-powered-contact-categorization-new-regions)
 - [Amazon Bedrock launches Session Management APIs for GenAI applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-bedrock-session-management-apis-genai-applications-preview)
 - [AWS CodeBuild adds support for macOS 15.2](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-macos-15-2)
 - [AWS Network Firewall simplifies policy management with enhanced console features](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-policy-management-console-features/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Fleet added support for Block Device Mapping overrides](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-ec2-fleet-block-device-mapping-overrides/)
 - [Amazon Nova Creative Models now available in Asia Pacific](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-nova-creative-models-asia-pacific)
 - [AWS announces Microsoft 365 for Word and Outlook integrations for Amazon Q Business](https://aws.amazon.com/about-aws/whats-new/2025/02/microsoft-365-word-outlook-amazon-q-business/)
-- [AWS Elastic Beanstalk now supports Ruby 3.4 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-elastic-beanstalk-ruby-3-4-amazon-linux-2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

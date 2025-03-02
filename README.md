@@ -65,9 +65,9 @@
 - [AWS CodeBuild adds support for macOS 15.2](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-macos-15-2)
 - [AWS Network Firewall simplifies policy management with enhanced console features](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-policy-management-console-features/)
 - [Announcing extended support for Kubernetes versions for Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2025/02/kubernetes-versions-amazon-eks-anywhere/)
+- [Amazon Q Developer is now generally available in Amazon SageMaker Canvas](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-q-developer-generally-available-sagemaker-canvas)
 - [Mountpoint for Amazon S3 CSI driver is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/02/mountpoint-for-amazon-s3-csi-driver-govcloud/)
 - [Announcing new features for AWS IoT Device Defender to improve IoT certificate lifecycle management](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iot-device-defender-iot-certificate-lifecycle-management/)
-- [Amazon Nova Creative Models now available in Asia Pacific](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-nova-creative-models-asia-pacific)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-aws-govcloud-us-east-region)
+- [AWS Amplify supports HttpOnly cookies for server-rendered Next.js applications](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-httponly-cookies-server-rendered-next-js-applications)
+- [Amazon Connect outbound campaigns now supports Brazil](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-outbound-campaigns-brazil)
 - [Amazon Connect launches the ability for agents to exchange shifts with each other](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-agents-exchange-shifts)
 - [Amazon Data Lifecycle Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-aws-privatelink)
 - [Amazon Connect Contact Lens now offers AI-powered contact categorization in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-contact-lens-ai-powered-contact-categorization-new-regions)
@@ -65,9 +68,6 @@
 - [AWS CodeBuild adds support for macOS 15.2](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-codebuild-macos-15-2)
 - [AWS Network Firewall simplifies policy management with enhanced console features](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-network-firewall-policy-management-console-features/)
 - [Announcing extended support for Kubernetes versions for Amazon EKS Anywhere](https://aws.amazon.com/about-aws/whats-new/2025/02/kubernetes-versions-amazon-eks-anywhere/)
-- [Mountpoint for Amazon S3 CSI driver is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/02/mountpoint-for-amazon-s3-csi-driver-govcloud/)
-- [Announcing new features for AWS IoT Device Defender to improve IoT certificate lifecycle management](https://aws.amazon.com/about-aws/whats-new/2025/02/aws-iot-device-defender-iot-certificate-lifecycle-management/)
-- [Amazon Nova Creative Models now available in Asia Pacific](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-nova-creative-models-asia-pacific)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

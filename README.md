@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon API Gateway now supports HTTP APIs, mTLS, multi-level base path mappings, and WAF in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-api-gateway-http-apis-mtls-multi-level-base-path-mappings-waf-additional-regions)
 - [Amazon Bedrock Data Automation is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-data-automation-generally-available)
 - [Announcing managed integrations for AWS IoT Device Management &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/managed-integrations-aws-iot-device-management/)
 - [Announcing AWS Outposts racks for high throughput, network-intensive workloads &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-outposts-racks-throughput-network-intensive-workloads/)
@@ -66,8 +67,7 @@
 - [Amazon Connect outbound campaigns now supports Brazil](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-outbound-campaigns-brazil)
 - [Amazon Bedrock now available in the Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-europe-stockholm-region/)
 - [AWS CodeBuild adds support for Node 22, Python 3.13, and Go 1.23](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-node-22-python-3-13-go-1-23/)
-- [Amazon Connect launches the ability for agents to exchange shifts with each other](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-agents-exchange-shifts)
-- [Amazon Data Lifecycle Manager now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-data-lifecycle-manager-aws-privatelink)
+- [Amazon CloudWatch RUM introduces resource-based policy support for data ingestion access](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-resource-based-policy-ingestion-access/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

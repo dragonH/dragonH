@@ -66,7 +66,7 @@
 - [AWS Amplify supports HttpOnly cookies for server-rendered Next.js applications](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-httponly-cookies-server-rendered-next-js-applications)
 - [Amazon Connect outbound campaigns now supports Brazil](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-outbound-campaigns-brazil)
 - [Amazon Bedrock now available in the Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-europe-stockholm-region/)
-- [AWS CodeBuild adds support for Node 22, Python 3.13, and Go 1.23](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-node-22-python-3-13-go-1-23/)
+- [Amazon Cognito now supports access token customization for machine-to-machine &lpar;M2M&rpar; authorization flows](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-access-token-m2m-authorization-flows/)
 - [Amazon CloudWatch RUM introduces resource-based policy support for data ingestion access](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-resource-based-policy-ingestion-access/)
 <!-- AWS-NEWS:END -->
 

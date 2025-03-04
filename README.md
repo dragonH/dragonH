@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Business now supports insights from audio and video data](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-insights-audio-video-data)
 - [SageMaker Hyperpod Flexible Training Plans now supports instant start times and multiple offers](https://aws.amazon.com/about-aws/whats-new/2025/03/sagemaker-hyperpod-flexible-training-plans-instant-start-times-multiple-offers)
 - [Amazon Lex launches support for Confirmation and Alphanumeric slot types for Korean](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-lex-confirmation-alphanumeric-slot-types-korean)
 - [AWS Secrets Manager increases the API Requests per Second limits](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-secrets-manager-increases-api-requests-seconds)
@@ -65,9 +66,8 @@
 - [AWS Lambda adds support for Amazon CloudWatch Logs Live Tail in VS Code IDE](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/)
 - [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-neptune-database-aws-asia-pacific-malaysia-region)
 - [AWS CodeBuild now supports non-container builds in on-demand fleets](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-non-container-builds-on-demand-fleets/)
+- [Amazon S3 Tables are now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-three-additional-regions/)
 - [Amazon API Gateway now supports HTTP APIs, mTLS, multi-level base path mappings, and WAF in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-api-gateway-http-apis-mtls-multi-level-base-path-mappings-waf-additional-regions)
-- [Amazon Bedrock Data Automation is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-data-automation-generally-available)
-- [Amazon QuickSight now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-aws-govcloud-us-east-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

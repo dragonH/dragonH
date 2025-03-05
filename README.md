@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing latency-optimized inference for Amazon Nova Pro foundation model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/latency-optimized-inference-amazon-nova-pro-foundation-model-bedrock)
+- [AWS WAF is now available  in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-additional-regions)
+- [Amazon EC2 C8g instances now available in AWS Asia Pacific &lpar;Mumbai&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-c8g-instances-aws-asia-pacific-mumbai)
+- [Amazon EC2 M7g instances are now available in the AWS Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7g-instances-aws-europe-zurich)
 - [Amazon Q Business now supports insights from audio and video data](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-insights-audio-video-data)
 - [SageMaker Hyperpod Flexible Training Plans now supports instant start times and multiple offers](https://aws.amazon.com/about-aws/whats-new/2025/03/sagemaker-hyperpod-flexible-training-plans-instant-start-times-multiple-offers)
 - [Amazon Lex launches support for Confirmation and Alphanumeric slot types for Korean](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-lex-confirmation-alphanumeric-slot-types-korean)
 - [AWS Secrets Manager increases the API Requests per Second limits](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-secrets-manager-increases-api-requests-seconds)
 - [AWS Transfer Family announces reduced login latency for SFTP servers](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-reduced-login-latency-sftp-servers/)
 - [AWS Lambda adds support for Amazon CloudWatch Logs Live Tail in VS Code IDE](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-lambda-cloudwatch-logs-live-tail-vs-code-ide/)
-- [Amazon Neptune Database is now available in AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-neptune-database-aws-asia-pacific-malaysia-region)
-- [AWS CodeBuild now supports non-container builds in on-demand fleets](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-non-container-builds-on-demand-fleets/)
-- [Amazon S3 Tables are now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-three-additional-regions/)
-- [Amazon API Gateway now supports HTTP APIs, mTLS, multi-level base path mappings, and WAF in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-api-gateway-http-apis-mtls-multi-level-base-path-mappings-waf-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

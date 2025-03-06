@@ -65,7 +65,7 @@
 - [Amazon Connect can now target multiple agent proficiencies in a single routing step](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-multiple-agent-proficiencies-single-routing-step)
 - [Amazon EC2 M8g instances now available in AWS Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-8g-instances-aws-europe-ireland)
 - [Amazon FSx for NetApp ONTAP no longer charges for SnapLock licensing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-fsx-netapp-ontap-no-charges-snaplock-licensing)
-- [Announcing latency-optimized inference for Amazon Nova Pro foundation model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/latency-optimized-inference-amazon-nova-pro-foundation-model-bedrock)
+- [IAM Access Analyzer now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/iam-access-analyzer-supports-ipv6/)
 - [AWS WAF is now available  in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-additional-regions)
 - [Bottlerocket simplifies system setup with default bootstrap container image](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-system-setup-bootstrap-container-image/)
 <!-- AWS-NEWS:END -->

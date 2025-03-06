@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Amazon GameLift Streams](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-streams/)
 - [Amazon Connect, Amazon WorkSpaces, and Amazon AppStream 2.0 are now Chrome Enterprise Recommended](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended)
 - [Bottlerocket now supports NVIDIA Multi-Instance GPU &lpar;MIG&rpar; for Kubernetes workloads](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-nvidia-multi-instance-gpu-mig-kubernetes-workloads)
 - [Amazon EKS now envelope encrypts all Kubernetes API data by default](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-envelope-encrypts-kubernetes-api-data-default)
@@ -67,7 +68,6 @@
 - [Amazon FSx for NetApp ONTAP no longer charges for SnapLock licensing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-fsx-netapp-ontap-no-charges-snaplock-licensing)
 - [Announcing latency-optimized inference for Amazon Nova Pro foundation model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/latency-optimized-inference-amazon-nova-pro-foundation-model-bedrock)
 - [AWS WAF is now available  in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-additional-regions)
-- [Bottlerocket simplifies system setup with default bootstrap container image](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-system-setup-bootstrap-container-image/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

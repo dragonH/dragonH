@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Sharing of Connections is now available in AWS CodeConnections](https://aws.amazon.com/about-aws/whats-new/2025/03/sharing-connections-aws-codeconnections)
+- [Amazon EC2 M7a instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7a-instances-sydney-region)
+- [Amazon OpenSearch Serverless now available in AWS US West &lpar;N. California&rpar; and Europe &lpar;Stockholm&rpar;  Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-us-west-n-california-europe-stockholm-regions)
+- [Amazon OpenSearch Serverless now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-europe-milan-region)
 - [Announcing Amazon GameLift Streams](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-streams/)
 - [Amazon Connect, Amazon WorkSpaces, and Amazon AppStream 2.0 are now Chrome Enterprise Recommended](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended)
 - [Bottlerocket now supports NVIDIA Multi-Instance GPU &lpar;MIG&rpar; for Kubernetes workloads](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-nvidia-multi-instance-gpu-mig-kubernetes-workloads)
 - [Amazon EKS now envelope encrypts all Kubernetes API data by default](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-envelope-encrypts-kubernetes-api-data-default)
 - [Bottlerocket now supports AWS Neuron accelerated instance types](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-aws-neuron-accelerated-instance-types)
 - [Amazon Connect can now target multiple agent proficiencies in a single routing step](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-multiple-agent-proficiencies-single-routing-step)
-- [Amazon EC2 M8g instances now available in AWS Europe &lpar;Ireland&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-8g-instances-aws-europe-ireland)
-- [Amazon FSx for NetApp ONTAP no longer charges for SnapLock licensing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-fsx-netapp-ontap-no-charges-snaplock-licensing)
-- [Announcing latency-optimized inference for Amazon Nova Pro foundation model in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/latency-optimized-inference-amazon-nova-pro-foundation-model-bedrock)
-- [AWS WAF is now available  in two additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

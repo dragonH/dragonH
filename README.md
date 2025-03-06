@@ -62,12 +62,12 @@
 - [Amazon EC2 M7a instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7a-instances-sydney-region)
 - [Amazon OpenSearch Serverless now available in AWS US West &lpar;N. California&rpar; and Europe &lpar;Stockholm&rpar;  Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-us-west-n-california-europe-stockholm-regions)
 - [Amazon OpenSearch Serverless now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-europe-milan-region)
+- [Amazon Q Developer announces a new CLI agent within the command line](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-cli-agent-command-line/)
 - [Announcing Amazon GameLift Streams](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-streams/)
 - [Amazon Connect, Amazon WorkSpaces, and Amazon AppStream 2.0 are now Chrome Enterprise Recommended](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended)
 - [Bottlerocket now supports NVIDIA Multi-Instance GPU &lpar;MIG&rpar; for Kubernetes workloads](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-nvidia-multi-instance-gpu-mig-kubernetes-workloads)
 - [Amazon EKS now envelope encrypts all Kubernetes API data by default](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-envelope-encrypts-kubernetes-api-data-default)
 - [Bottlerocket now supports AWS Neuron accelerated instance types](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-aws-neuron-accelerated-instance-types)
-- [Amazon Connect can now target multiple agent proficiencies in a single routing step](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-multiple-agent-proficiencies-single-routing-step)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

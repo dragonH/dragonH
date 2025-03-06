@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF adds JA4 fingerprinting and aggregation on JA3 and JA4 fingerprints for rate-based rules](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-ja4-fingerprinting-aggregation-ja3-ja4-fingerprints-rate-based-rules)
 - [Sharing of Connections is now available in AWS CodeConnections](https://aws.amazon.com/about-aws/whats-new/2025/03/sharing-connections-aws-codeconnections)
 - [Amazon EC2 M7a instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7a-instances-sydney-region)
 - [Amazon OpenSearch Serverless now available in AWS US West &lpar;N. California&rpar; and Europe &lpar;Stockholm&rpar;  Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-us-west-n-california-europe-stockholm-regions)
@@ -67,7 +68,6 @@
 - [Amazon Connect, Amazon WorkSpaces, and Amazon AppStream 2.0 are now Chrome Enterprise Recommended](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended)
 - [Bottlerocket now supports NVIDIA Multi-Instance GPU &lpar;MIG&rpar; for Kubernetes workloads](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-nvidia-multi-instance-gpu-mig-kubernetes-workloads)
 - [Amazon EKS now envelope encrypts all Kubernetes API data by default](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-envelope-encrypts-kubernetes-api-data-default)
-- [Bottlerocket now supports AWS Neuron accelerated instance types](https://aws.amazon.com/about-aws/whats-new/2025/03/bottlerocket-aws-neuron-accelerated-instance-types)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

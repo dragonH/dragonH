@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Pools now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-workspaces-pools-fips-140-2-validated-endpoints)
+- [Amazon OpenSearch Serverless now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-aws-europe-spain-region)
+- [Amazon Bedrock Knowledge Bases supports GraphRAG now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-graphrag-generally-available)
 - [AWS WAF adds JA4 fingerprinting and aggregation on JA3 and JA4 fingerprints for rate-based rules](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-ja4-fingerprinting-aggregation-ja3-ja4-fingerprints-rate-based-rules)
+- [Announcing MQTT enabled SiteWise Edge gateways for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2025/03/mqtt-sitewise-edge-gateways-aws-iot-sitewise/)
+- [Announcing AWS Step Functions Workflow Studio for the VS Code IDE](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-step-functions-workflow-studio-vs-code-ide/)
+- [Sharing of Connections is now available in AWS CodeConnections](https://aws.amazon.com/about-aws/whats-new/2025/03/sharing-connections-aws-codeconnections)
+- [Amazon EC2 M7a instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7a-instances-sydney-region)
 - [Amazon OpenSearch Serverless now available in AWS US West &lpar;N. California&rpar; and Europe &lpar;Stockholm&rpar;  Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-us-west-n-california-europe-stockholm-regions)
 - [Amazon OpenSearch Serverless now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-europe-milan-region)
-- [Amazon EC2 M7a instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7a-instances-sydney-region)
-- [Amazon Q Developer announces a new CLI agent within the command line](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-cli-agent-command-line/)
-- [Announcing MQTT enabled SiteWise Edge gateways for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2025/03/mqtt-sitewise-edge-gateways-aws-iot-sitewise/)
-- [Sharing of Connections is now available in AWS CodeConnections](https://aws.amazon.com/about-aws/whats-new/2025/03/sharing-connections-aws-codeconnections)
-- [Announcing AWS Step Functions Workflow Studio for the VS Code IDE](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-step-functions-workflow-studio-vs-code-ide/)
-- [Announcing Amazon GameLift Streams](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-streams/)
-- [Amazon Connect, Amazon WorkSpaces, and Amazon AppStream 2.0 are now Chrome Enterprise Recommended](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-workspaces-appstream-2-0-chrome-enterprise-recommended)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

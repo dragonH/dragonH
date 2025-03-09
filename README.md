@@ -67,7 +67,7 @@
 - [Amazon Bedrock Knowledge Bases supports GraphRAG now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-graphrag-generally-available)
 - [Amazon Connect Contact Lens can now dynamically update the questions on an evaluation form](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-update-questions-evaluation-form/)
 - [AWS WAF adds JA4 fingerprinting and aggregation on JA3 and JA4 fingerprints for rate-based rules](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-ja4-fingerprinting-aggregation-ja3-ja4-fingerprints-rate-based-rules)
-- [Announcing MQTT enabled SiteWise Edge gateways for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2025/03/mqtt-sitewise-edge-gateways-aws-iot-sitewise/)
+- [Amazon OpenSearch Serverless now available in AWS US West &lpar;N. California&rpar; and Europe &lpar;Stockholm&rpar;  Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-us-west-n-california-europe-stockholm-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -61,13 +61,13 @@
 - [Amazon Athena Provisioned Capacity now available in the Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-athena-provisioned-capacity-asia-pacific-mumbai-region)
 - [Amazon WorkSpaces Pools now supports FIPS 140-2 validated endpoints](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-workspaces-pools-fips-140-2-validated-endpoints)
 - [Amazon OpenSearch Serverless now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-aws-europe-spain-region)
-- [Application Load Balancer announces integration with Amazon VPC IPAM](https://aws.amazon.com/about-aws/whats-new/2025/03/application-load-balancer-integration-vpc-ipam/)
 - [Amazon Redshift Data API now supports single sign-on &lpar;SSO&rpar; with AWS IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-data-api-sso-iam-identity-center/)
 - [AWS HealthOmics workflows now support NVIDIA L4 and L40S GPUs and expanded CPU options](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-healthomics-workflows-nvidia-l4-l40s-gpus/)
-- [Amazon Bedrock Knowledge Bases supports GraphRAG now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-graphrag-generally-available)
+- [Application Load Balancer announces integration with Amazon VPC IPAM](https://aws.amazon.com/about-aws/whats-new/2025/03/application-load-balancer-integration-vpc-ipam/)
 - [Amazon Connect Contact Lens can now dynamically update the questions on an evaluation form](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-update-questions-evaluation-form/)
+- [Amazon Bedrock Knowledge Bases supports GraphRAG now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-graphrag-generally-available)
 - [AWS WAF adds JA4 fingerprinting and aggregation on JA3 and JA4 fingerprints for rate-based rules](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-ja4-fingerprinting-aggregation-ja3-ja4-fingerprints-rate-based-rules)
-- [Amazon OpenSearch Serverless now available in AWS US West &lpar;N. California&rpar; and Europe &lpar;Stockholm&rpar;  Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-serverless-us-west-n-california-europe-stockholm-regions)
+- [Announcing MQTT enabled SiteWise Edge gateways for AWS IoT SiteWise](https://aws.amazon.com/about-aws/whats-new/2025/03/mqtt-sitewise-edge-gateways-aws-iot-sitewise/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

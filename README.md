@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge expands IAM execution role support to all targets](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-iam-execution-role-all-targets)
 - [Amazon EventBridge SaaS partner integrations now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-saas-partner-integrations-aws-govcloud-us-regions)
 - [Amazon EC2 G6e instances now available in Seoul Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-g6e-instances-seoul-region)
 - [DeepSeek-R1 is available fully-managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/deepseek-r1-fully-managed-amazon-bedrock)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-asia-pacific-malaysia-region)
-- [Amazon Cognito now supports passwordless authentication for low-friction and secure logins in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-passwordless-authentication-low-friction-secure-logins-aws-govcloud-us-regions)
 - [Announcing new feature tiers: Essentials and Plus for Amazon Cognito in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/new-feature-tiers-essentials-plus-amazon-cognito-aws-govcloud-us-regions)
-- [Amazon Cognito is now available in the AWS GovCloud &lpar;US East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-aws-govcloud-us-east-region)
+- [Amazon Cognito now supports passwordless authentication for low-friction and secure logins in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-passwordless-authentication-low-friction-secure-logins-aws-govcloud-us-regions)
 - [Amazon Cognito introduces Managed Login to support rich branding for end user journeys in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-managed-login-rich-branding-end-user-journeys-aws-govcloud-us-regions)
+- [Amazon Cognito is now available in the AWS GovCloud &lpar;US East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-aws-govcloud-us-east-region)
 - [Amazon EMR on EKS now supports Amazon EKS Pod Identity](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-eks-eks-pod-identity)
-- [Amazon EventBridge expands enhanced event source discovery to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-event-source-discovery-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

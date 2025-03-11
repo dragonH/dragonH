@@ -63,11 +63,11 @@
 - [Amazon EventBridge expands IAM execution role support to all targets](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-iam-execution-role-all-targets)
 - [Accelerate serverless development with ready-to-use Serverless Land Patterns in Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/03/ready-to-use-serverless-land-patterns-vs-code-ide/)
 - [Amazon EC2 R7i instances are now available in an additional AWS region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r7i-instances-additional-aws-region/)
+- [Amazon Neptune Database now supports R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-neptune-database-r7i-instances/)
+- [Amazon Bedrock Flows and Prompt Management now available in AWS GovCloud &lpar;US&rpar; and more regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-flows-prompt-management-govcloud/)
+- [Amazon GameLift Servers launches Game Server Wrapper for rapid onboarding](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-servers-game-wrapper-rapid-onboarding/)
 - [Amazon EventBridge SaaS partner integrations now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-saas-partner-integrations-aws-govcloud-us-regions)
 - [Amazon EC2 G6e instances now available in Seoul Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-g6e-instances-seoul-region)
-- [DeepSeek-R1 is available fully-managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/deepseek-r1-fully-managed-amazon-bedrock)
-- [Amazon Cognito is now available in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-asia-pacific-malaysia-region)
-- [Amazon Cognito now supports passwordless authentication for low-friction and secure logins in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cognito-passwordless-authentication-low-friction-secure-logins-aws-govcloud-us-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

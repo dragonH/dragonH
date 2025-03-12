@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation Hooks&#39; new invocation targets and managed Hooks are available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-hooks-invocation-targets-managed-hooks/)
+- [Amazon Nova is now available in AWS GovCloud](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-models-govcloud/)
+- [AWS CodeBuild now supports organization and enterprise level GitHub self-hosted runners](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-organization-enterprise-level-github-self-hosted-runners)
+- [Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now supports multiple integrations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-postgresql-zero-etl-integration-redshift-multiple-integrations)
+- [Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions)
+- [Amazon Inspector expands ECR support for minimal container base images and enhanced detections](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-inspector-container-base-images-enhanced-detections/)
+- [Amazon ECR announces ECR to ECR pull through cache](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ecr-pull-through-cache/)
 - [Amazon Nova Creative Models now available in Europe](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-creative-models-europe)
 - [Amazon EC2 Allowed AMIs now integrates with AWS Config](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config)
 - [Accelerate serverless development with ready-to-use Serverless Land Patterns in Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/03/ready-to-use-serverless-land-patterns-vs-code-ide/)
-- [Amazon EC2 R7i instances are now available in an additional AWS region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r7i-instances-additional-aws-region/)
-- [Amazon EventBridge expands IAM execution role support to all targets](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-iam-execution-role-all-targets)
-- [Amazon Bedrock Flows and Prompt Management now available in AWS GovCloud &lpar;US&rpar; and more regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-flows-prompt-management-govcloud/)
-- [Amazon Neptune Database now supports R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-neptune-database-r7i-instances/)
-- [Amazon GameLift Servers launches Game Server Wrapper for rapid onboarding](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-servers-game-wrapper-rapid-onboarding/)
-- [Amazon EventBridge SaaS partner integrations now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-saas-partner-integrations-aws-govcloud-us-regions)
-- [Amazon EC2 G6e instances now available in Seoul Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-g6e-instances-seoul-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

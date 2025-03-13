@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Route 53 Traffic Flow introduces a new visual editor to improve DNS policy editing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-route-53-traffic-flow-visual-editor-improve-dns-policy-editing)
+- [AppSync Events adds publishing over WebSocket for real-time pub/sub](https://aws.amazon.com/about-aws/whats-new/2025/03/appsync-events-publishing-websocket-real-time-pub-sub)
 - [Amazon S3 reduces pricing for S3 object tagging by 35%](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-reduces-pricing-object-tagging)
 - [Amazon Bedrock now available in the Europe &lpar;Milan&rpar; and Europe &lpar;Spain&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-europe-milan-spain-regions/)
+- [Amazon Route 53 Traffic Flow introduces a new visual editor to improve DNS policy editing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-route-53-traffic-flow-visual-editor-improve-dns-policy-editing)
+- [Amazon S3 Tables integration with SageMaker Lakehouse is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-lakehouse-integration-s3-tables-generally-available)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250213](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-mysql-extended-support-minor-5-7-44-rds-20250213)
-- [AWS Service Reference Information now supports resources and condition keys](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-service-reference-information-resources-condition-keys)
-- [AWS Backup adds support for Amazon FSx for OpenZFS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/)
-- [Amazon GuardDuty Malware Protection for S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-guardduty-malware-protection-s3-govcloud/)
 - [Introducing Amazon EC2 I8g.48xlarge instances in US East &lpar;N. Virginia&rpar; and US West &lpar;Oregon&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-i8g-48xlarge-instances-n-virginia-oregon/)
-- [Amazon QuickSight now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-europe-spain-region)
-- [AWS Backup adds logically air-gapped vault support for Amazon FSx](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx)
+- [Amazon GuardDuty Malware Protection for S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-guardduty-malware-protection-s3-govcloud/)
+- [AWS Backup adds support for Amazon FSx for OpenZFS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/)
+- [AWS Service Reference Information now supports resources and condition keys](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-service-reference-information-resources-condition-keys)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

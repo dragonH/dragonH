@@ -65,9 +65,9 @@
 - [AWS Service Reference Information now supports resources and condition keys](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-service-reference-information-resources-condition-keys)
 - [AWS Backup adds support for Amazon FSx for OpenZFS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/)
 - [Amazon GuardDuty Malware Protection for S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-guardduty-malware-protection-s3-govcloud/)
+- [Introducing Amazon EC2 I8g.48xlarge instances in US East &lpar;N. Virginia&rpar; and US West &lpar;Oregon&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-i8g-48xlarge-instances-n-virginia-oregon/)
 - [Amazon QuickSight now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-europe-spain-region)
 - [AWS Backup adds logically air-gapped vault support for Amazon FSx](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-logically-air-gapped-vault-amazon-fsx)
-- [AWS Amplify Hosting announces deployment skew protection support](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-hosting-deployment-skew-protection-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

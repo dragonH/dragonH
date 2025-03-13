@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight now available in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-europe-spain-region)
 - [AWS CloudFormation Hooks&#39; new invocation targets and managed Hooks are available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-hooks-invocation-targets-managed-hooks/)
 - [Amazon Nova is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-models-govcloud/)
 - [AWS Glue now available in two new regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-glue-available-two-new-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Inspector expands ECR support for minimal container base images and enhanced detections](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-inspector-container-base-images-enhanced-detections/)
 - [Amazon ECR announces ECR to ECR pull through cache](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ecr-pull-through-cache/)
 - [Amazon Nova Creative Models now available in Europe](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-creative-models-europe)
-- [Amazon EC2 Allowed AMIs now integrates with AWS Config](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,14 +58,14 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation Hooks&#39; new invocation targets and managed Hooks are available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-hooks-invocation-targets-managed-hooks/)
 - [Amazon Nova is now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-models-govcloud/)
 - [AWS Glue now available in two new regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-glue-available-two-new-regions/)
-- [AWS CloudFormation Hooks&#39; new invocation targets and managed Hooks are available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-hooks-invocation-targets-managed-hooks/)
 - [AWS CodeBuild now supports organization and enterprise level GitHub self-hosted runners](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-organization-enterprise-level-github-self-hosted-runners)
 - [Amazon Aurora PostgreSQL zero-ETL integration with Amazon Redshift now supports multiple integrations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-postgresql-zero-etl-integration-redshift-multiple-integrations)
 - [Amazon DynamoDB zero-ETL integration with Amazon Redshift now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-zero-etl-integration-redshift-additional-regions)
-- [Amazon ECR announces ECR to ECR pull through cache](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ecr-pull-through-cache/)
 - [Amazon Inspector expands ECR support for minimal container base images and enhanced detections](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-inspector-container-base-images-enhanced-detections/)
+- [Amazon ECR announces ECR to ECR pull through cache](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ecr-pull-through-cache/)
 - [Amazon Nova Creative Models now available in Europe](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-creative-models-europe)
 - [Amazon EC2 Allowed AMIs now integrates with AWS Config](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-allowed-amis-integrates-aws-config)
 <!-- AWS-NEWS:END -->

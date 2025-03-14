@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Verified Access achieves FedRAMP High and Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-verified-access-fedramp-high-moderate-authorization)
 - [Announcing support of AWS Glue Data Catalog views with AWS Glue 5.0](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-glue-data-catalog-views-glue-5-0)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-mysql-mariadb-m8g-r8g-database-instances-additional-regions)
 - [Amazon Aurora now supports R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-r8g-database-instances-additional-aws-regions)
@@ -67,7 +68,6 @@
 - [Amazon EMR Serverless Streaming jobs is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-streaming-jobs-aws-govcloud-regions)
 - [Amazon Kinesis Data Streams now supports Internet Protocol version 6](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-kinesis-data-streams-internet-protocol-version-6)
 - [Amazon EMR Serverless achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-fedramp-high-authorization)
-- [AWS CodeConnections adds support for new condition key](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codeconnections-adds-condition-key)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

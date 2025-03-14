@@ -67,7 +67,7 @@
 - [Introducing Amazon EC2 I8g.48xlarge instances in US East &lpar;N. Virginia&rpar; and US West &lpar;Oregon&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-i8g-48xlarge-instances-n-virginia-oregon/)
 - [Amazon GuardDuty Malware Protection for S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-guardduty-malware-protection-s3-govcloud/)
 - [AWS Backup adds support for Amazon FSx for OpenZFS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-backup-fsx-openzfs-additional-regions/)
-- [Amazon S3 Tables add Apache Iceberg REST Catalog APIs](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-apache-iceberg-rest-catalog-apis)
+- [Amazon SageMaker Unified Studio is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-unified-studio-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

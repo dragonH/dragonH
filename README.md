@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-mysql-mariadb-m8g-r8g-database-instances-additional-regions)
+- [Amazon Aurora now supports R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-aurora-r8g-database-instances-additional-aws-regions)
 - [Amazon GuardDuty Extended Threat Detection now available in AWS GovCloud &lpar;US&rpar; and China Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-guardduty-extended-threat-detection-govcloud-china/)
 - [Meta’s Llama 3.2 models are now available for fine-tuning in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/metas-llama-3-2-models-fine-tuning-amazon-bedrock/)
 - [Amazon EMR Serverless Streaming jobs is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-streaming-jobs-aws-govcloud-regions)
@@ -66,8 +68,6 @@
 - [AWS CodeConnections adds support for new condition key](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codeconnections-adds-condition-key)
 - [Announcing the New AWS Wickr Admin Console](https://aws.amazon.com/about-aws/whats-new/2025/03/new-aws-wickr-admin-console)
 - [Amazon RDS for SQL Server supports new minor version in February 2025](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-sql-server-minor-version-february-2025)
-- [AWS announces new AWS Direct Connect location in Lisbon, Portugal](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-direct-connect-location-lisbon-portugal)
-- [AppSync Events adds publishing over WebSocket for real-time pub/sub](https://aws.amazon.com/about-aws/whats-new/2025/03/appsync-events-publishing-websocket-real-time-pub-sub)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

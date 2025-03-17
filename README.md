@@ -62,12 +62,12 @@
 - [AWS announces new upgrades to the Amazon Q Business browser extension](https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-browser-extension)
 - [Amazon Connect Tasks now support durations up to 90 days](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-tasks-durations-90-days)
 - [Amazon Redshift Query Editor v2 now supports larger result sets in GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-query-editor-v2-larger-result-sets-govcloud/)
+- [AWS Transfer Family enhances AS2 certificate management capabilities](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-as2-certificate-management/)
 - [Amazon OpenSearch Service expands cross-VPC connectivity to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-service-cross-vpc-connectivity-aws-govcloud-regions)
-- [Salesforce Contact Center with Amazon Connect is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/salesforce-contact-center-amazon-connect-available/)
 - [Configure Amazon Q in Connect directly from Connect Admin Website](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-connect-admin-website/)
-- [AWS Verified Access achieves FedRAMP High and Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-verified-access-fedramp-high-moderate-authorization)
-- [Announcing support of AWS Glue Data Catalog views with AWS Glue 5.0](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-glue-data-catalog-views-glue-5-0)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-mysql-mariadb-m8g-r8g-database-instances-additional-regions)
+- [Salesforce Contact Center with Amazon Connect is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/salesforce-contact-center-amazon-connect-available/)
+- [Manage SLO exclusion time windows using CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/03/slo-exclusion-time-windows-cloudwatch-application-signals/)
+- [Amazon RDS Custom for SQL Server supports new minor version in February 2025](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-custom-for-sql-minor-version-february-2025/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

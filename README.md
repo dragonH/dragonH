@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service expands cross-VPC connectivity to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-service-cross-vpc-connectivity-aws-govcloud-regions)
 - [AWS Verified Access achieves FedRAMP High and Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-verified-access-fedramp-high-moderate-authorization)
 - [Announcing support of AWS Glue Data Catalog views with AWS Glue 5.0](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-glue-data-catalog-views-glue-5-0)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-mysql-mariadb-m8g-r8g-database-instances-additional-regions)
@@ -67,7 +68,6 @@
 - [Meta’s Llama 3.2 models are now available for fine-tuning in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/03/metas-llama-3-2-models-fine-tuning-amazon-bedrock/)
 - [Amazon EMR Serverless Streaming jobs is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-streaming-jobs-aws-govcloud-regions)
 - [Amazon Kinesis Data Streams now supports Internet Protocol version 6](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-kinesis-data-streams-internet-protocol-version-6)
-- [Amazon EMR Serverless achieves FedRAMP High authorization](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-emr-serverless-fedramp-high-authorization)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

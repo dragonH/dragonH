@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS WAF now supports URI fragment field matching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-uri-fragment-field-matching/)
 - [AWS Firewall Manager is now available in the AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-firewall-manager-thailand-mexico-regions)
-- [AWS announces the next generation of Amazon Connect where powerful AI improves every customer interaction](https://aws.amazon.com/about-aws/whats-new/2025/03/next-generation-amazon-connect-ai-improves-customer-interaction)
+- [Amazon CloudWatch RUM now supports monitoring multiple domains with a single App Monitor](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-monitoring-multiple-domains-single-app-monitor)
+- [CloudWatch RUM now supports JavaScript source maps for easier error debugging](https://aws.amazon.com/about-aws/whats-new/2025/03/cloudwatch-rum-javascript-source-maps-error-debugging/)
 - [AWS Client VPN increases authorization rules and route quotas](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-client-vpn-authorization-rules-route-quotas)
+- [AWS announces the next generation of Amazon Connect where powerful AI improves every customer interaction](https://aws.amazon.com/about-aws/whats-new/2025/03/next-generation-amazon-connect-ai-improves-customer-interaction)
 - [Amazon DynamoDB Accelerator &lpar;DAX&rpar; SDK for Go version 2 is now available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamo-db-accelerator-dax-sdk-go-version-2-available)
 - [Amazon DynamoDB Accelerator &lpar;DAX&rpar; SDK for JavaScript version 3 is now available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-accelerator-dax-sdk-javascript-version-3-available)
 - [Amazon Redshift Serverless now supports Current and Trailing Tracks for release updates](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-current-trailing-tracks-release-updates)
 - [AWS announces new upgrades to the Amazon Q Business browser extension](https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-browser-extension)
-- [Amazon Connect Tasks now support durations up to 90 days](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-tasks-durations-90-days)
-- [Amazon Redshift Query Editor v2 now supports larger result sets in GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-query-editor-v2-larger-result-sets-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

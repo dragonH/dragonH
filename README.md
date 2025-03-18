@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF now supports URI fragment field matching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-uri-fragment-field-matching/)
+- [AWS Firewall Manager is now available in the AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-firewall-manager-thailand-mexico-regions)
+- [AWS announces the next generation of Amazon Connect where powerful AI improves every customer interaction](https://aws.amazon.com/about-aws/whats-new/2025/03/next-generation-amazon-connect-ai-improves-customer-interaction)
+- [AWS Client VPN increases authorization rules and route quotas](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-client-vpn-authorization-rules-route-quotas)
+- [Amazon DynamoDB Accelerator &lpar;DAX&rpar; SDK for Go version 2 is now available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamo-db-accelerator-dax-sdk-go-version-2-available)
+- [Amazon DynamoDB Accelerator &lpar;DAX&rpar; SDK for JavaScript version 3 is now available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-accelerator-dax-sdk-javascript-version-3-available)
 - [Amazon Redshift Serverless now supports Current and Trailing Tracks for release updates](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-current-trailing-tracks-release-updates)
 - [AWS announces new upgrades to the Amazon Q Business browser extension](https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-browser-extension)
 - [Amazon Connect Tasks now support durations up to 90 days](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-tasks-durations-90-days)
 - [Amazon Redshift Query Editor v2 now supports larger result sets in GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-query-editor-v2-larger-result-sets-govcloud/)
-- [Amazon OpenSearch Service expands cross-VPC connectivity to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-opensearch-service-cross-vpc-connectivity-aws-govcloud-regions)
-- [AWS Transfer Family enhances AS2 certificate management capabilities](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-as2-certificate-management/)
-- [Amazon RDS Custom for SQL Server supports new minor version in February 2025](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-custom-for-sql-minor-version-february-2025/)
-- [Salesforce Contact Center with Amazon Connect is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/salesforce-contact-center-amazon-connect-available/)
-- [Manage SLO exclusion time windows using CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/03/slo-exclusion-time-windows-cloudwatch-application-signals/)
-- [Configure Amazon Q in Connect directly from Connect Admin Website](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-connect-admin-website/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

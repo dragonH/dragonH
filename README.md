@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7g instances are now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7g-instances-aws-israel-tel-aviv-region)
 - [Amazon EC2 C7g instances are now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-c7g-instances-aws-canada-west-calgary-region)
 - [Amazon EC2 R7g instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r7g-instances-aws-govcloud-us-west-region)
 - [Amazon EC2 M7gd instances are now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7gd-instances-middle-east-uae-region)
@@ -67,7 +68,6 @@
 - [AWS WAF now supports URI fragment field matching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-uri-fragment-field-matching/)
 - [AWS Firewall Manager is now available in the AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-firewall-manager-thailand-mexico-regions)
 - [Amazon CloudWatch RUM now supports monitoring multiple domains with a single App Monitor](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-monitoring-multiple-domains-single-app-monitor)
-- [AWS Client VPN increases authorization rules and route quotas](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-client-vpn-authorization-rules-route-quotas)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Serverless is now available in the AWS Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-available-mexico-thailand)
+- [IonQ Forte Enterprise now available on Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2025/03/ionq-forte-enterprise-amazon-braket)
+- [Amazon Q Business now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-europe-ireland-region/)
+- [AWS Network Firewall introduces new flow management feature](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-flow-management-feature/)
 - [Amazon EC2 M7g instances are now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7g-instances-aws-israel-tel-aviv-region)
 - [Amazon EC2 C7g instances are now available in AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-c7g-instances-aws-canada-west-calgary-region)
 - [Amazon EC2 R7g instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r7g-instances-aws-govcloud-us-west-region)
 - [Amazon EC2 M7gd instances are now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7gd-instances-middle-east-uae-region)
 - [Amazon Nova expands Tool Choice options for Converse API](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-nova-expands-tool-converse-api/)
 - [Amazon CloudWatch Database Insights available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-database-insights-aws-govcloud-us-regions)
-- [Amazon Bedrock Guardrails announces policy based enforcement for responsible AI](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-guardrails-policy-based-enforcement-responsible-ai)
-- [AWS WAF now supports URI fragment field matching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-waf-uri-fragment-field-matching/)
-- [AWS Firewall Manager is now available in the AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-firewall-manager-thailand-mexico-regions)
-- [Amazon CloudWatch RUM now supports monitoring multiple domains with a single App Monitor](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-monitoring-multiple-domains-single-app-monitor)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

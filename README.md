@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens now enables you to capture agent acknowledgements of performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-agents-acknowledgements-performance-evaluations)
 - [Amazon SES announces Vade advanced email security Add On for Mail Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ses-advanced-email-security-add-on/)
 - [AWS adds currency selection to Payment Profiles](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-currency-selection-payment-profiles)
 - [AWS announces expanded service support in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-expanded-support-console-mobile-app/)
@@ -67,7 +68,6 @@
 - [IonQ Forte Enterprise now available on Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2025/03/ionq-forte-enterprise-amazon-braket)
 - [AWS Network Firewall introduces new flow management feature](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-flow-management-feature/)
 - [Amazon Bedrock now supports RAG Evaluation &lpar;generally available&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-rag-evaluation-generally-available/)
-- [Amazon Q Business now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-europe-ireland-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

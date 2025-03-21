@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SES announces Vade advanced email security Add On for Mail Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ses-advanced-email-security-add-on/)
 - [AWS adds currency selection to Payment Profiles](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-currency-selection-payment-profiles)
 - [AWS announces expanded service support in the AWS Console Mobile App](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-expanded-support-console-mobile-app/)
+- [AWS Directory Service for Microsoft AD and AD Connector available in Mexico and Thailand](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-directory-service-microsoft-ad-connector-mexico-thailand/)
 - [Research and Engineering Studio on AWS Version 2025.03 now available](https://aws.amazon.com/about-aws/whats-new/2025/03/research-engineering-studio-aws-version-2025-03-available)
 - [Amazon Redshift Serverless is now available in the AWS Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-available-mexico-thailand)
 - [IonQ Forte Enterprise now available on Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2025/03/ionq-forte-enterprise-amazon-braket)
-- [Amazon SES announces Vade advanced email security Add On for Mail Manager](https://aws.amazon.com/about-aws/whats-new/2024/03/amazon-ses-advanced-email-security-add-on/)
 - [AWS Network Firewall introduces new flow management feature](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-flow-management-feature/)
 - [Amazon Bedrock now supports RAG Evaluation &lpar;generally available&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-rag-evaluation-generally-available/)
 - [Amazon Q Business now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-europe-ireland-region/)
-- [Amazon EC2 M7g instances are now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-m7g-instances-aws-israel-tel-aviv-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

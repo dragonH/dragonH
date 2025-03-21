@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Tables are now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-additional-regions)
 - [Amazon Connect Contact Lens now enables you to capture agent acknowledgements of performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-agents-acknowledgements-performance-evaluations)
 - [Amazon SES announces Vade advanced email security Add On for Mail Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ses-advanced-email-security-add-on/)
 - [AWS adds currency selection to Payment Profiles](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-currency-selection-payment-profiles)
@@ -67,7 +68,6 @@
 - [Research and Engineering Studio on AWS Version 2025.03 now available](https://aws.amazon.com/about-aws/whats-new/2025/03/research-engineering-studio-aws-version-2025-03-available)
 - [Amazon Redshift Serverless is now available in the AWS Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-serverless-available-mexico-thailand)
 - [IonQ Forte Enterprise now available on Amazon Braket](https://aws.amazon.com/about-aws/whats-new/2025/03/ionq-forte-enterprise-amazon-braket)
-- [AWS Network Firewall introduces new flow management feature](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-flow-management-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

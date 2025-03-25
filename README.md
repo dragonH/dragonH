@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Scenarios capability now generally available for Amazon Q in QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/03/scenarios-capability-generally-available-amazon-q-quicksight)
 - [AWS Elemental MediaConnect adds support for NDI® outputs](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elemental-mediaconnect-support-ndi-outputs)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds Multi-Region support for User Defined Types &lpar;UDTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-apache-cassandra-multi-region-support-udts)
 - [Amplify Swift launches Shared Keychain support](https://aws.amazon.com/about-aws/whats-new/2025/03/amplify-swift-shared-keychain-support/)
@@ -67,7 +68,6 @@
 - [Amazon Corretto 24 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-corretto-24-available/)
 - [Amazon S3 Tables are now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-s3-tables-additional-regions)
 - [Amazon Connect Contact Lens now enables you to capture agent acknowledgements of performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-agents-acknowledgements-performance-evaluations)
-- [Amazon SES announces Vade advanced email security Add On for Mail Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ses-advanced-email-security-add-on/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

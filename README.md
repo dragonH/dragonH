@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server supports linked servers to Teradata databases](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-sql-server-linked-servers-teradata-databases)
+- [Amazon Keyspaces expands Multi-Region Replication to support all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-multi-region-replication-aws-regions)
 - [Amazon RDS for MySQL announces Innovation Release version 9.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-mysql-innovation-release-version-9-2-rds-database-preview-environment)
 - [AWS announces OR2 and OM2 instances for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-or2-om2-instances-opensearch-service/)
 - [Amazon EventBridge Scheduler now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/)
@@ -66,8 +68,6 @@
 - [Amazon DataZone is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-2-additional-commercial-regions/)
 - [Scenarios capability now generally available for Amazon Q in QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/03/scenarios-capability-generally-available-amazon-q-quicksight)
 - [AWS Elemental MediaConnect adds support for NDI® outputs](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elemental-mediaconnect-support-ndi-outputs)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds Multi-Region support for User Defined Types &lpar;UDTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-apache-cassandra-multi-region-support-udts)
-- [Announcing Terraform support for AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2025/03/announcing-terraform-parallel-computing-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

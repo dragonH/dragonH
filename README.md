@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for MySQL announces Innovation Release version 9.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-mysql-innovation-release-version-9-2-rds-database-preview-environment)
 - [Amazon Redshift Query Editor V2 is now available in AWS Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-redshift-query-editor-v2-aws-mexico-central-asia-pacific-thailand-regions)
+- [AWS announces OR2 and OM2 instances for Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-or2-om2-instances-opensearch-service/)
+- [Amazon RDS for MySQL announces Innovation Release version 9.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-mysql-innovation-release-version-9-2-rds-database-preview-environment)
+- [Amazon EventBridge Scheduler now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eventbridge-scheduler-privatelink/)
+- [The next generation of Amazon SageMaker is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/next-generation-amazon-sagemaker-two-additional-regions/)
+- [Amazon DataZone is now available in 2 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-2-additional-commercial-regions/)
 - [Scenarios capability now generally available for Amazon Q in QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/03/scenarios-capability-generally-available-amazon-q-quicksight)
 - [AWS Elemental MediaConnect adds support for NDI® outputs](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elemental-mediaconnect-support-ndi-outputs)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; adds Multi-Region support for User Defined Types &lpar;UDTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-apache-cassandra-multi-region-support-udts)
 - [Announcing Terraform support for AWS Parallel Computing Service](https://aws.amazon.com/about-aws/whats-new/2025/03/announcing-terraform-parallel-computing-service/)
-- [AWS announces new upgrades to the Amazon Q Business Slack and Teams Integrations](https://aws.amazon.com/about-aws/whats-new/2025/03/upgrades-amazon-q-business-slack-teams-integrations/)
-- [Amplify Swift launches Shared Keychain support](https://aws.amazon.com/about-aws/whats-new/2025/03/amplify-swift-shared-keychain-support/)
-- [AWS DMS Schema Conversion now supports conversions from IBM Db2 for z/OS to Amazon RDS for Db2](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-dms-schema-conversion-ibm-db2-z-os/)
-- [Amazon Corretto 24 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-corretto-24-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

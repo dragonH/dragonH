@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Custom Model Import introduces real-time cost transparency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-real-time-cost-transparency)
 - [Amazon DynamoDB Streams APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-streams-apis-aws-privatelink)
 - [Amazon Application Recovery Controller announces AWS FIS recovery action for zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-application-recovery-controller-fis-recovery-action/)
 - [New Korean voice for Amazon Polly](https://aws.amazon.com/about-aws/whats-new/2025/03/new-korean-voice-amazon-polly)
-- [Database Insights adds support for customization of its metrics dashboard](https://aws.amazon.com/about-aws/whats-new/2025/03/database-insights-customization-metrics-dashboard/)
 - [Amazon CloudWatch RUM is now generally available in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-cloudwatch-rum-2-additional-aws-regions/)
+- [Database Insights adds support for customization of its metrics dashboard](https://aws.amazon.com/about-aws/whats-new/2025/03/database-insights-customization-metrics-dashboard/)
 - [Announcing multi-head node support in Slurm for Amazon SageMaker HyperPod clusters](https://aws.amazon.com/about-aws/whats-new/2025/03/multi-head-node-slurm-amazon-sagemaker-hyperpod-clusters)
 - [Amazon Route 53 Profiles now supports Internet Protocol Version 6 &lpar;IPv6&rpar; Service Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-route-53-profiles-ipv6-service-endpoints)
-- [Amazon RDS for SQL Server supports linked servers to Teradata databases](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-sql-server-linked-servers-teradata-databases)
-- [Amazon Keyspaces expands Multi-Region Replication to support all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-multi-region-replication-aws-regions)
-- [Amazon RDS for MySQL announces Innovation Release version 9.2 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-mysql-innovation-release-version-9-2-rds-database-preview-environment)
+- [AWS Amplify Hosting announces Web Application Firewall Protection in general availability](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-hosting-web-application-firewall-protection/)
+- [AWS Network Firewall is now available in the Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-thailand-mexico-central-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

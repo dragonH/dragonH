@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Servers expands instance support with next-generation EC2 instance families](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-servers-expands-instance-support)
 - [AWS Network Manager and AWS Cloud WAN now support AWS PrivateLink and IPv6](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-manager-cloud-wan-privatelink-ipv6)
 - [AWS Network Firewall adds pass action rule alerts and JA4 filtering](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-pass-action-rule-alerts-ja4-filtering)
 - [Amazon Bedrock Knowledge Bases now supports Amazon Opensearch Managed Cluster for vector storage](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-opensearch-cluster-vector-storage/)
@@ -67,7 +68,6 @@
 - [Announcing 3 new features on Connected Mobility Solution on AWS](https://aws.amazon.com/about-aws/whats-new/2025/03/3-new-features-connected-mobility-solution/)
 - [Amazon DynamoDB now supports percentile statistics for request latency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-percentile-statistics-request-latency/)
 - [AWS CloudFormation now supports targeted resource scans in the IaC generator](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-targeted-resource-scans-iac-generator/)
-- [Amazon Q Business now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-asia-pacific-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Manager and AWS Cloud WAN now support AWS PrivateLink and IPv6](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-manager-cloud-wan-privatelink-ipv6)
 - [AWS Network Firewall adds pass action rule alerts and JA4 filtering](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-pass-action-rule-alerts-ja4-filtering)
 - [Amazon Bedrock Knowledge Bases now supports Amazon Opensearch Managed Cluster for vector storage](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-opensearch-cluster-vector-storage/)
+- [AWS Marketplace introduces new seller experiences for Machine Learning products](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-marketplace-seller-experiences-machine-learning-products/)
 - [Amazon EKS now enforces upgrade insights checks as part of cluster upgrades](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-enforces-upgrade-insights-check-cluster-upgrades)
 - [Amazon EC2 P5en instances are now available in US East &lpar;N. Virginia&rpar; and Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-p5en-instances-n-virginia-jakarta/)
 - [Announcing 3 new features on Connected Mobility Solution on AWS](https://aws.amazon.com/about-aws/whats-new/2025/03/3-new-features-connected-mobility-solution/)
-- [Amazon Q Business now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-asia-pacific-sydney-region/)
+- [Amazon DynamoDB now supports percentile statistics for request latency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-percentile-statistics-request-latency/)
 - [AWS CloudFormation now supports targeted resource scans in the IaC generator](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-targeted-resource-scans-iac-generator/)
-- [Amazon Bedrock Custom Model Import introduces real-time cost transparency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-real-time-cost-transparency)
-- [Amazon DynamoDB Streams APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-streams-apis-aws-privatelink)
-- [Amazon Application Recovery Controller announces AWS FIS recovery action for zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-application-recovery-controller-fis-recovery-action/)
+- [Amazon Q Business now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-asia-pacific-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

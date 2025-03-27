@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now enforces upgrade insights checks as part of cluster upgrades](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-enforces-upgrade-insights-check-cluster-upgrades)
 - [Amazon Bedrock Custom Model Import introduces real-time cost transparency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-real-time-cost-transparency)
 - [Amazon DynamoDB Streams APIs now support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-streams-apis-aws-privatelink)
 - [Amazon Application Recovery Controller announces AWS FIS recovery action for zonal autoshift](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-application-recovery-controller-fis-recovery-action/)
@@ -67,7 +68,6 @@
 - [Announcing multi-head node support in Slurm for Amazon SageMaker HyperPod clusters](https://aws.amazon.com/about-aws/whats-new/2025/03/multi-head-node-slurm-amazon-sagemaker-hyperpod-clusters)
 - [Amazon Route 53 Profiles now supports Internet Protocol Version 6 &lpar;IPv6&rpar; Service Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-route-53-profiles-ipv6-service-endpoints)
 - [Deploy Storage Browser for Amazon S3 quickly with AWS sample applications](https://aws.amazon.com/about-aws/whats-new/2025/03/deploy-storage-browser-amazon-s3-sample-applications/)
-- [AWS Amplify Hosting announces Web Application Firewall Protection in general availability](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-amplify-hosting-web-application-firewall-protection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS CodeBuild now supports custom cache keys for S3 caching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-custom-cache-keys-s3-caching)
+- [Amazon ElastiCache now supports AWS PrivateLink in AWS Asia Pacific &lpar;Jakarta&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-elasticache-aws-privatelink-asia-pacific-jakarta-asia-pacific-hyderabad-regions)
 - [Amazon EBS launches gp3 and io1 volumes for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ebs-gp3-io1-volumes-aws-dedicated-local-zones)
-- [Amazon EC2 C8g instances now available in AWS Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-c8g-asia-pacific-tokyo/)
+- [AWS CodeBuild now supports custom cache keys for S3 caching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-custom-cache-keys-s3-caching)
 - [Amazon SageMaker AI is now available in Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-asia-pacific-thailand/)
 - [Amazon SageMaker AI is now available in Mexico &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-mexico-central/)
+- [Amazon EC2 C8g instances now available in AWS Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-c8g-asia-pacific-tokyo/)
+- [Amazon EC2 R8g instances now available in AWS US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r8g-instances-us-west-n-california/)
 - [Amazon GameLift Servers expands instance support with next-generation EC2 instance families](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-servers-expands-instance-support)
 - [AWS Network Manager and AWS Cloud WAN now support AWS PrivateLink and IPv6](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-manager-cloud-wan-privatelink-ipv6)
 - [AWS Network Firewall adds pass action rule alerts and JA4 filtering](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-pass-action-rule-alerts-ja4-filtering)
-- [AWS Marketplace introduces new seller experiences for Machine Learning products](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-marketplace-seller-experiences-machine-learning-products/)
-- [Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Managed Cluster for vector storage](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-opensearch-cluster-vector-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

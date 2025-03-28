@@ -67,7 +67,7 @@
 - [Amazon EC2 P5en instances are now available in US East &lpar;N. Virginia&rpar; and Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-p5en-instances-n-virginia-jakarta/)
 - [Announcing 3 new features on Connected Mobility Solution on AWS](https://aws.amazon.com/about-aws/whats-new/2025/03/3-new-features-connected-mobility-solution/)
 - [Amazon DynamoDB now supports percentile statistics for request latency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-percentile-statistics-request-latency/)
-- [AWS CloudFormation now supports targeted resource scans in the IaC generator](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-cloudformation-targeted-resource-scans-iac-generator/)
+- [Amazon Q Business now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-asia-pacific-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

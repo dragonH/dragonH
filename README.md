@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Identity and Access Management now supports dual-stack &lpar;IPv4 and IPv6&rpar; environments](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-identity-access-management-dual-stack-ipv4-ipv6-environments)
+- [Amazon Bedrock Guardrails announces the general availability of industry-leading image content filters](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-guardrails-general-availability-image-content-filters)
 - [Amazon EC2 now supports more bandwidth and jumbo frames to select destinations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-bandwidth-jumbo-frames)
 - [Amazon DataZone now supports metadata rules for publishing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-metadata-rules-publishing)
 - [Amazon SageMaker introduces metadata rules to enforce standards and improve data governance](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-metadata-rules-standards-improve-data-governance)
@@ -66,8 +68,6 @@
 - [Amazon EBS launches gp3 and io1 volumes for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ebs-gp3-io1-volumes-aws-dedicated-local-zones)
 - [Amazon SageMaker AI is now available in Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-asia-pacific-thailand/)
 - [Amazon SageMaker AI is now available in Mexico &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-mexico-central/)
-- [Amazon EC2 C8g instances now available in AWS Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-c8g-asia-pacific-tokyo/)
-- [Amazon EC2 R8g instances now available in AWS US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r8g-instances-us-west-n-california/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

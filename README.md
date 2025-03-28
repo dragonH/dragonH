@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild now supports custom cache keys for S3 caching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-custom-cache-keys-s3-caching)
+- [Amazon EBS launches gp3 and io1 volumes for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ebs-gp3-io1-volumes-aws-dedicated-local-zones)
+- [Amazon EC2 C8g instances now available in AWS Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-c8g-asia-pacific-tokyo/)
+- [Amazon SageMaker AI is now available in Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-asia-pacific-thailand/)
+- [Amazon SageMaker AI is now available in Mexico &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-mexico-central/)
 - [Amazon GameLift Servers expands instance support with next-generation EC2 instance families](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-gamelift-servers-expands-instance-support)
 - [AWS Network Manager and AWS Cloud WAN now support AWS PrivateLink and IPv6](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-manager-cloud-wan-privatelink-ipv6)
 - [AWS Network Firewall adds pass action rule alerts and JA4 filtering](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-network-firewall-pass-action-rule-alerts-ja4-filtering)
-- [Amazon Bedrock Knowledge Bases now supports Amazon Opensearch Managed Cluster for vector storage](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-opensearch-cluster-vector-storage/)
 - [AWS Marketplace introduces new seller experiences for Machine Learning products](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-marketplace-seller-experiences-machine-learning-products/)
-- [Amazon EKS now enforces upgrade insights checks as part of cluster upgrades](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-enforces-upgrade-insights-check-cluster-upgrades)
-- [Amazon EC2 P5en instances are now available in US East &lpar;N. Virginia&rpar; and Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-p5en-instances-n-virginia-jakarta/)
-- [Announcing 3 new features on Connected Mobility Solution on AWS](https://aws.amazon.com/about-aws/whats-new/2025/03/3-new-features-connected-mobility-solution/)
-- [Amazon DynamoDB now supports percentile statistics for request latency](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-dynamodb-percentile-statistics-request-latency/)
-- [Amazon Q Business now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-business-asia-pacific-sydney-region/)
+- [Amazon Bedrock Knowledge Bases now supports Amazon OpenSearch Managed Cluster for vector storage](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-knowledge-bases-opensearch-cluster-vector-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

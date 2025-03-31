@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager)
+- [Amazon RDS for PostgreSQL now supports configurable cipher suites](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-configurable-cipher-suites)
+- [AWS Resource Access Manager &lpar;RAM&rpar; now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-ram-supports-ipv6)
 - [Amazon Connect Contact Lens now supports conversational analytics in 34 new languages](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-conversational-analytics-new-languages)
 - [Amazon EKS introduces a new catalog of community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-new-catalog-community-add-ons)
-- [AWS adds Multi-Factor Authentication &lpar;MFA&rpar; for card registration in Japan](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-multi-factor-authentication-card-registration-japan/)
 - [Amazon Connect Contact Lens now provides AI-powered contact summarization in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-ai-powered-contact-summarization/)
+- [AWS adds Multi-Factor Authentication &lpar;MFA&rpar; for card registration in Japan](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-multi-factor-authentication-card-registration-japan/)
+- [Amazon Connect Contact Lens now lets you enable or disable sentiment analysis](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-enable-disable-sentiment/)
 - [AWS announces new AWS Direct Connect location in Athens, Greece](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-direct-connect-location-athens-greece)
 - [Amazon EC2 R8g instances now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r8g-instances-govcloud-us-west/)
-- [Asset level capacity management for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/03/asset-level-capacity-management-aws-outposts)
-- [Announcing the Developer Preview for AWS IoT Device SDK for Swift](https://aws.amazon.com/about-aws/whats-new/2025/03/developer-preview-aws-iot-device-sdk-swift)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; supports Multi-Region Replication in Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-keyspaces-multi-region-replication-cape-town/)
-- [AWS Identity and Access Management now supports dual-stack &lpar;IPv4 and IPv6&rpar; environments](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-identity-access-management-dual-stack-ipv4-ipv6-environments)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

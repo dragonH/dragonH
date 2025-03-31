@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family web apps are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-web-apps-govcloud-us-regions)
+- [Amazon Bedrock Custom Model Import is now available in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-europe-frankfurt-region)
+- [Amazon QuickSight launches scheduling and alerts in embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-scheduling-alerts-embedded-dashboards)
 - [Amazon Q Developer is now generally available in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-generally-available-opensearch-service)
 - [AWS Elastic Beanstalk now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager)
 - [Amazon RDS for PostgreSQL now supports configurable cipher suites](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-configurable-cipher-suites)
@@ -65,9 +68,6 @@
 - [Amazon Connect Contact Lens now supports conversational analytics in 34 new languages](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-conversational-analytics-new-languages)
 - [Amazon EKS introduces a new catalog of community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-new-catalog-community-add-ons)
 - [Amazon Connect Contact Lens now provides AI-powered contact summarization in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-ai-powered-contact-summarization/)
-- [AWS adds Multi-Factor Authentication &lpar;MFA&rpar; for card registration in Japan](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-multi-factor-authentication-card-registration-japan/)
-- [Amazon Connect Contact Lens now lets you enable or disable sentiment analysis](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-enable-disable-sentiment/)
-- [Amazon EC2 R8g instances now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r8g-instances-govcloud-us-west/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

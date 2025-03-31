@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens now supports conversational analytics in 34 new languages](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-conversational-analytics-new-languages)
+- [Amazon EKS introduces a new catalog of community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-eks-new-catalog-community-add-ons)
+- [AWS announces new AWS Direct Connect location in Athens, Greece](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-direct-connect-location-athens-greece)
+- [Amazon EC2 R8g instances now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r8g-instances-govcloud-us-west/)
+- [Asset level capacity management for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/03/asset-level-capacity-management-aws-outposts)
+- [Announcing the Developer Preview for AWS IoT Device SDK for Swift](https://aws.amazon.com/about-aws/whats-new/2025/03/developer-preview-aws-iot-device-sdk-swift)
 - [AWS Identity and Access Management now supports dual-stack &lpar;IPv4 and IPv6&rpar; environments](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-identity-access-management-dual-stack-ipv4-ipv6-environments)
 - [Amazon Bedrock Guardrails announces the general availability of industry-leading image content filters](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-guardrails-general-availability-image-content-filters)
 - [Amazon EC2 now supports more bandwidth and jumbo frames to select destinations](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-bandwidth-jumbo-frames)
-- [Amazon DataZone now supports metadata rules for publishing](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-datazone-metadata-rules-publishing)
 - [Amazon SageMaker introduces metadata rules to enforce standards and improve data governance](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-metadata-rules-standards-improve-data-governance)
-- [Amazon ElastiCache now supports AWS PrivateLink in AWS Asia Pacific &lpar;Jakarta&rpar; and Asia Pacific &lpar;Hyderabad&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-elasticache-aws-privatelink-asia-pacific-jakarta-asia-pacific-hyderabad-regions)
-- [AWS CodeBuild now supports custom cache keys for S3 caching](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-codebuild-custom-cache-keys-s3-caching)
-- [Amazon EBS launches gp3 and io1 volumes for AWS Dedicated Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ebs-gp3-io1-volumes-aws-dedicated-local-zones)
-- [Amazon SageMaker AI is now available in Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-asia-pacific-thailand/)
-- [Amazon SageMaker AI is now available in Mexico &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-sagemaker-ai-mexico-central/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer is now generally available in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-generally-available-opensearch-service)
 - [AWS Elastic Beanstalk now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager)
 - [Amazon RDS for PostgreSQL now supports configurable cipher suites](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-configurable-cipher-suites)
 - [AWS Resource Access Manager &lpar;RAM&rpar; now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-ram-supports-ipv6)
@@ -66,7 +67,6 @@
 - [Amazon Connect Contact Lens now provides AI-powered contact summarization in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-ai-powered-contact-summarization/)
 - [AWS adds Multi-Factor Authentication &lpar;MFA&rpar; for card registration in Japan](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-multi-factor-authentication-card-registration-japan/)
 - [Amazon Connect Contact Lens now lets you enable or disable sentiment analysis](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-enable-disable-sentiment/)
-- [AWS announces new AWS Direct Connect location in Athens, Greece](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-direct-connect-location-athens-greece)
 - [Amazon EC2 R8g instances now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-ec2-r8g-instances-govcloud-us-west/)
 <!-- AWS-NEWS:END -->
 

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight launches Amazon Q in embedded QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-q-embedded)
 - [AWS Resource Explorer supports 32 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-new-resource-types)
 - [AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-app-studio-prebuilt-solutions-catalog-import-export/)
 - [AWS Transfer Family web apps are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-web-apps-govcloud-us-regions)
@@ -67,7 +68,6 @@
 - [AWS Elastic Beanstalk now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager)
 - [Amazon RDS for PostgreSQL now supports configurable cipher suites](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-configurable-cipher-suites)
 - [AWS Resource Access Manager &lpar;RAM&rpar; now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-ram-supports-ipv6)
-- [Amazon Connect Contact Lens now provides AI-powered contact summarization in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-connect-contact-lens-ai-powered-contact-summarization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

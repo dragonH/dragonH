@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace now supports Japan Marketplace Facilitator Rule](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-japan-marketplace-facilitator-rule)
+- [AWS CodeBuild expands on-demand Windows fleets to 4 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-on-demand-windows-fleets-4-regions/)
 - [Amazon QuickSight launches Amazon Q in embedded QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-q-embedded)
 - [AWS Resource Explorer supports 32 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-new-resource-types)
 - [AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-app-studio-prebuilt-solutions-catalog-import-export/)
+- [Amazon Connect now supports additional Dual-Tone Multi-Frequency &lpar;DTMF&rpar; configuration settings](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-dual-tone-multi-frequency-settings/)
+- [AWS Payment Cryptography launches support for exchanging cryptographic keys using ECDH](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-payment-cryptographic-keys-ecdh/)
+- [Announcing the general availability of Amazon VPC Route Server](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-route-server/)
 - [AWS Transfer Family web apps are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-web-apps-govcloud-us-regions)
 - [Amazon Bedrock Custom Model Import is now available in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-europe-frankfurt-region)
-- [Amazon QuickSight launches scheduling and alerts in embedded dashboards](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-quicksight-scheduling-alerts-embedded-dashboards)
-- [Amazon Q Developer is now generally available in Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-q-developer-generally-available-opensearch-service)
-- [AWS Elastic Beanstalk now supports retrieving secrets and configuration from AWS Secrets Manager and AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-elastic-beanstalk-retrieving-secrets-configuration-secrets-manager-systems-manager)
-- [Amazon RDS for PostgreSQL now supports configurable cipher suites](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-rds-postgresql-configurable-cipher-suites)
-- [AWS Resource Access Manager &lpar;RAM&rpar; now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-ram-supports-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

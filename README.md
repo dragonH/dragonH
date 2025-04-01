@@ -62,12 +62,12 @@
 - [AWS CodeBuild expands on-demand Windows fleets to 4 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-on-demand-windows-fleets-4-regions/)
 - [Amazon QuickSight launches Amazon Q in embedded QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-q-embedded)
 - [AWS Resource Explorer supports 32 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-new-resource-types)
+- [AWS Automates VAT and supports Korean Won for South Korea AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-automates-vat-korean-won-south-korea-marketplace/)
+- [AWS Payment Cryptography launches support for exchanging cryptographic keys using ECDH](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-payment-cryptographic-keys-ecdh/)
 - [AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-app-studio-prebuilt-solutions-catalog-import-export/)
 - [Amazon Connect now supports additional Dual-Tone Multi-Frequency &lpar;DTMF&rpar; configuration settings](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-dual-tone-multi-frequency-settings/)
-- [AWS Payment Cryptography launches support for exchanging cryptographic keys using ECDH](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-payment-cryptographic-keys-ecdh/)
 - [Announcing the general availability of Amazon VPC Route Server](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-route-server/)
-- [AWS Transfer Family web apps are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/03/aws-transfer-family-web-apps-govcloud-us-regions)
-- [Amazon Bedrock Custom Model Import is now available in the Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/03/amazon-bedrock-custom-model-import-europe-frankfurt-region)
+- [Amazon Connect now shows an agent’s adherence to their work schedules in a calendar view](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-agents-adherence-work-schedules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

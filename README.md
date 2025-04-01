@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing the general availability seventh quarterly update for Amazon Linux 2023 &lpar;AL2023&rpar;, AL2023.7](https://aws.amazon.com/about-aws/whats-new/2025/04/general-availability-quarterly-update-amazon-linux-2023-ak2023-7)
+- [Second-generation Amazon FSx for NetApp ONTAP now available in additional EMEA and APAC Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-emea-apac-regions)
 - [AWS Marketplace now supports Japan Marketplace Facilitator Rule](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-japan-marketplace-facilitator-rule)
 - [AWS CodeBuild expands on-demand Windows fleets to 4 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-on-demand-windows-fleets-4-regions/)
 - [Amazon QuickSight launches Amazon Q in embedded QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-q-embedded)
-- [AWS Resource Explorer supports 32 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-new-resource-types)
 - [AWS Automates VAT and supports Korean Won for South Korea AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-automates-vat-korean-won-south-korea-marketplace/)
+- [AWS Resource Explorer supports 32 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-new-resource-types)
 - [AWS Payment Cryptography launches support for exchanging cryptographic keys using ECDH](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-payment-cryptographic-keys-ecdh/)
 - [AWS App Studio introduces a prebuilt solutions catalog and cross-instance Import and Export](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-app-studio-prebuilt-solutions-catalog-import-export/)
 - [Amazon Connect now supports additional Dual-Tone Multi-Frequency &lpar;DTMF&rpar; configuration settings](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-dual-tone-multi-frequency-settings/)
-- [Announcing the general availability of Amazon VPC Route Server](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-route-server/)
-- [Amazon Connect now shows an agent’s adherence to their work schedules in a calendar view](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-agents-adherence-work-schedules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

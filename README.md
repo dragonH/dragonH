@@ -63,11 +63,11 @@
 - [IAM Identity Center extends sessions and TIP management capabilities for customers with Microsoft AD](https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sessions-tip-capabilities-microsoft-ad/)
 - [Amazon SageMaker now offers 9 additional visual ETL transforms](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-additional-visual-etl-transforms)
 - [Announcing enhanced autoscaling for Amazon OpenSearch Ingestion pipelines](https://aws.amazon.com/about-aws/whats-new/2025/04/autoscaling-amazon-opensearch-ingestion-pipelines/)
+- [Amazon CloudFront supports VPC Origin modification with CloudFront Functions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudfront-vpc-origin-modification-functions/)
 - [Amazon QuickSight launches dashboard versioning and publish any analysis to any dashboard](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-dashboard-versioning-publish-analysis-dashboard)
 - [Announcing the general availability seventh quarterly update for Amazon Linux 2023 &lpar;AL2023&rpar;, AL2023.7](https://aws.amazon.com/about-aws/whats-new/2025/04/general-availability-quarterly-update-amazon-linux-2023-al2023-7)
 - [Second-generation Amazon FSx for NetApp ONTAP now available in additional EMEA and APAC Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-emea-apac-regions)
 - [AWS Marketplace now supports Japan Marketplace Facilitator Rule](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-japan-marketplace-facilitator-rule)
-- [AWS CodeBuild expands on-demand Windows fleets to 4 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-on-demand-windows-fleets-4-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

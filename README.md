@@ -64,8 +64,8 @@
 - [AWS Marketplace now supports Japan Marketplace Facilitator Rule](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-japan-marketplace-facilitator-rule)
 - [AWS CodeBuild expands on-demand Windows fleets to 4 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-on-demand-windows-fleets-4-regions/)
 - [Amazon QuickSight launches Amazon Q in embedded QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-quicksight-q-embedded)
-- [AWS Automates VAT and supports Korean Won for South Korea AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-automates-vat-korean-won-south-korea-marketplace/)
 - [AWS Resource Explorer supports 32 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-new-resource-types)
+- [AWS Automates VAT and supports Korean Won for South Korea AWS Marketplace customers](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-automates-vat-korean-won-south-korea-marketplace/)
 - [AWS End User Messaging expands self-service for phone number registration support in 18 new countries](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-self-service-phone-number-registration/)
 - [AWS Payment Cryptography launches support for exchanging cryptographic keys using ECDH](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-payment-cryptographic-keys-ecdh/)
 <!-- AWS-NEWS:END -->

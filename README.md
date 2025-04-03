@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20250220 and 12.22-rds.20250220](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-postgresql-extended-support-11-22-rds-20250220-12-22-rds-20250220)
 - [AWS Glue G4 and G8 worker types now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-glue-g4-g8-worker-types-new-regions)
-- [Amazon Kendra GenAI Index now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kendra-genai-index-ireland-sydney-regions/)
 - [Amazon Q Business Browser Extension now available to all subscribers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-business-browser-extension-subscribers/)
-- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Malaysia&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region)
+- [Amazon Kendra GenAI Index now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kendra-genai-index-ireland-sydney-regions/)
 - [Amazon RDS for MariaDB supports Innovation Release 11.8 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-maria-db-innovation-release-11-8-rds-database-preview-environment)
 - [AWS Elemental MediaLive Anywhere now supports SMPTE 2110 inputs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-medialive-anywhere-smpte-2110-inputs)
+- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Malaysia&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region)
 - [Monitor service dependencies with Amazon CloudWatch Application Signals SLOs](https://aws.amazon.com/about-aws/whats-new/2025/04/service-dependencies-amazon-cloudwatch-application-signals-slos)
 - [Amazon Security Lake achieves FedRamp High and Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-fedramp-high-moderate-authorization)
 - [Amazon CloudWatch Logs increases maximum log event size to 1 MB](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-logs-increases-log-event-size-1-mb/)
-- [AWS CDK Construct Library for Amazon EventBridge Scheduler now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-construct-library-eventbridge-scheduler/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

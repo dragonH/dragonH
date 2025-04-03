@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for MariaDB supports Innovation Release 11.8 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-maria-db-innovation-release-11-8-rds-database-preview-environment)
+- [AWS Elemental MediaLive Anywhere now supports SMPTE 2110 inputs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-medialive-anywhere-smpte-2110-inputs)
+- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Malaysia&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region)
 - [Monitor service dependencies with Amazon CloudWatch Application Signals SLOs](https://aws.amazon.com/about-aws/whats-new/2025/04/service-dependencies-amazon-cloudwatch-application-signals-slos)
 - [Amazon Security Lake achieves FedRamp High and Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-fedramp-high-moderate-authorization)
 - [Amazon CloudWatch Logs increases maximum log event size to 1 MB](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-logs-increases-log-event-size-1-mb/)
-- [AWS CDK Construct Library for Amazon EventBridge Scheduler now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-construct-library-eventbridge-scheduler/)
 - [AWS CDK L2 Construct for Amazon Cognito Identity Pools now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-l2-construct-cognito-identity-pools/)
 - [Amazon Connect now allows supervisors to take additional actions on in-progress chats](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-supervisors-additional-actions-in-progress-chats)
 - [Amazon RDS Proxy announces TLS 1.3 support for PostgreSQL on Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-tls-1-3-postgresql-aurora-rds/)
-- [AWS Clean Rooms Spark SQL now supports aggregation and list analysis rules](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-clean-rooms-spark-sql-aggregation-list-analysis-rules/)
-- [Amazon RDS Proxy is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-aws-govcloud-us-regions/)
-- [IAM Identity Center extends sessions and TIP management capabilities for customers with Microsoft AD](https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sessions-tip-capabilities-microsoft-ad/)
+- [AWS CDK Construct Library for Amazon EventBridge Scheduler now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-construct-library-eventbridge-scheduler/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

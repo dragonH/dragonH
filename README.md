@@ -58,15 +58,15 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue G4 and G8 worker types now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-glue-g4-g8-worker-types-new-regions)
+- [Amazon Kendra GenAI Index now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kendra-genai-index-ireland-sydney-regions/)
+- [Amazon Q Business Browser Extension now available to all subscribers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-business-browser-extension-subscribers/)
+- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Malaysia&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region)
 - [Amazon RDS for MariaDB supports Innovation Release 11.8 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-maria-db-innovation-release-11-8-rds-database-preview-environment)
 - [AWS Elemental MediaLive Anywhere now supports SMPTE 2110 inputs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-medialive-anywhere-smpte-2110-inputs)
-- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Malaysia&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region)
 - [Monitor service dependencies with Amazon CloudWatch Application Signals SLOs](https://aws.amazon.com/about-aws/whats-new/2025/04/service-dependencies-amazon-cloudwatch-application-signals-slos)
 - [Amazon Security Lake achieves FedRamp High and Moderate authorization](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-fedramp-high-moderate-authorization)
 - [Amazon CloudWatch Logs increases maximum log event size to 1 MB](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-logs-increases-log-event-size-1-mb/)
-- [AWS CDK L2 Construct for Amazon Cognito Identity Pools now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-l2-construct-cognito-identity-pools/)
-- [Amazon Connect now allows supervisors to take additional actions on in-progress chats](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-supervisors-additional-actions-in-progress-chats)
-- [Amazon RDS Proxy announces TLS 1.3 support for PostgreSQL on Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-tls-1-3-postgresql-aurora-rds/)
 - [AWS CDK Construct Library for Amazon EventBridge Scheduler now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-cdk-construct-library-eventbridge-scheduler/)
 <!-- AWS-NEWS:END -->
 

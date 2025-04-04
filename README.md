@@ -66,8 +66,8 @@
 - [Amazon Kendra GenAI Index now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kendra-genai-index-ireland-sydney-regions/)
 - [Amazon Q Business Browser Extension now available to all subscribers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-business-browser-extension-subscribers/)
 - [AWS Step Functions expands SDK integrations with Amazon Backup Search and 137 additional APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-step-functions-sdk-integrations-backup-search-apis/)
-- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;Malaysia&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-iam-identity-center-asia-pacific-malaysia-aws-region)
-- [Amazon Security Lake now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-internet-protocol-version-6/)
+- [AWS Elemental MediaLive Anywhere now supports SMPTE 2110 inputs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-medialive-anywhere-smpte-2110-inputs)
+- [Amazon SNS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sns-internet-protocol-version-6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

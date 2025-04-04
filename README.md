@@ -63,10 +63,10 @@
 - [SES Mail Manager now supports incoming connections from customer VPCs via PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/ses-mail-manager-incoming-connections-customer-vpcs-privatelink)
 - [Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20250220 and 12.22-rds.20250220](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-postgresql-extended-support-11-22-rds-20250220-12-22-rds-20250220)
 - [AWS Glue G4 and G8 worker types now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-glue-g4-g8-worker-types-new-regions)
+- [Amazon Kendra GenAI Index now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kendra-genai-index-ireland-sydney-regions/)
 - [Amazon Q Business Browser Extension now available to all subscribers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-business-browser-extension-subscribers/)
 - [AWS Step Functions expands SDK integrations with Amazon Backup Search and 137 additional APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-step-functions-sdk-integrations-backup-search-apis/)
-- [Amazon Kendra GenAI Index now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;Sydney&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kendra-genai-index-ireland-sydney-regions/)
-- [Amazon Security Lake now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-security-lake-internet-protocol-version-6/)
+- [AWS Elemental MediaLive Anywhere now supports SMPTE 2110 inputs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-medialive-anywhere-smpte-2110-inputs)
 - [Amazon SNS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sns-internet-protocol-version-6/)
 <!-- AWS-NEWS:END -->
 

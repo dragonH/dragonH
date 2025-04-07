@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge Archive and Replay now supports Customer Managed KMS Keys](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-archive-replay-customer-managed-kms-keys)
 - [Amazon Route 53 adds public authoritative DNS service to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-route-53-public-authoritative-dns-aws-govcloud-us-regions)
 - [Announcing new AWS Elemental MediaTailor pricing model with lower VOD ad insertion costs](https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-elemental-mediatailor-pricing-model)
 - [Amazon RDS Custom for SQL Server supports new minor version for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-custom-sql-server-version-2019/)
@@ -67,7 +68,6 @@
 - [Amazon Neptune announces 99.99% availability Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-neptune-99-99-availability-service-level-agreement)
 - [SES Mail Manager now supports incoming connections from customer VPCs via PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/ses-mail-manager-incoming-connections-customer-vpcs-privatelink)
 - [Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20250220 and 12.22-rds.20250220](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-postgresql-extended-support-11-22-rds-20250220-12-22-rds-20250220)
-- [AWS Glue G4 and G8 worker types now available in six new regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-glue-g4-g8-worker-types-new-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

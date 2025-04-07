@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock announces general availability of prompt caching](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-general-availability-prompt-caching)
+- [Amazon EC2 M7i and R7i instances now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m7i-r7i-instances-aws-asia-pacific-melbourne-region)
 - [AWS Transfer Family SFTP connectors can now delete, rename or move files on remote SFTP servers](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-sftp-connectors-delete-rename-move-files-remote-sftp-servers)
 - [AWS CodeBuild now supports enhanced debugging experience](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-enhanced-debugging-experience)
 - [Amazon Nova Canvas now supports fine-tuning](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-canvas-supports-fine-tuning/)
@@ -66,8 +68,6 @@
 - [Amazon EventBridge Archive and Replay now supports Customer Managed KMS Keys](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-archive-replay-customer-managed-kms-keys)
 - [Announcing Amazon Nova Reel 1.1](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-reel-1-1/)
 - [Amazon Route 53 adds public authoritative DNS service to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-route-53-public-authoritative-dns-aws-govcloud-us-regions)
-- [Announcing new AWS Elemental MediaTailor pricing model with lower VOD ad insertion costs](https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-elemental-mediatailor-pricing-model)
-- [Amazon RDS Custom for SQL Server supports new minor version for SQL Server 2019](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-custom-sql-server-version-2019/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -64,9 +64,9 @@
 - [AWS CodeBuild now supports enhanced debugging experience](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-enhanced-debugging-experience)
 - [Amazon Nova Canvas now supports fine-tuning](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-canvas-supports-fine-tuning/)
 - [AWS End User Messaging now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-ipv6/)
-- [Amazon FSx for NetApp ONTAP now supports ONTAP Autonomous Ransomware Protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-autonomous-ransomware-protection/)
 - [Amazon EventBridge Archive and Replay now supports Customer Managed KMS Keys](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-archive-replay-customer-managed-kms-keys)
 - [Announcing Amazon Nova Reel 1.1](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-reel-1-1/)
+- [Amazon FSx for NetApp ONTAP now supports ONTAP Autonomous Ransomware Protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-fsx-netapp-ontap-autonomous-ransomware-protection/)
 - [Amazon Route 53 adds public authoritative DNS service to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-route-53-public-authoritative-dns-aws-govcloud-us-regions)
 <!-- AWS-NEWS:END -->
 

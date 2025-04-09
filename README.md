@@ -64,9 +64,9 @@
 - [Amazon Bedrock Guardrails announces new capabilities to safely build generative AI applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-guardrails-safely-build-generative-ai-applications)
 - [Amazon Bedrock now offers Pixtral Large 25.02, a multimodal model from Mistral AI](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-pixtral-large-25-02-mistral-ai/)
 - [Amazon S3 Tables are now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-tables-four-additional-regions/)
-- [Announcing Amazon Nova Sonic, a new speech-to-speech model that brings real-time voice conversations to Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-sonic-speech-to-speech-conversations-bedrock/)
-- [AWS SAM now supports Amazon API Gateway Custom Domain Names for private REST APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sam-api-gateway-custom-domain-names/)
 - [Amazon EC2 M8g instances now available in AWS Asia Pacific &lpar;Mumbai&rpar; and AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-mumbai-hyderabad/)
+- [AWS SAM now supports Amazon API Gateway Custom Domain Names for private REST APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sam-api-gateway-custom-domain-names/)
+- [Announcing Amazon Nova Sonic, a new speech-to-speech model that brings real-time voice conversations to Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-sonic-speech-to-speech-conversations-bedrock/)
 - [Amazon Bedrock announces general availability of prompt caching](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-general-availability-prompt-caching)
 <!-- AWS-NEWS:END -->
 

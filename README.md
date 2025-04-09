@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing pgvector 0.8.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/04/pgvector-0-8-0-aurora-postgresql)
+- [Amazon MSK expands support for Graviton3 based M7g instances for Standard and Express brokers in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-graviton3-based-m7g-instances-standard-express-brokers-aws-middle-east-uae-region)
+- [New Guidance in the Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool)
+- [AWS Marketplace introduces new fulfillment experience for container products](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-new-fulfillment-experience-container-products)
+- [Amazon OpenSearch UI is now available in AWS Europe &lpar;Stockholm&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ui-stockholm-hong-kong-regions)
+- [PartyRock introduces image playground, powered by Amazon Nova Canvas](https://aws.amazon.com/about-aws/whats-new/2025/04/partyrock-image-playground-amazon-nova-canvas)
+- [Amazon Q Developer expands multi-language support within the IDE and CLI](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-multi-language-ide-cli)
+- [Amazon MQ is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-mq-additional-regions)
 - [Amazon OpenSearch Ingestion now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ingestion-aws-europe-spain-region)
 - [Amazon EC2 C6in instances are now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c6in-instances-aws-asia-pacific-osaka-region)
-- [Meta’s Llama 4 now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/04/metas-llama-4-amazon-sagemaker-jumpstart)
-- [Amazon Bedrock Guardrails announces new capabilities to safely build generative AI applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-guardrails-safely-build-generative-ai-applications)
-- [Amazon Bedrock now offers Pixtral Large 25.02, a multimodal model from Mistral AI](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-pixtral-large-25-02-mistral-ai/)
-- [Amazon S3 Tables are now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-tables-four-additional-regions/)
-- [Announcing Amazon Nova Sonic, a new speech-to-speech model that brings real-time voice conversations to Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-sonic-speech-to-speech-conversations-bedrock/)
-- [AWS SAM now supports Amazon API Gateway Custom Domain Names for private REST APIs](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sam-api-gateway-custom-domain-names/)
-- [Amazon EC2 M8g instances now available in AWS Asia Pacific &lpar;Mumbai&rpar; and AWS Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-mumbai-hyderabad/)
-- [Amazon Bedrock announces general availability of prompt caching](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-general-availability-prompt-caching)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

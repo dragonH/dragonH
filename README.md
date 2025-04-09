@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora now supports PostgreSQL 16.8, 15.12, 14.17 and 13.20](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-aurora-postgresql-versions/)
 - [Announcing pgvector 0.8.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/04/pgvector-0-8-0-aurora-postgresql)
 - [Amazon MSK expands support for Graviton3 based M7g instances for Standard and Express brokers in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-graviton3-based-m7g-instances-standard-express-brokers-aws-middle-east-uae-region)
 - [New Guidance in the Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool)
@@ -67,7 +68,6 @@
 - [Amazon Q Developer expands multi-language support within the IDE and CLI](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-multi-language-ide-cli)
 - [Amazon MQ is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-mq-additional-regions)
 - [Amazon OpenSearch Ingestion now available in AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ingestion-aws-europe-spain-region)
-- [Amazon EC2 C6in instances are now available in AWS Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c6in-instances-aws-asia-pacific-osaka-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

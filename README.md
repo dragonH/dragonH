@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio now supports recovery mode for applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-studio-recovery-mode-applications)
+- [Amazon RDS for Oracle now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-oracle-m6id-r6id-database-instances)
 - [Amazon Aurora now supports PostgreSQL 16.8, 15.12, 14.17 and 13.20](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-aurora-postgresql-versions/)
 - [Announcing pgvector 0.8.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/04/pgvector-0-8-0-aurora-postgresql)
 - [Amazon MSK expands support for Graviton3 based M7g instances for Standard and Express brokers in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-graviton3-based-m7g-instances-standard-express-brokers-aws-middle-east-uae-region)
-- [AWS Marketplace introduces new fulfillment experience for container products](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-new-fulfillment-experience-container-products)
 - [New Guidance in the Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool)
+- [AWS Marketplace introduces new fulfillment experience for container products](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-new-fulfillment-experience-container-products)
 - [Amazon OpenSearch UI is now available in AWS Europe &lpar;Stockholm&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ui-stockholm-hong-kong-regions)
 - [PartyRock introduces image playground, powered by Amazon Nova Canvas](https://aws.amazon.com/about-aws/whats-new/2025/04/partyrock-image-playground-amazon-nova-canvas)
 - [Amazon Q Developer expands multi-language support within the IDE and CLI](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-multi-language-ide-cli)
-- [Amazon MQ is now available in two additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-mq-additional-regions)
-- [Amazon Connect now provides the ability to set voice and language dynamically in a contact flow](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-set-voice-language-dynamically-flow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

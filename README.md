@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer now supports 57 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-compute-optimizer-new-amazon-ec2-instance-types)
+- [IAM Identity Center releases new SDK plugin to streamline token exchange with an external Identity Provider](https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sdk-plugin-streamline-token-exchange-external-identity-provider)
+- [Introducing two new Amazon EC2 I7ie bare metal instances sizes](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-bare-metal-instances-sizes)
 - [Amazon EC2 R6id instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r6id-instances-europe-spain-region/)
 - [Amazon Lex adds ability to control intent switching during conversations](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-lex-control-intent-switching-during-conversations)
 - [AWS Transfer Family introduces additional configuration options for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-configuration-options-sftp-connectors/)
 - [Amazon Managed Service for Apache Flink is now available in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-mexico/)
 - [Amazon EC2 M6id instances are now available in US West &lpar;N. California&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m6id-instances-n-california-region/)
-- [AWS CodeBuild adds Node 22, Python 3.13 and Go 1.24 to Lambda Compute images](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-node-22-python-3-13-go-1-24/)
 - [Amazon RDS for SQL Server supports new minor versions for SQL Server 2019 and 2022](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-sql-server-2019-2022/)
-- [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in Europe](https://aws.amazon.com/about-aws/whats-new/2025/04/anthropics-claude-3-7-sonnet-amazon-bedrock-europe)
-- [Amazon SageMaker Studio now supports recovery mode for applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-studio-recovery-mode-applications)
-- [Amazon RDS for Oracle now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-oracle-m6id-r6id-database-instances)
+- [AWS CodeBuild adds Node 22, Python 3.13 and Go 1.24 to Lambda Compute images](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-node-22-python-3-13-go-1-24/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -63,11 +63,11 @@
 - [AWS Transfer Family introduces additional configuration options for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-configuration-options-sftp-connectors/)
 - [Amazon Managed Service for Apache Flink is now available in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-mexico/)
 - [Amazon EC2 M6id instances are now available in US West &lpar;N. California&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m6id-instances-n-california-region/)
+- [AWS CodeBuild adds Node 22, Python 3.13 and Go 1.24 to Lambda Compute images](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-node-22-python-3-13-go-1-24/)
+- [Amazon RDS for SQL Server supports new minor versions for SQL Server 2019 and 2022](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-sql-server-2019-2022/)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in Europe](https://aws.amazon.com/about-aws/whats-new/2025/04/anthropics-claude-3-7-sonnet-amazon-bedrock-europe)
 - [Amazon SageMaker Studio now supports recovery mode for applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-studio-recovery-mode-applications)
 - [Amazon RDS for Oracle now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-oracle-m6id-r6id-database-instances)
-- [Amazon Aurora now supports PostgreSQL 16.8, 15.12, 14.17 and 13.20](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-aurora-postgresql-versions/)
-- [Amazon OpenSearch UI is now available in AWS Europe &lpar;Stockholm&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ui-stockholm-hong-kong-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

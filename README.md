@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family introduces additional configuration options for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-configuration-options-sftp-connectors/)
+- [Amazon Managed Service for Apache Flink is now available in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-mexico/)
+- [Amazon Lex adds ability to control intent switching during conversations](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-lex-control-intent-switching-during-conversations)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in Europe](https://aws.amazon.com/about-aws/whats-new/2025/04/anthropics-claude-3-7-sonnet-amazon-bedrock-europe)
 - [Amazon SageMaker Studio now supports recovery mode for applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-studio-recovery-mode-applications)
 - [Amazon RDS for Oracle now supports M6id and R6id database instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-oracle-m6id-r6id-database-instances)
@@ -65,9 +68,6 @@
 - [Announcing pgvector 0.8.0 support in Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/04/pgvector-0-8-0-aurora-postgresql)
 - [Amazon MSK expands support for Graviton3 based M7g instances for Standard and Express brokers in AWS Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-graviton3-based-m7g-instances-standard-express-brokers-aws-middle-east-uae-region)
 - [AWS Marketplace introduces new fulfillment experience for container products](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-new-fulfillment-experience-container-products)
-- [New Guidance in the Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool)
-- [Cost Optimization Hub supports DynamoDB and MemoryDB reservation recommendations](https://aws.amazon.com/about-aws/whats-new/2025/04/cost-optimization-hub-dynamodb-memorydb-reservation/)
-- [Amazon OpenSearch UI is now available in AWS Europe &lpar;Stockholm&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ui-stockholm-hong-kong-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -67,7 +67,7 @@
 - [AWS Marketplace introduces new fulfillment experience for container products](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-marketplace-new-fulfillment-experience-container-products)
 - [New Guidance in the Well-Architected Tool](https://aws.amazon.com/about-aws/whats-new/2025/04/new-guidance-well-architected-tool)
 - [Cost Optimization Hub supports DynamoDB and MemoryDB reservation recommendations](https://aws.amazon.com/about-aws/whats-new/2025/04/cost-optimization-hub-dynamodb-memorydb-reservation/)
-- [Amazon OpenSearch UI is now available in AWS Europe &lpar;Stockholm&rpar; and Asia Pacific &lpar;Hong Kong&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-ui-stockholm-hong-kong-regions)
+- [Amazon Connect now provides the ability to set voice and language dynamically in a contact flow](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-set-voice-language-dynamically-flow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

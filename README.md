@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
+- [Amazon EC2 I4g instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-sao-paulo-region/)
+- [Amazon Redshift Concurrency Scaling is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-concurrency-scaling-additional-regions)
+- [AWS simplifies Amazon VPC Peering billing](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-peering-billing/)
 - [Load Balancer Capacity Unit Reservation for Gateway Load Balancers](https://aws.amazon.com/about-aws/whats-new/2025/04/load-balancer-capacity-unit-reservation-gateway-load-balancers)
 - [Amazon S3 Express One Zone reduces storage and request prices](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-express-one-zone-reduces-storage-request-prices)
 - [Amazon Bedrock Knowledge Bases now supports hybrid search for Aurora PostgreSQL and MongoDB Atlas vector stores](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-knowledge-bases-hybrid-search-aurora-postgresql-mongo-db-atlas-vector-stores)
 - [AWS Compute Optimizer now supports 57 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-compute-optimizer-new-amazon-ec2-instance-types)
 - [IAM Identity Center releases new SDK plugin to streamline token exchange with an external Identity Provider](https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sdk-plugin-streamline-token-exchange-external-identity-provider)
 - [Introducing two new Amazon EC2 I7ie bare metal instances sizes](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-bare-metal-instances-sizes)
-- [Amazon EC2 R6id instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r6id-instances-europe-spain-region/)
-- [Amazon Lex adds ability to control intent switching during conversations](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-lex-control-intent-switching-during-conversations)
-- [AWS Transfer Family introduces additional configuration options for SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-configuration-options-sftp-connectors/)
-- [Amazon Managed Service for Apache Flink is now available in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-mexico/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

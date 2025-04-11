@@ -64,10 +64,10 @@
 - [Announcing 223 new AWS Config rules in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-config-rules-control-tower)
 - [Amazon Redshift Concurrency Scaling is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-concurrency-scaling-additional-regions)
 - [AWS simplifies Amazon VPC Peering billing](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-peering-billing/)
+- [AWS Elemental Link UHD adds HD ingest rates as Link HD enters end of sale](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-link-uhd-hd-ingest-rates-end-sale/)
 - [Load Balancer Capacity Unit Reservation for Gateway Load Balancers](https://aws.amazon.com/about-aws/whats-new/2025/04/load-balancer-capacity-unit-reservation-gateway-load-balancers)
 - [Amazon S3 Express One Zone reduces storage and request prices](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-express-one-zone-reduces-storage-request-prices)
 - [Amazon Bedrock Knowledge Bases now supports hybrid search for Aurora PostgreSQL and MongoDB Atlas vector stores](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-knowledge-bases-hybrid-search-aurora-postgresql-mongo-db-atlas-vector-stores)
-- [AWS Compute Optimizer now supports 57 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-compute-optimizer-new-amazon-ec2-instance-types)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

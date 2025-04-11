@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
+- [AWS Mainframe Modernization introduces advanced operations for runtime environments](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-mainframe-modernization-advanced-operations-runtime-environments)
 - [Amazon EC2 I4g instances are now available in South America &lpar;Sao Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-sao-paulo-region/)
 - [Announcing 223 new AWS Config rules in AWS Control Tower](https://aws.amazon.com/about-aws/whats-new/2025/04/new-aws-config-rules-control-tower)
 - [Amazon Redshift Concurrency Scaling is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-concurrency-scaling-additional-regions)
@@ -67,7 +68,6 @@
 - [Amazon S3 Express One Zone reduces storage and request prices](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-express-one-zone-reduces-storage-request-prices)
 - [Amazon Bedrock Knowledge Bases now supports hybrid search for Aurora PostgreSQL and MongoDB Atlas vector stores](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-knowledge-bases-hybrid-search-aurora-postgresql-mongo-db-atlas-vector-stores)
 - [AWS Compute Optimizer now supports 57 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-compute-optimizer-new-amazon-ec2-instance-types)
-- [IAM Identity Center releases new SDK plugin to streamline token exchange with an external Identity Provider](https://aws.amazon.com/about-aws/whats-new/2025/04/iam-identity-center-sdk-plugin-streamline-token-exchange-external-identity-provider)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

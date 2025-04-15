@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EventBridge Connector for Apache Kafka Connect now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-connector-apache-kafka-connect/)
+- [Amazon EC2 M8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-available-additional-regions/)
 - [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
 - [AWS Batch now supports Amazon Elastic Container Service Exec and AWS FireLens log router](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-batch-amazon-elastic-container-service-exec-firelens-log-router)
+- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8g-instances-additional-regions/)
 - [Amazon EC2 I7ie instances now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7ie-instances-aws-europe-ireland-region)
 - [Amazon EC2 M7i-flex instances now available in AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m7i-flex-instances-aws-asia-pacific-melbourne-region)
 - [Amazon Q Developer is now generally available in the AWS Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-aws-europe-frankfurt-region)
-- [Amazon SES now supports logging email sending events through AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-logging-email-sending-events-aws-cloudtrail)
 - [AWS Lambda@Edge announces advanced logging controls](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-edge-advanced-logging-controls/)
-- [Amazon Q Business launches support for hallucination mitigation in chat responses](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-business-hallucination-mitigation-chat-responses/)
-- [AWS Mainframe Modernization introduces advanced operations for runtime environments](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-mainframe-modernization-advanced-operations-runtime-environments)
+- [Amazon SES now supports logging email sending events through AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-logging-email-sending-events-aws-cloudtrail)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

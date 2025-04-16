@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 M8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-available-additional-regions/)
 - [Amazon EventBridge Connector for Apache Kafka Connect now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-connector-apache-kafka-connect/)
+- [Amazon EC2 M8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-available-additional-regions/)
 - [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8g-instances-additional-regions/)
 - [AWS Batch now supports Amazon Elastic Container Service Exec and AWS FireLens log router](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-batch-amazon-elastic-container-service-exec-firelens-log-router)

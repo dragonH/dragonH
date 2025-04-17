@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Verified Permissions now supports policy store deletion protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-verified-permissions-policy-store-deletion-protection)
-- [AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink)
+- [Amazon Connect Cases adds support for managing service level agreements on cases](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases)
 - [AWS Application Migration Service authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-application-migration-service-dod-impact-level-4-5/)
+- [AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink)
+- [Amazon Verified Permissions now supports policy store deletion protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-verified-permissions-policy-store-deletion-protection)
 - [Amazon MemoryDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-memorydb-supports-ipv6/)
 - [Amazon Managed Service for Apache Flink is now available in Asia Pacific &lpar;Thailand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-thailand/)
+- [Amazon ECS adds the ability to set a default log driver blocking mode](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ecs-set-default-log-driver-blocking-mode)
 - [GitLab Duo with Amazon Q is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/gitlab-duo-amazon-q-generally-available)
 - [Amazon S3 Tables now support server-side encryption using AWS KMS with customer-managed keys](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-tables-server-side-encryption-aws-kms-customer-managed-keys)
 - [AWS HealthOmics now supports Elastic Throughput for dynamic run storage](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-elastic-throughput-dynamic-run-storage)
-- [AWS Transfer Family is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-aws-mexico-central-region)
-- [Amazon Corretto April 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-corretto-april-2025-quarterly-updates)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

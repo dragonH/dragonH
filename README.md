@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Application Migration Service authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-application-migration-service-dod-impact-level-4-5/)
+- [AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink)
 - [GitLab Duo with Amazon Q is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/gitlab-duo-amazon-q-generally-available)
 - [Amazon S3 Tables now support server-side encryption using AWS KMS with customer-managed keys](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-tables-server-side-encryption-aws-kms-customer-managed-keys)
 - [AWS HealthOmics now supports Elastic Throughput for dynamic run storage](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-elastic-throughput-dynamic-run-storage)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch agent adds support for SELinux](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-selinux/)
 - [Amazon CloudFront announces Anycast Static IPs support for apex domains](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudfront-anycast-static-ips-apex-domains)
 - [Announcing new AWS Wavelength Zone in Dakar](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-wavelength-zone-dakar/)
-- [Amazon Athena is now available in Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-athena-mexico-central-asia-pacific-thailand/)
-- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8g-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -64,10 +64,10 @@
 - [AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink)
 - [AWS Application Migration Service authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-application-migration-service-dod-impact-level-4-5/)
 - [Amazon MemoryDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-memorydb-supports-ipv6/)
-- [Amazon ECS adds the ability to set a default log driver blocking mode](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ecs-set-default-log-driver-blocking-mode)
-- [Amazon Managed Service for Apache Flink is now available in Asia Pacific &lpar;Thailand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-apache-flink-thailand/)
-- [Amazon Connect Contact Lens dashboards now support access controls using agent hierarchies](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-contact-lens-dashboards-access-controls/)
-- [Amazon Bedrock RAG and Model Evaluations now support custom metrics](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-rag-model-evaluations-custom-metrics/)
+- [AWS now allows customers in Europe to pay For their usage in advance](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-europe-pay-usage-advance/)
+- [Amazon OpenSearch Service supports SAML single sign-on for OpenSearch UI](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-service-saml-single-sign-on/)
+- [Introducing the Well-Architected Generative AI Lens](https://aws.amazon.com/about-aws/whats-new/2025/04/well-architected-generative-ai-lens/)
+- [Amazon EventBridge now supports Customer Managed Keys &lpar;CMK&rpar; in API destinations connections](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-customer-managed-keys-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

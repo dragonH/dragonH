@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS HealthOmics announces workflow versioning support](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-workflow-versioning-support)
+- [Amazon CloudWatch launches cross-account observability in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-cross-account-observability-govcloud/)
 - [Amazon CloudWatch agent now supports Red Hat OpenShift Service on AWS &lpar;ROSA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/)
-- [AWS Console Mobile Application adds support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail)
 - [AWS STS global endpoint now serves your requests locally in regions enabled by default](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sts-global-endpoint-requests-locally-regions-default/)
+- [AWS Console Mobile Application adds support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail)
+- [Amazon Managed Service for Prometheus now supports label-based active series limits](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-prometheus-label-based-series-limits/)
 - [AWS Security Incident Response now supports integration with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-security-incident-response-integration-privatelink)
 - [Amazon Connect Cases adds support for managing service level agreements on cases](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases)
 - [Amazon MemoryDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-memorydb-supports-ipv6/)
 - [Amazon Verified Permissions now supports policy store deletion protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-verified-permissions-policy-store-deletion-protection)
-- [AWS now allows customers in Europe to pay For their usage in advance](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-europe-pay-usage-advance/)
-- [AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics announces workflow versioning support](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-workflow-versioning-support)
 - [Amazon CloudWatch agent now supports Red Hat OpenShift Service on AWS &lpar;ROSA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/)
 - [AWS Console Mobile Application adds support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail)
 - [AWS STS global endpoint now serves your requests locally in regions enabled by default](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sts-global-endpoint-requests-locally-regions-default/)
@@ -67,7 +68,6 @@
 - [Amazon Verified Permissions now supports policy store deletion protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-verified-permissions-policy-store-deletion-protection)
 - [AWS now allows customers in Europe to pay For their usage in advance](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-europe-pay-usage-advance/)
 - [AWS Lambda now supports inbound IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-lambda-inbound-ipv6-connectivity-aws-privatelink)
-- [AWS Application Migration Service authorized for DoD Impact Level 4 and 5](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-application-migration-service-dod-impact-level-4-5/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

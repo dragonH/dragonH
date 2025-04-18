@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Console Mobile Application adds support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail)
 - [AWS Security Incident Response now supports integration with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-security-incident-response-integration-privatelink)
 - [Amazon Connect Cases adds support for managing service level agreements on cases](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases)
 - [Amazon MemoryDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-memorydb-supports-ipv6/)
@@ -67,7 +68,6 @@
 - [AWS now allows customers in Europe to pay For their usage in advance](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-europe-pay-usage-advance/)
 - [Amazon OpenSearch Service supports SAML single sign-on for OpenSearch UI](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-service-saml-single-sign-on/)
 - [Introducing the Well-Architected Generative AI Lens](https://aws.amazon.com/about-aws/whats-new/2025/04/well-architected-generative-ai-lens/)
-- [Amazon EventBridge now supports Customer Managed Keys &lpar;CMK&rpar; in API destinations connections](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-customer-managed-keys-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS HealthOmics announces workflow versioning support](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-workflow-versioning-support)
 - [Amazon CloudWatch launches cross-account observability in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-cross-account-observability-govcloud/)
+- [Amazon Managed Service for Prometheus now supports label-based active series limits](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-prometheus-label-based-series-limits/)
 - [Amazon CloudWatch agent now supports Red Hat OpenShift Service on AWS &lpar;ROSA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-agent-rosa/)
 - [AWS STS global endpoint now serves your requests locally in regions enabled by default](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sts-global-endpoint-requests-locally-regions-default/)
 - [AWS Console Mobile Application adds support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail)
-- [Amazon Managed Service for Prometheus now supports label-based active series limits](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-prometheus-label-based-series-limits/)
 - [AWS Security Incident Response now supports integration with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-security-incident-response-integration-privatelink)
 - [Amazon Connect Cases adds support for managing service level agreements on cases](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases)
-- [Amazon MemoryDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-memorydb-supports-ipv6/)
-- [Amazon Verified Permissions now supports policy store deletion protection](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-verified-permissions-policy-store-deletion-protection)
+- [Amazon Bedrock RAG and Model Evaluations now support custom metrics](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-rag-model-evaluations-custom-metrics/)
+- [Amazon ECS adds the ability to set a default log driver blocking mode](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ecs-set-default-log-driver-blocking-mode)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

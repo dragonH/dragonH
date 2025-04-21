@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK adds support for Apache Kafka version 3.9](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-apache-kafka-version-3-9)
+- [Amazon Q Developer releases state of the art agent for feature development](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-releases-state-art-agent-feature-development)
 - [AWS HealthOmics announces workflow versioning support](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-workflow-versioning-support)
 - [Amazon CloudWatch launches cross-account observability in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cloudwatch-cross-account-observability-govcloud/)
 - [Amazon Managed Service for Prometheus now supports label-based active series limits](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-managed-service-prometheus-label-based-series-limits/)
@@ -66,8 +68,6 @@
 - [AWS Console Mobile Application adds support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail)
 - [AWS Security Incident Response now supports integration with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-security-incident-response-integration-privatelink)
 - [Amazon Connect Cases adds support for managing service level agreements on cases](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases)
-- [Amazon Bedrock RAG and Model Evaluations now support custom metrics](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-rag-model-evaluations-custom-metrics/)
-- [Amazon ECS adds the ability to set a default log driver blocking mode](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ecs-set-default-log-driver-blocking-mode)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

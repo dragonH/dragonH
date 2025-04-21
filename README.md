@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SQS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sqs-internet-protocol-version-6/)
 - [Amazon MSK adds support for Apache Kafka version 3.9](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-apache-kafka-version-3-9)
 - [Amazon Q Developer releases state of the art agent for feature development](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-releases-state-art-agent-feature-development)
 - [AWS HealthOmics announces workflow versioning support](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-healthomics-workflow-versioning-support)
@@ -67,7 +68,6 @@
 - [AWS STS global endpoint now serves your requests locally in regions enabled by default](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-sts-global-endpoint-requests-locally-regions-default/)
 - [AWS Console Mobile Application adds support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-console-mobile-application-support-amazon-lightsail)
 - [AWS Security Incident Response now supports integration with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-security-incident-response-integration-privatelink)
-- [Amazon Connect Cases adds support for managing service level agreements on cases](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-cases-managing-service-level-agreements-cases)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

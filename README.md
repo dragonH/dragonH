@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now provides a macOS installer for submitters](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-deadline-cloud-macos-installer-submitters)
 - [Amazon EBS now supports additional resource-level permissions for copying EBS snapshots](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ebs-additional-resource-level-permissions-copying-eb-snapshots)
 - [Amazon Bedrock Intelligent Prompt Routing is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-intelligent-prompt-routing-generally-available)
 - [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c7gd-instances-additional-regions)
@@ -67,7 +68,6 @@
 - [Amazon RDS Proxy is now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-additional-aws-regions)
 - [Amazon Kinesis Data Streams increases default shard limits to up to 20,000 per AWS account](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits)
 - [Introducing Amazon EC2 C8gd, M8gd, and R8gd instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/)
-- [Amazon SQS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sqs-internet-protocol-version-6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

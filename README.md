@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup adds support for search and item-level recovery in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-search-item-level-recovery-additional-regions)
+- [Announcing Serverless Reservations, a new discounted pricing option for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2025/04/serverless-reservations-discounted-pricing-option-amazon-redshift-serverless)
 - [AWS Deadline Cloud now provides a macOS installer for submitters](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-deadline-cloud-macos-installer-submitters)
 - [Amazon EBS now supports additional resource-level permissions for copying EBS snapshots](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ebs-additional-resource-level-permissions-copying-eb-snapshots)
 - [Amazon Bedrock Intelligent Prompt Routing is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-intelligent-prompt-routing-generally-available)
 - [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c7gd-instances-additional-regions)
+- [Introducing a guided visual pipeline builder for Amazon OpenSearch Ingestion](https://aws.amazon.com/about-aws/whats-new/2025/04/guided-visual-pipeline-builder-amazon-opensearch-ingestion/)
 - [Amazon EC2 R7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r7gd-instances-additional-regions)
 - [AWS Transfer Family introduces Terraform module for deploying SFTP server endpoints](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-terraform-module-sftp-endpoints/)
 - [Amazon Cognito now supports refresh token rotation](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cognito-refresh-token-rotation/)
-- [Amazon RDS Proxy is now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-additional-aws-regions)
-- [Amazon Kinesis Data Streams increases default shard limits to up to 20,000 per AWS account](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits)
-- [Introducing Amazon EC2 C8gd, M8gd, and R8gd instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS now supports additional resource-level permissions for copying EBS snapshots](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ebs-additional-resource-level-permissions-copying-eb-snapshots)
 - [Amazon Bedrock Intelligent Prompt Routing is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-intelligent-prompt-routing-generally-available)
 - [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c7gd-instances-additional-regions)
 - [Amazon EC2 R7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-r7gd-instances-additional-regions)
 - [AWS Transfer Family introduces Terraform module for deploying SFTP server endpoints](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-transfer-family-terraform-module-sftp-endpoints/)
+- [Amazon Cognito now supports refresh token rotation](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-cognito-refresh-token-rotation/)
 - [Amazon RDS Proxy is now available in 3 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-proxy-additional-aws-regions)
 - [Amazon Kinesis Data Streams increases default shard limits to up to 20,000 per AWS account](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-increases-default-shard-limits)
 - [Introducing Amazon EC2 C8gd, M8gd, and R8gd instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-c8gd-m8gd-r8gd-instances/)
 - [Amazon SQS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sqs-internet-protocol-version-6/)
-- [Amazon MSK adds support for Apache Kafka version 3.9](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-msk-apache-kafka-version-3-9)
-- [Amazon Q Developer releases state of the art agent for feature development](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-releases-state-art-agent-feature-development)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

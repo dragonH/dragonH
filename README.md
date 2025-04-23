@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Prompt Optimization in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available)
 - [Announcing AWS DMS Serverless automatic storage scaling](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-dms-serverless-automatic-storage-scaling)
 - [Amazon EC2 M8g instances now available in AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-aws-us-west-n-california-region)
-- [Amazon EC2 I4g instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region)
-- [Thinkbox Deadline 10.4.1 release](https://aws.amazon.com/about-aws/whats-new/2025/04/thinkbox-deadline-release/)
+- [AWS CodeBuild adds support for specifying EC2 instance type and configurable storage size](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-ec2-instance-type-configurable-storage-size/)
+- [AWS announces upgrades to Amazon Q Business integrations for M365 Word and Outlook](https://aws.amazon.com/about-aws/whats-new/2025/04/upgrades-amazon-q-business-m365-word-outlook/)
 - [AWS Account Management now supports IAM-based account name updates](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-account-management-iam-based-name-updates/)
+- [Thinkbox Deadline 10.4.1 release](https://aws.amazon.com/about-aws/whats-new/2025/04/thinkbox-deadline-release/)
+- [Amazon EC2 I4g instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region)
 - [Customer Carbon Footprint Tool has new features and an updated methodology](https://aws.amazon.com/about-aws/whats-new/2025/04/customer-carbon-footprint-tool-updated-methodology/)
 - [AWS Backup adds support for search and item-level recovery in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-backup-search-item-level-recovery-additional-regions)
-- [Announcing Serverless Reservations, a new discounted pricing option for Amazon Redshift Serverless](https://aws.amazon.com/about-aws/whats-new/2025/04/serverless-reservations-discounted-pricing-option-amazon-redshift-serverless)
-- [AWS Deadline Cloud now provides a macOS installer for submitters](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-deadline-cloud-macos-installer-submitters)
-- [Amazon EBS now supports additional resource-level permissions for copying EBS snapshots](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ebs-additional-resource-level-permissions-copying-eb-snapshots)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

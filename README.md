@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppConfig now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appconfig-internet-protocol-version-6/)
 - [Amazon Redshift adds history mode support to 8 third-party SaaS applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-history-mode-third-party-saas-applications)
 - [Prompt Optimization in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available)
 - [Announcing AWS DMS Serverless automatic storage scaling](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-dms-serverless-automatic-storage-scaling)
@@ -67,7 +68,6 @@
 - [Customer Carbon Footprint Tool has new features and an updated methodology](https://aws.amazon.com/about-aws/whats-new/2025/04/customer-carbon-footprint-tool-updated-methodology/)
 - [AWS Account Management now supports IAM-based account name updates](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-account-management-iam-based-name-updates/)
 - [Thinkbox Deadline 10.4.1 release](https://aws.amazon.com/about-aws/whats-new/2025/04/thinkbox-deadline-release/)
-- [Amazon EC2 I4g instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

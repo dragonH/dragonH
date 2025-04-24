@@ -64,10 +64,10 @@
 - [Amazon EC2 M8g instances now available in AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-aws-us-west-n-california-region)
 - [AWS CodeBuild adds support for specifying EC2 instance type and configurable storage size](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-ec2-instance-type-configurable-storage-size/)
 - [AWS announces upgrades to Amazon Q Business integrations for M365 Word and Outlook](https://aws.amazon.com/about-aws/whats-new/2025/04/upgrades-amazon-q-business-m365-word-outlook/)
+- [Customer Carbon Footprint Tool has new features and an updated methodology](https://aws.amazon.com/about-aws/whats-new/2025/04/customer-carbon-footprint-tool-updated-methodology/)
 - [AWS Account Management now supports IAM-based account name updates](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-account-management-iam-based-name-updates/)
 - [Thinkbox Deadline 10.4.1 release](https://aws.amazon.com/about-aws/whats-new/2025/04/thinkbox-deadline-release/)
 - [Amazon EC2 I4g instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region)
-- [Customer Carbon Footprint Tool has new features and an updated methodology](https://aws.amazon.com/about-aws/whats-new/2025/04/customer-carbon-footprint-tool-updated-methodology/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

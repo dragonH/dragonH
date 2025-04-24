@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS AppConfig now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appconfig-internet-protocol-version-6/)
+- [Amazon SageMaker Lakehouse now supports attribute based access control](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-lakehouse-attribute-based-access-control/)
 - [Amazon Redshift adds history mode support to 8 third-party SaaS applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-history-mode-third-party-saas-applications)
 - [Prompt Optimization in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available)
 - [Announcing AWS DMS Serverless automatic storage scaling](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-dms-serverless-automatic-storage-scaling)
@@ -67,7 +68,6 @@
 - [Thinkbox Deadline 10.4.1 release](https://aws.amazon.com/about-aws/whats-new/2025/04/thinkbox-deadline-release/)
 - [Amazon EC2 I4g instances are now available in AWS Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i4g-instances-asia-pacific-sydney-region)
 - [Amazon EC2 M8g instances now available in AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-m8g-instances-aws-us-west-n-california-region)
-- [AWS CodeBuild adds support for specifying EC2 instance type and configurable storage size](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-codebuild-ec2-instance-type-configurable-storage-size/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Groups now supports 160 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-groups-160-resource-types/)
 - [Amazon Connect agent workspace expands capabilities for third-party applications, including contact-related actions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-agent-workspace-capabilities-third-party-applications)
 - [AWS AppSync Events now supports data source integrations for channel namespaces](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appsync-events-data-source-integrations-channel-namespaces)
 - [AWS AppConfig now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appconfig-internet-protocol-version-6/)
@@ -67,7 +68,6 @@
 - [Prompt Optimization in Amazon Bedrock now generally available](https://aws.amazon.com/about-aws/whats-new/2025/04/prompt-optimization-amazon-bedrock-generally-available)
 - [Announcing AWS DMS Serverless automatic storage scaling](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-dms-serverless-automatic-storage-scaling)
 - [Customer Carbon Footprint Tool has new features and an updated methodology](https://aws.amazon.com/about-aws/whats-new/2025/04/customer-carbon-footprint-tool-updated-methodology/)
-- [AWS Account Management now supports IAM-based account name updates](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-account-management-iam-based-name-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

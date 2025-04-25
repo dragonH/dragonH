@@ -62,12 +62,12 @@
 - [Amazon EventBridge cross-account event delivery now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eventbridge-cross-account-event-delivery-govcloud/)
 - [AWS Resource Groups now supports 160 more resource types](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-groups-160-resource-types/)
 - [Amazon Q Developer operational investigations &lpar;preview&rpar; now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-operational-investigations-preview/)
+- [AWS Resource Explorer now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-privatelink/)
 - [Amazon Connect agent workspace expands capabilities for third-party applications, including contact-related actions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-agent-workspace-capabilities-third-party-applications)
 - [AWS AppSync Events now supports data source integrations for channel namespaces](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appsync-events-data-source-integrations-channel-namespaces)
 - [Amazon SageMaker Lakehouse now supports attribute based access control](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-lakehouse-attribute-based-access-control/)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-reachability-network-access-analyzer-spain/)
 - [AWS AppConfig now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-appconfig-internet-protocol-version-6/)
-- [Amazon Redshift adds history mode support to 8 third-party SaaS applications](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-redshift-history-mode-third-party-saas-applications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

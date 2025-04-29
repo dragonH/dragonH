@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Generation 7i instance support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/04/generation-7i-instance-amazon-rds-aws-outposts)
+- [Amazon EKS Hybrid Nodes now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket)
+- [AWS Budgets announces support for additional cost metrics and filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-budgets-cost-metrics-filtering-capabilities)
 - [AWS Systems Manager launches just-in-time node access](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-systems-manager-just-in-time-node-access)
 - [Announcing second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2025/04/second-generation-aws-outposts-racks)
 - [Amazon DynamoDB Accelerator now supports R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-dynamodb-accelerator-r7i-instances)
 - [Amazon Q Developer CLI now supports Model Context Protocol &lpar;MCP&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-access-grants-malaysia-region/)
 - [Amazon ElastiCache now supports Global Datastore in 15 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-elasticache-global-datastore-15-additional-regions/)
-- [AWS Amplify introduces data seeding](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-introduces-data-seeding)
 - [AWS End User Messaging helps customers combat SMS pumping](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-combat-sms-pumping/)
-- [Meta’s Llama 4 now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/metas-llama-4-managed-amazon-bedrock/)
-- [AWS Amplify enhances developer tooling with refined output and CDK-style notices](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-developer-tooling-refined-output-cdk-style-notices)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

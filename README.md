@@ -61,13 +61,13 @@
 - [Amazon DynamoDB Accelerator now supports R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-dynamodb-accelerator-r7i-instances)
 - [Amazon Q Developer CLI now supports Model Context Protocol &lpar;MCP&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-access-grants-malaysia-region/)
+- [Amazon ElastiCache now supports Global Datastore in 15 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-elasticache-global-datastore-15-additional-regions/)
 - [AWS Amplify introduces data seeding](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-introduces-data-seeding)
 - [Meta’s Llama 4 now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/metas-llama-4-managed-amazon-bedrock/)
 - [AWS Amplify enhances developer tooling with refined output and CDK-style notices](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-developer-tooling-refined-output-cdk-style-notices)
 - [Automated HTTP validated public certificates with Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2025/04/automated-http-validated-public-certificates-amazon-cloudfront)
 - [Amazon Route 53 Profiles now supports VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-route-53-profiles-vpc-endpoints)
 - [AWS Client VPN now supports Client Routes Enforcement](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-client-vpn-client-routes-enforcement/)
-- [Writer’s Palmyra X5 and X4 models are now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/writers-palmyra-x5-x4-models-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

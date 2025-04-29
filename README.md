@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer CLI now supports Model Context Protocol &lpar;MCP&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-access-grants-malaysia-region/)
+- [AWS Amplify introduces data seeding](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-introduces-data-seeding)
 - [Meta’s Llama 4 now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/metas-llama-4-managed-amazon-bedrock/)
 - [AWS Amplify enhances developer tooling with refined output and CDK-style notices](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-developer-tooling-refined-output-cdk-style-notices)
 - [Automated HTTP validated public certificates with Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2025/04/automated-http-validated-public-certificates-amazon-cloudfront)
-- [AWS Client VPN now supports Client Routes Enforcement](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-client-vpn-client-routes-enforcement/)
 - [Writer’s Palmyra X5 and X4 models are now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/04/writers-palmyra-x5-x4-models-amazon-bedrock/)
-- [Introducing Amazon EC2 I7i high performance Storage Optimized instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances)
-- [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-high-memory-instances-us-east-ohio-region)
+- [AWS Client VPN now supports Client Routes Enforcement](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-client-vpn-client-routes-enforcement/)
 - [Announcing SaaS Manager for Amazon CloudFront](https://aws.amazon.com/about-aws/whats-new/2025/04/saas-manager-amazon-cloudfront/)
-- [Amazon Bedrock Data Automation now supports modality controls, hyperlinks and larger documents](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-bedrock-data-automation-modality-controls-hyperlinks-larger-documents)
+- [Introducing Amazon EC2 I7i high performance Storage Optimized instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ec2-i7i-high-performance-storage-optimized-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

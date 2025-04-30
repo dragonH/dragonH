@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches administrator access for agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-administrator-access-agent-schedules)
+- [Amazon OpenSearch Service now supports OpenSearch version 2.19](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-service-opensearch-version-2-19)
+- [Amazon SES Mail Manager now supports Publish to Amazon SNS Topic Rule Action](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-mail-manager-publish-amazon-sns-topic-rule-action)
 - [AWS Clean Rooms now supports multiple results receivers in a collaboration](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-clean-rooms-multiple-results-receivers-collaboration)
 - [Amazon Connect now provides bulk removal of agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-bulk-removal-agent-schedules)
 - [MAP enhancements to accelerate AI customer adoption](https://aws.amazon.com/about-aws/whats-new/2025/04/map-accelerate-ai-customer-adoption)
@@ -65,9 +68,6 @@
 - [Amazon VPC Lattice now supports IPv6 for management endpoints](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-lattice-ipv6-management-endpoints/)
 - [Anonymous user access for Q Business](https://aws.amazon.com/about-aws/whats-new/2025/04/user-access-q-business/)
 - [AWS Elemental MediaTailor introduces recurring ad prefetch for live streaming](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-mediatailor-recurring-ad-prefetch-streaming/)
-- [Amazon Kinesis Data Streams now supports tagging and Attribute-Based Access Control for consumers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-consumer-tagging-abac/)
-- [Announcing Generation 7i instance support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/04/generation-7i-instance-amazon-rds-aws-outposts)
-- [Amazon EKS Hybrid Nodes now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Kinesis Data Streams now supports tagging and Attribute-Based Access Control for consumers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-consumer-tagging-abac/)
 - [Announcing Generation 7i instance support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/04/generation-7i-instance-amazon-rds-aws-outposts)
 - [Amazon EKS Hybrid Nodes now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket)
 - [AWS Budgets announces support for additional cost metrics and filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-budgets-cost-metrics-filtering-capabilities)
@@ -67,7 +68,6 @@
 - [Amazon Q Developer CLI now supports Model Context Protocol &lpar;MCP&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-access-grants-malaysia-region/)
 - [Amazon ElastiCache now supports Global Datastore in 15 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-elasticache-global-datastore-15-additional-regions/)
-- [AWS End User Messaging helps customers combat SMS pumping](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-combat-sms-pumping/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

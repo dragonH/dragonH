@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS announces Cross-Region Automated Backups in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-cross-region-automated-backups-additional-aws-regions)
 - [Amazon Connect launches administrator access for agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-administrator-access-agent-schedules)
 - [Amazon OpenSearch Service now supports OpenSearch version 2.19](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-opensearch-service-opensearch-version-2-19)
 - [Amazon SES Mail Manager now supports Publish to Amazon SNS Topic Rule Action](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-mail-manager-publish-amazon-sns-topic-rule-action)
@@ -67,7 +68,6 @@
 - [EC2 Image Builder now integrates with SSM Parameter Store](https://aws.amazon.com/about-aws/whats-new/2025/04/ec2-image-builder-integrates-ssm-parameter-store/)
 - [Amazon VPC Lattice now supports IPv6 for management endpoints](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-lattice-ipv6-management-endpoints/)
 - [Anonymous user access for Q Business](https://aws.amazon.com/about-aws/whats-new/2025/04/user-access-q-business/)
-- [AWS Elemental MediaTailor introduces recurring ad prefetch for live streaming](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-mediatailor-recurring-ad-prefetch-streaming/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

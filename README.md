@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms now supports multiple results receivers in a collaboration](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-clean-rooms-multiple-results-receivers-collaboration)
+- [Amazon Connect now provides bulk removal of agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-bulk-removal-agent-schedules)
 - [MAP enhancements to accelerate AI customer adoption](https://aws.amazon.com/about-aws/whats-new/2025/04/map-accelerate-ai-customer-adoption)
 - [EC2 Image Builder now integrates with SSM Parameter Store](https://aws.amazon.com/about-aws/whats-new/2025/04/ec2-image-builder-integrates-ssm-parameter-store/)
+- [Amazon VPC Lattice now supports IPv6 for management endpoints](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-vpc-lattice-ipv6-management-endpoints/)
+- [Anonymous user access for Q Business](https://aws.amazon.com/about-aws/whats-new/2025/04/user-access-q-business/)
+- [AWS Elemental MediaTailor introduces recurring ad prefetch for live streaming](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-elemental-mediatailor-recurring-ad-prefetch-streaming/)
 - [Amazon Kinesis Data Streams now supports tagging and Attribute-Based Access Control for consumers](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-kinesis-data-streams-consumer-tagging-abac/)
 - [Announcing Generation 7i instance support for Amazon RDS on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2025/04/generation-7i-instance-amazon-rds-aws-outposts)
 - [Amazon EKS Hybrid Nodes now supports Bottlerocket](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-eks-hybrid-nodes-bottlerocket)
-- [AWS Budgets announces support for additional cost metrics and filtering capabilities](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-budgets-cost-metrics-filtering-capabilities)
-- [AWS Systems Manager launches just-in-time node access](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-systems-manager-just-in-time-node-access)
-- [Announcing second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2025/04/second-generation-aws-outposts-racks)
-- [Amazon DynamoDB Accelerator now supports R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-dynamodb-accelerator-r7i-instances)
-- [Amazon Q Developer CLI now supports Model Context Protocol &lpar;MCP&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

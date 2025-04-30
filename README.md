@@ -67,7 +67,7 @@
 - [Amazon Q Developer CLI now supports Model Context Protocol &lpar;MCP&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-q-developer-cli-model-context-protocol)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-s3-access-grants-malaysia-region/)
 - [Amazon ElastiCache now supports Global Datastore in 15 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-elasticache-global-datastore-15-additional-regions/)
-- [AWS Amplify introduces data seeding](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-amplify-introduces-data-seeding)
+- [AWS End User Messaging helps customers combat SMS pumping](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-end-user-messaging-combat-sms-pumping/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

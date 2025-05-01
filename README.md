@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-nova-premier-complex-tasks-model/)
 - [AWS Resource Explorer is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-additional-regions)
 - [Amazon SageMaker scheduling experience for Visual ETL and Query editors](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-scheduling-visual-etl-query-editors)
 - [Amazon RDS announces Cross-Region Automated Backups in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-cross-region-automated-backups-additional-aws-regions)
@@ -67,7 +68,6 @@
 - [Amazon SES Mail Manager now supports Publish to Amazon SNS Topic Rule Action](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-ses-mail-manager-publish-amazon-sns-topic-rule-action)
 - [AWS Clean Rooms now supports multiple results receivers in a collaboration](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-clean-rooms-multiple-results-receivers-collaboration)
 - [Amazon Connect now provides bulk removal of agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-connect-bulk-removal-agent-schedules)
-- [MAP enhancements to accelerate AI customer adoption](https://aws.amazon.com/about-aws/whats-new/2025/04/map-accelerate-ai-customer-adoption)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

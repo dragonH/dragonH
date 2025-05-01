@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora now supports PostgreSQL major version 17](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-major-version-17/)
 - [Amazon Connect Contact Lens launches new real-time adherence dashboard](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-contact-lens-real-time-adherence-dashboard)
 - [AWS B2B Data Interchange now supports IPv6 on B2B Data Interchange Service APIs](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-b2b-data-interchange-ipv6-b2b-data-apis/)
-- [Amazon Connect adds five new metrics and dashboard drill downs for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-new-metrics-dashboard-drill-downs-outbound-campaigns)
-- [Amazon Bedrock Model Distillation is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-model-distillation-generally-available)
-- [Amazon Q Developer in chat applications now supports AWS Systems Manager node access approvals](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-q-developer-chat-applications-aws-systems-manager-node-access-approvals)
 - [AWS Announces Managed Support for Energy Data Insights](https://aws.amazon.com/about-aws/whats-new/2025/05/managed-support-energy-data-insights/)
 - [Amazon Route 53 Resolver DNS Firewall is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-resolver-dns-firewall-additional-regions/)
+- [Amazon Q Developer in chat applications now supports AWS Systems Manager node access approvals](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-q-developer-chat-applications-aws-systems-manager-node-access-approvals)
+- [Amazon Connect adds five new metrics and dashboard drill downs for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-new-metrics-dashboard-drill-downs-outbound-campaigns)
+- [Amazon Bedrock Model Distillation is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-model-distillation-generally-available)
+- [Amazon Neptune Database now supports Graviton3 R7g and Graviton4 R8g instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-database-graviton3-r7g-r8g-instances/)
 - [AWS Resource Explorer is now available in 3 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/aws-resource-explorer-additional-regions)
-- [Amazon SageMaker scheduling experience for Visual ETL and Query editors](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-sagemaker-scheduling-visual-etl-query-editors)
-- [Amazon RDS announces Cross-Region Automated Backups in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/04/amazon-rds-cross-region-automated-backups-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AI search flow builder is now available on the Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/05/ai-search-flow-builder-amazon-opensearch-service)
+- [Amazon Connect adds enhanced contact information to DescribeContact API](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-enhanced-contact-information-describecontact-api)
+- [Amazon Connect now publishes post-contact completion events to Contact Event Stream](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-publishes-post-contact-completion-events-contact-event-stream)
 - [Amazon VPC IPAM now allows cost distribution to AWS Organization member-accounts](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-ipam-cost-distribution-aws-organization-member-accounts)
 - [AWS Launch Wizard automates multi-node SAP NetWeaver deployment on SAP ASE Database](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-launch-wizard-multi-node-sap-netweaver-deployment-sap-ase-database)
 - [Amazon CloudWatch launches tiered pricing and additional destinations for AWS Lambda logs](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-tiered-pricing-additional-destinations-aws-lambda-logs)
@@ -65,9 +68,6 @@
 - [AWS HealthImaging now supports DICOM video data and JPEG 2000 transcoding](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicom-video-data-jpeg-2000-transcoding)
 - [Amazon Aurora now supports PostgreSQL major version 17](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-major-version-17/)
 - [Amazon Connect Contact Lens launches new real-time adherence dashboard](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-contact-lens-real-time-adherence-dashboard)
-- [AWS B2B Data Interchange now supports IPv6 on B2B Data Interchange Service APIs](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-b2b-data-interchange-ipv6-b2b-data-apis/)
-- [Amazon Connect adds five new metrics and dashboard drill downs for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-new-metrics-dashboard-drill-downs-outbound-campaigns)
-- [Amazon Bedrock Model Distillation is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-model-distillation-generally-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

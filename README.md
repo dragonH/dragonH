@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Resource control policies &lpar;RCPs&rpar; are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/resource-control-policies-aws-govcloud-us-regions)
 - [Amazon Aurora now supports R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r7g-database-instances-regions/)
+- [Amazon Aurora now supports R8g database instances in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r8g-database-instances-govcloud/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/)
 - [Amazon ECR adds support for Internet Protocol version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-support-ipv6)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports T4g database instances in AWS Asia Pacific &lpar;Malaysia&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-t4g-malaysia/)
-- [Amazon Aurora now supports R8g database instances in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r8g-database-instances-govcloud/)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7i and R7i database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m7i-r7i-regions/)
 - [Amazon Aurora now supports R7i database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-r7i-database-instances-regions/)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m7g-r7g/)
 - [New Open-Source AWS Advanced PostgreSQL ODBC Driver  now available for Amazon Aurora and RDS](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-advanced-postgresql-odbc-driver-aurora-rds/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7i and R7i database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m7i-r7i-regions/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7g and R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-mysql-mariadb-m7g-r7g/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

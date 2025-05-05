@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens real-time dashboards are now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-contact-lens-real-time-dashboards-aws-govcloud-us-west)
 - [Amazon Connect for WhatsApp Business messaging and SMS now available in new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-whatsapp-business-messaging-sms-aws-regions)
 - [Amazon SES now supports IPv6 when calling SES outbound endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ses-ipv6-calling-ses-outbound-endpoints)
 - [Amazon ElastiCache now supports AWS PrivateLink in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-elasticache-aws-privatelink-aws-europe-spain-region)
@@ -67,7 +68,6 @@
 - [Amazon Connect outbound campaigns now supports Poland](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-outbound-campaigns-poland/)
 - [Amazon ECS introduces 1-click rollbacks for service deployments](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-1-click-rollbacks-service-deployments)
 - [Amazon Bedrock Data Automation now supports extraction of custom insights from audio](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-data-automation-extraction-custom-insights-audio)
-- [AWS Marketplace now supports SaaS products from all deployment locations](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-marketplace-saas-products-deployment-locations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

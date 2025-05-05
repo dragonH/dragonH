@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect for WhatsApp Business messaging and SMS now available in new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-whatsapp-business-messaging-sms-aws-regions)
+- [Amazon SES now supports IPv6 when calling SES outbound endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ses-ipv6-calling-ses-outbound-endpoints)
 - [Amazon ElastiCache now supports AWS PrivateLink in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-elasticache-aws-privatelink-aws-europe-spain-region)
 - [AWS WAF is expanding the availability of its enhanced rate-based rules feature across multiple regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-waf-enhanced-rate-based-rules-feature-across-multiple-regions)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-serverless-aws-asia-pacific-hyderabad-region)
@@ -66,8 +68,6 @@
 - [Amazon ECS introduces 1-click rollbacks for service deployments](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-1-click-rollbacks-service-deployments)
 - [Amazon Bedrock Data Automation now supports extraction of custom insights from audio](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-data-automation-extraction-custom-insights-audio)
 - [AWS Marketplace now supports SaaS products from all deployment locations](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-marketplace-saas-products-deployment-locations/)
-- [The Amazon Q Developer integration in GitHub &lpar;preview&rpar; is now available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-q-developer-integration-github-preview-available)
-- [Resource control policies &lpar;RCPs&rpar; are now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/resource-control-policies-aws-govcloud-us-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

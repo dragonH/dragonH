@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Catalog introduces authorization policy for asset type usage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-authorization-policy-asset-type-usage)
+- [Amazon EC2 X2idn instances now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-x2idn-instances-aws-israel-tel-aviv-region)
 - [Amazon CloudWatch Network Monitoring adds multi-account support for flow monitors](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-network-monitoring-multi-account-flow-monitors)
 - [Announcing new AWS Wavelength Zone in Lenexa, Kansas](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-wavelength-zone-lenexa-kansas)
 - [Amazon EC2 P5en instances are now available in the AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-p5en-instances-aws-us-west-n-california-region)
@@ -66,8 +68,6 @@
 - [Amazon Verified Permissions now supports policy store tagging](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-verified-permissions-policy-store-tagging/)
 - [Amazon Connect Contact Lens real-time dashboards are now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-contact-lens-real-time-dashboards-aws-govcloud-us-west)
 - [Amazon Connect for WhatsApp Business messaging and SMS now available in new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-whatsapp-business-messaging-sms-aws-regions)
-- [Amazon SES now supports IPv6 when calling SES outbound endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ses-ipv6-calling-ses-outbound-endpoints)
-- [Amazon ElastiCache now supports AWS PrivateLink in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-elasticache-aws-privatelink-aws-europe-spain-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Network Monitoring adds multi-account support for flow monitors](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-network-monitoring-multi-account-flow-monitors)
+- [Announcing new AWS Wavelength Zone in Lenexa, Kansas](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-wavelength-zone-lenexa-kansas)
+- [Amazon EC2 P5en instances are now available in the AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-p5en-instances-aws-us-west-n-california-region)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.2](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-oracle-application-express-apex-version-24-2)
 - [Amazon SageMaker offers additional visual ETL transforms and S3 tables support](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-visual-etl-transforms-s3-tables-support/)
 - [Amazon Verified Permissions now supports policy store tagging](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-verified-permissions-policy-store-tagging/)
@@ -65,9 +68,6 @@
 - [Amazon Connect for WhatsApp Business messaging and SMS now available in new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-whatsapp-business-messaging-sms-aws-regions)
 - [Amazon SES now supports IPv6 when calling SES outbound endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ses-ipv6-calling-ses-outbound-endpoints)
 - [Amazon ElastiCache now supports AWS PrivateLink in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-elasticache-aws-privatelink-aws-europe-spain-region)
-- [AWS WAF is expanding the availability of its enhanced rate-based rules feature across multiple regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-waf-enhanced-rate-based-rules-feature-across-multiple-regions)
-- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-serverless-aws-asia-pacific-hyderabad-region)
-- [Payments Account Summary provides an overview of AWS financial account balances](https://aws.amazon.com/about-aws/whats-new/2025/05/payments-account-summary-financial-balances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -67,7 +67,7 @@
 - [Announcing new AWS Wavelength Zone in Lenexa, Kansas](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-wavelength-zone-lenexa-kansas)
 - [Amazon EC2 P5en instances are now available in the AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-p5en-instances-aws-us-west-n-california-region)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.2](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-oracle-application-express-apex-version-24-2)
-- [Amazon SageMaker offers additional visual ETL transforms and S3 tables support](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-visual-etl-transforms-s3-tables-support/)
+- [Amazon EBS announces Provisioned Rate for Volume Initialization](https://aws.amazon.com/about-aws/whats-new/2025/05/ebs-provisioned-rate-volume-initialization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

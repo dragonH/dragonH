@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.2](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-oracle-application-express-apex-version-24-2)
 - [Amazon SageMaker offers additional visual ETL transforms and S3 tables support](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-visual-etl-transforms-s3-tables-support/)
 - [Amazon Verified Permissions now supports policy store tagging](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-verified-permissions-policy-store-tagging/)
 - [Amazon Connect Contact Lens real-time dashboards are now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-contact-lens-real-time-dashboards-aws-govcloud-us-west)
@@ -67,7 +68,6 @@
 - [AWS WAF is expanding the availability of its enhanced rate-based rules feature across multiple regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-waf-enhanced-rate-based-rules-feature-across-multiple-regions)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-serverless-aws-asia-pacific-hyderabad-region)
 - [Payments Account Summary provides an overview of AWS financial account balances](https://aws.amazon.com/about-aws/whats-new/2025/05/payments-account-summary-financial-balances/)
-- [Amazon Connect outbound campaigns now supports Poland](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-outbound-campaigns-poland/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Resolver Query Logging now available in two new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-resolver-query-logging-new-aws-regions)
+- [Amazon EC2 Inf2 instances now available in Korea](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-inf2-instances-available-korea)
+- [Amazon S3 Tables are now available in eleven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-tables-additional-regions)
+- [Amazon AppStream 2.0 is now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-appstream-2-0-aws-europe-paris-region)
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available in AWS Region Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-8gd-m8gd-r8gd-instances-aws-region-europe-frankfurt)
 - [Amazon EC2 R7g instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-additional-aws-regions)
-- [Amazon MSK enables seamless certificate renewals on MSK Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-certificate-renewals-provisioned-clusters/)
 - [AWS Systems Manager adds customization options for onboarding configuration](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-systems-manager-customization-options/)
+- [Amazon MSK enables seamless certificate renewals on MSK Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-certificate-renewals-provisioned-clusters/)
 - [Amazon Managed Service for Prometheus now available in the AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-canada-central-region/)
 - [AWS Resource Explorer supports 41 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-resource-explorer-41-new-resource-types/)
-- [Amazon WorkSpaces is now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-aws-europe-paris-region)
-- [Amazon EC2 R7g instances are now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-aws-govcloud-us-east)
-- [Amazon SageMaker adds support for three new data sources](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-new-data-sources)
-- [Amazon SageMaker Catalog introduces authorization policy for asset type usage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-authorization-policy-asset-type-usage)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon WorkSpaces is now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-workspaces-aws-europe-paris-region)
-- [Amazon SageMaker adds support for three new data sources](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-new-data-sources)
 - [Amazon EC2 R7g instances are now available in AWS GovCloud &lpar;US-East&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-aws-govcloud-us-east)
+- [Amazon SageMaker adds support for three new data sources](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-new-data-sources)
 - [Amazon SageMaker Catalog introduces authorization policy for asset type usage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-authorization-policy-asset-type-usage)
 - [Amazon EC2 X2idn instances now available in AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-x2idn-instances-aws-israel-tel-aviv-region)
 - [Amazon CloudWatch Network Monitoring adds multi-account support for flow monitors](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-network-monitoring-multi-account-flow-monitors)
 - [Announcing new AWS Wavelength Zone in Lenexa, Kansas](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-wavelength-zone-lenexa-kansas)
 - [Amazon EC2 P5en instances are now available in the AWS US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-p5en-instances-aws-us-west-n-california-region)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; Version 24.2](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-oracle-application-express-apex-version-24-2)
-- [Amazon EBS announces Provisioned Rate for Volume Initialization](https://aws.amazon.com/about-aws/whats-new/2025/05/ebs-provisioned-rate-volume-initialization/)
+- [Amazon Verified Permissions now supports policy store tagging](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-verified-permissions-policy-store-tagging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

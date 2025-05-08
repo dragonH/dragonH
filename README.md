@@ -66,8 +66,8 @@
 - [Amazon EC2 R7g instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-additional-aws-regions)
 - [AWS Systems Manager adds customization options for onboarding configuration](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-systems-manager-customization-options/)
 - [Amazon MSK enables seamless certificate renewals on MSK Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-certificate-renewals-provisioned-clusters/)
-- [Amazon Managed Service for Prometheus now available in the AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-canada-central-region/)
 - [AWS Resource Explorer supports 41 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-resource-explorer-41-new-resource-types/)
+- [Amazon Managed Service for Prometheus now available in the AWS Canada &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-canada-central-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

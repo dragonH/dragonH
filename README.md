@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS announces new AWS Direct Connect location in Brisbane, Australia](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-brisbane-australia)
+- [Amazon RDS for PostgreSQL supports minor versions 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-supports-new-minor-versions/)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.8](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-limitless-database-postgresql-16-8)
+- [Amazon SQS now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sqs-fips-140-3-interface-vpc-endpoint/)
 - [Amazon Route 53 Resolver Query Logging now available in two new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-resolver-query-logging-new-aws-regions)
 - [Amazon EC2 Inf2 instances now available in Korea](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-inf2-instances-available-korea)
 - [Amazon S3 Tables are now available in eleven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-tables-additional-regions)
 - [Amazon AppStream 2.0 is now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-appstream-2-0-aws-europe-paris-region)
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available in AWS Region Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-8gd-m8gd-r8gd-instances-aws-region-europe-frankfurt)
 - [Amazon EC2 R7g instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-r7g-instances-additional-aws-regions)
-- [AWS Systems Manager adds customization options for onboarding configuration](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-systems-manager-customization-options/)
-- [Amazon MSK enables seamless certificate renewals on MSK Provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-certificate-renewals-provisioned-clusters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the AWS Europe &lpar;Stockholm&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-document-db-mongodb-compatibility-aws-europe-stockholm-region)
+- [Amazon Connect external voice pricing changes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-external-voice-pricing-changes)
 - [AWS Security Incident Response is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-security-incident-response-three-additional-regions/)
 - [AWS Shield Advanced is now available in AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-shield-advanced-thailand-mexico-regions/)
 - [Amazon RDS for PostgreSQL supports minor versions 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-postgresql-supports-new-minor-versions/)
 - [AWS announces new AWS Direct Connect location in Brisbane, Australia](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-brisbane-australia)
+- [Amazon SageMaker AI enhances Amazon Q Developer with custom code suggestions and workspace context](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-ai-q-developer-custom-code/)
 - [Amazon SQS now supports FIPS 140-3 enabled interface VPC endpoint](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sqs-fips-140-3-interface-vpc-endpoint/)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.8](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-postgresql-limitless-database-postgresql-16-8)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Thailand&rpar; and AWS Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-thailand-mexico-regions/)
-- [AWS CodePipeline now supports Secrets Manager and more configurations in Commands action](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codepipeline-secrets-manager-configurations-commands-action/)
-- [Amazon Route 53 Resolver Query Logging now available in two new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-resolver-query-logging-new-aws-regions)
-- [Amazon EC2 Inf2 instances now available in Korea](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-inf2-instances-available-korea)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

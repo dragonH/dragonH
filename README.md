@@ -65,9 +65,9 @@
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Thailand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-thailand-region/)
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-mexico-central-region/)
 - [Amazon SageMaker HyperPod now integrates with Amazon EventBridge to deliver status change events](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-hyperpod-integrates-amazon-eventbridge-status-change-events)
-- [Amazon VPC Reachability Analyzer now supports resource exclusion](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-reachability-analyzer-resource-exclusion)
 - [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Thailand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-thailand-region/)
 - [Amazon FSx for Lustre is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-aws-mexico-central-region)
+- [Amazon FSx for Windows File Server is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-windows-file-server-aws-mexico-central-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS EC2 instances now support ENA queue allocation for your network interfaces](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-ec2-instances-ena-queue-allocation-network-interfaces/)
 - [Amazon CloudWatch RUM adds support for Interaction to Next Paint &lpar;INP&rpar; Web Vital](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-rum-inp-web-vital)
 - [Amazon Connect now supports audio optimization for Omnissa cloud desktops](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-connect-audio-optimization-omnissa-cloud-desktops)
 - [Amazon SageMaker HyperPod now integrates with Amazon EventBridge to deliver status change events](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-hyperpod-integrates-amazon-eventbridge-status-change-events)
@@ -67,7 +68,6 @@
 - [Amazon FSx for NetApp ONTAP is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-mexico-central-region/)
 - [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Thailand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-thailand-region/)
 - [Amazon FSx for Lustre is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-aws-mexico-central-region)
-- [Amazon FSx for Windows File Server is now available in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-windows-file-server-aws-mexico-central-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

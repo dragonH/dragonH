@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon ECR expands registry policy to all ECR actions in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-registry-policy-actions-aws-govcloud-us-regions)
 - [Amazon VPC adds CloudTrail logging for VPC resources created by default](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-cloudtrail-logging-resources-default/)
+- [AWS Deadline Cloud service-managed fleets now support configuration scripts](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-service-managed-fleets-configuration-scripts)
 - [Amazon Elastic Container Registry &lpar;ECR&rpar; supports image replication between the AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-image-replication-aws-govcloud-us-region)
+- [Amazon GuardDuty Malware Protection for EC2 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-guardduty-malware-protection-ec2-aws-govcloud-us-regions)
+- [AWS announces new AWS Data Transfer Terminal location in the San Francisco Bay Area](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-data-transfer-terminal-san-francisco-bay-area/)
+- [Amazon ECS adds support for Amazon EBS Provisioned Rate for Volume Initialization](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-ebs-provisioned-rate-volume-initialization/)
 - [Announcing Code Editor &lpar;based on VS Code – Open Source&rpar; in Amazon SageMaker Unified Studio](https://aws.amazon.com/about-aws/whats-new/2025/05/code-editor-vs-code-open-source-sagemaker-unified-studio/)
 - [Amazon SageMaker Unified Studio now allows you to bring your own image &lpar;BYOI&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-unified-studio-byoi/)
 - [AWS EC2 instances now support ENA queue allocation for your network interfaces](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-ec2-instances-ena-queue-allocation-network-interfaces/)
-- [AWS announces new AWS Direct Connect location in Istanbul, Turkey](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-direct-connect-location-istanbul-turkey/)
-- [Amazon SageMaker launches AWS CloudFormation support for domain features](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-aws-cloudformation-domain-features)
-- [Amazon RDS for MySQL now supports new minor versions 8.0.42 and 8.4.5](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-new-minor-versions)
-- [Amazon CloudWatch RUM adds support for Interaction to Next Paint &lpar;INP&rpar; Web Vital](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-rum-inp-web-vital)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

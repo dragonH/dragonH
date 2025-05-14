@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS Control Tower introduces account-level reporting for baseline APIs](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-account-level-reporting-baseline-apis)
 - [Amazon Aurora MySQL 3.09 &lpar;compatible with MySQL 8.0.40&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-mysql-3-09-compatible-mysql-8-0-40-generally-available)
+- [Amazon EC2 makes it easier to launch Windows instances with EC2 Fast Launch](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-launch-windows-instances-ec2-fast-launch/)
 - [Amazon Aurora and RDS for PostgreSQL, MySQL, and MariaDB now offer Reserved Instances for R8g and M8g instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-rds-postgresql-mysql-mariadb-reserved-instances-8g-m8g)
 - [Amazon Aurora and RDS for PostgreSQL, MySQL, and MariaDB now offer Reserved Instances for R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-rds-postgresql-mysql-mariadb-reserved-instances-r7i-m7i)
 - [Amazon GuardDuty Malware Protection for EC2 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-guardduty-malware-protection-ec2-aws-govcloud-us-regions)
@@ -67,7 +68,6 @@
 - [Amazon Elastic Container Registry &lpar;ECR&rpar; supports image replication between the AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-image-replication-aws-govcloud-us-region)
 - [AWS announces new AWS Data Transfer Terminal location in the San Francisco Bay Area](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-data-transfer-terminal-san-francisco-bay-area/)
 - [AWS Deadline Cloud service-managed fleets now support configuration scripts](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-service-managed-fleets-configuration-scripts)
-- [Amazon VPC adds CloudTrail logging for VPC resources created by default](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-cloudtrail-logging-resources-default/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

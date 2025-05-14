@@ -59,9 +59,9 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon GuardDuty Malware Protection for EC2 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-guardduty-malware-protection-ec2-aws-govcloud-us-regions)
-- [AWS announces new AWS Data Transfer Terminal location in the San Francisco Bay Area](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-data-transfer-terminal-san-francisco-bay-area/)
 - [Amazon ECS adds support for Amazon EBS Provisioned Rate for Volume Initialization](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-ebs-provisioned-rate-volume-initialization/)
 - [Amazon Elastic Container Registry &lpar;ECR&rpar; supports image replication between the AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-image-replication-aws-govcloud-us-region)
+- [AWS announces new AWS Data Transfer Terminal location in the San Francisco Bay Area](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-data-transfer-terminal-san-francisco-bay-area/)
 - [AWS Deadline Cloud service-managed fleets now support configuration scripts](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-service-managed-fleets-configuration-scripts)
 - [Amazon VPC adds CloudTrail logging for VPC resources created by default](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-vpc-cloudtrail-logging-resources-default/)
 - [Amazon ECR expands registry policy to all ECR actions in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecr-registry-policy-actions-aws-govcloud-us-regions)

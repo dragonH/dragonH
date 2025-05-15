@@ -65,8 +65,8 @@
 - [Amazon RDS for Oracle now supports April 2025 Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-april-2025-spatial-patch-bundle/)
 - [Amazon EC2 makes it easier to launch Windows instances with EC2 Fast Launch](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-launch-windows-instances-ec2-fast-launch/)
 - [Amazon Aurora and RDS for PostgreSQL, MySQL, and MariaDB now offer Reserved Instances for R8g and M8g instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-rds-postgresql-mysql-mariadb-reserved-instances-8g-m8g)
-- [Amazon Aurora and RDS for PostgreSQL, MySQL, and MariaDB now offer Reserved Instances for R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-rds-postgresql-mysql-mariadb-reserved-instances-r7i-m7i)
 - [Amazon Bedrock Guardrails now supports cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-guardrails-cross-region-inference/)
+- [Amazon Aurora and RDS for PostgreSQL, MySQL, and MariaDB now offer Reserved Instances for R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-rds-postgresql-mysql-mariadb-reserved-instances-r7i-m7i)
 - [AWS HealthOmics now supports output mapping files for CWL workflows](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthomics-output-mapping-files-cwl-workflows/)
 <!-- AWS-NEWS:END -->
 

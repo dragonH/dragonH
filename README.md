@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CodeBuild announces support for remote Docker servers](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-remote-docker-servers)
 - [AWS Transform for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-net-generally-available)
 - [AWS Transform for mainframe is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-mainframe-generally-available)
-- [Amazon SageMaker Catalog launches governance for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/)
 - [Announcing migration assessment capabilities of AWS Transform](https://aws.amazon.com/about-aws/whats-new/2025/05/migration-assessment-capabilities-aws-transform)
+- [Amazon SageMaker Catalog launches governance for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/)
+- [AWS Glue Studio now supports additional file types and single file output](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-glue-studio-file-types-single-file-output/)
 - [AWS Transform for VMware is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-vmware-generally-available)
 - [Amazon RDS for Oracle now supports the April 2025 Release Update &lpar;RU&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-april-2025-release-update)
 - [AWS Control Tower introduces account-level reporting for baseline APIs](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-account-level-reporting-baseline-apis)
 - [Amazon Aurora MySQL 3.09 &lpar;compatible with MySQL 8.0.40&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-mysql-3-09-compatible-mysql-8-0-40-generally-available)
-- [Amazon Kinesis Data Streams expands IPv6 support to VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-kinesis-data-streams-ipv6-vpc-endpoints)
-- [Amazon RDS for Oracle now supports April 2025 Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-april-2025-spatial-patch-bundle/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

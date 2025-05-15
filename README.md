@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Ingestion increases memory for an OCU to 15 GB](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-ingestion-increases-memory-ocu)
 - [SES Mail Manager adds Debug Logging for traffic policies](https://aws.amazon.com/about-aws/whats-new/2025/05/ses-mail-manager-debug-logging-traffic-policies)
 - [AWS Parallel Computing Service &lpar;PCS&rpar; now supports accounting with Slurm version 24.11](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pcs-accounting-slurm-version-24-11)
 - [AWS CodeBuild announces support for remote Docker servers](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-remote-docker-servers)
 - [AWS Transform for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-net-generally-available)
 - [AWS Transform for mainframe is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-mainframe-generally-available)
-- [Amazon SageMaker Catalog launches governance for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/)
 - [Announcing migration assessment capabilities of AWS Transform](https://aws.amazon.com/about-aws/whats-new/2025/05/migration-assessment-capabilities-aws-transform)
+- [Amazon SageMaker Catalog launches governance for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/)
 - [AWS Glue Studio now supports additional file types and single file output](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-glue-studio-file-types-single-file-output/)
 - [AWS Transform for VMware is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-vmware-generally-available)
-- [PostgreSQL 18 Beta 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/05/postgresql-18-beta-1-amazon-rds-database-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

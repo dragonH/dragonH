@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lightsail now supports IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink)
 - [AWS Entity Resolution is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-entity-resolution-additional-regions)
 - [AWS Config rules now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-config-rules-additional-aws-regions)
+- [AWS CodePipeline now supports Deploy Spec file in EC2 deploy action](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codepipeline-deploy-spec-file-ec2-deploy-action/)
+- [AWS CodePipeline now supports deploying to AWS Lambda with traffic shifting](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codepipeline-deploying-lambda-traffic-shifting/)
 - [Amazon Cognito now supports OIDC prompt parameter](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cognito-oidc-prompt-parameter/)
 - [Amazon Data Lifecycle Manager now supports &lpar;IPv6&rpar; in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-data-lifecycle-manager-ipv6-govcloud/)
 - [Amazon SageMaker - move project across domain units](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-move-project-domain-units)
 - [Amazon OpenSearch Ingestion increases memory for an OCU to 15 GB](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-ingestion-increases-memory-ocu)
 - [SES Mail Manager adds Debug Logging for traffic policies](https://aws.amazon.com/about-aws/whats-new/2025/05/ses-mail-manager-debug-logging-traffic-policies)
-- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports accounting with Slurm version 24.11](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pcs-accounting-slurm-version-24-11)
-- [AWS CodeBuild announces support for remote Docker servers](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-remote-docker-servers)
-- [AWS Transform for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-net-generally-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

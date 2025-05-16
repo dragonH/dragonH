@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Entity Resolution is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-entity-resolution-additional-regions)
+- [AWS Config rules now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-config-rules-additional-aws-regions)
 - [Amazon Cognito now supports OIDC prompt parameter](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cognito-oidc-prompt-parameter/)
 - [Amazon SageMaker - move project across domain units](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-move-project-domain-units)
 - [Amazon OpenSearch Ingestion increases memory for an OCU to 15 GB](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-ingestion-increases-memory-ocu)
@@ -66,8 +68,6 @@
 - [AWS CodeBuild announces support for remote Docker servers](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-remote-docker-servers)
 - [AWS Transform for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-net-generally-available)
 - [AWS Transform for mainframe is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transform-mainframe-generally-available)
-- [Amazon SageMaker Catalog launches governance for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-catalog-governance-s3-tables/)
-- [Announcing migration assessment capabilities of AWS Transform](https://aws.amazon.com/about-aws/whats-new/2025/05/migration-assessment-capabilities-aws-transform)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

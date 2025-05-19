@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MSK is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-thailand-mexico-central-regions/)
+- [Amazon MSK adds support for Apache Kafka version 4.0](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-apache-kafka-version-4-0)
 - [Amazon Lightsail now supports IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink)
 - [AWS Entity Resolution is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-entity-resolution-additional-regions)
 - [AWS Config rules now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-config-rules-additional-aws-regions)
@@ -66,8 +68,6 @@
 - [Amazon Cognito now supports OIDC prompt parameter](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cognito-oidc-prompt-parameter/)
 - [Amazon Data Lifecycle Manager now supports &lpar;IPv6&rpar; in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-data-lifecycle-manager-ipv6-govcloud/)
 - [Amazon SageMaker - move project across domain units](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-sagemaker-move-project-domain-units)
-- [Amazon OpenSearch Ingestion increases memory for an OCU to 15 GB](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-ingestion-increases-memory-ocu)
-- [SES Mail Manager adds Debug Logging for traffic policies](https://aws.amazon.com/about-aws/whats-new/2025/05/ses-mail-manager-debug-logging-traffic-policies)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

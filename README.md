@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Site-to-Site VPN Tunnel Endpoint Lifecycle Control is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-site-to-site-vpn-tunnel-endpoint-lifecycle-control-mexico-central-region)
+- [Amazon RDS for Oracle now supports credential management with AWS Secrets Manager for databases using Oracle multitenant architecture](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-credential-management-aws-secrets-manager-multitenant-architecture)
+- [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-high-memory-instances-us-east-ohio-region/)
+- [AWS Organizations now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-organizations-internet-protocol-version-6/)
 - [Announcing Amazon Bedrock Agents Metrics in CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-agents-metrics-cloudwatch)
 - [AWS CodeBuild adds support for new IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-iam-condition-keys)
 - [DynamoDB local is now accessible on AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2025/05/dynamo-db-local-accessible-aws-cloudshell)
-- [Amazon MSK adds support for Apache Kafka version 4.0](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-apache-kafka-version-4-0)
 - [Amazon MSK is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-thailand-mexico-central-regions/)
 - [Amazon Inspector enhances container security by mapping ECR images to running containers](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-inspector-container-security-images/)
 - [Amazon Bedrock Data Automation now supports generating custom insights from videos](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-data-automation-custom-insights-videos/)
-- [AWS CloudWatch Synthetics adds safe canary updates and automatic retries](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cloudwatch-synthetics-canary-updates-automatic-retries/)
-- [Amazon Lightsail now supports IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink)
+- [Amazon MSK adds support for Apache Kafka version 4.0](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-msk-apache-kafka-version-4-0)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

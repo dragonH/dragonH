@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Site-to-Site VPN Tunnel Endpoint Lifecycle Control is now available in AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-site-to-site-vpn-tunnel-endpoint-lifecycle-control-mexico-central-region)
 - [Announcing Amazon Bedrock Agents Metrics in CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-agents-metrics-cloudwatch)
 - [AWS CodeBuild adds support for new IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-codebuild-iam-condition-keys)
 - [DynamoDB local is now accessible on AWS CloudShell](https://aws.amazon.com/about-aws/whats-new/2025/05/dynamo-db-local-accessible-aws-cloudshell)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock Data Automation now supports generating custom insights from videos](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-data-automation-custom-insights-videos/)
 - [AWS CloudWatch Synthetics adds safe canary updates and automatic retries](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cloudwatch-synthetics-canary-updates-automatic-retries/)
 - [Amazon Lightsail now supports IPv6 connectivity over AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-lightsail-ipv6-connectivity-aws-privateLink)
-- [AWS Entity Resolution is now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-entity-resolution-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

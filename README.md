@@ -63,11 +63,11 @@
 - [AWS DMS introduces Data Resync for improved migration accuracy](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-dms-data-resync-improved-migration-accuracy)
 - [AWS Cost Anomaly Detection enables advanced alerting through AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-anomaly-detection-advanced-alerting-user-notifications/)
 - [AWS Deadline Cloud now supports Foundry Nuke version 16](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-foundry-nuke-version-16/)
+- [AWS Marketplace Sellers can now receive disbursements for partially paid invoices](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-marketplace-sellers-disbursements-partially-paid-invoices/)
 - [Amazon RDS now supports easy retrieval of engine lifecycle support dates](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-retrieval-engine-lifecycle-support-dates/)
+- [AWS Transfer Family announces ML-KEM quantum-resistant key exchange for SFTP](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transfer-family-quantum-resistant-key-exchange/)
 - [Amazon RDS for Oracle now supports credential management with AWS Secrets Manager for databases using Oracle multitenant architecture](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-credential-management-aws-secrets-manager-multitenant-architecture)
 - [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.5.29 and 10.6.22](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mariadb-community-mariadb-minor-versions/)
-- [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-high-memory-instances-us-east-ohio-region/)
-- [Announcing customer-initiated reboot migrations for EC2 Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2025/05/customer-initiated-reboot-migrations-ec2-scheduled-events/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Global Database introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-global-database-support-10-secondary-region-clusters)
 - [Announcing EKS Dashboard, a multi-cluster view of Kubernetes infrastructure across AWS Regions and your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2025/05/eks-dashboard-multi-cluster-view-kubernetes-infrastructure-aws-regions-organizations)
 - [Amazon EC2 Mac instances now support configurable System Integrity Protection &lpar;SIP&rpar; settings](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-mac-instances-configurable-sip-settings)
 - [AWS DMS introduces Data Resync for improved migration accuracy](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-dms-data-resync-improved-migration-accuracy)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports easy retrieval of engine lifecycle support dates](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-retrieval-engine-lifecycle-support-dates/)
 - [AWS Transfer Family announces ML-KEM quantum-resistant key exchange for SFTP](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transfer-family-quantum-resistant-key-exchange/)
 - [Amazon RDS for Oracle now supports credential management with AWS Secrets Manager for databases using Oracle multitenant architecture](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-credential-management-aws-secrets-manager-multitenant-architecture)
-- [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.5.29 and 10.6.22](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mariadb-community-mariadb-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

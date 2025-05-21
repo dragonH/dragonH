@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Mac instances now support configurable System Integrity Protection &lpar;SIP&rpar; settings](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-mac-instances-configurable-sip-settings)
 - [AWS DMS introduces Data Resync for improved migration accuracy](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-dms-data-resync-improved-migration-accuracy)
 - [AWS Cost Anomaly Detection enables advanced alerting through AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-anomaly-detection-advanced-alerting-user-notifications/)
 - [AWS Deadline Cloud now supports Foundry Nuke version 16](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-foundry-nuke-version-16/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 High Memory instances now available in US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-high-memory-instances-us-east-ohio-region/)
 - [Announcing customer-initiated reboot migrations for EC2 Scheduled Events](https://aws.amazon.com/about-aws/whats-new/2025/05/customer-initiated-reboot-migrations-ec2-scheduled-events/)
 - [AWS Site-to-Site VPN Tunnel Endpoint Lifecycle Control is now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-site-to-site-vpn-tunnel-endpoint-lifecycle-control-europe-milan-region)
-- [AWS Organizations now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-organizations-internet-protocol-version-6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces IPv6 support for EC2 Public DNS names](https://aws.amazon.com/about-aws/whats-new/2025/05/ipv6-support-ec2-public-dns-names/)
+- [Amazon Aurora reduces cross-Region Global Database Switchover time to typically under 30 seconds](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-cross-region-global-database-switchover-time-under-30-seconds)
+- [AWS HealthImaging launches DICOMweb QIDO-RS search and enhanced data management](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-qido-rs-search-enhanced-data-management)
+- [AWS HealthImaging now supports DICOMweb series level metadata retrievals](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-series-level-metadata-retrievals)
 - [Amazon Aurora Global Database introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-global-database-support-10-secondary-region-clusters)
 - [Announcing EKS Dashboard, a multi-cluster view of Kubernetes infrastructure across AWS Regions and your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2025/05/eks-dashboard-multi-cluster-view-kubernetes-infrastructure-aws-regions-organizations)
 - [Amazon EC2 Mac instances now support configurable System Integrity Protection &lpar;SIP&rpar; settings](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-mac-instances-configurable-sip-settings)
 - [AWS Cost Anomaly Detection enables advanced alerting through AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-anomaly-detection-advanced-alerting-user-notifications/)
 - [AWS Marketplace Sellers can now receive disbursements for partially paid invoices](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-marketplace-sellers-disbursements-partially-paid-invoices/)
 - [AWS DMS introduces Data Resync for improved migration accuracy](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-dms-data-resync-improved-migration-accuracy)
-- [AWS Deadline Cloud now supports Foundry Nuke version 16](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-foundry-nuke-version-16/)
-- [Amazon RDS now supports easy retrieval of engine lifecycle support dates](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-retrieval-engine-lifecycle-support-dates/)
-- [AWS Transfer Family announces ML-KEM quantum-resistant key exchange for SFTP](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-transfer-family-quantum-resistant-key-exchange/)
-- [Amazon RDS for Oracle now supports credential management with AWS Secrets Manager for databases using Oracle multitenant architecture](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-oracle-credential-management-aws-secrets-manager-multitenant-architecture)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

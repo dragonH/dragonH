@@ -65,9 +65,9 @@
 - [AWS Deadline Cloud Monitor now supports multiple languages](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-monitor-multiple-languages/)
 - [Amazon Aurora reduces cross-Region Global Database Switchover time to typically under 30 seconds](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-cross-region-global-database-switchover-time-under-30-seconds)
 - [AWS HealthImaging launches DICOMweb QIDO-RS search and enhanced data management](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-qido-rs-search-enhanced-data-management)
+- [Amazon RDS Custom for Oracle now supports R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-custom-oracle-r7i-m7i-instances)
 - [AWS HealthImaging now supports DICOMweb series level metadata retrievals](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-series-level-metadata-retrievals)
 - [AWS Control Tower releases Enabled controls view for centralized visibility](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-enabled-controls-centralized-visibility/)
-- [Amazon RDS Custom for Oracle now supports R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-custom-oracle-r7i-m7i-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

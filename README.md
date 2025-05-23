@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon ECS increases container exit reason message to 1024 characters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-container-exit-reason-message-characters/)
+- [Amazon Route 53 Profiles now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-profiles-three-additional-regions/)
+- [CloudWatch Database Insights adds support for Aurora Limitless PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/cloudwatch-database-insights-aurora-limitless-postgresql/)
+- [Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-models-fedramp-high-dod-il-4-5-govcloud/)
 - [Amazon Aurora reduces cross-Region Global Database Switchover time to typically under 30 seconds](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-cross-region-global-database-switchover-time-under-30-seconds)
 - [AWS HealthImaging launches DICOMweb QIDO-RS search and enhanced data management](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-qido-rs-search-enhanced-data-management)
 - [Amazon RDS Custom for Oracle now supports R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-custom-oracle-r7i-m7i-instances)
 - [AWS HealthImaging now supports DICOMweb series level metadata retrievals](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-series-level-metadata-retrievals)
 - [AWS Control Tower releases Enabled controls view for centralized visibility](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-enabled-controls-centralized-visibility/)
 - [Anthropic&#39;s Claude 4 foundation models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/05/anthropics-claude-4-foundation-models-amazon-bedrock)
-- [AWS announces IPv6 support for EC2 Public DNS names](https://aws.amazon.com/about-aws/whats-new/2025/05/ipv6-support-ec2-public-dns-names/)
-- [Amazon Managed Service for Prometheus launches query insights and control capabilities](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-query-insights/)
-- [Amazon Aurora Global Database introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-global-database-support-10-secondary-region-clusters)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

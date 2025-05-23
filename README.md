@@ -64,8 +64,8 @@
 - [AWS HealthImaging now supports DICOMweb series level metadata retrievals](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-series-level-metadata-retrievals)
 - [AWS Control Tower releases Enabled controls view for centralized visibility](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-enabled-controls-centralized-visibility/)
 - [Anthropic&#39;s Claude 4 foundation models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/05/anthropics-claude-4-foundation-models-amazon-bedrock)
-- [AWS announces IPv6 support for EC2 Public DNS names](https://aws.amazon.com/about-aws/whats-new/2025/05/ipv6-support-ec2-public-dns-names/)
 - [Amazon Managed Service for Prometheus launches query insights and control capabilities](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-query-insights/)
+- [AWS announces IPv6 support for EC2 Public DNS names](https://aws.amazon.com/about-aws/whats-new/2025/05/ipv6-support-ec2-public-dns-names/)
 - [Amazon Aurora Global Database introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-global-database-support-10-secondary-region-clusters)
 - [Announcing EKS Dashboard, a multi-cluster view of Kubernetes infrastructure across AWS Regions and your AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2025/05/eks-dashboard-multi-cluster-view-kubernetes-infrastructure-aws-regions-organizations)
 <!-- AWS-NEWS:END -->

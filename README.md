@@ -60,9 +60,9 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Aurora reduces cross-Region Global Database Switchover time to typically under 30 seconds](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-cross-region-global-database-switchover-time-under-30-seconds)
 - [AWS HealthImaging launches DICOMweb QIDO-RS search and enhanced data management](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-qido-rs-search-enhanced-data-management)
+- [Amazon RDS Custom for Oracle now supports R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-custom-oracle-r7i-m7i-instances)
 - [AWS HealthImaging now supports DICOMweb series level metadata retrievals](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-series-level-metadata-retrievals)
 - [AWS Control Tower releases Enabled controls view for centralized visibility](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-enabled-controls-centralized-visibility/)
-- [Amazon RDS Custom for Oracle now supports R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-custom-oracle-r7i-m7i-instances)
 - [Anthropic&#39;s Claude 4 foundation models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/05/anthropics-claude-4-foundation-models-amazon-bedrock)
 - [AWS announces IPv6 support for EC2 Public DNS names](https://aws.amazon.com/about-aws/whats-new/2025/05/ipv6-support-ec2-public-dns-names/)
 - [Amazon Managed Service for Prometheus launches query insights and control capabilities](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-query-insights/)

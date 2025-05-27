@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora DSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-dsql-generally-available/)
+- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250508](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-minor-5744-rds-20250508/)
 - [AWS Backup search now supports creating backup indexes within backup policies](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-search-backup-indexes-backup-policies/)
 - [Amazon Route 53 Profiles now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-profiles-three-additional-regions/)
 - [Amazon ECS increases container exit reason message to 1024 characters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-container-exit-reason-message-characters/)
@@ -66,8 +68,6 @@
 - [Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-models-fedramp-high-dod-il-4-5-govcloud/)
 - [Amazon Aurora reduces cross-Region Global Database Switchover time to typically under 30 seconds](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-cross-region-global-database-switchover-time-under-30-seconds)
 - [AWS HealthImaging launches DICOMweb QIDO-RS search and enhanced data management](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-healthimaging-dicomweb-qido-rs-search-enhanced-data-management)
-- [AWS Control Tower releases Enabled controls view for centralized visibility](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-control-tower-enabled-controls-centralized-visibility/)
-- [Amazon RDS Custom for Oracle now supports R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-custom-oracle-r7i-m7i-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

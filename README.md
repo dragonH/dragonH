@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP now supports write-back mode for ONTAP FlexCache volumes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-write-back-mode-ontap-flexcache-volumes)
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available Europe &lpar;Spain&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-c8gd-m8gd-r8gd-instances-spain-tokyo/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Announces 99.99% Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-documentdb-mongodb-99-99-sla/)
 - [Amazon CloudWatch Synthetics Adds Java Runtime for Lightweight API Monitoring](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-synthetics-java-runtime-lightweight-api/)
 - [Amazon Neptune announces MCP &lpar;Model Context Protocol&rpar; Server](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-mcp-server)
 - [AWS Backup enhances Amazon EC2 restores with custom volume configuration support](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-ec2-restores-custom-volume-configuration/)
+- [Cost Optimization Hub now supports Savings Plans and reservations preferences](https://aws.amazon.com/about-aws/whats-new/2025/05/cost-optimization-hub-savings-plans-reservations-preferences/)
 - [AWS Neuron introduces NxD Inference GA, new features, and improved tools](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-neuron-nxd-inference-ga)
 - [AWS Secrets Manager announces support for cost allocation tags for secrets](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-secrets-manager-cost-allocation-tags-secrets)
 - [AWS Backup now supports Amazon Aurora DSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-amazon-aurora-dsql)
-- [AWS Backup search now supports creating backup indexes within backup policies](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-search-backup-indexes-backup-policies/)
-- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250508](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-minor-5744-rds-20250508/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

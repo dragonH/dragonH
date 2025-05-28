@@ -65,9 +65,9 @@
 - [Amazon Neptune announces MCP &lpar;Model Context Protocol&rpar; Server](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-mcp-server)
 - [AWS Backup enhances Amazon EC2 restores with custom volume configuration support](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-ec2-restores-custom-volume-configuration/)
 - [Cost Optimization Hub now supports Savings Plans and reservations preferences](https://aws.amazon.com/about-aws/whats-new/2025/05/cost-optimization-hub-savings-plans-reservations-preferences/)
+- [AWS Network Firewall Adds Support for Multiple VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-network-firewall-multiple-vpc-endpoints/)
 - [AWS Neuron introduces NxD Inference GA, new features, and improved tools](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-neuron-nxd-inference-ga)
 - [AWS Secrets Manager announces support for cost allocation tags for secrets](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-secrets-manager-cost-allocation-tags-secrets)
-- [AWS Backup now supports Amazon Aurora DSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-amazon-aurora-dsql)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -61,13 +61,13 @@
 - [AWS Neuron introduces NxD Inference GA, new features, and improved tools](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-neuron-nxd-inference-ga)
 - [AWS Secrets Manager announces support for cost allocation tags for secrets](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-secrets-manager-cost-allocation-tags-secrets)
 - [AWS Backup now supports Amazon Aurora DSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-amazon-aurora-dsql)
-- [Amazon Aurora DSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-dsql-generally-available/)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250508](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-rds-mysql-minor-5744-rds-20250508/)
+- [Amazon Aurora DSQL is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-aurora-dsql-generally-available/)
 - [AWS Backup search now supports creating backup indexes within backup policies](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-backup-search-backup-indexes-backup-policies/)
 - [Amazon Route 53 Profiles now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-route-53-profiles-three-additional-regions/)
 - [Amazon ECS increases container exit reason message to 1024 characters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ecs-container-exit-reason-message-characters/)
-- [CloudWatch Database Insights adds support for Aurora Limitless PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/05/cloudwatch-database-insights-aurora-limitless-postgresql/)
 - [AWS Deadline Cloud Monitor now supports multiple languages](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-deadline-cloud-monitor-multiple-languages/)
+- [Amazon Bedrock models get FedRAMP High and DoD IL-4/5 approval in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-bedrock-models-fedramp-high-dod-il-4-5-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

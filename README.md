@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Express One Zone now supports granular access controls with S3 Access Points](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-express-one-zone-granular-access-controls-access-points)
+- [AWS Amplify Hosting announces customizable build instances](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-amplify-hosting-customizable-build-instances)
 - [AWS Security Hub now supports NIST SP 800-171 Revision 2](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-security-hub-nist-sp-800-171-revision-2)
 - [AWS Cost Explorer now offers new Cost Comparison feature](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-explorer-new-cost-comparison-feature/)
-- [Amazon OpenSearch Service adds support for Script Plugins](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-service-script-plugins)
 - [Amazon Neptune Database is now available in AWS Canada West &lpar;Calgary&rpar; and Asia Pacific &lpar;Melbourne&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-neptune-database-aws-calgary-melbourne-regions)
+- [Amazon OpenSearch Service adds support for Script Plugins](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-opensearch-service-script-plugins)
+- [Amazon Managed Service for Prometheus now supports 95 day time range queries](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-managed-service-prometheus-95-day-queries/)
 - [Amazon FSx for NetApp ONTAP now supports write-back mode for ONTAP FlexCache volumes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-netapp-ontap-write-back-mode-ontap-flexcache-volumes)
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available Europe &lpar;Spain&rpar; and Asia Pacific &lpar;Tokyo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ec2-c8gd-m8gd-r8gd-instances-spain-tokyo/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Announces 99.99% Service Level Agreement](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-documentdb-mongodb-99-99-sla/)
-- [Amazon CloudWatch Synthetics Adds Java Runtime for Lightweight API Monitoring](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-cloudwatch-synthetics-java-runtime-lightweight-api/)
-- [AWS Network Firewall Adds Support for Multiple VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-network-firewall-multiple-vpc-endpoints/)
-- [Cost Optimization Hub now supports Savings Plans and reservations preferences](https://aws.amazon.com/about-aws/whats-new/2025/05/cost-optimization-hub-savings-plans-reservations-preferences/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

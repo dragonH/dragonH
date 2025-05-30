@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon MWAA now provides option to update environments without interrupting task execution](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution)
+- [AWS CDK Toolkit Library is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cdk-toolkit-library-available/)
 - [Mountpoint for Amazon S3 now lets you automatically mount your S3 buckets using fstab](https://aws.amazon.com/about-aws/whats-new/2025/05/mountpoint-amazon-s3-mount-buckets-fstab/)
 - [Amazon EKS introduces configuration insights for Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-configuration-insights-eks-hybrid-nodes/)
 - [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
@@ -67,7 +68,6 @@
 - [Amazon FSx for Lustre adds new storage class that delivers the lowest-cost and only fully elastic Lustre file storage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-new-storage-class)
 - [Amazon EMR enables enhanced Apache Spark capabilities for Lake Formation tables with full table access](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-emr-apache-spark-capabilities-lake-formation-table)
 - [Announcing new Model Context Protocol &lpar;MCP&rpar; Servers for AWS Serverless and Containers](https://aws.amazon.com/about-aws/whats-new/2025/05/new-model-context-protocol-servers-aws-serverless-containers)
-- [Amazon S3 Express One Zone now supports granular access controls with S3 Access Points](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-express-one-zone-granular-access-controls-access-points)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

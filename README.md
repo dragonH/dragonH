@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA now provides option to update environments without interrupting task execution](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution)
+- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.33](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-distro-kubernetes-version-1-33)
+- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
+- [Mountpoint for Amazon S3 now lets you automatically mount your S3 buckets using fstab](https://aws.amazon.com/about-aws/whats-new/2025/05/mountpoint-amazon-s3-mount-buckets-fstab/)
+- [Amazon EKS introduces configuration insights for Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-configuration-insights-eks-hybrid-nodes/)
 - [Amazon GameLift Servers SDKs are now on GitHub](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-gamelift-sdks-github)
 - [Amazon FSx for Lustre adds new storage class that delivers the lowest-cost and only fully elastic Lustre file storage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-new-storage-class)
 - [Amazon EMR enables enhanced Apache Spark capabilities for Lake Formation tables with full table access](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-emr-apache-spark-capabilities-lake-formation-table)
 - [Announcing new Model Context Protocol &lpar;MCP&rpar; Servers for AWS Serverless and Containers](https://aws.amazon.com/about-aws/whats-new/2025/05/new-model-context-protocol-servers-aws-serverless-containers)
 - [Amazon S3 Express One Zone now supports granular access controls with S3 Access Points](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-s3-express-one-zone-granular-access-controls-access-points)
-- [AWS Amplify Hosting announces customizable build instances](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-amplify-hosting-customizable-build-instances)
-- [AWS Security Hub now supports NIST SP 800-171 Revision 2](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-security-hub-nist-sp-800-171-revision-2)
-- [Amazon IVS Real-Time Streaming now supports participant replication](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-ivs-real-time-streaming-participant-replication/)
-- [AWS Cost Explorer now offers new Cost Comparison feature](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cost-explorer-new-cost-comparison-feature/)
-- [CloudTrail Lake now supports event enrichment and expanded event size](https://aws.amazon.com/about-aws/whats-new/2025/05/cloudtrail-lake-event-enrichment-expanded-event-size/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -62,10 +62,10 @@
 - [Announcing Red Hat Enterprise Linux for AWS](https://aws.amazon.com/about-aws/whats-new/2025/05/red-hat-enterprise-linux-aws)
 - [AWS CDK Toolkit Library is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cdk-toolkit-library-available/)
 - [Amazon Redshift now enables cluster relocation by default for RA3 provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-cluster-relocation-ra3-provisioned-clusters/)
-- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.33](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-distro-kubernetes-version-1-33)
-- [Mountpoint for Amazon S3 now lets you automatically mount your S3 buckets using fstab](https://aws.amazon.com/about-aws/whats-new/2025/05/mountpoint-amazon-s3-mount-buckets-fstab/)
+- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
 - [Amazon EKS introduces configuration insights for Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-configuration-insights-eks-hybrid-nodes/)
+- [Mountpoint for Amazon S3 now lets you automatically mount your S3 buckets using fstab](https://aws.amazon.com/about-aws/whats-new/2025/05/mountpoint-amazon-s3-mount-buckets-fstab/)
 - [Amazon GameLift Servers SDKs are now on GitHub](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-gamelift-sdks-github)
 - [Amazon FSx for Lustre adds new storage class that delivers the lowest-cost and only fully elastic Lustre file storage](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-fsx-lustre-new-storage-class)
 <!-- AWS-NEWS:END -->

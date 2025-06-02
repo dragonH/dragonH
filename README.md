@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Private CA announces support for Microsoft Active Directory child domains](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-private-ca-microsoft-active-directory-child-domains)
+- [AWS Marketplace now supports a localized experience in four additional languages](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-marketplace-localized-experience-additional-languages)
+- [Second-generation Amazon FSx for NetApp ONTAP now available in the AWS Mumbai and Tokyo Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/second-generation-amazon-fsx-netapp-ontap-mumbai-tokyo-regions)
 - [Introducing agentic capabilities for Amazon Q Developer Chat in the AWS Management Console and chat applications](https://aws.amazon.com/about-aws/whats-new/2025/06/agentic-capabilities-amazon-q-developer-chat-aws-management-console-chat-applications)
 - [Amazon DataZone launches upgrade domain to SageMaker](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-datazone-upgrade-domain-sagemaker)
 - [Amazon Lex adds AWS CloudFormation support for GovCloud &lpar;US-West&rpar; and advanced features](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-aws-cloudformation-govcloud-us-west-advanced-features)
@@ -65,9 +68,6 @@
 - [Cost Optimization Hub supports recommendations for Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2025/06/cost-optimization-hub-recommendations-amazon-aurora)
 - [Amazon MWAA now provides option to update environments without interrupting task execution](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution)
 - [Announcing Red Hat Enterprise Linux for AWS](https://aws.amazon.com/about-aws/whats-new/2025/05/red-hat-enterprise-linux-aws)
-- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.33](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-distro-kubernetes-version-1-33)
-- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
-- [Amazon EKS introduces configuration insights for Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-configuration-insights-eks-hybrid-nodes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,15 +58,15 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing agentic capabilities for Amazon Q Developer Chat in the AWS Management Console and chat applications](https://aws.amazon.com/about-aws/whats-new/2025/06/agentic-capabilities-amazon-q-developer-chat-aws-management-console-chat-applications)
+- [Amazon DataZone launches upgrade domain to SageMaker](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-datazone-upgrade-domain-sagemaker)
 - [Amazon Lex adds AWS CloudFormation support for GovCloud &lpar;US-West&rpar; and advanced features](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-aws-cloudformation-govcloud-us-west-advanced-features)
+- [AWS Compute Optimizer now supports Aurora I/O-Optimized recommendations](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-aurora-i-o-optimized-recommendations)
 - [Cost Optimization Hub supports recommendations for Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2025/06/cost-optimization-hub-recommendations-amazon-aurora)
 - [Amazon MWAA now provides option to update environments without interrupting task execution](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution)
 - [Announcing Red Hat Enterprise Linux for AWS](https://aws.amazon.com/about-aws/whats-new/2025/05/red-hat-enterprise-linux-aws)
-- [Amazon Redshift now enables cluster relocation by default for RA3 provisioned clusters](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-redshift-cluster-relocation-ra3-provisioned-clusters/)
-- [AWS CDK Toolkit Library is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-cdk-toolkit-library-available/)
-- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.33](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-distro-kubernetes-version-1-33)
-- [Mountpoint for Amazon S3 now lets you automatically mount your S3 buckets using fstab](https://aws.amazon.com/about-aws/whats-new/2025/05/mountpoint-amazon-s3-mount-buckets-fstab/)
+- [AWS Pricing Calculator, now generally available, supports discounts and purchase commitment](https://aws.amazon.com/about-aws/whats-new/2025/05/aws-pricing-calculator-discounts-purchase-commitments)
 - [Amazon EKS introduces configuration insights for Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-eks-configuration-insights-eks-hybrid-nodes/)
 <!-- AWS-NEWS:END -->
 

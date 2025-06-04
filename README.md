@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Private CA announces support for Microsoft Active Directory child domains](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-private-ca-microsoft-active-directory-child-domains)
-- [AWS Marketplace now supports a localized experience in four additional languages](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-marketplace-localized-experience-additional-languages)
-- [Second-generation Amazon FSx for NetApp ONTAP now available in the AWS Mumbai and Tokyo Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/second-generation-amazon-fsx-netapp-ontap-mumbai-tokyo-regions)
-- [Introducing agentic capabilities for Amazon Q Developer Chat in the AWS Management Console and chat applications](https://aws.amazon.com/about-aws/whats-new/2025/06/agentic-capabilities-amazon-q-developer-chat-aws-management-console-chat-applications)
-- [Amazon DataZone launches upgrade domain to SageMaker](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-datazone-upgrade-domain-sagemaker)
-- [Amazon Lex adds AWS CloudFormation support for GovCloud &lpar;US-West&rpar; and advanced features](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-aws-cloudformation-govcloud-us-west-advanced-features)
-- [AWS Compute Optimizer now supports Aurora I/O-Optimized recommendations](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-aurora-i-o-optimized-recommendations)
-- [Cost Optimization Hub supports recommendations for Amazon Aurora](https://aws.amazon.com/about-aws/whats-new/2025/06/cost-optimization-hub-recommendations-amazon-aurora)
-- [Amazon MWAA now provides option to update environments without interrupting task execution](https://aws.amazon.com/about-aws/whats-new/2025/05/amazon-mwaa-option-update-environments-without-interrupting-task-execution)
-- [Announcing Red Hat Enterprise Linux for AWS](https://aws.amazon.com/about-aws/whats-new/2025/05/red-hat-enterprise-linux-aws)
+- [ENA Express for AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/ena-express-govcloud-us-regions)
+- [AWS Site-to-Site VPN introduces three new capabilities for enhanced security](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-site-to-site-vpn-three-capabilities-enhanced-security/)
+- [Amazon Athena announces managed query results to streamline analysis workflows](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-athena-managed-query-results-streamline-analysis-workflows)
+- [Amazon API Gateway introduces routing rules for REST APIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-api-gateway-routing-rules-rest-apis/)
+- [AWS Backup  adds support for SNS notifications and EventBridge events for backup indexes](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-sns-notifications-eventbridge-backup-indexes/)
+- [Amazon Managed Service for Apache Flink adds IPv6 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-apache-flink-ipv6-endpoints/)
+- [Amazon Q Developer now helps customers optimize AWS costs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-optimize-aws-costs)
+- [Amazon VPC Route Server announces logging enhancements](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-route-server-logging-enhancements/)
+- [Amazon EC2 I4i instances now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i4i-instances-spain-region/)
+- [Near real-time matching available in AWS Entity Resolution](https://aws.amazon.com/about-aws/whats-new/2025/06/near-real-time-matching-aws-entity-resolution)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

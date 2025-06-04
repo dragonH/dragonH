@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M7g instances are now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7g-instances-aws-govcloud-us-west-region)
+- [AWS Resource Groups now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-supports-ipv6)
+- [Amazon Redshift now supports increased concurrency for vacuum operations](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-redshift-increased-concurrency-vacuum-operations)
+- [Amazon EC2 C7a instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7a-instances-europe-london-region/)
+- [AWS Resource Groups adds support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-privatelink)
+- [Amazon Lex extends custom vocabulary feature to additional languages](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-custom-vocabulary-additional-languages)
 - [ENA Express for AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/ena-express-govcloud-us-regions)
 - [AWS Site-to-Site VPN introduces three new capabilities for enhanced security](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-site-to-site-vpn-three-capabilities-enhanced-security/)
 - [Amazon Athena announces managed query results to streamline analysis workflows](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-athena-managed-query-results-streamline-analysis-workflows)
 - [Amazon API Gateway introduces routing rules for REST APIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-api-gateway-routing-rules-rest-apis/)
-- [AWS Backup  adds support for SNS notifications and EventBridge events for backup indexes](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-sns-notifications-eventbridge-backup-indexes/)
-- [Amazon Managed Service for Apache Flink adds IPv6 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-apache-flink-ipv6-endpoints/)
-- [Amazon Q Developer now helps customers optimize AWS costs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-optimize-aws-costs)
-- [Amazon VPC Route Server announces logging enhancements](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-route-server-logging-enhancements/)
-- [Amazon EC2 I4i instances now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i4i-instances-spain-region/)
-- [Near real-time matching available in AWS Entity Resolution](https://aws.amazon.com/about-aws/whats-new/2025/06/near-real-time-matching-aws-entity-resolution)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

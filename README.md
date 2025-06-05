@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Prometheus now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-prometheus-7-regions/)
+- [Amazon CloudWatch Logs Insights launches Query Results Summarization and OpenSearch PPL enhancements](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-logs-insights-query-results-summarization-opensearch-ppl-enhancements)
+- [AWS Wickr announces a Preview experience for files](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-wickr-preview-experience-files)
+- [AWS HealthOmics now supports automatic detection of WDL workflow parameters](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthomics-automatic-detection-wdl-workflow-parameters)
+- [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hyderabad&rpar; and Asia Pacific &lpar;Osaka&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-hyderabad-osaka-regions)
 - [AWS Network Firewall launches new monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-monitoring-dashboard)
 - [ENA Express supports 120 new instances](https://aws.amazon.com/about-aws/whats-new/2025/06/ena-express-new-instances)
 - [Announcing Amazon RDS for PostgreSQL Extended Support versions R2 11.22-rds.20250508 and 12.22-rds.20250508](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-postgresql-extended-support-versions-r2-11-22-rds-20250508-12-22-rds-20250508)
 - [Amazon EKS add-ons now supports Private CA Connector for Kubernetes](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-add-ons-private-ca-connector-kubernetes/)
 - [Amazon EC2 C7a instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7a-instances-europe-london-region/)
-- [AWS Resource Groups adds support AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-privatelink)
-- [Amazon Lex extends custom vocabulary feature to additional languages](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-custom-vocabulary-additional-languages)
-- [Amazon EC2 M7g instances are now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7g-instances-aws-govcloud-us-west-region)
-- [Amazon Redshift now supports increased concurrency for vacuum operations](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-redshift-increased-concurrency-vacuum-operations)
-- [AWS Resource Groups now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-groups-supports-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

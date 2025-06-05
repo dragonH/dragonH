@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now enables you to delete underlying EBS snapshots when deregistering AMIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-delete-underlying-ebs-snapshots-deregistering-amis)
+- [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.11.13 and 11.4.7](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-maria-db-community-maria-db-minor-versions-10-11-13-11-4-7)
 - [Amazon Managed Service for Prometheus now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-prometheus-7-regions/)
+- [Amazon Connect now supports external voice transfers in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-external-voice-transfers-five-regions/)
+- [Pricing and usage model updates for Amazon EC2 instances accelerated by NVIDIA GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/pricing-usage-model-ec2-instances-nvidia-gpus/)
 - [Amazon CloudWatch Logs Insights launches Query Results Summarization and OpenSearch PPL enhancements](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-logs-insights-query-results-summarization-opensearch-ppl-enhancements)
 - [AWS Wickr announces a Preview experience for files](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-wickr-preview-experience-files)
 - [AWS HealthOmics now supports automatic detection of WDL workflow parameters](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthomics-automatic-detection-wdl-workflow-parameters)
 - [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hyderabad&rpar; and Asia Pacific &lpar;Osaka&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-hyderabad-osaka-regions)
 - [AWS Network Firewall launches new monitoring dashboard](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-monitoring-dashboard)
-- [ENA Express supports 120 new instances](https://aws.amazon.com/about-aws/whats-new/2025/06/ena-express-new-instances)
-- [Announcing Amazon RDS for PostgreSQL Extended Support versions R2 11.22-rds.20250508 and 12.22-rds.20250508](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-postgresql-extended-support-versions-r2-11-22-rds-20250508-12-22-rds-20250508)
-- [Amazon EKS add-ons now supports Private CA Connector for Kubernetes](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eks-add-ons-private-ca-connector-kubernetes/)
-- [Amazon EC2 C7a instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7a-instances-europe-london-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

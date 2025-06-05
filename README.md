@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing ASN match support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2025/06/asn-match-aws-waf)
+- [AWS Invoice Summary API is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-invoice-summary-api-generally-available)
 - [Amazon Q Developer agentic coding experience is now available within JetBrains and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-agentic-coding-experience-within-jetbrains-visual-studio)
 - [Amazon EC2 now enables you to delete underlying EBS snapshots when deregistering AMIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-delete-underlying-ebs-snapshots-deregistering-amis)
 - [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.11.13 and 11.4.7](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-maria-db-community-maria-db-minor-versions-10-11-13-11-4-7)
 - [Amazon Managed Service for Prometheus now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-managed-service-prometheus-7-regions/)
 - [Amazon Connect now supports external voice transfers in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-external-voice-transfers-five-regions/)
 - [Pricing and usage model updates for Amazon EC2 instances accelerated by NVIDIA GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/pricing-usage-model-ec2-instances-nvidia-gpus/)
-- [Amazon CloudWatch Logs Insights launches Query Results Summarization and OpenSearch PPL enhancements](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-logs-insights-query-results-summarization-opensearch-ppl-enhancements)
-- [AWS Wickr announces a Preview experience for files](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-wickr-preview-experience-files)
-- [AWS HealthOmics now supports automatic detection of WDL workflow parameters](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthomics-automatic-detection-wdl-workflow-parameters)
-- [Amazon OpenSearch Serverless now available in Asia Pacific &lpar;Hyderabad&rpar; and Asia Pacific &lpar;Osaka&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-hyderabad-osaka-regions)
+- [Amazon Q Developer Eclipse IDE plugin is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-eclipse-ide-plugin/)
+- [Amazon MWAA now available in additional Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-mwaa-additional-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-asia-pacific-taipei-region)
 - [Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances)
 - [Ingest data from Atlassian Jira and Confluence into Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/06/ingest-data-atlassian-jira-confluence-amazon-opensearch-service)
 - [Upgrade Experience from Amazon SageMaker Studio to SageMaker Unified Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/upgrade-amazon-sagemaker-studio-sagemaker-unified-studio/)
@@ -67,7 +68,6 @@
 - [Amazon Q Developer agentic coding experience is now available within JetBrains and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-agentic-coding-experience-within-jetbrains-visual-studio)
 - [Amazon EC2 now enables you to delete underlying EBS snapshots when deregistering AMIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-delete-underlying-ebs-snapshots-deregistering-amis)
 - [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.11.13 and 11.4.7](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-maria-db-community-maria-db-minor-versions-10-11-13-11-4-7)
-- [AWS HealthOmics now supports automatic detection of WDL workflow parameters](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthomics-automatic-detection-wdl-workflow-parameters)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

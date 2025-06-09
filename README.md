@@ -64,9 +64,9 @@
 - [AWS Console Mobile Application adds support for CloudWatch Log Insights](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-console-mobile-application-cloudwatch-log-insights)
 - [Amazon Connect launches profile explorer for unified customer views](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-profile-explorer-unified-customer-views)
 - [Announcing open sourcing pgactive: active-active replication extension for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/06/open-sourcing-pgactive-active-active-replication-extension-postgresql)
-- [AWS HealthLake is now available in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthlake-europe-ireland-region)
 - [Amazon Connect introduces enhanced calculated attributes](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-enhanced-calculated-attributes/)
 - [Amazon CloudWatch agent adds support for EBS detailed performance statistics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-agent-ebs-performance-statistics/)
+- [AWS HealthLake is now available in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthlake-europe-ireland-region)
 - [Amazon EFS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-efs-internet-protocol-version-6/)
 <!-- AWS-NEWS:END -->
 

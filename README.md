@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Elastic VMware Service now integrates with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/)
+- [AWS launches public preview of Amazon Elastic VMware Service &lpar;Amazon EVS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-public-preview-amazon-elastic-vmware-service-evs)
+- [AWS Glue now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-asia-pacific-taipei-region)
 - [AWS Console Mobile Application adds support for CloudWatch Log Insights](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-console-mobile-application-cloudwatch-log-insights)
 - [Amazon Connect launches profile explorer for unified customer views](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-profile-explorer-unified-customer-views)
 - [Announcing open sourcing pgactive: active-active replication extension for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/06/open-sourcing-pgactive-active-active-replication-extension-postgresql)
 - [AWS HealthLake is now available in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthlake-europe-ireland-region)
 - [Amazon Connect introduces enhanced calculated attributes](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-enhanced-calculated-attributes/)
 - [Amazon CloudWatch agent adds support for EBS detailed performance statistics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-agent-ebs-performance-statistics/)
-- [AWS Backup is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-asia-pacific-taipei-region)
-- [Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances)
-- [Ingest data from Atlassian Jira and Confluence into Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/06/ingest-data-atlassian-jira-confluence-amazon-opensearch-service)
-- [Upgrade Experience from Amazon SageMaker Studio to SageMaker Unified Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/upgrade-amazon-sagemaker-studio-sagemaker-unified-studio/)
+- [Amazon EFS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-efs-internet-protocol-version-6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

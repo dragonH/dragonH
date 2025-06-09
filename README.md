@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect launches profile explorer for unified customer views](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-profile-explorer-unified-customer-views)
 - [Announcing open sourcing pgactive: active-active replication extension for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/06/open-sourcing-pgactive-active-active-replication-extension-postgresql)
 - [AWS HealthLake is now available in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthlake-europe-ireland-region)
 - [AWS Backup is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-asia-pacific-taipei-region)
@@ -67,7 +68,6 @@
 - [Amazon Connect enhances hold duration tracking for multiparty calls](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-hold-duration-tracking-multiparty-calls/)
 - [Amazon EFS is now available in the AWS Asia Pacific &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-efs-taipei-region/)
 - [AWS KMS launches on-demand key rotation for imported keys](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-on-demand-key-rotation-imported-keys/)
-- [Announcing ASN match support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2025/06/asn-match-aws-waf)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing open sourcing pgactive: active-active replication extension for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/06/open-sourcing-pgactive-active-active-replication-extension-postgresql)
+- [AWS HealthLake is now available in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthlake-europe-ireland-region)
 - [AWS Backup is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-asia-pacific-taipei-region)
 - [Amazon SageMaker AI Training Jobs announces general availability of P6-B200 instances powered by NVIDIA B200 GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-training-jobs-general-availability-p6-b200-instances)
 - [Ingest data from Atlassian Jira and Confluence into Amazon OpenSearch Service](https://aws.amazon.com/about-aws/whats-new/2025/06/ingest-data-atlassian-jira-confluence-amazon-opensearch-service)
@@ -66,8 +68,6 @@
 - [Amazon EFS is now available in the AWS Asia Pacific &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-efs-taipei-region/)
 - [AWS KMS launches on-demand key rotation for imported keys](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-on-demand-key-rotation-imported-keys/)
 - [Announcing ASN match support for AWS WAF](https://aws.amazon.com/about-aws/whats-new/2025/06/asn-match-aws-waf)
-- [AWS Invoice Summary API is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-invoice-summary-api-generally-available)
-- [Amazon Q Developer agentic coding experience is now available within JetBrains and Visual Studio](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-agentic-coding-experience-within-jetbrains-visual-studio)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

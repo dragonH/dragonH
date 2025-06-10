@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom now supports Cumulative Update 18 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-custom-cumulative-update-18-microsoft/)
+- [Amazon Q Developer launches Java upgrade selective transformation in CLI &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-selective-transformation-cli-preview)
 - [Amazon Elastic VMware Service now integrates with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/)
 - [AWS launches public preview of Amazon Elastic VMware Service &lpar;Amazon EVS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-public-preview-amazon-elastic-vmware-service-evs)
 - [AWS Glue now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-asia-pacific-taipei-region)
@@ -66,8 +68,6 @@
 - [Announcing open sourcing pgactive: active-active replication extension for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2025/06/open-sourcing-pgactive-active-active-replication-extension-postgresql)
 - [Amazon Connect introduces enhanced calculated attributes](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-enhanced-calculated-attributes/)
 - [Amazon CloudWatch agent adds support for EBS detailed performance statistics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudwatch-agent-ebs-performance-statistics/)
-- [AWS HealthLake is now available in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthlake-europe-ireland-region)
-- [Amazon EFS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-efs-internet-protocol-version-6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

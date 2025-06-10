@@ -59,9 +59,9 @@
 
 <!-- AWS-NEWS:START -->
 - [Express Brokers in Amazon MSK now support Apache Kafka version 3.8](https://aws.amazon.com/about-aws/whats-new/2025/06/express-brokers-amazon-msk-apache-kafka-version-3-8)
-- [Amazon RDS Custom now supports Cumulative Update 18 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-custom-cumulative-update-18-microsoft/)
-- [Amazon Q Developer launches Java upgrade selective transformation in CLI &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-selective-transformation-cli-preview)
 - [AWS AppSync Enhances Security with Default Encryption for GraphQL API Caching](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-security-encryption-graphql-api-caching/)
+- [Amazon Q Developer launches Java upgrade selective transformation in CLI &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-selective-transformation-cli-preview)
+- [Amazon RDS Custom now supports Cumulative Update 18 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-custom-cumulative-update-18-microsoft/)
 - [Amazon Connect Customer Profiles for Travel and Hospitality](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-customer-profiles-travel-hospitality/)
 - [Powertools for AWS Lambda introduces Bedrock Agents Function utility](https://aws.amazon.com/about-aws/whats-new/2025/06/powertools-lambda-bedrock-agents-function-utility/)
 - [Amazon Elastic VMware Service now integrates with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer introduces Pro Tier upgrades for Builder IDs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-pro-tier-upgrades-builder-ids)
 - [Amazon RDS for DB2 now supports cross region standby replicas](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-db2-cross-region-standby-replicas)
 - [Extending the AWS Financing program for AWS Marketplace purchases for all US customers](https://aws.amazon.com/about-aws/whats-new/2025/06/extending-aws-financing-program-marketplace-purchases-us-customers)
 - [Amazon DynamoDB Streams adds supports for Kinesis Client Library &lpar;KCL&rpar; 3.0](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamodb-streams-kinesis-client-library-3-0/)
@@ -67,7 +68,6 @@
 - [Amazon Q Developer launches Java upgrade selective transformation in CLI &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-selective-transformation-cli-preview)
 - [Amazon RDS Custom now supports Cumulative Update 18 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-custom-cumulative-update-18-microsoft/)
 - [Amazon Connect Customer Profiles for Travel and Hospitality](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-customer-profiles-travel-hospitality/)
-- [Powertools for AWS Lambda introduces Bedrock Agents Function utility](https://aws.amazon.com/about-aws/whats-new/2025/06/powertools-lambda-bedrock-agents-function-utility/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

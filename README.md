@@ -66,8 +66,8 @@
 - [Amazon DynamoDB Streams adds supports for Kinesis Client Library &lpar;KCL&rpar; 3.0](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamodb-streams-kinesis-client-library-3-0/)
 - [Amazon S3 Tables now provide storage cost visibility for individual tables](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-tables-storage-cost-visibility-individual-tables/)
 - [AWS Deadline Cloud now supports worker performance monitoring](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-deadline-cloud-worker-performance-monitoring)
+- [AWS Cloud WAN simplifies network operations with Security Group Referencing and enhanced DNS support](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-cloud-wan-network-operations-security-referencing-dns/)
 - [Express Brokers in Amazon MSK now support Apache Kafka version 3.8](https://aws.amazon.com/about-aws/whats-new/2025/06/express-brokers-amazon-msk-apache-kafka-version-3-8)
-- [AWS AppSync Enhances Security with Default Encryption for GraphQL API Caching](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-security-encryption-graphql-api-caching/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

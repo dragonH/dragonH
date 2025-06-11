@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Extending the AWS Financing program for AWS Marketplace purchases for all US customers](https://aws.amazon.com/about-aws/whats-new/2025/06/extending-aws-financing-program-marketplace-purchases-us-customers)
 - [Amazon DynamoDB Streams adds supports for Kinesis Client Library &lpar;KCL&rpar; 3.0](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamodb-streams-kinesis-client-library-3-0/)
 - [AWS Deadline Cloud now supports worker performance monitoring](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-deadline-cloud-worker-performance-monitoring)
 - [Express Brokers in Amazon MSK now support Apache Kafka version 3.8](https://aws.amazon.com/about-aws/whats-new/2025/06/express-brokers-amazon-msk-apache-kafka-version-3-8)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer Profiles for Travel and Hospitality](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-customer-profiles-travel-hospitality/)
 - [Powertools for AWS Lambda introduces Bedrock Agents Function utility](https://aws.amazon.com/about-aws/whats-new/2025/06/powertools-lambda-bedrock-agents-function-utility/)
 - [Amazon Elastic VMware Service now integrates with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/)
-- [AWS launches public preview of Amazon Elastic VMware Service &lpar;Amazon EVS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-public-preview-amazon-elastic-vmware-service-evs)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

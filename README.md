@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB Streams adds supports for Kinesis Client Library &lpar;KCL&rpar; 3.0](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamodb-streams-kinesis-client-library-3-0/)
+- [AWS Deadline Cloud now supports worker performance monitoring](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-deadline-cloud-worker-performance-monitoring)
 - [Express Brokers in Amazon MSK now support Apache Kafka version 3.8](https://aws.amazon.com/about-aws/whats-new/2025/06/express-brokers-amazon-msk-apache-kafka-version-3-8)
 - [AWS AppSync Enhances Security with Default Encryption for GraphQL API Caching](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-security-encryption-graphql-api-caching/)
 - [Amazon Q Developer launches Java upgrade selective transformation in CLI &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-selective-transformation-cli-preview)
@@ -66,8 +68,6 @@
 - [Powertools for AWS Lambda introduces Bedrock Agents Function utility](https://aws.amazon.com/about-aws/whats-new/2025/06/powertools-lambda-bedrock-agents-function-utility/)
 - [Amazon Elastic VMware Service now integrates with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elastic-vmware-service-fsx-netapp-ontap/)
 - [AWS launches public preview of Amazon Elastic VMware Service &lpar;Amazon EVS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-public-preview-amazon-elastic-vmware-service-evs)
-- [AWS Glue now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-asia-pacific-taipei-region)
-- [AWS Console Mobile Application adds support for CloudWatch Log Insights](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-console-mobile-application-cloudwatch-log-insights)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

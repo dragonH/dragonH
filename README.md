@@ -63,11 +63,11 @@
 - [Amazon Nova Sonic adds support for Spanish language](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-nova-sonic-spanish-language)
 - [AWS Marketplace now supports Private Marketplace management in the console](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-marketplace-private-marketplace-management-console/)
 - [Amazon Lex improves conversational accuracy with LLM-Assisted NLU](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-conversational-accuracy-llm-assisted-nlu/)
+- [Amazon Verified Permissions reduces authorization request price by up to 97%](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-verified-permissions-reduces-price/)
 - [AWS Control Tower now supports service-linked AWS Config managed Config rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-service-linked-aws-config-managed-rules)
+- [Amazon ECS adds support for updating capacity provider configuration for ECS services](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecs-capacity-provider-configuration-ecs/)
 - [AWS CloudTrail enhances logging for Amazon S3 DeleteObjects API](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-cloudtrail-logging-amazon-s3-deleteobjects-api)
 - [Amazon Bedrock Custom Model Import now supports Qwen models](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-custom-model-import-qwen-models)
-- [Amazon Q Developer introduces Pro Tier upgrades for Builder IDs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-pro-tier-upgrades-builder-ids)
-- [Amazon RDS for DB2 now supports cross region standby replicas](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-db2-cross-region-standby-replicas)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

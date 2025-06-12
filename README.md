@@ -62,12 +62,12 @@
 - [AWS WAF now supports automatic application layer distributed denial of service &lpar;DDoS&rpar; protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-automatic-application-layer-ddos-protection)
 - [Amazon Nova Sonic adds support for Spanish language](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-nova-sonic-spanish-language)
 - [AWS Marketplace now supports Private Marketplace management in the console](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-marketplace-private-marketplace-management-console/)
+- [Amazon Lex improves conversational accuracy with LLM-Assisted NLU](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-conversational-accuracy-llm-assisted-nlu/)
 - [AWS Control Tower now supports service-linked AWS Config managed Config rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-service-linked-aws-config-managed-rules)
 - [AWS CloudTrail enhances logging for Amazon S3 DeleteObjects API](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-cloudtrail-logging-amazon-s3-deleteobjects-api)
 - [Amazon Bedrock Custom Model Import now supports Qwen models](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-custom-model-import-qwen-models)
 - [Amazon Q Developer introduces Pro Tier upgrades for Builder IDs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-pro-tier-upgrades-builder-ids)
 - [Amazon RDS for DB2 now supports cross region standby replicas](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-db2-cross-region-standby-replicas)
-- [Extending the AWS Financing program for AWS Marketplace purchases for all US customers](https://aws.amazon.com/about-aws/whats-new/2025/06/extending-aws-financing-program-marketplace-purchases-us-customers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

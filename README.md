@@ -66,8 +66,8 @@
 - [Amazon Lex improves conversational accuracy with LLM-Assisted NLU](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-lex-conversational-accuracy-llm-assisted-nlu/)
 - [Amazon Verified Permissions reduces authorization request price by up to 97%](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-verified-permissions-reduces-price/)
 - [Amazon EC2 I8g instances now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i8g-instances-europe-ireland-region/)
-- [AWS Control Tower now supports service-linked AWS Config managed Config rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-service-linked-aws-config-managed-rules)
 - [Amazon ECS adds support for updating capacity provider configuration for ECS services](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecs-capacity-provider-configuration-ecs/)
+- [AWS Control Tower now supports service-linked AWS Config managed Config rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-service-linked-aws-config-managed-rules)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

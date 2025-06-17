@@ -62,11 +62,11 @@
 - [AWS Backup launches Multi-party approval support for logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/)
 - [AWS WAF reduces web application security configuration steps and provides expert-level protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection)
 - [Amazon Inspector launches code security to shift security left in development](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development)
+- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
 - [Amazon EC2 M7i-flex 12xlarge and 16xlarge instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-12xlarge-16xlarge-instances-london/)
 - [Amazon ECR enhanced scanning now surfaces image use status](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecr-scanning-surfaces-image-status/)
 - [AWS Backup Audit Manager is now available in six additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-audit-manager-six-additional-regions/)
-- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
-- [AWS Shield introduces network security director &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-shield-network-security-director-preview)
+- [AWS Marketplace now provides an enhanced selling authorization experience for Independent Software Vendors](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-marketplace-selling-authorization-experience-vendors/)
 - [Introducing AWS Security Hub for risk prioritization and response at scale &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-security-hub-risk-prioritization-response-scale/)
 <!-- AWS-NEWS:END -->
 

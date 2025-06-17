@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [One Year EC2 Instance Savings Plans are now available for P5 and P5en instances](https://aws.amazon.com/about-aws/whats-new/2025/06/one-year-ec2-instance-savings-plans-p5-p5en-instances)
 - [Amazon EC2 M8g instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m8g-instances-aws-south-america-sao-paulo)
 - [AWS Backup launches Multi-party approval support for logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/)
 - [AWS WAF reduces web application security configuration steps and provides expert-level protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection)
 - [Amazon Inspector launches code security to shift security left in development](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development)
 - [Amazon MSK expands Express Brokers to Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-msk-express-brokers-mexico-thailand-regions/)
+- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
 - [Amazon EC2 M7i-flex 12xlarge and 16xlarge instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-12xlarge-16xlarge-instances-london/)
 - [Amazon ECR enhanced scanning now surfaces image use status](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecr-scanning-surfaces-image-status/)
 - [AWS Backup Audit Manager is now available in six additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-audit-manager-six-additional-regions/)
-- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
-- [AWS Marketplace now provides an enhanced selling authorization experience for Independent Software Vendors](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-marketplace-selling-authorization-experience-vendors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF reduces web application security configuration steps and provides expert-level protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection)
+- [AWS IAM now enforces MFA for root users across all account types](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-iam-mfa-root-users-across-all-account-types/)
+- [IAM Access Analyzer now identifies who in your AWS organization can access your AWS resources](https://aws.amazon.com/about-aws/whats-new/2025/06/iam-access-analyzer-aws-organization-access-resources/)
+- [AWS Certificate Manager introduces public certificates you can use anywhere](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-certificate-manager-public-certificates-use-anywhere/)
+- [Amazon CloudFront streamlines CDN setup with smart defaults and automation](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudfront-streamlines-cdn-setup-smart-defaults-automation)
 - [AWS Compute Optimizer now identifies idle EC2 Auto Scaling groups with GPU instances](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-idle-ec2-auto-scaling-groups/)
-- [AWS Network Firewall now supports AWS Transit Gateway native integration](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-transit-gateway-native-integration/)
 - [Amazon S3 extends additional context for HTTP 403 Access Denied error messages to AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-context-http-403-access-denied-error-message-aws-organizations)
 - [Amazon RDS for MySQL announces Innovation Release 9.3 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-mysql-innovation-release-9-3-preview/)
+- [AWS Network Firewall now supports AWS Transit Gateway native integration](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-transit-gateway-native-integration/)
 - [AWS announces open-source AWS API Models](https://aws.amazon.com/about-aws/whats-new/2025/06/open-source-aws-api-models)
-- [AWS Control Tower now supports seven new compliance frameworks](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-new-compliance-frameworks)
-- [AWS KMS adds support for post-quantum ML-DSA digital signatures](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-post-quantum-ml-dsa-digital-signatures/)
-- [Amazon Connect enhances communication limits for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-communication-limits-outbound-campaigns)
-- [Amazon VPC IP Address Manager is now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-ip-address-manager-asia-pacific-taipei-region)
-- [Extend Amazon Q Developer IDE plugins with MCP tools](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-ide-plugins-mcp-tools/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

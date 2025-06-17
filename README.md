@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
+- [AWS Backup launches Multi-party approval support for logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/)
 - [AWS WAF reduces web application security configuration steps and provides expert-level protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection)
 - [AWS IAM now enforces MFA for root users across all account types](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-iam-mfa-root-users-across-all-account-types/)
 - [IAM Access Analyzer now identifies who in your AWS organization can access your AWS resources](https://aws.amazon.com/about-aws/whats-new/2025/06/iam-access-analyzer-aws-organization-access-resources/)
 - [AWS Certificate Manager introduces public certificates you can use anywhere](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-certificate-manager-public-certificates-use-anywhere/)
 - [Amazon CloudFront streamlines CDN setup with smart defaults and automation](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudfront-streamlines-cdn-setup-smart-defaults-automation)
-- [AWS Compute Optimizer now identifies idle EC2 Auto Scaling groups with GPU instances](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-idle-ec2-auto-scaling-groups/)
-- [Amazon S3 extends additional context for HTTP 403 Access Denied error messages to AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-context-http-403-access-denied-error-message-aws-organizations)
-- [Amazon RDS for MySQL announces Innovation Release 9.3 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-mysql-innovation-release-9-3-preview/)
-- [AWS Network Firewall now supports AWS Transit Gateway native integration](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-transit-gateway-native-integration/)
-- [AWS announces open-source AWS API Models](https://aws.amazon.com/about-aws/whats-new/2025/06/open-source-aws-api-models)
+- [AWS Network Firewall launches support for active threat defense](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-active-threat-defense)
+- [Introducing the reimagined AWS MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2025/06/reimagined-aws-mssp-competency)
+- [AWS Shield introduces network security director &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-shield-network-security-director-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

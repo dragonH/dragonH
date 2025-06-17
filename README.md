@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M8g instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m8g-instances-aws-south-america-sao-paulo)
 - [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
+- [Amazon EC2 M7i-flex 12xlarge and 16xlarge instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-12xlarge-16xlarge-instances-london/)
+- [Amazon ECR enhanced scanning now surfaces image use status](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecr-scanning-surfaces-image-status/)
 - [AWS Backup launches Multi-party approval support for logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/)
 - [AWS WAF reduces web application security configuration steps and provides expert-level protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection)
+- [Amazon Inspector launches code security to shift security left in development](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development)
 - [AWS IAM now enforces MFA for root users across all account types](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-iam-mfa-root-users-across-all-account-types/)
 - [IAM Access Analyzer now identifies who in your AWS organization can access your AWS resources](https://aws.amazon.com/about-aws/whats-new/2025/06/iam-access-analyzer-aws-organization-access-resources/)
 - [AWS Certificate Manager introduces public certificates you can use anywhere](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-certificate-manager-public-certificates-use-anywhere/)
-- [Amazon CloudFront streamlines CDN setup with smart defaults and automation](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cloudfront-streamlines-cdn-setup-smart-defaults-automation)
-- [AWS Network Firewall launches support for active threat defense](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-active-threat-defense)
-- [Introducing the reimagined AWS MSSP Competency](https://aws.amazon.com/about-aws/whats-new/2025/06/reimagined-aws-mssp-competency)
-- [AWS Shield introduces network security director &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-shield-network-security-director-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,9 +59,9 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Compute Optimizer now identifies idle EC2 Auto Scaling groups with GPU instances](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-compute-optimizer-idle-ec2-auto-scaling-groups/)
+- [AWS Network Firewall now supports AWS Transit Gateway native integration](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-transit-gateway-native-integration/)
 - [Amazon S3 extends additional context for HTTP 403 Access Denied error messages to AWS Organizations](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-context-http-403-access-denied-error-message-aws-organizations)
 - [Amazon RDS for MySQL announces Innovation Release 9.3 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-mysql-innovation-release-9-3-preview/)
-- [AWS Network Firewall now supports AWS Transit Gateway native integration](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-network-firewall-transit-gateway-native-integration/)
 - [AWS announces open-source AWS API Models](https://aws.amazon.com/about-aws/whats-new/2025/06/open-source-aws-api-models)
 - [AWS Control Tower now supports seven new compliance frameworks](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-control-tower-new-compliance-frameworks)
 - [AWS KMS adds support for post-quantum ML-DSA digital signatures](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-kms-post-quantum-ml-dsa-digital-signatures/)

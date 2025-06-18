@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Valkey introduces GLIDE 2.0 with support for Go, OpenTelemetry, and pipeline batching](https://aws.amazon.com/about-aws/whats-new/2025/06/valkey-glide-2-0-go-opentelemetry-pipeline-batching/)
+- [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7gd-instances-aws-regions/)
 - [One Year EC2 Instance Savings Plans are now available for P5 and P5en instances](https://aws.amazon.com/about-aws/whats-new/2025/06/one-year-ec2-instance-savings-plans-p5-p5en-instances)
 - [Amazon EC2 M8g instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m8g-instances-aws-south-america-sao-paulo)
 - [AWS Backup launches Multi-party approval support for logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker AI now supports M7i, C7i, and R7i for SageMaker Model Training and SageMaker Processing](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-m7i-c7i-r7i-model-training-processing/)
 - [Amazon MSK expands Express Brokers to Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-msk-express-brokers-mexico-thailand-regions/)
 - [Amazon EC2 M7i-flex 12xlarge and 16xlarge instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-12xlarge-16xlarge-instances-london/)
-- [Amazon ECR enhanced scanning now surfaces image use status](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecr-scanning-surfaces-image-status/)
-- [AWS Backup Audit Manager is now available in six additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-audit-manager-six-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

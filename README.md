@@ -65,9 +65,9 @@
 - [Amazon Inspector launches code security to shift security left in development](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development)
 - [Amazon MSK expands Express Brokers to Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-msk-express-brokers-mexico-thailand-regions/)
 - [Amazon SageMaker AI now supports M7i, C7i, and R7i for SageMaker Model Training and SageMaker Processing](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-m7i-c7i-r7i-model-training-processing/)
+- [Express.js developers can now add authorization in minutes with Amazon Verified Permissions](https://aws.amazon.com/about-aws/whats-new/2025/06/express-js-developers-authorization-amazon-verified-permissions/)
 - [Amazon EC2 M7i-flex 12xlarge and 16xlarge instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-12xlarge-16xlarge-instances-london/)
 - [Amazon ECR enhanced scanning now surfaces image use status](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecr-scanning-surfaces-image-status/)
-- [AWS Backup Audit Manager is now available in six additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-audit-manager-six-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

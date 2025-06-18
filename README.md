@@ -61,13 +61,13 @@
 - [Amazon EC2 Auto Scaling offers the ability to filter out instance details from the DescribeAutoScalingGroups API](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-auto-scaling-filter-instance-details-describeautoscalinggroups-api)
 - [AWS Parallel Computing Service &lpar;PCS&rpar; is now available in the AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-parallel-computing-service-govcloud-regions)
 - [AWS Payment Cryptography is now available in AWS Asia Pacific &lpar;Mumbai&rpar; and Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-payment-cryptography-aws-asia-pacific-mumbai-osaka)
-- [Valkey introduces GLIDE 2.0 with support for Go, OpenTelemetry, and pipeline batching](https://aws.amazon.com/about-aws/whats-new/2025/06/valkey-glide-2-0-go-opentelemetry-pipeline-batching/)
 - [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7gd-instances-aws-regions/)
 - [Amazon S3 Express One Zone now supports atomic renaming of objects with a single API call](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-express-one-zone-atomic-renaming-objects-api/)
+- [Valkey introduces GLIDE 2.0 with support for Go, OpenTelemetry, and pipeline batching](https://aws.amazon.com/about-aws/whats-new/2025/06/valkey-glide-2-0-go-opentelemetry-pipeline-batching/)
 - [One Year EC2 Instance Savings Plans are now available for P5 and P5en instances](https://aws.amazon.com/about-aws/whats-new/2025/06/one-year-ec2-instance-savings-plans-p5-p5en-instances)
 - [Amazon EC2 M8g instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m8g-instances-aws-south-america-sao-paulo)
 - [AWS Backup launches Multi-party approval support for logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-multi-party-approval-logically-air-gapped-vaults/)
-- [AWS WAF reduces web application security configuration steps and provides expert-level protection](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-web-application-security-configuration-steps-expert-level-protection)
+- [Amazon Inspector launches code security to shift security left in development](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

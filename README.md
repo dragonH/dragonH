@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Payment Cryptography is now available in AWS Asia Pacific &lpar;Mumbai&rpar; and Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-payment-cryptography-aws-asia-pacific-mumbai-osaka)
 - [Valkey introduces GLIDE 2.0 with support for Go, OpenTelemetry, and pipeline batching](https://aws.amazon.com/about-aws/whats-new/2025/06/valkey-glide-2-0-go-opentelemetry-pipeline-batching/)
 - [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7gd-instances-aws-regions/)
 - [One Year EC2 Instance Savings Plans are now available for P5 and P5en instances](https://aws.amazon.com/about-aws/whats-new/2025/06/one-year-ec2-instance-savings-plans-p5-p5en-instances)
@@ -67,7 +68,6 @@
 - [Amazon Inspector launches code security to shift security left in development](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-inspector-code-security-shift-security-development)
 - [Amazon SageMaker AI now supports M7i, C7i, and R7i for SageMaker Model Training and SageMaker Processing](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-ai-m7i-c7i-r7i-model-training-processing/)
 - [Amazon MSK expands Express Brokers to Mexico &lpar;Central&rpar; and Asia Pacific &lpar;Thailand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-msk-express-brokers-mexico-thailand-regions/)
-- [Amazon EC2 M7i-flex 12xlarge and 16xlarge instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-12xlarge-16xlarge-instances-london/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

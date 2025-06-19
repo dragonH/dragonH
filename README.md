@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec-c8g-instances-additional-regions)
 - [Introducing the updated AWS Government Competency](https://aws.amazon.com/about-aws/whats-new/2025/06/updated-aws-government-competency)
+- [AWS expands resource control policies &lpar;RCPs&rpar; support to two additional services](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-control-policies-additional-services)
 - [Amazon EC2 I7ie instances now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-europe-spain-region/)
 - [Amazon EC2 Auto Scaling offers the ability to filter out instance details from the DescribeAutoScalingGroups API](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-auto-scaling-filter-instance-details-describeautoscalinggroups-api)
 - [AWS Parallel Computing Service &lpar;PCS&rpar; is now available in the AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-parallel-computing-service-govcloud-regions)
@@ -66,8 +68,6 @@
 - [Amazon S3 Express One Zone now supports atomic renaming of objects with a single API call](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-express-one-zone-atomic-renaming-objects-api/)
 - [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7gd-instances-aws-regions/)
 - [Valkey introduces GLIDE 2.0 with support for Go, OpenTelemetry, and pipeline batching](https://aws.amazon.com/about-aws/whats-new/2025/06/valkey-glide-2-0-go-opentelemetry-pipeline-batching/)
-- [One Year EC2 Instance Savings Plans are now available for P5 and P5en instances](https://aws.amazon.com/about-aws/whats-new/2025/06/one-year-ec2-instance-savings-plans-p5-p5en-instances)
-- [Amazon EC2 M8g instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m8g-instances-aws-south-america-sao-paulo)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

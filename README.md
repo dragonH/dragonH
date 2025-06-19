@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon U7i instances now available in the AWS US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-u7i-instances-aws-us-west-oregon-region)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec-c8g-instances-additional-regions)
 - [Introducing the updated AWS Government Competency](https://aws.amazon.com/about-aws/whats-new/2025/06/updated-aws-government-competency)
 - [AWS expands resource control policies &lpar;RCPs&rpar; support to two additional services](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-control-policies-additional-services)
@@ -66,7 +67,6 @@
 - [Amazon EC2 Auto Scaling offers the ability to filter out instance details from the DescribeAutoScalingGroups API](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-auto-scaling-filter-instance-details-describeautoscalinggroups-api)
 - [AWS Parallel Computing Service &lpar;PCS&rpar; is now available in the AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-parallel-computing-service-govcloud-regions)
 - [AWS Payment Cryptography is now available in AWS Asia Pacific &lpar;Mumbai&rpar; and Asia Pacific &lpar;Osaka&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-payment-cryptography-aws-asia-pacific-mumbai-osaka)
-- [Valkey introduces GLIDE 2.0 with support for Go, OpenTelemetry, and pipeline batching](https://aws.amazon.com/about-aws/whats-new/2025/06/valkey-glide-2-0-go-opentelemetry-pipeline-batching/)
 - [Amazon S3 Express One Zone now supports atomic renaming of objects with a single API call](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-express-one-zone-atomic-renaming-objects-api/)
 <!-- AWS-NEWS:END -->
 

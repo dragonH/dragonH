@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7i-flex and C7i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-flex-c7i-instances-additional-regions)
 - [Amazon EC2 M7i-flex and M7i instances are now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-m7i-instances-asia-pacific-hong-kong)
 - [Amazon IVS Real-Time Streaming now supports E-RTMP multitrack video ingest](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ivs-e-rtmp-multitrack-video-ingest/)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in London](https://aws.amazon.com/about-aws/whats-new/2025/06/anthropics-claude-3-7-sonnet-amazon-bedrock-london)
 - [AWS Lambda announces native support for Avro and Protobuf formatted Kafka events](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-lambda-native-support-avro-protobuf-kafka-events/)
+- [AWS License Manager now supports license type conversions for AWS Marketplace products](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-license-manager-conversions-marketplace-products/)
 - [Amazon U7i instances now available in the AWS US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-u7i-instances-aws-us-west-oregon-region)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec-c8g-instances-additional-regions)
 - [Introducing the updated AWS Government Competency](https://aws.amazon.com/about-aws/whats-new/2025/06/updated-aws-government-competency)
 - [AWS expands resource control policies &lpar;RCPs&rpar; support to two additional services](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-resource-control-policies-additional-services)
-- [Announcing Job Completion Metadata Logging for AWS Parallel Computing Service &lpar;PCS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/job-completion-metadata-logging-aws-pcs/)
-- [Amazon EC2 I7ie instances now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-europe-spain-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

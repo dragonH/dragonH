@@ -58,9 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS AppSync is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-additional-regions)
 - [Amazon Neptune Analytics now Integrates with GraphStorm for Scalable Graph Machine Learning](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-neptune-analytics-integrates-graphstorm/)
 - [AWS End User Messaging now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-end-user-messaging-service-quotas/)
+- [AWS AppSync is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-additional-regions)
 - [AWS Step Functions TestState now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-step-functions-teststate-govcloud-regions)
 - [Amazon EC2 R7g instances are now available in AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-r7g-instances-aws-asia-pacific-melbourne-region)
 - [Amazon RDS for Oracle now offers Reserved Instances for R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-oracle-reserved-instances-r7i-m7i-instances)

@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS AppSync is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-additional-regions)
+- [Amazon Neptune Analytics now Integrates with GraphStorm for Scalable Graph Machine Learning](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-neptune-analytics-integrates-graphstorm/)
+- [AWS End User Messaging now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-end-user-messaging-service-quotas/)
 - [AWS Step Functions TestState now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-step-functions-teststate-govcloud-regions)
 - [Amazon EC2 R7g instances are now available in AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-r7g-instances-aws-asia-pacific-melbourne-region)
 - [Amazon RDS for Oracle now offers Reserved Instances for R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-oracle-reserved-instances-r7i-m7i-instances)
@@ -66,8 +68,6 @@
 - [Amazon EC2 M7i-flex and M7i instances are now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-m7i-instances-asia-pacific-hong-kong)
 - [AWS Lambda announces native support for Avro and Protobuf formatted Kafka events](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-lambda-native-support-avro-protobuf-kafka-events/)
 - [AWS License Manager now supports license type conversions for AWS Marketplace products](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-license-manager-conversions-marketplace-products/)
-- [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in London](https://aws.amazon.com/about-aws/whats-new/2025/06/anthropics-claude-3-7-sonnet-amazon-bedrock-london)
-- [Amazon IVS Real-Time Streaming now supports E-RTMP multitrack video ingest](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ivs-e-rtmp-multitrack-video-ingest/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

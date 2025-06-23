@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppSync is now available in 3 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-appsync-additional-regions)
 - [AWS Step Functions TestState now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-step-functions-teststate-govcloud-regions)
 - [Amazon EC2 R7g instances are now available in AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-r7g-instances-aws-asia-pacific-melbourne-region)
 - [Amazon RDS for Oracle now offers Reserved Instances for R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-oracle-reserved-instances-r7i-m7i-instances)
@@ -67,7 +68,6 @@
 - [AWS License Manager now supports license type conversions for AWS Marketplace products](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-license-manager-conversions-marketplace-products/)
 - [Anthropic&#39;s Claude 3.7 Sonnet is now available on Amazon Bedrock in London](https://aws.amazon.com/about-aws/whats-new/2025/06/anthropics-claude-3-7-sonnet-amazon-bedrock-london)
 - [Amazon IVS Real-Time Streaming now supports E-RTMP multitrack video ingest](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ivs-e-rtmp-multitrack-video-ingest/)
-- [Amazon U7i instances now available in the AWS US West &lpar;Oregon&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-u7i-instances-aws-us-west-oregon-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

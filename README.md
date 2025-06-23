@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC raises default Route Table capacity](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-raises-default-route-table-capacity)
 - [Amazon Time Sync Service now supports Nanosecond Hardware Packet Timestamps](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-time-sync-nanosecond-hardware-packet-timestamps/)
 - [Amazon Neptune Analytics now Integrates with GraphStorm for Scalable Graph Machine Learning](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-neptune-analytics-integrates-graphstorm/)
 - [AWS End User Messaging now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-end-user-messaging-service-quotas/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 R7g instances are now available in AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-r7g-instances-aws-asia-pacific-melbourne-region)
 - [Amazon RDS for Oracle now offers Reserved Instances for R7i and M7i instances](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-rds-oracle-reserved-instances-r7i-m7i-instances)
 - [Amazon EC2 C7i-flex and C7i instances are now available in 2 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-flex-c7i-instances-additional-regions)
-- [Amazon EC2 M7i-flex and M7i instances are now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-m7i-flex-m7i-instances-asia-pacific-hong-kong)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

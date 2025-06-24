@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Servers now available in Asia Pacific &lpar;Thailand&rpar; and Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-gamelift-servers-asia-pacific-thailand-malaysia)
+- [Amazon Route 53 Resolver endpoints now support DNS delegation for private hosted zones](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-route-53-resolver-endpoints-dns-delegation-private-hosted-zones)
+- [Amazon EMR on EKS now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-emr-eks-service-quotas)
 - [Now in GA: Accelerate troubleshooting with Amazon CloudWatch investigations](https://aws.amazon.com/about-aws/whats-new/2025/06/ga-accelerate-troubleshooting-amazon-cloudwatch-investigations)
 - [Announcing Intelligent Search for re:Post and re:Post Private](https://aws.amazon.com/about-aws/whats-new/2025/06/intelligent-search-re-post-private)
-- [Amazon Bedrock Guardrails announces tiers for content filters and denied topics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics)
+- [Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/)
 - [Customer Carbon Footprint Tool now includes location-based emissions](https://aws.amazon.com/about-aws/whats-new/2025/06/customer-carbon-footprint-tool-location-based-emissions/)
 - [Amazon S3 now supports sort and z-order compaction for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-sort-z-order-compaction-apache-iceberg-tables/)
-- [Announcing Amazon WorkSpaces Core Managed Instances to simplify VDI migrations](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-workspaces-core-managed-instances-vdi-migrations)
-- [Amazon OpenSearch Serverless now supports Point in Time &lpar;PIT&rpar; and SQL search in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-opensearch-serverless-pit-sql-search-aws-govcloud-us-regions)
-- [Amazon VPC raises default Route Table capacity](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-vpc-raises-default-route-table-capacity)
-- [Amazon Neptune Analytics now Integrates with GraphStorm for Scalable Graph Machine Learning](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-neptune-analytics-integrates-graphstorm/)
-- [AWS End User Messaging now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-end-user-messaging-service-quotas/)
+- [Amazon Bedrock Guardrails announces tiers for content filters and denied topics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics)
+- [Amazon GameLift Servers launches UDP ping beacons](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-gamelift-servers-udp-ping-beacons/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

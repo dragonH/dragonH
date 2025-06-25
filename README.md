@@ -64,9 +64,9 @@
 - [Now in GA: Accelerate troubleshooting with Amazon CloudWatch investigations](https://aws.amazon.com/about-aws/whats-new/2025/06/ga-accelerate-troubleshooting-amazon-cloudwatch-investigations)
 - [Announcing Intelligent Search for re:Post and re:Post Private](https://aws.amazon.com/about-aws/whats-new/2025/06/intelligent-search-re-post-private)
 - [Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/)
-- [Customer Carbon Footprint Tool now includes location-based emissions](https://aws.amazon.com/about-aws/whats-new/2025/06/customer-carbon-footprint-tool-location-based-emissions/)
-- [Amazon S3 now supports sort and z-order compaction for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-sort-z-order-compaction-apache-iceberg-tables/)
 - [Amazon Bedrock Guardrails announces tiers for content filters and denied topics](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-guardrails-tiers-content-filters-denied-topics)
+- [Amazon S3 now supports sort and z-order compaction for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-sort-z-order-compaction-apache-iceberg-tables/)
+- [Customer Carbon Footprint Tool now includes location-based emissions](https://aws.amazon.com/about-aws/whats-new/2025/06/customer-carbon-footprint-tool-location-based-emissions/)
 - [Amazon GameLift Servers launches UDP ping beacons](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-gamelift-servers-udp-ping-beacons/)
 <!-- AWS-NEWS:END -->
 

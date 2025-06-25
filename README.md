@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports automatic synchronization from Git to S3](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-automatic-synchronization-git-s3)
+- [Amazon FSx for OpenZFS now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access)
 - [Amazon Bedrock Flows announces preview of persistent long-running execution and inline-code support](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-flows-preview-persistent-long-running-execution-inline-code-support)
 - [AWS Glue enables enhanced Apache Spark capabilities for AWS Lake Formation tables with full table access](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-apache-spark-capabilities-lake-formation-tables)
 - [Amazon GameLift Servers now available in Asia Pacific &lpar;Thailand&rpar; and Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-gamelift-servers-asia-pacific-thailand-malaysia)
@@ -66,8 +68,6 @@
 - [Now in GA: Accelerate troubleshooting with Amazon CloudWatch investigations](https://aws.amazon.com/about-aws/whats-new/2025/06/ga-accelerate-troubleshooting-amazon-cloudwatch-investigations)
 - [Announcing Intelligent Search for re:Post and re:Post Private](https://aws.amazon.com/about-aws/whats-new/2025/06/intelligent-search-re-post-private)
 - [Amazon SageMaker HyperPod announces P6-B200 instances powered by NVIDIA B200 GPUs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-hyperpod-p6-b200-nvidia-b200-gpus/)
-- [Customer Carbon Footprint Tool now includes location-based emissions](https://aws.amazon.com/about-aws/whats-new/2025/06/customer-carbon-footprint-tool-location-based-emissions/)
-- [Amazon S3 now supports sort and z-order compaction for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-sort-z-order-compaction-apache-iceberg-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

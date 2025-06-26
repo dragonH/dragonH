@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EventBridge now supports AWS CodeBuild batch builds as a target](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eventbridge-codebuild-batch-builds-target/)
 - [AWS Directory Service for Microsoft AD and AD Connector available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-directory-service-microsoft-ad-ad-connector-taipei-region)
 - [Amazon SageMaker contributes a custom transport to OpenLineage community and offers additional lineage capabilities](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-custom-transport-openlineage-community-lineage-capabilities)
-- [Amazon FSx for OpenZFS now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access)
+- [AWS Security Incident Response adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-security-incident-response-integration-eventbridge/)
+- [Amazon Connect Outbound Campaigns is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-outbound-campaigns-three-regions)
 - [Amazon SageMaker now supports automatic synchronization from Git to S3](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-automatic-synchronization-git-s3)
+- [Amazon FSx for OpenZFS now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-fsx-openzfs-amazon-s3-access)
 - [Amazon Bedrock Flows announces preview of persistent long-running execution and inline-code support](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-bedrock-flows-preview-persistent-long-running-execution-inline-code-support)
-- [AWS Glue enables enhanced Apache Spark capabilities for AWS Lake Formation tables with full table access](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-glue-apache-spark-capabilities-lake-formation-tables)
 - [Amazon EC2 C7g instances are now available in the AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7g-instances-israel-tel-aviv-region/)
 - [Amazon S3 Tables are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-s3-tables-two-additional-aws-regions/)
-- [Amazon GameLift Servers now available in Asia Pacific &lpar;Thailand&rpar; and Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-gamelift-servers-asia-pacific-thailand-malaysia)
-- [Amazon Route 53 Resolver endpoints now support DNS delegation for private hosted zones](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-route-53-resolver-endpoints-dns-delegation-private-hosted-zones)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

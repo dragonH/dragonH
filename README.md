@@ -64,9 +64,9 @@
 - [AWS Backup now supports copying Amazon S3 backups across Regions and accounts in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-copying-amazon-s3-backups-regions-accounts-aws-govcloud-us-regions)
 - [Amazon WorkSpaces Personal now supports PrivateLink for streaming traffic](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-workspaces-personal-privatelink-streaming-traffic)
 - [AWS announces 100G expansion in Jakarta, Indonesia](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-100G-expansion-jakarta-indonesia)
-- [Amazon EventBridge now supports AWS CodeBuild batch builds as a target](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eventbridge-codebuild-batch-builds-target/)
 - [AWS Directory Service for Microsoft AD and AD Connector available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-directory-service-microsoft-ad-ad-connector-taipei-region)
 - [Amazon SageMaker contributes a custom transport to OpenLineage community and offers additional lineage capabilities](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-sagemaker-custom-transport-openlineage-community-lineage-capabilities)
+- [Amazon EventBridge now supports AWS CodeBuild batch builds as a target](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eventbridge-codebuild-batch-builds-target/)
 - [AWS Security Incident Response adds integration with Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-security-incident-response-integration-eventbridge/)
 <!-- AWS-NEWS:END -->
 

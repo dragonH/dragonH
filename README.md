@@ -61,13 +61,13 @@
 - [Research and Engineering Studio on AWS Version 2025.06 now available](https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available)
 - [AWS Firewall Manager provides support for AWS WAF L7 DDOS managed rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-firewall-manager-aws-waf-l7-ddos-managed-rules)
 - [Amazon EC2 I7ie instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions)
+- [Amazon EC2 C7i instances are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-instances-middle-east-uae-region/)
 - [AWS WAF announces general availability of Resource-level DDoS protection for Application Load Balancers &lpar;ALB&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-general-availability-resource-level-ddos-protection-alb)
 - [AWS Elastic Beanstalk is now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-elastic-beanstalk-middle-east-uae-region)
 - [Amazon Cognito introduces AWS WAF support for Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cognito-aws-waf-managed-login)
 - [AWS Backup now supports copying Amazon S3 backups across Regions and accounts in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-backup-copying-amazon-s3-backups-regions-accounts-aws-govcloud-us-regions)
 - [Amazon WorkSpaces Personal now supports PrivateLink for streaming traffic](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-workspaces-personal-privatelink-streaming-traffic)
 - [AWS announces 100G expansion in Jakarta, Indonesia](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-100G-expansion-jakarta-indonesia)
-- [Amazon EventBridge now supports AWS CodeBuild batch builds as a target](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-eventbridge-codebuild-batch-builds-target/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

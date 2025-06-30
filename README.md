@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ElastiCache now supports AWS PrivateLink in eight additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elasticache-aws-privatelink-additional-regions)
+- [Now generally available: Amazon EC2 C8gn instance](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance)
+- [Finch expands support to Ubuntu, streamlining container development across platforms](https://aws.amazon.com/about-aws/whats-new/2025/06/finch-ubuntu-streamlining-container-development-across-platforms)
+- [AWS Config rules add classifications from AWS Control Tower Control Catalog](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-config-rules-classifications-control-tower-control-catalog)
 - [Amazon Textract announces accuracy and feature updates to DetectDocumentText and AnalyzeDocument APIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-textract-detectdocumenttext-analyzedocument-apis)
 - [Amazon Simple Email Service is now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-simple-email-service-new-aws-regions)
 - [Amazon Connect can now include agent activities from third-party applications when evaluating agent performance](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-agent-activities-third-party-applications/)
-- [Amazon Athena is now available in Asia Pacific &lpar;Taipei&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-athena-asia-pacific-taipei/)
-- [Amazon ECS includes Task ID in unhealthy service events](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecs-task-id-unhealthy-service-events/)
 - [Announcing Amazon EBS gp3 volumes for second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ebs-gp3-volumes-second-generation-outposts-racks/)
-- [ARC zonal autoshift practice now supports on-demand runs and balanced capacity pre-checks](https://aws.amazon.com/about-aws/whats-new/2025/06/arc-zonal-autoshift-practice-on-demand-runs-balanced-capacity-pre-checks)
-- [Amazon Q Developer Java upgrade transformation CLI is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-upgrade-transformation-cli-generally-available)
-- [Research and Engineering Studio on AWS Version 2025.06 now available](https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available)
-- [AWS Firewall Manager provides support for AWS WAF L7 DDOS managed rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-firewall-manager-aws-waf-l7-ddos-managed-rules)
+- [Amazon ECS includes Task ID in unhealthy service events](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecs-task-id-unhealthy-service-events/)
+- [Amazon Athena is now available in Asia Pacific &lpar;Taipei&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-athena-asia-pacific-taipei/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

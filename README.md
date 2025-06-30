@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Textract announces accuracy and feature updates to DetectDocumentText and AnalyzeDocument APIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-textract-detectdocumenttext-analyzedocument-apis)
 - [Amazon Simple Email Service is now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-simple-email-service-new-aws-regions)
+- [Amazon Connect can now include agent activities from third-party applications when evaluating agent performance](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-agent-activities-third-party-applications/)
 - [ARC zonal autoshift practice now supports on-demand runs and balanced capacity pre-checks](https://aws.amazon.com/about-aws/whats-new/2025/06/arc-zonal-autoshift-practice-on-demand-runs-balanced-capacity-pre-checks)
 - [Amazon Q Developer Java upgrade transformation CLI is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-upgrade-transformation-cli-generally-available)
 - [Research and Engineering Studio on AWS Version 2025.06 now available](https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available)
@@ -66,8 +68,6 @@
 - [Amazon Route 53 launches capacity utilization metric for Resolver endpoints](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-route-53-capacity-metric-resolver-endpoints/)
 - [Amazon EC2 I7ie instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-i7ie-instances-additional-aws-regions)
 - [Amazon EC2 C7i instances are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-instances-middle-east-uae-region/)
-- [AWS HealthOmics announces automatic input parameter interpolation for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthomics-automatic-input-parameter-interpolation/)
-- [AWS WAF announces general availability of Resource-level DDoS protection for Application Load Balancers &lpar;ALB&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-general-availability-resource-level-ddos-protection-alb)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

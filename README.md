@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Simple Email Service is now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-simple-email-service-new-aws-regions)
+- [ARC zonal autoshift practice now supports on-demand runs and balanced capacity pre-checks](https://aws.amazon.com/about-aws/whats-new/2025/06/arc-zonal-autoshift-practice-on-demand-runs-balanced-capacity-pre-checks)
 - [Amazon Q Developer Java upgrade transformation CLI is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-q-developer-java-upgrade-transformation-cli-generally-available)
 - [Research and Engineering Studio on AWS Version 2025.06 now available](https://aws.amazon.com/about-aws/whats-new/2025/06/research-engineering-studio-aws-version-2025-06-now-available)
 - [AWS Firewall Manager provides support for AWS WAF L7 DDOS managed rules](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-firewall-manager-aws-waf-l7-ddos-managed-rules)
@@ -66,8 +68,6 @@
 - [Amazon EC2 C7i instances are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c7i-instances-middle-east-uae-region/)
 - [AWS HealthOmics announces automatic input parameter interpolation for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-healthomics-automatic-input-parameter-interpolation/)
 - [AWS WAF announces general availability of Resource-level DDoS protection for Application Load Balancers &lpar;ALB&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-waf-general-availability-resource-level-ddos-protection-alb)
-- [AWS Elastic Beanstalk is now available in Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-elastic-beanstalk-middle-east-uae-region)
-- [Amazon Cognito introduces AWS WAF support for Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-cognito-aws-waf-managed-login)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

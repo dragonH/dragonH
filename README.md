@@ -67,7 +67,7 @@
 - [AWS Config rules add classifications from AWS Control Tower Control Catalog](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-config-rules-classifications-control-tower-control-catalog)
 - [Amazon Textract announces accuracy and feature updates to DetectDocumentText and AnalyzeDocument APIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-textract-detectdocumenttext-analyzedocument-apis)
 - [Amazon Simple Email Service is now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-simple-email-service-new-aws-regions)
-- [Amazon ECS includes Task ID in unhealthy service events](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ecs-task-id-unhealthy-service-events/)
+- [Amazon Connect can now include agent activities from third-party applications when evaluating agent performance](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-agent-activities-third-party-applications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

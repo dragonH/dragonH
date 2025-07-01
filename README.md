@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Citations API and PDF support for Claude models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/06/citations-api-pdf-claude-models-amazon-bedrock)
-- [AWS Transfer Family launches support for IPv6 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-transfer-family-ipv6-endpoints)
-- [Amazon DynamoDB global tables with multi-Region strong consistency is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-dynamo-db-global-tables-multi-region-strong-consistency-generally-available)
-- [Amazon ElastiCache now supports AWS PrivateLink in eight additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-elasticache-aws-privatelink-additional-regions)
-- [Now generally available: Amazon EC2 C8gn instance](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-ec2-c8gn-instance)
-- [Finch expands support to Ubuntu, streamlining container development across platforms](https://aws.amazon.com/about-aws/whats-new/2025/06/finch-ubuntu-streamlining-container-development-across-platforms)
-- [AWS Config rules add classifications from AWS Control Tower Control Catalog](https://aws.amazon.com/about-aws/whats-new/2025/06/aws-config-rules-classifications-control-tower-control-catalog)
-- [Amazon Textract announces accuracy and feature updates to DetectDocumentText and AnalyzeDocument APIs](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-textract-detectdocumenttext-analyzedocument-apis)
-- [Amazon Simple Email Service is now available in three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-simple-email-service-new-aws-regions)
-- [Amazon Connect can now include agent activities from third-party applications when evaluating agent performance](https://aws.amazon.com/about-aws/whats-new/2025/06/amazon-connect-agent-activities-third-party-applications/)
+- [Amazon Connect launches segment creation from imported files](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-segment-creation-imported-files/)
+- [Amazon Inspector now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-inspector-additional-aws-regions)
+- [Amazon QuickSight launches Trusted Identity Propagation &lpar;TIP&rpar; for Athena Direct Query](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-trusted-identity-propagation/)
+- [Amazon Connect now provides enhancements to audio treatment while customers wait in queue](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-enhancements-audio-treatment-customers-wait-queue)
+- [Amazon Connect forecasting, capacity planning, and scheduling is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-forecasting-capacity-planning-scheduling-aws-govcloud-us-west)
+- [Amazon Aurora now supports PostgreSQL 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-supports-postgresql-versions/)
+- [Amazon Connect Contact Lens is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-contact-lens-govcloud-us-west/)
+- [Amazon CloudFront announces support for HTTPS DNS records](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-https-dns-records)
+- [Amazon CloudWatch PutMetricData API now supports AWS CloudTrail data event logging](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-putmetricdata-api-aws-cloudtrail-data-event-logging)
+- [AWS Transform now analyzes EBS costs, .NET complexity and expands chat guidance](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-analyzes-ebs-costs-net-complexity-expands-chat-guidance)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS announces availability of ECS Optimized Windows Server 2025 AMIs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-availability-ecs-optimized-windows-server-2025-amis)
 - [Amazon Q in Connect now supports 7 languages for proactive recommendations](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-connect-languages-proactive-recommendations)
+- [AWS Transform now analyzes EBS costs, .NET complexity and expands chat guidance](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-analyzes-ebs-costs-net-complexity-expands-chat-guidance)
+- [Amazon Aurora now supports PostgreSQL 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-supports-postgresql-versions/)
+- [Amazon CloudWatch PutMetricData API now supports AWS CloudTrail data event logging](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-putmetricdata-api-aws-cloudtrail-data-event-logging)
+- [Amazon CloudFront announces support for HTTPS DNS records](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-https-dns-records)
+- [Amazon Connect Contact Lens is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-contact-lens-govcloud-us-west/)
 - [Amazon Connect launches segment creation from imported files](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-segment-creation-imported-files/)
 - [Amazon Inspector now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-inspector-additional-aws-regions)
 - [Amazon QuickSight launches Trusted Identity Propagation &lpar;TIP&rpar; for Athena Direct Query](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-trusted-identity-propagation/)
-- [Amazon Connect now provides enhancements to audio treatment while customers wait in queue](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-enhancements-audio-treatment-customers-wait-queue)
-- [Amazon Connect forecasting, capacity planning, and scheduling is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-forecasting-capacity-planning-scheduling-aws-govcloud-us-west)
-- [Amazon Aurora now supports PostgreSQL 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-supports-postgresql-versions/)
-- [Amazon Connect Contact Lens is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-contact-lens-govcloud-us-west/)
-- [Amazon CloudFront announces support for HTTPS DNS records](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-https-dns-records)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

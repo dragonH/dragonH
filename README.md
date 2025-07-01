@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS re:Post Private launches channels for targeted and secure organizational collaboration](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-re-post-private-channels-targeted-secure-organizational-collaboration)
+- [Amazon SageMaker Catalog adds AI recommendations for descriptions of custom assets](https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-catalog-adds-ai/)
+- [AWS announces new AWS Data Transfer Terminal location in Munich](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-data-transfer-terminal-munich/)
 - [AWS announces availability of ECS Optimized Windows Server 2025 AMIs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-availability-ecs-optimized-windows-server-2025-amis)
 - [Amazon Q in Connect now supports 7 languages for proactive recommendations](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-connect-languages-proactive-recommendations)
 - [AWS Transform now analyzes EBS costs, .NET complexity and expands chat guidance](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-analyzes-ebs-costs-net-complexity-expands-chat-guidance)
@@ -65,9 +68,6 @@
 - [Amazon CloudWatch PutMetricData API now supports AWS CloudTrail data event logging](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-putmetricdata-api-aws-cloudtrail-data-event-logging)
 - [Amazon CloudFront announces support for HTTPS DNS records](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-https-dns-records)
 - [Amazon Connect Contact Lens is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-contact-lens-govcloud-us-west/)
-- [Amazon Connect launches segment creation from imported files](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-segment-creation-imported-files/)
-- [Amazon Inspector now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-inspector-additional-aws-regions)
-- [Amazon QuickSight launches Trusted Identity Propagation &lpar;TIP&rpar; for Athena Direct Query](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-trusted-identity-propagation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

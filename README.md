@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS re:Post Private launches channels for targeted and secure organizational collaboration](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-re-post-private-channels-targeted-secure-organizational-collaboration)
-- [Amazon SageMaker Catalog adds AI recommendations for descriptions of custom assets](https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-catalog-adds-ai/)
+- [AWS HealthImaging launches support for DICOMweb STOW-RS data imports](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-healthimaging-dicomweb-stow-rs-data-imports)
+- [Amazon SageMaker Catalog adds AI recommendations for descriptions of custom assets](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-catalog-adds-ai/)
 - [AWS announces new AWS Data Transfer Terminal location in Munich](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-data-transfer-terminal-munich/)
 - [AWS announces availability of ECS Optimized Windows Server 2025 AMIs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-availability-ecs-optimized-windows-server-2025-amis)
 - [Amazon Q in Connect now supports 7 languages for proactive recommendations](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-connect-languages-proactive-recommendations)
+- [Amazon Aurora MySQL and Amazon RDS for MySQL integration with Amazon SageMaker is now available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-rds-mysql-integration-sagemaker)
 - [AWS Transform now analyzes EBS costs, .NET complexity and expands chat guidance](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-analyzes-ebs-costs-net-complexity-expands-chat-guidance)
 - [Amazon Aurora now supports PostgreSQL 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-supports-postgresql-versions/)
 - [Amazon CloudWatch PutMetricData API now supports AWS CloudTrail data event logging](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-putmetricdata-api-aws-cloudtrail-data-event-logging)
-- [Amazon CloudFront announces support for HTTPS DNS records](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-https-dns-records)
-- [Amazon Connect Contact Lens is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-contact-lens-govcloud-us-west/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

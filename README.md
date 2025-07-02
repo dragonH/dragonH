@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Nova Canvas adds virtual try-on and style options for image generation](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-nova-canvas-virtual-try-on-style-options-image-generation)
 - [Amazon QuickSight supports 2B row SPICE dataset](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-2b-row-spice-dataset)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports Change Data Capture &lpar;CDC&rpar; Streams](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-keyspaces-apache-cassandra-cdc-streams/)
 - [AWS Clean Rooms supports incremental and distributed training for custom modeling](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-incremental-distributed-training-custom-modeling)
 - [AWS re:Post Private launches channels for targeted and secure organizational collaboration](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-re-post-private-channels-targeted-secure-organizational-collaboration)
 - [AWS HealthImaging launches support for DICOMweb STOW-RS data imports](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-healthimaging-dicomweb-stow-rs-data-imports)
@@ -66,8 +68,6 @@
 - [AWS announces new AWS Data Transfer Terminal location in Munich](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-data-transfer-terminal-munich/)
 - [AWS announces availability of ECS Optimized Windows Server 2025 AMIs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-availability-ecs-optimized-windows-server-2025-amis)
 - [Amazon Q in Connect now supports 7 languages for proactive recommendations](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-connect-languages-proactive-recommendations)
-- [AWS Transform now analyzes EBS costs, .NET complexity and expands chat guidance](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-analyzes-ebs-costs-net-complexity-expands-chat-guidance)
-- [Amazon Aurora now supports PostgreSQL 17.5, 16.9, 15.13, 14.18, and 13.21](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-supports-postgresql-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

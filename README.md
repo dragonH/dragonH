@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Fargate now supports SOCI Index Manifest v2 for greater deployment consistency](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-fargate-soci-index-manifest-v2-deployment-consistency)
 - [Amazon Rekognition Face Liveness launches accuracy improvements and new challenge setting for improved UX](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rekognition-face-liveness-accuracy-improvements-challenge-setting)
 - [Amazon Aurora PostgreSQL database clusters now support up to 256 TiB of storage volume](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-database-clusters-256-tib-storage-volume)
 - [Amazon Connect now provides enhanced flow designer UI editing features](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-enhanced-flow-designer-ui-editing-features)
@@ -67,7 +68,6 @@
 - [Amazon S3 Express One Zone now supports tags for cost allocation and attribute-based access control](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-express-one-zone-tags-cost-allocation-attribute-based-access-control)
 - [Amazon Nova Canvas adds virtual try-on and style options for image generation](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-nova-canvas-virtual-try-on-style-options-image-generation)
 - [Amazon QuickSight supports 2B row SPICE dataset](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-2b-row-spice-dataset)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports Change Data Capture &lpar;CDC&rpar; Streams](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-keyspaces-apache-cassandra-cdc-streams/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

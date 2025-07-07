@@ -64,8 +64,8 @@
 - [Amazon Rekognition Face Liveness launches accuracy improvements and new challenge setting for improved UX](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rekognition-face-liveness-accuracy-improvements-challenge-setting)
 - [Amazon Aurora PostgreSQL database clusters now support up to 256 TiB of storage volume](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-database-clusters-256-tib-storage-volume)
 - [Amazon Connect now provides enhanced flow designer UI editing features](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-enhanced-flow-designer-ui-editing-features)
-- [Amazon Connect launches additional APIs to update and delete cases and related case items](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-apis-update-delete-cases-items/)
 - [Amazon Neptune Graph Explorer Introduces Native Query Support for Gremlin and openCypher](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-neptune-graph-explorer-native-query-support/)
+- [Amazon Connect launches additional APIs to update and delete cases and related case items](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-apis-update-delete-cases-items/)
 - [Amazon EC2 R7i instances are now available in Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-r7i-instances-asia-pacific-hyderabad-region/)
 - [Amazon Aurora DSQL is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-dsql-additional-regions)
 <!-- AWS-NEWS:END -->

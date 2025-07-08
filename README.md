@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker AI is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-ai-available-aws-asia-pacific-taipei-region)
+- [Amazon SNS now supports sending SMS in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-supports-sending-sms-mexico-central-region)
+- [Amazon Neptune Analytics now integrates with Mem0 for graph-native memory in GenAI applications](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-neptune-analytics-mem0-graph-native-memory-in-genai-applications)
 - [Oracle Database@AWS announces general availability, expands networking capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/oracle-database-aws-general-expands-networking-capabilities/)
 - [Amazon RDS Custom now supports Cumulative Update 19 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-supports-custom-update-19-microsoft-sql-server-2022/)
 - [Amazon VPC Lattice announces support for Oracle Database@AWS](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-vpc-lattice-oracle-database-at-aws)
@@ -65,9 +68,6 @@
 - [Amazon EC2 C8g, M8g and R8g instances now available in Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c8g-m8g-and-r8g-instances-asia-singapore/)
 - [Amazon CloudWatch and Application Signals MCP servers for AI-assisted troubleshooting](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-application-signals-mcp-servers-for-ai-assisted-troubleshooting)
 - [AWS Parallel Computing Service &lpar;PCS&rpar; is now available in the AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-parallel-computing-service-pcs-aws-europe-london-region)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-r8g-instances-additional-regions)
-- [Amazon SNS now supports delivery to Amazon Data Firehose in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-data-firehose-additional-aws-regions)
-- [AWS Fargate now supports SOCI Index Manifest v2 for greater deployment consistency](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-fargate-soci-index-manifest-v2-deployment-consistency)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

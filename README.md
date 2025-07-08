@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Q in QuickSight is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-in-quicksight-7-additional-regions/)
 - [AWS Config now supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-config-12-new-resource-types/)
+- [AWS Site-to-Site VPN now supports IPv6 addresses on outer tunnel IPs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-site-to-site-vpn-supports-ipv6-addresses-outer-tunnel-ips)
+- [AWS Network Firewall: Native AWS Transit Gateway support in all regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-native-transit-gateway-support/)
 - [Amazon SageMaker AI is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-ai-available-aws-asia-pacific-taipei-region)
+- [Amazon Bedrock introduces API keys for streamlined development](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-bedrock-api-keys-for-streamlined-development)
 - [Amazon SNS now supports sending SMS in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-supports-sending-sms-mexico-central-region)
 - [Amazon Neptune Analytics now integrates with Mem0 for graph-native memory in GenAI applications](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-neptune-analytics-mem0-graph-native-memory-in-genai-applications)
 - [Oracle Database@AWS announces general availability, expands networking capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/oracle-database-aws-general-expands-networking-capabilities/)
 - [Amazon RDS Custom now supports Cumulative Update 19 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-supports-custom-update-19-microsoft-sql-server-2022/)
-- [Amazon VPC Lattice announces support for Oracle Database@AWS](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-vpc-lattice-oracle-database-at-aws)
-- [Oracle Database@AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/07/oracle-database-at-aws-now-generally-available)
-- [Amazon EC2 C8g, M8g and R8g instances now available in Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c8g-m8g-and-r8g-instances-asia-singapore/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

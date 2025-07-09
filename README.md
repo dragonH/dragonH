@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon QuickSight introduces granular access customization for exports and reports](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-granular-access-customization-exports-reports)
+- [AWS Database Migration Service now supports C7i and R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-database-migration-service-supports-c7i-r7i-instances)
+- [Amazon Connect now supports parallel AWS Lambda execution in flows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-parallel-aws-lambda-execution-flows/)
+- [AWS Transfer Family web apps are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-web-apps-available-aws-asia-pacific-malaysia-region)
+- [Amazon Q chat in the AWS Management Console can now query AWS service data](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-chat-aws-management-console-now-query-service-data)
 - [Amazon Q in QuickSight is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-in-quicksight-7-additional-regions/)
 - [AWS Config now supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-config-12-new-resource-types/)
 - [AWS Site-to-Site VPN now supports IPv6 addresses on outer tunnel IPs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-site-to-site-vpn-supports-ipv6-addresses-outer-tunnel-ips)
 - [AWS Network Firewall: Native AWS Transit Gateway support in all regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-native-transit-gateway-support/)
 - [Amazon SageMaker AI is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-ai-available-aws-asia-pacific-taipei-region)
-- [Amazon Bedrock introduces API keys for streamlined development](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-bedrock-api-keys-for-streamlined-development)
-- [Amazon SNS now supports sending SMS in the Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-supports-sending-sms-mexico-central-region)
-- [Amazon Neptune Analytics now integrates with Mem0 for graph-native memory in GenAI applications](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-neptune-analytics-mem0-graph-native-memory-in-genai-applications)
-- [Oracle Database@AWS announces general availability, expands networking capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/oracle-database-aws-general-expands-networking-capabilities/)
-- [Amazon RDS Custom now supports Cumulative Update 19 for Microsoft SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-supports-custom-update-19-microsoft-sql-server-2022/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

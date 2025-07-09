@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon P6e-GB200 UltraServers now available for the highest GPU performance in EC2](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-p6e-gb200-ultraservers-gpu-performance-ec2)
 - [Amazon QuickSight introduces granular access customization for exports and reports](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-quicksight-granular-access-customization-exports-reports)
 - [AWS Database Migration Service now supports C7i and R7i instances](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-database-migration-service-supports-c7i-r7i-instances)
+- [Fully managed MLflow 3.0 now available on Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/fully-managed-mlflow-3-0-amazon-sagemaker-ai)
+- [Amazon Route 53 Resolver Query Logging now available in Asia Pacific &lpar;Taipei&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-route-53-resolver-query-logging-taipei/)
 - [Amazon Connect now supports parallel AWS Lambda execution in flows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-parallel-aws-lambda-execution-flows/)
 - [Announcing AWS Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-builder-center-available/)
 - [AWS Transfer Family web apps are now available in the AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-web-apps-available-aws-asia-pacific-malaysia-region)
+- [Amazon VPC Route Server is now available in 8 new regions in addition to the 6 existing ones](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-vpc-route-server-available-new-regions)
 - [Amazon Q chat in the AWS Management Console can now query AWS service data](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-chat-aws-management-console-now-query-service-data)
-- [Amazon Q in QuickSight is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-q-in-quicksight-7-additional-regions/)
-- [AWS Config now supports 12 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-config-12-new-resource-types/)
-- [AWS Site-to-Site VPN now supports IPv6 addresses on outer tunnel IPs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-site-to-site-vpn-supports-ipv6-addresses-outer-tunnel-ips)
-- [AWS Network Firewall: Native AWS Transit Gateway support in all regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-native-transit-gateway-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

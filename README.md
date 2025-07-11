@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Greengrass v2.15 introduces updates to both nucleus and nucleus lite](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-greengrass-v2-15-nucleus-lite/)
 - [Enhanced AWS Specialization badges now display categories](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-specialization-badges-display-categories/)
 - [Amazon SageMaker HyperPod accelerates open-weights model deployment](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-accelerates-model-deployment/)
 - [Amazon SageMaker Studio now supports remote connections from Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-studio-remote-connections-studio-code/)
@@ -67,7 +68,6 @@
 - [Fully managed MLflow 3.0 now available on Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/fully-managed-mlflow-3-0-amazon-sagemaker-ai)
 - [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-fsx-open-zfs-aws-asia-pacific-taipei-region)
 - [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-fsx-windows-file-server-aws-asia-pacific-taipei-region)
-- [Amazon FSx for Lustre is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-fsx-lustre-aws-asia-pacific-taipei-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

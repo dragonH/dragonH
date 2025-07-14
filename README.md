@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Custom Instructions for Topics now generally available for Amazon Q in QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/07/custom-instructions-topics-generally-available-amazon-q-quicksight)
+- [Announcing Model Context Protocol &lpar;MCP&rpar; Server for AWS Price List](https://aws.amazon.com/about-aws/whats-new/2025/07/model-context-protocol-server-price-list/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-mongodb-ccompatibility-support-secondary-region-clusters)
+- [AWS Price List API now supports four new Query Filters](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-price-list-api-supports-four-query-filters)
+- [Amazon Managed Service for Apache Flink is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-managed-service-apache-flink-aws-asia-pacific-taipei-region)
 - [AWS IoT Greengrass v2.15 introduces updates to both nucleus and nucleus lite](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-greengrass-v2-15-nucleus-lite/)
 - [Enhanced AWS Specialization badges now display categories](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-specialization-badges-display-categories/)
 - [Amazon SageMaker HyperPod accelerates open-weights model deployment](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-accelerates-model-deployment/)
 - [Amazon SageMaker Studio now supports remote connections from Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-studio-remote-connections-studio-code/)
 - [Amazon SageMaker HyperPod introduces CLI and SDK for AI Workflows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-cli-sdk-ai-workflows)
-- [AWS announces 100G expansion in Kolkata, India](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-kolkata-india/)
-- [Amazon FSx for NetApp ONTAP is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-fsx-netapp-ontap-aws-asia-pacific-taipei-region)
-- [Fully managed MLflow 3.0 now available on Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/fully-managed-mlflow-3-0-amazon-sagemaker-ai)
-- [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-fsx-open-zfs-aws-asia-pacific-taipei-region)
-- [Amazon FSx for Windows File Server is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-fsx-windows-file-server-aws-asia-pacific-taipei-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

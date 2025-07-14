@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ is now available in one additional region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-mq-available-in-additional-region)
 - [Custom Instructions for Topics now generally available for Amazon Q in QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/07/custom-instructions-topics-generally-available-amazon-q-quicksight)
 - [Announcing Model Context Protocol &lpar;MCP&rpar; Server for AWS Price List](https://aws.amazon.com/about-aws/whats-new/2025/07/model-context-protocol-server-price-list/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-mongodb-ccompatibility-support-secondary-region-clusters)
 - [AWS Price List API now supports four new Query Filters](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-price-list-api-supports-four-query-filters)
 - [Amazon RDS for SQL Server now supports Cumulative Update 19 for SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-sql-server-supports-cumulative-update-19-sql-server-2022)
+- [The Amazon S3 console now displays an external access summary for all your buckets](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-console-external-access-summary-all-buckets)
 - [Amazon Managed Service for Apache Flink is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-managed-service-apache-flink-aws-asia-pacific-taipei-region)
 - [AWS IoT Greengrass v2.15 introduces updates to both nucleus and nucleus lite](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-greengrass-v2-15-nucleus-lite/)
 - [Enhanced AWS Specialization badges now display categories](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-specialization-badges-display-categories/)
-- [Amazon SageMaker HyperPod accelerates open-weights model deployment](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-hyperpod-accelerates-model-deployment/)
-- [Amazon SageMaker Studio now supports remote connections from Visual Studio Code](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-studio-remote-connections-studio-code/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

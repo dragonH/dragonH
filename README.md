@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker introduces a visual workflows builder](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-visual-workflows-builder/)
+- [Amazon Redshift announces support for automatic refresh of materialized views on Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-redshift-refresh-views-apache-iceberg-tables/)
 - [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-i8g-instances-additional-aws-regions/)
 - [Announcing support for Chaos V-Ray in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2025/07/chaos-v-ray-aws-deadline-cloud/)
 - [Amazon S3 Inventory ACL support is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-inventory-acl-support-govcloud-us-regions/)
@@ -66,8 +68,6 @@
 - [Amazon MQ is now available in one additional region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-mq-available-in-additional-region)
 - [Custom Instructions for Topics now generally available for Amazon Q in QuickSight](https://aws.amazon.com/about-aws/whats-new/2025/07/custom-instructions-topics-generally-available-amazon-q-quicksight)
 - [Announcing Model Context Protocol &lpar;MCP&rpar; Server for AWS Price List](https://aws.amazon.com/about-aws/whats-new/2025/07/model-context-protocol-server-price-list/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-mongodb-ccompatibility-support-secondary-region-clusters)
-- [AWS Price List API now supports four new Query Filters](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-price-list-api-supports-four-query-filters)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

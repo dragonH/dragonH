@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-i8g-instances-additional-aws-regions/)
+- [Announcing support for Chaos V-Ray in AWS Deadline Cloud](https://aws.amazon.com/about-aws/whats-new/2025/07/chaos-v-ray-aws-deadline-cloud/)
 - [Amazon S3 Inventory ACL support is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-inventory-acl-support-govcloud-us-regions/)
 - [Amazon EC2 M6id instances are now available in Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-m6id-instances-available-europe-spain-region)
 - [Amazon RDS Custom for SQL Server now supports change data capture](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-custom-sql-server-supports-change-data-capture)
@@ -66,8 +68,6 @@
 - [Announcing Model Context Protocol &lpar;MCP&rpar; Server for AWS Price List](https://aws.amazon.com/about-aws/whats-new/2025/07/model-context-protocol-server-price-list/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; introduces support for up to 10 secondary Region clusters](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-mongodb-ccompatibility-support-secondary-region-clusters)
 - [AWS Price List API now supports four new Query Filters](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-price-list-api-supports-four-query-filters)
-- [Amazon RDS for SQL Server now supports Cumulative Update 19 for SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-sql-server-supports-cumulative-update-19-sql-server-2022)
-- [The Amazon S3 console now displays an external access summary for all your buckets](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-s3-console-external-access-summary-all-buckets)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

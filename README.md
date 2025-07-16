@@ -63,11 +63,11 @@
 - [AWS Transform for mainframe introduces enhanced code refactoring and business logic capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-mainframe-code-refactoring-logic-capabilities/)
 - [Customize Amazon Nova in Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/07/customize-amazon-nova-sagemaker-ai/)
 - [Amazon Nova Sonic adds language support for French, Italian, German](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-nova-sonic-language-support-french-italian-german)
+- [AWS Deadline Cloud now supports Unreal Engine in Service-Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-deadline-cloud-unreal-engine-service-managed-fleets)
 - [AWS Knowledge MCP Server now available &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-knowledge-mcp-server-available-preview)
+- [AWS DataSync now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-datasync-supports-ipv6)
+- [Amazon Bedrock Data Automation is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-bedrock-data-automation-additional-aws-regions)
 - [Amazon SageMaker streamlines S3 Tables workflow experience](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-streamlines-s3-tables-workflow/)
-- [AWS Glue now supports zero-ETL integrations from Amazon DynamoDB and eight applications to S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-glue-zero-etl-integrations-amazon-dynamodb-applications-s3-tables)
-- [Amazon EBS now provides visibility into EBS volume initialization status](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ebs-visibility-volume-initialization-status/)
-- [Image-to-video generation support for Luma AI&#39;s Ray2 now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/07/image-to-video-generation-luma-ais-ray2-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

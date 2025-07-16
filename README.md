@@ -65,9 +65,9 @@
 - [Amazon Nova Sonic adds language support for French, Italian, German](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-nova-sonic-language-support-french-italian-german)
 - [AWS Knowledge MCP Server now available &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-knowledge-mcp-server-available-preview)
 - [Amazon SageMaker streamlines S3 Tables workflow experience](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-streamlines-s3-tables-workflow/)
+- [AWS Glue now supports zero-ETL integrations from Amazon DynamoDB and eight applications to S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-glue-zero-etl-integrations-amazon-dynamodb-applications-s3-tables)
 - [Amazon EBS now provides visibility into EBS volume initialization status](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ebs-visibility-volume-initialization-status/)
 - [Image-to-video generation support for Luma AI&#39;s Ray2 now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/07/image-to-video-generation-luma-ais-ray2-amazon-bedrock/)
-- [Introducing AWS AI League](https://aws.amazon.com/about-aws/whats-new/2025/07/introducing-aws-ai-league)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

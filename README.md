@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for SQL Server now supports linked servers with Oracle OLEDB Driver version 21.16](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-sql-server-linked-servers-oracle-oledb-driver-version-21-16)
 - [Announcing Amazon DynamoDB local major version release version 3.0.0](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-dynamodb-major-version-release-version-3-0-0/)
 - [AWS Clean Rooms ML now supports Parquet file format](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-ml-parquet-file-format/)
 - [Amazon ECS enables built-in blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ecs-built-in-blue-green-deployments/)
@@ -67,7 +68,6 @@
 - [AWS Lambda bridges console to VS Code for unified serverless development experience](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-bridges-console-vs-code-unified-serverless-development-experience)
 - [Amazon DynamoDB Streams introduces a new API feature for faster and more efficient stream shard discovery](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-dynamodb-streams-new-api-feature)
 - [Amazon Connect agent workspace now includes real-time agent performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-agent-workspace-agent-metrics/)
-- [Amazon MemoryDB now supports an AWS FIS action to pause multi-Region cluster replication](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-memorydb-supports-aws-fis-action-pause-multi-region-cluster-replication)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

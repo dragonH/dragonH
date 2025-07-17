@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda announces low latency processing for Kafka events](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-low-latency-processing-kafka-events)
+- [Amazon Connect agent workspace now includes real-time agent performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-agent-workspace-agent-metrics/)
 - [Introducing AI agents and tools in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/07/ai-agents-tools-aws-marketplace)
 - [AWS API MCP Server now available](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-api-mcp-server-available)
 - [AWS Transform for mainframe introduces enhanced code refactoring and business logic capabilities](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transform-mainframe-code-refactoring-logic-capabilities/)
@@ -66,8 +68,6 @@
 - [AWS Deadline Cloud now supports Unreal Engine in Service-Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-deadline-cloud-unreal-engine-service-managed-fleets)
 - [AWS Knowledge MCP Server now available &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-knowledge-mcp-server-available-preview)
 - [AWS DataSync now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-datasync-supports-ipv6)
-- [Amazon Bedrock Data Automation is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-bedrock-data-automation-additional-aws-regions)
-- [Amazon SageMaker streamlines S3 Tables workflow experience](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sagemaker-streamlines-s3-tables-workflow/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

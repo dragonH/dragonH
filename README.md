@@ -62,12 +62,12 @@
 - [Amazon EC2 High Memory U7i instances now support higher Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-high-memory-u7i-instances-higher-performance/)
 - [AWS Private CA now supports issuing up to 100 million certificates per CA](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-private-ca-issuing-100-million-certificates-ca/)
 - [AWS Firewall Manager adds support for AWS Private Link](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-firewall-manager-aws-private-link)
+- [Amazon RDS Custom for SQL Server is now available in the AWS Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-custom-sql-server-aws-region-africa-cape-town-region)
 - [Amazon SNS expands IPv6 support to VPC endpoints in AWS commercial Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-ipv6-vpc-endpoints-commercial-regions)
 - [Amazon CloudWatch SDK supports optimized JSON, CBOR protocols &lpar;in preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-sdk-optimized-json-cbor-protocols-in-preview)
 - [Amazon RDS for SQL Server now supports linked servers with Oracle OLEDB Driver version 21.16](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-sql-server-linked-servers-oracle-oledb-driver-version-21-16)
 - [Announcing Amazon DynamoDB local major version release version 3.0.0](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-dynamodb-major-version-release-version-3-0-0/)
 - [AWS Clean Rooms ML now supports Parquet file format](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-ml-parquet-file-format/)
-- [Amazon ECS enables built-in blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ecs-built-in-blue-green-deployments/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

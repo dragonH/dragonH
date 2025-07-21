@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Braket adds new 54-qubit quantum processor from IQM](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-braket-54-qubit-quantum-processor-iqm/)
+- [Amazon ElastiCache now supports Valkey 8.1](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-valkey-8-1/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M6i database instances in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m6i/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7i database instances in AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m7i/)
+- [Amazon Aurora now supports R7i database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r7i/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-r7g/)
+- [Amazon Aurora now supports R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r7g/)
+- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/)
+- [Amazon Aurora now supports R8g database instances in the AWS US West &lpar;N. California&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r8g/)
 - [Amazon SQS expands IPv6 support to VPC endpoints in AWS commercial Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sqs-ipv6-vpc-endpoints-aws-commercial-regions)
-- [Amazon EC2 High Memory U7i instances now support higher Amazon EBS-optimized instance performance](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-high-memory-u7i-instances-higher-performance/)
-- [AWS Private CA now supports issuing up to 100 million certificates per CA](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-private-ca-issuing-100-million-certificates-ca/)
-- [AWS Firewall Manager adds support for AWS Private Link](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-firewall-manager-aws-private-link)
-- [Amazon RDS Custom for SQL Server is now available in the AWS Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-custom-sql-server-aws-region-africa-cape-town-region)
-- [Amazon SNS expands IPv6 support to VPC endpoints in AWS commercial Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-ipv6-vpc-endpoints-commercial-regions)
-- [Amazon CloudWatch SDK supports optimized JSON, CBOR protocols &lpar;in preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-sdk-optimized-json-cbor-protocols-in-preview)
-- [Amazon RDS for SQL Server now supports linked servers with Oracle OLEDB Driver version 21.16](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-sql-server-linked-servers-oracle-oledb-driver-version-21-16)
-- [Announcing Amazon DynamoDB local major version release version 3.0.0](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-dynamodb-major-version-release-version-3-0-0/)
-- [AWS Clean Rooms ML now supports Parquet file format](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-clean-rooms-ml-parquet-file-format/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

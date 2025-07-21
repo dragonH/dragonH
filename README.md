@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SQS introduces fair queues for multi-tenant workloads](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sqs-introduces-fair/)
 - [Amazon Connect announces per-day pricing for external voice connectors](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-announces-per-day/)
 - [Amazon RDS for Db2 adds support for group-based authorization with self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-db2-authorization-managed-active-directory/)
 - [Amazon Braket adds new 54-qubit quantum processor from IQM](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-braket-54-qubit-quantum-processor-iqm/)
+- [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c7gd-instances/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M6i database instances in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m6i/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7i database instances in AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m7i/)
 - [Amazon Aurora now supports R7i database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r7i/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-r7g/)
 - [Amazon Aurora now supports R7g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r7g/)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M8g and R8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m8g-r8g/)
-- [Amazon Aurora now supports R8g database instances in the AWS US West &lpar;N. California&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r8g/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

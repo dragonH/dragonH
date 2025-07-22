@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Audit Manager enhances evidence collection for better compliance insights](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-audit-manager-enhances/)
+- [AWS Deadline Cloud now supports resource endpoints for connecting shared storage to service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-deadline-cloud-resource-endpoints)
 - [Simplify AWS Organization Tag Policies using new wildcard statement](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-organization-tag-policies-wildcard-statement)
 - [Amazon EMR Serverless adds support for Inline Runtime Permissions for job runs](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-emr-serverless-support-inline-runtime-permissions-job-runs)
 - [Amazon SQS introduces fair queues for multi-tenant workloads](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sqs-introduces-fair/)
@@ -66,8 +68,6 @@
 - [Amazon Braket adds new 54-qubit quantum processor from IQM](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-braket-54-qubit-quantum-processor-iqm/)
 - [Amazon EC2 C7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c7gd-instances/)
 - [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M6i database instances in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m6i/)
-- [Amazon RDS for PostgreSQL, MySQL, and MariaDB now supports M7i database instances in AWS Asia Pacific &lpar;Melbourne&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-postgresql-mysql-mariadb-m7i/)
-- [Amazon Aurora now supports R7i database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-r7i/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS IoT SiteWise Query API adds advanced SQL support and ODBC driver](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-sitewise-advanced-sql-api-odbc-driver)
+- [Cost Optimization Hub now supports account names in optimization opportunities](https://aws.amazon.com/about-aws/whats-new/2025/07/cost-optimization-hub-account-names-optimization-opportunities/)
 - [Amazon EC2 P6-B200 instances are now available in US East &lpar;N. Virginia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-p6-b200-instances-now-available-us-east-n-virginia/)
 - [Amazon ECR now supports exceptions to tag immutability](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ecr-exceptions-tag-immutability/)
 - [Amazon Timestream for InfluxDB now supports 24xlarge memory-optimized instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-timestream-influxdb-24xlarge-memory-optimized-instances/)
@@ -67,7 +68,6 @@
 - [AWS Deadline Cloud now supports resource endpoints for connecting shared storage to service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-deadline-cloud-resource-endpoints)
 - [AWS Client VPN extends availability to two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-client-vpn-additional-regions)
 - [Simplify AWS Organization Tag Policies using new wildcard statement](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-organization-tag-policies-wildcard-statement)
-- [IAM Access Analyzer supports additional analysis findings and checks in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/iam-access-analyzer-findings-checks-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

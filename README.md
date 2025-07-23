@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now supports skipping the operating system shutdown when stopping or terminating instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-skip-os-shutdown-option-during-stop-terminate)
 - [AWS IoT SiteWise Query API adds advanced SQL support and ODBC driver](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-sitewise-advanced-sql-api-odbc-driver)
 - [Cost Optimization Hub now supports account names in optimization opportunities](https://aws.amazon.com/about-aws/whats-new/2025/07/cost-optimization-hub-account-names-optimization-opportunities/)
 - [Amazon EC2 P6-B200 instances are now available in US East &lpar;N. Virginia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-p6-b200-instances-now-available-us-east-n-virginia/)
+- [Amazon RDS for Oracle zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-zero-etl-integration-redshift/)
+- [Amazon RDS for PostgreSQL zero-ETL integration with Amazon Redshift is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-zero-etl-redshift-generally-available/)
+- [Amazon EC2 Instance Connect and EC2 Serial console available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/07/ec2-instance-connect-serial-console-expands-to-new-regions)
 - [Amazon ECR now supports exceptions to tag immutability](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ecr-exceptions-tag-immutability/)
 - [Amazon Timestream for InfluxDB now supports 24xlarge memory-optimized instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-timestream-influxdb-24xlarge-memory-optimized-instances/)
 - [Amazon EBS io2 Block Express supports all commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ebs-io2-block-express/)
-- [AWS Audit Manager enhances evidence collection for better compliance insights](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-audit-manager-enhances/)
-- [AWS Deadline Cloud now supports resource endpoints for connecting shared storage to service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-deadline-cloud-resource-endpoints)
-- [AWS Client VPN extends availability to two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-client-vpn-additional-regions)
-- [Simplify AWS Organization Tag Policies using new wildcard statement](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-organization-tag-policies-wildcard-statement)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

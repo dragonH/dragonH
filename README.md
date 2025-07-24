@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Service Reference Information now supports actions for last accessed services](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-service-reference-information-actions-last-accessed-services)
 - [Announcing Bloom filter support in Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2025/07/bloom-filter-amazon-elasticache/)
 - [Amazon ElastiCache now supports Valkey 8.1](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-valkey-8-1/)
+- [Amazon Aurora PostgreSQL Limitless Database is now available in 22 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-limitless-expansion/)
 - [Amazon EC2 X8g instances now available in US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-x8g-instances-available-us-east-ohio-region)
 - [Amazon CloudWatch adds IPv6 support](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-adds-ipv6-support)
 - [Amazon EC2 now supports skipping the operating system shutdown when stopping or terminating instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-skip-os-shutdown-option-during-stop-terminate)
 - [AWS IoT SiteWise Query API adds advanced SQL support and ODBC driver](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-sitewise-advanced-sql-api-odbc-driver)
 - [Cost Optimization Hub now supports account names in optimization opportunities](https://aws.amazon.com/about-aws/whats-new/2025/07/cost-optimization-hub-account-names-optimization-opportunities/)
 - [Amazon EC2 P6-B200 instances are now available in US East &lpar;N. Virginia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-p6-b200-instances-now-available-us-east-n-virginia/)
-- [Amazon RDS for Oracle zero-ETL integration with Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-zero-etl-integration-redshift/)
-- [AWS Service Reference Information now supports actions for last accessed services](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-service-reference-information-actions-last-accessed-services)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

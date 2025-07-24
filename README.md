@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 M8g and R8g instances now available in Asia Pacific &lpar;Hong Kong&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-m8g-r8g-instances-asia-pacific-hong-kong/)
 - [AWS Service Reference Information now supports actions for last accessed services](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-service-reference-information-actions-last-accessed-services)
+- [Amazon Connect now supports AWS CloudFormation for quick responses](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-aws-cloudformation-quick-response)
 - [Announcing Bloom filter support in Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2025/07/bloom-filter-amazon-elasticache/)
 - [Amazon ElastiCache now supports Valkey 8.1](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-valkey-8-1/)
 - [Amazon Aurora PostgreSQL Limitless Database is now available in 22 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-limitless-expansion/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 X8g instances now available in US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-x8g-instances-available-us-east-ohio-region)
 - [Amazon CloudWatch adds IPv6 support](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-adds-ipv6-support)
 - [Amazon EC2 now supports skipping the operating system shutdown when stopping or terminating instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-skip-os-shutdown-option-during-stop-terminate)
-- [AWS IoT SiteWise Query API adds advanced SQL support and ODBC driver](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-sitewise-advanced-sql-api-odbc-driver)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

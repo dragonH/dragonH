@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports AWS CloudFormation for message template attachments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-aws-cloudformation-message-template-attachments)
 - [Announcing readme file support for AWS HealthOmics workflows](https://aws.amazon.comabout-aws/whats-new/2025/07/readme-file-support-aws-healthomics-workflows)
 - [Amazon EC2 M8g and R8g instances now available in Asia Pacific &lpar;Hong Kong&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-m8g-r8g-instances-asia-pacific-hong-kong/)
 - [AWS Service Reference Information now supports actions for last accessed services](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-service-reference-information-actions-last-accessed-services)
@@ -67,7 +68,6 @@
 - [Amazon Aurora PostgreSQL Limitless Database is now available in 22 additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-postgresql-limitless-expansion/)
 - [AWS Glue now supports Microsoft Dynamics 365 as a data source](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-glue-microsoft-dynamics-365-data-source/)
 - [Amazon EC2 X8g instances now available in US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-x8g-instances-available-us-east-ohio-region)
-- [Amazon CloudWatch adds IPv6 support](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudwatch-adds-ipv6-support)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

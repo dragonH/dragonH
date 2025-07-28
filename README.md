@@ -63,11 +63,11 @@
 - [AWS Marketplace enhances offer and subscription management](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-marketplace-offer-subscription-management/)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-control-tower-aws-asia-pacific-taipei-region)
 - [Amazon Connect’s UI builder launches an improved UX/UI](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connects-ui-builder-improved-ux-ui)
+- [AWS Direct Connect extends MACsec functionality to supported Partner Interconnects](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-direct-connect-extends-macsec-support-partner-interconnects)
+- [Amazon Bedrock Data Automation now supports DOC/DOCX and H.265 files](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-bedrock-data-automation/)
+- [AWS IoT SiteWise Introduces Multivariate Anomaly Detection](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-sitewise-multivariate-anomaly-detection/)
 - [Amazon Connect agent workspace enhances third-party applications to support new actions and workflows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-agent-workspace-third-party-applications)
 - [Amazon Connect Contact Control Panel &lpar;CCP&rpar; launches refreshed look and feel](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-ccp-look-feel)
-- [Amazon Connect launches forecast editing UI](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-forecast-editing/)
-- [Amazon EC2 C7i instances are now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c7i-instances-asia-jakarta/)
-- [Amazon Connect now supports AWS CloudFormation for message template attachments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-aws-cloudformation-message-template-attachments)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

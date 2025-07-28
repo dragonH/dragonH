@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-asia-pacific-thailand-region/)
+- [AWS Marketplace enhances offer and subscription management](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-marketplace-offer-subscription-management/)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-control-tower-aws-asia-pacific-taipei-region)
 - [Amazon Connect’s UI builder launches an improved UX/UI](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connects-ui-builder-improved-ux-ui)
+- [Amazon Connect agent workspace enhances third-party applications to support new actions and workflows](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-agent-workspace-third-party-applications)
 - [Amazon Connect Contact Control Panel &lpar;CCP&rpar; launches refreshed look and feel](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-ccp-look-feel)
 - [Amazon Connect launches forecast editing UI](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-forecast-editing/)
 - [Amazon EC2 C7i instances are now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-c7i-instances-asia-jakarta/)
 - [Amazon Connect now supports AWS CloudFormation for message template attachments](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-aws-cloudformation-message-template-attachments)
 - [AWS HealthOmics introduces third-party Git repository support for workflow creation](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-healthomics-third-party-git-repository-workflow-creation)
-- [Announcing readme file support for AWS HealthOmics workflows](https://aws.amazon.comabout-aws/whats-new/2025/07/readme-file-support-aws-healthomics-workflows)
-- [Amazon EC2 M8g and R8g instances now available in Asia Pacific &lpar;Hong Kong&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-m8g-r8g-instances-asia-pacific-hong-kong/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

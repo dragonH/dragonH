@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-available-in-taipei-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cognito-thailand-and-mexico-central-regions/)
 - [AWS Backup improves Aurora DSQL multi-Region restore workflow](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-backup-aurora-dsql-multi-region-restore-workflow/)
 - [Amazon MSK Connect is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-msk-connect-asia-pacific-hyderabad)
@@ -67,7 +68,6 @@
 - [Amazon Connect’s UI builder launches an improved UX/UI](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connects-ui-builder-improved-ux-ui)
 - [AWS Direct Connect extends MACsec functionality to supported Partner Interconnects](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-direct-connect-extends-macsec-support-partner-interconnects)
 - [Amazon Bedrock Data Automation now supports DOC/DOCX and H.265 files](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-bedrock-data-automation/)
-- [AWS IoT SiteWise Introduces Multivariate Anomaly Detection](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-iot-sitewise-multivariate-anomaly-detection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

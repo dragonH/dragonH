@@ -62,12 +62,12 @@
 - [Amazon Managed Service for Prometheus increases default active series limit to 50M per workspace](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-managed-service-prometheus-50M-default-activeserieslimit)
 - [AWS Entity Resolution launches advanced matching using Levenshtein, Cosine, and Soundex](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-entity-resolution-levenshtein-cosine-soundex/)
 - [Database Insights adds support for fleets of Aurora Limitless databases](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-support-aurora-limitless-fleets/)
+- [Amazon CloudFront introduces new origin response timeout controls](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-origin-response-timeout-controls/)
 - [AWS announces 100G expansion in Chennai, India.](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-chennai/)
 - [AWS Network Firewall is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-available-in-taipei-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cognito-thailand-and-mexico-central-regions/)
 - [AWS Backup improves Aurora DSQL multi-Region restore workflow](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-backup-aurora-dsql-multi-region-restore-workflow/)
 - [Announcing general availability of Amazon EC2 G6f instances with fractional GPUs](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-g6f-instances-fractional-gpus)
-- [Amazon MSK Connect is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-msk-connect-asia-pacific-hyderabad)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

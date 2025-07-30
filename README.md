@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon RDS for Oracle now supports M7i, R7i and X2idn instances in AWS GovCloud &lpar;US&rpar; Regions.](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-m7i-r7i-x2idn-instances-govcloud/)
+- [Amazon Managed Service for Prometheus increases default active series limit to 50M per workspace](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-managed-service-prometheus-50M-default-activeserieslimit)
+- [AWS Entity Resolution launches advanced matching using Levenshtein, Cosine, and Soundex](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-entity-resolution-levenshtein-cosine-soundex/)
+- [Database Insights adds support for fleets of Aurora Limitless databases](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-support-aurora-limitless-fleets/)
 - [AWS announces 100G expansion in Chennai, India.](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-chennai/)
 - [AWS Network Firewall is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-network-firewall-available-in-taipei-region/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cognito-thailand-and-mexico-central-regions/)
 - [AWS Backup improves Aurora DSQL multi-Region restore workflow](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-backup-aurora-dsql-multi-region-restore-workflow/)
 - [Announcing general availability of Amazon EC2 G6f instances with fractional GPUs](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-ec2-g6f-instances-fractional-gpus)
 - [Amazon MSK Connect is now available in Asia Pacific &lpar;Hyderabad&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-msk-connect-asia-pacific-hyderabad)
-- [AWS announces 100G expansion in Hyderabad, India](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-hyderabad-india/)
-- [Amazon Bedrock now available in the US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-bedrock-us-west-n-california-region)
-- [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-transfer-family-asia-pacific-thailand-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

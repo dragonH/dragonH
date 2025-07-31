@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 - [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
 - [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
+- [Amazon EventBridge now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-eventbridge-internet-protocol-version-6/)
+- [AWS DMS Schema Conversion introduces Virtual Mode](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-dms-schema-conversion-virtual-mode)
+- [Amazon Connect Cases now displays detailed email content within the case activity feed](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-cases-displays-email-content/)
+- [Amazon Connect Cases is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-cases-africa-cape-town-region/)
 - [Amazon RDS for Oracle now supports M7i, R7i and X2idn instances in AWS GovCloud &lpar;US&rpar; Regions.](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-m7i-r7i-x2idn-instances-govcloud/)
 - [Amazon Managed Service for Prometheus increases default active series limit to 50M per workspace](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-managed-service-prometheus-50M-default-activeserieslimit)
 - [Amazon Aurora MySQL database clusters now support up to 256 TiB of storage volume](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-mysql-database-clusters-256-tib-storage/)
-- [AWS Entity Resolution launches advanced matching using Levenshtein, Cosine, and Soundex](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-entity-resolution-levenshtein-cosine-soundex/)
-- [Amazon Aurora MySQL 3.10 &lpar;compatible with MySQL 8.0.42&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-aurora-mysql-310/)
-- [Database Insights adds support for fleets of Aurora Limitless databases](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-support-aurora-limitless-fleets/)
-- [Amazon CloudFront introduces new origin response timeout controls](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-cloudfront-origin-response-timeout-controls/)
-- [AWS announces 100G expansion in Chennai, India.](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-100g-expansion-chennai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

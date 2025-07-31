@@ -66,8 +66,8 @@
 - [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
 - [AWS Lambda response streaming now supports 200 MB response payloads](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-response-streaming-200-mb-payloads)
 - [Amazon SNS launches additional message filtering operators](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-message-filtering-operators)
+- [Amazon SNS standard topics now support Amazon SQS fair queues](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-standard-topics-sqs-fair-queues/)
 - [Amazon Chime SDK now provides Internet Protocol Version 6 &lpar;IPv6&rpar; API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-chime-sdk-ipv6-api-endpoints/)
-- [Amazon EventBridge now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-eventbridge-internet-protocol-version-6/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -61,13 +61,13 @@
 - [Database Insights provides on-demand analysis for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-on-demand-analysis-rds-oracle/)
 - [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 - [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
+- [Amazon announces Extended Support for ElastiCache version 4 and version 5 for Redis OSS](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-extended-redis/)
 - [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
 - [AWS Lambda response streaming now supports 200 MB response payloads](https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-response-streaming-200-mb-payloads)
 - [Amazon Chime SDK now provides Internet Protocol Version 6 &lpar;IPv6&rpar; API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-chime-sdk-ipv6-api-endpoints/)
 - [Amazon EventBridge now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-eventbridge-internet-protocol-version-6/)
 - [AWS Batch now supports scheduling SageMaker Training jobs](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-batch-sagemaker-training-jobs/)
 - [AWS DMS Schema Conversion introduces Virtual Mode](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-dms-schema-conversion-virtual-mode)
-- [Amazon Connect Cases now displays detailed email content within the case activity feed](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-connect-cases-displays-email-content/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

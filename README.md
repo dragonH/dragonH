@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Access Points now support tags for Attribute-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-access-points-tags-attribute-based-access-control)
 - [Amazon EC2 now supports force terminate for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-force-terminate-instances)
 - [Amazon Kinesis Video Streams expands coverage to three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-kinesis-video-streams-region-expansion/)
 - [Amazon Application Recovery Controller now supports Region switch](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-application-recovery/)
@@ -67,7 +68,6 @@
 - [Amazon announces Extended Support for ElastiCache version 4 and version 5 for Redis OSS](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-extended-redis/)
 - [Amazon Q Developer expands multi-language support](https://aws.amazon.com/about-aws/whats-new/2025/07/q-developer-multi-language-support)
 - [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
-- [AWS Lambda response streaming now supports 200 MB response payloads](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-response-streaming-200-mb-payloads)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

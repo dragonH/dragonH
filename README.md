@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now supports force terminate for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-force-terminate-instances)
 - [Database Insights provides on-demand analysis for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-on-demand-analysis-rds-oracle/)
 - [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 - [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
@@ -67,7 +68,6 @@
 - [AWS Lambda response streaming now supports 200 MB response payloads](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-response-streaming-200-mb-payloads)
 - [Amazon SNS launches additional message filtering operators](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-message-filtering-operators)
 - [Amazon SNS standard topics now support Amazon SQS fair queues](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-standard-topics-sqs-fair-queues/)
-- [Amazon Chime SDK now provides Internet Protocol Version 6 &lpar;IPv6&rpar; API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-chime-sdk-ipv6-api-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

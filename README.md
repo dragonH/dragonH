@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SES introduces tenant isolation with automated reputation policies](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ses-tenant-isolation-automated-reputation-policies/)
 - [Amazon S3 Access Points now support tags for Attribute-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-access-points-tags-attribute-based-access-control)
+- [Amazon RDS for MySQL now supports new minor versions 8.0.43 and 8.4.6](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-mySQL-8-0-43-and-8-4-6/)
 - [Amazon EC2 now supports force terminate for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-force-terminate-instances)
 - [Amazon Kinesis Video Streams expands coverage to three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-kinesis-video-streams-region-expansion/)
 - [Amazon Application Recovery Controller now supports Region switch](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-application-recovery/)
@@ -66,8 +68,6 @@
 - [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 - [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
 - [Amazon announces Extended Support for ElastiCache version 4 and version 5 for Redis OSS](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-elasticache-extended-redis/)
-- [Amazon Q Developer expands multi-language support](https://aws.amazon.com/about-aws/whats-new/2025/07/q-developer-multi-language-support)
-- [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

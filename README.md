@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 now supports force terminate for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-force-terminate-instances)
+- [Amazon Kinesis Video Streams expands coverage to three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-kinesis-video-streams-region-expansion/)
+- [Amazon Application Recovery Controller now supports Region switch](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-application-recovery/)
 - [Database Insights provides on-demand analysis for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-on-demand-analysis-rds-oracle/)
 - [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 - [Amazon RDS for Oracle now supports R6in and M6in instances](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-rds-oracle-r6in-m6in-instances)
@@ -66,8 +68,6 @@
 - [Amazon Q Developer expands multi-language support](https://aws.amazon.com/about-aws/whats-new/2025/07/q-developer-multi-language-support)
 - [Amazon DocumentDB Serverless is Generally Available](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-documentdb-serverless/)
 - [AWS Lambda response streaming now supports 200 MB response payloads](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-lambda-response-streaming-200-mb-payloads)
-- [Amazon SNS launches additional message filtering operators](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-message-filtering-operators)
-- [Amazon SNS standard topics now support Amazon SQS fair queues](https://aws.amazon.com/about-aws/whats-new/2025/07/amazon-sns-standard-topics-sqs-fair-queues/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

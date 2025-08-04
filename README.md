@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless introduces automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-introduces-automatic-semantic-enrichment)
+- [AWS Parallel Computing Service now supports Slurm SPANK plugins](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-slurm-spank-plugins)
+- [Mountpoint for Amazon S3 CSI driver accelerates performance and supports SELinux](https://aws.amazon.com/about-aws/whats-new/2025/08/mountpoint-amazon-s3-csi-driver-performance-selinux)
 - [Amazon SES introduces tenant isolation with automated reputation policies](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ses-tenant-isolation-automated-reputation-policies/)
 - [AWS Directory Service launches Hybrid Edition for Managed Microsoft AD](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-directory-service-aws-microsoft-ad-hybrid-edition)
 - [Amazon S3 Access Points now support tags for Attribute-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-access-points-tags-attribute-based-access-control)
@@ -65,9 +68,6 @@
 - [Amazon EC2 now supports force terminate for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-force-terminate-instances)
 - [Amazon Kinesis Video Streams expands coverage to three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-kinesis-video-streams-region-expansion/)
 - [Amazon Application Recovery Controller now supports Region switch](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-application-recovery/)
-- [Amazon CloudWatch launches natural language query generation for OpenSearch PPL and SQL](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-natural-language-query-generation-opensearch-ppl-sql)
-- [Database Insights provides on-demand analysis for RDS for Oracle](https://aws.amazon.com/about-aws/whats-new/2025/07/database-insights-on-demand-analysis-rds-oracle/)
-- [Amazon Neptune Global Database is now in five new regions](https://aws.amazon.com/about-aws/whats-new/2025/07/aws-neptune-five-gdb-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

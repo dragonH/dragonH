@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon OpenSearch Serverless introduces automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-introduces-automatic-semantic-enrichment)
+- [Amazon CloudWatch introduces organization-wide VPC flow logs enablement](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-organization-vpc-flow-logs-enablement)
+- [Amazon Lightsail is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-lightsail-in-jakarta-region/)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-asia-pacific-thailand-region/)
 - [AWS Parallel Computing Service now supports Slurm SPANK plugins](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-slurm-spank-plugins)
 - [Mountpoint for Amazon S3 CSI driver accelerates performance and supports SELinux](https://aws.amazon.com/about-aws/whats-new/2025/08/mountpoint-amazon-s3-csi-driver-performance-selinux)
@@ -66,8 +68,6 @@
 - [AWS Directory Service launches Hybrid Edition for Managed Microsoft AD](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-directory-service-aws-microsoft-ad-hybrid-edition)
 - [Amazon S3 Access Points now support tags for Attribute-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-access-points-tags-attribute-based-access-control)
 - [Amazon RDS for MySQL now supports new minor versions 8.0.43 and 8.4.6](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-mySQL-8-0-43-and-8-4-6/)
-- [Amazon EC2 now supports force terminate for EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-force-terminate-instances)
-- [Amazon Kinesis Video Streams expands coverage to three new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-kinesis-video-streams-region-expansion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

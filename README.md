@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Systems Manager Run Command now supports interpolating parameters into environment variables](https://aws.amazon.com/about-aws/whats-new/2025/08/systems-manager-run-command-interpolating-parameters/)
+- [Amazon RDS io2 Block Express now available in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-io2-block-express-availabile-commercial-regions)
 - [Anthropic’s Claude Opus 4.1 now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/08/anthropic-claude-opus-4-1-amazon-bedrock/)
 - [AWS announces general availability of Amazon Elastic VMware Service &lpar;Amazon EVS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-general-availability-amazon-elastic-evs)
+- [AWS Parallel Computing Service now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-ipv6)
 - [AWS Elastic Beanstalk now supports FIPS 140-3 enabled interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-elastic-beanstalk-fips-140-3-enabled-interface-vpc-endpoints)
 - [Amazon OpenSearch Serverless now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-backup-restore/)
 - [AWS Resource Explorer supports 120 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-resource-explorer-120-resource-types/)
 - [AWS IoT SiteWise introduces asset model interfaces](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-sitewise-introduces-asset-model-interfaces)
 - [Amazon CloudWatch introduces organization-wide VPC flow logs enablement](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-organization-vpc-flow-logs-enablement)
-- [Amazon Lightsail is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-lightsail-in-jakarta-region/)
-- [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-asia-pacific-thailand-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

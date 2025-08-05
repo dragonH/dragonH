@@ -65,9 +65,9 @@
 - [AWS Parallel Computing Service now supports Slurm SPANK plugins](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-slurm-spank-plugins)
 - [Amazon SQS increases maximum message payload size to 1 MiB](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sqs-max-payload-size-1mib/)
 - [Mountpoint for Amazon S3 CSI driver accelerates performance and supports SELinux](https://aws.amazon.com/about-aws/whats-new/2025/08/mountpoint-amazon-s3-csi-driver-performance-selinux)
+- [Amazon ECR now supports 100,000 images per repository](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ecr-supports-100000-images/)
 - [Amazon SES introduces tenant isolation with automated reputation policies](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ses-tenant-isolation-automated-reputation-policies/)
 - [AWS Directory Service launches Hybrid Edition for Managed Microsoft AD](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-directory-service-aws-microsoft-ad-hybrid-edition)
-- [Amazon S3 Access Points now support tags for Attribute-Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-access-points-tags-attribute-based-access-control)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

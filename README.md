@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Systems Manager Run Command now supports interpolating parameters into environment variables](https://aws.amazon.com/about-aws/whats-new/2025/08/systems-manager-run-command-interpolating-parameters/)
+- [Anthropic’s Claude Opus 4.1 now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/08/anthropic-claude-opus-4-1-amazon-bedrock/)
+- [AWS announces general availability of Amazon Elastic VMware Service &lpar;Amazon EVS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-general-availability-amazon-elastic-evs)
 - [Amazon OpenSearch Serverless now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-backup-restore/)
+- [AWS Resource Explorer supports 120 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-resource-explorer-120-resource-types/)
+- [AWS IoT SiteWise introduces asset model interfaces](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-sitewise-introduces-asset-model-interfaces)
 - [Amazon CloudWatch introduces organization-wide VPC flow logs enablement](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-organization-vpc-flow-logs-enablement)
 - [Amazon Lightsail is now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-lightsail-in-jakarta-region/)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-asia-pacific-thailand-region/)
 - [AWS Parallel Computing Service now supports Slurm SPANK plugins](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-slurm-spank-plugins)
-- [Amazon SQS increases maximum message payload size to 1 MiB](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sqs-max-payload-size-1mib/)
-- [Mountpoint for Amazon S3 CSI driver accelerates performance and supports SELinux](https://aws.amazon.com/about-aws/whats-new/2025/08/mountpoint-amazon-s3-csi-driver-performance-selinux)
-- [Amazon ECR now supports 100,000 images per repository](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ecr-supports-100000-images/)
-- [Amazon SES introduces tenant isolation with automated reputation policies](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ses-tenant-isolation-automated-reputation-policies/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

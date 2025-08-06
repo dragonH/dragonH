@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-Aurora-Serverless-v2-up-to-30-performance/)
 - [Amazon DynamoDB adds support for Console-to-Code](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-adds-console-to-code/)
+- [AWS Outposts racks now support new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-outposts-racks-cloudwatch-metrics)
 - [Amazon RDS now supports Cumulative Update CU20 for Microsoft SQL Server 2022, and General Distribution Releases for Microsoft SQL Server 2016, 2017 and 2019.](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-sqlserver-supports-cu-gdr)
 - [AWS Console Mobile App now offers access to AWS Support](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-console-mobile-app-now-offers-access-to-aws-support)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-reachability-analyzer-network-access-additional-regions)
@@ -67,7 +68,6 @@
 - [Automated Reasoning checks is now available in Amazon Bedrock Guardrails](https://aws.amazon.com/about-aws/whats-new/2025/08/automated-reasoning-checks-amazon-bedrock-guardrails/)
 - [OpenAI open weight models now in Amazon Bedrock and Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/08/openai-amazon-bedrock-sagemaker-jumpstart/)
 - [Systems Manager Run Command now supports interpolating parameters into environment variables](https://aws.amazon.com/about-aws/whats-new/2025/08/systems-manager-run-command-interpolating-parameters/)
-- [Amazon RDS io2 Block Express now available in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-io2-block-express-availabile-commercial-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

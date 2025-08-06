@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-Aurora-Serverless-v2-up-to-30-performance/)
+- [Amazon DynamoDB adds support for Console-to-Code](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-adds-console-to-code/)
+- [AWS Console Mobile App now offers access to AWS Support](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-console-mobile-app-now-offers-access-to-aws-support)
 - [Amazon QuickSight now supports connectivity to Apache Impala](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-apache-impala-connector/)
 - [Automated Reasoning checks is now available in Amazon Bedrock Guardrails](https://aws.amazon.com/about-aws/whats-new/2025/08/automated-reasoning-checks-amazon-bedrock-guardrails/)
 - [OpenAI open weight models now in Amazon Bedrock and Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/08/openai-amazon-bedrock-sagemaker-jumpstart/)
@@ -66,8 +68,6 @@
 - [Amazon RDS io2 Block Express now available in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-io2-block-express-availabile-commercial-regions)
 - [Anthropic’s Claude Opus 4.1 now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/08/anthropic-claude-opus-4-1-amazon-bedrock/)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c8g-instances-available-additional-regions/)
-- [AWS announces general availability of Amazon Elastic VMware Service &lpar;Amazon EVS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-general-availability-amazon-elastic-evs)
-- [AWS Parallel Computing Service now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

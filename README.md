@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-Aurora-Serverless-v2-up-to-30-performance/)
+- [Amazon QuickSight now supports connectivity to Apache Impala](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-apache-impala-connector/)
 - [Automated Reasoning checks is now available in Amazon Bedrock Guardrails](https://aws.amazon.com/about-aws/whats-new/2025/08/automated-reasoning-checks-amazon-bedrock-guardrails/)
 - [OpenAI open weight models now in Amazon Bedrock and Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/08/openai-amazon-bedrock-sagemaker-jumpstart/)
 - [Systems Manager Run Command now supports interpolating parameters into environment variables](https://aws.amazon.com/about-aws/whats-new/2025/08/systems-manager-run-command-interpolating-parameters/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c8g-instances-available-additional-regions/)
 - [AWS announces general availability of Amazon Elastic VMware Service &lpar;Amazon EVS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-general-availability-amazon-elastic-evs)
 - [AWS Parallel Computing Service now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-parallel-computing-service-ipv6)
-- [AWS Elastic Beanstalk now supports FIPS 140-3 enabled interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-elastic-beanstalk-fips-140-3-enabled-interface-vpc-endpoints)
-- [Amazon OpenSearch Serverless now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-backup-restore/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

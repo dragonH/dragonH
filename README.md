@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 C7g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7g-instances-in-regions/)
+- [Amazon EC2 R7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7gd-instances-additional-regions/)
+- [Amazon EC2 M7gd instances are now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m7gd-instances-asia-pacific-seoul-region/)
 - [Amazon OpenSearch Serverless introduces automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-introduces-automatic-semantic-enrichment)
-- [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-Aurora-Serverless-v2-up-to-30-performance/)
+- [Amazon OpenSearch Serverless adds support for Hybrid Search, AI connectors, and automations](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-ai-connectors-hybrid-search)
+- [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-aurora-serverless-v2-up-to-30-performance/)
 - [Amazon DynamoDB adds support for Console-to-Code](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-adds-console-to-code/)
 - [AWS Outposts racks now support new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-outposts-racks-cloudwatch-metrics)
 - [Amazon RDS now supports Cumulative Update CU20 for Microsoft SQL Server 2022, and General Distribution Releases for Microsoft SQL Server 2016, 2017 and 2019.](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-sqlserver-supports-cu-gdr)
 - [Amazon EC2 M7i and M7i-flex instances are now available in Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m7i-and-m7i-flex-osaka-region)
-- [AWS Console Mobile App now offers access to AWS Support](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-console-mobile-app-now-offers-access-to-aws-support)
-- [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-reachability-analyzer-network-access-additional-regions)
-- [Amazon QuickSight now supports connectivity to Apache Impala](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-apache-impala-connector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

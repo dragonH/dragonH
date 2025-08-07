@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-Aurora-Serverless-v2-up-to-30-performance/)
+- [Amazon EC2 C7g instances now available in additional regions](https://aws.amazon.comwhats-new-v2)
 - [Amazon DynamoDB adds support for Console-to-Code](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-adds-console-to-code/)
 - [AWS Outposts racks now support new Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-outposts-racks-cloudwatch-metrics)
 - [Amazon RDS now supports Cumulative Update CU20 for Microsoft SQL Server 2022, and General Distribution Releases for Microsoft SQL Server 2016, 2017 and 2019.](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-sqlserver-supports-cu-gdr)
+- [Amazon EC2 M7i and M7i-flex instances are now available in Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m7i-and-m7i-flex-osaka-region)
 - [AWS Console Mobile App now offers access to AWS Support](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-console-mobile-app-now-offers-access-to-aws-support)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-reachability-analyzer-network-access-additional-regions)
 - [Amazon QuickSight now supports connectivity to Apache Impala](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-apache-impala-connector/)
-- [Automated Reasoning checks is now available in Amazon Bedrock Guardrails](https://aws.amazon.com/about-aws/whats-new/2025/08/automated-reasoning-checks-amazon-bedrock-guardrails/)
-- [OpenAI open weight models now in Amazon Bedrock and Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/08/openai-amazon-bedrock-sagemaker-jumpstart/)
-- [Systems Manager Run Command now supports interpolating parameters into environment variables](https://aws.amazon.com/about-aws/whats-new/2025/08/systems-manager-run-command-interpolating-parameters/)
+- [AWS Private CA expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-private-ca-aws-privatelink-fips-endpoints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

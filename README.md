@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-UI-FGAC-by-SAML-attributes/)
 - [AWS Lambda now supports GitHub Actions to simplify function deployment](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-lambda-github-actions-function-deployment)
 - [Amazon EC2 C7g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7g-instances-in-regions/)
+- [Amazon EKS adds safety control to prevent accidental cluster deletion](https://aws.amazon.com/about-aws/whats-new/2025/08/eks-safety-control-prevent-accidental-cluster-deletion)
 - [Amazon EC2 R7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7gd-instances-additional-regions/)
 - [Amazon EC2 M7gd instances are now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m7gd-instances-asia-pacific-seoul-region/)
 - [AWS Deadline Cloud now supports Autodesk VRED](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-deadline-cloud-autodesk-vred/)
 - [Amazon EC2 M7i instances are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m7i-uae-region/)
 - [AWS Budgets now supports Billing View for cross-account cost monitoring](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-budgets-billing-view-cross-account-cost/)
 - [Amazon OpenSearch Serverless introduces automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-introduces-automatic-semantic-enrichment)
-- [Amazon OpenSearch Serverless adds support for Hybrid Search, AI connectors, and automations](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-ai-connectors-hybrid-search)
-- [Amazon Aurora Serverless v2 now offers up to 30% performance improvement](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-aurora-serverless-v2-up-to-30-performance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,8 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing expanded support for Cilium with Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/08/expanded-support-cilium-amazon-eks-hybrid-nodes/)
 - [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-UI-FGAC-by-SAML-attributes/)
+- [Amazon SageMaker HyperPod now supports continuous provisioning for enhanced cluster operations](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-continuous-provisioning-cluster/)
 - [Amazon ECS console now supports real-time log analytics via Amazon CloudWatch Logs Live Tail](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ecs-console-analytics-cloudwatch-logs-live-tail)
 - [AWS Lambda now supports GitHub Actions to simplify function deployment](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-lambda-github-actions-function-deployment)
 - [Amazon EC2 C7g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7g-instances-in-regions/)

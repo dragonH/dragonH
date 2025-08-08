@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing expanded support for Cilium with Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/08/expanded-support-cilium-amazon-eks-hybrid-nodes/)
 - [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-UI-FGAC-by-SAML-attributes/)
 - [Amazon ECS console now supports real-time log analytics via Amazon CloudWatch Logs Live Tail](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ecs-console-analytics-cloudwatch-logs-live-tail)
 - [AWS Lambda now supports GitHub Actions to simplify function deployment](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-lambda-github-actions-function-deployment)
@@ -67,7 +68,6 @@
 - [Amazon EKS adds safety control to prevent accidental cluster deletion](https://aws.amazon.com/about-aws/whats-new/2025/08/eks-safety-control-prevent-accidental-cluster-deletion)
 - [Amazon EC2 R7gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7gd-instances-additional-regions/)
 - [Amazon EC2 M7gd instances are now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m7gd-instances-asia-pacific-seoul-region/)
-- [AWS Deadline Cloud now supports Autodesk VRED](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-deadline-cloud-autodesk-vred/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

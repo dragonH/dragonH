@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core introduces DeleteConnection API to streamline MQTT connections](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-core-delete-connection/)
 - [Amazon CloudWatch RUM is now generally available in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-rum-generally-available-additional-aws-regions/)
 - [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-ui-fgac-by-saml-attributes/)
 - [Amazon SageMaker HyperPod now supports continuous provisioning for enhanced cluster operations](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-continuous-provisioning-cluster/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C7g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7g-instances-in-regions/)
 - [AWS Outposts servers now support service link static configuration](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-outposts-servers-service-link-static-configuration)
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-asia-pacific-melbourne-region/)
-- [Amazon EKS adds safety control to prevent accidental cluster deletion](https://aws.amazon.com/about-aws/whats-new/2025/08/eks-safety-control-prevent-accidental-cluster-deletion)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

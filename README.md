@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [FSx for ONTAP now allows decreasing SSD capacity, broadening support for workloads with varying high-performance storage needs](https://aws.amazon.com/about-aws/whats-new/2025/08/FSx-for-ONTAP-now-allows-decreasing-ssd-capacity)
 - [AWS IoT Core introduces DeleteConnection API to streamline MQTT connections](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-core-delete-connection/)
 - [Amazon CloudWatch RUM is now generally available in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-rum-generally-available-additional-aws-regions/)
 - [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-ui-fgac-by-saml-attributes/)
@@ -67,7 +68,6 @@
 - [AWS Lambda now supports GitHub Actions to simplify function deployment](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-lambda-github-actions-function-deployment)
 - [Amazon EC2 C7g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7g-instances-in-regions/)
 - [AWS Outposts servers now support service link static configuration](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-outposts-servers-service-link-static-configuration)
-- [Amazon Bedrock now available in the Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-asia-pacific-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

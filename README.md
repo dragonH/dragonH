@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-govcloud-east-region)
+- [Amazon EC2 Single GPU P5 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-p5-single-gpu-instances-now-available)
 - [Amazon SageMaker AI now supports P6e-GB200 UltraServers](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-p6e-gb200-ultraservers)
 - [Announcing new incentives for ISVs selling in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-marketplace-private-offer-promotions)
 - [Amazon SageMaker HyperPod now supports custom AMIs &lpar;Amazon Machine Images&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-support-custom-ami)

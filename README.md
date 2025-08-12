@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [CloudFormation Hooks Adds Managed Controls and Hook Activity Summary](https://aws.amazon.comhttps://aws.amazon.com/about-aws/whats-new/2025/08/CloudFormation-Hooks-Managed-Controls-Summary/)
+- [Anthropic’s Claude Sonnet 4 in Amazon Bedrock Expanded Context Window](https://aws.amazon.com/about-aws/whats-new/2025/08/anthropic-claude-sonnet-bedrock-expanded-context-window/)
+- [Amazon OpenSearch Serverless now supports kNN Byte vector and new data types](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-knnbytevector-newdatatypes/)
 - [Amazon SageMaker HyperPod now provides a new cluster setup experience](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-provides-cluster-setup/)
 - [Amazon Connect Outbound Campaigns now supports multi-profile campaigns and enhanced phone number retry sequencing](https://aws.amazon.comabout-aws/whats-new/2025/08/amazon-connect-outbound-campaigns-multi-profile-campaigns)
 - [Amazon RDS for Oracle now supports July 2025 Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-supports-july-2025-spatial-patch-bundle)
@@ -66,8 +68,6 @@
 - [AWS IoT Core introduces DeleteConnection API to streamline MQTT connection management](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-core-delete-connection/)
 - [Amazon CloudWatch RUM is now generally available in 2 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-rum-generally-available-additional-aws-regions/)
 - [OpenSearch UI supports Fine Grained Access Control by SAML attributes](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-ui-fgac-by-saml-attributes/)
-- [Amazon SageMaker HyperPod now supports continuous provisioning for enhanced cluster operations](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-continuous-provisioning-cluster/)
-- [Amazon Connect launches an API for real-time position in queue](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-api-real-time-position-in-queue/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

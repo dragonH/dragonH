@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-govcloud-east-region)
 - [Amazon SageMaker AI now supports P6e-GB200 UltraServers](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-p6e-gb200-ultraservers)
 - [Announcing new incentives for ISVs selling in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-marketplace-private-offer-promotions)
 - [Amazon SageMaker HyperPod now supports custom AMIs &lpar;Amazon Machine Images&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-support-custom-ami)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Serverless now supports kNN Byte vector and new data types](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-knnbytevector-newdatatypes/)
 - [New Sharing and Targeting Capabilities for EC2 On-Demand Capacity Reservations in Cluster Placement Groups](https://aws.amazon.com/about-aws/whats-new/2025/08/sharing-targeting-ec2-capacity-reservations-cluster-placement/)
 - [Amazon SageMaker HyperPod now provides a new cluster setup experience](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-hyperpod-provides-cluster-setup/)
-- [Amazon Connect Outbound Campaigns now supports multi-profile campaigns and enhanced phone number retry sequencing](https://aws.amazon.comabout-aws/whats-new/2025/08/amazon-connect-outbound-campaigns-multi-profile-campaigns)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

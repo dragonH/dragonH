@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio now supports trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-studio-trusted-identity-propagation/)
 - [Amazon DocumentDB announces Extended Support for Version 3.6](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-documentdb-extended-3-6/)
 - [Amazon DynamoDB now supports more frequent throughput mode updates from provisioned to on-demand capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-more-frequent-throughput-mode-updates/)
 - [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-govcloud-east-region)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker HyperPod now supports custom AMIs &lpar;Amazon Machine Images&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-support-custom-ami)
 - [Anthropic’s Claude Sonnet 4 in Amazon Bedrock Expanded Context Window](https://aws.amazon.com/about-aws/whats-new/2025/08/anthropic-claude-sonnet-bedrock-expanded-context-window/)
 - [AWS Direct Connect announces 100G expansion in Cape Town, South Africa](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-direct-connect-100g-expansion-cape-town/)
-- [AWS Deadline Cloud introduces new cost-saving compute option](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-deadline-cloud-cost-saving-compute/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

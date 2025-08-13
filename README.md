@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon SageMaker Studio now supports trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-studio-trusted-identity-propagation/)
+- [AWS Resource Explorer now Supports Filtering for Multiple Values](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-resource-explorer-filtering-multiple-values/)
 - [Amazon DocumentDB announces Extended Support for Version 3.6](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-documentdb-extended-3-6/)
 - [Amazon DynamoDB now supports more frequent throughput mode updates from provisioned to on-demand capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-more-frequent-throughput-mode-updates/)
+- [Announcing expanded support for Cilium with Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/08/expanded-support-cilium-amazon-eks-hybrid-nodes/)
+- [Amazon FSx for OpenZFS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-fsx-openzfs-ipv6)
+- [AWS IAM Identity Center introduces support for user background sessions with Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-identity-center-user-background-sessions/)
 - [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-govcloud-east-region)
 - [Amazon EC2 Single GPU P5 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-p5-single-gpu-instances-now-available)
 - [Amazon SageMaker AI now supports P6e-GB200 UltraServers](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-p6e-gb200-ultraservers)
-- [Announcing new incentives for ISVs selling in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-marketplace-private-offer-promotions)
-- [Amazon SageMaker HyperPod now supports custom AMIs &lpar;Amazon Machine Images&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-support-custom-ami)
-- [Anthropic’s Claude Sonnet 4 in Amazon Bedrock Expanded Context Window](https://aws.amazon.com/about-aws/whats-new/2025/08/anthropic-claude-sonnet-bedrock-expanded-context-window/)
-- [AWS Direct Connect announces 100G expansion in Cape Town, South Africa](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-direct-connect-100g-expansion-cape-town/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

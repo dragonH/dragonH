@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB announces Extended Support for Version 3.6](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-documentdb-extended-3-6/)
+- [Amazon DynamoDB now supports more frequent throughput mode updates from provisioned to on-demand capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-more-frequent-throughput-mode-updates/)
 - [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-govcloud-east-region)
 - [Amazon EC2 Single GPU P5 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-p5-single-gpu-instances-now-available)
 - [Amazon SageMaker AI now supports P6e-GB200 UltraServers](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-p6e-gb200-ultraservers)
@@ -66,8 +68,6 @@
 - [Anthropic’s Claude Sonnet 4 in Amazon Bedrock Expanded Context Window](https://aws.amazon.com/about-aws/whats-new/2025/08/anthropic-claude-sonnet-bedrock-expanded-context-window/)
 - [AWS Direct Connect announces 100G expansion in Cape Town, South Africa](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-direct-connect-100g-expansion-cape-town/)
 - [AWS Deadline Cloud introduces new cost-saving compute option](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-deadline-cloud-cost-saving-compute/)
-- [Amazon OpenSearch Serverless now supports kNN Byte vector and new data types](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-serverless-knnbytevector-newdatatypes/)
-- [New Sharing and Targeting Capabilities for EC2 On-Demand Capacity Reservations in Cluster Placement Groups](https://aws.amazon.com/about-aws/whats-new/2025/08/sharing-targeting-ec2-capacity-reservations-cluster-placement/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

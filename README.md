@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Business launches Agentic RAG to enhance accuracy and explainability](https://aws.amazon.com/about-aws/whats-new/2025/08/qbusiness-launches-agentic-rag/)
 - [Amazon SageMaker Studio now supports trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-studio-trusted-identity-propagation/)
 - [AWS Resource Explorer now Supports Filtering for Multiple Values](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-resource-explorer-filtering-multiple-values/)
 - [Amazon DocumentDB announces Extended Support for Version 3.6](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-documentdb-extended-3-6/)
@@ -67,7 +68,6 @@
 - [AWS IAM Identity Center introduces support for user background sessions with Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-identity-center-user-background-sessions/)
 - [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-govcloud-east-region)
 - [Amazon EC2 Single GPU P5 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-p5-single-gpu-instances-now-available)
-- [Amazon SageMaker AI now supports P6e-GB200 UltraServers](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-p6e-gb200-ultraservers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

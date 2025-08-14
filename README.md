@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon U7i instances now available in the AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-u7i-instances-available-in-aws-us-east-ohio/)
+- [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-r8g-instances-in-aws-asia-pacific-jakarta/)
 - [Amazon OpenSearch UI is now available in seven new regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-UI-available-seven-new-regions)
 - [AWS Batch now supports AWS Graviton-based Spot compute with AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-batch-graviton-based-spot-compute-fargate/)
 - [Amazon FSx for NetApp ONTAP now supports decreasing your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-fsx-netapp-ontap-decreasing-ssd-storage-capacity)
@@ -67,7 +68,6 @@
 - [AWS Config now supports 10 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-config-new-resource-types)
 - [AWS Systems Manager Automation enhances runbook execution control and updates free tier](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-systems-manager-automation-enhances-runbook/)
 - [Amazon EC2 M8g instances now available in AWS Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8g-instances-in-aws-asia-pacific-seoul/)
-- [AWS Security Incident Response now supports membership coverage for individual AWS organizational units](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-security-incident-response-ou-membership-coverage)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon U7i instances now available in the AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-u7i-instances-available-in-aws-us-east-ohio/)
+- [Amazon OpenSearch UI is now available in seven new regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-UI-available-seven-new-regions)
+- [AWS Batch now supports AWS Graviton-based Spot compute with AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-batch-graviton-based-spot-compute-fargate/)
+- [Amazon Braket introduces support for program sets](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-braket-program-sets/)
 - [Amazon Q Business launches Agentic RAG to enhance accuracy and explainability](https://aws.amazon.com/about-aws/whats-new/2025/08/qbusiness-launches-agentic-rag/)
+- [AWS Config now supports 10 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-config-new-resource-types)
+- [AWS Systems Manager Automation enhances runbook execution control and updates free tier](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-systems-manager-automation-enhances-runbook/)
+- [Amazon EC2 M8g instances now available in AWS Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8g-instances-in-aws-asia-pacific-seoul/)
 - [Amazon SageMaker Studio now supports trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-studio-trusted-identity-propagation/)
 - [AWS Resource Explorer now Supports Filtering for Multiple Values](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-resource-explorer-filtering-multiple-values/)
-- [Amazon DocumentDB announces Extended Support for Version 3.6](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-documentdb-extended-3-6/)
-- [Amazon DynamoDB now supports more frequent throughput mode updates from provisioned to on-demand capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-more-frequent-throughput-mode-updates/)
-- [Announcing expanded support for Cilium with Amazon EKS Hybrid Nodes](https://aws.amazon.com/about-aws/whats-new/2025/08/expanded-support-cilium-amazon-eks-hybrid-nodes/)
-- [Amazon FSx for OpenZFS now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-fsx-openzfs-ipv6)
-- [AWS IAM Identity Center introduces support for user background sessions with Amazon SageMaker Studio](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-identity-center-user-background-sessions/)
-- [Amazon EC2 G6 instances now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-govcloud-east-region)
-- [Amazon EC2 Single GPU P5 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-p5-single-gpu-instances-now-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

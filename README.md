@@ -63,11 +63,11 @@
 - [Amazon DynamoDB now supports a CloudWatch Contributor Insights mode exclusively for throttled keys](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-cloudwatch-contributor-insights-throttled-keys)
 - [Amazon DynamoDB now supports more granular throttle error exceptions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-more-granular-throttle-error-exceptions/)
 - [AWS Certificate Manager supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-certificate-manager-supports-aws-privatelink)
+- [Amazon Managed Service for Prometheus adds support resource policies](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-prometheus-resource-policies/)
 - [Amazon Neptune now integrates with Cognee for graph-native memory in GenAI Applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-cognee-genai-applications)
 - [Amazon RDS for Db2 now supports cross-region automated backups for encrypted databases](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-db2-cross-region-automated-backups-encrypted-databases)
+- [AWS Billing and Cost Management Console adds new recommended actions](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-console-recommended-actions)
 - [Amazon RDS for MariaDB now supports community MariaDB minor versions 11.4.8, 10.11.14 and 10.6.23](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-mariadb-community-minor-versions/)
-- [Amazon VPC now supports IPv4 ingress routing for large IP Pools](https://aws.amazon.com/about-aws/whats-new/2025/08/ipv4-ingress-routing/)
-- [AWS Managed Microsoft AD increases directory sharing limits](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-directory-service-sharing-limits-increase)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

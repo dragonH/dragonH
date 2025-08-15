@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now integrates with Cognee for graph-native memory in GenAI Applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-cognee-genai-applications)
+- [Amazon RDS for MariaDB now supports community MariaDB minor versions 11.4.8, 10.11.14 and 10.6.23](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-mariadb-community-minor-versions/)
 - [SageMaker HyperPod now supports fine-grained quota allocation of compute resources](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-fined-grained-quota-allocation-compute-resources/)
 - [Amazon U7i instances now available in the AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-u7i-instances-available-in-aws-us-east-ohio/)
 - [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2023/08/amazon-ec2-r8g-instances-in-aws-asia-pacific-jakarta/)
@@ -66,8 +68,6 @@
 - [SageMaker HyperPod now supports Topology Aware Scheduling of LLM tasks](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-topology-aware-scheduling-llm-tasks)
 - [Amazon EC2 I7ie instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i7ie-instances-available-in-additional-aws-regions/)
 - [AWS Batch now supports AWS Graviton-based Spot compute with AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-batch-graviton-based-spot-compute-fargate/)
-- [Amazon FSx for NetApp ONTAP now supports decreasing your SSD storage capacity](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-fsx-netapp-ontap-decreasing-ssd-storage-capacity)
-- [AWS Cloud Map adds support for cross-account service discovery](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-cloud-map-support-cross-account-service-discovery)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -67,7 +67,7 @@
 - [Amazon Neptune now integrates with Cognee for graph-native memory in GenAI Applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-cognee-genai-applications)
 - [Amazon RDS for Db2 now supports cross-region automated backups for encrypted databases](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-db2-cross-region-automated-backups-encrypted-databases)
 - [AWS Billing and Cost Management Console adds new recommended actions](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-console-recommended-actions)
-- [Amazon RDS for MariaDB now supports community MariaDB minor versions 11.4.8, 10.11.14 and 10.6.23](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-mariadb-community-minor-versions/)
+- [AWS Managed Microsoft AD increases directory sharing limits](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-directory-service-sharing-limits-increase)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

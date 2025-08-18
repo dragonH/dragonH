@@ -62,12 +62,12 @@
 - [Amazon Connect now provides out-of-the box embedding of Tasks and Emails into your websites and applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-embeds-tasks-emails-websites-applications)
 - [Amazon QuickSight expands limits on calculated fields](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-expands-calculated-fields/)
 - [Amazon Connect now supports recurring activities in agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-recurring-activities-agent-schedule/)
+- [Announcing Amazon Aurora MySQL 3.10 as long-term support &lpar;LTS&rpar; release](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-aurora-mysql-3-10-as-long-term-support-release/)
 - [AWS Batch now supports default instance type options](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-batch-default-instance-types/)
+- [Amazon S3 Express One Zone now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-express-one-zone-supports-resilience-testing-aws-fault-injection-service)
 - [Amazon Athena now supports CREATE TABLE AS SELECT with Amazon S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-athena-create-table-select-amazon-s3-tables/)
 - [Amazon EC2 R8g instances now available in AWS Asia Pacific &lpar;Jakarta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r8g-instances-in-aws-asia-pacific-jakarta/)
 - [Amazon DynamoDB now supports a CloudWatch Contributor Insights mode exclusively for throttled keys](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-cloudwatch-contributor-insights-throttled-keys)
-- [Amazon DynamoDB now supports more granular throttle error exceptions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-dynamodb-more-granular-throttle-error-exceptions/)
-- [AWS Certificate Manager supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-certificate-manager-supports-aws-privatelink)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

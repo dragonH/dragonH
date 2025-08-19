@@ -58,11 +58,11 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS io2 Block Express now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.comabout-aws/whats-new/2025/08/amazon-rds-io2-block-express-aws-govcloud-us-regions)
 - [Amazon Connect now provides out-of-the box embedding of Tasks and Emails into your websites and applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-embeds-tasks-emails-websites-applications)
 - [Amazon Connect now supports recurring activities in agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-recurring-activities-agent-schedule/)
 - [Amazon QuickSight expands limits on calculated fields](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-expands-calculated-fields/)
 - [AWS Direct Connect announces new location in Barcelona, Spain](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-direct-connect-barcelona-spain/)
+- [Amazon RDS io2 Block Express now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.comabout-aws/whats-new/2025/08/amazon-rds-io2-block-express-aws-govcloud-us-regions)
 - [Announcing Amazon Aurora MySQL 3.10 as long-term support &lpar;LTS&rpar; release](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-aurora-mysql-3-10-as-long-term-support-release/)
 - [New streamlined fulfillment experience for AMI-based products in AWS Marketplace](https://aws.amazon.comabout-aws/whats-new/2025/08/aws-marketplace-new-ami-fulfillment-experience)
 - [Amazon S3 introduces a new way to verify the content of stored datasets](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-verify-content-stored-datasets)

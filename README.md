@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Apache Flink now supports Customer Managed Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-for-apache-flink-cmk-support)
 - [AWS Billing and Cost Management now provides customizable Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-customizable-dashboards)
 - [Amazon Bedrock now provides simplified access to OpenAI open weight models](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-automatic-access-openai-open-weight-models)
+- [Amazon MSK expands support for Graviton3 based M7g instances for Standard brokers in 8 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-msk-graviton3-m7g-instances-standard-brokers-8-more-regions)
 - [Amazon OpenSearch Service now supports AI-powered forecasting](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-opensearch-service-ai-forecasting)
 - [Amazon Connect now supports multi-user web, in-app and video calling](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-multi-user-calling)
 - [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i7i-instances-available-in-additional-aws-regions/)
 - [New Memory-Optimized Amazon EC2 R8i and R8i-flex Instances](https://aws.amazon.com/about-aws/whats-new/2025/08/memory-optimized-amazon-ec2-r8i-r8i-flex-instances)
 - [Amazon RDS for SQL Server now supports Kerberos authentication with self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-sql-server-kerberos-authentication-active-directory)
 - [TwelveLabs’ Pegasus 1.2 model now available in US East &lpar;N. Virginia&rpar; and Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/twelvelabs-pegasus-model-available-in-virginia-seoul/)
-- [Amazon Connect now provides out-of-the box embedding of Tasks and Emails into your websites and applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-embeds-tasks-emails-websites-applications)
-- [Amazon Connect now supports recurring activities in agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-recurring-activities-agent-schedule/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

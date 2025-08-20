@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Billing and Cost Management now provides customizable Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-customizable-dashboards)
 - [Amazon Bedrock now provides simplified access to OpenAI open weight models](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-automatic-access-openai-open-weight-models)
 - [Amazon Connect now supports multi-user web, in-app and video calling](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-multi-user-calling)
 - [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i7i-instances-available-in-additional-aws-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Connect now provides out-of-the box embedding of Tasks and Emails into your websites and applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-embeds-tasks-emails-websites-applications)
 - [Amazon QuickSight expands limits on calculated fields](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-expands-calculated-fields/)
 - [Amazon Connect now supports recurring activities in agent schedules](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-recurring-activities-agent-schedule/)
-- [AWS Direct Connect announces new location in Barcelona, Spain](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-direct-connect-barcelona-spain/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

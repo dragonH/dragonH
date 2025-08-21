@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC IPAM adds in-console CloudWatch alarm management](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-ipam-console-cloudwatch-alarm-management)
 - [Amazon Cognito adds terms of use and privacy policy documents support to Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cognito-terms-use-privacy-policy-documents-managed-login)
 - [Amazon CloudWatch expands region support for natural language query result summarization and query generation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-region-support-query-result-summarization-query-generation)
 - [AWS Security Incident Response introduces integrations with ITSM](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-security-incident-response-itsm-integrations)
@@ -67,7 +68,6 @@
 - [AWS Clean Rooms supports error message configurations for PySpark analyses](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-clean-rooms-error-message-configurations-pyspark)
 - [Amazon Bedrock now provides simplified access to OpenAI open weight models](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-automatic-access-openai-open-weight-models)
 - [Amazon MSK expands support for Graviton3 based M7g instances for Standard brokers in 8 more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-msk-graviton3-m7g-instances-standard-brokers-8-more-regions)
-- [Amazon Connect now supports multi-user web, in-app and video calling](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-multi-user-calling)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

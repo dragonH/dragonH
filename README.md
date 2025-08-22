@@ -62,12 +62,12 @@
 - [Amazon RDS for PostgreSQL now supports delayed read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-postgresql-delayed-replica)
 - [Amazon EC2 R7g instances now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7g-instances-africa-cape-town/)
 - [Amazon RDS for Db2 now supports read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-for-db2-read-replicas/)
+- [Announcing the AWS Billing and Cost Management MCP server](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-mcp-server/)
 - [Count Tokens API supported for Anthropic’s Claude models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/08/count-tokens-api-anthropics-claude-models-bedrock/)
 - [Amazon SageMaker Unified Studio adds S3 file sharing options to projects](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-unified-studio-s3-file-sharing-options)
 - [Amazon Verified Permissions now supports Cedar 4.5](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-verified-permissions-cedar-4-5)
 - [Announcing AWS Neuron SDK 2.25.0](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-neuron-2-25-announce/)
 - [Amazon VPC IPAM adds in-console CloudWatch alarm management](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-ipam-console-cloudwatch-alarm-management)
-- [Amazon CloudWatch expands region support for natural language query result summarization and query generation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-region-support-query-result-summarization-query-generation)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

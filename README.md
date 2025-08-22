@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS enables namespace configuration for AWS and Community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-namespace-configuration-addons)
+- [Amazon SageMaker Unified Studio adds S3 file sharing options to projects](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-unified-studio-s3-file-sharing-options)
 - [Amazon Verified Permissions now supports Cedar 4.5](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-verified-permissions-cedar-4-5)
 - [Announcing AWS Neuron SDK 2.25.0](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-neuron-2-25-announce/)
 - [Amazon VPC IPAM adds in-console CloudWatch alarm management](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-ipam-console-cloudwatch-alarm-management)
@@ -66,8 +68,6 @@
 - [AWS Security Incident Response introduces integrations with ITSM](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-security-incident-response-itsm-integrations)
 - [AWS Security Incident Response achieves HITRUST Certification](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-security-incident-response-hitrust-certification)
 - [Amazon Managed Service for Apache Flink now supports Customer Managed Keys &lpar;CMK&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-for-apache-flink-cmk-support)
-- [AWS Billing and Cost Management now provides customizable Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-customizable-dashboards)
-- [AWS Clean Rooms supports error message configurations for PySpark analyses](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-clean-rooms-error-message-configurations-pyspark)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

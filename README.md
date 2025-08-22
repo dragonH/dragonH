@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EKS enables namespace configuration for AWS and Community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-namespace-configuration-addons)
 - [Amazon RDS for PostgreSQL now supports delayed read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-postgresql-delayed-replica)
+- [Amazon EC2 R7g instances now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7g-instances-africa-cape-town/)
 - [Count Tokens API supported for Anthropic’s Claude models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/08/count-tokens-api-anthropics-claude-models-bedrock/)
 - [Amazon SageMaker Unified Studio adds S3 file sharing options to projects](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-unified-studio-s3-file-sharing-options)
 - [Amazon Verified Permissions now supports Cedar 4.5](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-verified-permissions-cedar-4-5)
@@ -67,7 +68,6 @@
 - [Amazon VPC IPAM adds in-console CloudWatch alarm management](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-vpc-ipam-console-cloudwatch-alarm-management)
 - [Amazon CloudWatch expands region support for natural language query result summarization and query generation](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-region-support-query-result-summarization-query-generation)
 - [AWS IoT Core now supports customer-managed keys](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-core-customer-managed-keys/)
-- [AWS Security Incident Response introduces integrations with ITSM](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-security-incident-response-itsm-integrations)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

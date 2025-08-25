@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS B2B Data Interchange introduces custom validation rules](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-b2b-data-interchange-custom-validation)
 - [Amazon Neptune now supports BYOKG - RAG &lpar;GA&rpar; with open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-supports-byokg-rag-toolkit)
 - [Amazon Bedrock Data Automation now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-data-automation-govcloud-west/)
 - [Amazon EKS enables namespace configuration for AWS and Community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-namespace-configuration-addons)
@@ -67,7 +68,6 @@
 - [Announcing the AWS Billing and Cost Management MCP server](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-billing-cost-management-mcp-server/)
 - [Count Tokens API supported for Anthropic’s Claude models now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/08/count-tokens-api-anthropics-claude-models-bedrock/)
 - [Amazon SageMaker Unified Studio adds S3 file sharing options to projects](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-unified-studio-s3-file-sharing-options)
-- [Amazon Verified Permissions now supports Cedar 4.5](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-verified-permissions-cedar-4-5)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

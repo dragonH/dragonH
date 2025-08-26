@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk is now available in Asia Pacific &lpar;Thailand&rpar;, &lpar;Malaysia&rpar;, and Europe &lpar;Spain&rpar;.](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-elastic-beanstalk-asiapacific-thailand-malaysia-europe-spain-regions)
 - [Amazon Polly launches more synthetic generative voices](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-polly-new-synthetic-generative-voices)
+- [AWS Deadline Cloud now supports Cinema 4D and Redshift on Linux service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-deadline-cloud-cinema-4d-redshift-linux/)
 - [AWS Transform for .NET adds support for Azure repos and Artifacts feeds for NuGet packages](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transform-dotnet-adds-azure-devops-repos/)
 - [AWS B2B Data Interchange introduces custom validation rules](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-b2b-data-interchange-custom-validation)
 - [Amazon EC2 G6 instances are now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-middle-east-uae-region)
 - [Amazon RDS for MariaDB now supports MariaDB 11.8 with MariaDB Vector support](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-mariadb-11-8-vector-support/)
-- [Amazon Neptune now supports BYOKG - RAG &lpar;GA&rpar; with open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-supports-byokg-rag-toolkit/)
 - [Amazon Bedrock Data Automation supports 5 additional languages for Document Workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-data-automation-five-additional-languages-documents/)
+- [Amazon Neptune now supports BYOKG - RAG &lpar;GA&rpar; with open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-supports-byokg-rag-toolkit/)
 - [Amazon Bedrock Data Automation now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-data-automation-govcloud-west/)
-- [Amazon EKS enables namespace configuration for AWS and Community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-namespace-configuration-addons)
-- [Amazon RDS for PostgreSQL now supports delayed read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-postgresql-delayed-replica)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

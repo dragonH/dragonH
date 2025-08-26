@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Polly launches more synthetic generative voices](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-polly-new-synthetic-generative-voices)
 - [AWS B2B Data Interchange introduces custom validation rules](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-b2b-data-interchange-custom-validation)
 - [Amazon EC2 G6 instances are now available in Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-g6-now-available-middle-east-uae-region)
 - [Amazon RDS for MariaDB now supports MariaDB 11.8 with MariaDB Vector support](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-mariadb-11-8-vector-support/)
-- [Amazon Neptune now supports BYOKG - RAG &lpar;GA&rpar; with open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-supports-byokg-rag-toolkit/)
 - [Amazon Bedrock Data Automation supports 5 additional languages for Document Workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-data-automation-five-additional-languages-documents/)
+- [Amazon Neptune now supports BYOKG - RAG &lpar;GA&rpar; with open-source GraphRAG toolkit](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-supports-byokg-rag-toolkit/)
 - [Amazon Bedrock Data Automation now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-bedrock-data-automation-govcloud-west/)
 - [Amazon EKS enables namespace configuration for AWS and Community add-ons](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-namespace-configuration-addons)
 - [Amazon RDS for PostgreSQL now supports delayed read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-postgresql-delayed-replica)
 - [Amazon EC2 R7g instances now available in Africa &lpar;Cape Town&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-r7g-instances-africa-cape-town/)
-- [Amazon RDS for Db2 now supports read replicas](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-for-db2-read-replicas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

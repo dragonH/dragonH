@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS App Runner expands support for IPv6 compatibility](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-app-runner-expands-support-ipv6)
 - [Amazon Braket introduces local device emulator for verbatim circuits](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-braket-local-device-emulator-verbatim-circuits/)
 - [AWS Client VPN now supports connectivity to IPv6 resources](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-connectivity-ipv6-resources)
 - [Amazon GameLift Streams now offers enhanced flexibility with default applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-gamelift-streams-default-applications)
@@ -67,7 +68,6 @@
 - [Amazon RDS for Oracle now supports Redo Transport Compression](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-redo-transport-compression)
 - [Amazon Polly launches more synthetic generative voices](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-polly-new-synthetic-generative-voices)
 - [AWS Deadline Cloud now supports Cinema 4D and Redshift on Linux service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-deadline-cloud-cinema-4d-redshift-linux/)
-- [Aurora DSQL now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/08/aurora-dsql-resilience-testing-with-aws-fault-injection)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

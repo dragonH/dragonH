@@ -63,11 +63,11 @@
 - [Amazon GameLift Streams now offers enhanced flexibility with default applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-gamelift-streams-default-applications)
 - [Amazon RDS for Oracle now supports new certificate authority and cipher suites for SSL and OEM Agent options](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-certificate-authority-cipher-suites)
 - [Amazon MWAA now supports downgrading to minor Apache Airflow versions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-mwaa-supports-downgrading/)
-- [Amazon RDS for Oracle now supports Redo Transport Compression](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-redo-transport-compression)
 - [AWS Elastic Beanstalk is now available in Asia Pacific &lpar;Thailand&rpar;, &lpar;Malaysia&rpar;, and Europe &lpar;Spain&rpar;.](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-elastic-beanstalk-asiapacific-thailand-malaysia-europe-spain-regions)
+- [Amazon RDS for Oracle now supports Redo Transport Compression](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-redo-transport-compression)
 - [Amazon Polly launches more synthetic generative voices](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-polly-new-synthetic-generative-voices)
-- [Aurora DSQL now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/08/aurora-dsql-resilience-testing-with-aws-fault-injection)
 - [AWS Deadline Cloud now supports Cinema 4D and Redshift on Linux service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-deadline-cloud-cinema-4d-redshift-linux/)
+- [Aurora DSQL now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/08/aurora-dsql-resilience-testing-with-aws-fault-injection)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transfer Family introduces Terraform support for deploying SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-terraform-sftp-connectors)
 - [SageMaker HyperPod now supports customer managed KMS keys for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-customer-managed-kms-ebs-volumes)
 - [Amazon SageMaker HyperPod now supports Amazon EBS CSI driver for persistent storage](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-ebs-csi-persistent-storage)
 - [Custom Metrics now available in Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/08/custom-metrics-amazon-cloudwatch-application-signals)
@@ -67,7 +68,6 @@
 - [Amazon GameLift Streams now offers enhanced flexibility with default applications](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-gamelift-streams-default-applications)
 - [Amazon RDS for Oracle now supports new certificate authority and cipher suites for SSL and OEM Agent options](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-certificate-authority-cipher-suites)
 - [Amazon MWAA now supports downgrading to minor Apache Airflow versions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-mwaa-supports-downgrading/)
-- [Amazon RDS for Oracle now supports Redo Transport Compression](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-oracle-redo-transport-compression)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

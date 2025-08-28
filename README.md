@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT ExpressLink technical specification v1.3](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-expresslink-v1-3)
 - [Amazon RDS Custom for SQL Server now supports new General Distribution Releases for Microsoft SQL Server 2019, 2022](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-custom-sql-server-supports-new-gdr-microsoft-sql-server-2019-2022)
 - [Amazon OpenSearch Serverless now supports Attribute Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/opensearch-serverless-attribute-based-access-control/)
 - [Amazon S3 improves AWS CloudFormation and AWS CDK support for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-tables-cloudformation-cdk)
@@ -67,7 +68,6 @@
 - [SageMaker HyperPod now supports customer managed KMS keys for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-customer-managed-kms-ebs-volumes)
 - [Amazon EC2 C7i instances are now available in Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7i-instances-available-in-osaka/)
 - [Amazon SageMaker HyperPod now supports Amazon EBS CSI driver for persistent storage](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-ebs-csi-persistent-storage)
-- [New P5 instance with one NVIDIA H100 GPU is now available in SageMaker Training and Processing Jobs](https://aws.amazon.comabout-aws/whats-new/2025/08/p5-instance-nvidia-h100-gpu-sagemaker-training-processing-jobs)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Q Developer now supports MCP admin control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-q-developer-mcp-admin-control/)
+- [AWS HealthOmics now supports task level timeout controls for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-task-level-timeout-nextflow-workflows/)
 - [Amazon EBS launches snapshot copy for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ebs-launches-snapshot-copy-aws-local-zones)
 - [AWS IoT ExpressLink technical specification v1.3](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-expresslink-v1-3)
 - [Amazon RDS Custom for SQL Server now supports new General Distribution Releases for Microsoft SQL Server 2019, 2022](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-custom-sql-server-supports-new-gdr-microsoft-sql-server-2019-2022)
@@ -66,8 +68,6 @@
 - [Amazon OpenSearch Serverless now supports Attribute Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/opensearch-serverless-attribute-based-access-control/)
 - [Amazon S3 improves AWS CloudFormation and AWS CDK support for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-tables-cloudformation-cdk)
 - [AWS extends Traffic Mirroring support on new instance types](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-extends-traffic-mirroring-support-new-instance-types)
-- [Amazon CloudWatch RUM is now generally available in the two GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-rum-generally-available-govcloud-regions/)
-- [Amazon EC2 Mac Dedicated hosts now support Host Recovery and Reboot-based host maintenance](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-mac-host-recovery-host-maintenance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

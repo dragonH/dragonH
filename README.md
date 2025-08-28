@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [OpenSearch Serverless now supports Attribute Based Access Control &lpar;ABAC&rpar; for Data Plane APIs and Resource control policy](https://aws.amazon.com/about-aws/whats-new/2025/08/opensearch-serverless-attribute-based-access-control/)
 - [Amazon EKS introduces on-demand insights refresh](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-on-demand-insights-refresh/)
 - [AWS Client VPN extends OS support to Windows Arm64 v5.3.0](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-windows-arm64/)
 - [AWS Transfer Family introduces Terraform support for deploying SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-terraform-sftp-connectors)
 - [SageMaker HyperPod now supports customer managed KMS keys for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-customer-managed-kms-ebs-volumes)
 - [Amazon EC2 C7i instances are now available in Asia Pacific &lpar;Osaka&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-c7i-instances-available-in-osaka/)
 - [Amazon SageMaker HyperPod now supports Amazon EBS CSI driver for persistent storage](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-ebs-csi-persistent-storage)
-- [New P5 instance with one NVIDIA H100 GPU is now available in SageMaker Training and Processing Jobs](https://aws.amazon.comabout-aws/whats-new/2025/08/p5-instance-nvidia-h100-gpu-sagemaker-training-processing-jobs)
 - [Custom Metrics now available in Amazon CloudWatch Application Signals](https://aws.amazon.com/about-aws/whats-new/2025/08/custom-metrics-amazon-cloudwatch-application-signals)
+- [New P5 instance with one NVIDIA H100 GPU is now available in SageMaker Training and Processing Jobs](https://aws.amazon.comabout-aws/whats-new/2025/08/p5-instance-nvidia-h100-gpu-sagemaker-training-processing-jobs)
 - [AWS App Runner expands support for IPv6 compatibility](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-app-runner-expands-support-ipv6)
-- [AWS Management Console now supports assigning a color to an AWS account for easier identification](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-management-console-assigning-color-aws-account/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

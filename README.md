@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS IoT ExpressLink technical specification v1.3](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-expresslink-v1-3)
 - [Amazon RDS Custom for SQL Server now supports new General Distribution Releases for Microsoft SQL Server 2019, 2022](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-rds-custom-sql-server-supports-new-gdr-microsoft-sql-server-2019-2022)
+- [Amazon Connect now offers generative text-to-speech voices](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-connect-generative-text-to-speech-voices)
+- [New General Purpose Amazon EC2 M8i and M8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available)
 - [Amazon OpenSearch Serverless now supports Attribute Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/opensearch-serverless-attribute-based-access-control/)
 - [Amazon S3 improves AWS CloudFormation and AWS CDK support for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-tables-cloudformation-cdk)
 - [AWS extends Traffic Mirroring support on new instance types](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-extends-traffic-mirroring-support-new-instance-types)
 - [Amazon CloudWatch RUM is now generally available in the two GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-cloudwatch-rum-generally-available-govcloud-regions/)
 - [Amazon EKS introduces on-demand insights refresh](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-eks-on-demand-insights-refresh/)
 - [AWS Client VPN extends OS support to Windows Arm64 v5.3.0](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-client-vpn-windows-arm64/)
-- [AWS Transfer Family introduces Terraform support for deploying SFTP connectors](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-transfer-family-terraform-sftp-connectors)
-- [SageMaker HyperPod now supports customer managed KMS keys for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/08/sagemaker-hyperpod-customer-managed-kms-ebs-volumes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

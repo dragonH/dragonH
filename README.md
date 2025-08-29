@@ -67,7 +67,7 @@
 - [Amazon U7i instances now available in the AWS Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-u7i-instances-aws-asia-pacific-seoul-region/)
 - [New General Purpose Amazon EC2 M8i and M8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-m8i-and-m8i-flex-instances-generally-available)
 - [Amazon OpenSearch Serverless now supports Attribute Based Access Control](https://aws.amazon.com/about-aws/whats-new/2025/08/opensearch-serverless-attribute-based-access-control/)
-- [AWS extends Traffic Mirroring support on new instance types](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-extends-traffic-mirroring-support-new-instance-types)
+- [Amazon S3 improves AWS CloudFormation and AWS CDK support for S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-s3-tables-cloudformation-cdk)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

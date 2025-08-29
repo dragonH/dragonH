@@ -64,10 +64,10 @@
 - [AWS HealthOmics now supports third-party container registries for private workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-third-party-container-registries-private-workflows)
 - [AWS IAM launches new VPC endpoint condition keys for network perimeter controls](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-new-vpc-endpoint-condition-keys)
 - [Introducing Amazon EC2 I8ge instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available)
+- [The Amazon SageMaker lakehouse architecture now supports tag-based access control for federated catalogs](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-lakehouse-architecture-tag-based-access-control-federated-catalogs/)
 - [Amazon Q Developer now supports MCP admin control](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-q-developer-mcp-admin-control/)
 - [AWS HealthOmics now supports task level timeout controls for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-task-level-timeout-nextflow-workflows/)
 - [Amazon EBS launches snapshot copy for AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ebs-launches-snapshot-copy-aws-local-zones)
-- [AWS IoT ExpressLink technical specification v1.3](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iot-expresslink-v1-3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

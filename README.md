@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Prometheus adds direct PagerDuty integration](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-prometheus-pagerduty-integration)
 - [Amazon SageMaker introduces account-agnostic, reusable project profiles](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-account-agnostic-project-profiles/)
 - [RDS Data API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/08/rds-data-api-ipv6)
+- [AWS End User Messaging now supports international sending for US toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-end-user-messaging-international-sending-toll-free)
 - [Amazon QuickSight now supports connectivity to Google Sheets](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-google-sheets-connector/)
 - [Amazon Neptune Analytics now introduces stop/start capability](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-stop-start-capability)
+- [Amazon QuickSight now available in Israel &lpar;Tel Aviv&rpar; Region and United Arab Emirates &lpar;Dubai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-israel-uae-region)
 - [AWS HealthOmics now supports third-party container registries for private workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-third-party-container-registries-private-workflows)
 - [Amazon EMR on EC2 Adds Apache Spark native FGAC and AWS Glue Data Catalog Views Support](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-emr-ec2-apache-spark-glue-data-catalog/)
 - [Amazon EMR announces S3A as the default connector](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-emr-s3a-default-connector)
-- [AWS IAM launches new VPC endpoint condition keys for network perimeter controls](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-iam-new-vpc-endpoint-condition-keys)
-- [Introducing Amazon EC2 I8ge instances](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-ec2-i8ge-instances-generally-available)
-- [The Amazon SageMaker lakehouse architecture now supports tag-based access control for federated catalogs](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-lakehouse-architecture-tag-based-access-control-federated-catalogs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

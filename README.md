@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Resource Explorer is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-resource-explorer-aws-asia-pacific-taipei-region)
 - [Amazon Managed Service for Prometheus adds direct PagerDuty integration](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-prometheus-pagerduty-integration)
 - [Amazon SageMaker introduces account-agnostic, reusable project profiles](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-account-agnostic-project-profiles/)
 - [RDS Data API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/08/rds-data-api-ipv6)
@@ -66,7 +67,6 @@
 - [Amazon Neptune Analytics now introduces stop/start capability](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-stop-start-capability)
 - [Amazon QuickSight now available in Israel &lpar;Tel Aviv&rpar; Region and United Arab Emirates &lpar;Dubai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-israel-uae-region)
 - [AWS HealthOmics now supports third-party container registries for private workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-third-party-container-registries-private-workflows)
-- [Amazon EMR on EC2 Adds Apache Spark native FGAC and AWS Glue Data Catalog Views Support](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-emr-ec2-apache-spark-glue-data-catalog/)
 - [Amazon EMR announces S3A as the default connector](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-emr-s3a-default-connector)
 <!-- AWS-NEWS:END -->
 

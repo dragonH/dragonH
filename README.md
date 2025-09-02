@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-asia-pacific-jakarta-region/)
+- [Amazon CloudWatch Synthetics adds multi-browser support for application testing](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-synthetics-adds-multi-browser-support/)
+- [AWS Direct Connect announces 100G expansion in Lagos, Nigeria](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-100g-expansion-lagos/)
+- [Amazon RDS for Oracle is now available with Oracle Database Standard Edition 2 &lpar;SE2&rpar; License Included instances in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-oracle-se2-license-included-thailand-mexico-regions)
 - [AWS Direct Connect announces new location in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-auckland/)
 - [Announcing a new open source project for scenario-focused AWS CLI scripts](https://aws.amazon.com/about-aws/whats-new/2025/09/open-source-aws-cli-scripts)
 - [AWS Resource Explorer is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-resource-explorer-aws-asia-pacific-taipei-region)
+- [Split Cost Allocation Data for Amazon EKS supports NVIDIA &amp; AMD GPU, Trainium, and Inferentia-powered EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/09/split-cost-allocation-data-amazon-eks-nvidia-amd-gpu-trainium-inferentia-ec2/)
 - [Amazon Neptune Now Integrated with Zep to Power Long-Term Memory for GenAI Applications](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-zep-integration-long-term-memory-genai)
-- [AWS Deadline Cloud Now Supports Automating Job Attachments Downloads](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-deadline-cloud-automates-job-attachment-download/)
-- [AWS Transform for VMware supports flexible network management and broader AWS Region coverage](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-vmware-ip-range-migration-regions/)
-- [Amazon Managed Service for Prometheus adds direct PagerDuty integration](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-managed-service-prometheus-pagerduty-integration)
-- [Amazon SageMaker introduces account-agnostic, reusable project profiles](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-sagemaker-account-agnostic-project-profiles/)
-- [RDS Data API now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/08/rds-data-api-ipv6)
-- [AWS End User Messaging now supports international sending for US toll-free numbers](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-end-user-messaging-international-sending-toll-free)
+- [AWS Transform assessments now includes detached storage](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-assessments-detached-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

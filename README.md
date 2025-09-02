@@ -67,7 +67,7 @@
 - [Amazon Neptune Analytics now introduces stop/start capability](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-neptune-stop-start-capability)
 - [Amazon QuickSight now available in Israel &lpar;Tel Aviv&rpar; Region and United Arab Emirates &lpar;Dubai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-quicksight-israel-uae-region)
 - [AWS HealthOmics now supports third-party container registries for private workflows](https://aws.amazon.com/about-aws/whats-new/2025/08/aws-healthomics-third-party-container-registries-private-workflows)
-- [Amazon EMR announces S3A as the default connector](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-emr-s3a-default-connector)
+- [Amazon EMR on EC2 Adds Apache Spark native FGAC and AWS Glue Data Catalog Views Support](https://aws.amazon.com/about-aws/whats-new/2025/08/amazon-emr-ec2-apache-spark-glue-data-catalog/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

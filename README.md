@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle introduces bare metal instances with 25% lower pricing compared to equivalent virtualized instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-oracle-bare-metal-instances)
+- [AWS Clean Rooms supports adding new data providers to existing collaborations](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-add-data-providers-existing-collaborations/)
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-asia-pacific-jakarta-region/)
 - [AWS adds the ability to centrally manage access to AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/09/manage-access-aws-regions-local-zones/)
 - [Amazon CloudWatch Synthetics adds multi-browser support for application testing](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-synthetics-adds-multi-browser-support/)
@@ -66,8 +68,6 @@
 - [AWS Direct Connect announces new location in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-auckland/)
 - [Announcing a new open source project for scenario-focused AWS CLI scripts](https://aws.amazon.com/about-aws/whats-new/2025/09/open-source-aws-cli-scripts)
 - [AWS Resource Explorer is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-resource-explorer-aws-asia-pacific-taipei-region)
-- [Split Cost Allocation Data for Amazon EKS supports NVIDIA &amp; AMD GPU, Trainium, and Inferentia-powered EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/09/split-cost-allocation-data-amazon-eks-nvidia-amd-gpu-trainium-inferentia-ec2/)
-- [Amazon Neptune Now Integrated with Zep to Power Long-Term Memory for GenAI Applications](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-zep-integration-long-term-memory-genai)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

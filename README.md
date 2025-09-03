@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-asia-pacific-jakarta-region/)
+- [AWS adds the ability to centrally manage access to AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/09/manage-access-aws-regions-local-zones/)
 - [Amazon CloudWatch Synthetics adds multi-browser support for application testing](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-synthetics-adds-multi-browser-support/)
 - [AWS Direct Connect announces 100G expansion in Lagos, Nigeria](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-100g-expansion-lagos/)
 - [Amazon RDS for Oracle is now available with Oracle Database Standard Edition 2 &lpar;SE2&rpar; License Included instances in Asia Pacific &lpar;Thailand&rpar; and Mexico &lpar;Central&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-oracle-se2-license-included-thailand-mexico-regions)
@@ -67,7 +68,6 @@
 - [AWS Resource Explorer is now available in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-resource-explorer-aws-asia-pacific-taipei-region)
 - [Split Cost Allocation Data for Amazon EKS supports NVIDIA &amp; AMD GPU, Trainium, and Inferentia-powered EC2 instances](https://aws.amazon.com/about-aws/whats-new/2025/09/split-cost-allocation-data-amazon-eks-nvidia-amd-gpu-trainium-inferentia-ec2/)
 - [Amazon Neptune Now Integrated with Zep to Power Long-Term Memory for GenAI Applications](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-zep-integration-long-term-memory-genai)
-- [AWS Transform assessments now includes detached storage](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-assessments-detached-storage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

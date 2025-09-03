@@ -61,13 +61,13 @@
 - [Amazon MQ now supports OAuth 2.0 plugin for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-mq-supports-oauth-20/)
 - [Amazon CloudWatch now supports querying metrics data up to two weeks old](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-query-metrics-data-two-weeks/)
 - [Amazon CloudWatch query alarms now support monitoring metrics individually](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-alarm-multiple-metrics/)
+- [AWS Direct Connect announces new location in Nairobi, Kenya](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-nairobi/)
 - [Amazon RDS for Oracle introduces bare metal instances with 25% lower pricing compared to equivalent virtualized instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-oracle-bare-metal-instances)
 - [AWS Config now supports 5 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-config-new-resource-types)
 - [Amazon Bedrock now supports Global Cross-Region inference for Anthropic Claude Sonnet 4](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-global-cross-region-inference-anthropic-claude-sonnet-4)
 - [AWS Clean Rooms supports adding new data providers to existing collaborations](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-add-data-providers-existing-collaborations/)
 - [AWS Clean Rooms ML now supports redacted error log summaries](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-redacted-error-log-summaries/)
-- [Amazon Bedrock now available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-asia-pacific-jakarta-region/)
-- [AWS adds the ability to centrally manage access to AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2025/09/manage-access-aws-regions-local-zones/)
+- [Amazon SageMaker Catalog adds support for governed classification with restricted terms](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-adds-restricted-terms)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

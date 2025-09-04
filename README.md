@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 announces AMI Usage to better monitor the use of AMIs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-ami-usage-monitor-amis/)
 - [Amazon Neptune Database now supports Public Endpoints for simplified development access](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-database-public-endpoints)
+- [Validate best practice compliance for SAP with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/09/validate-best-practice-compliance-for-sap-aws-systems-manager/)
+- [Amazon Managed Service for Prometheus adds quota visibility through AWS Service Quotas and CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-quota-visibility-aws-service-quotas-cloudwatch)
+- [AWS adds support for three new condition keys to govern API keys for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-api-keys-conditions-govern-amazon-bedrock)
 - [AWS HealthOmics is now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-healthomics-in-asia-pacific-seoul-region/)
 - [CloudFormation Hooks adds Managed Controls and Hook Activity Summary](https://aws.amazon.com/about-aws/whats-new/2025/09/cloudformation-hooks-managed-controls-summary/)
 - [ECS Exec is now available in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/ecs-exec-aws-management-console/)
+- [PostgreSQL 18 Beta RC1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/09/postgresql-18-beta-rc1-amazon-rds-database-preview-environment/)
 - [AWS Clean Rooms supports configurable compute size for PySpark jobs](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-pyspark-configurable-compute/)
-- [Amazon Connect adds detailed disconnect reasons for improved call troubleshooting](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-expanded-disconnect-reasons)
-- [Amazon Elastic Container Registry &lpar;ECR&rpar; now supports repository creation templates in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecr-repository-templates-aws-govcloud/)
-- [Amazon MQ now supports OAuth 2.0 plugin for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-mq-supports-oauth-20/)
-- [Amazon CloudWatch now supports querying metrics data up to two weeks old](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-query-metrics-data-two-weeks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

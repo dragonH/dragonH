@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Database now supports Public Endpoints for simplified development access](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-database-public-endpoints)
+- [ECS Exec is now available in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/ecs-exec-aws-management-console/)
+- [Amazon Connect adds detailed disconnect reasons for improved call troubleshooting](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-expanded-disconnect-reasons)
 - [Amazon MQ now supports OAuth 2.0 plugin for RabbitMQ](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-mq-supports-oauth-20/)
 - [Amazon CloudWatch now supports querying metrics data up to two weeks old](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-query-metrics-data-two-weeks/)
-- [Amazon CloudWatch query alarms now support monitoring metrics individually](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-alarm-multiple-metrics/)
 - [AWS Direct Connect announces new location in Nairobi, Kenya](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-nairobi/)
+- [Amazon CloudWatch query alarms now support monitoring metrics individually](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-alarm-multiple-metrics/)
 - [Amazon RDS for Oracle introduces bare metal instances with 25% lower pricing compared to equivalent virtualized instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-oracle-bare-metal-instances)
 - [AWS Config now supports 5 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-config-new-resource-types)
 - [Amazon Bedrock now supports Global Cross-Region inference for Anthropic Claude Sonnet 4](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-global-cross-region-inference-anthropic-claude-sonnet-4)
-- [AWS Clean Rooms supports adding new data providers to existing collaborations](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-add-data-providers-existing-collaborations/)
-- [AWS Clean Rooms ML now supports redacted error log summaries](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-redacted-error-log-summaries/)
-- [Amazon SageMaker Catalog adds support for governed classification with restricted terms](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-adds-restricted-terms)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

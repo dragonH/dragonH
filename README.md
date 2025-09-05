@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Proxy now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-supports-ipv6)
+- [Enhancing threat detection with Amazon GuardDuty new custom entity lists](https://aws.amazon.com/about-aws/whats-new/2025/09/threat-detection-amazon-guardfuty-custom-entity-lists)
+- [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.9](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-postgresql-16-9/)
 - [Announcing general availability of Organizational Notification Configurations for AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/09/general-availability-organizational-notification-configurations-aws-user-notifications)
+- [AWS Backup now supports organization-wide reports in six additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-organization-wide-reports-6-regions)
 - [Amazon EC2 announces AMI Usage to better monitor the use of AMIs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-ami-usage-monitor-amis/)
 - [Amazon Neptune Database now supports Public Endpoints for simplified development access](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-database-public-endpoints)
 - [Validate best practice compliance for SAP with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/09/validate-best-practice-compliance-for-sap-aws-systems-manager/)
 - [Amazon Managed Service for Prometheus adds quota visibility through AWS Service Quotas and CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-quota-visibility-aws-service-quotas-cloudwatch)
 - [AWS adds support for three new condition keys to govern API keys for Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-api-keys-conditions-govern-amazon-bedrock)
-- [AWS HealthOmics is now available in Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-healthomics-in-asia-pacific-seoul-region/)
-- [ECS Exec is now available in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/ecs-exec-aws-management-console/)
-- [AWS Clean Rooms supports configurable compute size for PySpark jobs](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-pyspark-configurable-compute/)
-- [CloudFormation Hooks adds Managed Controls and Hook Activity Summary](https://aws.amazon.com/about-aws/whats-new/2025/09/cloudformation-hooks-managed-controls-summary/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

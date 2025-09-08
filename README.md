@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS WAF now includes free WAF Vended Logs based on request volume](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-free-vended-logs-request-volume/)
+- [Amazon Neptune Analytics is now supported as a graph store in NetworkX](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neptune-analytics-supported-graph-store-networkx/)
+- [Amazon CloudFront announces support for IPv6 origins](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-ipv6-origins/)
 - [Amazon RDS now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-latest-gdr-updates-microsoft-sql-server)
 - [Amazon CloudFront launches TLS security policy with post-quantum support](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-TLS-policy-post-quantum-support)
 - [MediaConvert now supports Time-Addressable Media Store &lpar;TAMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/mediaconvert-time-addressable-media-store/)
@@ -66,8 +68,6 @@
 - [Enhancing threat detection with Amazon GuardDuty new custom entity lists](https://aws.amazon.com/about-aws/whats-new/2025/09/threat-detection-amazon-guardduty-custom-entity-lists)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.9](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-postgresql-16-9/)
 - [AWS Config now supports resource tags for IAM Policies](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-config-resource-tags-iam-policies/)
-- [Announcing general availability of Organizational Notification Configurations for AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/09/general-availability-organizational-notification-configurations-aws-user-notifications)
-- [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-custom-supports-latest-gdr-updates-microsoft-sql-server)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

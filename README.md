@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF now includes free WAF Vended Logs based on request volume](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-free-vended-logs-request-volume/)
 - [Amazon RDS now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-latest-gdr-updates-microsoft-sql-server)
 - [Amazon CloudFront launches TLS security policy with post-quantum support](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-TLS-policy-post-quantum-support)
 - [MediaConvert now supports Time-Addressable Media Store &lpar;TAMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/mediaconvert-time-addressable-media-store/)
@@ -67,7 +68,6 @@
 - [AWS Config now supports resource tags for IAM Policies](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-config-resource-tags-iam-policies/)
 - [Announcing general availability of Organizational Notification Configurations for AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/09/general-availability-organizational-notification-configurations-aws-user-notifications)
 - [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-custom-supports-latest-gdr-updates-microsoft-sql-server)
-- [AWS Backup now supports organization-wide reports in six additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-organization-wide-reports-6-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

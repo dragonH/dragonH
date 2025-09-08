@@ -64,10 +64,10 @@
 - [Amazon RDS Proxy now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-supports-ipv6)
 - [Enhancing threat detection with Amazon GuardDuty new custom entity lists](https://aws.amazon.com/about-aws/whats-new/2025/09/threat-detection-amazon-guardduty-custom-entity-lists)
 - [Amazon Aurora PostgreSQL Limitless Database now supports PostgreSQL 16.9](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-postgresql-16-9/)
+- [AWS Config now supports resource tags for IAM Policies](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-config-resource-tags-iam-policies/)
 - [Announcing general availability of Organizational Notification Configurations for AWS User Notifications](https://aws.amazon.com/about-aws/whats-new/2025/09/general-availability-organizational-notification-configurations-aws-user-notifications)
 - [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-custom-supports-latest-gdr-updates-microsoft-sql-server)
 - [AWS Backup now supports organization-wide reports in six additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-organization-wide-reports-6-regions)
-- [Amazon EC2 announces AMI Usage to better monitor the use of AMIs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-ami-usage-monitor-amis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

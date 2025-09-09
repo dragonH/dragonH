@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Managed Microsoft AD adds LDAPS and Smart Card support using AWS Private CA](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-microsoft-ad-ldaps-smart-card-private-ca/)
+- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8g-instances-additional-regions/)
+- [Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-elasticache-m7g-r7g-graviton3-aws-regions/)
 - [AWS WAF is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-asia-pacific-taipei-region/)
 - [AWS WAF now includes free WAF Vended Logs based on request volume](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-free-vended-logs-request-volume/)
 - [Announcing Managed Tiered Checkpointing for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2025/09/managed-tiered-checkpointing-amazon-sagemaker-hyperpod)
@@ -65,9 +68,6 @@
 - [Amazon CloudFront announces support for IPv6 origins](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-ipv6-origins/)
 - [Amazon SageMaker Unified Studio announces the general availability of the Custom Blueprints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-unified-studio-custom-blueprints/)
 - [Introducing improved AI assistance in Amazon SageMaker Unified Studio](https://aws.amazon.com/about-aws/whats-new/2025/09/improved-ai-assistance-amazon-sagemaker-unified-studio)
-- [Amazon RDS now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-latest-gdr-updates-microsoft-sql-server)
-- [Amazon CloudFront launches TLS security policy with post-quantum support](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-TLS-policy-post-quantum-support)
-- [MediaConvert now supports Time-Addressable Media Store &lpar;TAMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/mediaconvert-time-addressable-media-store/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

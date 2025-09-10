@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Introducing AWS CDK Refactor &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cdk-refactor-preview/)
 - [Amazon IVS now supports private ingest via interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/)
 - [AWS IoT SiteWise now supports retraining of anomaly detection models](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iot-sitewise-retraining-anomaly-detection-models/)
+- [Amazon Bedrock AgentCore Gateway supports AWS PrivateLink invocation and invocation logging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-gateway-privatelink-invocation-logging)
+- [Amazon EC2 I8g instances now available in AWS US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8g-instances-east-ohio-region/)
 - [AWS HealthImaging now supports OpenID Connect &lpar;OIDC&rpar; authentication for DICOMweb APIs](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-healthimaging-oidc-authentication-dicomweb-apis/)
 - [Amazon CloudWatch Network Monitoring adds flow visibility between Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-network-flow-visibility-regions/)
-- [Amazon EC2 I8g instances now available in AWS US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8g-instances-east-ohio-region/)
+- [AWS Elastic Beanstalk now  supports IPv6 in dual stack configuration for Application and Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-elastic-beanstalk-ipv6-dual-stack-configuration/)
 - [AWS Backup now supports selective backup of ACLs and ObjectTags in Amazon S3 backups](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-selective-acls-objecttags-s3-backups/)
 - [TwelveLabs’ Marengo Embed 2.7 can now be used for synchronous inference in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/twelvelabs-marengo-embed-synchronous-inference-amazon-bedrock/)
-- [Amazon MSK Connect is now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/msk-connect-available-malaysia/)
-- [Amazon CloudFront adds ECDSA support for signed URLs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-ecdsa-signed-urls/)
-- [AWS Managed Microsoft AD adds LDAPS and Smart Card support using AWS Private CA](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-microsoft-ad-ldaps-smart-card-private-ca/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

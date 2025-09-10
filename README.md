@@ -67,7 +67,7 @@
 - [Amazon CloudWatch Network Monitoring adds flow visibility between Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-network-flow-visibility-regions/)
 - [AWS Elastic Beanstalk now  supports IPv6 in dual stack configuration for Application and Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-elastic-beanstalk-ipv6-dual-stack-configuration/)
 - [AWS Backup now supports selective backup of ACLs and ObjectTags in Amazon S3 backups](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-selective-acls-objecttags-s3-backups/)
-- [TwelveLabs’ Marengo Embed 2.7 can now be used for synchronous inference in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/twelvelabs-marengo-embed-synchronous-inference-amazon-bedrock/)
+- [Amazon Managed Service for Prometheus now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-for-prometheus-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

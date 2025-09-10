@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon IVS now supports private ingest via interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/)
+- [AWS IoT SiteWise now supports retraining of anomaly detection models](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iot-sitewise-retraining-anomaly-detection-models/)
 - [TwelveLabs’ Marengo Embed 2.7 can now be used for synchronous inference in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/twelvelabs-marengo-embed-synchronous-inference-amazon-bedrock/)
 - [Amazon MSK Connect is now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/msk-connect-available-malaysia/)
 - [Amazon CloudFront adds ECDSA support for signed URLs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudfront-ecdsa-signed-urls/)
@@ -66,8 +68,6 @@
 - [Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-elasticache-m7g-r7g-graviton3-aws-regions/)
 - [Amazon Q in Connect now supports selecting LLMs directly in Connect Web UI](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-connect-selecting-llms-connect-web-ui/)
 - [AWS WAF is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-asia-pacific-taipei-region/)
-- [AWS WAF now includes free WAF Vended Logs based on request volume](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-free-vended-logs-request-volume/)
-- [Announcing Managed Tiered Checkpointing for Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2025/09/managed-tiered-checkpointing-amazon-sagemaker-hyperpod)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

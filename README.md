@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS enhances task definition editing in the AWS Console with Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-task-definition-q-developer)
 - [Amazon CloudWatch Observability Access Manager Now Supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-observability-access-manager-vpc-endpoints/)
+- [AWS launches LocalStack integration in VS Code IDE to simplify local testing for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/09/localstack-integration-vs-code-ide-local-testing/)
 - [Amazon EventBridge API destinations is now available in AWS Asia Pacific &lpar;Melbourne and Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-api-destinations-melbourne-thailand/)
 - [Introducing AWS CDK Refactor &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cdk-refactor-preview/)
 - [Amazon IVS now supports private ingest via interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/)
@@ -66,8 +68,6 @@
 - [Amazon Bedrock AgentCore Gateway supports AWS PrivateLink invocation and invocation logging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-gateway-privatelink-invocation-logging)
 - [AWS HealthImaging now supports OpenID Connect &lpar;OIDC&rpar; authentication for DICOMweb APIs](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-healthimaging-oidc-authentication-dicomweb-apis/)
 - [Amazon CloudWatch Network Monitoring adds flow visibility between Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-network-flow-visibility-regions/)
-- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c6in-instances-asia-pacific-thailand/)
-- [Amazon EC2 I8g instances now available in AWS US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8g-instances-east-ohio-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

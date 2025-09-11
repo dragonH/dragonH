@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon CloudWatch Observability Access Manager Now Supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-observability-access-manager-vpc-endpoints/)
+- [Amazon EventBridge API destinations is now available in AWS Asia Pacific &lpar;Melbourne and Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-api-destinations-melbourne-thailand/)
 - [Introducing AWS CDK Refactor &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cdk-refactor-preview/)
 - [Amazon IVS now supports private ingest via interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/)
 - [AWS IoT SiteWise now supports retraining of anomaly detection models](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iot-sitewise-retraining-anomaly-detection-models/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Network Monitoring adds flow visibility between Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-network-flow-visibility-regions/)
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Thailand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c6in-instances-asia-pacific-thailand/)
 - [Amazon EC2 I8g instances now available in AWS US East &lpar;Ohio&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8g-instances-east-ohio-region/)
-- [Fault Injection Service is now available in the Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/fault-injection-service-now-available-europe-zurich-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

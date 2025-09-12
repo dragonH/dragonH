@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS Direct Connect support for 4-byte Autonomous System numbers for Virtual interfaces](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-4-byte-autonomous-system-numbers/)
 - [Announcing general availability of Amazon EC2 M4 and M4 Pro Mac instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-m4-pro-mac-instances-generally-available)
-- [Amazon SageMaker Unified Studio supports remote connection from VS Code](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-unified-studio-vs-code/)
+- [New EFA metrics for improved observability of AWS networking](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-efa-metrics-improved-observability-networking)
 - [Deadline Cloud is now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/deadline-cloud-in-asia-pacific-seoul-europe-london/)
+- [Amazon SageMaker Unified Studio supports remote connection from VS Code](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-unified-studio-vs-code/)
+- [Malware Protection for S3 Expands File Size and Archive Scanning Limits](https://aws.amazon.com/about-aws/whats-new/2025/09/malware-protection-s3-file-size-archive-scanning-limits/)
 - [Amazon ECS enhances task definition editing in the AWS Console with Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-task-definition-q-developer)
 - [Amazon CloudWatch Observability Access Manager Now Supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-observability-access-manager-vpc-endpoints/)
 - [Amazon Managed Service for Prometheus collector logs now available in Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-collector-vended-logs/)
 - [AWS launches LocalStack integration in VS Code IDE to simplify local testing for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/09/localstack-integration-vs-code-ide-local-testing/)
-- [Amazon EventBridge API destinations is now available in AWS Asia Pacific &lpar;Melbourne and Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-api-destinations-melbourne-thailand/)
-- [Amazon Athena launches single sign-on support for drivers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-athena-sso-drivers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

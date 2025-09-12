@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Direct Connect support for 4-byte Autonomous System numbers for Virtual interfaces](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-4-byte-autonomous-system-numbers/)
+- [Amazon SageMaker Unified Studio supports remote connection from VS Code](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-unified-studio-vs-code/)
 - [Amazon ECS enhances task definition editing in the AWS Console with Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-task-definition-q-developer)
 - [Amazon CloudWatch Observability Access Manager Now Supports VPC Endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-observability-access-manager-vpc-endpoints/)
 - [Amazon Managed Service for Prometheus collector logs now available in Amazon CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-collector-vended-logs/)
@@ -66,8 +68,6 @@
 - [Amazon Athena launches single sign-on support for drivers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-athena-sso-drivers)
 - [Introducing AWS CDK Refactor &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cdk-refactor-preview/)
 - [Amazon IVS now supports private ingest via interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ivs-private-ingest-interface-vpc-endpoints/)
-- [AWS IoT SiteWise now supports retraining of anomaly detection models](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iot-sitewise-retraining-anomaly-detection-models/)
-- [Amazon Bedrock AgentCore Gateway supports AWS PrivateLink invocation and invocation logging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-gateway-privatelink-invocation-logging)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

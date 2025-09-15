@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports OpenSearch version 3.1](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-service-opensearch-version-3-1/)
 - [Amazon ECS Service Connect adds support for cross-account workloads](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-service-connect-cross-account-workloads)
 - [AWS Direct Connect support for 4-byte Autonomous System numbers for Virtual interfaces](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-4-byte-autonomous-system-numbers/)
 - [Announcing general availability of Amazon EC2 M4 and M4 Pro Mac instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-m4-pro-mac-instances-generally-available)
@@ -67,7 +68,6 @@
 - [Deadline Cloud is now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/deadline-cloud-in-asia-pacific-seoul-europe-london/)
 - [Malware Protection for S3 Expands File Size and Archive Scanning Limits](https://aws.amazon.com/about-aws/whats-new/2025/09/malware-protection-s3-file-size-archive-scanning-limits/)
 - [Amazon SageMaker Unified Studio supports remote connection from VS Code](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-unified-studio-vs-code/)
-- [Amazon ECS enhances task definition editing in the AWS Console with Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-task-definition-q-developer)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

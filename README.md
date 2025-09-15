@@ -64,9 +64,9 @@
 - [New EFA metrics for improved observability of AWS networking](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-efa-metrics-improved-observability-networking)
 - [Amazon SageMaker notebooks now support P6-B200 instance type](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-notebooks-p6-b200-instance-type)
 - [Amazon RDS Proxy announces support for end-to-end IAM authentication](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-end-to-end-iam-authentication/)
-- [Amazon SageMaker Unified Studio supports remote connection from VS Code](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-unified-studio-vs-code/)
 - [Deadline Cloud is now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/deadline-cloud-in-asia-pacific-seoul-europe-london/)
 - [Malware Protection for S3 Expands File Size and Archive Scanning Limits](https://aws.amazon.com/about-aws/whats-new/2025/09/malware-protection-s3-file-size-archive-scanning-limits/)
+- [Amazon SageMaker Unified Studio supports remote connection from VS Code](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-unified-studio-vs-code/)
 - [Amazon ECS enhances task definition editing in the AWS Console with Amazon Q Developer](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-task-definition-q-developer)
 <!-- AWS-NEWS:END -->
 

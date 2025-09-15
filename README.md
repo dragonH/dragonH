@@ -61,13 +61,13 @@
 - [Amazon SageMaker HyperPod announces health monitoring agent support for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-hyperpod-health-monitoring-agent-slurm/)
 - [Amazon Connect Cases now supports date range filters in the case list view](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-cases-date-range-filters/)
 - [Amazon OpenSearch Service now supports OpenSearch version 3.1](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-service-opensearch-version-3-1/)
+- [AWS Organizations now provides account state information for member accounts](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-organizations-provides-account-state-information-member-accounts)
+- [Announcing on-demand deployment for custom Meta Llama models in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/on-demand-deployment-custom-meta-llama-models-amazon-bedrock)
 - [Amazon ECS Service Connect adds support for cross-account workloads](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-service-connect-cross-account-workloads)
 - [AWS Direct Connect support for 4-byte Autonomous System numbers for Virtual interfaces](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-4-byte-autonomous-system-numbers/)
 - [Announcing general availability of Amazon EC2 M4 and M4 Pro Mac instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-m4-pro-mac-instances-generally-available)
 - [New EFA metrics for improved observability of AWS networking](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-efa-metrics-improved-observability-networking)
 - [Amazon SageMaker notebooks now support P6-B200 instance type](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-notebooks-p6-b200-instance-type)
-- [Amazon RDS Proxy announces support for end-to-end IAM authentication](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-end-to-end-iam-authentication/)
-- [Deadline Cloud is now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/deadline-cloud-in-asia-pacific-seoul-europe-london/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

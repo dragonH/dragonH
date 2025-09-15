@@ -63,11 +63,11 @@
 - [Amazon OpenSearch Service now supports OpenSearch version 3.1](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-service-opensearch-version-3-1/)
 - [AWS Organizations now provides account state information for member accounts](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-organizations-provides-account-state-information-member-accounts)
 - [Announcing on-demand deployment for custom Meta Llama models in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/on-demand-deployment-custom-meta-llama-models-amazon-bedrock)
+- [Now generally available: Amazon EC2 R8gn instances](https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances)
+- [Amazon Managed Service for Prometheus now available in 11 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-managed-service-prometheus-11-regions/)
 - [Amazon ECS Service Connect adds support for cross-account workloads](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-service-connect-cross-account-workloads)
 - [AWS Direct Connect support for 4-byte Autonomous System numbers for Virtual interfaces](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-4-byte-autonomous-system-numbers/)
 - [Announcing general availability of Amazon EC2 M4 and M4 Pro Mac instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-m4-pro-mac-instances-generally-available)
-- [New EFA metrics for improved observability of AWS networking](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-efa-metrics-improved-observability-networking)
-- [Amazon SageMaker notebooks now support P6-B200 instance type](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-notebooks-p6-b200-instance-type)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

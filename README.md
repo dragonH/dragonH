@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker HyperPod announces health monitoring agent support for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-hyperpod-health-monitoring-agent-slurm/)
 - [Amazon Connect Cases now supports date range filters in the case list view](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-cases-date-range-filters/)
 - [Amazon OpenSearch Service now supports OpenSearch version 3.1](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-service-opensearch-version-3-1/)
 - [Amazon ECS Service Connect adds support for cross-account workloads](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-service-connect-cross-account-workloads)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker notebooks now support P6-B200 instance type](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-notebooks-p6-b200-instance-type)
 - [Amazon RDS Proxy announces support for end-to-end IAM authentication](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-proxy-end-to-end-iam-authentication/)
 - [Deadline Cloud is now available in Asia Pacific &lpar;Seoul&rpar; and Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/deadline-cloud-in-asia-pacific-seoul-europe-london/)
-- [Malware Protection for S3 Expands File Size and Archive Scanning Limits](https://aws.amazon.com/about-aws/whats-new/2025/09/malware-protection-s3-file-size-archive-scanning-limits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

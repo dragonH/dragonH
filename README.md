@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-ipv6)
+- [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8i-r8i-flex-additional-regions/)
 - [Amazon OpenSearch Service announces Star-Tree Index](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-star-tree-index/)
 - [Amazon OpenSearch Service announces Derived Source for storage optimization](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-derived-source/)
 - [Amazon S3 Batch Operations now supports managing buckets or prefixes in a single step in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-s3-batch-operations-managing-buckets-console)
@@ -66,8 +68,6 @@
 - [Amazon Connect Cases now supports date range filters in the case list view](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-cases-date-range-filters/)
 - [Amazon OpenSearch Service now supports OpenSearch version 3.1](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-service-opensearch-version-3-1/)
 - [AWS Organizations now provides account state information for member accounts](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-organizations-provides-account-state-information-member-accounts)
-- [Now generally available: Amazon EC2 R8gn instances](https://aws.amazon.com/about-aws/whats-new/2025/09/generally-available-amazon-ec2-r8gn-instances)
-- [Announcing on-demand deployment for custom Meta Llama models in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/on-demand-deployment-custom-meta-llama-models-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

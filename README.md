@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS introduces a new catalog of community add-ons in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eks-community-addons-govcloud)
 - [Amazon Lex provides generative AI based enhanced natural language understanding in eight new languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-generative-ai-natural-language-eight-languages/)
 - [Amazon EC2 supports detailed performance stats on all NVMe local volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-detailed-performance-stats-nvme-local-volumes/)
 - [AWS Storage Gateway now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-ipv6)
+- [Amazon Aurora PostgreSQL Limitless Database is now available in the AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-aws-govcloud-regions)
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8i-r8i-flex-additional-regions/)
-- [Amazon OpenSearch Service announces Star-Tree Index](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-star-tree-index/)
 - [Amazon OpenSearch Service announces Derived Source for storage optimization](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-derived-source/)
+- [Amazon OpenSearch Service announces Star-Tree Index](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-star-tree-index/)
 - [Amazon S3 Batch Operations now supports managing buckets or prefixes in a single step in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-s3-batch-operations-managing-buckets-console)
 - [Amazon SageMaker HyperPod announces health monitoring agent support for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-hyperpod-health-monitoring-agent-slurm/)
-- [Amazon OpenSearch Service now supports AI-powered forecasting](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-service-ai-forecasting)
-- [Amazon Connect Cases now supports date range filters in the case list view](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-cases-date-range-filters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

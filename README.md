@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS Lambda Now Supports Cross-Account Container Images in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-cross-account-container-images-govcloud)
 - [Amazon Corretto 25 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-corretto-25-generally-available)
+- [Amazon Connect launches the ability to search contacts using agent hierarchy filters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-search-contacts-agent-hierarchy-filters/)
 - [Amazon EC2 I8ge instances now available in AWS Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8ge-instances-in-europe-frankfurt)
+- [Amazon CloudWatch launches Cross-Account and Cross-Region Log Centralization](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-cross-account-cross-region-log-centralization)
 - [Amazon EventBridge extends Customer Managed Key support to rule filter patterns and input transformers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-customer-managed-key-support-filter-patterns-input-transformers)
 - [AWS Budgets now supports custom time periods](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-budgets-custom-time-periods/)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250818](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-extended-support-minor-5744-rds/)
 - [AWS End User Messaging now supports CloudFormation for SMS](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-end-user-messaging-cloudformation-sms/)
 - [Amazon EKS introduces a new catalog of community add-ons in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eks-community-addons-govcloud)
-- [Amazon EC2 I7i instances now available in South America &lpar;São Paulo&rpar;, Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-sao-paulo-calgary-regions/)
-- [Amazon Lex provides generative AI based enhanced natural language understanding in eight new languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-generative-ai-natural-language-eight-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

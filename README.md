@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I8ge instances now available in AWS Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8ge-instances-in-europe-frankfurt)
+- [Amazon EventBridge extends Customer Managed Key support to rule filter patterns and input transformers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-customer-managed-key-support-filter-patterns-input-transformers)
+- [AWS Budgets now supports custom time periods](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-budgets-custom-time-periods/)
+- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250818](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-extended-support-minor-5744-rds/)
 - [Amazon EKS introduces a new catalog of community add-ons in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eks-community-addons-govcloud)
 - [Amazon EC2 I7i instances now available in South America &lpar;São Paulo&rpar;, Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-sao-paulo-calgary-regions/)
 - [Amazon Lex provides generative AI based enhanced natural language understanding in eight new languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-generative-ai-natural-language-eight-languages/)
 - [New fault action in AWS FIS to inject I/O latency on Amazon EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-fis-action-inject-io-latency-on-ebs/)
 - [Amazon EC2 supports detailed performance stats on all NVMe local volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-detailed-performance-stats-nvme-local-volumes/)
 - [Amazon AppStream 2.0 adds support for fractional GPU instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-appstream-fractional-gpu/)
-- [AWS Storage Gateway now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-ipv6)
-- [Amazon Aurora PostgreSQL Limitless Database is now available in the AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-aurora-postgresql-limitless-database-aws-govcloud-regions)
-- [Amazon S3 now supports conditional deletes in S3 general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-s3-conditional-deletes-s3-general-purpose-buckets)
-- [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8i-r8i-flex-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

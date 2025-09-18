@@ -61,13 +61,13 @@
 - [Second-generation AWS Outposts racks now supported in the AWS Canada &lpar;Central&rpar; and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-outposts-racks-canada-us-west-regions)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/)
 - [Amazon Q Developer CLI announces support for remote MCP servers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/)
+- [Amazon Kinesis Data Streams expands Internet Protocol version 6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-kinesis-data-streams-ipv6-govcloud)
+- [Stability AI Image Services now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/stability-ai-image-services-generally-available-amazon-bedrock)
 - [AWS Step Functions expands data source options and improves observability for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-data-source-options-observability-distributed-map)
 - [Amazon Lex provides enhanced confirmation and currency built-in slots to 10 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-enhanced-confirmation-currency-slots-to-languages/)
-- [Amazon SageMaker HyperPod now supports autoscaling using Karpenter](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-hyperpod-autoscaling/)
-- [AWS Step Functions now supports IPv6 with dual-stack endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-ipv6-dual-stack-endpoints/)
-- [Amazon OpenSearch Serverless now supports Disk-Optimized Vectors](https://aws.amazon.com/about-aws/whats-new/2025/09/opensearch-serverless-disk-optimized-vectors)
-- [AWS Lambda Now Supports Cross-Account Container Images in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-cross-account-container-images-govcloud)
-- [Amazon Corretto 25 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-corretto-25-generally-available)
+- [DeepSeek-V3.1 model now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/deepseek-v3-1-model-fully-managed-amazon-bedrock)
+- [Qwen3 models are now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/qwen3-models-fully-managed-amazon-bedrock)
+- [OpenAI open weight models expand to new regions on AWS Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/open-ai-open-weight-models-new-regions-aws-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

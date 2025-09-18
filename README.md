@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions expands data source options and improves observability for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-data-source-options-observability-distributed-map)
 - [AWS Lambda Now Supports Cross-Account Container Images in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-cross-account-container-images-govcloud)
 - [Amazon Corretto 25 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-corretto-25-generally-available)
 - [Amazon Connect launches the ability to search contacts using agent hierarchy filters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-search-contacts-agent-hierarchy-filters/)
@@ -67,7 +68,6 @@
 - [Amazon EventBridge extends Customer Managed Key support to rule filter patterns and input transformers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-customer-managed-key-support-filter-patterns-input-transformers)
 - [AWS Budgets now supports custom time periods](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-budgets-custom-time-periods/)
 - [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250818](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-extended-support-minor-5744-rds/)
-- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Amazon EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-parallel-computing-service-ec2-capacity-blocks-ml/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

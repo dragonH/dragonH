@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Second-generation AWS Outposts racks now supported in the AWS Canada &lpar;Central&rpar; and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-outposts-racks-canada-us-west-regions)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/)
 - [Amazon Q Developer CLI announces support for remote MCP servers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/)
 - [AWS Step Functions expands data source options and improves observability for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-data-source-options-observability-distributed-map)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Serverless now supports Disk-Optimized Vectors](https://aws.amazon.com/about-aws/whats-new/2025/09/opensearch-serverless-disk-optimized-vectors)
 - [AWS Lambda Now Supports Cross-Account Container Images in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-cross-account-container-images-govcloud)
 - [Amazon Corretto 25 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-corretto-25-generally-available)
-- [Amazon Connect launches the ability to search contacts using agent hierarchy filters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-search-contacts-agent-hierarchy-filters/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

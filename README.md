@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/)
+- [Amazon Q Developer CLI announces support for remote MCP servers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/)
 - [AWS Step Functions expands data source options and improves observability for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-data-source-options-observability-distributed-map)
+- [Amazon Lex provides enhanced confirmation and currency built-in slots to 10 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-enhanced-confirmation-currency-slots-to-languages/)
+- [Amazon SageMaker HyperPod now supports autoscaling using Karpenter](https://aws.amazon.com/about-aws/whats-new/2025/09/sagemaker-hyperpod-autoscaling/)
+- [AWS Step Functions now supports IPv6 with dual-stack endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-ipv6-dual-stack-endpoints/)
+- [Amazon OpenSearch Serverless now supports Disk-Optimized Vectors](https://aws.amazon.com/about-aws/whats-new/2025/09/opensearch-serverless-disk-optimized-vectors)
 - [AWS Lambda Now Supports Cross-Account Container Images in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-cross-account-container-images-govcloud)
 - [Amazon Corretto 25 is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-corretto-25-generally-available)
 - [Amazon Connect launches the ability to search contacts using agent hierarchy filters](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-search-contacts-agent-hierarchy-filters/)
-- [Amazon EC2 I8ge instances now available in AWS Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i8ge-instances-in-europe-frankfurt)
-- [Announcing availability of second-generation AWS Outposts racks in 52 more countries](https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-aws-outposts-racks-more-countries)
-- [Amazon CloudWatch launches Cross-Account and Cross-Region Log Centralization](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-cross-account-cross-region-log-centralization)
-- [Amazon EventBridge extends Customer Managed Key support to rule filter patterns and input transformers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-eventbridge-customer-managed-key-support-filter-patterns-input-transformers)
-- [AWS Budgets now supports custom time periods](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-budgets-custom-time-periods/)
-- [Amazon RDS for MySQL announces Extended Support minor 5.7.44-RDS.20250818](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-extended-support-minor-5744-rds/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

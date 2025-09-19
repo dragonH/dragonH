@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS Neuron SDK 2.26.0](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neuron-2-26-announce/)
 - [Second-generation AWS Outposts racks now supported in the AWS Canada &lpar;Central&rpar; and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-outposts-racks-canada-us-west-regions)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/)
 - [Amazon Kinesis Data Streams expands Internet Protocol version 6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-kinesis-data-streams-ipv6-govcloud)
@@ -67,7 +68,6 @@
 - [Amazon Lex provides enhanced confirmation and currency built-in slots to 10 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-enhanced-confirmation-currency-slots-to-languages/)
 - [Qwen3 models are now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/qwen3-models-fully-managed-amazon-bedrock)
 - [DeepSeek-V3.1 model now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/deepseek-v3-1-model-fully-managed-amazon-bedrock)
-- [OpenAI open weight models expand to new regions on AWS Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/open-ai-open-weight-models-new-regions-aws-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -65,8 +65,8 @@
 - [Stability AI Image Services now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/stability-ai-image-services-generally-available-amazon-bedrock)
 - [AWS Step Functions expands data source options and improves observability for Distributed Map](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-data-source-options-observability-distributed-map)
 - [Amazon Lex provides enhanced confirmation and currency built-in slots to 10 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-lex-enhanced-confirmation-currency-slots-to-languages/)
-- [DeepSeek-V3.1 model now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/deepseek-v3-1-model-fully-managed-amazon-bedrock)
 - [Qwen3 models are now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/qwen3-models-fully-managed-amazon-bedrock)
+- [DeepSeek-V3.1 model now available fully managed in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/deepseek-v3-1-model-fully-managed-amazon-bedrock)
 - [OpenAI open weight models expand to new regions on AWS Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/open-ai-open-weight-models-new-regions-aws-bedrock)
 <!-- AWS-NEWS:END -->
 

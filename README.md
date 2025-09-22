@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect flow designer now supports analytics mode](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-flow-designer-analytics-mode/)
 - [Amazon OpenSearch Ingestion now supports cross-account ingestion](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-ingestion-cross-account-ingestion/)
 - [Amazon RDS for MySQL announces Innovation Release 9.4 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-innovation-release-94-database-preview-environment/)
 - [Amazon Redshift announces the general availability of Multidimensional Data Layouts](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-multidimensional-data-layouts/)
@@ -67,7 +68,6 @@
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/)
 - [Amazon Kinesis Data Streams expands Internet Protocol version 6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-kinesis-data-streams-ipv6-govcloud)
 - [Amazon Q Developer CLI announces support for remote MCP servers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/)
-- [Second-generation AWS Outposts racks now supported in the AWS Canada &lpar;Central&rpar; and US West &lpar;N. California&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/second-generation-outposts-racks-canada-us-west-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

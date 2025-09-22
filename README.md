@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Contact Lens now provides sensitive data redaction in 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-contact-lens-redaction-7-languages/)
 - [Amazon Connect flow designer now supports analytics mode](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-flow-designer-analytics-mode/)
 - [Amazon OpenSearch Ingestion now supports cross-account ingestion](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-ingestion-cross-account-ingestion/)
 - [Amazon RDS for MySQL announces Innovation Release 9.4 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-innovation-release-94-database-preview-environment/)
@@ -67,7 +68,6 @@
 - [AWS launches SiteWise MCP Server for Simplified Modeling](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-sitewise-mcp-server-modeling/)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/)
 - [Amazon Kinesis Data Streams expands Internet Protocol version 6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-kinesis-data-streams-ipv6-govcloud)
-- [Amazon Q Developer CLI announces support for remote MCP servers](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-q-developer-remote-mcp-servers/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

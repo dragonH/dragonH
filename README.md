@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R8gb instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/)
+- [Amazon Connect now supports you to associate custom attributes with interaction segments](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/)
 - [Amazon Connect Contact Lens now provides sensitive data redaction in 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-contact-lens-redaction-7-languages/)
 - [Amazon Connect flow designer now supports analytics mode](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-flow-designer-analytics-mode/)
 - [Amazon OpenSearch Ingestion now supports cross-account ingestion](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-ingestion-cross-account-ingestion/)
@@ -66,8 +68,6 @@
 - [Announcing AWS Neuron SDK 2.26.0](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-neuron-2-26-announce/)
 - [AWS Organizations supports full IAM policy language for service control policies &lpar;SCPs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-organizations-iam-language-service-control-policies/)
 - [AWS launches SiteWise MCP Server for Simplified Modeling](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-sitewise-mcp-server-modeling/)
-- [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-vpc-reachability-network-access-analyzer-seven-regions/)
-- [Amazon Kinesis Data Streams expands Internet Protocol version 6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-kinesis-data-streams-ipv6-govcloud)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

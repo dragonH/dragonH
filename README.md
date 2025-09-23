@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DataZone is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-datazone-additional-regions/)
+- [AWS License Manager now supports shared AWS Managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-license-manager-shared-managed-active-directory)
 - [AWS IAM Identity Center organization instances now support customer-managed KMS keys for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-organization-customer-managed-kms-keys-encryption-at-rest/)
 - [Amazon Nova Act extension: Build and test AI agents within your IDE](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-nova-act-extension-build-test-ai-agents-ide/)
-- [Amazon Connect now supports you to associate custom attributes with interaction segments](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/)
+- [Amazon RDS announces cross-Region and cross-account snapshot copy](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-cross-region-cross-account-snapshot-copy/)
 - [Amazon EC2 R8gb instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/)
+- [Amazon Connect now supports you to associate custom attributes with interaction segments](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/)
 - [Amazon Redshift Serverless is now available in the AWS Asia Paciﬁc &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-taipei/)
 - [Amazon Connect Contact Lens now provides sensitive data redaction in 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-contact-lens-redaction-7-languages/)
 - [Amazon Connect flow designer now supports analytics mode](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-flow-designer-analytics-mode/)
-- [Amazon OpenSearch Ingestion now supports cross-account ingestion](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-opensearch-ingestion-cross-account-ingestion/)
-- [Amazon RDS for MySQL announces Innovation Release 9.4 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-mysql-innovation-release-94-database-preview-environment/)
-- [Amazon Redshift announces the general availability of Multidimensional Data Layouts](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-multidimensional-data-layouts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

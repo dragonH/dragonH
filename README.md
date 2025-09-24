@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Servers launches a new Local Zone in Dallas, Texas](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-gamelift-servers-local-zone-dallas-texas/)
 - [Amazon DataZone is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-datazone-additional-regions/)
 - [AWS License Manager now supports shared AWS Managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-license-manager-shared-managed-active-directory)
 - [AWS IAM Identity Center organization instances now support customer-managed KMS keys for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-organization-customer-managed-kms-keys-encryption-at-rest/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 R8gb instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/)
 - [Amazon Connect now supports you to associate custom attributes with interaction segments](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/)
 - [Amazon Redshift Serverless is now available in the AWS Asia Paciﬁc &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-taipei/)
-- [Amazon Connect Contact Lens now provides sensitive data redaction in 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-contact-lens-redaction-7-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

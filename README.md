@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon GameLift Servers launches a new Local Zone in Dallas, Texas](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-gamelift-servers-local-zone-dallas-texas/)
+- [AWS announces unlimited network burst duration on EC2 I8g and I7i instances](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-unlimited-network-burst-duration-i8g-i7i)
+- [Amazon EC2 Auto Scaling now supports forced cancellation of instance refreshes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-forced-cancellation-instance/)
 - [Amazon DataZone is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-datazone-additional-regions/)
 - [AWS License Manager now supports shared AWS Managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-license-manager-shared-managed-active-directory)
 - [AWS IAM Identity Center organization instances now support customer-managed KMS keys for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-organization-customer-managed-kms-keys-encryption-at-rest/)
@@ -66,8 +68,6 @@
 - [Amazon RDS announces cross-Region and cross-account snapshot copy](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-cross-region-cross-account-snapshot-copy/)
 - [AWS announces EC2 instance attestation](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-ec2-instance-attestation)
 - [Amazon EC2 R8gb instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-r8gb-instances/)
-- [Amazon Connect now supports you to associate custom attributes with interaction segments](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-associate-custom-attributes-interaction-segments/)
-- [Amazon Redshift Serverless is now available in the AWS Asia Paciﬁc &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-taipei/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

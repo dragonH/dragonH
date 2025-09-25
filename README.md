@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I7i instances now available in AWS Europe &lpar;Milan&rpar; and AWS US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-available-in-milan-california/)
 - [Amazon CloudWatch now supports resource tags when monitoring vended metrics](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudwatch-tags-observability)
+- [You can now preview Amazon S3 Tables in the S3 console](https://aws.amazon.com/about-aws/whats-new/2025/09/preview-amazon-s3-tables-console)
 - [Announcing AWS Lambda Support for Code Signing in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-code-signing-govcloud)
 - [Application Recovery Controller Region switch is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/application-recovery-controller-region-switch-new-zealand/)
 - [Amazon Route 53 Resolver Query Logging now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-route-53-resolver-query-logging-available-asia-pacific-nz)
@@ -66,8 +68,6 @@
 - [AWS announces unlimited network burst duration on EC2 I8g and I7i instances](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-announces-unlimited-network-burst-duration-i8g-i7i)
 - [Amazon EC2 Auto Scaling now supports forced cancellation of instance refreshes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-forced-cancellation-instance/)
 - [Amazon DataZone is now available in 3 additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-datazone-additional-regions/)
-- [AWS License Manager now supports shared AWS Managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-license-manager-shared-managed-active-directory)
-- [AWS IAM Identity Center organization instances now support customer-managed KMS keys for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-organization-customer-managed-kms-keys-encryption-at-rest/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

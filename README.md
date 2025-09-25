@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-runtime-browser-code-interpreter-vpc-privatelink-cloudformation-tagging)
 - [Amazon EC2 I7i instances now available in AWS Europe &lpar;Milan&rpar; and AWS US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-available-in-milan-california/)
+- [AWS Network Firewall enhances application layer traffic controls](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-network-firewall-enhances-application-layer-traffic-controls)
 - [Research and Engineering Studio on AWS 2025.09 is now available](https://aws.amazon.com/about-aws/whats-new/2025/09/research-engineering-studio-aws-2025-09-now-available)
 - [Amazon CloudWatch now supports resource tags when monitoring vended metrics](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudwatch-tags-observability)
 - [AWS X-Ray introduces Adaptive Sampling for automatic optimized error detection](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-x-ray-adaptive-sampling-automatic-error/)
+- [Amazon EC2 Allowed AMIs setting adds new parameters for enhanced AMI governance](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-allowed-amis-setting-parameters-ami-governance/)
 - [You can now preview Amazon S3 Tables in the S3 console](https://aws.amazon.com/about-aws/whats-new/2025/09/preview-amazon-s3-tables-console)
+- [PostgreSQL 18.0 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/09/postgresql-180-amazon-rds-database-preview-environment/)
 - [Announcing AWS Lambda Support for Code Signing in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-lambda-code-signing-govcloud)
-- [Application Recovery Controller Region switch is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/application-recovery-controller-region-switch-new-zealand/)
-- [Amazon Route 53 Resolver Query Logging now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-route-53-resolver-query-logging-available-asia-pacific-nz)
-- [Amazon GameLift Servers launches a new Local Zone in Dallas, Texas](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-gamelift-servers-local-zone-dallas-texas/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -64,10 +64,10 @@
 - [AWS Network Firewall enhances application layer traffic controls](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-network-firewall-enhances-application-layer-traffic-controls)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c8gn-instances-additional-regions)
 - [Research and Engineering Studio on AWS 2025.09 is now available](https://aws.amazon.com/about-aws/whats-new/2025/09/research-engineering-studio-aws-2025-09-now-available)
+- [Billing View now supports cost management data from multiple organizations](https://aws.amazon.com/about-aws/whats-new/2025/09/billing-view-cost-management-multiple-organizations)
 - [Amazon CloudWatch now supports resource tags when monitoring vended metrics](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudwatch-tags-observability)
 - [AWS X-Ray introduces Adaptive Sampling for automatic optimized error detection](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-x-ray-adaptive-sampling-automatic-error/)
 - [Amazon EC2 Allowed AMIs setting adds new parameters for enhanced AMI governance](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-allowed-amis-setting-parameters-ami-governance/)
-- [You can now preview Amazon S3 Tables in the S3 console](https://aws.amazon.com/about-aws/whats-new/2025/09/preview-amazon-s3-tables-console)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

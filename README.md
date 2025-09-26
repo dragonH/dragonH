@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Analytics is now available in AWS Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-neptune-analytics-available-mumbai)
+- [AWS WAF Targeted Bot Control, Fraud &amp; DDoS Prevention Rule Group available in 3 more regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-targeted-bot-control-fraud-ddos-regions-expansion)
+- [Amazon RDS for Db2 now offers Reserved Instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-db2-offers-reserved-instances)
 - [Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-runtime-browser-code-interpreter-vpc-privatelink-cloudformation-tagging)
 - [Amazon EC2 I7i instances now available in AWS Europe &lpar;Milan&rpar; and AWS US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-available-in-milan-california/)
 - [Amazon Redshift Concurrency Scaling is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-concurrency-scaling-additional-aws-regions)
@@ -65,9 +68,6 @@
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c8gn-instances-additional-regions)
 - [Research and Engineering Studio on AWS 2025.09 is now available](https://aws.amazon.com/about-aws/whats-new/2025/09/research-engineering-studio-aws-2025-09-now-available)
 - [Billing View now supports cost management data from multiple organizations](https://aws.amazon.com/about-aws/whats-new/2025/09/billing-view-cost-management-multiple-organizations)
-- [Amazon CloudWatch now supports resource tags when monitoring vended metrics](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-cloudwatch-tags-observability)
-- [AWS X-Ray introduces Adaptive Sampling for automatic optimized error detection](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-x-ray-adaptive-sampling-automatic-error/)
-- [Amazon EC2 Allowed AMIs setting adds new parameters for enhanced AMI governance](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-allowed-amis-setting-parameters-ami-governance/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

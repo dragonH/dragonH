@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Neptune Analytics is now available in AWS Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-neptune-analytics-available-mumbai)
 - [AWS Clean Rooms supports incremental ID mapping with AWS Entity Resolution](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-incremental-id-mapping-entity-resolution)
+- [Amazon EBS increases the maximum size and provisioned performance of General Purpose &lpar;gp3&rpar; volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ebs-size-provisioned-performance-gp3-volumes/)
 - [AWS WAF Targeted Bot Control, Fraud &amp; DDoS Prevention Rule Group available in 3 more regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-targeted-bot-control-fraud-ddos-regions-expansion)
 - [Amazon RDS for Db2 now offers Reserved Instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-db2-offers-reserved-instances)
 - [Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-runtime-browser-code-interpreter-vpc-privatelink-cloudformation-tagging)
@@ -67,7 +68,6 @@
 - [Amazon Redshift Concurrency Scaling is now available in 10 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-concurrency-scaling-additional-aws-regions)
 - [AWS Network Firewall enhances application layer traffic controls](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-network-firewall-enhances-application-layer-traffic-controls)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c8gn-instances-additional-regions)
-- [Research and Engineering Studio on AWS 2025.09 is now available](https://aws.amazon.com/about-aws/whats-new/2025/09/research-engineering-studio-aws-2025-09-now-available)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

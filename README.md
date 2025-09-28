@@ -64,8 +64,8 @@
 - [AWS Clean Rooms supports incremental ID mapping with AWS Entity Resolution](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-incremental-id-mapping-entity-resolution)
 - [Amazon EBS increases the maximum size and provisioned performance of General Purpose &lpar;gp3&rpar; volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ebs-size-provisioned-performance-gp3-volumes/)
 - [AWS Compute Optimizer now supports 99 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-compute-optimizer-99-new-amazon-ec2-instance-types/)
-- [AWS WAF Targeted Bot Control, Fraud &amp; DDoS Prevention Rule Group available in 3 more regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-targeted-bot-control-fraud-ddos-regions-expansion)
 - [Amazon RDS for Db2 now offers Reserved Instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-db2-offers-reserved-instances)
+- [AWS WAF Targeted Bot Control, Fraud &amp; DDoS Prevention Rule Group available in 3 more regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-targeted-bot-control-fraud-ddos-regions-expansion)
 - [Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-runtime-browser-code-interpreter-vpc-privatelink-cloudformation-tagging)
 - [Amazon EC2 I7i instances now available in AWS Europe &lpar;Milan&rpar; and AWS US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-available-in-milan-california/)
 <!-- AWS-NEWS:END -->

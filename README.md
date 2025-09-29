@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Auto Scaling now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-ipv6/)
+- [Amazon ECS announces IPv6-only support](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-ipv6-only-support/)
 - [Amazon EC2 Auto Scaling expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-privatelink-fips-endpoints/)
+- [Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/anthropics-claude-sonnet-4-5-amazon-bedrock)
 - [Amazon Connect dashboards now support filtering and comparing metrics by any time range](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-dashboards-filtering-comparing-metrics-time-range)
 - [Amazon Neptune Analytics is now available in AWS Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-neptune-analytics-available-mumbai)
 - [Local file redirection is now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2025/09/local-file-redirection-amazon-appstream-multi-session-fleets/)
 - [Amazon MSK Connect is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-msk-connect-five-additional-regions/)
 - [AWS Clean Rooms supports incremental ID mapping with AWS Entity Resolution](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-clean-rooms-incremental-id-mapping-entity-resolution)
 - [Amazon EBS increases the maximum size and provisioned performance of General Purpose &lpar;gp3&rpar; volumes](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ebs-size-provisioned-performance-gp3-volumes/)
-- [AWS Compute Optimizer now supports 99 new Amazon EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-compute-optimizer-99-new-amazon-ec2-instance-types/)
-- [AWS WAF Targeted Bot Control, Fraud &amp; DDoS Prevention Rule Group available in 3 more regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-targeted-bot-control-fraud-ddos-regions-expansion)
-- [Amazon RDS for Db2 now offers Reserved Instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-db2-offers-reserved-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

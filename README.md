@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect dashboards now support filtering and comparing metrics by any time range](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-dashboards-filtering-comparing-metrics-time-range)
 - [Amazon Neptune Analytics is now available in AWS Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-neptune-analytics-available-mumbai)
 - [Local file redirection is now available on Amazon AppStream 2.0 multi-session fleets](https://aws.amazon.com/about-aws/whats-new/2025/09/local-file-redirection-amazon-appstream-multi-session-fleets/)
 - [Amazon MSK Connect is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-msk-connect-five-additional-regions/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for Db2 now offers Reserved Instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-db2-offers-reserved-instances)
 - [AWS WAF Targeted Bot Control, Fraud &amp; DDoS Prevention Rule Group available in 3 more regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-waf-targeted-bot-control-fraud-ddos-regions-expansion)
 - [Amazon Bedrock AgentCore Runtime, Browser, and Code Interpreter add support for VPC, AWS PrivateLink, CloudFormation, and tagging](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-agentcore-runtime-browser-code-interpreter-vpc-privatelink-cloudformation-tagging)
-- [Amazon EC2 I7i instances now available in AWS Europe &lpar;Milan&rpar; and AWS US West &lpar;N. California&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-i7i-instances-available-in-milan-california/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

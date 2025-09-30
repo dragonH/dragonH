@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-opensearch-service-region-integrated-analytics-experience/)
+- [AWS Direct Connect announces new location in Madrid, Spain](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-madrid-mad3/)
+- [AWS Direct Connect announces 100G expansion in Bogota, Colombia](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-100g-expansion-bogota/)
 - [Amazon SNS expands IPv6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-ipv6-aws-govcloud/)
 - [AWS Transform now enables Terraform for VMware network automation](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation)
-- [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
 - [AWS Transfer Family adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-iam-condition-keys)
+- [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
 - [AWS Outposts now supports external block volumes from Dell and HPE storage arrays](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-outposts-external-block-volumes-dell-hpe-storage-arrays)
 - [AWS Storage Gateway now supports VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-vpc-endpoint-policies)
 - [AWS Step Functions now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-service-quotas)
-- [AWS IAM Identity Center is available in Asia Pacific &lpar;Bangkok&rpar; and Mexico Central &lpar;Querétaro&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-bangkok-and-queretaro-regions)
-- [Announcing Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-managed-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

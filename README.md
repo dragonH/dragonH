@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker managed MLflow is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-mlflow-available-aws-govcloud/)
 - [Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-opensearch-service-region-integrated-analytics-experience/)
 - [AWS Direct Connect announces new location in Madrid, Spain](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-madrid-mad3/)
 - [AWS Direct Connect announces 100G expansion in Bogota, Colombia](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-100g-expansion-bogota/)
@@ -65,9 +66,8 @@
 - [AWS Transform now enables Terraform for VMware network automation](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation)
 - [AWS Transfer Family adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-iam-condition-keys)
 - [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
+- [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in Asia Pacific &lpar;Singapore&rpar; and Europe &lpar;London&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-evs-singapore-london-regions)
 - [AWS Outposts now supports external block volumes from Dell and HPE storage arrays](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-outposts-external-block-volumes-dell-hpe-storage-arrays)
-- [AWS Storage Gateway now supports VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-vpc-endpoint-policies)
-- [AWS Step Functions now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-service-quotas)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

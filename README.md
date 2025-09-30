@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 Auto Scaling now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-ipv6/)
-- [Amazon EC2 Auto Scaling expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-privatelink-fips-endpoints/)
 - [Amazon ECS announces IPv6-only support](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-ipv6-only-support/)
+- [Amazon EC2 Auto Scaling expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-privatelink-fips-endpoints/)
 - [Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/09/anthropics-claude-sonnet-4-5-amazon-bedrock)
 - [Amazon Connect dashboards now support filtering and comparing metrics by any time range](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-connect-dashboards-filtering-comparing-metrics-time-range)
 - [Amazon Bedrock now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-middle-east-uae-region/)
 - [AWS Network Firewall adds Reject and Alert actions for stateful domain list rule groups](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-network-firewall-reject-alert-domain-list-rule-groups/)
-- [Announcing Amazon RDS for PostgreSQL Extended Support versions R2: 12.22-rds.20250814 and 11.22-rds.20250814](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-rds-postgresql-extended-support-versions-12.22-rds-20250814-11.22-rds-20250814/)
-- [AWS Backup is now available in AWS Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-in-asia-pacific-new-zealand/)
 - [Amazon Bedrock now available in the Asia Pacific &lpar;Thailand, Malaysia, and Taipei&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-thailand-malaysia-taipei-regions/)
+- [Amazon Bedrock now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-bedrock-israel-tel-aviv-region/)
+- [AWS Backup is now available in AWS Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-backup-in-asia-pacific-new-zealand/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -63,11 +63,11 @@
 - [AWS Direct Connect announces new location in Madrid, Spain](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-madrid-mad3/)
 - [AWS Direct Connect announces 100G expansion in Bogota, Colombia](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-100g-expansion-bogota/)
 - [Amazon SNS expands IPv6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-ipv6-aws-govcloud/)
+- [Amazon SNS expands support for FIPS 140-3 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-fips-endpoints/)
 - [AWS Transform now enables Terraform for VMware network automation](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation)
 - [AWS Transfer Family adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-iam-condition-keys)
-- [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
 - [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in Asia Pacific &lpar;Singapore&rpar; and Europe &lpar;London&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-evs-singapore-london-regions)
-- [AWS Outposts now supports external block volumes from Dell and HPE storage arrays](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-outposts-external-block-volumes-dell-hpe-storage-arrays)
+- [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

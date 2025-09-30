@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-opensearch-service-region-integrated-analytics-experience/)
 - [Amazon SNS expands IPv6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-ipv6-aws-govcloud/)
 - [AWS Transform now enables Terraform for VMware network automation](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation)
 - [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
+- [AWS Transfer Family adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-iam-condition-keys)
 - [AWS Outposts now supports external block volumes from Dell and HPE storage arrays](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-outposts-external-block-volumes-dell-hpe-storage-arrays)
 - [AWS Storage Gateway now supports VPC endpoint policies](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-storage-gateway-vpc-endpoint-policies)
+- [AWS Step Functions now supports Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-step-functions-service-quotas)
 - [AWS IAM Identity Center is available in Asia Pacific &lpar;Bangkok&rpar; and Mexico Central &lpar;Querétaro&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-iam-identity-center-bangkok-and-queretaro-regions)
-- [AWS Transfer Family now supports VPC endpoint policies and FIPS VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-vpc-endpoint-policies)
-- [Amazon EC2 Auto Scaling now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-ipv6/)
-- [Amazon ECS announces IPv6-only support](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-ipv6-only-support/)
-- [Amazon EC2 Auto Scaling expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-auto-scaling-privatelink-fips-endpoints/)
+- [Announcing Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ecs-managed-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

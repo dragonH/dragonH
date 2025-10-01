@@ -66,8 +66,8 @@
 - [Amazon SNS expands support for FIPS 140-3 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-fips-endpoints/)
 - [AWS Transform now enables Terraform for VMware network automation](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transform-terraform-vmware-network-automation)
 - [AWS Transfer Family adds support for additional IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-transfer-family-iam-condition-keys)
-- [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
 - [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in Asia Pacific &lpar;Singapore&rpar; and Europe &lpar;London&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-evs-singapore-london-regions)
+- [AWS Firewall Manager launches in AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-firewall-manager-aws-asia-pacific-taipei-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

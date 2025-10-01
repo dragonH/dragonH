@@ -61,13 +61,13 @@
 - [Amazon Bedrock Data Automation now provides support for enhancing transcriptions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-support-enhancing-transcription/)
 - [Application map is now generally available for Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/10/application-map-generally-available-amazon-cloudwatch)
 - [Amazon Detective now supports AWS PrivateLink for private API access](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-detective-aws-privatelink-private-api-access)
+- [AWS API MCP Server v1.0.0 release](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-api-mcp-server-v1-0-0-release)
 - [AWS Cloud WAN is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-cloud-wan-govcloud/)
 - [Amazon SageMaker managed MLflow is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sagemaker-mlflow-available-aws-govcloud/)
 - [Amazon CloudWatch and OpenSearch Service expand region support for integrated analytics experience](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-cloudwatch-opensearch-service-region-integrated-analytics-experience/)
 - [AWS Direct Connect announces new location in Madrid, Spain](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-madrid-mad3/)
 - [AWS Direct Connect announces 100G expansion in Bogota, Colombia](https://aws.amazon.com/about-aws/whats-new/2025/09/aws-direct-connect-100g-expansion-bogota/)
 - [Amazon SNS expands IPv6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-ipv6-aws-govcloud/)
-- [Amazon SNS expands support for FIPS 140-3 endpoints](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-sns-fips-endpoints/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

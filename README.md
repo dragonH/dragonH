@@ -64,10 +64,10 @@
 - [Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm)
 - [AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints)
 - [Amazon Cognito adds terms of use and privacy policy documents support to Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-terms-use-privacy-policy-documents-managed-login)
+- [AWS Config advanced query and aggregator now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-config-advanced-query-aggregator-new-zealand-region)
 - [Amazon Connect makes it easier to get customer input on outbound calls](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-customer-input-outbound-calls)
-- [AWS Clean Rooms now supports data access budgets](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-data-access-budgets/)
-- [AWS Parallel Computing Service now supports dynamic cluster updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-dynamic-cluster/)
-- [AWS Parallel Computing Service expands Slurm customization capabilities](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-slurm-customization/)
+- [AWS Builder ID now supports Sign in with Google](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-builder-id-sign-in-google)
+- [Amazon GameLift Servers adds ability to view and connect to instances in the console](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-servers-view-connect-instances-console)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

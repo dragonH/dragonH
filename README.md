@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports agent screen recording for ChromeOS](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/)
+- [AWS Direct Connect announces 100G expansion in Makati City, Philippines](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-makati-city/)
+- [Amazon Connect now provides agent time-off balance data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/)
+- [Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm)
+- [AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints)
+- [Amazon Cognito adds terms of use and privacy policy documents support to Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-terms-use-privacy-policy-documents-managed-login)
 - [Amazon Connect makes it easier to get customer input on outbound calls](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-customer-input-outbound-calls)
 - [AWS Clean Rooms now supports data access budgets](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-data-access-budgets/)
-- [Amazon EC2 Instance Connect Endpoint now supports IPv6 connectivity](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-instance-connect-endpoint-ipv6)
-- [Amazon GameLift Streams adds IPv6 support for streaming Windows applications](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-ipv6-support)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports IPv6 with dual-stack endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-keyspaces-apache-cassandra-ipv6-dual-stack-endpoints/)
-- [Announcing Apache Airflow 3.0 support in Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/about-aws/whats-new/2025/10/apache-airflow-3-amazon-mwaa/)
-- [Amazon Connect now provides agent time-off balance data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/)
-- [Amazon Bedrock Data Automation now provides support for enhancing transcriptions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-support-enhancing-transcription/)
-- [Application map is now generally available for Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/10/application-map-generally-available-amazon-cloudwatch)
-- [Amazon Detective now supports AWS PrivateLink for private API access](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-detective-aws-privatelink-private-api-access)
+- [AWS Parallel Computing Service now supports dynamic cluster updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-dynamic-cluster/)
+- [AWS Parallel Computing Service expands Slurm customization capabilities](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-pcs-slurm-customization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

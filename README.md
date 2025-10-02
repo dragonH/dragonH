@@ -62,12 +62,12 @@
 - [Amazon Connect now supports agent screen recording for ChromeOS](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/)
 - [AWS Direct Connect announces 100G expansion in Makati City, Philippines](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-makati-city/)
 - [Amazon Connect now provides agent time-off balance data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/)
-- [Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm)
-- [AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints)
 - [Amazon Cognito adds terms of use and privacy policy documents support to Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-terms-use-privacy-policy-documents-managed-login)
+- [Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm)
 - [AWS Config advanced query and aggregator now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-config-advanced-query-aggregator-new-zealand-region)
+- [AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints)
+- [Open Source Model Context Protocol &lpar;MCP&rpar; Server now available for Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2025/10/open-source-mcp-server-amazon-bedrock-agentcore)
 - [Amazon Connect makes it easier to get customer input on outbound calls](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-customer-input-outbound-calls)
-- [AWS Builder ID now supports Sign in with Google](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-builder-id-sign-in-google)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon OpenSearch Ingestion now supports batch AI inference](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference)
+- [Amazon Kinesis Video Streams now supports IPv6 for Streams capability](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-video-streams-ipv6-streams-capability/)
 - [AWS End User Messaging now sends onboarding progress alerts via Slack, Email, or any other EventBridge destination](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-end-user-messaging-onboarding-progress-alerts-slack-email-eventbridge-destination)
 - [Amazon Connect now provides generative AI-powered email conversation overviews and suggested responses](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-generative-ai-powered-email-conversation-overviews)
 - [AWS Clean Rooms now supports collaboration with cross-region data sources](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-collaboration-cross-region-data-sources)
@@ -67,7 +68,6 @@
 - [AWS Introduces self-service invoice correction feature](https://aws.amazon.com/about-aws/whats-new/2025/10/self-service-invoice-correction-feature/)
 - [AWS Directory Service enables API-driven Managed Microsoft AD edition upgrades](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-api-edition-upgrades)
 - [Amazon Connect now supports agent screen recording for ChromeOS](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/)
-- [AWS Direct Connect announces 100G expansion in Makati City, Philippines](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-makati-city/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

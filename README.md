@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now provides generative AI-powered email conversation overviews and suggested responses](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-generative-ai-powered-email-conversation-overviews)
+- [AWS Clean Rooms now supports collaboration with cross-region data sources](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-collaboration-cross-region-data-sources)
 - [AWS Directory Service introduces IPv6 support for Managed Microsoft AD and AD Connector](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-ipv6)
+- [EC2 Image Builder now provides enhanced capabilities for managing image pipelines](https://aws.amazon.com/about-aws/whats-new/2025/10/ec2-image-builder-capabilities-managing-image-pipelines/)
 - [AWS Directory Service enables API-driven Managed Microsoft AD edition upgrades](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-api-edition-upgrades)
 - [Amazon Connect now supports agent screen recording for ChromeOS](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/)
 - [AWS Direct Connect announces 100G expansion in Makati City, Philippines](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-makati-city/)
 - [Amazon Connect now provides agent time-off balance data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-time-off-balance-data/)
 - [Amazon Cognito adds terms of use and privacy policy documents support to Managed Login](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-terms-use-privacy-policy-documents-managed-login)
 - [Amazon Neptune Database now integrates with GraphStorm for scalable graph machine learning](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-database-graphstorm)
-- [AWS Config advanced query and aggregator now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-config-advanced-query-aggregator-new-zealand-region)
-- [AWS Secrets Manager expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-secrets-manager-privatelink-fips-endpoints)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

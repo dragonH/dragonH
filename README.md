@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue adds write operations for SAP OData, Adobe Marketo Engage, Salesforce Marketing Cloud, and HubSpot connectors](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-glue-write-operations-connectors)
 - [Amazon OpenSearch Ingestion now supports batch AI inference](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference)
 - [Amazon Kinesis Video Streams now supports IPv6 for Streams capability](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-video-streams-ipv6-streams-capability/)
 - [AWS End User Messaging now sends onboarding progress alerts via Slack, Email, or any other EventBridge destination](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-end-user-messaging-onboarding-progress-alerts-slack-email-eventbridge-destination)
@@ -67,7 +68,6 @@
 - [EC2 Image Builder now provides enhanced capabilities for managing image pipelines](https://aws.amazon.com/about-aws/whats-new/2025/10/ec2-image-builder-capabilities-managing-image-pipelines/)
 - [AWS Introduces self-service invoice correction feature](https://aws.amazon.com/about-aws/whats-new/2025/10/self-service-invoice-correction-feature/)
 - [AWS Directory Service enables API-driven Managed Microsoft AD edition upgrades](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-api-edition-upgrades)
-- [Amazon Connect now supports agent screen recording for ChromeOS](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-agent-screen-recording-chromeos/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

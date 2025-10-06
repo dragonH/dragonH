@@ -65,8 +65,8 @@
 - [Amazon Connect now provides generative AI-powered email conversation overviews and suggested responses](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-generative-ai-powered-email-conversation-overviews)
 - [AWS Clean Rooms now supports collaboration with cross-region data sources](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-collaboration-cross-region-data-sources)
 - [AWS Directory Service introduces IPv6 support for Managed Microsoft AD and AD Connector](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-ipv6)
-- [EC2 Image Builder now provides enhanced capabilities for managing image pipelines](https://aws.amazon.com/about-aws/whats-new/2025/10/ec2-image-builder-capabilities-managing-image-pipelines/)
 - [AWS Introduces self-service invoice correction feature](https://aws.amazon.com/about-aws/whats-new/2025/10/self-service-invoice-correction-feature/)
+- [EC2 Image Builder now provides enhanced capabilities for managing image pipelines](https://aws.amazon.com/about-aws/whats-new/2025/10/ec2-image-builder-capabilities-managing-image-pipelines/)
 - [AWS Directory Service enables API-driven Managed Microsoft AD edition upgrades](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-api-edition-upgrades)
 <!-- AWS-NEWS:END -->
 

@@ -58,7 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [New Compute Optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-ec2-c8i-and-c8i-flex-instances-generally-available)
+- [New Compute Optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available)
 - [AWS Glue adds write operations for SAP OData, Adobe Marketo Engage, Salesforce Marketing Cloud, and HubSpot connectors](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-glue-write-operations-connectors)
 - [Amazon OpenSearch Ingestion now supports batch AI inference](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference)
 - [Amazon Kinesis Video Streams now supports IPv6 for Streams capability](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-video-streams-ipv6-streams-capability/)
@@ -66,8 +66,8 @@
 - [Amazon Connect now provides generative AI-powered email conversation overviews and suggested responses](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-generative-ai-powered-email-conversation-overviews)
 - [AWS Clean Rooms now supports collaboration with cross-region data sources](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-collaboration-cross-region-data-sources)
 - [AWS Directory Service introduces IPv6 support for Managed Microsoft AD and AD Connector](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-ipv6)
-- [AWS Introduces self-service invoice correction feature](https://aws.amazon.com/about-aws/whats-new/2025/10/self-service-invoice-correction-feature/)
 - [EC2 Image Builder now provides enhanced capabilities for managing image pipelines](https://aws.amazon.com/about-aws/whats-new/2025/10/ec2-image-builder-capabilities-managing-image-pipelines/)
+- [AWS Introduces self-service invoice correction feature](https://aws.amazon.com/about-aws/whats-new/2025/10/self-service-invoice-correction-feature/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

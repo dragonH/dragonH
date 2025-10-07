@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.34](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34)
 - [Amazon Connect launches new case APIs to link related cases, add custom related items, and search across them](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-cases-api-link-search/)
+- [Amazon Connect now enables you to customize service level calculations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-enables-service-level-calculation-configuration)
 - [New Compute Optimized Amazon EC2 C8i and C8i-flex instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8i-and-c8i-flex-instances-generally-available)
 - [AWS Glue adds write operations for SAP OData, Adobe Marketo Engage, Salesforce Marketing Cloud, and HubSpot connectors](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-glue-write-operations-connectors)
 - [Amazon OpenSearch Ingestion now supports batch AI inference](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-batch-ai-inference)
@@ -67,7 +68,6 @@
 - [AWS End User Messaging now sends onboarding progress alerts via Slack, Email, or any other EventBridge destination](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-end-user-messaging-onboarding-progress-alerts-slack-email-eventbridge-destination)
 - [Amazon Connect now provides generative AI-powered email conversation overviews and suggested responses](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-generative-ai-powered-email-conversation-overviews)
 - [AWS Clean Rooms now supports collaboration with cross-region data sources](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-collaboration-cross-region-data-sources)
-- [AWS Directory Service introduces IPv6 support for Managed Microsoft AD and AD Connector](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-directory-service-ipv6)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

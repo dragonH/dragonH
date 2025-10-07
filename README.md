@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon RDS for Db2 launches support for native database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now available in 4 new regions across Asia Pacific and Mexico](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-documentdb-mongodb-compatibility-new-regions-asia-pacific-mexico)
 - [Amazon VPC Lattice now supports configurable IP addresses for Resource Gateways](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-lattice-configurable-ip-resource-gateway/)
+- [Amazon RDS for Db2 launches support for native database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/)
 - [AWS Marketplace now supports new currencies for usage-based private offers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-currencies-usage-based-private-offers)
-- [Automatic quota management is now generally available for AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/10/automatic-quota-management-service-quotas/)
+- [Amazon EC2 Im4gn instances now available in AWS Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-im4gn-instances-asia-pacific-mumbai-region/)
 - [AWS Marketplace announces enhanced pricing dimension capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-dimension-sellers/)
+- [Automatic quota management is now generally available for AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/10/automatic-quota-management-service-quotas/)
 - [Amazon Redshift Serverless with lower base capacity available in the AWS Asia Pacific &lpar;Seoul&rpar; and Canada &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-seoul-europe-paris/)
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.34](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34)
 - [AWS Incident Detection and Response is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-incident-detection-now-available-govcloud-regions)
-- [Amazon Connect launches new case APIs to link related cases, add custom related items, and search across them](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-cases-api-link-search/)
-- [Amazon Connect now enables you to customize service level calculations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-enables-service-level-calculation-configuration)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

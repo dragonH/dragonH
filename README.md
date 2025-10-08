@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I7ie instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-available-in-aws-sao-paulo/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now available in 4 new regions across Asia Pacific and Mexico](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-documentdb-mongodb-compatibility-new-regions-asia-pacific-mexico)
 - [Amazon VPC Lattice now supports configurable IP addresses for Resource Gateways](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-lattice-configurable-ip-resource-gateway/)
 - [Amazon RDS for Db2 launches support for native database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-for-db2-native-database-backup/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace announces enhanced pricing dimension capabilities for sellers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-dimension-sellers/)
 - [Automatic quota management is now generally available for AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2025/10/automatic-quota-management-service-quotas/)
 - [Amazon Redshift Serverless with lower base capacity available in the AWS Asia Pacific &lpar;Seoul&rpar; and Canada &lpar;Central&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/09/amazon-redshift-serverless-asia-pacific-seoul-europe-paris/)
-- [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.34](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-distro-kubernetes-version-1-34)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

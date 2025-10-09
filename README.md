@@ -64,10 +64,10 @@
 - [Amazon EC2 C6in instances are now available in Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c6in-instances-mexico-central-region)
 - [New General Purpose Amazon EC2 M8a Instances](https://aws.amazon.comabout-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/)
 - [Amazon EC2 I7ie instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-available-in-aws-sao-paulo/)
-- [Amazon EC2 R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-aws-regions)
 - [Amazon EC2 M8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m8gd-instances-additional-aws-regions)
+- [Amazon EC2 R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-aws-regions)
 - [Amazon Q Developer now help customers understand service prices and estimate workload costs](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-q-developer-understand-service-prices-estimate-workload-costs)
-- [Amazon Location Service Updates for Vietnam&#39;s New Administrative Boundaries](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-admin-boundaries-vietnam/)
+- [Amazon EC2 C8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gd-instances-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

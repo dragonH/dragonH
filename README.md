@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Analytics is now available in AWS Canada &lpar;Central&rpar; and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-analytics-canada-central-australia-sydney/)
 - [Introducing Amazon Quick Suite: your agentic AI-powered workspace](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-suite-agentic-ai-powered-workspace)
 - [AWS Direct Connect announces 100G expansion in Kansas City, MO](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-expansion-kansas-city/)
 - [Amazon EC2 I7i instances now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-available-in-aws-europe-spain/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker notebook instance now supports Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-notebook-instance-amazon-linux-2023/)
 - [Amazon EC2 I7ie instances now available in AWS South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-available-in-aws-sao-paulo/)
 - [New General Purpose Amazon EC2 M8a Instances](https://aws.amazon.com/about-aws/whats-new/2025/10/general-purpose-amazon-ec2-m8a-instances/)
-- [Amazon EC2 M8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m8gd-instances-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

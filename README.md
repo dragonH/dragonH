@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick Sight expands font customization for visuals](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization)
 - [Amazon Bedrock AgentCore is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/)
+- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
 - [AWS Client VPN is now supporting MacOS Tahoe](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-client-vpn-macos-tahoe/)
 - [Amazon Aurora PostgreSQL now supports R8g database instances in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-r8g-database-instances-additional-aws-regions/)
 - [Amazon Connect now supports copy and bulk edit of agent scheduling configuration](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-copy-bulk-edit-agent-scheduling/)
@@ -66,8 +68,6 @@
 - [Amazon Neptune Analytics is now available in AWS Canada &lpar;Central&rpar; and Australia &lpar;Sydney&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-neptune-analytics-canada-central-australia-sydney/)
 - [Amazon EBS io2 Block Express supports China Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-io2-block-express-china-regions/)
 - [Introducing Amazon Quick Suite: your agentic AI-powered workspace](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-suite-agentic-ai-powered-workspace)
-- [AWS Direct Connect announces 100G expansion in Kansas City, MO](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-direct-connect-100g-expansion-kansas-city/)
-- [Amazon EC2 I7i instances now available in AWS Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-available-in-aws-europe-spain/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

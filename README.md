@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 M7i instances are now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m7i-instances-milan-region/)
+- [Amazon AppStream 2.0 announces availability of license included Microsoft applications](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-appstream-license-included-apps)
 - [Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-0)
+- [Amazon EBS now supports Volume Clones for instant volume copies](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-volume-clones-instant-volume-copies)
 - [Amazon Route 53 Profiles now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-route-53-profiles-supports-aws-privatelink)
 - [Amazon EC2 M8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m8g-instances-additional-regions/)
 - [Amazon Connect now provides configurable thresholds for schedule adherence](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-configurable-thresholds-schedule-adherence/)
 - [AWS Transfer Family SFTP connectors now support VPC-based connectivity](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-transfer-family-sftp-connectors-vpc-based-connectivity/)
+- [Amazon MSK Connect is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-msk-connect-ten-additional-regions/)
 - [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-supports-latest-cu-gdr-updates-for-microsoft-sql-server)
-- [Amazon Quick Sight expands font customization for visuals](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization)
-- [AWS now supports immediate resource discovery within a Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-immediate-resource-discovery-within-region/)
-- [Amazon EC2 High Memory U7i instances now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-asia-pacific-mumbai-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

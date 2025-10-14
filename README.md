@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-0)
+- [Amazon EC2 M8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m8g-instances-additional-regions/)
 - [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-supports-latest-cu-gdr-updates-for-microsoft-sql-server)
 - [Amazon Quick Sight expands font customization for visuals](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quicksight-expands-font-customization)
 - [AWS now supports immediate resource discovery within a Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-immediate-resource-discovery-within-region/)
@@ -66,8 +68,6 @@
 - [Amazon Bedrock AgentCore is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/)
 - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-service-availability/)
 - [AWS Config now supports 3 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-config-new-resource-types)
-- [Announcing vector search for Amazon ElastiCache](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-elasticache-vector-search/)
-- [Generative AI observability now generally available for Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/10/generative-ai-observability-amazon-cloudwatch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

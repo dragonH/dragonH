@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-regions)
+- [Amazon ECS supports running Firelens as a non-root user](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-running-firelens-as-nonroot-user/)
 - [Amazon EC2 M7i instances are now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m7i-instances-milan-region/)
 - [Amazon AppStream 2.0 announces availability of license included Microsoft applications](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-appstream-license-included-apps)
-- [Amazon EBS now supports Volume Clones for instant volume copies](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-volume-clones-instant-volume-copies)
 - [Announcing AWS for Fluent Bit 3.0.0 based on Fluent Bit 4.1.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-fluent-bit-3-0-0-based-4-1-0)
+- [Amazon EBS now supports Volume Clones for instant volume copies](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-volume-clones-instant-volume-copies)
 - [Amazon Route 53 Profiles now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-route-53-profiles-supports-aws-privatelink)
 - [Amazon EC2 M8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m8g-instances-additional-regions/)
 - [Amazon Connect now provides configurable thresholds for schedule adherence](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-configurable-thresholds-schedule-adherence/)
 - [AWS Transfer Family SFTP connectors now support VPC-based connectivity](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-transfer-family-sftp-connectors-vpc-based-connectivity/)
-- [Amazon MSK Connect is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-msk-connect-ten-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

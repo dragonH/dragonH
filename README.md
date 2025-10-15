@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions)
 - [AWS SAM CLI adds Finch support, expanding local development tool options for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-sam-cli-finch-support)
 - [Claude 4.5 Haiku by Anthropic now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock)
 - [Second-generation AWS Outposts racks now supported in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/second-generation-aws-outposts-racks-europe-ireland-region)
@@ -65,9 +66,8 @@
 - [AWS Step Functions now supports Diagnose with Amazon Q](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-step-functions-diagnose-amazon-q)
 - [Amazon Bedrock simplifies access with automatic enablement of serverless foundation models](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-automatic-enablement-serverless-foundation-models)
 - [DeepSeek, OpenAI, and Qwen models available in Amazon Bedrock in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/deepseek-openai-qwen-models-amazon-bedrock-additional-regions)
+- [Amazon Aurora PostgreSQL zero-ETL integration with Amazon SageMaker is now available](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-zero-etl-integration-sagemaker)
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-regions)
-- [Amazon ECS supports running Firelens as a non-root user](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-running-firelens-as-nonroot-user/)
-- [AWS Backup expands information in job APIs and Backup Audit Manager reports](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-expands-information-job-api-audit-manager/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

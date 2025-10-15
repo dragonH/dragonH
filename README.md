@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Claude 4.5 haiku by Anthropic now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock)
-- [AWS Backup enhances backup plan management with schedule preview](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-plan-management/)
+- [AWS SAM CLI adds Finch support, expanding local development tool options for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-sam-cli-finch-support)
+- [Claude 4.5 Haiku by Anthropic now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock)
 - [Second-generation AWS Outposts racks now supported in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/second-generation-aws-outposts-racks-europe-ireland-region)
+- [AWS Backup enhances backup plan management with schedule preview](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-plan-management/)
+- [AWS Step Functions now supports Diagnose with Amazon Q](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-step-functions-diagnose-amazon-q)
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-regions)
 - [Amazon ECS supports running Firelens as a non-root user](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-running-firelens-as-nonroot-user/)
 - [AWS Backup expands information in job APIs and Backup Audit Manager reports](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-expands-information-job-api-audit-manager/)
 - [AWS Application Load Balancer launches URL and Host Header Rewrite](https://aws.amazon.com/about-aws/whats-new/2025/10/application-load-balancer-url-header-rewrite)
 - [Amazon MSK adds support for Apache Kafka version 4.1](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-msk-apache-kafka-version-4-1)
-- [Amazon Kinesis Data Streams announces new Fault Injection Service &lpar;FIS&rpar; actions for API errors](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-data-streams-fis-actions-api-errors/)
-- [Amazon EC2 M7i instances are now available in the Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-m7i-instances-milan-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gn-instances-additional-regions)
 - [Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions)
 - [AWS SAM CLI adds Finch support, expanding local development tool options for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-sam-cli-finch-support)
 - [Claude 4.5 Haiku by Anthropic now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock simplifies access with automatic enablement of serverless foundation models](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-automatic-enablement-serverless-foundation-models)
 - [DeepSeek, OpenAI, and Qwen models available in Amazon Bedrock in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/deepseek-openai-qwen-models-amazon-bedrock-additional-regions)
 - [Amazon Aurora PostgreSQL zero-ETL integration with Amazon SageMaker is now available](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-postgresql-zero-etl-integration-sagemaker)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8g-instances-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

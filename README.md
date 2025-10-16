@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream now supports InfluxDB 3](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-timestream-influxdb-3/)
+- [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gn-instances-additional-regions)
+- [Amazon EC2 now supports CPU options optimization for license-included instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-cpu-options-optimization-license-included-instances)
 - [AWS Global Accelerator now supports endpoints in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-global-accelerator-endpoints-in-two-aws-regions/)
 - [AWS Security Hub CSPM now supports CIS AWS Foundations Benchmark v5.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-security-hub-cspm-cis-foundations-benchmark-v5/)
+- [Amazon DocumentDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-documentdb-ipv6-support/)
 - [Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions)
 - [AWS SAM CLI adds Finch support, expanding local development tool options for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-sam-cli-finch-support)
 - [Claude 4.5 Haiku by Anthropic now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock)
-- [Second-generation AWS Outposts racks now supported in the AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/second-generation-aws-outposts-racks-europe-ireland-region)
-- [AWS Backup enhances backup plan management with schedule preview](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-plan-management/)
-- [AWS Step Functions now supports Diagnose with Amazon Q](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-step-functions-diagnose-amazon-q)
-- [Amazon Bedrock simplifies access with automatic enablement of serverless foundation models](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-automatic-enablement-serverless-foundation-models)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

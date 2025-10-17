@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports Graviton4 based &lpar;c8g,m8g,r8g and r8gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-graviton4-based-instances)
+- [Customer managed KMS keys now available for Automated Reasoning checks](https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/)
+- [AWS Systems Manager Patch Manager launches security updates notification for Windows](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-systems-manager-patch-manager-windows/)
 - [Amazon Timestream now supports InfluxDB 3](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-timestream-influxdb-3/)
 - [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gn-instances-additional-regions)
@@ -65,9 +68,6 @@
 - [AWS Global Accelerator now supports endpoints in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-global-accelerator-endpoints-in-two-aws-regions/)
 - [AWS Security Hub CSPM now supports CIS AWS Foundations Benchmark v5.0](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-security-hub-cspm-cis-foundations-benchmark-v5/)
 - [Amazon DocumentDB now supports Internet Protocol Version 6 &lpar;IPv6&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-documentdb-ipv6-support/)
-- [Amazon WorkSpaces Core Managed Instances is now available in 5 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-core-managed-instances-additional-regions)
-- [AWS SAM CLI adds Finch support, expanding local development tool options for serverless applications](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-sam-cli-finch-support)
-- [Claude 4.5 Haiku by Anthropic now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/claude-4-5-haiku-anthropic-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

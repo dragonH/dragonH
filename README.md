@@ -63,11 +63,11 @@
 - [AWS Systems Manager Patch Manager launches security updates notification for Windows](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-systems-manager-patch-manager-windows/)
 - [Customer managed KMS keys now available for Automated Reasoning checks](https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8g-instances-additional-regions/)
+- [AWS Marketplace now supports purchase order line numbers](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-po-line-numbers)
 - [Amazon Timestream now supports InfluxDB 3](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-timestream-influxdb-3/)
 - [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-c8gn-instances-additional-regions)
 - [Amazon EC2 now supports Optimize CPUs for license-included instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-optimize-cpu-license-included-instances)
-- [AWS Global Accelerator now supports endpoints in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-global-accelerator-endpoints-in-two-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

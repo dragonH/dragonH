@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Nitro Enclaves are now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-nitro-enclaves-available-in-all-regions/)
 - [Amazon SES adds IP observability for Dedicated IP addresses &lpar;managed&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ses-ip-observability-dedicated-op-addresses-managed)
 - [Amazon Corretto October 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-corretto-october-2025-quarterly-updates)
+- [Amazon Bedrock Data Automation supports additional formats for video and faster processing for images](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-data-automation-formats-video-images/)
 - [Amazon CloudWatch Database Insights now provides on-demand analysis for RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/cloudwatch-database-on-demand-analysis-rds-sql-server/)
 - [Amazon Connect now supports automated follow-up evaluations triggered by initial evaluation results](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-automated-evaluations-triggered-evaluations)
 - [Amazon U7i instances now available in Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-europe-london-region/)
+- [Amazon Nova now supports the customization of content moderation settings](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-nova-customization-content-moderation-settings/)
 - [Amazon ECS now publishes AWS CloudTrail data events for insight into API activities](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-aws-cloudtrail-data-events-insight-api-activities)
 - [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm v25.05](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-parallel-computing-service-supports-pcs-slurm-v25-05/)
-- [CloudWatch Database Insights now supports tag based access control](https://aws.amazon.com/about-aws/whats-new/2025/10/database-insights-tag-based-access-control)
-- [Announcing Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-capacity-manager)
-- [Amazon OpenSearch Service now supports Graviton4 based &lpar;c8g,m8g,r8g and r8gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-graviton4-based-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

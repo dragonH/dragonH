@@ -61,13 +61,13 @@
 - [Amazon SES adds IP observability for Dedicated IP addresses &lpar;managed&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ses-ip-observability-dedicated-op-addresses-managed)
 - [Amazon Corretto October 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-corretto-october-2025-quarterly-updates)
 - [Amazon U7i instances now available in Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-europe-london-region/)
+- [Amazon CloudWatch Database Insights now provides on-demand analysis for RDS for SQL Server](https://aws.amazon.com/about-aws/whats-new/2025/10/cloudwatch-database-on-demand-analysis-rds-sql-server/)
 - [Amazon ECS now publishes AWS CloudTrail data events for insight into API activities](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-aws-cloudtrail-data-events-insight-api-activities)
 - [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm v25.05](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-parallel-computing-service-supports-pcs-slurm-v25-05/)
 - [CloudWatch Database Insights now supports tag based access control](https://aws.amazon.com/about-aws/whats-new/2025/10/database-insights-tag-based-access-control)
 - [Announcing Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-capacity-manager)
 - [Amazon OpenSearch Service now supports Graviton4 based &lpar;c8g,m8g,r8g and r8gd&rpar; instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-opensearch-service-supports-graviton4-based-instances)
 - [AWS Systems Manager Patch Manager launches security updates notification for Windows](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-systems-manager-patch-manager-windows/)
-- [Customer managed KMS keys now available for Automated Reasoning checks](https://aws.amazon.com/about-aws/whats-new/2025/10/customer-managed-kms-keys-automated-reasoning-checks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

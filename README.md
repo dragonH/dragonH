@@ -62,12 +62,12 @@
 - [Amazon U7i instances now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/)
 - [Amazon EKS Auto Mode now available in AWS GovCloud &lpar;US-East&rpar; and &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-auto-mode-aws-govcloud-us-east-west)
 - [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
-- [Amazon CloudWatch Agent adds support for Windows Event Log Filters](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters)
 - [Amazon S3 now generates AWS CloudTrail events for S3 Tables maintenance operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-generates-aws-cloudtrail-events)
+- [Amazon CloudWatch Agent adds support for Windows Event Log Filters](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters)
 - [Amazon Redshift auto-copy is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-redshift-auto-copy-additional-aws-regions)
 - [Amazon DCV releases version 2025.0 with enhanced keyboard handling and WebAuthn support](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dvc-releases-version-2025-0)
 - [Amazon RDS for SQL Server enables encrypting native backups using server-side encryption with AWS KMS keys &lpar;SSE-KMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-sql-server-kms-native-backup/)
-- [AWS’ Customer Carbon Footprint Tool now includes Scope 3 emissions data](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-customer-carbon-footprint-tool-scope-3-emissions-data)
+- [Amazon RDS for SQL Server now supports retaining CDC configurations when restoring database backups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-sql-server-retaining-cdc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

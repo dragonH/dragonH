@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 now generates AWS CloudTrail events for S3 Tables maintenance operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-generates-aws-cloudtrail-events)
 - [AWS announces Nitro Enclaves are now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-nitro-enclaves-available-in-all-regions/)
 - [Amazon SES adds IP observability for Dedicated IP addresses &lpar;managed&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ses-ip-observability-dedicated-op-addresses-managed)
 - [Amazon Corretto October 2025 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-corretto-october-2025-quarterly-updates)
@@ -67,7 +68,6 @@
 - [Amazon U7i instances now available in Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-europe-london-region/)
 - [Amazon Nova now supports the customization of content moderation settings](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-nova-customization-content-moderation-settings/)
 - [Amazon ECS now publishes AWS CloudTrail data events for insight into API activities](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-aws-cloudtrail-data-events-insight-api-activities)
-- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm v25.05](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-parallel-computing-service-supports-pcs-slurm-v25-05/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

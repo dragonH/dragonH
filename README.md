@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
+- [Amazon CloudWatch introduces interactive incident reporting](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/)
+- [Amazon U7i instances now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/)
 - [Amazon EKS Auto Mode now available in AWS GovCloud &lpar;US-East&rpar; and &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-auto-mode-aws-govcloud-us-east-west)
-- [Amazon S3 now generates AWS CloudTrail events for S3 Tables maintenance operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-generates-aws-cloudtrail-events)
+- [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
 - [Amazon CloudWatch Agent adds support for Windows Event Log Filters](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters)
+- [Amazon S3 now generates AWS CloudTrail events for S3 Tables maintenance operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-generates-aws-cloudtrail-events)
 - [Amazon Redshift auto-copy is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-redshift-auto-copy-additional-aws-regions)
 - [Amazon DCV releases version 2025.0 with enhanced keyboard handling and WebAuthn support](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dvc-releases-version-2025-0)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports Graviton4-based R8g database instances](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-documentdb-graviton4-based-r8g-database-instances/)
+- [Amazon RDS for SQL Server enables encrypting native backups using server-side encryption with AWS KMS keys &lpar;SSE-KMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-sql-server-kms-native-backup/)
 - [AWS’ Customer Carbon Footprint Tool now includes Scope 3 emissions data](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-customer-carbon-footprint-tool-scope-3-emissions-data)
-- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports rotation of cluster secret keys](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-parallel-computing-service-rotation-cluster-secret-keys/)
-- [AWS announces Nitro Enclaves are now available in all AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-nitro-enclaves-available-in-all-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

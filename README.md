@@ -65,8 +65,8 @@
 - [Amazon CloudWatch Synthetics now supports bundled multi-check canaries](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-synthetics-bundled-multi-check-canaries)
 - [Amazon S3 now generates AWS CloudTrail events for S3 Tables maintenance operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-generates-aws-cloudtrail-events)
 - [Amazon CloudWatch Agent adds support for Windows Event Log Filters](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters)
-- [Amazon Redshift auto-copy is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-redshift-auto-copy-additional-aws-regions)
 - [Amazon DCV releases version 2025.0 with enhanced keyboard handling and WebAuthn support](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-dvc-releases-version-2025-0)
+- [Amazon Redshift auto-copy is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-redshift-auto-copy-additional-aws-regions)
 - [Amazon RDS for SQL Server enables encrypting native backups using server-side encryption with AWS KMS keys &lpar;SSE-KMS&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-rds-sql-server-kms-native-backup/)
 <!-- AWS-NEWS:END -->
 

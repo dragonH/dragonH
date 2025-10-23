@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora DSQL is now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-available-in-frankfurt)
+- [Amazon Connect outbound campaigns supports preview dialing for greater agent control](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/)
+- [AWS Outposts 2U server is now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-outposts-2u-server-govcloud-regions)
 - [Now generally available: AWS RTB Fabric for real-time bidding workloads](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-rtb-fabric-generally-available/)
 - [Amazon Connect now supports threaded views and includes conversation history in agent replies](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-threaded-views-conversation-history/)
 - [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i8g-instances-available-in-additional-aws/)
@@ -65,9 +68,6 @@
 - [Amazon CloudWatch introduces interactive incident reporting](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-incident-report/)
 - [Amazon U7i instances now available in AWS US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-u7i-instances-available-aws-us-east-ohio-region/)
 - [Amazon EKS Auto Mode now available in AWS GovCloud &lpar;US-East&rpar; and &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-eks-auto-mode-aws-govcloud-us-east-west)
-- [Amazon Location Service Introduces New Map Styling Features for Enhanced Customization](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-location-services-new-map-styling-enchanced-customization)
-- [Amazon CloudWatch Synthetics now supports bundled multi-check canaries](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-synthetics-bundled-multi-check-canaries)
-- [Amazon CloudWatch Agent adds support for Windows Event Log Filters](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-agent-windows-event-log-filters)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

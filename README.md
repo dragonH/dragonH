@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Aurora DSQL now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2025/10/aurora-dsql-resource-based-policies)
+- [Amazon SageMaker Unified Studio supports Amazon Athena workgroups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-athena-workgroups/)
 - [Amazon Connect outbound campaigns supports preview dialing for greater agent control](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/)
 - [Amazon Aurora DSQL is now available in Europe &lpar;Frankfurt&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-available-in-frankfurt)
 - [Amazon Connect now provides granular permissions for conversation recordings and transcripts](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-granular-permissions-conversation-recordings-transcripts/)
@@ -67,7 +68,6 @@
 - [Amazon Quick Sight announces the general availability of a new data preparation experience](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-quick-sight-general-availability-data-preparation-experience)
 - [Now generally available: AWS RTB Fabric for real-time bidding workloads](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-rtb-fabric-generally-available/)
 - [Amazon Connect now supports threaded views and includes conversation history in agent replies](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-threaded-views-conversation-history/)
-- [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i8g-instances-available-in-additional-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

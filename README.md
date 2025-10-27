@@ -63,11 +63,11 @@
 - [Amazon Location Service introduces new API key restrictions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-api-key-security-restrictions)
 - [Amazon ECS Managed Instances now available in all  commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-managed-instances-commercial-regions/)
 - [Amazon SageMaker adds additional search context for search results](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-adds-search-context/)
+- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Malaysia&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-redshift-serverless-osaka-malaysia-regions/)
 - [Amazon EC2 Auto Scaling now supports predictive scaling in six more regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-auto-scaling-predictive-scaling-in-six/)
 - [Aurora DSQL now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2025/10/aurora-dsql-resource-based-policies)
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.comabout-aws/whats-new/2025/10/amazon-vpc-reachability-network-access-analyzer-govcloud)
 - [AWS Transfer Family now supports changing identity provider type on a server](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-transfer-family-changing-idp-type)
-- [New Amazon CloudWatch metrics to monitor EC2 instances exceeding I/O performance](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-metrics-monitor-ec2-instances-i-o-performance)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

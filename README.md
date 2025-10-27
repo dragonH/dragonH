@@ -65,8 +65,8 @@
 - [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.comabout-aws/whats-new/2025/10/amazon-vpc-reachability-network-access-analyzer-govcloud)
 - [AWS Transfer Family now supports changing identity provider type on a server](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-transfer-family-changing-idp-type)
 - [New Amazon CloudWatch metrics to monitor EC2 instances exceeding I/O performance](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cloudwatch-metrics-monitor-ec2-instances-i-o-performance)
-- [AWS Lambda increases maximum payload size from 256 KB to 1 MB for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-lambda-payload-size-256-kb-1-mb-invocations/)
 - [Amazon SageMaker Unified Studio supports Amazon Athena workgroups](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-unified-studio-athena-workgroups/)
+- [AWS Lambda increases maximum payload size from 256 KB to 1 MB for asynchronous invocations](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-lambda-payload-size-256-kb-1-mb-invocations/)
 - [Amazon Connect outbound campaigns supports preview dialing for greater agent control](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-outbound-campaigns-preview-dialing/)
 <!-- AWS-NEWS:END -->
 

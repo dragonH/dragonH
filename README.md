@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 Im4gn instances now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-im4gn-instances-europe-milan-region)
-- [Amazon EC2 I7i instances now available in additional AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-aws-govcloud-us-regions)
 - [Amazon Kinesis Data Streams now supports 10x larger record sizes](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-data-streams-10x-larger-record-sizes)
+- [Amazon EC2 I7i instances now available in additional AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-aws-govcloud-us-regions)
 - [Announcing Amazon Nova Multimodal Embeddings](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-nova-multimodal-embeddings/)
 - [Amazon EC2 R8i and R8i-flex instances are now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-r8i-flex-instances-in-london-region/)
-- [Amazon EC2 I7ie instances now available in AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-govcloud-us-region/)
+- [AWS Resource Explorer supports 47 additional resource types](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-resource-explorer-47-resource-types/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; announces upgraded query planner that can run queries up to 10x faster](https://aws.amazon.com/about-aws/whats-new/2025/10/new-query-planner)
+- [Amazon EC2 I7ie instances now available in AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-govcloud-us-region/)
 - [AWS Payment Cryptography is now available in Canada&lpar;Montreal&rpar;, Africa &lpar;Cape Town&rpar; and Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-payment-cryptography-available-montreal-south-africa)
 - [Amazon Cognito now supports resource indicators to simplify enhancing protection of OAuth 2.0 resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-resource-indicators-protection-oauth-2-0-resources)
-- [Amazon Location Service introduces new API key restrictions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-api-key-security-restrictions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Im4gn instances now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-im4gn-instances-europe-milan-region)
+- [Amazon EC2 I7i instances now available in additional AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7i-instances-aws-govcloud-us-regions)
 - [Announcing Amazon Nova Multimodal Embeddings](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-nova-multimodal-embeddings/)
+- [Amazon EC2 I7ie instances now available in AWS GovCloud &lpar;US&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-i7ie-instances-govcloud-us-region/)
 - [AWS Payment Cryptography is now available in Canada&lpar;Montreal&rpar;, Africa &lpar;Cape Town&rpar; and Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-payment-cryptography-available-montreal-south-africa)
 - [Amazon Cognito now supports resource indicators to simplify enhancing protection of OAuth 2.0 resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-cognito-resource-indicators-protection-oauth-2-0-resources)
 - [Amazon Location Service introduces new API key restrictions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-location-service-new-api-key-security-restrictions)
 - [Amazon ECS Managed Instances now available in all  commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-managed-instances-commercial-regions/)
 - [Amazon SageMaker adds additional search context for search results](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-sagemaker-adds-search-context/)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Osaka&rpar; and Asia Pacific &lpar;Malaysia&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-redshift-serverless-osaka-malaysia-regions/)
-- [Amazon EC2 Auto Scaling now supports predictive scaling in six more regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-auto-scaling-predictive-scaling-in-six/)
-- [Aurora DSQL now supports resource-based policies](https://aws.amazon.com/about-aws/whats-new/2025/10/aurora-dsql-resource-based-policies)
-- [Amazon VPC Reachability Analyzer and Amazon VPC Network Access Analyzer are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.comabout-aws/whats-new/2025/10/amazon-vpc-reachability-network-access-analyzer-govcloud)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

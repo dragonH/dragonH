@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk adds support for Amazon Corretto 25](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-support-amazon-corretto-25)
 - [TwelveLabs’ Marengo Embed 3.0 for advanced video understanding now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-marengo3-embed-amazon-bedrock)
 - [4 new image editing tools added to Stability AI Image Services in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/stability-ai-image-updates-amazon-bedrock/)
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25 and Tomcat 11](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-amazon-corretto-25-tomcat-11)
 - [Amazon EBS introduces additional performance monitoring metrics for EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ebs-performance-monitoring-metrics-ebs-volumes)
-- [Amazon EC2 High Memory U7i instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-aws-europe-london-region)
 - [Amazon S3 adds conditional write functionality to copy operations](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-conditional-write-functionality-copy-operations)
+- [Amazon EC2 High Memory U7i instances are now available in AWS Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-high-memory-u7i-instances-aws-europe-london-region)
 - [Web Grounding: Build accurate AI applications with Amazon Nova models](https://aws.amazon.com/about-aws/whats-new/2025/10/web-grounding-ai-applications-amazon-nova-models)
 - [AWS Control Tower is now available in AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-control-tower-asia-pacific-new-zealand-region/)
 - [Amazon EC2 Im4gn instances now available in AWS Europe &lpar;Milan&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ec2-im4gn-instances-europe-milan-region)
-- [Amazon Kinesis Data Streams now supports 10x larger record sizes](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-kinesis-data-streams-10x-larger-record-sizes)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

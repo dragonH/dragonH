@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [TwelveLabs’ Pegasus 1.2 model now available in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-pegasus-model-in-additional-aws-regions/)
 - [Amazon ECS now supports built-in Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-built-in-linear-canary-deployments)
 - [Amazon S3 Access Grants are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-access-grants-additional-regions)
+- [Split Cost Allocation Data for Amazon EKS supports Kubernetes labels](https://aws.amazon.com/about-aws/whats-new/2025/10/split-cost-allocation-data-amazon-eks-kubernetes-labels/)
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-support-amazon-corretto-25)
 - [Introducing the Capacity Reservation Topology API for AI, ML, and HPC instance types](https://aws.amazon.com/about-aws/whats-new/2025/10/capacity-reservation-topology-api-ai-ml-hpc-instance-type)
+- [AWS Step Functions announces a new metrics dashboard](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-step-functions-metrics-dashboard)
+- [AWS Clean Rooms launches advanced configurations to optimize SQL performance](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-advanced-configurations-optimize-sql-performance)
 - [Amazon GameLift Servers adds telemetry metrics to all server SDKs and game engine plugins](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-servers-telemetry-metrics)
-- [AWS Cloud Map supports cross-account workloads in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-cloud-map-cross-account-gov-cloud)
-- [AWS Backup adds single-action database snapshot copy across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-backup-single-action-database-snapshot-copy-regions/)
 - [AWS Serverless MCP Server now supports tools for AWS Lambda event source mappings &lpar;ESM&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-serverless-mcp-server-tools-lambda-esm)
-- [Announcing an AI agent context pack for AWS IoT Greengrass developers](https://aws.amazon.com/about-aws/whats-new/2025/10/ai-agent-context-pack-iot-greengrass-developers/)
-- [Introducing the Amazon OCSF Ready Specialization](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ocsf-ready-specialization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon ECS now supports built-in Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-built-in-linear-canary-deployments)
+- [Amazon S3 Access Grants are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-access-grants-additional-regions)
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-support-amazon-corretto-25)
 - [Introducing the Capacity Reservation Topology API for AI, ML, and HPC instance types](https://aws.amazon.com/about-aws/whats-new/2025/10/capacity-reservation-topology-api-ai-ml-hpc-instance-type)
 - [AWS Cloud Map supports cross-account workloads in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-cloud-map-cross-account-gov-cloud)
@@ -67,7 +68,6 @@
 - [Announcing an AI agent context pack for AWS IoT Greengrass developers](https://aws.amazon.com/about-aws/whats-new/2025/10/ai-agent-context-pack-iot-greengrass-developers/)
 - [Introducing the Amazon OCSF Ready Specialization](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ocsf-ready-specialization/)
 - [Amazon Managed Service for Prometheus adds anomaly detection](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-managed-service-anomaly-detection/)
-- [TwelveLabs’ Marengo Embed 3.0 for advanced video understanding now in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-marengo3-embed-amazon-bedrock)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

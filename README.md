@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS PrivateLink now supports cross-region connectivity for AWS Services](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-privatelink-cross-region-connectivity-aws-services)
+- [Amazon Connect now supports scheduling of individual agents](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-scheduling-individual-agents/)
+- [AWS Marketplace now offers pricing model flexibility and simplified deployment for AI agents and tools](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-ai-agents-tools/)
 - [Amazon WorkSpaces announces USB redirection support for DCV WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-usb-redirection-dcv/)
 - [TwelveLabs’ Pegasus 1.2 model now available in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-pegasus-model-in-additional-aws-regions/)
 - [Amazon ECS now supports built-in Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-built-in-linear-canary-deployments)
 - [Amazon S3 Access Grants are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-access-grants-additional-regions)
 - [Split Cost Allocation Data for Amazon EKS supports Kubernetes labels](https://aws.amazon.com/about-aws/whats-new/2025/10/split-cost-allocation-data-amazon-eks-kubernetes-labels/)
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-support-amazon-corretto-25)
-- [Introducing the Capacity Reservation Topology API for AI, ML, and HPC instance types](https://aws.amazon.com/about-aws/whats-new/2025/10/capacity-reservation-topology-api-ai-ml-hpc-instance-type)
 - [AWS Clean Rooms launches advanced configurations to optimize SQL performance](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-advanced-configurations-optimize-sql-performance)
-- [AWS Step Functions announces a new metrics dashboard](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-step-functions-metrics-dashboard)
-- [Amazon GameLift Servers adds telemetry metrics to all server SDKs and game engine plugins](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-servers-telemetry-metrics)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

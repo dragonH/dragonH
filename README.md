@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS PrivateLink now supports cross-region connectivity for AWS Services](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-privatelink-cross-region-connectivity-aws-services)
+- [Amazon Aurora DSQL now supports FIPS 140-3 compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-aurora-dsql-fips-140-3-endpoints)
 - [Amazon Connect now supports scheduling of individual agents](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-scheduling-individual-agents/)
 - [AWS Marketplace now offers pricing model flexibility and simplified deployment for AI agents and tools](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-ai-agents-tools/)
+- [The Model Context Protocol &lpar;MCP&rpar; Proxy for AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/10/model-context-protocol-proxy-available/)
 - [Amazon WorkSpaces announces USB redirection support for DCV WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-workspaces-usb-redirection-dcv/)
 - [TwelveLabs’ Pegasus 1.2 model now available in three additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/10/twelvelabs-pegasus-model-in-additional-aws-regions/)
 - [Amazon ECS now supports built-in Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-ecs-built-in-linear-canary-deployments)
 - [Amazon S3 Access Grants are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-s3-access-grants-additional-regions)
 - [Split Cost Allocation Data for Amazon EKS supports Kubernetes labels](https://aws.amazon.com/about-aws/whats-new/2025/10/split-cost-allocation-data-amazon-eks-kubernetes-labels/)
 - [AWS Elastic Beanstalk adds support for Amazon Corretto 25](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-elastic-beanstalk-support-amazon-corretto-25)
-- [AWS Clean Rooms launches advanced configurations to optimize SQL performance](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-clean-rooms-advanced-configurations-optimize-sql-performance)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

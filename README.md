@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito removes Machine-to-Machine app client price dimension](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-removes-machine-machine-app-client-price-dimension)
 - [Amazon CloudWatch Agent adds support for NVMe Local Volume Performance Statistics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-nvme-local-volume-performance-statistics)
 - [Mountpoint for Amazon S3 and Mountpoint for Amazon S3 CSI driver add monitoring capability](https://aws.amazon.com/about-aws/whats-new/2025/11/mountpoint-amazon-s3-csi-driver-monitoring-capability)
 - [Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-health-notifications)
@@ -67,7 +68,6 @@
 - [New SAP on AWS GROW Region Availability for SAP Cloud ERP](https://aws.amazon.com/about-aws/whats-new/2025/10/sap-aws-grow-region-availability-sap-cloud-erp)
 - [Amazon Connect now supports scheduling of individual agents](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-connect-scheduling-individual-agents/)
 - [AWS Marketplace now offers pricing model flexibility and simplified deployment for AI agents and tools](https://aws.amazon.com/about-aws/whats-new/2025/10/aws-marketplace-pricing-ai-agents-tools/)
-- [Amazon VPC IPAM automates prefix list updates](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-vpc-ipam-prefix-list-automation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

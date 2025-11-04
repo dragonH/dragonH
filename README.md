@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [EC2 Auto Scaling announces warm pool support for Auto Scaling groups that have mixed instances policies](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-warm-pool-mixed-instances-policies/)
+- [AWS Service Reference Information now supports SDK Operation to Action mapping](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-service-reference-information-sdk-operation-action-mapping)
 - [AWS Config launches 42 new managed rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-launches-42-new-managed-rules/)
+- [AWS Config conformance packs now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-conformance-packs-additional-regions/)
+- [Amazon Kinesis Data Streams launches On-demand Advantage mode](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage)
+- [Amazon Bedrock AgentCore Runtime now supports direct code deployment](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-agentcore-runtime-code-deployment/)
+- [Amazon RDS for Oracle is now available with R7i memory-optimized instances offering up to 64:1 memory-to-vCPU ratio](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-oracle-r7i-memory-optimized-instances/)
 - [Amazon CloudWatch Synthetics adds multi-browser support in AWS GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-synthetics-multi-browser-aws-govcloud-regions/)
 - [Amazon Cognito removes Machine-to-Machine app client price dimension](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-removes-machine-machine-app-client-price-dimension)
 - [Amazon CloudWatch Agent adds support for NVMe Local Volume Performance Statistics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-nvme-local-volume-performance-statistics)
-- [AWS Config now supports 52 new resource types](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-new-resource-types)
-- [Mountpoint for Amazon S3 and Mountpoint for Amazon S3 CSI driver add monitoring capability](https://aws.amazon.com/about-aws/whats-new/2025/11/mountpoint-amazon-s3-csi-driver-monitoring-capability)
-- [Amazon Kinesis Data Streams launches On-demand Advantage mode](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage)
-- [Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-gamelift-streams-health-notifications)
-- [Amazon Route 53 Resolver now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-route53-resolver-supports-aws-privatelink)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

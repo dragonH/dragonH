@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx now integrates with AWS Secrets Manager for enhanced management of Active Directory credentials](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-integrate-with-aws-secrets-manager/)
 - [Announcing New EC2 R8a Memory-Optimized Instances](https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/)
 - [Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-gamelift-streams-health-notifications)
 - [Amazon CloudWatch Application Signals adds AI-powered Synthetics debugging](https://aws.amazon.com/about-aws/whats-new/2025/11/application-signals-ai-powered-synthetics/)
+- [AWS Glue Schema Registry adds support for C#](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aws-glue-schema-registry-supports-c-sharp/)
 - [Amazon OpenSearch Serverless now supports FIPS compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-fips-compliant-endpoints)
 - [EC2 Auto Scaling announces warm pool support for Auto Scaling groups that have mixed instances policies](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-warm-pool-mixed-instances-policies/)
 - [AWS Cloud WAN is now available in three more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-thailand-taipei-new-zealand/)
 - [AWS Service Reference Information now supports SDK Operation to Action mapping](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-service-reference-information-sdk-operation-action-mapping)
 - [AWS Config launches 42 new managed rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-launches-42-new-managed-rules/)
-- [Amazon Kinesis Data Streams launches On-demand Advantage mode](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage)
-- [AWS Config conformance packs now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-conformance-packs-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

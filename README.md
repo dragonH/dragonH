@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Database Insights expands anomaly detection in on-demand analysis](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-database-insights-anomaly-detection/)
 - [Amazon FSx now integrates with AWS Secrets Manager for enhanced management of Active Directory credentials](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-integrate-with-aws-secrets-manager/)
 - [Announcing New EC2 R8a Memory-Optimized Instances](https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/)
 - [Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-gamelift-streams-health-notifications)
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; extends Multi-Region Replication to Bahrain and Hong Kong Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-multi-region-replication-bahrain-hong-kong-region)
 - [Amazon CloudWatch Application Signals adds AI-powered Synthetics debugging](https://aws.amazon.com/about-aws/whats-new/2025/11/application-signals-ai-powered-synthetics/)
+- [AWS Marketplace now open for India-based sellers supporting transactions in Indian Rupees &lpar;INR&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-india-based-sellers-transactions-inr)
+- [Microsoft SQL Server Developer Edition now available through AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2025/11/microsoft-sql-server-developer-edition-launch-wizard/)
 - [AWS Glue Schema Registry adds support for C#](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aws-glue-schema-registry-supports-c-sharp/)
-- [Amazon OpenSearch Serverless now supports FIPS compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-fips-compliant-endpoints)
-- [EC2 Auto Scaling announces warm pool support for Auto Scaling groups that have mixed instances policies](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-warm-pool-mixed-instances-policies/)
-- [AWS Cloud WAN is now available in three more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-thailand-taipei-new-zealand/)
-- [AWS Service Reference Information now supports SDK Operation to Action mapping](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-service-reference-information-sdk-operation-action-mapping)
-- [AWS Config launches 42 new managed rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-launches-42-new-managed-rules/)
+- [Amazon Cloudfront adds IPv6 support for Anycast Static IPs](https://aws.amazon.com/about-aws/whats-new/2025/11/cloudfront-anycast-ipv6-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

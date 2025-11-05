@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing New EC2 R8a Memory-Optimized Instances](https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/)
+- [Amazon CloudWatch Application Signals adds AI-powered Synthetics debugging](https://aws.amazon.com/about-aws/whats-new/2025/11/application-signals-ai-powered-synthetics/)
 - [Amazon OpenSearch Serverless now supports FIPS compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-fips-compliant-endpoints)
 - [EC2 Auto Scaling announces warm pool support for Auto Scaling groups that have mixed instances policies](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-warm-pool-mixed-instances-policies/)
 - [AWS Cloud WAN is now available in three more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-thailand-taipei-new-zealand/)
@@ -66,8 +68,6 @@
 - [Amazon Kinesis Data Streams launches On-demand Advantage mode](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage)
 - [AWS Config conformance packs now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-conformance-packs-additional-regions/)
 - [Amazon Bedrock AgentCore Runtime now supports direct code deployment](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-agentcore-runtime-code-deployment/)
-- [Amazon RDS for Oracle is now available with R7i memory-optimized instances offering up to 64:1 memory-to-vCPU ratio](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-oracle-r7i-memory-optimized-instances/)
-- [Amazon CloudWatch Synthetics adds multi-browser support in AWS GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-synthetics-multi-browser-aws-govcloud-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing New EC2 R8a Memory-Optimized Instances](https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/)
+- [Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-gamelift-streams-health-notifications)
 - [Amazon CloudWatch Application Signals adds AI-powered Synthetics debugging](https://aws.amazon.com/about-aws/whats-new/2025/11/application-signals-ai-powered-synthetics/)
 - [Amazon OpenSearch Serverless now supports FIPS compliant endpoints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-fips-compliant-endpoints)
 - [EC2 Auto Scaling announces warm pool support for Auto Scaling groups that have mixed instances policies](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-warm-pool-mixed-instances-policies/)
@@ -67,7 +68,6 @@
 - [AWS Config launches 42 new managed rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-launches-42-new-managed-rules/)
 - [Amazon Kinesis Data Streams launches On-demand Advantage mode](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-data-streams-ondemand-advantage)
 - [AWS Config conformance packs now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-config-conformance-packs-additional-regions/)
-- [Amazon Connect now supports configuration of email address aliases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-email-address-aliases)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

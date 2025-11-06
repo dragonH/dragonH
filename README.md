@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS B2B Data Interchange is now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-b2b-data-interchange-europe-ireland-region)
 - [Amazon CloudWatch Database Insights expands anomaly detection in on-demand analysis](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-database-insights-anomaly-detection/)
 - [Amazon FSx now integrates with AWS Secrets Manager for enhanced management of Active Directory credentials](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-integrate-with-aws-secrets-manager/)
 - [Announcing New EC2 R8a Memory-Optimized Instances](https://aws.amazon.com/about-aws/whats-new/2025/11/memory-optimized-amazon-ec2-r8a-instances/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace now open for India-based sellers supporting transactions in Indian Rupees &lpar;INR&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-india-based-sellers-transactions-inr)
 - [Microsoft SQL Server Developer Edition now available through AWS Launch Wizard](https://aws.amazon.com/about-aws/whats-new/2025/11/microsoft-sql-server-developer-edition-launch-wizard/)
 - [AWS Glue Schema Registry adds support for C#](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aws-glue-schema-registry-supports-c-sharp/)
-- [Amazon Cloudfront adds IPv6 support for Anycast Static IPs](https://aws.amazon.com/about-aws/whats-new/2025/11/cloudfront-anycast-ipv6-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

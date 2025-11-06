@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker launches custom tags for project resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-custom-tags-project-resources)
 - [AWS B2B Data Interchange is now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-b2b-data-interchange-europe-ireland-region)
-- [Amazon ECS announces non-root container support for managed EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-non-root-container-managed-ebs-volumes)
 - [Amazon DynamoDB Streams expands AWS PrivateLink support to FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dynamodb-streams-aws-privatelink-fips-endpoints)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-middle-east-uae/)
+- [Amazon ECS announces non-root container support for managed EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-non-root-container-managed-ebs-volumes)
 - [AWS IoT Greengrass v2.16 introduces system log forwarder and TPM2.0 capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-greengrass-v2-16-system-log-forwarder-tpm-2-0-capabilities)
 - [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-evs-additional-regions)
+- [AWS End User Messaging SMS launches Carrier Lookup](https://aws.amazon.com/about-aws/whats-new/2025/11/end-user-messaging-sms-carrier-lookup/)
 - [Amazon CloudFront announces cross-account support for VPC origins](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudfront-cross-account-vpc-origins/)
 - [Amazon CloudWatch Database Insights expands anomaly detection in on-demand analysis](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-database-insights-anomaly-detection/)
-- [Amazon FSx now integrates with AWS Secrets Manager for enhanced management of Active Directory credentials](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-fsx-integrate-with-aws-secrets-manager/)
-- [Amazon GameLift Streams adds AWS Health notifications for aging resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-gamelift-streams-health-notifications)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -64,10 +64,10 @@
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; is now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-middle-east-uae/)
 - [Amazon ECS announces non-root container support for managed EBS volumes](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-non-root-container-managed-ebs-volumes)
 - [AWS announces a new Regional planning tool in Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-regional-planning-tool-builder-center)
-- [AWS Backup now supports AWS KMS customer managed keys with logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-kms-customer-managed-keys)
-- [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-evs-additional-regions)
-- [Deadline Cloud expands support with latest 6th, 7th, and 8th generation instances](https://aws.amazon.com/about-aws/whats-new/2025/11/deadline-cloud-6th-7th-8th-generation-instances)
 - [AWS IoT Greengrass v2.16 introduces system log forwarder and TPM2.0 capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-greengrass-v2-16-system-log-forwarder-tpm-2-0-capabilities)
+- [Deadline Cloud expands support with latest 6th, 7th, and 8th generation instances](https://aws.amazon.com/about-aws/whats-new/2025/11/deadline-cloud-6th-7th-8th-generation-instances)
+- [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-evs-additional-regions)
+- [Amazon CloudWatch Application Signals now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-application-signals-aws-govcloud-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

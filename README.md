@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Control Tower supports automatic enrollment of accounts](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment)
+- [Amazon Braket notebook instances now support CUDA-Q natively](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-notebook-instances-cuda-q-natively)
 - [Anthropic’s Claude Sonnet 4.5 is now in Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/anthropics-claude-sonnet-4-5-amazon-bedrock-aws-govcloud-us)
 - [Amazon CloudWatch agent adds Shared Memory Metrics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-shared-memory-metrics/)
 - [Amazon SageMaker Unified Studio adds support for catalog notifications](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-unified-studio-catalog-notifications/)
@@ -67,7 +68,6 @@
 - [Amazon Cognito user pools now supports private connectivity with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cognito-user-pools-private-connectivity-aws-privatelink)
 - [AWS KMS now supports Edwards-curve Digital Signature Algorithm &lpar;EdDSA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-kms-edwards-curve-digital-signature-algorithm/)
 - [Amazon SageMaker launches custom tags for project resources](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-custom-tags-project-resources)
-- [AWS B2B Data Interchange is now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-b2b-data-interchange-europe-ireland-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

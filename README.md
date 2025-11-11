@@ -67,7 +67,7 @@
 - [AWS adds IPv6 support for Amazon S3 Gateway and Interface VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2025/11/ipv6-amazon-s3-gateway-interface-vpc-endpoints/)
 - [Amazon EC2 C7i-flex instances are now available in the Middle East &lpar;UAE&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c7i-flex-instances-middle-east-uae/)
 - [Amazon CloudWatch agent adds Shared Memory Metrics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-agent-shared-memory-metrics/)
-- [AWS Private CA now supports post-quantum digital certificates](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-private-ca-post-quantum-digital-certificates/)
+- [Amazon SageMaker Unified Studio adds support for catalog notifications](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-unified-studio-catalog-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

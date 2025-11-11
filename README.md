@@ -61,13 +61,13 @@
 - [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm CLI Filter plugins](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-pcs-slurm-cli-filter-plugins)
 - [Amazon CloudWatch Composite Alarms adds threshold-based alerting](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-composite-alarms-threshold-based/)
 - [Amazon U7i instances now available in Europe &lpar;Stockholm and Ireland&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-additional-regions)
+- [Amazon EC2 C6id and R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c6id-r6id-instances-additional-regions)
+- [Amazon EC2 C8gd, M8gd, and R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c8gd-m8gd-r8gd-instances-additional-regions)
 - [Mountpoint for Amazon S3 is now included in Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/11/mountpoint-amazon-s3-amazon-linux-2023)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports Logged Batches](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-logged-batches/)
 - [Amazon EC2 M8a Instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8a-instances-additional-regions)
 - [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7i-instances-additional-regions/)
 - [AWS Backup now supports Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-supports-amazon-eks)
-- [MSK Express brokers now support Intelligent Rebalancing at no additional cost, and with no action required](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-msk-express-brokers-support-intelligent-rebalancing)
-- [AWS Control Tower supports automatic enrollment of accounts](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

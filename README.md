@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm CLI Filter plugins](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-pcs-slurm-cli-filter-plugins)
 - [Amazon CloudWatch Composite Alarms adds threshold-based alerting](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-composite-alarms-threshold-based/)
 - [Amazon U7i instances now available in Europe &lpar;Stockholm and Ireland&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-additional-regions)
 - [Mountpoint for Amazon S3 is now included in Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/11/mountpoint-amazon-s3-amazon-linux-2023)
@@ -67,7 +68,6 @@
 - [AWS Backup now supports Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-supports-amazon-eks)
 - [MSK Express brokers now support Intelligent Rebalancing at no additional cost, and with no action required](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-msk-express-brokers-support-intelligent-rebalancing)
 - [AWS Control Tower supports automatic enrollment of accounts](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-automatic-enrollment)
-- [Amazon Braket notebook instances now support CUDA-Q natively](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-notebook-instances-cuda-q-natively)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

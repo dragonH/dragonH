@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs now supports Network Load Balancer access logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-supports-logs-network-load-balancer-access-logs/)
+- [Announcing communication preferences for Security Incident Response](https://aws.amazon.com/about-aws/whats-new/2025/11/communication-preferences-aws-security-incident-response)
+- [Amazon DCV now supports Amazon EC2 Mac instances](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dcv-ed2-mac-instances)
+- [Spaces now available in AWS Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-builder-spaces-builder-center/)
+- [Amazon Managed Service for Prometheus collector integrates with Amazon Managed Streaming for Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-managed-prometheus-kafka/)
 - [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm CLI Filter plugins](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-pcs-slurm-cli-filter-plugins)
-- [Amazon EC2 C6id and R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c6id-r6id-instances-additional-regions)
 - [Amazon EC2 C8gd, M8gd, and R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c8gd-m8gd-r8gd-instances-additional-regions)
+- [Amazon EC2 C6id and R6id instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-c6id-r6id-instances-additional-regions)
 - [Amazon CloudWatch Composite Alarms adds threshold-based alerting](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-composite-alarms-threshold-based/)
 - [Amazon U7i instances now available in Europe &lpar;Stockholm and Ireland&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-additional-regions)
-- [Mountpoint for Amazon S3 is now included in Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/11/mountpoint-amazon-s3-amazon-linux-2023)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now supports Logged Batches](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-logged-batches/)
-- [Amazon EC2 M8a Instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8a-instances-additional-regions)
-- [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7i-instances-additional-regions/)
-- [AWS Backup now supports Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-supports-amazon-eks)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

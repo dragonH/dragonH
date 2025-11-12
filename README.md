@@ -61,13 +61,13 @@
 - [Application loadbalancer support client credential flow with JWT verification](https://aws.amazon.com/about-aws/whats-new/2025/11/application-load-balancer-jwt-verification)
 - [Amazon ElastiCache supports M7g and R7g Graviton3-based nodes in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-elasticache-m7g-r7g-graviton3-govcloud-regions/)
 - [AWS Fault Injection Service &lpar;FIS&rpar; launches new test scenarios for partial failures](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-fis-test-scenarios-partial-failures)
+- [Amazon Connect Cases adds conditional field visibility and dependent options](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-cases-conditional-field-visibility-dependent-options)
 - [Amazon CloudWatch Logs now supports Network Load Balancer access logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-supports-logs-network-load-balancer-access-logs/)
 - [Amazon DCV now supports Amazon EC2 Mac instances](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dcv-ed2-mac-instances)
 - [Announcing communication preferences for Security Incident Response](https://aws.amazon.com/about-aws/whats-new/2025/11/communication-preferences-aws-security-incident-response)
 - [AWS Site-to-Site VPN announces 5 Gbps bandwidth tunnels](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-5-gbps-bandwidth-tunnels)
 - [Spaces now available in AWS Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-builder-spaces-builder-center/)
 - [Amazon Managed Service for Prometheus collector integrates with Amazon Managed Streaming for Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-managed-prometheus-kafka/)
-- [AWS Parallel Computing Service &lpar;PCS&rpar; now supports Slurm CLI Filter plugins](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-pcs-slurm-cli-filter-plugins)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

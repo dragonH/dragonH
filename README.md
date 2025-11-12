@@ -63,11 +63,11 @@
 - [AWS Fault Injection Service &lpar;FIS&rpar; launches new test scenarios for partial failures](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-fis-test-scenarios-partial-failures)
 - [Amazon Connect Cases adds conditional field visibility and dependent options](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-cases-conditional-field-visibility-dependent-options)
 - [Amazon CloudWatch Logs now supports Network Load Balancer access logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-supports-logs-network-load-balancer-access-logs/)
+- [Amazon S3 Tables now support Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-tables-cloudwatch-metrics)
 - [Amazon DCV now supports Amazon EC2 Mac instances](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dcv-ed2-mac-instances)
 - [Announcing communication preferences for Security Incident Response](https://aws.amazon.com/about-aws/whats-new/2025/11/communication-preferences-aws-security-incident-response)
 - [AWS Site-to-Site VPN announces 5 Gbps bandwidth tunnels](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-5-gbps-bandwidth-tunnels)
 - [Spaces now available in AWS Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-builder-spaces-builder-center/)
-- [Amazon Managed Service for Prometheus collector integrates with Amazon Managed Streaming for Apache Kafka](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-managed-prometheus-kafka/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

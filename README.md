@@ -65,9 +65,9 @@
 - [Amazon CloudWatch Logs now supports Network Load Balancer access logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-supports-logs-network-load-balancer-access-logs/)
 - [Amazon S3 Tables now support Amazon CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-tables-cloudwatch-metrics)
 - [Amazon DCV now supports Amazon EC2 Mac instances](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-dcv-ed2-mac-instances)
-- [Announcing communication preferences for Security Incident Response](https://aws.amazon.com/about-aws/whats-new/2025/11/communication-preferences-aws-security-incident-response)
 - [AWS Site-to-Site VPN announces 5 Gbps bandwidth tunnels](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-site-to-site-vpn-5-gbps-bandwidth-tunnels)
-- [Spaces now available in AWS Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-builder-spaces-builder-center/)
+- [Announcing communication preferences for Security Incident Response](https://aws.amazon.com/about-aws/whats-new/2025/11/communication-preferences-aws-security-incident-response)
+- [New AWS CUR 2.0 features: EC2 ODCR and Capacity Blocks for ML monitoring](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-odcr-capacity-blocks-ml-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

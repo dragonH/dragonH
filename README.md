@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing agreement EventBridge notifications for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/agreement-eventbridge-notifications-aws-marketplace)
+- [AWS Network Firewall is now available in the AWS New Zealand &lpar;Auckland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/network-firewall-new-zealand-auckland-region/)
+- [Amazon EventBridge introduces enhanced visual rule builder](https://aws.amazon.com/about-aws/whats-new/2025/11/eventbridge-enhanced-visual-rule-builder/)
 - [AWS CloudFormation Hooks adds granular invocation details for Hooks invocation summary](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-hooks-granular-invocation-details)
-- [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i8g-instances-additional-aws-regions)
 - [AWS Health enhances Amazon EventBridge to give more flexibility and higher resilience](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-health-amazon-eventbridge-flexibility-higher-resilience)
 - [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7i-instances-additional-aws-regions)
 - [AWS IoT Core adds location resolution capabilities for Amazon Sidewalk enabled devices](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-location-resolution-capabilities-amazon-sidewalk-enabled-devices)
+- [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i8g-instances-additional-aws-regions)
 - [Amazon Connect now provides metrics on completion of agent performance evaluations by managers](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-metrics-completion-agent-performance-evaluations)
-- [Amazon RDS for PostgreSQL supports minor versions 17.7, 16.11, 15.15, 14.20, and 13.23](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgres-sql-minor-versions)
 - [AWS Transform automates Landing Zone Accelerator network configuration](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transform-landing-zone-accelerator-network-configuration)
-- [Service Connect cross-account support available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/service-connect-cross-account-govcloud-us-regions/)
-- [Amazon EventBridge now supports targeting SQS fair queues](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eventbridge-sqs-fair-queue-targets/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

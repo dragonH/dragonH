@@ -62,12 +62,12 @@
 - [Announcing agreement EventBridge notifications for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/agreement-eventbridge-notifications-aws-marketplace)
 - [AWS Network Firewall is now available in the AWS New Zealand &lpar;Auckland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/network-firewall-new-zealand-auckland-region/)
 - [Amazon EventBridge introduces enhanced visual rule builder](https://aws.amazon.com/about-aws/whats-new/2025/11/eventbridge-enhanced-visual-rule-builder/)
+- [Amazon RDS for PostgreSQL now supports major version 18](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgresql-major-version-18/)
+- [Announcing Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; version 8.0](https://aws.amazon.com/about-aws/whats-new/2025/11/documentdb-8-o)
+- [Amazon SQS expands IPv6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sqs-ipv6-aws-govcloud-regions/)
 - [AWS CloudFormation Hooks adds granular invocation details for Hooks invocation summary](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-hooks-granular-invocation-details)
-- [AWS Health enhances Amazon EventBridge to give more flexibility and higher resilience](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-health-amazon-eventbridge-flexibility-higher-resilience)
-- [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7i-instances-additional-aws-regions)
-- [AWS IoT Core adds location resolution capabilities for Amazon Sidewalk enabled devices](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-location-resolution-capabilities-amazon-sidewalk-enabled-devices)
 - [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i8g-instances-additional-aws-regions)
-- [Amazon Connect now provides metrics on completion of agent performance evaluations by managers](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-metrics-completion-agent-performance-evaluations)
+- [AWS Health enhances Amazon EventBridge to give more flexibility and higher resilience](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-health-amazon-eventbridge-flexibility-higher-resilience)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,13 +60,13 @@
 <!-- AWS-NEWS:START -->
 - [AWS Lambda announces Provisioned Mode for SQS event source mapping &lpar;ESM&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-provisioned-mode-sqs-esm)
 - [Announcing agreement EventBridge notifications for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/agreement-eventbridge-notifications-aws-marketplace)
+- [Amazon SageMaker Catalog now supports read and write access to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-catalog-read-write-access-amazon-s3/)
+- [Amazon RDS for PostgreSQL now supports major version 18](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgresql-major-version-18/)
 - [AWS Network Firewall is now available in the AWS New Zealand &lpar;Auckland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/network-firewall-new-zealand-auckland-region/)
 - [Amazon EventBridge introduces enhanced visual rule builder](https://aws.amazon.com/about-aws/whats-new/2025/11/eventbridge-enhanced-visual-rule-builder/)
-- [Amazon RDS for PostgreSQL now supports major version 18](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgresql-major-version-18/)
 - [Announcing Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; version 8.0](https://aws.amazon.com/about-aws/whats-new/2025/11/documentdb-8-o)
 - [Amazon SQS expands IPv6 support to the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sqs-ipv6-aws-govcloud-regions/)
 - [AWS CloudFormation Hooks adds granular invocation details for Hooks invocation summary](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-hooks-granular-invocation-details)
-- [Amazon EC2 I8g instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i8g-instances-additional-aws-regions)
 - [AWS Health enhances Amazon EventBridge to give more flexibility and higher resilience](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-health-amazon-eventbridge-flexibility-higher-resilience)
 <!-- AWS-NEWS:END -->
 

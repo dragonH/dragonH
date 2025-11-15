@@ -64,9 +64,9 @@
 - [AWS IoT Services expand support of VPC endpoints and IPv6 connectivity](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-services-vpc-endpoints-ipv6-connectivity)
 - [Amazon SageMaker Catalog now supports read and write access to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-catalog-read-write-access-amazon-s3/)
 - [Amazon RDS Blue/Green deployments now supports Aurora Global Database](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-blue-green-deployments-aurora-global-database)
+- [Amazon RDS for PostgreSQL now supports major version 18](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgresql-major-version-18/)
 - [AWS Network Firewall is now available in the AWS New Zealand &lpar;Auckland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/network-firewall-new-zealand-auckland-region/)
 - [Amazon EventBridge introduces enhanced visual rule builder](https://aws.amazon.com/about-aws/whats-new/2025/11/eventbridge-enhanced-visual-rule-builder/)
-- [Amazon RDS for PostgreSQL now supports major version 18](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgresql-major-version-18/)
 - [AWS Lambda adds support for Rust](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-rust/)
 <!-- AWS-NEWS:END -->
 

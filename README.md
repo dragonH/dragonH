@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 DNS Firewall adds protection against Dictionary-based DGA attacks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-firewall-protection-dictionary-dga-attacks)
 - [Amazon Redshift now supports writing to Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1)
+- [Amazon WorkSpaces Applications adds new instance types and configurable storage options](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-instances-storage-addition)
+- [Amazon WorkSpaces Applications expands the regional availability to Italy, Spain, Malaysia, and Israel](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-region-expansion)
 - [AWS Backup extends delegated administrator support to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-delegated-administrator-17-regions)
 - [AWS Backup now supports backing up directly to a logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-direct-to-logically-air-gapped-vault/)
 - [Announcing EC2 Image Builder support for Lambda and Step functions](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-lambda-step-functions)
+- [Amazon EC2 reduces costs for Microsoft SQL Server High-Availability deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-costs-microsoft-sql-server-high-availability-deployments)
 - [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8i-m8i-flex-instances-asia-pacific-mumbai-region)
 - [Amazon U7i instances now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-aws-europe-ireland-region)
-- [Amazon Route 53 Profiles now supports Resolver query logging configurations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-profiles-resolver-query-logging-configurations)
-- [AWS Transform Automates Landing Zone Acceleration Network Configuration](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transform-vmware-landingzone-configuration-generation)
-- [AWS Marketplace now displays estimated tax and invoicing entity information](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-estimated-tax-invoicing-entity-information)
-- [Amazon U7i instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-us-east-ohio-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

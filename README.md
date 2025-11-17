@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Redshift now supports writing to Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1)
 - [AWS Backup extends delegated administrator support to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-delegated-administrator-17-regions)
+- [AWS Backup now supports backing up directly to a logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-direct-to-logically-air-gapped-vault/)
 - [Amazon U7i instances now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-aws-europe-ireland-region)
 - [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8i-m8i-flex-instances-asia-pacific-mumbai-region)
 - [Amazon Route 53 Profiles now supports Resolver query logging configurations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-profiles-resolver-query-logging-configurations)
@@ -67,7 +68,6 @@
 - [AWS Marketplace now displays estimated tax and invoicing entity information](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-estimated-tax-invoicing-entity-information)
 - [Amazon U7i instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-us-east-ohio-region/)
 - [Amazon Aurora MySQL 3.11 &lpar;compatible with MySQL 8.0.43&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-mysql-generally-available/)
-- [Amazon RDS for MySQL now supports new minor versions 8.0.44 and 8.4.7](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-mysql-new-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

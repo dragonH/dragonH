@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift now supports writing to Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1)
 - [AWS Backup extends delegated administrator support to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-delegated-administrator-17-regions)
-- [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8i-m8i-flex-instances-asia-pacific-mumbai-region)
 - [Amazon U7i instances now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-aws-europe-ireland-region)
+- [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8i-m8i-flex-instances-asia-pacific-mumbai-region)
 - [Amazon Route 53 Profiles now supports Resolver query logging configurations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-profiles-resolver-query-logging-configurations)
 - [AWS Transform Automates Landing Zone Acceleration Network Configuration](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transform-vmware-landingzone-configuration-generation)
 - [AWS Marketplace now displays estimated tax and invoicing entity information](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-estimated-tax-invoicing-entity-information)
 - [Amazon U7i instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-us-east-ohio-region/)
-- [Amazon VPC IPAM automates IP assignments from Infoblox IPAM](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-vpc-ipam-automates-ip-from-infoblox/)
-- [Amazon ECS improves Service Availability during Rolling deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-service-availability-rolling-deployments/)
-- [AWS Lambda announces Provisioned Mode for SQS event source mapping &lpar;ESM&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-provisioned-mode-sqs-esm)
+- [Amazon Aurora MySQL 3.11 &lpar;compatible with MySQL 8.0.43&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-mysql-generally-available/)
+- [Amazon RDS for MySQL now supports new minor versions 8.0.44 and 8.4.7](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-mysql-new-minor-versions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

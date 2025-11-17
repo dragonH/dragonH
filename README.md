@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Backup extends delegated administrator support to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-delegated-administrator-17-regions)
+- [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;Mumbai&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-m8i-m8i-flex-instances-asia-pacific-mumbai-region)
+- [Amazon U7i instances now available in AWS Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-aws-europe-ireland-region)
+- [Amazon Route 53 Profiles now supports Resolver query logging configurations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-profiles-resolver-query-logging-configurations)
 - [AWS Transform Automates Landing Zone Acceleration Network Configuration](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transform-vmware-landingzone-configuration-generation)
+- [AWS Marketplace now displays estimated tax and invoicing entity information](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-marketplace-estimated-tax-invoicing-entity-information)
+- [Amazon U7i instances now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-us-east-ohio-region/)
+- [Amazon VPC IPAM automates IP assignments from Infoblox IPAM](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-vpc-ipam-automates-ip-from-infoblox/)
 - [Amazon ECS improves Service Availability during Rolling deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecs-service-availability-rolling-deployments/)
 - [AWS Lambda announces Provisioned Mode for SQS event source mapping &lpar;ESM&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-provisioned-mode-sqs-esm)
-- [Announcing agreement EventBridge notifications for AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/agreement-eventbridge-notifications-aws-marketplace)
-- [Amazon RDS Blue/Green deployments now supports Aurora Global Database](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-blue-green-deployments-aurora-global-database)
-- [AWS IoT Services expand support of VPC endpoints and IPv6 connectivity](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-services-vpc-endpoints-ipv6-connectivity)
-- [Amazon SageMaker Catalog now supports read and write access to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-catalog-read-write-access-amazon-s3/)
-- [AWS Network Firewall is now available in the AWS New Zealand &lpar;Auckland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/network-firewall-new-zealand-auckland-region/)
-- [Amazon EventBridge introduces enhanced visual rule builder](https://aws.amazon.com/about-aws/whats-new/2025/11/eventbridge-enhanced-visual-rule-builder/)
-- [Amazon RDS for PostgreSQL now supports major version 18](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-postgresql-major-version-18/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

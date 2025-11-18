@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Serverless now adds audit logs for data plane APIs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-auditlogs-dataplane-apis)
+- [EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-synchronous-api-launch-instances/)
 - [Amazon Polly expands Generative TTS engine with additional languages and region support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine)
-- [AWS Transfer Family announces Terraform module to automate scanning of transferred files](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transfer-family-terraform-module)
 - [Amazon EC2 I7ie instances now available in AWS Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7ie-instances-aws-asia-pacific-singapore-region)
+- [AWS Transfer Family announces Terraform module to automate scanning of transferred files](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transfer-family-terraform-module)
+- [Amazon RDS Optimized Reads now supports R8gd and M8gd database instances](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-optimized-reads-r8gd-m8gd-database-instances)
+- [Workshops now available in AWS Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/11/workshops-available-aws-builder-center/)
 - [Active threat defense now enabled by default in AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/)
-- [Amazon MSK Replicator is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-two-additional-regions/)
-- [Amazon Redshift announces support for the SUPER data type in Databases with Case-Insensitive Collation](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-super-data-type-databases/)
-- [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7i-instances-regions/)
-- [Amazon Route 53 DNS Firewall adds protection against Dictionary-based DGA attacks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-firewall-protection-dictionary-dga-attacks)
-- [Amazon Redshift now supports writing to Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1)
-- [Amazon WorkSpaces Applications adds new instance types and configurable storage options](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-instances-storage-addition)
+- [AWS announces flat-rate pricing plans for website delivery and security](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-flat-rate-pricing-plans)
+- [Amazon Redshift now supports Just-In-Time &lpar;JIT&rpar; ANALYZE for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-jit-analyze-apache-iceberg-tables/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

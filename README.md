@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Polly expands Generative TTS engine with additional languages and region support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine)
+- [Amazon EC2 I7ie instances now available in AWS Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7ie-instances-aws-asia-pacific-singapore-region)
 - [Active threat defense now enabled by default in AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/)
+- [Amazon MSK Replicator is now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-two-additional-regions/)
+- [Amazon Redshift announces support for the SUPER data type in Databases with Case-Insensitive Collation](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-super-data-type-databases/)
 - [Amazon Route 53 DNS Firewall adds protection against Dictionary-based DGA attacks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-dns-firewall-protection-dictionary-dga-attacks)
 - [Amazon Redshift now supports writing to Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-redshift-iceberg-writes-m1)
 - [Amazon WorkSpaces Applications adds new instance types and configurable storage options](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-instances-storage-addition)
 - [Amazon WorkSpaces Applications expands the regional availability to Italy, Spain, Malaysia, and Israel](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-workspaces-applications-region-expansion)
 - [AWS Backup extends delegated administrator support to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-delegated-administrator-17-regions)
-- [Announcing EC2 Image Builder support for Lambda and Step functions](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-lambda-step-functions)
-- [AWS Backup now supports backing up directly to a logically air-gapped vault](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-backup-direct-to-logically-air-gapped-vault/)
-- [Amazon EC2 reduces costs for Microsoft SQL Server High-Availability deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-costs-microsoft-sql-server-high-availability-deployments)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

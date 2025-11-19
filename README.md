@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)
+- [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-region/)
 - [AWS Channel Partners can now resell using Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-channel-partner-billing-transfer/)
 - [Get Invoice PDF API is now generally available.](https://aws.amazon.com/about-aws/whats-new/2025/11/get-invoice-pdf-api/)
 - [AWS NAT Gateway now supports regional availability](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-nat-gateway-regional-availability)
+- [Amazon Inspector supports organization-wide management through AWS Organizations policies](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-inspector-organization-wide-management-aws-organizations-policies)
 - [AWS Secrets Manager announces managed external secrets](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-secrets-manager-managed-external-secrets)
-- [Amazon EKS introduces enhanced container network observability](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-enhanced-container-network-observability)
 - [Savings Plans and Reserved Instances Group Sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/11/savings-plans-reserved-instances-group-sharing-generally-available)
+- [Amazon EKS introduces enhanced container network observability](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-enhanced-container-network-observability)
 - [Accelerate infrastructure development with AWS CloudFormation intelligent authoring in IDEs](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-intelligent-authoring-ides)
-- [Amazon Bedrock Guardrails adds support for coding use cases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-guardrails-coding-use-cases)
-- [AWS Cost Optimization Hub introduces Cost Efficiency metric to measure and track cloud cost efficiency](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cost-optimization-hub-cost-efficiency-metric-measure-track)
-- [AWS Introduces E-Invoice delivery for AWS customers using SAP Ariba and Coupa procurement portals](https://aws.amazon.com/about-aws/whats-new/2025/11/e-invoice-delivery-sap-ariba-coupa-procurement-portals/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

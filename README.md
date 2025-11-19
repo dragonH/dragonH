@@ -58,15 +58,15 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Get Invoice PDF API is now generally available.](https://aws.amazon.com/about-aws/whats-new/2025/11/get-invoice-pdf-api/)
 - [Amazon ECR introduces archive storage class for rarely accessed container images](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ecr-archive-storage-class-container-images/)
+- [Amazon CloudWatch now supports scheduled queries in Logs Insights](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-scheduled-queries)
 - [Amazon OpenSearch Service launches Cluster Insights for improved operational visibility](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-cluster-insights/)
 - [Amazon EC2 P6-B300 instances with NVIDIA Blackwell Ultra GPUs are now available](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-p6-b300-instances-nvidia-blackwell-ultra-gpus-available)
 - [Amazon Bedrock introduces Priority and Flex inference service tiers](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-priority-flex-inference-service-tiers)
 - [EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-auto-scaling-synchronous-api-launch-instances/)
 - [Amazon OpenSearch Serverless now adds audit logs for data plane APIs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-auditlogs-dataplane-apis)
 - [Amazon Polly expands Generative TTS engine with additional languages and region support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-polly-generative-tts-engine)
-- [Amazon RDS Optimized Reads now supports R8gd and M8gd database instances](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-optimized-reads-r8gd-m8gd-database-instances)
-- [AWS Transfer Family announces Terraform module to automate scanning of transferred files](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transfer-family-terraform-module)
 - [Amazon EC2 I7ie instances now available in AWS Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7ie-instances-aws-asia-pacific-singapore-region)
 <!-- AWS-NEWS:END -->
 

@@ -59,7 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)
-- [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-region/)
+- [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/)
+- [Amazon OpenSearch Serverless now supports backup and restore through the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-backup-and-restore-console)
 - [AWS Channel Partners can now resell using Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-channel-partner-billing-transfer/)
 - [Get Invoice PDF API is now generally available.](https://aws.amazon.com/about-aws/whats-new/2025/11/get-invoice-pdf-api/)
 - [AWS NAT Gateway now supports regional availability](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-nat-gateway-regional-availability)
@@ -67,7 +68,6 @@
 - [AWS Secrets Manager announces managed external secrets](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-secrets-manager-managed-external-secrets)
 - [Savings Plans and Reserved Instances Group Sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/11/savings-plans-reserved-instances-group-sharing-generally-available)
 - [Amazon EKS introduces enhanced container network observability](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-enhanced-container-network-observability)
-- [Accelerate infrastructure development with AWS CloudFormation intelligent authoring in IDEs](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloudformation-intelligent-authoring-ides)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

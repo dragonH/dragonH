@@ -66,8 +66,8 @@
 - [AWS Transfer Family announces Terraform module to automate scanning of transferred files](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transfer-family-terraform-module)
 - [Amazon EC2 I7ie instances now available in AWS Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-i7ie-instances-aws-asia-pacific-singapore-region)
 - [Amazon RDS Optimized Reads now supports R8gd and M8gd database instances](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-optimized-reads-r8gd-m8gd-database-instances)
-- [Active threat defense now enabled by default in AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/)
 - [Workshops now available in AWS Builder Center](https://aws.amazon.com/about-aws/whats-new/2025/11/workshops-available-aws-builder-center/)
+- [Active threat defense now enabled by default in AWS Network Firewall](https://aws.amazon.com/about-aws/whats-new/2025/11/active-threat-defense-default-network-firewall/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

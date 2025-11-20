@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Step Functions enhances Local Testing with TestState API](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-step-functions-local-testing-teststate-api/)
 - [Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)
 - [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/)
 - [Amazon Connect outbound campaigns supports ring time configuration for unanswered calls](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-outbound-campaigns-ring-time-configuration)
@@ -67,7 +68,6 @@
 - [Get Invoice PDF API is now generally available.](https://aws.amazon.com/about-aws/whats-new/2025/11/get-invoice-pdf-api/)
 - [Amazon Inspector supports organization-wide management through AWS Organizations policies](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-inspector-organization-wide-management-aws-organizations-policies)
 - [AWS NAT Gateway now supports regional availability](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-nat-gateway-regional-availability)
-- [AWS Secrets Manager announces managed external secrets](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-secrets-manager-managed-external-secrets)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

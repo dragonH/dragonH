@@ -58,15 +58,15 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Validate and enforce required tags in CloudFormation, Terraform and Pulumi with Tag Policies](https://aws.amazon.com/about-aws/whats-new/2025/11/validate-enforce-required-tags-cloudformation-terraform-pulumi/)
 - [AWS DMS Schema Conversion adds SAP &lpar;Sybase&rpar; ASE to PostgreSQL support with generative AI](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-dms-schema-conversion-sap-sybase-ase-postgresql/)
+- [Amazon RDS supports Multi-AZ for SQL Server Web Edition](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-rds-sql-server-multi-az-web-edition/)
 - [AWS Cloud WAN adds Routing Policy for advanced traffic control and flexible network deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-routing-policy/)
 - [AWS Glue supports additional SAP entities as zero-ETL integration sources](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-additional-sap-entities-zero-etl-integration-sources)
 - [Amazon MSK Serverless expands availability to South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-serverless-south-america-sao-paulo-region)
 - [Amazon Braket introduces spending limits feature for quantum processing units](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-spending-limits-feature-quantum-processing-units)
 - [Amazon EC2 Mac instances now support Apple macOS Tahoe](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-mac-instances-apple-macos-tahoe)
 - [Amazon MQ now supports RabbitMQ version 4.2](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-mq-rabbitmq-42/)
-- [Amazon Aurora DSQL now provides statement-level cost estimates in query plans](https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-statement-level-cost-estimates-query-plans/)
-- [Amazon Braket adds new quantum processor from Alpine Quantum Technologies &lpar;AQT&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-alpine-quantum-technologies)
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-additional-regions/)
 <!-- AWS-NEWS:END -->
 

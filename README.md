@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora DSQL now provides statement-level cost estimates in query plans](https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-statement-level-cost-estimates-query-plans/)
+- [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-additional-regions/)
+- [Amazon Braket adds new quantum processor from Alpine Quantum Technologies &lpar;AQT&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-alpine-quantum-technologies)
 - [AWS Step Functions enhances Local Testing with TestState API](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-step-functions-local-testing-teststate-api/)
+- [Amazon Quick Sight expands Dashboard Theme Customization](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-sight-expands-dashboard-theme-customization)
 - [Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)
 - [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/)
 - [Amazon Connect outbound campaigns supports ring time configuration for unanswered calls](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-outbound-campaigns-ring-time-configuration)
 - [AWS IAM enables identity federation to external services using JSON Web Tokens &lpar;JWTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iam-identity-federation-external-services-jwts/)
 - [Amazon OpenSearch Serverless now supports backup and restore through the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-backup-and-restore-console)
-- [AWS Channel Partners can now resell using Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-channel-partner-billing-transfer/)
-- [Get Invoice PDF API is now generally available.](https://aws.amazon.com/about-aws/whats-new/2025/11/get-invoice-pdf-api/)
-- [Amazon Inspector supports organization-wide management through AWS Organizations policies](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-inspector-organization-wide-management-aws-organizations-policies)
-- [AWS NAT Gateway now supports regional availability](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-nat-gateway-regional-availability)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

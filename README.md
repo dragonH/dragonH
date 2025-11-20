@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS DMS Schema Conversion adds SAP &lpar;Sybase&rpar; ASE to PostgreSQL support with generative AI](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-dms-schema-conversion-sap-sybase-ase-postgresql/)
+- [AWS Cloud WAN adds Routing Policy for advanced traffic control and flexible network deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-routing-policy/)
 - [AWS Glue supports additional SAP entities as zero-ETL integration sources](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-additional-sap-entities-zero-etl-integration-sources)
+- [Amazon MSK Serverless expands availability to South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-serverless-south-america-sao-paulo-region)
 - [Amazon Braket introduces spending limits feature for quantum processing units](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-spending-limits-feature-quantum-processing-units)
 - [Amazon EC2 Mac instances now support Apple macOS Tahoe](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-mac-instances-apple-macos-tahoe)
-- [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-additional-regions/)
+- [Amazon MQ now supports RabbitMQ version 4.2](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-mq-rabbitmq-42/)
 - [Amazon Aurora DSQL now provides statement-level cost estimates in query plans](https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-statement-level-cost-estimates-query-plans/)
 - [Amazon Braket adds new quantum processor from Alpine Quantum Technologies &lpar;AQT&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-braket-alpine-quantum-technologies)
-- [Amazon SageMaker Unified Studio now supports long-running sessions with corporate identities](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-studio-long-running-sessions/)
-- [Amazon Redshift Serverless now offers 4-RPU Minimum Capacity across more aws regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-serverless-4-rpu-minimum-capacity/)
-- [AWS Step Functions enhances Local Testing with TestState API](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-step-functions-local-testing-teststate-api/)
+- [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-high-memory-u7i-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

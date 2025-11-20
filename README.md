@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now provides conversational analytics for voice and chat bots](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-conversational-analytics/)
 - [Amazon Bedrock is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-bedrock-available-in-additional-regions/)
+- [Amazon Connect outbound campaigns supports ring time configuration for unanswered calls](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-outbound-campaigns-ring-time-configuration)
 - [Amazon OpenSearch Serverless now supports backup and restore through the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-serverless-backup-and-restore-console)
+- [AWS IAM enables identity federation to external services using JSON Web Tokens &lpar;JWTs&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iam-identity-federation-external-services-jwts/)
 - [AWS Channel Partners can now resell using Billing Transfer](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-channel-partner-billing-transfer/)
 - [Get Invoice PDF API is now generally available.](https://aws.amazon.com/about-aws/whats-new/2025/11/get-invoice-pdf-api/)
-- [AWS NAT Gateway now supports regional availability](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-nat-gateway-regional-availability)
 - [Amazon Inspector supports organization-wide management through AWS Organizations policies](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-inspector-organization-wide-management-aws-organizations-policies)
+- [AWS NAT Gateway now supports regional availability](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-nat-gateway-regional-availability)
 - [AWS Secrets Manager announces managed external secrets](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-secrets-manager-managed-external-secrets)
-- [Savings Plans and Reserved Instances Group Sharing is now generally available](https://aws.amazon.com/about-aws/whats-new/2025/11/savings-plans-reserved-instances-group-sharing-generally-available)
-- [Amazon EKS introduces enhanced container network observability](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-enhanced-container-network-observability)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

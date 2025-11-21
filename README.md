@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Automated Reasoning checks now include natural language test Q&amp;A generation](https://aws.amazon.com/about-aws/whats-new/2025/11/automated-reasoning-checks-include-natural-language/)
+- [AWS IoT Core enhances IoT rules-SQL with variable setting and error handling capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-rules-sql/)
 - [Amazon Connect launches monitoring of contacts queued for callback](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-monitoring-contacts-queued-callback/)
 - [Second-generation AWS Outposts racks now supported in the AWS Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/second-generation-aws-outposts-racks-asia-pacific-tokyo-region)
 - [AWS announces Flexible Cost Allocation on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transit-gateway-flexible-cost-allocation/)
 - [AWS Security Incident Response now provides agentic AI-powered investigation](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-security-incident-response-agentic-ai-powered-investigation)
 - [Amazon Location Service introduces Address Form Solution Builder](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-location-service-introduces-address-form-builder)
-- [AWS License Manager introduces license asset groups for centralized software asset management](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-license-manager-license-asset-groups)
 - [AWS introduces new VPC Encryption Controls and further raises the bar on data encryption](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-vpc-encryption-controls)
+- [AWS License Manager introduces license asset groups for centralized software asset management](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-license-manager-license-asset-groups)
 - [Amazon EKS add-ons now supports the AWS Secrets Store CSI Driver provider](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-add-ons-aws-secrets-store-csi-driver-provider)
-- [CloudWatch Database Insights adds cross-account cross-region monitoring](https://aws.amazon.com/about-aws/whats-new/2025/11/cloudwatch-database-insights-cross-account-region-monitoring)
-- [AWS Control Tower now supports seven new compliance frameworks and 279 additional AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-new-compliance-frameworks-additional-aws-config-rules)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

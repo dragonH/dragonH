@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces Flexible Cost Allocation on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transit-gateway-flexible-cost-allocation/)
+- [AWS Security Incident Response now provides agentic AI-powered investigation](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-security-incident-response-agentic-ai-powered-investigation)
 - [Amazon Location Service introduces Address Form Solution Builder](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-location-service-introduces-address-form-builder)
 - [AWS License Manager introduces license asset groups for centralized software asset management](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-license-manager-license-asset-groups)
-- [Amazon OpenSearch Service OR2 and OM2 now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-or2-om2-instances-available-regions)
 - [Amazon EKS add-ons now supports the AWS Secrets Store CSI Driver provider](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-eks-add-ons-aws-secrets-store-csi-driver-provider)
-- [AWS Control Tower now supports seven new compliance frameworks and 279 additional AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-new-compliance-frameworks-additional-aws-config-rules)
 - [CloudWatch Database Insights adds cross-account cross-region monitoring](https://aws.amazon.com/about-aws/whats-new/2025/11/cloudwatch-database-insights-cross-account-region-monitoring)
+- [AWS Control Tower now supports seven new compliance frameworks and 279 additional AWS Config rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-new-compliance-frameworks-additional-aws-config-rules)
+- [Amazon OpenSearch Service OR2 and OM2 now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-or2-om2-instances-available-regions)
 - [Amazon EC2 Fleet adds new encryption attribute for instance type selection](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-fleet-encryption-attribute-instance-type-selection/)
-- [AWS Control Tower introduces a controls-dedicated experience](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-control-tower-controls-dedicated-experience/)
-- [Amazon Connect now offers persistent agent connections for faster call handling](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-persistent-agent-connections)
-- [Validate and enforce required tags in CloudFormation, Terraform and Pulumi with Tag Policies](https://aws.amazon.com/about-aws/whats-new/2025/11/validate-enforce-required-tags-cloudformation-terraform-pulumi/)
+- [Announcing flexible AMI distribution capabilities for EC2 Image Builder](https://aws.amazon.com/about-aws/whats-new/2025/11/announcing-flexible-ami-distribution-ec2-image-builder/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

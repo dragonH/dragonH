@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing a Fully Managed Appium Endpoint for AWS Device Farm](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-device-farm-managed-appium-endpoint/)
 - [EC2 Image Builder now supports auto-versioning and enhances Infrastructure as Code experience](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-auto-versioning-infrastructure/)
 - [Automated Reasoning checks now include natural language test Q&amp;A generation](https://aws.amazon.com/about-aws/whats-new/2025/11/automated-reasoning-checks-include-natural-language/)
 - [AWS IoT Core enhances IoT rules-SQL with variable setting and error handling capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-rules-sql/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora DSQL database clusters now support up to 256 TiB of storage volume](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-dsql-database-clusters-up-to-256-tib)
 - [AWS WAF announces Web Bot Auth support](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-waf-web-bot-auth-support)
 - [AWS announces Flexible Cost Allocation on AWS Transit Gateway](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-transit-gateway-flexible-cost-allocation/)
-- [AWS Security Incident Response now provides agentic AI-powered investigation](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-security-incident-response-agentic-ai-powered-investigation)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

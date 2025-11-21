@@ -67,7 +67,7 @@
 - [AWS Cloud WAN adds Routing Policy for advanced traffic control and flexible network deployments](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-cloud-wan-routing-policy/)
 - [AWS Glue supports additional SAP entities as zero-ETL integration sources](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-additional-sap-entities-zero-etl-integration-sources)
 - [Amazon MSK Serverless expands availability to South America &lpar;São Paulo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-serverless-south-america-sao-paulo-region)
-- [AWS announces availability of Microsoft SQL Server 2025 images on Amazon EC2](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-availability-microsoft-sql-server-2025-images-amazon-ec2)
+- [AWS Application Load Balancer launches Target Optimizer](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-application-load-balancer-target-optimizer)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

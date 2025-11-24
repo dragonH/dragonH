@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [OpenSearch Service Enhances Log Analytics with New PPL Experience](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-log-analytics-ppl/)
-- [Amazon Redshift now supports federated permissions across multi-warehouse architectures](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-federated-permissions-multi-warehouse-architectures)
 - [AWS Elemental MediaTailor now supports HLS Interstitials for live streams](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-elemental-mediatailor-hls-interstitials-live-streams)
-- [Amazon Connect flow modules now support custom inputs, outputs, and version management](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-flow-modules-custom-inputs-outputs-version-management)
+- [Amazon Redshift now supports federated permissions across multi-warehouse architectures](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-federated-permissions-multi-warehouse-architectures)
 - [Amazon U7i instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-asia-pacific-jakarta-region)
+- [Amazon Connect flow modules now support custom inputs, outputs, and version management](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-flow-modules-custom-inputs-outputs-version-management)
+- [AWS Glue announces catalog federation for remote Apache Iceberg catalogs](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-catalog-federation-remote-apache-iceberg-catalogs)
+- [Claude Opus 4.5 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/11/claude-opus-4-5-amazon-bedrock)
 - [AWS Lambda announces enhanced error handling capabilities for Kafka event processing](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-enhanced-error-handling-capabilities-kafka-event-processing)
 - [Amazon MSK Replicator is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-additional-aws-regions)
 - [Amazon OpenSearch Service now supports OpenSearch version 3.3](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-opensearch-version-3-3/)
-- [Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU &lpar;MIG&rpar; for generative AI tasks](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-nvidia-multi-instance-gpu/)
-- [Amazon EMR Serverless now supports Apache Spark 4.0.1 &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-serverless-apache-spark/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -61,13 +61,13 @@
 - [AWS Elemental MediaTailor now supports HLS Interstitials for live streams](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-elemental-mediatailor-hls-interstitials-live-streams)
 - [Amazon Redshift now supports federated permissions across multi-warehouse architectures](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-federated-permissions-multi-warehouse-architectures)
 - [Amazon U7i instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-asia-pacific-jakarta-region)
+- [Amazon Connect flow modules now support custom inputs, outputs, and version management](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-flow-modules-custom-inputs-outputs-version-management)
 - [Amazon MSK Replicator is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-additional-aws-regions)
 - [AWS Lambda announces enhanced error handling capabilities for Kafka event processing](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-enhanced-error-handling-capabilities-kafka-event-processing)
+- [Amazon OpenSearch Service now supports OpenSearch version 3.3](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-opensearch-version-3-3/)
+- [Amazon SageMaker HyperPod now supports NVIDIA Multi-Instance GPU &lpar;MIG&rpar; for generative AI tasks](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-nvidia-multi-instance-gpu/)
 - [Amazon EMR Serverless now supports Apache Spark 4.0.1 &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-serverless-apache-spark/)
 - [Amazon Athena for Apache Spark is now available in Amazon SageMaker notebooks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-apache-spark-sagemaker-notebooks/)
-- [AWS Payments Cryptography announces support for post-quantum cryptography to secure data in transit](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-payments-cryptography-post-quantum-data-transit)
-- [Announcing a Fully Managed Appium Endpoint for AWS Device Farm](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-device-farm-managed-appium-endpoint/)
-- [EC2 Image Builder now supports auto-versioning and enhances Infrastructure as Code experience](https://aws.amazon.com/about-aws/whats-new/2025/11/ec2-image-builder-auto-versioning-infrastructure/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

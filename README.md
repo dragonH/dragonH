@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift now supports federated permissions across multi-warehouse architectures](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-federated-permissions-multi-warehouse-architectures)
+- [Amazon MSK Replicator is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-additional-aws-regions)
 - [Amazon EMR Serverless now supports Apache Spark 4.0.1 &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-serverless-apache-spark/)
 - [Amazon Athena for Apache Spark is now available in Amazon SageMaker notebooks](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-athena-apache-spark-sagemaker-notebooks/)
 - [AWS Payments Cryptography announces support for post-quantum cryptography to secure data in transit](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-payments-cryptography-post-quantum-data-transit)
@@ -66,8 +68,6 @@
 - [Automated Reasoning checks now include natural language test Q&amp;A generation](https://aws.amazon.com/about-aws/whats-new/2025/11/automated-reasoning-checks-include-natural-language/)
 - [AWS IoT Core enhances IoT rules-SQL with variable setting and error handling capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-rules-sql/)
 - [Amazon Connect launches monitoring of contacts queued for callback](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-monitoring-contacts-queued-callback/)
-- [Aurora DSQL launches new Python, Node.js, and JDBC Connectors that simplify IAM authorization](https://aws.amazon.com/about-aws/whats-new/2025/11/aurora-dsql-python-node-js-jdbc-connectors-iam)
-- [Amazon EMR 7.12 now supports the Apache Iceberg v3 table format](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-apache-iceberg-v3-table-format/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,8 @@
 
 <!-- AWS-NEWS:START -->
 - [OpenSearch Service Enhances Log Analytics with New PPL Experience](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-log-analytics-ppl/)
+- [Amazon CloudFront announces support for mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudfront-mutual-tls-authentication/)
+- [Amazon EC2 announces interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-interruptible-capacity-reservations)
 - [AWS Elemental MediaTailor now supports HLS Interstitials for live streams](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-elemental-mediatailor-hls-interstitials-live-streams)
 - [Amazon Redshift now supports federated permissions across multi-warehouse architectures](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-federated-permissions-multi-warehouse-architectures)
 - [Amazon U7i instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-asia-pacific-jakarta-region)
@@ -66,8 +68,6 @@
 - [AWS Glue announces catalog federation for remote Apache Iceberg catalogs](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-catalog-federation-remote-apache-iceberg-catalogs)
 - [Claude Opus 4.5 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/11/claude-opus-4-5-amazon-bedrock)
 - [AWS Lambda announces enhanced error handling capabilities for Kafka event processing](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-enhanced-error-handling-capabilities-kafka-event-processing)
-- [Amazon MSK Replicator is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-additional-aws-regions)
-- [Amazon OpenSearch Service now supports OpenSearch version 3.3](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-opensearch-service-opensearch-version-3-3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -67,7 +67,7 @@
 - [Amazon U7i instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-asia-pacific-jakarta-region)
 - [Amazon Connect flow modules now support custom inputs, outputs, and version management](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-flow-modules-custom-inputs-outputs-version-management)
 - [AWS Glue announces catalog federation for remote Apache Iceberg catalogs](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-catalog-federation-remote-apache-iceberg-catalogs)
-- [Claude Opus 4.5 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/11/claude-opus-4-5-amazon-bedrock)
+- [Amazon MSK Replicator is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-msk-replicator-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

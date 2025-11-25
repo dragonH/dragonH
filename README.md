@@ -61,13 +61,13 @@
 - [Amazon OpenSearch Service introduces Agentic Search](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-agentic-search/)
 - [AWS Glue Data Quality now supports rule labeling for enhanced reporting](https://aws.amazon.com/about-aws/whats-new/2025/11/glue-data-quality-rule-labeling-enhanced-reporting/)
 - [AWS Glue Data Quality now supports pre-processing queries](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-data-quality-pre-processing-queries/)
+- [Amazon Quick Suite introduces scheduling for Quick Flows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-scheduling-quick-flows/)
 - [OpenSearch Service Enhances Log Analytics with New PPL Experience](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-log-analytics-ppl/)
 - [Amazon CloudFront announces support for mutual TLS authentication](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudfront-mutual-tls-authentication/)
 - [Amazon EC2 announces interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-ec2-interruptible-capacity-reservations)
 - [AWS IoT Core now supports IoT thing registry data retrieval from IoT rules](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-iot-core-thing-registry-data-retrieval/)
 - [AWS Elemental MediaTailor now supports HLS Interstitials for live streams](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-elemental-mediatailor-hls-interstitials-live-streams)
 - [Amazon Redshift now supports federated permissions across multi-warehouse architectures](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-redshift-federated-permissions-multi-warehouse-architectures)
-- [Amazon U7i instances now available in Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-u7i-instances-asia-pacific-jakarta-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 announces accelerated recovery for managing public DNS records](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-accelerated-recovery-managing-public-dns-records)
 - [Manage Amazon SageMaker HyperPod clusters with the new Amazon SageMaker AI MCP Server](https://aws.amazon.com/about-aws/whats-new/2025/11/manage-amazon-sagemaker-hyperpod-clusters-mcp-server/)
 - [Introducing AWS Network Firewall Proxy in preview](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-network-firewall-proxy-preview)
 - [AWS Lambda adds support for Node.js 24](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-nodejs-24/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker AI now supports EAGLE speculative decoding](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-eagle-decoding/)
 - [AWS Glue Data Quality now supports rule labeling for enhanced reporting](https://aws.amazon.com/about-aws/whats-new/2025/11/glue-data-quality-rule-labeling-enhanced-reporting/)
 - [AWS Glue Data Quality now supports pre-processing queries](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-data-quality-pre-processing-queries/)
-- [Amazon Quick Suite introduces scheduling for Quick Flows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-scheduling-quick-flows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

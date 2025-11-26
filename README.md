@@ -63,11 +63,11 @@
 - [Amazon S3 Block Public Access now supports organization-level enforcement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement)
 - [Improved AWS Health event triage](https://aws.amazon.com/about-aws/whats-new/2025/11/improved-aws-health-event-triage)
 - [Amazon CloudWatch now supports deletion protection for logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-deletion-protection-logs)
+- [Amazon SageMaker HyperPod now supports programmatic node reboot and replacement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-programmatic-node-reboot-replacement)
 - [AWS Compute Optimizer now supports unused NAT Gateway recommendations](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-unused-nat-gateway-recommendations)
+- [The AWS API MCP Server is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/the-aws-api-mcp-server-aws-marketplace)
 - [Amazon Route 53 announces accelerated recovery for managing public DNS records](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-accelerated-recovery-managing-public-dns-records)
 - [Amazon Lex now supports LLMs as the primary option for natural language understanding](https://aws.amazon.com/about-aws/whats-new/2025/11/lex-llms-primary-natural-language-understanding/)
-- [Amazon EMR and AWS Glue now support write operations with AWS Lake Formation fine-grained access controls](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-aws-glue-write-operations-aws-lake-formation/)
-- [Amazon EMR and AWS Glue now support audit context support with Lake Formation](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-emr-aws-glue-audit-context-lake-formation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

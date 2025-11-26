@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon S3 Block Public Access now supports organization-level enforcement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement)
+- [Improved AWS Health event triage](https://aws.amazon.com/about-aws/whats-new/2025/11/improved-aws-health-event-triage)
+- [Amazon CloudWatch now supports deletion protection for logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-deletion-protection-logs)
 - [Amazon Route 53 announces accelerated recovery for managing public DNS records](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-accelerated-recovery-managing-public-dns-records)
+- [Amazon Lex now supports LLMs as the primary option for natural language understanding](https://aws.amazon.com/about-aws/whats-new/2025/11/lex-llms-primary-natural-language-understanding/)
 - [Amazon Quick Research now includes trusted third-party industry intelligence](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-research-third-party-industry-intelligence/)
 - [Manage Amazon SageMaker HyperPod clusters with the new Amazon SageMaker AI MCP Server](https://aws.amazon.com/about-aws/whats-new/2025/11/manage-amazon-sagemaker-hyperpod-clusters-mcp-server/)
 - [Introducing AWS Network Firewall Proxy in preview](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-network-firewall-proxy-preview)
 - [AWS Lambda adds support for Node.js 24](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-nodejs-24/)
 - [Amazon OpenSearch Service introduces Agentic Search](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-agentic-search/)
-- [Amazon SageMaker AI Inference now supports bidirectional streaming](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-ai-inference-bidirectional-streaming/)
-- [AWS Service Quotas adds now support for automatic quota management](https://aws.amazon.com/about-aws/whats-new/2025/11/automatic-quota-management-service-quota-management/)
-- [AWS Glue Data Quality now supports rule labeling for enhanced reporting](https://aws.amazon.com/about-aws/whats-new/2025/11/glue-data-quality-rule-labeling-enhanced-reporting/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

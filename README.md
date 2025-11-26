@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [SageMaker HyperPod now supports Managed tiered KV cache and intelligent routing](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-managed-tiered-kv-cache/)
 - [Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-kubernetes/)
+- [Amazon Kinesis Video Streams now supports a new cost effective warm storage tier](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-video-streams-warm-storage-tier/)
 - [Amazon S3 Block Public Access now supports organization-level enforcement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement)
 - [Improved AWS Health event triage](https://aws.amazon.com/about-aws/whats-new/2025/11/improved-aws-health-event-triage)
 - [Amazon CloudWatch now supports deletion protection for logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-deletion-protection-logs)
@@ -67,7 +68,6 @@
 - [AWS Compute Optimizer now supports unused NAT Gateway recommendations](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-unused-nat-gateway-recommendations)
 - [The AWS API MCP Server is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/the-aws-api-mcp-server-aws-marketplace)
 - [Amazon Route 53 announces accelerated recovery for managing public DNS records](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-route-53-accelerated-recovery-managing-public-dns-records)
-- [Amazon Lex now supports LLMs as the primary option for natural language understanding](https://aws.amazon.com/about-aws/whats-new/2025/11/lex-llms-primary-natural-language-understanding/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

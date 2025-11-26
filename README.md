@@ -64,9 +64,9 @@
 - [Amazon OpenSearch Service introduces Agentic Search](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-agentic-search/)
 - [Amazon SageMaker AI Inference now supports bidirectional streaming](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-ai-inference-bidirectional-streaming/)
 - [AWS Service Quotas adds now support for automatic quota management](https://aws.amazon.com/about-aws/whats-new/2025/11/automatic-quota-management-service-quota-management/)
-- [Amazon SageMaker AI now supports EAGLE speculative decoding](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-eagle-decoding/)
 - [AWS Glue Data Quality now supports rule labeling for enhanced reporting](https://aws.amazon.com/about-aws/whats-new/2025/11/glue-data-quality-rule-labeling-enhanced-reporting/)
 - [AWS Glue Data Quality now supports pre-processing queries](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-glue-data-quality-pre-processing-queries/)
+- [Amazon SageMaker AI now supports EAGLE speculative decoding](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-eagle-decoding/)
 - [Amazon Quick Suite introduces scheduling for Quick Flows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-suite-scheduling-quick-flows/)
 <!-- AWS-NEWS:END -->
 

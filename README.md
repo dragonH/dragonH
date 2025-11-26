@@ -66,8 +66,8 @@
 - [Amazon Quick Research now includes trusted third-party industry intelligence](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-quick-research-third-party-industry-intelligence/)
 - [Manage Amazon SageMaker HyperPod clusters with the new Amazon SageMaker AI MCP Server](https://aws.amazon.com/about-aws/whats-new/2025/11/manage-amazon-sagemaker-hyperpod-clusters-mcp-server/)
 - [Introducing AWS Network Firewall Proxy in preview](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-network-firewall-proxy-preview)
+- [Announcing AWS Glue zero-ETL for self-managed Database Sources](https://aws.amazon.com/about-aws/whats-new/2025/11/glue-zero-etl-selfmanaged)
 - [AWS Lambda adds support for Node.js 24](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-lambda-nodejs-24/)
-- [Amazon OpenSearch Service introduces Agentic Search](https://aws.amazon.com/about-aws/whats-new/2025/11/opensearch-service-agentic-search/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

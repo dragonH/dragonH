@@ -64,9 +64,9 @@
 - [Amazon Aurora now supports PostgreSQL 17.6, 16.10, 15.14, 14.19, and 13.22](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-minor-versions-17-6-16-10-15-14-14-19-13-22)
 - [Amazon S3 Block Public Access now supports organization-level enforcement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement)
 - [Improved AWS Health event triage](https://aws.amazon.com/about-aws/whats-new/2025/11/improved-aws-health-event-triage)
+- [AWS Compute Optimizer now supports unused NAT Gateway recommendations](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-unused-nat-gateway-recommendations)
 - [Amazon CloudWatch now supports deletion protection for logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-deletion-protection-logs)
 - [Amazon SageMaker HyperPod now supports programmatic node reboot and replacement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-programmatic-node-reboot-replacement)
-- [AWS Compute Optimizer now supports unused NAT Gateway recommendations](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-unused-nat-gateway-recommendations)
 - [The AWS API MCP Server is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/the-aws-api-mcp-server-aws-marketplace)
 <!-- AWS-NEWS:END -->
 

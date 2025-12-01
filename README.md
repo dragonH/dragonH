@@ -58,15 +58,15 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Connect now provides native testing and simulation capabilities &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities-preview)
 - [Amazon Connect launches automated email responses using conditional keywords and phrases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-email-responses/)
 - [Amazon Connect Chat now supports agent-initiated workflows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-agent-initiated-workflows)
 - [Amazon Connect now provides automated performance evaluations for self-service interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-performance-evaluations-self-service-interactions)
-- [Amazon Connect now supports AI agent assistance and summarization for Agentforce Service](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-agent-assistance-summarization-agentforce-service)
+- [Amazon Connect launches Model Context Protocol &lpar;MCP&rpar; support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-mcp-support)
 - [Amazon Connect now provides improved analytics and monitoring for AI agents](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-improved-analytics-monitoring-ai-agents)
 - [Amazon Connect adds support for third-party speech-to-text and text-to-speech AI models for end-customer self-service](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-third-party-speech-to-text-to-speech-ai-models)
-- [Amazon Connect launches Model Context Protocol &lpar;MCP&rpar; support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-mcp-support)
+- [Amazon Connect now supports AI agent assistance and summarization for Agentforce Service](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-agent-assistance-summarization-agentforce-service)
 - [Amazon Connect now provides granular access controls for performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-granular-access-controls-performance-evaluations)
+- [Amazon Connect now provides native testing and simulation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities)
 - [Amazon Connect now streams messages for AI-powered interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-streams-messages-ai-powered-interactions)
 <!-- AWS-NEWS:END -->
 

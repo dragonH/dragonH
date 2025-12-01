@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Transform launches an AI agent for full-stack Windows modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-ai-agent-full-stack-windows-modernization)
-- [AWS launches AWS Transform custom to accelerate organization-wide application modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-custom-organization-wide-modernization/)
+- [AWS Transform for mainframe now supports application reimagining](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-application-reimagining/)
+- [AWS Transform adds new agentic AI capabilities for enterprise VMware migrations](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-vmware-agentic-ai-enterprise-migration/)
 - [AWS Transform for mainframe delivers new testing automation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-testing-automation/)
+- [AWS launches AWS Transform custom to accelerate organization-wide application modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-custom-organization-wide-modernization/)
 - [AWS Transform expands .NET transformation capabilities and enhances developer experience](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-net-transformation-developer-experience/)
 - [Amazon Connect now provides native testing and simulation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities)
 - [Amazon Connect launches Model Context Protocol &lpar;MCP&rpar; support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-mcp-support)
 - [Amazon Connect now provides improved analytics and monitoring for AI agents](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-improved-analytics-monitoring-ai-agents)
 - [Amazon Connect adds support for third-party speech-to-text and text-to-speech AI models for end-customer self-service](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-third-party-speech-to-text-to-speech-ai-models)
-- [Amazon Connect now supports AI agent assistance and summarization for Agentforce Service](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-agent-assistance-summarization-agentforce-service)
-- [Amazon Connect now provides granular access controls for performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-granular-access-controls-performance-evaluations)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

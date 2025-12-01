@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [SageMaker HyperPod now supports Managed tiered KV cache and intelligent routing](https://aws.amazon.com/about-aws/whats-new/2025/11/sagemaker-hyperpod-managed-tiered-kv-cache/)
-- [Amazon SageMaker HyperPod now supports custom Kubernetes labels and taints](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-kubernetes/)
-- [Amazon Kinesis Video Streams now supports a new cost effective warm storage tier](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-kinesis-video-streams-warm-storage-tier/)
-- [Amazon Aurora now supports PostgreSQL 17.6, 16.10, 15.14, 14.19, and 13.22](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-aurora-minor-versions-17-6-16-10-15-14-14-19-13-22)
-- [Amazon S3 Block Public Access now supports organization-level enforcement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-s3-block-public-access-organization-level-enforcement)
-- [Improved AWS Health event triage](https://aws.amazon.com/about-aws/whats-new/2025/11/improved-aws-health-event-triage)
-- [Amazon CloudWatch now supports deletion protection for logs](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-cloudwatch-deletion-protection-logs)
-- [Amazon SageMaker HyperPod now supports programmatic node reboot and replacement](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-sagemaker-hyperpod-programmatic-node-reboot-replacement)
-- [AWS Compute Optimizer now supports unused NAT Gateway recommendations](https://aws.amazon.com/about-aws/whats-new/2025/11/aws-compute-optimizer-unused-nat-gateway-recommendations)
-- [The AWS API MCP Server is now available on AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/11/the-aws-api-mcp-server-aws-marketplace)
+- [Amazon Connect now provides automated performance evaluations for self-service interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-performance-evaluations-self-service-interactions)
+- [Amazon Connect Chat now supports agent-initiated workflows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-agent-initiated-workflows)
+- [Amazon Connect now provides native testing and simulation capabilities &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities-preview)
+- [Amazon Connect launches automated email responses using conditional keywords and phrases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-email-responses/)
+- [Amazon Connect now streams messages for AI-powered interactions](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-streams-messages-ai-powered-interactions)
+- [Amazon Connect agent workspace now supports custom visual themes](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-agent-workspace-custom-visual-themes)
+- [Amazon Connect now supports multiple knowledge bases and integrates with your Amazon Bedrock Knowledge Bases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-multiple-knowledge-bases-integrates-amazon-bedrock-knowledge-bases)
+- [Amazon Connect launches AI-powered predictive insights &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-ai-powered-predictive-insights-preview)
+- [Amazon Connect now simplifies linking related contacts to cases using flows](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-simplifies-linking-related-contacts-cases-using-flows)
+- [Amazon Connect Chat now supports in-flight data redaction and message processing](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-chat-in-flight-data-redaction-message-processing)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

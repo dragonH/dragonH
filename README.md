@@ -65,9 +65,9 @@
 - [AWS launches AWS Transform custom to accelerate organization-wide application modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-custom-organization-wide-modernization/)
 - [AWS Transform expands .NET transformation capabilities and enhances developer experience](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-net-transformation-developer-experience/)
 - [Amazon Connect now provides native testing and simulation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities)
+- [Amazon Connect now provides granular access controls for performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-granular-access-controls-performance-evaluations)
 - [Amazon Connect launches Model Context Protocol &lpar;MCP&rpar; support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-mcp-support)
-- [Amazon Connect now provides improved analytics and monitoring for AI agents](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-improved-analytics-monitoring-ai-agents)
-- [Amazon Connect adds support for third-party speech-to-text and text-to-speech AI models for end-customer self-service](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-third-party-speech-to-text-to-speech-ai-models)
+- [Amazon Connect launches automated email responses using conditional keywords and phrases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-email-responses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

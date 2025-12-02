@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P6e-GB300 UltraServers accelerated by NVIDIA GB300 NVL72 are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-p6e-gb300-ultraservers-nvidia-gb300-nvl72-generally-available)
+- [Announcing Amazon Nova 2 Sonic for real-time conversational AI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/)
+- [Introducing AWS AI Factories](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-ai-factories)
+- [Announcing Amazon Nova 2 foundation models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nova-2-foundation-models-amazon-bedrock/)
+- [Introducing AWS DevOps Agent &lpar;preview&rpar;, frontier agent for operational excellence](https://aws.amazon.com/about-aws/whats-new/2025/12/devops-agent-preview-frontier-agent-operational-excellence/)
+- [Announcing Amazon EC2 Trn3 UltraServers for faster, lower-cost generative AI training](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-trn3-ultraservers)
+- [Build agents to automate production UI workflows with Amazon Nova Act &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/build-automate-production-ui-workflows-nova-act/)
+- [Amazon Nova Forge: Build your own Frontier Models using Nova](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-forge-frontier-models-nova/)
+- [Announcing New Compute-Optimized Amazon EC2 C8a Instances](https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/)
 - [AWS Transform launches an AI agent for full-stack Windows modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-ai-agent-full-stack-windows-modernization)
-- [AWS Transform for mainframe now supports application reimagining](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-application-reimagining/)
-- [AWS Transform adds new agentic AI capabilities for enterprise VMware migrations](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-vmware-agentic-ai-enterprise-migration/)
-- [AWS launches AWS Transform custom to accelerate organization-wide application modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-custom-organization-wide-modernization/)
-- [AWS Transform for mainframe delivers new testing automation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-mainframe-testing-automation/)
-- [AWS Transform expands .NET transformation capabilities and enhances developer experience](https://aws.amazon.com/about-aws/whats-new/2025/12/transform-net-transformation-developer-experience/)
-- [Amazon Connect now provides native testing and simulation capabilities](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-native-testing-simulation-capabilities)
-- [Amazon Connect now provides granular access controls for performance evaluations](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-granular-access-controls-performance-evaluations)
-- [Amazon Connect launches Model Context Protocol &lpar;MCP&rpar; support](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-mcp-support)
-- [Amazon Connect launches automated email responses using conditional keywords and phrases](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-connect-automated-email-responses/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for NetApp ONTAP now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-fsx-netapp-ontap-s3-access)
+- [Amazon RDS for SQL Server launches optimize CPU with new generation instances for up to 55% lower price](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-optimized-cpu-lower-prices)
+- [Amazon RDS for SQL Server now supports Developer Edition](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-supports-developer-edition/)
 - [Amazon EC2 P6e-GB300 UltraServers accelerated by NVIDIA GB300 NVL72 are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-p6e-gb300-ultraservers-nvidia-gb300-nvl72-generally-available)
-- [Announcing Amazon Nova 2 Sonic for real-time conversational AI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/)
+- [Announcing new memory-optimized Amazon EC2 X8aedz Instances](https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/)
 - [Introducing AWS AI Factories](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-ai-factories)
 - [Announcing Amazon Nova 2 foundation models now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nova-2-foundation-models-amazon-bedrock/)
 - [Introducing AWS DevOps Agent &lpar;preview&rpar;, frontier agent for operational excellence](https://aws.amazon.com/about-aws/whats-new/2025/12/devops-agent-preview-frontier-agent-operational-excellence/)
-- [Announcing Amazon EC2 Trn3 UltraServers for faster, lower-cost generative AI training](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-trn3-ultraservers)
-- [Build agents to automate production UI workflows with Amazon Nova Act &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/build-automate-production-ui-workflows-nova-act/)
-- [Amazon Nova Forge: Build your own Frontier Models using Nova](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-forge-frontier-models-nova/)
-- [Announcing New Compute-Optimized Amazon EC2 C8a Instances](https://aws.amazon.com/about-aws/whats-new/2025/12/compute-optimized-amazon-ec2-c8a-instances/)
-- [AWS Transform launches an AI agent for full-stack Windows modernization](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-ai-agent-full-stack-windows-modernization)
+- [AWS Security Hub is now generally available with near real-time risk analytics](https://aws.amazon.com/about-aws/whats-new/2025/12/security-hub-near-real-time-risk-analytics/)
+- [Amazon RDS for Oracle and SQL Server now support up to 256 TiB storage with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2025/12/rds-oracle-sql-server-256-tib-storage-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

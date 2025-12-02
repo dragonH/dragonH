@@ -66,8 +66,8 @@
 - [Amazon FSx for NetApp ONTAP now supports Amazon S3 access](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-fsx-netapp-ontap-s3-access)
 - [Amazon RDS for SQL Server launches optimize CPU with new generation instances for up to 55% lower price](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-optimized-cpu-lower-prices)
 - [Amazon EC2 P6e-GB300 UltraServers accelerated by NVIDIA GB300 NVL72 are now generally available](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-p6e-gb300-ultraservers-nvidia-gb300-nvl72-generally-available)
-- [Announcing Amazon EC2 Memory optimized X8i instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8i-instances-preview)
 - [Announcing new memory-optimized Amazon EC2 X8aedz Instances](https://aws.amazon.com/about-aws/whats-new/2025/12/memory-optimized-amazon-ec2-x8aedz-instances/)
+- [Announcing Amazon EC2 Memory optimized X8i instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8i-instances-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing new Amazon EC2 M9g instances powered by AWS Graviton5 processors &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m9g-instances-graviton5-processors-preview/)
 - [Amazon SageMaker HyperPod now supports checkpointless training](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training)
 - [New serverless model customization capability in Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/12/new-serverless-model-customization-capability-amazon-sagemaker-ai)
 - [Announcing TypeScript support in Strands Agents &lpar;preview&rpar; and more](https://aws.amazon.com/about-aws/whats-new/2025/12/typescript-strands-agents-preview)
@@ -67,7 +68,6 @@
 - [Announcing Amazon Nova 2 Sonic for real-time conversational AI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/)
 - [Announcing the Apache Spark upgrade agent for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2025/12/apache-spark-upgrade-agent-amazon-emr)
 - [Amazon RDS for SQL Server now supports Developer Edition](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-sql-server-supports-developer-edition/)
-- [Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-storage-lens-performance-metrics-prefixes-export-tables)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

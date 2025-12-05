@@ -62,12 +62,12 @@
 - [Amazon SES adds VPC support for API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/)
 - [TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/)
 - [SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)
+- [Amazon Connect launches WhatsApp channel for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/)
 - [Amazon SageMaker now supports self-service migration of Notebook instances to latest platform versions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-self-service-migration-notebook-instances)
 - [AWS Elastic Beanstalk now supports Node.js 24 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-node-js-24-linux-2023/)
-- [Amazon Connect launches WhatsApp channel for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/)
 - [Amazon Connect Customer Profiles launches new segmentation capabilities &lpar;Beta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-customer-profiles/)
+- [AWS launches simplified enablement of AWS CloudTrail events in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/12/key-enhancements-cloudtrail-events-cloudwatch/)
 - [Amazon Bedrock now supports Responses API from OpenAI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-responses-api-from-openai/)
-- [Announcing new Amazon EC2 M9g instances powered by AWS Graviton5 processors &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m9g-instances-graviton5-processors-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

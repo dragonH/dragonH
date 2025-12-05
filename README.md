@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)
+- [Amazon SES adds VPC support for API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/)
+- [TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/)
+- [SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)
+- [Amazon SageMaker now supports self-service migration of Notebook instances to latest platform versions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-self-service-migration-notebook-instances)
+- [AWS Elastic Beanstalk now supports Node.js 24 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-node-js-24-linux-2023/)
+- [Amazon Connect launches WhatsApp channel for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/)
 - [Amazon Connect Customer Profiles launches new segmentation capabilities &lpar;Beta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-customer-profiles/)
 - [Amazon Bedrock now supports Responses API from OpenAI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-responses-api-from-openai/)
 - [Announcing new Amazon EC2 M9g instances powered by AWS Graviton5 processors &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m9g-instances-graviton5-processors-preview/)
-- [Amazon SageMaker HyperPod now supports checkpointless training](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training)
-- [New serverless model customization capability in Amazon SageMaker AI](https://aws.amazon.com/about-aws/whats-new/2025/12/new-serverless-model-customization-capability-amazon-sagemaker-ai)
-- [Announcing TypeScript support in Strands Agents &lpar;preview&rpar; and more](https://aws.amazon.com/about-aws/whats-new/2025/12/typescript-strands-agents-preview)
-- [Introducing elastic training on Amazon SageMaker HyperPod](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-training-amazon-sagemaker-hyperpod/)
-- [Amazon Bedrock now supports reinforcement fine-tuning delivering 66% accuracy gains on average over base models](https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-reinforcement-fine-tuning-66-base-models/)
-- [Announcing Amazon EC2 General purpose M8azn instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-amazon-ec2-m8azn-preview)
-- [Announcing Amazon Nova 2 Sonic for real-time conversational AI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Profiles launches new segmentation capabilities &lpar;Beta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-customer-profiles/)
 - [Amazon Bedrock now supports Responses API from OpenAI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-responses-api-from-openai/)
 - [Announcing new Amazon EC2 M9g instances powered by AWS Graviton5 processors &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m9g-instances-graviton5-processors-preview/)
 - [Amazon SageMaker HyperPod now supports checkpointless training](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-hyperpod-checkpointless-training)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock now supports reinforcement fine-tuning delivering 66% accuracy gains on average over base models](https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-reinforcement-fine-tuning-66-base-models/)
 - [Announcing Amazon EC2 General purpose M8azn instances &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-amazon-ec2-m8azn-preview)
 - [Announcing Amazon Nova 2 Sonic for real-time conversational AI](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-nova-2-sonic-real-time-conversational-ai/)
-- [Announcing the Apache Spark upgrade agent for Amazon EMR](https://aws.amazon.com/about-aws/whats-new/2025/12/apache-spark-upgrade-agent-amazon-emr)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

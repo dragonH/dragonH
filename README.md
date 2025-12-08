@@ -67,7 +67,7 @@
 - [AWS Elastic Beanstalk now supports Node.js 24 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-node-js-24-linux-2023/)
 - [Amazon Connect Customer Profiles launches new segmentation capabilities &lpar;Beta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-customer-profiles/)
 - [Amazon Q now can analyze SES email sending](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-q-analyze-ses-email-sending/)
-- [AWS launches simplified enablement of AWS CloudTrail events in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/12/key-enhancements-cloudtrail-events-cloudwatch/)
+- [AWS Elastic Beanstalk now supports Python 3.14 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-python-314-linux-2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

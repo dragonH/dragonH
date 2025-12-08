@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)
+- [Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)
 - [Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)
 - [TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/)
 - [SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)
@@ -66,8 +68,6 @@
 - [Amazon SageMaker now supports self-service migration of Notebook instances to latest platform versions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-self-service-migration-notebook-instances)
 - [AWS Elastic Beanstalk now supports Node.js 24 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-node-js-24-linux-2023/)
 - [Amazon Connect Customer Profiles launches new segmentation capabilities &lpar;Beta&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-customer-profiles/)
-- [Amazon Q now can analyze SES email sending](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-q-analyze-ses-email-sending/)
-- [AWS Elastic Beanstalk now supports Python 3.14 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-python-314-linux-2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

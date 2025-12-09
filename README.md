@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 X8g instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/)
 - [AWS Partner Central now includes opportunity deal sizing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing)
+- [Amazon RDS and Aurora now support resource tagging for Automated Backups](https://aws.amazon.com/about-aws/whats-new/2025/12/rds-aurora-resource-tagging-automated-backups/)
 - [Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)
 - [Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)
 - [Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)
@@ -67,7 +68,6 @@
 - [SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)
 - [Amazon SES adds VPC support for API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/)
 - [Amazon Connect launches WhatsApp channel for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/)
-- [Amazon SageMaker now supports self-service migration of Notebook instances to latest platform versions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-self-service-migration-notebook-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

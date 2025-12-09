@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X8g instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/)
 - [AWS Partner Central now includes opportunity deal sizing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing)
 - [Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)
 - [Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)
@@ -67,7 +68,6 @@
 - [Amazon SES adds VPC support for API endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ses-vpc-api-endpoints/)
 - [Amazon Connect launches WhatsApp channel for Outbound Campaigns](https://aws.amazon.com/about-aws/whats-new/2025/12/connect-whatsapp-channel-outbound-campaigns/)
 - [Amazon SageMaker now supports self-service migration of Notebook instances to latest platform versions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-self-service-migration-notebook-instances)
-- [AWS Elastic Beanstalk now supports Node.js 24 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-node-js-24-linux-2023/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

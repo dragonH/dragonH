@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Support Center Console now supports  screen sharing for troubleshooting support cases](https://aws.amazon.com/about-aws/whats-new/2025/12/support-center-console-screen-sharing/)
+- [Amazon Braket now supports Qiskit 2.0](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-braket-qiskit-2-0/)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8gn-instances-additional-regions)
 - [Amazon EC2 X8g instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/)
 - [AWS Partner Central now includes opportunity deal sizing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing)
@@ -66,8 +68,6 @@
 - [Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)
 - [Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)
 - [Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)
-- [TwelveLabs’ Pegasus 1.2 model now in 23 new AWS regions via Global cross-region inference](https://aws.amazon.com/about-aws/whats-new/2025/12/twelvelabs-pegasus-available-with-global-cross-region-inference/)
-- [SES Mail Manager is now available in 10 additional AWS Regions, 27 total](https://aws.amazon.com/about-aws/whats-new/2025/12/ses-mail-manager-10-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

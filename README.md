@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Now generally available: Amazon EC2 C8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances)
 - [AWS Support Center Console now supports  screen sharing for troubleshooting support cases](https://aws.amazon.com/about-aws/whats-new/2025/12/support-center-console-screen-sharing/)
 - [Amazon Braket now supports Qiskit 2.0](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-braket-qiskit-2-0/)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8gn-instances-additional-regions)
@@ -67,7 +68,6 @@
 - [Amazon GameLift Servers enhances AWS Console for game developers with AI powered assistance](https://aws.amazon.com/about-aws/whats-new/2025/12/gamelift-servers-console-developers-ai-powered/)
 - [Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)
 - [Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)
-- [Amazon OpenSearch Service now supports automatic semantic enrichment](https://aws.amazon.com/about-aws/whats-new/2025/12/opensearch-service-automatic-semantic-enrichment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

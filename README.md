@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Now generally available: Amazon EC2 C8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances)
-- [AWS Support Center Console now supports  screen sharing for troubleshooting support cases](https://aws.amazon.com/about-aws/whats-new/2025/12/support-center-console-screen-sharing/)
+- [Amazon EC2 X8g instances now available in Asia Pacific &lpar;Sydney&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-asia-pacific-sydney/)
+- [Amazon ElastiCache Serverless now supports same-slot WATCH command](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-elasticache-serverless-same-slot-watch-command)
+- [Amazon CloudWatch SDK supports optimized JSON, CBOR protocols](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols)
 - [Amazon Braket now supports Qiskit 2.0](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-braket-qiskit-2-0/)
+- [AWS Support Center Console now supports  screen sharing for troubleshooting support cases](https://aws.amazon.com/about-aws/whats-new/2025/12/support-center-console-screen-sharing/)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8gn-instances-additional-regions)
 - [Amazon EC2 X8g instances now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-europe-stockholm/)
 - [AWS Partner Central now includes opportunity deal sizing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-partner-central-opportunity-deal-sizing)
 - [Amazon RDS and Aurora now support resource tagging for Automated Backups](https://aws.amazon.com/about-aws/whats-new/2025/12/rds-aurora-resource-tagging-automated-backups/)
-- [Amazon GameLift Servers enhances AWS Console for game developers with AI powered assistance](https://aws.amazon.com/about-aws/whats-new/2025/12/gamelift-servers-console-developers-ai-powered/)
-- [Amazon Quick Suite integrates Quick Research with Quick Flows for report automation](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-research-flows-report-automation)
-- [Announcing Spatial Data Management on AWS to accelerate spatial-data insights](https://aws.amazon.com/about-aws/whats-new/2025/12/spatial-data-management-spatial-data-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

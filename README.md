@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora DSQL now supports cluster creation in seconds](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-dsql-cluster-creation-in-seconds)
 - [Amazon WorkSpaces Secure Browser introduces Web Content Filtering](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-web-content-filtering/)
 - [Amazon Cognito identity pools now support private connectivity with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cognito-identity-pools-private-connectivity-aws-privatelink)
 - [AWS Application Migration Service supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/application-migration-service-ipv6/)
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-high-memory-u7i-instances-additional-regions/)
 - [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-i7i-instances-additional-regions/)
+- [Amazon EC2 C7i instances are now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-c7i-instances-asia-pacific-hyderabad-region/)
 - [Amazon ECS now supports custom container stop signals on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-custom-container-stop-signals-fargate/)
 - [Now generally available: Amazon EC2 C8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances)
 - [Amazon EC2 X8g instances now available in Asia Pacific &lpar;Sydney&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-x8g-instances-asia-pacific-sydney/)
-- [Amazon ElastiCache Serverless now supports same-slot WATCH command](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-elasticache-serverless-same-slot-watch-command)
-- [Amazon CloudWatch SDK supports optimized JSON, CBOR protocols](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

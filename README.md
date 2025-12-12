@@ -62,12 +62,12 @@
 - [Amazon WorkSpaces Secure Browser introduces Web Content Filtering](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-web-content-filtering/)
 - [Amazon Cognito identity pools now support private connectivity with AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cognito-identity-pools-private-connectivity-aws-privatelink)
 - [Amazon Aurora PostgreSQL now supports integration with Kiro powers](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-integration-kiro-powers)
+- [Amazon CloudWatch SDK supports optimized JSON, CBOR protocols](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-cloudwatch-sdk-json-cbor-protocols)
 - [AWS Application Migration Service supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/application-migration-service-ipv6/)
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-high-memory-u7i-instances-additional-regions/)
 - [Amazon EC2 I7i instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-i7i-instances-additional-regions/)
 - [Amazon EC2 C7i instances are now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-c7i-instances-asia-pacific-hyderabad-region/)
 - [Amazon ECS now supports custom container stop signals on AWS Fargate](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-custom-container-stop-signals-fargate/)
-- [Now generally available: Amazon EC2 C8gb instances](https://aws.amazon.com/about-aws/whats-new/2025/12/generally-available-amazon-ec2-c8gb-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

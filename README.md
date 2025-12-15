@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now supports multiple choice and date questions in evaluation forms](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-multiple-choice-date-questions-evaluation-forms/)
 - [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-evs-available-in-additional-regions/)
+- [Announcing cost allocation using users’ attributes](https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-using-users-attributes)
+- [Amazon EKS introduces enhanced network security policies](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-eks-enhanced-network-security-policies)
+- [AWS Billing and Cost Management now supports PDF export and CSV data download for Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-billing-cost-management-pdf-export-csv-data-download-dashboards)
 - [ACM now supports automated certificate management for Kubernetes](https://aws.amazon.com/about-aws/whats-new/2025/12/acm-automated-certificate-management-kubernetes/)
+- [Amazon EC2 M7a instances are now available in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m7a-instances-europe-london-region/)
 - [AWS DataSync increases scalability and performance for on-premises file transfers](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-datasync-scalability-performance-on-premises-file-transfers)
 - [AWS Shield network security director now supports multi-account analysis](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-shield-network-security-director-multi-account-analysis)
 - [Amazon MSK Replicator is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-replicator-additional-aws-regions)
-- [Amazon EMR Managed Scaling is now available in 7 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-managed-scaling-additional-regions)
-- [Validate best practice compliance for SAP ABAP applications with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/12/compliance-sap-abap-systems-manager/)
-- [Amazon EC2 X2iedn instances now available in AWS Europe &lpar;Zurich&rpar;  region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-x2iedn-instances-zurich-region/)
-- [AWS DataSync introduces Terraform support for Enhanced mode](https://aws.amazon.com/about-aws/whats-new/2025/12/datasync-terraform-enhanced-mode/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

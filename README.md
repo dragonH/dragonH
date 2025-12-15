@@ -61,13 +61,13 @@
 - [ACM now supports automated certificate management for Kubernetes](https://aws.amazon.com/about-aws/whats-new/2025/12/acm-automated-certificate-management-kubernetes/)
 - [AWS DataSync increases scalability and performance for on-premises file transfers](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-datasync-scalability-performance-on-premises-file-transfers)
 - [AWS Shield network security director now supports multi-account analysis](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-shield-network-security-director-multi-account-analysis)
+- [Amazon MSK Replicator is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-replicator-additional-aws-regions)
 - [Amazon EMR Managed Scaling is now available in 7 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-emr-managed-scaling-additional-regions)
 - [Validate best practice compliance for SAP ABAP applications with AWS Systems Manager](https://aws.amazon.com/about-aws/whats-new/2025/12/compliance-sap-abap-systems-manager/)
 - [Amazon EC2 X2iedn instances now available in AWS Europe &lpar;Zurich&rpar;  region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-x2iedn-instances-zurich-region/)
 - [AWS DataSync introduces Terraform support for Enhanced mode](https://aws.amazon.com/about-aws/whats-new/2025/12/datasync-terraform-enhanced-mode/)
 - [AWS Elastic Beanstalk is now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/elastic-beanstalk-additional-regions/)
 - [Amazon EC2 X2iedn instances now available in AWS Asia Pacific &lpar;Thailand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-x2iedn-instances-thailand-region/)
-- [Amazon Aurora DSQL now supports cluster creation in seconds](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-dsql-cluster-creation-in-seconds)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

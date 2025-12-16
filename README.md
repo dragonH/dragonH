@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick Suite now supports memory for chat agents](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/)
+- [Amazon EC2 M8i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m8i-flex-instances-sydney-region/)
 - [AWS Clean Rooms publishes events for member invitations and table readiness to EventBridge](https://aws.amazon.com/about-aws/whats-new/2025/12/clean-rooms-events-member-invitations-table-readiness/)
+- [Amazon Route 53 launches detailed metrics for Resolver endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/route-53-detailed-metrics-resolver-endpoints/)
 - [Amazon Connect now supports multiple choice and date questions in evaluation forms](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-multiple-choice-date-questions-evaluation-forms/)
 - [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-evs-available-in-additional-regions/)
 - [Amazon Managed Service for Apache Flink is now available in AWS Asia Pacific &lpar;Auckland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-managed-service-apache-flink-aws-asia-pacific-auckland-region/)
 - [Announcing cost allocation using users’ attributes](https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-using-users-attributes)
 - [Amazon EKS introduces enhanced network security policies](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-eks-enhanced-network-security-policies)
 - [AWS Billing and Cost Management now supports PDF export and CSV data download for Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-billing-cost-management-pdf-export-csv-data-download-dashboards)
-- [ACM now supports automated certificate management for Kubernetes](https://aws.amazon.com/about-aws/whats-new/2025/12/acm-automated-certificate-management-kubernetes/)
-- [Amazon EC2 M7a instances are now available in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m7a-instances-europe-london-region/)
-- [AWS DataSync increases scalability and performance for on-premises file transfers](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-datasync-scalability-performance-on-premises-file-transfers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

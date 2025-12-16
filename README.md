@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M8i instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8i-instances-additional-regions)
+- [AWS reduces publishing time for Carbon Footprint Data to 21 days or Less](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-reduces-publishing-time-carbon-footprint-data)
 - [Amazon Quick Suite now supports memory for chat agents](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/)
 - [Amazon EC2 M8i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m8i-flex-instances-sydney-region/)
+- [Amazon Quick Suite browser extension now supports Quick Flows](https://aws.amazon.com/about-aws/whats-new/2025/12/quick-suite-browser-extension-quick-flows/)
 - [AWS Clean Rooms publishes events for member invitations and table readiness to EventBridge](https://aws.amazon.com/about-aws/whats-new/2025/12/clean-rooms-events-member-invitations-table-readiness/)
 - [Amazon Route 53 launches detailed metrics for Resolver endpoints](https://aws.amazon.com/about-aws/whats-new/2025/12/route-53-detailed-metrics-resolver-endpoints/)
 - [Amazon Connect now supports multiple choice and date questions in evaluation forms](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-multiple-choice-date-questions-evaluation-forms/)
 - [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-evs-available-in-additional-regions/)
 - [Amazon Managed Service for Apache Flink is now available in AWS Asia Pacific &lpar;Auckland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-managed-service-apache-flink-aws-asia-pacific-auckland-region/)
-- [Announcing cost allocation using users’ attributes](https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-using-users-attributes)
-- [Amazon EKS introduces enhanced network security policies](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-eks-enhanced-network-security-policies)
-- [AWS Billing and Cost Management now supports PDF export and CSV data download for Dashboards](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-billing-cost-management-pdf-export-csv-data-download-dashboards)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

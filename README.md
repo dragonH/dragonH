@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Clean Rooms publishes events for member invitations and table readiness to EventBridge](https://aws.amazon.com/about-aws/whats-new/2025/12/clean-rooms-events-member-invitations-table-readiness/)
 - [Amazon Connect now supports multiple choice and date questions in evaluation forms](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-multiple-choice-date-questions-evaluation-forms/)
 - [Amazon Elastic VMware Service &lpar;Amazon EVS&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-evs-available-in-additional-regions/)
 - [Amazon Managed Service for Apache Flink is now available in AWS Asia Pacific &lpar;Auckland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-managed-service-apache-flink-aws-asia-pacific-auckland-region/)
@@ -67,7 +68,6 @@
 - [ACM now supports automated certificate management for Kubernetes](https://aws.amazon.com/about-aws/whats-new/2025/12/acm-automated-certificate-management-kubernetes/)
 - [Amazon EC2 M7a instances are now available in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m7a-instances-europe-london-region/)
 - [AWS DataSync increases scalability and performance for on-premises file transfers](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-datasync-scalability-performance-on-premises-file-transfers)
-- [AWS Shield network security director now supports multi-account analysis](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-shield-network-security-director-multi-account-analysis)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

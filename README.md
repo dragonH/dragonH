@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8g, M8g, R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-m8g-r8g-instances-additional-regions)
+- [Amazon EC2 C8g instances now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-instances-europe-zurich)
+- [Amazon OpenSearch Service announces new OI2 instances](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-oi2-instances/)
+- [AWS Payment Cryptography reduces API pricing by up to 63% and introduces tiered key pricing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-payment-cryptography-lower-pricing/)
+- [AWS Security Incident Response is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/security-incident-response-ten-regions/)
 - [AWS IoT Device Management Commands now supports dynamic payloads](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-device-management-commands-dynamic-payload/)
 - [Amazon Connect launches additional details within real-time metric alerts](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-additional-details-real-time-metric-alerts/)
 - [AWS Direct Connect announces new location in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-direct-connect-hanoi/)
 - [AWS Artifact enables access to previous versions of compliance reports](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-artifact-access-previous-versions-compliance-reports)
 - [AWS Security Incident Response introduces integration with Slack](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-security-incident-response-integration-slack)
-- [Amazon EC2 M8i instances are now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8i-instances-additional-regions)
-- [AWS reduces publishing time for Carbon Footprint Data to 21 days or Less](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-reduces-publishing-time-carbon-footprint-data)
-- [Amazon SageMaker AI is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-ai-asia-pacific-new-zealand)
-- [Amazon Quick Suite now supports memory for chat agents](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-quick-suite-memory-chat-agents/)
-- [Amazon EC2 M8i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-m8i-flex-instances-sydney-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

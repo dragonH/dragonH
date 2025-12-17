@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS Databases are now available on the Vercel Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-databases-are-available-on-the-vercel/)
 - [Amazon Aurora now supports PostgreSQL 18.1 in the Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-18-1-rds-database-preview)
+- [AWS announces enhanced custom line item controls for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2025/12/enhanced-custom-line-item-controls-aws-billing-conductor)
 - [Amazon EC2 C8g, M8g, R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-m8g-r8g-instances-additional-regions)
 - [Amazon EC2 C8g instances now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-instances-europe-zurich)
 - [Amazon OpenSearch Service announces new OI2 instances](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-oi2-instances/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8g-additional-regions/)
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8g-instances-additional-regions/)
 - [Amazon OpenSearch Service now offers a new multi-tier storage](https://aws.amazon.com/about-aws/whats-new/2025/12/writeable-warm-tier-opensearch-optimized-instances/)
-- [AWS Security Incident Response is now available in ten additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/security-incident-response-ten-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

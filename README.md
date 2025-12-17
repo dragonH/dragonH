@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Applications announces additional health and performance metrics](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-applications-health-performance-metrics)
 - [AWS Databases are now available on the Vercel Marketplace](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-databases-are-available-on-the-vercel/)
 - [Amazon Aurora now supports PostgreSQL 18.1 in the Amazon RDS Database preview environment](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-aurora-postgresql-18-1-rds-database-preview)
 - [AWS announces enhanced custom line item controls for AWS Billing Conductor](https://aws.amazon.com/about-aws/whats-new/2025/12/enhanced-custom-line-item-controls-aws-billing-conductor)
 - [Amazon EC2 C8g, M8g, R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-m8g-r8g-instances-additional-regions)
+- [Amazon ECR Public now supports PrivateLink for US East &lpar;N. Virginia&rpar; SDK Endpoint](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecr-public-privatelink-us-east-n-virginia-sdk-endpoint)
+- [EC2 Auto Scaling now offers a synchronous API to launch instances inside an Auto Scaling group](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-auto-scaling-synchronous-api-launch-instances-auto-scaling-group)
 - [Amazon EC2 C8g instances now available in Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8g-instances-europe-zurich)
 - [Amazon OpenSearch Service announces new OI2 instances](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-service-oi2-instances/)
 - [AWS Payment Cryptography reduces API pricing by up to 63% and introduces tiered key pricing](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-payment-cryptography-lower-pricing/)
-- [Amazon EC2 M8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-m8g-additional-regions/)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8g-instances-additional-regions/)
-- [Amazon OpenSearch Service now offers a new multi-tier storage](https://aws.amazon.com/about-aws/whats-new/2025/12/writeable-warm-tier-opensearch-optimized-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

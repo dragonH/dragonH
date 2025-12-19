@@ -65,9 +65,9 @@
 - [Amazon Bedrock Data Automation launches instruction optimization for your document blueprints](https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-data-automation-optimization-document-blueprints/)
 - [Timestream for InfluxDB Now Supports Restart API Calls](https://aws.amazon.com/about-aws/whats-new/2025/12/timestream-influxdb-restart-api)
 - [Announcing Cost Allocation Tags support for Account Tags](https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-tags/)
+- [Amazon ECR now supports creating repositories on push](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecr-creating-repositories-on-push/)
 - [Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025](https://aws.amazon.comabout-aws/whats-new/2025/12/amazon-workspaces-applications-supports-microsoft-windows-server)
-- [Amazon EC2 now supports Availability Zone ID across its APIs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-az-id-api-support)
-- [Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ubuntu-elasticfleets)
+- [Amazon Redshift ODBC 2.x Driver now supports Apple macOS](https://aws.amazon.com/about-aws/whats-new/2025/12/redshift-odbc-2-x-driver-apple-macos/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

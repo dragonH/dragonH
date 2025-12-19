@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Application Recovery Controller region switch now supports three new capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-application-recovery-controller-region-switch-new-capabilities)
 - [AWS Private CA OCSP now available in China and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-private-ca-ocsp-china-govcloud-us-regions)
+- [Amazon SageMaker Studio now supports SOCI indexing for faster container startup times](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-nbi-soci/)
 - [Amazon RDS enhances observability for snapshot exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-observability-snapshot-exports-s3)
 - [Amazon Bedrock Data Automation launches instruction optimization for your document blueprints](https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-data-automation-optimization-document-blueprints/)
 - [Timestream for InfluxDB Now Supports Restart API Calls](https://aws.amazon.com/about-aws/whats-new/2025/12/timestream-influxdb-restart-api)
+- [Announcing Cost Allocation Tags support for Account Tags](https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-tags/)
 - [Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025](https://aws.amazon.comabout-aws/whats-new/2025/12/amazon-workspaces-applications-supports-microsoft-windows-server)
 - [Amazon EC2 now supports Availability Zone ID across its APIs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-az-id-api-support)
 - [Amazon WorkSpaces Applications announces Elastic fleets powered by Ubuntu Pro 24.04 LTS](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ubuntu-elasticfleets)
-- [Amazon EC2 C8a instances now available in the Europe &lpar;Spain&rpar; region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ec2-c8a-instances-europe-spain-region)
-- [AWS IoT Core adds message batching to HTTP rule action](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-core-message-batching-http-rule-action)
-- [Amazon MSK Connect now supports dual-stack &lpar;IPv4 and IPv6&rpar; connectivity for new connectors](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-connect-dual-stack-ipv-and-ipv/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

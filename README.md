@@ -66,8 +66,8 @@
 - [Amazon WorkSpaces now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-ipv6/)
 - [Amazon ECS Managed Instances now supports Amazon EC2 Spot Instances](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-managed-instances-ec2-spot-instances)
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2025/12/ec2-r8i-r8i-flex-instances-additional-regions/)
-- [AWS Direct Connect now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/)
 - [AWS Lambda durable functions are now available in 14 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/lambda-durable-functions-14-additional-regions/)
+- [AWS Direct Connect now supports resilience testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2025/12/direct-connect-resilience-testing-fault-injection-service/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

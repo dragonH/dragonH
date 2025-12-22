@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Wickr launches admin APIs for programmatic network management at scale](https://aws.amazon.comabout-aws/whats-new/2025/12/aws-wickr-admin-apis-generally-available/)
 - [Amazon Application Recovery Controller region switch now supports three new capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-application-recovery-controller-region-switch-new-capabilities)
 - [AWS Private CA OCSP now available in China and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-private-ca-ocsp-china-govcloud-us-regions)
 - [Amazon SageMaker Studio now supports SOCI indexing for faster container startup times](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-nbi-soci/)
@@ -67,7 +68,6 @@
 - [Timestream for InfluxDB Now Supports Restart API Calls](https://aws.amazon.com/about-aws/whats-new/2025/12/timestream-influxdb-restart-api)
 - [Announcing Cost Allocation Tags support for Account Tags](https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-tags/)
 - [AWS IoT now offers event-based logging to help optimize observability costs](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-event-based-logging/)
-- [Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025](https://aws.amazon.comabout-aws/whats-new/2025/12/amazon-workspaces-applications-supports-microsoft-windows-server)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

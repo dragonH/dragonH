@@ -63,9 +63,9 @@
 - [Amazon SageMaker Studio now supports SOCI indexing for faster container startup times](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-nbi-soci/)
 - [Amazon RDS enhances observability for snapshot exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-observability-snapshot-exports-s3)
 - [Amazon Bedrock Data Automation launches instruction optimization for your document blueprints](https://aws.amazon.com/about-aws/whats-new/2025/12/bedrock-data-automation-optimization-document-blueprints/)
+- [Amazon ECR now supports creating repositories on push](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecr-creating-repositories-on-push/)
 - [Timestream for InfluxDB Now Supports Restart API Calls](https://aws.amazon.com/about-aws/whats-new/2025/12/timestream-influxdb-restart-api)
 - [Announcing Cost Allocation Tags support for Account Tags](https://aws.amazon.com/about-aws/whats-new/2025/12/cost-allocation-tags/)
-- [Amazon ECR now supports creating repositories on push](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecr-creating-repositories-on-push/)
 - [AWS IoT now offers event-based logging to help optimize observability costs](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-iot-event-based-logging/)
 - [Amazon WorkSpaces Applications now supports Microsoft Windows Server 2025](https://aws.amazon.comabout-aws/whats-new/2025/12/amazon-workspaces-applications-supports-microsoft-windows-server)
 <!-- AWS-NEWS:END -->

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now supports direct job submission from the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-deadline-cloud-direct-job-submission-from/)
 - [Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/)
 - [Amazon ECS Service Connect enhances observability with Envoy Access Logs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-service-connect-observability-envoy-access-logs)
+- [Amazon Kinesis Video Streams now supports IPv6 for WebRTC](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-kinesis-video-streams-webrtc-ipv6/)
 - [Research and Engineering Studio on AWS Version 2025.12 now available](https://aws.amazon.com/about-aws/whats-new/2025/12/research-engineering-studio-aws-new-version-available/)
 - [AWS Storage Gateway now supports Nutanix AHV hypervisor](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-storage-gateway-nutanix-avh-hypervisor)
 - [AWS Wickr launches admin APIs for programmatic network management at scale](https://aws.amazon.comabout-aws/whats-new/2025/12/aws-wickr-admin-apis-generally-available/)
 - [Announcing AWS Neuron SDK 2.27.0](https://aws.amazon.com/about-aws/whats-new/2025/12/announcing-aws-neuron-2-27)
 - [Amazon Application Recovery Controller region switch now supports three new capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-application-recovery-controller-region-switch-new-capabilities)
 - [AWS Private CA OCSP now available in China and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-private-ca-ocsp-china-govcloud-us-regions)
-- [Amazon SageMaker Studio now supports SOCI indexing for faster container startup times](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-sagemaker-nbi-soci/)
-- [Amazon RDS enhances observability for snapshot exports to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-observability-snapshot-exports-s3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

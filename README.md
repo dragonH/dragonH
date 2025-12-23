@@ -67,7 +67,7 @@
 - [Amazon Redshift supports four new materialized view &lpar;MV&rpar; features on data shares](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-redshift-mv-datasharing-features)
 - [AWS Deadline Cloud now supports direct job submission from the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-deadline-cloud-direct-job-submission-from/)
 - [Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/)
-- [Amazon Kinesis Video Streams now supports IPv6 for WebRTC](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-kinesis-video-streams-webrtc-ipv6/)
+- [Amazon ECS Service Connect enhances observability with Envoy Access Logs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-service-connect-observability-envoy-access-logs)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

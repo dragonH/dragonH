@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [NVIDIA Nemotron 3 Nano now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock)
 - [Amazon WorkSpaces Secure Browser now supports WebAuthn redirection for local Chromium browsers](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-webauthn-redirection-chromium-browsers)
 - [Amazon RDS for MySQL announces Innovation Release 9.5 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-mysql-innovation-release/)
-- [Amazon CloudWatch extends automatic telemetry configuration to six critical AWS services](https://aws.amazon.comabout-aws/whats-new/2025/12/amazon-cloudwatch-automatic-telemetry-configuration-six-critical-services)
+- [AWS Secrets Manager announces improved secret sorting capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-secrets-manager-secret-sorting-capabilities)
 - [AWS Transform enables network conversion for hybrid data center migrations](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-hybrid-network-migration/)
 - [Amazon WorkSpaces Secure Browser enables branding customization](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-enables-branding/)
 - [Amazon Redshift supports four new materialized view &lpar;MV&rpar; features on data shares](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-redshift-mv-datasharing-features)
 - [AWS Deadline Cloud now supports direct job submission from the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-deadline-cloud-direct-job-submission-from/)
 - [Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/)
 - [Amazon Kinesis Video Streams now supports IPv6 for WebRTC](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-kinesis-video-streams-webrtc-ipv6/)
-- [Amazon ECS Service Connect enhances observability with Envoy Access Logs](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-ecs-service-connect-observability-envoy-access-logs)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

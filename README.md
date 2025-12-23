@@ -61,13 +61,13 @@
 - [Oracle Database@AWS is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-available-three-additional-regions/)
 - [NVIDIA Nemotron 3 Nano now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock)
 - [Amazon WorkSpaces Secure Browser now supports WebAuthn redirection for local Chromium browsers](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-webauthn-redirection-chromium-browsers)
+- [Amazon MSK expands Standard Brokers and Express Brokers to Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-additional-aws-region/)
 - [Amazon RDS for MySQL announces Innovation Release 9.5 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-mysql-innovation-release/)
 - [AWS Secrets Manager announces improved secret sorting capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-secrets-manager-secret-sorting-capabilities)
+- [MiniMax-M2 is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/12/minimax-m2-on-sagemaker-jumpstart)
 - [AWS Transform enables network conversion for hybrid data center migrations](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-hybrid-network-migration/)
 - [Amazon WorkSpaces Secure Browser enables branding customization](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-enables-branding/)
 - [Amazon Redshift supports four new materialized view &lpar;MV&rpar; features on data shares](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-redshift-mv-datasharing-features)
-- [AWS Deadline Cloud now supports direct job submission from the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-deadline-cloud-direct-job-submission-from/)
-- [Oracle Database@AWS now supports sharing of AWS Marketplace entitlements across accounts](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-marketplace-entitlements-across-accounts/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

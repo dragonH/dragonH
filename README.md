@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect dashboards now support filtering metrics based on custom business dimensions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-dashboards-filtering-metrics-custom-business-dimensions)
 - [Amazon Connect expands automated agent performance evaluations to 5 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-automated-performance-evaluations-additional-languages/)
 - [Oracle Database@AWS is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-available-three-additional-regions/)
 - [NVIDIA Nemotron 3 Nano now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock)
@@ -67,7 +68,6 @@
 - [AWS Secrets Manager announces improved secret sorting capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-secrets-manager-secret-sorting-capabilities)
 - [MiniMax-M2 is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2025/12/minimax-m2-on-sagemaker-jumpstart)
 - [AWS Transform enables network conversion for hybrid data center migrations](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-transform-hybrid-network-migration/)
-- [Amazon WorkSpaces Secure Browser enables branding customization](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-enables-branding/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

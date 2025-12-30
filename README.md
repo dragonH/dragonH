@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS WAF is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-waf-asia-pacific-new-zealand-region/)
 - [AWS launches simplified import of CloudTrail Lake data in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-simplified-import-cloudtrail-lake-data-amazon-cloudwatch)
 - [Amazon Connect dashboards now support filtering metrics based on custom business dimensions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-dashboards-filtering-metrics-custom-business-dimensions)
 - [Amazon OpenSearch UI supports CMK and increased metadata size](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-ui-cmk-metadata/)
@@ -67,7 +68,6 @@
 - [Amazon MSK expands Standard Brokers and Express Brokers to Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-additional-aws-region/)
 - [Amazon WorkSpaces Secure Browser now supports WebAuthn redirection for local Chromium browsers](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-workspaces-secure-browser-webauthn-redirection-chromium-browsers)
 - [Amazon RDS for MySQL announces Innovation Release 9.5 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-rds-mysql-innovation-release/)
-- [AWS Secrets Manager announces improved secret sorting capabilities](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-secrets-manager-secret-sorting-capabilities)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Capacity Manager now includes Spot interruption metrics](https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-capacity-manager-spot-interruption-metrics/)
 - [AWS Clean Rooms now supports detailed monitoring for collaboration queries](https://aws.amazon.com/about-aws/whats-new/2026/01/clean-rooms-detailed-monitoring-collaboration-queries)
 - [Amazon Connect now provides the capability to store nested JSON object and looping arrays](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-nested-json-object-looping-arrays)
 - [AWS WAF is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-waf-asia-pacific-new-zealand-region/)
@@ -67,7 +68,6 @@
 - [Amazon Connect expands automated agent performance evaluations to 5 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-automated-performance-evaluations-additional-languages/)
 - [Oracle Database@AWS is now available in three additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2025/12/oracle-database-aws-available-three-additional-regions/)
 - [NVIDIA Nemotron 3 Nano now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2025/12/nvidia-nemotron-3-nano-amazon-bedrock)
-- [Amazon MSK expands Standard Brokers and Express Brokers to Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-msk-additional-aws-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

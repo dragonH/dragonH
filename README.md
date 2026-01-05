@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon EC2 G5 instances are now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-g5-now-available-asia-pacific-hong-kong)
+- [AWS Resource Explorer is now available in AWS Asia Pacific &lpar;New Zealand&rpar; Region.](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-resource-explorer-aws-asia-pacific-new-zealand/)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-asia-pacific-new-zealand-region)
 - [EC2 Capacity Manager now includes Spot interruption metrics](https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-capacity-manager-spot-interruption-metrics/)
 - [AWS Clean Rooms now supports detailed monitoring for collaboration queries](https://aws.amazon.com/about-aws/whats-new/2026/01/clean-rooms-detailed-monitoring-collaboration-queries)
@@ -67,7 +68,6 @@
 - [AWS launches simplified import of CloudTrail Lake data in Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-simplified-import-cloudtrail-lake-data-amazon-cloudwatch)
 - [Amazon Connect dashboards now support filtering metrics based on custom business dimensions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-dashboards-filtering-metrics-custom-business-dimensions)
 - [Amazon OpenSearch UI supports CMK and increased metadata size](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-opensearch-ui-cmk-metadata/)
-- [Amazon Connect expands automated agent performance evaluations to 5 additional languages](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-connect-automated-performance-evaluations-additional-languages/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

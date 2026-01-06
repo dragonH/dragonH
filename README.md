@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace Seller Reporting now provides collections visibility](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-seller-reporting-collections/)
 - [Amazon ECS now supports tmpfs mounts on AWS Fargate and ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-tmpfs-mounts-aws-fargate-managed-instances)
 - [Amazon MQ now supports HTTP based authentication for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-http-based-rabbitmq-brokers/)
 - [AWS Config now supports 21 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-config-new-resource-types)
@@ -67,7 +68,6 @@
 - [EC2 Capacity Manager now includes Spot interruption metrics](https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-capacity-manager-spot-interruption-metrics/)
 - [AWS Clean Rooms now supports detailed monitoring for collaboration queries](https://aws.amazon.com/about-aws/whats-new/2026/01/clean-rooms-detailed-monitoring-collaboration-queries)
 - [Amazon Connect now provides the capability to store nested JSON object and looping arrays](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-nested-json-object-looping-arrays)
-- [AWS WAF is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2025/12/aws-waf-asia-pacific-new-zealand-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

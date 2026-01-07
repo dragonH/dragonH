@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I7ie instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-i7ie-instances-additional-aws-regions/)
+- [Amazon EC2 C8i and C8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-additional-aws-regions)
 - [AWS Marketplace Seller Reporting now provides collections visibility](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-seller-reporting-collections/)
 - [Amazon ECS now supports tmpfs mounts on AWS Fargate and ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-tmpfs-mounts-aws-fargate-managed-instances)
 - [Amazon MQ now supports HTTP based authentication for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-http-based-rabbitmq-brokers/)
@@ -66,8 +68,6 @@
 - [AWS Resource Explorer is now available in AWS Asia Pacific &lpar;New Zealand&rpar; Region.](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-resource-explorer-aws-asia-pacific-new-zealand/)
 - [AWS Transfer Family is now available in AWS Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-asia-pacific-new-zealand-region)
 - [EC2 Capacity Manager now includes Spot interruption metrics](https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-capacity-manager-spot-interruption-metrics/)
-- [AWS Clean Rooms now supports detailed monitoring for collaboration queries](https://aws.amazon.com/about-aws/whats-new/2026/01/clean-rooms-detailed-monitoring-collaboration-queries)
-- [Amazon Connect now provides the capability to store nested JSON object and looping arrays](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-nested-json-object-looping-arrays)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

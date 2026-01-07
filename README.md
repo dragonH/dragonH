@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS simplifies Client VPN onboarding with Quickstart setup](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-client-vpn-onboarding-quickstart-setup)
+- [Announcing Apache Airflow 2.11 Support in Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/about-aws/whats-new/2026/01/apache-airflow-2-11-support-amazon-managed-workflows/)
 - [Amazon EC2 I7ie instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-i7ie-instances-additional-aws-regions/)
 - [Amazon EC2 C8i and C8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-additional-aws-regions)
 - [AWS Marketplace Seller Reporting now provides collections visibility](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-seller-reporting-collections/)
@@ -66,8 +68,6 @@
 - [AWS Config now supports 21 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-config-new-resource-types)
 - [Amazon EC2 G5 instances are now available in Asia Pacific &lpar;Hong Kong&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-g5-now-available-asia-pacific-hong-kong)
 - [AWS Resource Explorer is now available in AWS Asia Pacific &lpar;New Zealand&rpar; Region.](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-resource-explorer-aws-asia-pacific-new-zealand/)
-- [AWS Transfer Family is now available in AWS Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-asia-pacific-new-zealand-region)
-- [EC2 Capacity Manager now includes Spot interruption metrics](https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-capacity-manager-spot-interruption-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

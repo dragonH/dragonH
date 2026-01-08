@@ -61,13 +61,13 @@
 - [Amazon MQ now supports certificate based authentication with mutual TLS for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-certificate-based-authentication-mutual-tls-rabbitmq/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-documentdb-mongodb-compatibility-asia-pacific-jakarta-region)
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8i-r8i-flex-instances-additional-aws-regions)
+- [Amazon Quick adds third-party AI agents and expands built-in actions library](https://aws.amazon.com/aws.amazon.com/about-aws/whats-new/2026/01/3p-agent-in-quick/)
 - [Amazon EC2 M8i instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m8i-instances-additional-regions/)
+- [AWS Lambda adds support for .NET 10](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-dot-net-10/)
 - [AWS simplifies Client VPN onboarding with Quickstart setup](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-client-vpn-onboarding-quickstart-setup)
 - [Announcing Apache Airflow 2.11 Support in Amazon Managed Workflows for Apache Airflow](https://aws.amazon.com/about-aws/whats-new/2026/01/apache-airflow-2-11-support-amazon-managed-workflows/)
 - [Amazon EC2 I7ie instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-i7ie-instances-additional-aws-regions/)
 - [Amazon EC2 C8i and C8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-additional-aws-regions)
-- [AWS Marketplace Seller Reporting now provides collections visibility](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-seller-reporting-collections/)
-- [Amazon ECS now supports tmpfs mounts on AWS Fargate and ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-tmpfs-mounts-aws-fargate-managed-instances)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

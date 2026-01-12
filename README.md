@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-aws-asia-pacific-new-zealand-region)
 - [Announcing larger managed database bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/01/larger-managed-database-bundles-lightsail/)
 - [Amazon EMR Serverless adds support for job run level cost allocation](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-emr-serverless-adds-job-run-level)
 - [Amazon RDS for SQL Server now supports cross-region read replica in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-sql-server-cross-region-read-replica-in-additional-aws-regions/)
@@ -67,7 +68,6 @@
 - [Amazon Quick adds third-party AI agents and expands built-in actions library](https://aws.amazon.com/about-aws/whats-new/2026/01/3p-agent-in-quick/)
 - [Amazon EC2 M8i instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m8i-instances-additional-regions/)
 - [AWS Lambda adds support for .NET 10](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-dot-net-10/)
-- [AWS simplifies Client VPN onboarding with Quickstart setup](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-client-vpn-onboarding-quickstart-setup)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker HyperPod now validates service quotas before creating clusters on console](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-validates-service-quotas/)
 - [Amazon Connect now provides agent screen recording status tracking](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-agent-screen-recording-status-tracking)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-aws-asia-pacific-new-zealand-region)
 - [Amazon Inspector adds Java Gradle support and expands ecosystem coverage](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-inspector-java-gradle-ecosystem/)
@@ -67,7 +68,6 @@
 - [Amazon MQ now supports certificate based authentication with mutual TLS for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-certificate-based-authentication-mutual-tls-rabbitmq/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-documentdb-mongodb-compatibility-asia-pacific-jakarta-region)
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8i-r8i-flex-instances-additional-aws-regions)
-- [Amazon Quick adds third-party AI agents and expands built-in actions library](https://aws.amazon.com/about-aws/whats-new/2026/01/3p-agent-in-quick/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

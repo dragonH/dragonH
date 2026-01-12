@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now provides agent screen recording status tracking](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-agent-screen-recording-status-tracking)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-aws-asia-pacific-new-zealand-region)
+- [Amazon Inspector adds Java Gradle support and expands ecosystem coverage](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-inspector-java-gradle-ecosystem/)
 - [Announcing larger managed database bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/01/larger-managed-database-bundles-lightsail/)
 - [Amazon EMR Serverless adds support for job run level cost allocation](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-emr-serverless-adds-job-run-level)
 - [Amazon RDS for SQL Server now supports cross-region read replica in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-sql-server-cross-region-read-replica-in-additional-aws-regions/)
@@ -66,8 +68,6 @@
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-documentdb-mongodb-compatibility-asia-pacific-jakarta-region)
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8i-r8i-flex-instances-additional-aws-regions)
 - [Amazon Quick adds third-party AI agents and expands built-in actions library](https://aws.amazon.com/about-aws/whats-new/2026/01/3p-agent-in-quick/)
-- [Amazon EC2 M8i instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m8i-instances-additional-regions/)
-- [AWS Lambda adds support for .NET 10](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-dot-net-10/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

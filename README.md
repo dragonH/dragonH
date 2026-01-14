@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management launches Wi-Fi Simple Setup for managed integrations](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-iot-device-management-wifi-simple-setup/)
 - [Amazon Neptune Database now supports R7g and R8g instances in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-database-r7g-r8g-additional-regions)
 - [Amazon EC2 X8aedz instances are now available in Asia Pacific &lpar;Mumbai, Seoul&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-x8aedz-instances-asia-pacific-mumbai-seoul-regions)
 - [Amazon Connect Cases now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-cases-aws-cloudformation/)
@@ -67,7 +68,6 @@
 - [Amazon Lex launches configurable voice activity detection sensitivity](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-lex-configurable-voice-activity-detection-sensitivity/)
 - [Amazon Connect now provides agent screen recording status tracking](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-agent-screen-recording-status-tracking)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-aws-asia-pacific-new-zealand-region)
-- [Amazon Inspector adds Java Gradle support and expands ecosystem coverage](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-inspector-java-gradle-ecosystem/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

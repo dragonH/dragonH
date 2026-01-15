@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-custom-gdr-updates-microsoft-sql-server)
+- [Amazon Redshift Serverless adds queue-based query resource management](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-queue-based-query-resource-management)
 - [Amazon VPC Route Server now available in new regions](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-vpc-route-server-available-new-regions)
 - [Amazon VPC IPAM policies now support RDS and Application Load Balancers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-vpc-ipam-policies-rds-alb/)
 - [Amazon Bedrock introduces API keys to streamline development in GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-bedrock-api-keys-streamline-development-govcloud/)
@@ -66,8 +68,6 @@
 - [Amazon Connect makes it easier to manage recurring overrides for hours of operation](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-connect-recurring-hour-operation-overrides)
 - [Enhanced Transactions view now available in AWS Billing Console](https://aws.amazon.com/about-aws/whats-new/2026/01/enhanced-transactions-view-aws-billing-console)
 - [Amazon Neptune Database now supports R7g and R8g instances in 5 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-database-r7g-r8g-additional-regions)
-- [Amazon EC2 X8aedz instances are now available in Asia Pacific &lpar;Mumbai, Seoul&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-x8aedz-instances-asia-pacific-mumbai-seoul-regions)
-- [Amazon Connect Cases now supports AWS CloudFormation](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-cases-aws-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

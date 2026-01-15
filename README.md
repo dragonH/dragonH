@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect now provides agent scheduling metrics in data lake](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/)
+- [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-cu-gdr-updates-microsoft-sql-server)
 - [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-custom-gdr-updates-microsoft-sql-server)
 - [Amazon Redshift Serverless adds queue-based query resource management](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-queue-based-query-resource-management)
 - [Amazon VPC Route Server now available in new regions](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-vpc-route-server-available-new-regions)
@@ -67,7 +68,6 @@
 - [AWS IoT Device Management launches Wi-Fi Simple Setup for managed integrations](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-iot-device-management-wifi-simple-setup/)
 - [AWS Transform custom adds AWS PrivateLink support and expands to Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transform-custom-privatelink-europe-frankfurt-region/)
 - [Amazon Connect makes it easier to manage recurring overrides for hours of operation](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-connect-recurring-hour-operation-overrides)
-- [Enhanced Transactions view now available in AWS Billing Console](https://aws.amazon.com/about-aws/whats-new/2026/01/enhanced-transactions-view-aws-billing-console)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

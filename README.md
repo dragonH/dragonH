@@ -88,7 +88,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/dragonH/dragonH.github.io/pull/7) in [dragonH/dragonH.github.io](https://github.com/dragonH/dragonH.github.io)
+1. ❗ Opened issue [#13257](https://github.com/serverless/serverless/issues/13257) in [serverless/serverless](https://github.com/serverless/serverless)
 2. 💪 Opened PR [#7](https://github.com/dragonH/dragonH.github.io/pull/7) in [dragonH/dragonH.github.io](https://github.com/dragonH/dragonH.github.io)
 3. 🎉 Merged PR [#6](https://github.com/dragonH/dragonH.github.io/pull/6) in [dragonH/dragonH.github.io](https://github.com/dragonH/dragonH.github.io)
 4. 💪 Opened PR [#6](https://github.com/dragonH/dragonH.github.io/pull/6) in [dragonH/dragonH.github.io](https://github.com/dragonH/dragonH.github.io)

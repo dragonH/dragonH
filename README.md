@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA now available in additional Region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mwaa-additional-region)
+- [AWS Outposts racks support multiple LGW routing domains](https://aws.amazon.comabout-aws/whats-new/2026/01/aws-outposts-multiple-lgw-routing-domain)
+- [Second-generation AWS Outposts racks are now supported in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/second-generation-aws-outposts-racks-additional-aws-regions)
 - [Amazon S3 Storage Lens is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/s3-storage-lens-aws-govcloud-us-regions/)
 - [Amazon S3 on Outposts is now available on second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-s3-second-generation-aws-outposts-racks)
 - [AWS Clean Rooms now supports parameters in PySpark analysis templates](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-parameters-pyspark-analysis-templates/)
@@ -65,9 +68,6 @@
 - [Announcing Amazon EC2 Memory optimized X8i instances](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available)
 - [Amazon Connect now provides agent scheduling metrics in data lake](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/)
 - [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-cu-gdr-updates-microsoft-sql-server)
-- [AWS Lambda announces cross-account access for DynamoDB Streams](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-lambda-cross-account-access-dynamodb-streams)
-- [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-custom-gdr-updates-microsoft-sql-server)
-- [Amazon Redshift Serverless adds queue-based query resource management](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-redshift-serverless-queue-based-query-resource-management)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

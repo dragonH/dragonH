@@ -59,7 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon MWAA now available in additional Region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mwaa-additional-region)
-- [AWS Outposts racks support multiple LGW routing domains](https://aws.amazon.comabout-aws/whats-new/2026/01/aws-outposts-multiple-lgw-routing-domain)
+- [AWS Outposts racks support multiple LGW routing domains](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-outposts-multiple-lgw-routing-domain)
 - [Second-generation AWS Outposts racks are now supported in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/second-generation-aws-outposts-racks-additional-aws-regions)
 - [Amazon S3 Storage Lens is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/s3-storage-lens-aws-govcloud-us-regions/)
 - [Amazon S3 on Outposts is now available on second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-s3-second-generation-aws-outposts-racks)

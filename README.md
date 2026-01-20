@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Glue is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-glue-available-new-zealand-region)
 - [Amazon Quick Sight expands dashboard customization in tables and pivot tables](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quicksight-expands-dashboard-customization-tables-pivot-tables)
 - [Amazon MWAA now available in additional Region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mwaa-additional-region)
 - [AWS Outposts racks support multiple LGW routing domains](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-outposts-multiple-lgw-routing-domain)
@@ -67,7 +68,6 @@
 - [AWS Clean Rooms now supports parameters in PySpark analysis templates](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-parameters-pyspark-analysis-templates/)
 - [AWS Databases are now available on v0 by Vercel](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-databases-available-vercel-v0/)
 - [Announcing Amazon EC2 Memory optimized X8i instances](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-amazon-ec2-x8i-generally-available)
-- [Amazon Connect now provides agent scheduling metrics in data lake](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-scheduling-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

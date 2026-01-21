@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Transfer Family Terraform module now supports web apps](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-terraform-webapps)
+- [Amazon ECR now supports cross-repository layer sharing to optimize storage and improve push performance](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecr-cross-repository-layer-sharing/)
 - [SageMaker Unified Studio adds support for cross-Region and IAM role-based subscriptions](https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-unified-studio-adds-cross-region-iam/)
 - [AWS expands managed integrations for AWS IoT Device Management service coverage to the Middle East &lpar;UAE&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/managed-integrations-iot-device-coverage-uae/)
 - [AWS Glue is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-glue-available-new-zealand-region)
@@ -67,7 +68,6 @@
 - [Amazon EC2 G7e instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-g7e-instances-generally-available)
 - [Amazon Corretto January 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-corretto-january-2026-quarterly-updates)
 - [Amazon RDS Blue/Green Deployments reduces downtime to under five seconds](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-blue-green-deployments-reduces-downtime)
-- [Amazon Quick Sight expands dashboard customization in tables and pivot tables](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-quicksight-expands-dashboard-customization-tables-pivot-tables)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

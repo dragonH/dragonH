@@ -66,8 +66,8 @@
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8gn-instances-additional-regions)
 - [AWS introduces additional policy details to access denied error messages](https://aws.amazon.com/about-aws/whats-new/2026/01/additional-policy-details-access-denied-error/)
 - [Instance Scheduler on AWS adds enhanced scaling, reliability, and event-driven automation](https://aws.amazon.com/about-aws/whats-new/2026/01/instance-scheduler-adds-enhanced-scaling/)
+- [Announcing availability of second-generation AWS Outposts racks in 20 more countries](https://aws.amazon.com/about-aws/whats-new/2026/01/availability-second-generation-aws-outposts-racks-more-countries)
 - [AWS Transfer Family Terraform module now supports web apps](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-terraform-webapps)
-- [Amazon ECR now supports cross-repository layer sharing to optimize storage and improve push performance](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecr-cross-repository-layer-sharing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

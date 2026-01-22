@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Analytics is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-analytics-generally-available-additional-regions)
 - [AWS expands Resource Control Policies support for Cognito and CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies)
 - [Amazon SageMaker HyperPod introduces enhanced lifecycle scripts debugging](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-lcs-enhanced-debug/)
 - [AWS Clean Rooms adds support for join and partition hints in SQL](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-join-partition-hints-sql/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8gn-instances-additional-regions)
 - [AWS introduces additional policy details to access denied error messages](https://aws.amazon.com/about-aws/whats-new/2026/01/additional-policy-details-access-denied-error/)
 - [Instance Scheduler on AWS adds enhanced scaling, reliability, and event-driven automation](https://aws.amazon.com/about-aws/whats-new/2026/01/instance-scheduler-adds-enhanced-scaling/)
-- [Announcing availability of second-generation AWS Outposts racks in 20 more countries](https://aws.amazon.com/about-aws/whats-new/2026/01/availability-second-generation-aws-outposts-racks-more-countries)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

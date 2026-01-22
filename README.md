@@ -65,9 +65,9 @@
 - [Amazon Bedrock AgentCore Browser now supports custom browser extensions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-agentcore-browser-custom-extensions)
 - [AWS expands Resource Control Policies support for Cognito and CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies)
 - [Microsoft Office, Visio and Project 2024 Apps now on Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/01/microsoft-office-visio-project-2024-amazon-workspaces/)
+- [Now available: 48xlarge and metal-48xl sizes for EBS optimized Amazon EC2 instances](https://aws.amazon.com/about-aws/whats-new/2026/01/graviton4-ebs-optimized-larger-sizes)
+- [Announcing availability of AWS Outposts racks in Rwanda](https://aws.amazon.comabout-aws/whats-new/2026/01/availability-aws-outposts-racks-rwanda)
 - [Amazon MQ now supports Java Messaging Service &lpar;JMS&rpar; specification for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-mq-jms-spec-rabbitmq/)
-- [Amazon SageMaker HyperPod introduces enhanced lifecycle scripts debugging](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-hyperpod-lcs-enhanced-debug/)
-- [AWS Clean Rooms adds support for join and partition hints in SQL](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-clean-rooms-join-partition-hints-sql/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

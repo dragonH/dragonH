@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [EC2 Auto Scaling Introduces New Mechanisms for Group Deletion Protection](https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-auto-scaling-new-mechanisms-group-deletion-protection)
 - [Amazon EVS now supports multiple VMware NSX Edge Gateways](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-evs-multiple-vmware-nsx-edge-gateways)
 - [Announcing general availability of Amazon EC2 M4 Max Mac instances](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m4-max-mac-instances-ga)
 - [Amazon Connect adds conditional logic and real-time updates to Step-by-Step Guides](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-conditional-logic-real-time-updates-step-by-step-guides/)
@@ -67,7 +68,6 @@
 - [Amazon Neptune Analytics is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-analytics-generally-available-additional-regions)
 - [Amazon Bedrock AgentCore Browser now supports custom browser extensions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-agentcore-browser-custom-extensions)
 - [AWS expands Resource Control Policies support for Cognito and CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies)
-- [Microsoft Office, Visio and Project 2024 Apps now on Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/01/microsoft-office-visio-project-2024-amazon-workspaces/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

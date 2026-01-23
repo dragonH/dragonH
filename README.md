@@ -58,12 +58,12 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; and Europe &lpar;Frankfurt&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-sydney-europe-london-regions)
 - [Amazon EC2 C8i instances are now available in AWS Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-instances-europe-london-region)
+- [Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; and Europe &lpar;Frankfurt&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-sydney-europe-london-regions)
 - [AWS Config launches 13 new managed rules](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-config-launches-new-rules/)
 - [Amazon Neptune Analytics is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-neptune-analytics-generally-available-additional-regions)
-- [AWS expands Resource Control Policies support for Cognito and CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies)
 - [Amazon Bedrock AgentCore Browser now supports custom browser extensions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-agentcore-browser-custom-extensions)
+- [AWS expands Resource Control Policies support for Cognito and CloudWatch Logs](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-expands-resource-control-policies)
 - [Microsoft Office, Visio and Project 2024 Apps now on Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/01/microsoft-office-visio-project-2024-amazon-workspaces/)
 - [Now available: 48xlarge and metal-48xl sizes for EBS optimized Amazon EC2 instances](https://aws.amazon.com/about-aws/whats-new/2026/01/graviton4-ebs-optimized-larger-sizes)
 - [Announcing availability of AWS Outposts racks in Rwanda](https://aws.amazon.comabout-aws/whats-new/2026/01/availability-aws-outposts-racks-rwanda)

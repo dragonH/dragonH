@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Lightsail expands blueprint selection with updated support for Node.js, LAMP, and Ruby on Rails blueprints](https://aws.amazon.comabout-aws/whats-new/2026/01/amazon-lightsail-nodejs-lamp-and-ruby-on-rails/)
+- [Amazon Bedrock now supports 1-hour duration for prompt caching](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-one-hour-duration-prompt-caching/)
 - [Amazon WorkSpaces Core announces monthly pricing for managed instances](https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-workspaces-core-managed-instances-flexible-billing/)
+- [Amazon Managed Grafana now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-managed-grafana-aws-govcloud-us-regions)
 - [AWS Transfer Family now supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-amazon-fsx-netapp-ontap)
 - [Amazon Route 53 Domains adds support for .ai, and other top-level domains](https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-route-53-domains-adds-support-for-.ai-and-other-top-level-domains/)
 - [EC2 Auto Scaling Introduces New Mechanisms for Group Deletion Protection](https://aws.amazon.com/about-aws/whats-new/2026/01/ec2-auto-scaling-new-mechanisms-group-deletion-protection)
 - [Amazon EVS now supports multiple VMware NSX Edge Gateways](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-evs-multiple-vmware-nsx-edge-gateways)
 - [Announcing general availability of Amazon EC2 M4 Max Mac instances](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-m4-max-mac-instances-ga)
 - [Amazon RDS for Oracle now supports replicas in Oracle multi-tenant configuration](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-for-oracle-replica-multi-tenant-configuration-support)
-- [Amazon Connect adds conditional logic and real-time updates to Step-by-Step Guides](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-conditional-logic-real-time-updates-step-by-step-guides/)
-- [Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific &lpar;Sydney&rpar; and Europe &lpar;Frankfurt&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-sydney-europe-london-regions)
-- [Amazon EC2 C8i instances are now available in AWS Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-c8i-instances-europe-london-region)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

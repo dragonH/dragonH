@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now supports editing job name and description](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-editing-job-name-description/)
 - [AWS Network Firewall now supports GenAI traffic visibility and enforcement with Web category-based filtering](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-network-firewall-web-category-based-filtering)
 - [AWS Marketplace expands AMI self-service listing experience to FPGA products](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-expands-ami-self-service-listing-experience-to-fpga-products)
 - [Amazon WorkSpaces announces advanced printer redirection](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-workspaces-advanced-printer-redirection/)
@@ -67,7 +68,6 @@
 - [Amazon WorkSpaces Core announces monthly pricing for managed instances](https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-workspaces-core-managed-instances-flexible-billing/)
 - [Amazon Managed Grafana now available in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-managed-grafana-aws-govcloud-us-regions)
 - [AWS Transfer Family now supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-transfer-family-amazon-fsx-netapp-ontap)
-- [Amazon Route 53 Domains adds support for .ai, and other top-level domains](https://aws.amazon.com/about-aws/whats-new/2026/1/amazon-route-53-domains-adds-support-for-.ai-and-other-top-level-domains/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing increased 1 MB payload size support in Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eventbridge-increases-event-payload-size-256-kb-1-mb)
+- [Amazon Cognito introduces inbound federation Lambda triggers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cognito-inbound-federation-lambda-trigger/)
 - [AWS announces Deployment Agent SOPs in AWS MCP Server &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-announces-deployment-agent-sops-in-aws-mcp-server-preview)
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.35](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eks-distro-kubernetes-version-1-35)
 - [Amazon EC2 R7gd instances are now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/r7gd-instances-available-in-paris)
@@ -66,8 +68,6 @@
 - [AWS Deadline Cloud now supports editing job name and description](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-deadline-cloud-editing-job-name-description/)
 - [AWS Network Firewall now supports GenAI traffic visibility and enforcement with Web category-based filtering](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-network-firewall-web-category-based-filtering)
 - [Amazon WorkSpaces announces advanced printer redirection](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-workspaces-advanced-printer-redirection/)
-- [AWS Marketplace expands AMI self-service listing experience to FPGA products](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-marketplace-expands-ami-self-service-listing-experience-to-fpga-products)
-- [Amazon RDS for PostgreSQL, MySQL and MariaDB now support r6id and r6gd database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-product-generally-available-rds-r6id-r6gd-expansion)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

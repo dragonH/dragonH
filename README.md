@@ -62,12 +62,12 @@
 - [Amazon Bedrock now supports server-side custom tools using the Responses API](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-server-side-custom-tools-responses-api)
 - [Amazon Cognito introduces inbound federation Lambda triggers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cognito-inbound-federation-lambda-trigger/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; introduces pre-warming with WarmThroughput for your tables](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-keyspaces-apache-cassandra-pre-warming-warmthroughput-tables)
+- [Change the server-side encryption type of Amazon S3 objects](https://aws.amazon.com/about-aws/whats-new/2026/01/change-the-server-side-encryption-type-of-s3-objects)
 - [AWS announces Deployment Agent SOPs in AWS MCP Server &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-announces-deployment-agent-sops-in-aws-mcp-server-preview)
 - [Amazon GameLift Servers now supports automatic scaling to and from zero instances](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-gamelift-servers-automatic-scaling)
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.35](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eks-distro-kubernetes-version-1-35)
 - [Amazon EC2 R7gd instances are now available in Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/01/r7gd-instances-available-in-paris)
 - [Amazon MSK Replicator is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-msk-replicator-asia-pacific-new-zealand)
-- [Amazon DynamoDB global tables with multi-Region strong consistency now supports application resiliency testing with AWS Fault Injection Service](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-dynamodb-global-tables-with-mrsc-fis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

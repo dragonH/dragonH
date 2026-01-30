@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports IPv6 for VPC endpoints of RDS Service APIs](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-ipv6-vpc-endpoints-service-apis)
 - [Amazon SageMaker Unified Studio now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-unified-studio-aws-privatelink/)
 - [Amazon ECS now publishes container health status as a CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-container-health-status-metric/)
 - [New Partner Revenue Measurement gives visibility into AWS service consumption](https://aws.amazon.com/about-aws/whats-new/2026/01/new-partner-revenue-measurement)
@@ -67,7 +68,6 @@
 - [Announcing increased 1 MB payload size support in Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eventbridge-increases-event-payload-size-256-kb-1-mb)
 - [Amazon Bedrock now supports server-side custom tools using the Responses API](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-server-side-custom-tools-responses-api)
 - [Amazon Cognito introduces inbound federation Lambda triggers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cognito-inbound-federation-lambda-trigger/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; introduces pre-warming with WarmThroughput for your tables](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-keyspaces-apache-cassandra-pre-warming-warmthroughput-tables)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

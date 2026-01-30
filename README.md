@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Unified Studio now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-unified-studio-aws-privatelink/)
+- [Amazon ECS now publishes container health status as a CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-container-health-status-metric/)
 - [New Partner Revenue Measurement gives visibility into AWS service consumption](https://aws.amazon.com/about-aws/whats-new/2026/01/new-partner-revenue-measurement)
 - [Amazon GameLift Streams expands streaming capability to six new regions](https://aws.amazon.com/about-aws/whats-new/2026/01/glstreams-new-regions)
 - [Amazon EC2 R8a instances are now available in Europe &lpar;Spain&rpar; and Europe &lpar;Frankfurt&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8a-instances-are-available-europe)
@@ -66,8 +68,6 @@
 - [Amazon Bedrock now supports server-side custom tools using the Responses API](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-bedrock-server-side-custom-tools-responses-api)
 - [Amazon Cognito introduces inbound federation Lambda triggers](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cognito-inbound-federation-lambda-trigger/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; introduces pre-warming with WarmThroughput for your tables](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-keyspaces-apache-cassandra-pre-warming-warmthroughput-tables)
-- [Change the server-side encryption type of Amazon S3 objects](https://aws.amazon.com/about-aws/whats-new/2026/01/change-the-server-side-encryption-type-of-s3-objects)
-- [AWS announces Deployment Agent SOPs in AWS MCP Server &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/01/aws-announces-deployment-agent-sops-in-aws-mcp-server-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

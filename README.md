@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [DeepSeek OCR, MiniMax M2.1, and Qwen3-VL-8B-Instruct models are now available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/new-models-on-sagemaker-jumpstart)
+- [Announcing memory-optimized instance bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-lightsail-memory-optimized-instances/)
+- [AWS STS now supports validation of select identity provider specific claims from Google, GitHub, CircleCI and OCI](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-sts-supports-validation-identity-provider-claims)
+- [Amazon CloudFront announces mutual TLS support for origins](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-mutual-tls-for-origins/)
+- [AWS announces Flexible Cost Allocation in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-flexible-cost-allocation-govcloud/)
+- [Amazon Connect now provides APIs to test and simulate voice interactions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-provides-apis-test-simulate-voice-interactions/)
 - [AWS HealthImaging adds JPEG XL support](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-healthimaging-adds-jpeg-xl)
 - [Amazon RDS now supports IPv6 for VPC endpoints of RDS Service APIs](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-ipv6-vpc-endpoints-service-apis)
+- [Amazon Connect launches improved wait time estimates](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-launches-improved-wait-time/)
 - [Amazon SageMaker Unified Studio now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-unified-studio-aws-privatelink/)
-- [Amazon ECS now publishes container health status as a CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ecs-container-health-status-metric/)
-- [AWS Lambda launches enhanced observability for Kafka event source mappings](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-Lambda-observability-for-kafka-esm/)
-- [New Partner Revenue Measurement gives visibility into AWS service consumption](https://aws.amazon.com/about-aws/whats-new/2026/01/new-partner-revenue-measurement)
-- [Amazon GameLift Streams expands streaming capability to six new regions](https://aws.amazon.com/about-aws/whats-new/2026/01/glstreams-new-regions)
-- [Amazon EC2 R8a instances are now available in Europe &lpar;Spain&rpar; and Europe &lpar;Frankfurt&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-ec2-r8a-instances-are-available-europe)
-- [Amazon RDS for Oracle now supports cross-Region replicas with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/01/rds-for-oracle-cross-region-replicas-additional-storage-volumes)
-- [Announcing increased 1 MB payload size support in Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-eventbridge-increases-event-payload-size-256-kb-1-mb)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

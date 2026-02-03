@@ -61,13 +61,13 @@
 - [DeepSeek OCR, MiniMax M2.1, and Qwen3-VL-8B-Instruct models are now available on SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/new-models-on-sagemaker-jumpstart)
 - [Announcing memory-optimized instance bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-lightsail-memory-optimized-instances/)
 - [AWS STS now supports validation of select identity provider specific claims from Google, GitHub, CircleCI and OCI](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-sts-supports-validation-identity-provider-claims)
+- [AWS Multi-party approval now requires one-time password verification for voting](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-multi-party-approval-requires-one-time-password-verification-for-voting)
 - [Amazon CloudFront announces mutual TLS support for origins](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-mutual-tls-for-origins/)
 - [AWS announces Flexible Cost Allocation in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-flexible-cost-allocation-govcloud/)
 - [Amazon Connect now provides APIs to test and simulate voice interactions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-provides-apis-test-simulate-voice-interactions/)
 - [AWS HealthImaging adds JPEG XL support](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-healthimaging-adds-jpeg-xl)
 - [Amazon RDS now supports IPv6 for VPC endpoints of RDS Service APIs](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-rds-ipv6-vpc-endpoints-service-apis)
 - [Amazon Connect launches improved wait time estimates](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-launches-improved-wait-time/)
-- [Amazon SageMaker Unified Studio now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-sagemaker-unified-studio-aws-privatelink/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

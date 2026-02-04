@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon DynamoDB global tables now support replication across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/dynamodb-gt-multi-account/)
-- [AWS Marketplace introduces localized billing for Professional Services from AWS EMEA](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-marketplace-localized-billing-professional/)
-- [Amazon RDS now provides an enhanced console experience to connect to a database](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rds-provides-enhanced-console-experience)
-- [AWS Lake Formation is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/AWS-Lake-Formation-Asia-Pacific-New-Zealand-Region)
-- [Amazon Connect launches an appeals workflow for agent performance evaluations](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-connect-appeals-workflow-agent-performance-evaluations/)
-- [Amazon Aurora DSQL now supports indexes on the NUMERIC data type](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-indexes-numeric-data-type/)
-- [AWS Management Console now displays Account Name on the Navigation bar for easier account identification](https://aws.amazon.com/about-aws/whats-new/2026/02/console-displays-account-name-on-nav-bar)
-- [AWS IAM Identity Center enables account access and application use in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-multi-region-aws-account-access-and-application-deployment)
-- [Amazon Quick Suite Enables Easy Resolution of Ambiguous Map Locations](https://aws.amazon.com/about-aws/whats-new/2026/02/quick-ambiguous-locations-resolution)
-- [Oracle Database@AWS is now available in the Canada Central and Sydney AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/oracle-database-aws-available-canada-central-sydney-aws-regions)
+- [AWS Batch now supports unmanaged compute environments for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-on-eks-unmanaged-compute-environments)
+- [Structured outputs now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/)
+- [Amazon EC2 G7e instances now available in US West &lpar;Oregon&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-oregon-region/)
+- [Cartesia Sonic 3 text-to-speech model is now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/02/cartesia-sonic-3-on-sagemaker-jumpstart)
+- [Amazon ECS adds Network Load Balancer support for Linear and Canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ecs-nlb-linear-canary-deployments)
+- [Apache Spark lineage now available in Amazon SageMaker Unified Studio for IDC based domains](https://aws.amazon.com/about-aws/whats-new/2026/02/apache-spark-lineage-amazon-sageMaker-unified-studio)
+- [Introducing Amazon EC2 C8id, M8id, and R8id instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8id-m8id-r8id-instances/)
+- [Amazon EC2 and VPC now display related resources for security groups](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-console-related-resources-generally-available)
+- [Amazon EKS simplifies providing IAM permissions to EKS add-ons in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-simplifies-iam-permissions-eks-addons)
+- [Amazon Redshift now supports autonomics for multi-cluster environments](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-autonomics-for-multi-cluster)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -62,12 +62,12 @@
 - [AWS Builder ID now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-builder-id-sign-in-apple)
 - [Amazon WorkSpaces launches Graphics G6, Gr6, and G6f bundles](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-personal-core-graphics-g6-gr6-g6f-bundles/)
 - [Amazon EC2 I7ie instances now available in AWS Canada &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-i7ie-instances-available-aws-canada/)
+- [AWS Glue launches native REST API connector for universal data integration](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-rest-api-connector)
 - [Amazon EC2 High Memory U7i-6TB instances now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-u7i-6tb-instances-available/)
 - [Amazon EC2 capacity blocks for ML can be shared across multiple accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-capacity-blocks-multiple-accounts)
 - [Claude Opus 4.6 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/2/claude-opus-4.6-available-amazon-bedrock/)
 - [AWS Batch now supports unmanaged compute environments for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-on-eks-unmanaged-compute-environments)
 - [Structured outputs now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/02/structured-outputs-available-amazon-bedrock/)
-- [Amazon EC2 G7e instances now available in US West &lpar;Oregon&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-oregon-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

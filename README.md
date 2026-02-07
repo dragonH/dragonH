@@ -64,7 +64,7 @@
 - [AWS Config now supports 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-new-resource-types)
 - [Amazon Connect Cases now supports CSV uploads to map related field options](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-csv-related-field-options)
 - [AWS Network Firewall announces new price reductions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/)
-- [Amazon EC2 G6e instances now available in Dubai region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-dubai-region/)
+- [Amazon EC2 G6e instances now available in the UAE region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-uae-region/)
 - [AWS Builder ID now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-builder-id-sign-in-apple)
 - [Amazon WorkSpaces launches Graphics G6, Gr6, and G6f bundles](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-personal-core-graphics-g6-gr6-g6f-bundles/)
 - [Amazon EC2 I7ie instances now available in AWS Canada &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-i7ie-instances-available-aws-canada/)

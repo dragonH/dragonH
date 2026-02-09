@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune Analytics is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-neptune-analytics-in-seven-additional-regions)
+- [Amazon Redshift now supports allocating extra compute for automatic optimizations](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-allocate-extra-compute-for-automatic-optimizations)
 - [Amazon WorkSpaces Secure Browser now supports custom domain](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-secure-browser-custom-domains/)
 - [Amazon ECS Managed Instances now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-european-sovereign-cloud)
 - [Amazon Bedrock AgentCore Browser now supports browser profiles](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-agentcore-browser-profiles)
@@ -66,8 +68,6 @@
 - [AWS Network Firewall announces new price reductions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/)
 - [Amazon EC2 G6e instances now available in the UAE region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-uae-region/)
 - [AWS Builder ID now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-builder-id-sign-in-apple)
-- [Amazon WorkSpaces launches Graphics G6, Gr6, and G6f bundles](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-personal-core-graphics-g6-gr6-g6f-bundles/)
-- [Amazon EC2 I7ie instances now available in AWS Canada &lpar;Central&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-i7ie-instances-available-aws-canada/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

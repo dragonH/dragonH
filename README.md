@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Neptune Analytics is now available in 7 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-neptune-analytics-in-seven-additional-regions)
+- [AWS HealthOmics introduces a Kiro Power and Kiro IDE extension for bioinformatics workflow development](https://aws.amazon.com/about-aws/whats-new/2026/01/aws-healthomics-introduces-kiro-plugin-for-bioinformatics-workflow-development/)
 - [Amazon Redshift now supports allocating extra compute for automatic optimizations](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-allocate-extra-compute-for-automatic-optimizations)
 - [Amazon WorkSpaces Secure Browser now supports custom domain](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-secure-browser-custom-domains/)
 - [Amazon ECS Managed Instances now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-european-sovereign-cloud)
@@ -67,7 +68,6 @@
 - [Amazon Connect Cases now supports CSV uploads to map related field options](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-csv-related-field-options)
 - [AWS Network Firewall announces new price reductions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-network-firewall-new-price-reduction/)
 - [Amazon EC2 G6e instances now available in the UAE region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g6e-instances-uae-region/)
-- [AWS Builder ID now supports Sign in with Apple](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-builder-id-sign-in-apple)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

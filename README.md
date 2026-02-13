@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock increases default quotas for Anthropic’s Claude Sonnet 4.5 model in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.comabout-aws/whats-new/2026/02/amazon-bedrock-increases-default-sonnet-4.5-quotas-aws-govcloud-us)
-- [AI Troubleshooting in the AWS Support Center Console now supports 7 additional languages](https://aws.amazon.com/about-aws/whats-new/2026/02/ai-troubleshooting-in-aws-support-center/)
-- [Amazon RDS for PostgreSQL supports minor versions  18.2, 17.8, 16.12, 15.16 and 14.21](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-2-17-8-16-12-15-16-14-21)
-- [Announcing new Amazon EC2 general purpose M8azn instances](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-m8azn-instances-generally-available)
-- [Amazon S3 Tables add partition and sort order definition in the CreateTable API](https://aws.amazon.com/about-aws/whats-new/2026/02/s3-tables-partition-and-sort-order-createtable-api/)
-- [AWS Backup adds cross-Region database snapshot copy to logically air-gapped vaults](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-adds-cross-region-database-snapshot-logically-air-gapped-vaults/)
-- [AWS Payment Cryptography Achieves Cartes Bancaires Approval](https://aws.amazon.com/about-aws/whats-new/2026/02/payment-cryptography-cartes-bancaires)
-- [Amazon Connect launches after contact work timeout configuration for tasks, chats, and emails](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-acw-timeouts)
-- [Amazon Connect launches auto-accept for tasks, chats, and emails](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-omnichannel-auto-accept)
-- [Amazon Aurora DSQL is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-additional-aws-regions)
+- [AWS Batch now provides Job Queue and Share Utilization Visibility](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization)
+- [Amazon Connect launches in-app notifications to surface critical operational alerts to business users](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-in-app-notifications)
+- [Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks](https://aws.amazon.comamazon-connect-tasks-ai-assistance)
+- [Amazon RDS now supports backup configuration when restoring snapshots](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-aurora-backup-configuration-restoring-snapshots/)
+- [Amazon Aurora DSQL adds support for identity columns and sequence objects](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-adds-identity-columns-sequence/)
+- [Announcing Amazon EC2 C8i, M8i, and R8i instances on second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-m8i-and-r8i-instances-on-aws-outposts/)
+- [Amazon Bedrock adds support for the latest open-weight models in Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-support-latest-open-weight-models-asia-pacific-sydney/)
+- [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-access-grants-are-available-in-taipei)
+- [Amazon Bedrock expands support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-expands-aws-privatelink-support-openai-api-endpoints/)
+- [AWS expands Resource Control Policies support to Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-expands-resource-control-policies-amazon)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

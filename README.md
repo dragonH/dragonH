@@ -60,7 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS Batch now provides Job Queue and Share Utilization Visibility](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization)
 - [Amazon Connect launches in-app notifications to surface critical operational alerts to business users](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-in-app-notifications)
-- [Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks](https://aws.amazon.comamazon-connect-tasks-ai-assistance)
+- [Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-tasks-ai-assistance)
 - [Amazon RDS now supports backup configuration when restoring snapshots](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-aurora-backup-configuration-restoring-snapshots/)
 - [Amazon Aurora DSQL adds support for identity columns and sequence objects](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-adds-identity-columns-sequence/)
 - [Announcing Amazon EC2 C8i, M8i, and R8i instances on second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-m8i-and-r8i-instances-on-aws-outposts/)

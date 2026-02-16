@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 supports nested virtualization on virtual Amazon EC2 instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-nested-virtualization-on-virtual)
 - [AWS Batch now provides Job Queue and Share Utilization Visibility](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization)
 - [Amazon Connect launches in-app notifications to surface critical operational alerts to business users](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-in-app-notifications)
 - [Amazon Connect now provides real time AI-powered overviews and recommended next actions for Tasks](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-tasks-ai-assistance)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock adds support for the latest open-weight models in Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-support-latest-open-weight-models-asia-pacific-sydney/)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-access-grants-are-available-in-taipei)
 - [Amazon Bedrock expands support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-expands-aws-privatelink-support-openai-api-endpoints/)
-- [AWS expands Resource Control Policies support to Amazon DynamoDB](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-expands-resource-control-policies-amazon)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

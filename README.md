@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing Amazon DocumentDB long-term support &lpar;LTS&rpar; on 5.0](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-documentdb-5-0-long-term-support)
+- [AWS Backup announces PrivateLink support for SAP HANA on AWS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-announces-privatelink-sap-hana-aws/)
 - [Amazon EC2 supports nested virtualization on virtual Amazon EC2 instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-nested-virtualization-on-virtual)
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-highmem-instances-available/)
 - [AWS Batch now provides Job Queue and Share Utilization Visibility](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-batch-provides-job-queue-share-utilization)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports backup configuration when restoring snapshots](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-aurora-backup-configuration-restoring-snapshots/)
 - [Amazon Aurora DSQL adds support for identity columns and sequence objects](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-adds-identity-columns-sequence/)
 - [Announcing Amazon EC2 C8i, M8i, and R8i instances on second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-m8i-and-r8i-instances-on-aws-outposts/)
-- [Amazon Bedrock adds support for the latest open-weight models in Asia Pacific &lpar;Sydney&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-support-latest-open-weight-models-asia-pacific-sydney/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

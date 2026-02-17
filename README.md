@@ -64,8 +64,8 @@
 - [Announcing new high performance computing Amazon EC2 Hpc8a instances](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-ec2-hpc8a-instances/)
 - [Announcing Amazon DocumentDB long-term support &lpar;LTS&rpar; on 5.0](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-documentdb-5-0-long-term-support)
 - [AWS Glue 5.1 is now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-5-1-eighteen-additional-regions)
-- [AWS Backup announces PrivateLink support for SAP HANA on AWS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-announces-privatelink-sap-hana-aws/)
 - [Amazon EC2 M7i instances are now available in the Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m7i-israel-tel-aviv-regions)
+- [AWS Backup announces PrivateLink support for SAP HANA on AWS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-announces-privatelink-sap-hana-aws/)
 - [Amazon Aurora now supports Server-Side Encryption at Rest](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-server-side-encryption-at-rest)
 - [Amazon EC2 supports nested virtualization on virtual Amazon EC2 instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-nested-virtualization-on-virtual)
 <!-- AWS-NEWS:END -->

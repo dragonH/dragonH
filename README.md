@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Cases now supports AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas)
 - [Amazon OpenSearch Service expands support for Graviton4 &lpar;c8g,m8g &amp; r8g &rpar; instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-expands-support-graviton4-based-instances)
 - [Amazon OpenSearch Service now supports storage optimized  i7i  instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-supports-i7i-instances)
 - [Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai)
+- [Amazon Aurora MySQL 3.12 &lpar;compatible with MySQL 8.0.44&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-mysql-312-available/)
 - [Amazon Connect now includes agent time-off requests in draft schedules](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-time-off-draft-schedules)
 - [Amazon Connect now supports multi-line text fields on case templates](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-multiline-text-fields/)
 - [Amazon EC2 C8a instances now available in the Europe &lpar;Frankfurt&rpar; and Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8a-instances-europe-frankfurt-europe-ireland-regions)
 - [Amazon MSK now supports dual-stack &lpar;IPv4 and IPv6&rpar; connectivity for existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-msk-dual-stack-ipv4-and-ipv6)
 - [Claude Sonnet 4.6 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/02/claude-sonnet-4.6-available-in-amazon-bedrock/)
-- [AWS HealthImaging launches additional metrics for monitoring data stores](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-healthimaging-additional-metrics/)
-- [Announcing new high performance computing Amazon EC2 Hpc8a instances](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-ec2-hpc8a-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

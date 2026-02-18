@@ -61,13 +61,13 @@
 - [Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-integrates-with-kiro-powers-and-agent-skills)
 - [Amazon Connect Cases now supports AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas)
 - [Amazon Managed Grafana now supports AWS KMS customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-managed-grafana-customer-managed-keys)
+- [AWS Clean Rooms announces support for remote Apache Iceberg REST catalogs](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-clean-rooms-remote-iceberg-catalogs)
 - [Amazon OpenSearch Service expands support for Graviton4 &lpar;c8g,m8g &amp; r8g &rpar; instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-expands-support-graviton4-based-instances)
 - [Amazon OpenSearch Service now supports storage optimized  i7i  instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-supports-i7i-instances)
 - [Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai)
 - [Amazon Aurora MySQL 3.12 &lpar;compatible with MySQL 8.0.44&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-mysql-312-available/)
 - [Amazon Connect now includes agent time-off requests in draft schedules](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-time-off-draft-schedules)
 - [Amazon Connect now supports multi-line text fields on case templates](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-multiline-text-fields/)
-- [Amazon EC2 C8a instances now available in the Europe &lpar;Frankfurt&rpar; and Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8a-instances-europe-frankfurt-europe-ireland-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

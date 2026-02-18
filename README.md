@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai)
 - [Amazon Connect now includes agent time-off requests in draft schedules](https://aws.amazon.com/about-aws/whats-new/2025/02/amazon-connect-time-off-draft-schedules)
+- [Amazon Connect now supports multi-line text fields on case templates](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-multiline-text-fields/)
 - [Amazon EC2 C8a instances now available in the Europe &lpar;Frankfurt&rpar; and Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8a-instances-europe-frankfurt-europe-ireland-regions)
 - [Amazon MSK now supports dual-stack &lpar;IPv4 and IPv6&rpar; connectivity for existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-msk-dual-stack-ipv4-and-ipv6)
 - [Claude Sonnet 4.6 now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/02/claude-sonnet-4.6-available-in-amazon-bedrock/)
@@ -67,7 +68,6 @@
 - [Announcing new high performance computing Amazon EC2 Hpc8a instances](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-ec2-hpc8a-instances/)
 - [Announcing Amazon DocumentDB long-term support &lpar;LTS&rpar; on 5.0](https://aws.amazon.com/about-aws/whats-new/2026/02/announcing-amazon-documentdb-5-0-long-term-support)
 - [AWS Glue 5.1 is now available in 18 additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-glue-5-1-eighteen-additional-regions)
-- [AWS Backup announces PrivateLink support for SAP HANA on AWS](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-backup-announces-privatelink-sap-hana-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

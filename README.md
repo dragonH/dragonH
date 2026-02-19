@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Aurora DSQL launches new Go, Python, and Node.js connectors that simplify IAM authentication](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-go-python-nodejs-connectors)
 - [Amazon EC2 M8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-flex-instances-FRA-ICN-KUL-NRT-SIN-YUL-region/)
 - [AWS Certificate Manager updates default certificate validity to comply with new guidelines](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/)
 - [Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-integrates-with-kiro-powers-and-agent-skills)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service expands support for Graviton4 &lpar;c8g,m8g &amp; r8g &rpar; instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-expands-support-graviton4-based-instances)
 - [Amazon OpenSearch Service now supports storage optimized  i7i  instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-supports-i7i-instances)
 - [Amazon EC2 R8i and R8i-flex instances are now available in Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8i-r8i-flex-instances-DUB-region/)
-- [Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

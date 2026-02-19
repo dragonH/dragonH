@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-flex-instances-FRA-ICN-KUL-NRT-SIN-YUL-region/)
 - [AWS Certificate Manager updates default certificate validity to comply with new guidelines](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/)
 - [Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-integrates-with-kiro-powers-and-agent-skills)
 - [Amazon Connect Cases now supports AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service now supports storage optimized  i7i  instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-supports-i7i-instances)
 - [Amazon EC2 R8i and R8i-flex instances are now available in Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8i-r8i-flex-instances-DUB-region/)
 - [Amazon Bedrock reinforcement fine-tuning adds support for open-weight models with OpenAI-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-reinforcement-fine-tuning-openai)
-- [Amazon Aurora MySQL 3.12 &lpar;compatible with MySQL 8.0.44&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-mysql-312-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

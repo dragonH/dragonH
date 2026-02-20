@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports January 2026 Release Update and Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rd-for-oracle-jan-release-update-spatial-patch-bundle/)
 - [AWS IAM Identity Center is now available in the Asia Pacific &lpar;New Zealand&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-asia-pacific-new-zealand-region/)
 - [Amazon EC2 G7e instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-tokyo-region/)
 - [Aurora DSQL launches new Go, Python, and Node.js connectors that simplify IAM authentication](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-go-python-nodejs-connectors)
@@ -67,7 +68,6 @@
 - [AWS Certificate Manager updates default certificate validity to comply with new guidelines](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/)
 - [Amazon Aurora DSQL now integrates with Kiro powers and AI agent skills](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-integrates-with-kiro-powers-and-agent-skills)
 - [Amazon Connect Cases now supports AWS Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-connect-cases-aws-service-quotas)
-- [Amazon Managed Grafana now supports AWS KMS customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-managed-grafana-customer-managed-keys)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

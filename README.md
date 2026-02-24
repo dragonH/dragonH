@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS AppConfig integrates with New Relic for automated rollbacks](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-appconfig-new-relic-for-automated-rollback/)
 - [MediaConvert Introduces new video probe API and UI](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-mediaconvert-introduces-video-probe/)
 - [AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer](https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/)
 - [Amazon announces generative AI-based artifacts in Amazon Q Developer for visualizing resource and cost data](https://aws.amazon.com/about-aws/whats-new/2026/02/generative-ai-based-Amazon-Q-artifacts/)
@@ -67,7 +68,6 @@
 - [Automated Reasoning policies now include references to the source document](https://aws.amazon.com/about-aws/whats-new/2026/02/automated-reasoning-policies-include-references/)
 - [Amazon S3 Tables are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-tables-aws-govcloud-us/)
 - [Amazon RDS for Oracle now supports January 2026 Release Update and Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rd-for-oracle-jan-release-update-spatial-patch-bundle/)
-- [AWS IAM Identity Center is now available in the Asia Pacific &lpar;New Zealand&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-asia-pacific-new-zealand-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

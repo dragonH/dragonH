@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [MediaConvert Introduces new video probe API and UI](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-mediaconvert-introduces-video-probe/)
+- [AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer](https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/)
+- [Amazon announces generative AI-based artifacts in Amazon Q Developer for visualizing resource and cost data](https://aws.amazon.com/about-aws/whats-new/2026/02/generative-ai-based-Amazon-Q-artifacts/)
 - [AWS IAM Policy Autopilot is now available as a Kiro Power](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-policy-autopilot-kiro-power/)
+- [AWS Elemental Media Services Now Available in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/elemental-Malaysia/)
 - [Amazon Redshift Serverless introduces 3-year Serverless Reservations](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-serverless-three-year-reservations/)
+- [Amazon S3 Tables are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-tables-aws-govcloud-us/)
 - [Amazon RDS for Oracle now supports January 2026 Release Update and Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rd-for-oracle-jan-release-update-spatial-patch-bundle/)
 - [AWS IAM Identity Center is now available in the Asia Pacific &lpar;New Zealand&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-asia-pacific-new-zealand-region/)
 - [Amazon EC2 G7e instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-tokyo-region/)
-- [Aurora DSQL launches new Go, Python, and Node.js connectors that simplify IAM authentication](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-go-python-nodejs-connectors)
-- [Amazon MQ now supports ActiveMQ minor version 5.19](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-mq-activemq-5-19/)
-- [Amazon SNS now supports sending SMS in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-sns-sms-region-expansion)
-- [Amazon EC2 M8i-flex instances are now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-flex-instances-FRA-ICN-KUL-NRT-SIN-YUL-region/)
-- [AWS Certificate Manager updates default certificate validity to comply with new guidelines](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-certificate-manager-updates-default/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

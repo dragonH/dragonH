@@ -64,10 +64,10 @@
 - [AWS Elemental Media Services Now Available in Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/elemental-Malaysia/)
 - [AWS IAM Policy Autopilot is now available as a Kiro Power](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-policy-autopilot-kiro-power/)
 - [Amazon Redshift Serverless introduces 3-year Serverless Reservations](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-redshift-serverless-three-year-reservations/)
+- [Automated Reasoning policies now include references to the source document](https://aws.amazon.com/about-aws/whats-new/2026/02/automated-reasoning-policies-include-references/)
 - [Amazon S3 Tables are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-s3-tables-aws-govcloud-us/)
 - [Amazon RDS for Oracle now supports January 2026 Release Update and Spatial Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-rd-for-oracle-jan-release-update-spatial-patch-bundle/)
 - [AWS IAM Identity Center is now available in the Asia Pacific &lpar;New Zealand&rpar; AWS Region](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-iam-identity-center-asia-pacific-new-zealand-region/)
-- [Amazon EC2 G7e instances now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-g7e-instances-tokyo-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

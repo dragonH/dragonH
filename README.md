@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock now supports server-side tool execution with AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-server-side-tool-execution-agentcore-gateway/)
+- [AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-compute-optimizer-applies-tags-ebs-snapshots/)
+- [AWS Observability now available as a Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-observability-kiro-power/)
 - [Announcing AWS Elemental Inference](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/)
 - [Amazon RDS Snapshot Export to S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-exports-s3-available-gov-cloud/)
 - [AWS Deadline Cloud now supports running tasks together in chunks](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-deadline-cloud-running-tasks-together-in/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific &lpar;Malaysia&rpar; and South America &lpar;Sao Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-malaysia-south-america-sao--paulo-regions/)
 - [AWS AppConfig integrates with New Relic for automated rollbacks](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-appconfig-new-relic-for-automated-rollback/)
 - [Amazon EC2 M8a instances now available in AWS Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8a-instances-europe-frankfurt/)
-- [Amazon EKS Node Monitoring Agent is now open source](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-eks-node-monitoring-agent-open-source/)
-- [MediaConvert Introduces new video probe API and UI](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-mediaconvert-introduces-video-probe/)
-- [AWS Trusted Advisor now delivers more accurate unused NAT Gateway checks powered by AWS Compute Optimizer](https://aws.amazon.com/about-aws/whats-new/2026/02/trusted-advisor-unused-nat-gateway-check/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

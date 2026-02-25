@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-security-agent-adds-penetration-tests-shared/)
 - [Amazon Aurora DSQL launches Playground for interactive database exploration](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-launches-playground/)
 - [Announcing new metal sizes for Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/)
 - [Amazon Bedrock now supports server-side tool execution with AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-server-side-tool-execution-agentcore-gateway/)
@@ -67,7 +68,6 @@
 - [Amazon RDS Snapshot Export to S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-exports-s3-available-gov-cloud/)
 - [AWS Deadline Cloud now supports running tasks together in chunks](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-deadline-cloud-running-tasks-together-in/)
 - [Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific &lpar;Malaysia&rpar; and South America &lpar;Sao Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-malaysia-south-america-sao--paulo-regions/)
-- [Amazon EC2 R7a instances are now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r7a-instances-asia-pacific-hyderabad-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

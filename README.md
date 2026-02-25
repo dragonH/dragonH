@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Outposts racks now support additional Amazon CloudWatch metrics in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-outposts-racks-cloudwatch-metrics-govcloud-regions/)
 - [AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-security-agent-adds-penetration-tests-shared/)
 - [Amazon Aurora DSQL launches Playground for interactive database exploration](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-launches-playground/)
+- [Aurora DSQL launches new support for Tortoise, Flyway, and Prisma](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-tortoise-flyway-prisma/)
+- [Aurora DSQL launches new integrations for Visual Studio Code SQLTools and DBeaver](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-visual-studio-code-sqltools-dbeaver/)
+- [Amazon EC2 R8a instances now available in the Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions/)
+- [Amazon EC2 M8i and M8i-flex instances are now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-africa-cape-town-regions/)
+- [Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-location-service-introduces-kiro-power-claude-skill-llm-context/)
+- [Amazon WorkSpaces Applications extends support for 4K resolution](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-applications-4K-resolution/)
 - [Announcing new metal sizes for Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/)
-- [Amazon Bedrock now supports server-side tool execution with AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-server-side-tool-execution-agentcore-gateway/)
-- [AWS Compute Optimizer now applies AWS-generated tags to EBS snapshots created during automation](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-compute-optimizer-applies-tags-ebs-snapshots/)
-- [AWS Observability now available as a Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-observability-kiro-power/)
-- [Announcing AWS Elemental Inference](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/)
-- [Amazon RDS Snapshot Export to S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-exports-s3-available-gov-cloud/)
-- [AWS Deadline Cloud now supports running tasks together in chunks](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-deadline-cloud-running-tasks-together-in/)
-- [Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific &lpar;Malaysia&rpar; and South America &lpar;Sao Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-malaysia-south-america-sao--paulo-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

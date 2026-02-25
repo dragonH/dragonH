@@ -64,8 +64,8 @@
 - [Announcing AWS Elemental Inference](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-elemental-inference-generally-avail/)
 - [Amazon RDS Snapshot Export to S3 now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-exports-s3-available-gov-cloud/)
 - [AWS Deadline Cloud now supports running tasks together in chunks](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-deadline-cloud-running-tasks-together-in/)
-- [Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific &lpar;Malaysia&rpar; and South America &lpar;Sao Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-malaysia-south-america-sao--paulo-regions/)
 - [Amazon EC2 R7a instances are now available in the Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r7a-instances-asia-pacific-hyderabad-regions/)
+- [Amazon EC2 C8i and C8i-flex instances are now available in Asia Pacific &lpar;Malaysia&rpar; and South America &lpar;Sao Paulo&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-c8i-flex-instances-asia-pacific-malaysia-south-america-sao--paulo-regions/)
 - [AWS AppConfig integrates with New Relic for automated rollbacks](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-appconfig-new-relic-for-automated-rollback/)
 - [Amazon EC2 M8a instances now available in AWS Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8a-instances-europe-frankfurt/)
 <!-- AWS-NEWS:END -->

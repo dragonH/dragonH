@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect now supports dynamic dialing mode switching for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/)
 - [AWS Security Hub launches Extended plan for pay-as-you-go partner solutions](https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/)
 - [Amazon Cognito enhances client secret management with secret rotation and custom secrets](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/)
 - [AWS Lambda Durable Execution SDK for Java now available in Developer Preview](https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/)
@@ -67,7 +68,6 @@
 - [Aurora DSQL launches new support for Tortoise, Flyway, and Prisma](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-tortoise-flyway-prisma/)
 - [Aurora DSQL launches new integrations for Visual Studio Code SQLTools and DBeaver](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-visual-studio-code-sqltools-dbeaver/)
 - [Amazon EC2 M8i and M8i-flex instances are now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-africa-cape-town-regions/)
-- [Amazon EC2 R8a instances now available in the Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

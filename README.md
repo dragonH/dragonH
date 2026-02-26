@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Managed Instances now integrates with Amazon EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-ec2-capacity-reservations/)
+- [AWS Marketplace now supports multiple purchases of SaaS and Professional Services products](https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/)
 - [Amazon Connect now supports dynamic dialing mode switching for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/)
+- [Amazon CloudWatch now provides lock contention diagnostics for Amazon RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cloudwatch-lock-contention-diagnostics-rds-postgresql/)
 - [AWS Security Hub launches Extended plan for pay-as-you-go partner solutions](https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/)
 - [Amazon Cognito enhances client secret management with secret rotation and custom secrets](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/)
 - [Amazon EC2 M8i and M8i-flex instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-additional-regions/)
 - [Introducing Amazon EC2 I8g.metal-48xl instances](https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-i8g-metal-48xl-generally-available/)
 - [AWS Lambda Durable Execution SDK for Java now available in Developer Preview](https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/)
 - [AWS Outposts racks now support additional Amazon CloudWatch metrics in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-outposts-racks-cloudwatch-metrics-govcloud-regions/)
-- [AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-security-agent-adds-penetration-tests-shared/)
-- [Amazon Aurora DSQL launches Playground for interactive database exploration](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-launches-playground/)
-- [Aurora DSQL launches new support for Tortoise, Flyway, and Prisma](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-tortoise-flyway-prisma/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub launches Extended plan for pay-as-you-go partner solutions](https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/)
+- [Amazon Cognito enhances client secret management with secret rotation and custom secrets](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/)
+- [AWS Lambda Durable Execution SDK for Java now available in Developer Preview](https://aws.amazon.com/about-aws/whats-new/2026/02/lambda-durable-execution-java-preview/)
 - [AWS Outposts racks now support additional Amazon CloudWatch metrics in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-outposts-racks-cloudwatch-metrics-govcloud-regions/)
 - [AWS Security Agent adds support for penetration tests on shared VPCs across AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-security-agent-adds-penetration-tests-shared/)
 - [Amazon Aurora DSQL launches Playground for interactive database exploration](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-aurora-dsql-launches-playground/)
 - [Aurora DSQL launches new support for Tortoise, Flyway, and Prisma](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-launches-tortoise-flyway-prisma/)
 - [Aurora DSQL launches new integrations for Visual Studio Code SQLTools and DBeaver](https://aws.amazon.com/about-aws/whats-new/2026/02/aurora-dsql-visual-studio-code-sqltools-dbeaver/)
-- [Amazon EC2 R8a instances now available in the Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions/)
 - [Amazon EC2 M8i and M8i-flex instances are now available in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-africa-cape-town-regions/)
-- [Amazon Location Service introduces LLM Context as a Kiro power and Claude Code plugin to improve AI performance](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-location-service-introduces-kiro-power-claude-skill-llm-context/)
-- [Amazon WorkSpaces Applications extends support for 4K resolution](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-workspaces-applications-4K-resolution/)
-- [Announcing new metal sizes for Amazon EC2 M8gn and M8gb instances](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8gn-m8gb-new-metal-sizes/)
+- [Amazon EC2 R8a instances now available in the Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-r8a-instances-europe-ireland-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -61,13 +61,13 @@
 - [Amazon CloudWatch logs centralization rules now support customizable destination log group structure](https://aws.amazon.com/about-aws/whats-new/2026/02/cloudwatch-centralization-custom-groups/)
 - [AWS now supports Bacs Direct Debit as a payment method for UK customers](https://aws.amazon.com/about-aws/whats-new/aws-supports-bacs-direct-debit-payment-method/)
 - [Amazon OpenSearch Service adds new insights for improved cluster stability](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-adds-new-insights-improved-cluster-stability/)
+- [Amazon RDS for PostgreSQL supports minor versions 18.3, 17.9, 16.13, 15.17, and 14.22](https://aws.amazon.com/about-aws/whats-new/2026/02/rds-minor-version-18-3-17-9-16-13-15-17-14-22/)
 - [Amazon Bedrock announces OpenAI-compatible Projects API](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-projects-api-mantle-inference-engine/)
 - [Amazon ECS Managed Instances now integrates with Amazon EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-ec2-capacity-reservations/)
 - [AWS Marketplace now supports multiple purchases of SaaS &amp; Professional Services products from the same account](https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/)
 - [Amazon Connect now supports dynamic dialing mode switching for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/)
 - [Amazon CloudWatch now provides lock contention diagnostics for Amazon RDS for PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cloudwatch-lock-contention-diagnostics-rds-postgresql/)
 - [AWS Security Hub launches Extended plan for pay-as-you-go partner solutions](https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/)
-- [Amazon Cognito enhances client secret management with secret rotation and custom secrets](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

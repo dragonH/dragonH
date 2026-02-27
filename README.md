@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS now supports Bacs Direct Debit as a payment method for UK customers](https://aws.amazon.com/about-aws/whats-new/aws-supports-bacs-direct-debit-payment-method/)
 - [Amazon OpenSearch Service adds new insights for improved cluster stability](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-adds-new-insights-improved-cluster-stability/)
+- [Amazon Bedrock announces OpenAI-compatible Projects API](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-projects-api-mantle-inference-engine/)
 - [Amazon ECS Managed Instances now integrates with Amazon EC2 Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/02/ecs-mi-ec2-capacity-reservations/)
 - [AWS Marketplace now supports multiple purchases of SaaS and Professional Services products](https://aws.amazon.com/about-aws/whats-new/2026/02/concurrent-agreements-february/)
 - [Amazon Connect now supports dynamic dialing mode switching for outbound campaigns](https://aws.amazon.com/about-aws/whats-new/2026/02/connect-dynamic-dialing-modes/)
@@ -66,8 +68,6 @@
 - [AWS Security Hub launches Extended plan for pay-as-you-go partner solutions](https://aws.amazon.com/about-aws/whats-new/2026/02/sec-hub-extended/)
 - [Amazon Cognito enhances client secret management with secret rotation and custom secrets](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-cognito-client-secret-lifecycle/)
 - [Amazon EC2 M8i and M8i-flex instances are available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-m8i-m8i-flex-instances-additional-regions/)
-- [Introducing Amazon EC2 I8g.metal-48xl instances](https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-i8g-metal-48xl-generally-available/)
-- [Amazon SNS now supports push notifications in the Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-sns-push-expansion-spain/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

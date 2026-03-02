@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch now supports configurable scale down delay](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-configurable-scale-down-delay/)
 - [AWS Config now supports 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-config-new-resource-types/)
 - [AWS announces pricing for VPC Encryption Controls](https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/)
 - [Amazon Lightsail expands blueprint selection with a new WordPress blueprint](https://aws.amazon.com/about-aws/whats-new/2026/02/wordpress-blueprint-lightsail/)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock batch inference now supports the Converse API format](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-batch-inference-supports-converse-api-format/)
 - [Amazon CloudWatch logs centralization rules now support customizable destination log group structure](https://aws.amazon.com/about-aws/whats-new/2026/02/cloudwatch-centralization-custom-groups/)
 - [AWS Resource Access Manager now supports maintaining shares when accounts change organizations](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-resource-access-manager/)
-- [AWS now supports Bacs Direct Debit as a payment method for UK customers](https://aws.amazon.com/about-aws/whats-new/aws-supports-bacs-direct-debit-payment-method/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

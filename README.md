@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Config now supports 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-config-new-resource-types/)
 - [AWS announces pricing for VPC Encryption Controls](https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/)
 - [Amazon Lightsail expands blueprint selection with a new WordPress blueprint](https://aws.amazon.com/about-aws/whats-new/2026/02/wordpress-blueprint-lightsail/)
 - [EC2 Image Builder enhances lifecycle policies with wildcard support and simplified IAM](https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-image-builder-lifecycle-enhancements/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch logs centralization rules now support customizable destination log group structure](https://aws.amazon.com/about-aws/whats-new/2026/02/cloudwatch-centralization-custom-groups/)
 - [AWS Resource Access Manager now supports maintaining shares when accounts change organizations](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-resource-access-manager/)
 - [AWS now supports Bacs Direct Debit as a payment method for UK customers](https://aws.amazon.com/about-aws/whats-new/aws-supports-bacs-direct-debit-payment-method/)
-- [Amazon OpenSearch Service adds new insights for improved cluster stability](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-opensearch-service-adds-new-insights-improved-cluster-stability/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

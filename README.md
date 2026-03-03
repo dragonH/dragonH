@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Policy in Amazon Bedrock AgentCore is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/policy-amazon-bedrock-agentcore-generally-available/)
 - [AWS Batch now supports configurable scale down delay](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-configurable-scale-down-delay/)
 - [AWS Config now supports 30 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-config-new-resource-types/)
 - [AWS announces pricing for VPC Encryption Controls](https://aws.amazon.com/about-aws/whats-new/2026/03/vpc-encryption-controls-pricing/)
@@ -67,7 +68,6 @@
 - [ARC Region switch adds three new capabilities: post-recovery workflows, RDS orchestration and AWS provider support for Terraform](https://aws.amazon.com/about-aws/whats-new/2026/02/arc-region-switch-post-recovery-rdsblock/)
 - [AWS Network Firewall now supports firewall state change notifications through Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/02/firewall-state-change-notifications/)
 - [Amazon Bedrock batch inference now supports the Converse API format](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-bedrock-batch-inference-supports-converse-api-format/)
-- [Amazon CloudWatch logs centralization rules now support customizable destination log group structure](https://aws.amazon.com/about-aws/whats-new/2026/02/cloudwatch-centralization-custom-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

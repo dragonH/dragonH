@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Unified Studio adds metadata sync with third-party catalogs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-3p-catalogs/)
+- [Amazon SageMaker Unified Studio now supports AWS Glue 5.1 for data processing jobs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-aws-glue-5-1/)
 - [Amazon SageMaker Unified Studio launches support for remote connection from Kiro IDE](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-kiro-ide/)
 - [Policy in Amazon Bedrock AgentCore is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/policy-amazon-bedrock-agentcore-generally-available/)
 - [AWS Batch now supports configurable scale down delay](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-configurable-scale-down-delay/)
@@ -66,8 +68,6 @@
 - [AWS Elemental MediaLive Now Supports SRT Listener Mode](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-medialive-introduces-srt-listener/)
 - [Amazon Lightsail expands blueprint selection with a new WordPress blueprint](https://aws.amazon.com/about-aws/whats-new/2026/02/wordpress-blueprint-lightsail/)
 - [EC2 Image Builder enhances lifecycle policies with wildcard support and simplified IAM](https://aws.amazon.com/about-aws/whats-new/2026/02/ec2-image-builder-lifecycle-enhancements/)
-- [ARC Region switch adds three new capabilities: post-recovery workflows, RDS orchestration and AWS provider support for Terraform](https://aws.amazon.com/about-aws/whats-new/2026/02/arc-region-switch-post-recovery-rdsblock/)
-- [AWS Network Firewall now supports firewall state change notifications through Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/02/firewall-state-change-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Multi-party approval now supports approval team baselining](https://aws.amazon.com/about-aws/whats-new/2026/03/multi-party-approval-team-baselining/)
+- [Database Savings Plans now supports Amazon OpenSearch Service and Amazon Neptune Analytics](https://aws.amazon.com/about-aws/whats-new/2026/03/dbsp-opensearch-service-neptune-analytics/)
 - [AWS Elastic Beanstalk now offers AI-powered environment analysis](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-ai-analysis/)
 - [AWS Shield network security director findings are now available in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2026/03/network-security-director-findings/)
 - [Amazon OpenSearch Service introduces capacity optimized blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-bg/)
 - [Introducing Amazon Connect Health, Agentic AI Built for Healthcare](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/)
 - [AWS HealthLake announces data transformation agent for automated CCDA-to-FHIR data conversion &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthlake-data-transformation-agent/)
 - [Accelerate Lambda durable functions development with new Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-durable-kiro-power/)
+- [Amazon EC2 M8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8g-instances-africa-cape-town-asia-pacific-malaysia-europe-milan-zurich-canada-west-calgary-regions)
 - [AWS simplifies IAM role creation and setup in service workflows](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/)
-- [Amazon SageMaker HyperPod now provides comprehensive observability for Restricted Instance Groups](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-observability-rig/)
-- [Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

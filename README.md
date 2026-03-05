@@ -65,8 +65,8 @@
 - [AWS simplifies IAM role creation and setup in service workflows](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/)
 - [Amazon SageMaker HyperPod now provides comprehensive observability for Restricted Instance Groups](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-observability-rig/)
 - [Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/)
-- [Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-supports-amazon-managed-service-prometheus-sink)
 - [Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-unified-ingestion-endpoint-opentelemetry)
+- [Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-supports-amazon-managed-service-prometheus-sink)
 - [Amazon GameLift Servers launches DDoS Protection](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-ddos-protection/)
 <!-- AWS-NEWS:END -->
 

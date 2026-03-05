@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Multi-party approval now supports approval team baselining](https://aws.amazon.com/about-aws/whats-new/2026/03/multi-party-approval-team-baselining/)
+- [AWS Elastic Beanstalk now offers AI-powered environment analysis](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-ai-analysis/)
+- [AWS Shield network security director findings are now available in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2026/03/network-security-director-findings/)
 - [Amazon OpenSearch Service introduces capacity optimized blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-bg/)
 - [Introducing Amazon Connect Health, Agentic AI Built for Healthcare](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/)
 - [AWS HealthLake announces data transformation agent for automated CCDA-to-FHIR data conversion &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthlake-data-transformation-agent/)
@@ -65,9 +68,6 @@
 - [AWS simplifies IAM role creation and setup in service workflows](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/)
 - [Amazon SageMaker HyperPod now provides comprehensive observability for Restricted Instance Groups](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-observability-rig/)
 - [Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/)
-- [Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-unified-ingestion-endpoint-opentelemetry)
-- [Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-supports-amazon-managed-service-prometheus-sink)
-- [Amazon GameLift Servers launches DDoS Protection](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-ddos-protection/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

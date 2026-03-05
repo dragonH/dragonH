@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service introduces capacity optimized blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-bg/)
+- [Introducing Amazon Connect Health, Agentic AI Built for Healthcare](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/)
+- [AWS HealthLake announces data transformation agent for automated CCDA-to-FHIR data conversion &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthlake-data-transformation-agent/)
+- [Accelerate Lambda durable functions development with new Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-durable-kiro-power/)
 - [AWS simplifies IAM role creation and setup in service workflows](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-simplifies-iam-role-creation-and-setup/)
 - [Amazon SageMaker HyperPod now provides comprehensive observability for Restricted Instance Groups](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-observability-rig/)
 - [Amazon Lightsail now offers OpenClaw, a private self-hosted AI assistant](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-lightsail-openclaw/)
-- [Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-unified-ingestion-endpoint-opentelemetry)
 - [Amazon OpenSearch Ingestion now supports Amazon Managed Service for Prometheus as a sink](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-supports-amazon-managed-service-prometheus-sink)
+- [Amazon OpenSearch Ingestion now supports unified ingestion endpoint for OpenTelemetry data](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-ingestion-unified-ingestion-endpoint-opentelemetry)
 - [Amazon GameLift Servers launches DDoS Protection](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-ddos-protection/)
-- [Amazon SageMaker Unified Studio adds metadata sync with third-party catalogs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-3p-catalogs/)
-- [Amazon SageMaker Unified Studio now supports AWS Glue 5.1 for data processing jobs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-aws-glue-5-1/)
-- [Amazon SageMaker Unified Studio launches support for remote connection from Kiro IDE](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-kiro-ide/)
-- [Policy in Amazon Bedrock AgentCore is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/policy-amazon-bedrock-agentcore-generally-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

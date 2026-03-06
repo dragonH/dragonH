@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift introduces reusable templates for COPY operations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-reusable-templates-copy/)
+- [Amazon Redshift introduces new array functions for semi-structured data processing](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-nine-new-array-functions/)
 - [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8g-instances-additional-regions/)
 - [Amazon Redshift Serverless now maintains datashare permissions during restore](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-serverless-maintains-datashare-permissions-on-restore/)
 - [Multi-party approval now supports approval team baselining](https://aws.amazon.com/about-aws/whats-new/2026/03/multi-party-approval-team-baselining/)
+- [Amazon SageMaker Unified Studio adds light mode support for IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-light-mode/)
 - [Database Savings Plans now supports Amazon OpenSearch Service and Amazon Neptune Analytics](https://aws.amazon.com/about-aws/whats-new/2026/03/dbsp-opensearch-service-neptune-analytics/)
 - [AWS Elastic Beanstalk now offers AI-powered environment analysis](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-ai-analysis/)
 - [AWS Shield network security director findings are now available in AWS Security Hub](https://aws.amazon.com/about-aws/whats-new/2026/03/network-security-director-findings/)
 - [Amazon EC2 I8ge instances now generally available in Europe &lpar;Ireland&rpar; AWS region.](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-I8ge-expansion-ireland/)
-- [Amazon OpenSearch Service introduces capacity optimized blue/green deployments](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-bg/)
-- [Introducing Amazon Connect Health, Agentic AI Built for Healthcare](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-health-agentic-ai-healthcare/)
-- [AWS HealthLake announces data transformation agent for automated CCDA-to-FHIR data conversion &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthlake-data-transformation-agent/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

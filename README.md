@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Builder ID now supports Sign in with GitHub and Amazon](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-builder-id-sign-in-github-amazon/)
 - [Amazon Connect enhances AI-powered predictive insights](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-predictive-insights/)
-- [Amazon Connect introduces AI-powered manager assistance &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-ai-powered-manager-assistance/)
 - [Amazon Connect now supports conversational analytics for email](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-conversational-analytics-email/)
+- [Amazon Connect introduces AI-powered manager assistance &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-ai-powered-manager-assistance/)
 - [Amazon OpenSearch Service now supports in-place volume increases for all volume sizes](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-in-place-volume/)
 - [Amazon Route 53 Global Resolver is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-global-resolver/)
 - [Amazon CloudWatch Logs announces increased query concurrency and API limits](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-logs-increased-limits/)
 - [Amazon Quick Suite launches User Preferences for chat personalization](https://aws.amazon.com/about-aws/whats-new/2026/03/user-preferences-in-quick/)
 - [Amazon Cognito is now available in Asia Pacific &lpar;Taipei&rpar; and Asia Pacific &lpar;New Zealand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/cognito-taipei-and-new-zealand-regions/)
 - [IAM Roles Anywhere now supports post-quantum digital certificates](https://aws.amazon.com/about-aws/whats-new/2026/03/iam-roles-anywhere-post-quantum-digital-certificates)
-- [Amazon SageMaker Unified Studio now supports faster data preview in Visual ETL](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-faster-data-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

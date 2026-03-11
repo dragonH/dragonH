@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore Runtime now supports stateful MCP server features](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-stateful-mcp/)
+- [Amazon Bedrock now supports observability of First Token Latency and Quota Consumption](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-observability-ttft-quota/)
 - [AWS Builder ID now supports Sign in with GitHub and Amazon](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-builder-id-sign-in-github-amazon/)
 - [Amazon Connect enhances AI-powered predictive insights](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-predictive-insights/)
 - [Amazon Connect now supports conversational analytics for email](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-conversational-analytics-email/)
@@ -66,8 +68,6 @@
 - [Amazon Route 53 Global Resolver is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-global-resolver/)
 - [Amazon CloudWatch Logs announces increased query concurrency and API limits](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-logs-increased-limits/)
 - [Amazon Quick Suite launches User Preferences for chat personalization](https://aws.amazon.com/about-aws/whats-new/2026/03/user-preferences-in-quick/)
-- [Amazon Cognito is now available in Asia Pacific &lpar;Taipei&rpar; and Asia Pacific &lpar;New Zealand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/cognito-taipei-and-new-zealand-regions/)
-- [IAM Roles Anywhere now supports post-quantum digital certificates](https://aws.amazon.com/about-aws/whats-new/2026/03/iam-roles-anywhere-post-quantum-digital-certificates)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

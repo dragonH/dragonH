@@ -65,9 +65,9 @@
 - [Amazon Connect now provides integrated workflows for managers to coach agents](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-integrated-agent-coaching-workflows/)
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-high-memory-u7i-instances/)
 - [Amazon Connect now lets you select different From email addresses when sending emails](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-agents-select-from-email/)
+- [Amazon Connect now provides case data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-cases-data-lake)
+- [AWS Backup expands support for Amazon RDS Multi-AZ clusters to 17 Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-expands-amazon-rds-multi-az-clusters-17-regions/)
 - [Amazon Bedrock AgentCore Runtime now supports stateful MCP server features](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-stateful-mcp/)
-- [Amazon Bedrock now supports observability of First Token Latency and Quota Consumption](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-observability-ttft-quota/)
-- [AWS Builder ID now supports Sign in with GitHub and Amazon](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-builder-id-sign-in-github-amazon/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

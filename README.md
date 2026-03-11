@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Database Insights on-demand analysis now available in AWS Govcloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-database-insights-on-demand-analysis-in-govcloud/)
 - [Amazon Connect now provides integrated workflows for managers to coach agents](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-integrated-agent-coaching-workflows/)
 - [Amazon Bedrock AgentCore Runtime now supports stateful MCP server features](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-stateful-mcp/)
 - [Amazon Bedrock now supports observability of First Token Latency and Quota Consumption](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-observability-ttft-quota/)
@@ -67,7 +68,6 @@
 - [Amazon Connect introduces AI-powered manager assistance &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-ai-powered-manager-assistance/)
 - [Amazon OpenSearch Service now supports in-place volume increases for all volume sizes](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-in-place-volume/)
 - [Amazon Route 53 Global Resolver is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-global-resolver/)
-- [Amazon CloudWatch Logs announces increased query concurrency and API limits](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-logs-increased-limits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

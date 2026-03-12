@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Beanstalk launches Deployments tab with in-progress deployment logs](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-deployments-tab/)
 - [Amazon WorkSpaces now supports Microsoft Windows Server 2025](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-workspaces-windows-server-2025/)
 - [Amazon Neptune Database is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-neptune-hyderabad/)
 - [Amazon EC2 C8id instances are now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8id-instances-europe-spain/)
@@ -67,7 +68,6 @@
 - [Amazon Connect now provides integrated workflows for managers to coach agents](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-integrated-agent-coaching-workflows/)
 - [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-high-memory-u7i-instances/)
 - [Amazon Connect now lets you select different From email addresses when sending emails](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-agents-select-from-email/)
-- [Amazon Connect now provides case data in analytics data lake](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-cases-data-lake)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

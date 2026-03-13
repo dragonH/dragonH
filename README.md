@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Accelerate serverless application development with new SAM Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-sam-kiro-power/)
+- [Amazon MSK announces support for Standard brokers Graviton-3 instance in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-standardm7g-cpt-region/)
 - [AWS Network Firewall Launch in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/03/network-firewall-european-sovereign-cloud-region/)
 - [AWS Lambda Managed Instances now supports Rust](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-lambda-managed-instances-rust/)
 - [OpenSearch UI supports Cross Account Data Access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/)
@@ -66,8 +68,6 @@
 - [AWS Private CA Connector for SCEP now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-connector-scep-privatelink/)
 - [AWS CDK Mixins is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-cdk-mixins/)
 - [Amazon Bedrock AgentCore Memory announces streaming notifications for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-memory-streaming-ltm/)
-- [Amazon EC2 M8i and M8i-flex instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8i-m8i-flex-additional-regions/)
-- [AWS Glue zero-ETL integrations with Amazon DynamoDB as the source support new configurations](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-glue-zetl-dynamodb-configurations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

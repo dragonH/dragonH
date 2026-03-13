@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall Launch in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/03/network-firewall-european-sovereign-cloud-region/)
 - [OpenSearch UI supports Cross Account Data Access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/)
 - [New LZA MCP Server for AI-assisted configuration management](https://aws.amazon.com/about-aws/whats-new/2026/03/new-lza-mcp-server-ai-assisted/)
 - [AWS Elastic Beanstalk launches Deployments tab with in-progress deployment logs](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-deployments-tab/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 M8i and M8i-flex instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8i-m8i-flex-additional-regions/)
 - [AWS Glue zero-ETL integrations with Amazon DynamoDB as the source support new configurations](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-glue-zetl-dynamodb-configurations/)
 - [Amazon WorkSpaces now supports Microsoft Windows Server 2025](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-workspaces-windows-server-2025/)
-- [Amazon S3 introduces account regional namespaces for general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-account-regional-namespaces/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

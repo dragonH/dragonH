@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [OpenSearch UI supports Cross Account Data Access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/)
 - [AWS Elastic Beanstalk launches Deployments tab with in-progress deployment logs](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-deployments-tab/)
 - [AWS Private CA Connector for SCEP now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-connector-scep-privatelink/)
 - [AWS CDK Mixins is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-cdk-mixins/)
@@ -67,7 +68,6 @@
 - [Amazon WorkSpaces now supports Microsoft Windows Server 2025](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-workspaces-windows-server-2025/)
 - [Amazon S3 introduces account regional namespaces for general purpose buckets](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-account-regional-namespaces/)
 - [AWS Backup adds logically air-gapped vault support for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-logically-air-gapped-vault-amazon-eks/)
-- [Amazon Neptune Database is now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-neptune-hyderabad/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

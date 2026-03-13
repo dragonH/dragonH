@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Application Signals adds new SLO capabilities](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-application-signals-adds-slo-capabilities/)
 - [Accelerate serverless application development with new SAM Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-sam-kiro-power/)
+- [Amazon EC2 R8a instances are now available in Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-tokyo/)
+- [Amazon EC2 M8azn instances are now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8azn-instances-ohio/)
 - [Amazon MSK announces support for Standard brokers Graviton-3 instance in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-standardm7g-cpt-region/)
 - [AWS Network Firewall Launch in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/03/network-firewall-european-sovereign-cloud-region/)
 - [AWS Lambda Managed Instances now supports Rust](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-lambda-managed-instances-rust/)
 - [OpenSearch UI supports Cross Account Data Access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/)
 - [New LZA MCP Server for AI-assisted configuration management](https://aws.amazon.com/about-aws/whats-new/2026/03/new-lza-mcp-server-ai-assisted/)
 - [AWS Elastic Beanstalk launches Deployments tab with in-progress deployment logs](https://aws.amazon.com/about-aws/whats-new/2026/03/elastic-beanstalk-deployments-tab/)
-- [AWS Private CA Connector for SCEP now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-connector-scep-privatelink/)
-- [AWS CDK Mixins is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-cdk-mixins/)
-- [Amazon Bedrock AgentCore Memory announces streaming notifications for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-memory-streaming-ltm/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

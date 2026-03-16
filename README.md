@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore Runtime now supports the AG-UI protocol](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-ag-ui-protocol/)
 - [Amazon CloudWatch Application Signals adds new SLO capabilities](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-application-signals-adds-slo-capabilities/)
 - [Accelerate serverless application development with new SAM Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-sam-kiro-power/)
 - [Amazon EC2 R8a instances are now available in Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-tokyo/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Hpc8a instances are now available in Asia Pacific &lpar;Tokyo&rpar; and AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-hpc8a-additional-regions/)
 - [AWS Lambda Managed Instances now supports Rust](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-lambda-managed-instances-rust/)
 - [OpenSearch UI supports Cross Account Data Access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-ui-cross-account-data-access-domains/)
-- [New LZA MCP Server for AI-assisted configuration management](https://aws.amazon.com/about-aws/whats-new/2026/03/new-lza-mcp-server-ai-assisted/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

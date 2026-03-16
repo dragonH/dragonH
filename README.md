@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Timestream for InfluxDB 3 Now Supports Expanded Multi-Node Cluster Configurations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-3-multi-node-cluster/)
 - [Announcing AWS Partner Central agents to accelerate co-sell](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agents-accelerate-co-sell/)
+- [Amazon SimpleDB now supports exporting domain data to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-simpledb-domain-export-to-amazon-s3/)
 - [Amazon Connect now enables agents to forward email contacts to external email addresses](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-forward-email-contacts/)
 - [Amazon Bedrock AgentCore Runtime now supports the AG-UI protocol](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-ag-ui-protocol/)
 - [Amazon CloudWatch Application Signals adds new SLO capabilities](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-application-signals-adds-slo-capabilities/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 R8a instances are now available in Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-tokyo/)
 - [Amazon EC2 M8azn instances are now available in US East &lpar;Ohio&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8azn-instances-ohio/)
 - [Amazon MSK announces support for Standard brokers Graviton-3 instance in Africa &lpar;Cape Town&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-standardm7g-cpt-region/)
-- [AWS Network Firewall Launch in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/03/network-firewall-european-sovereign-cloud-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

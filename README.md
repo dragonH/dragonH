@@ -65,9 +65,9 @@
 - [Amazon Bedrock AgentCore Runtime now supports shell command execution](https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-shell-command/)
 - [Amazon Corretto 26 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-corretto-26-generally-available/)
 - [Amazon RDS enhancements for SQL Server Developer Edition](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-enhancements-for-sql-server-developer-edition/)
+- [Simplified permissions for Amazon S3 Tables and Iceberg materialized views](https://aws.amazon.com/about-aws/whats-new/2026/03/gdc-simplified-permissions-s3tables-iceberg-views/)
 - [Amazon Bedrock is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-asia-pacific-new-zealand/)
 - [Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/)
-- [Amazon CloudWatch Logs now supports log ingestion using HTTP-based protocol](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-http-log-collector/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/)
 - [SageMaker HyperPod now supports idle resource sharing for dynamic cluster utilization](https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-hyperpod-idle-resource-sharing/)
 - [Amazon Neptune now supports reading S3 data using openCyper](https://aws.amazon.com/about-aws/whats-new/2026/03/neptune-read-s3-opencypher/)
 - [Amazon Timestream for InfluxDB 3 Now Supports Expanded Multi-Node Cluster Configurations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-3-multi-node-cluster/)
@@ -67,7 +68,6 @@
 - [Amazon Bedrock AgentCore Runtime now supports the AG-UI protocol](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-ag-ui-protocol/)
 - [Amazon CloudWatch Application Signals adds new SLO capabilities](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-application-signals-adds-slo-capabilities/)
 - [Accelerate serverless application development with new SAM Kiro power](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-sam-kiro-power/)
-- [Amazon EC2 R8a instances are now available in Asia Pacific &lpar;Tokyo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-tokyo/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker Training Plans now enables extending of existing capacity commitments without workload reconfiguration](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-training-plan-extension/)
+- [Amazon MSK expands Express brokers to Africa &lpar;Cape Town&rpar; and Asia Pacific &lpar;Taipei&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-express-2-new-aws-regions/)
+- [Amazon Bedrock is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-asia-pacific-new-zealand/)
 - [Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/)
 - [Amazon CloudWatch Logs now supports log ingestion using HTTP-based protocol](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-http-log-collector/)
 - [SageMaker HyperPod now supports idle resource sharing for dynamic cluster utilization](https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-hyperpod-idle-resource-sharing/)
@@ -65,9 +68,6 @@
 - [Amazon Timestream for InfluxDB 3 Now Supports Expanded Multi-Node Cluster Configurations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-3-multi-node-cluster/)
 - [Announcing AWS Partner Central agents to accelerate co-sell](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-partner-central-agents-accelerate-co-sell/)
 - [Amazon SimpleDB now supports exporting domain data to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-simpledb-domain-export-to-amazon-s3/)
-- [Amazon Connect now enables agents to forward email contacts to external email addresses](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-forward-email-contacts/)
-- [Amazon Bedrock AgentCore Runtime now supports the AG-UI protocol](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-agentcore-runtime-ag-ui-protocol/)
-- [Amazon CloudWatch Application Signals adds new SLO capabilities](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-application-signals-adds-slo-capabilities/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Redshift increases performance for new queries in dashboards and ETL workloads by up to 7x](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-increases-performance-for-new-queries/)
+- [Amazon OpenSearch Service now supports OpenSearch version 3.5](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-version-3-5/)
 - [Amazon Connect expands agentic speech-to-speech voice experiences to the London &lpar;Europe&rpar; region and adds three new voices](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-london-europe-region/)
 - [Amazon Connect voice AI agents now supports 13 new languages](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-voice-ai-agents-13-languages/)
 - [Amazon SageMaker Unified Studio supports aggregated view of data lineage](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sageMaker-unified-studio-aggregated-view -data-lineage/)
@@ -66,8 +68,6 @@
 - [Amazon MSK expands Express brokers to Africa &lpar;Cape Town&rpar; and Asia Pacific &lpar;Taipei&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-msk-express-2-new-aws-regions/)
 - [Amazon Bedrock AgentCore Runtime now supports shell command execution](https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-shell-command/)
 - [Amazon Corretto 26 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-corretto-26-generally-available/)
-- [Amazon RDS enhancements for SQL Server Developer Edition](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-enhancements-for-sql-server-developer-edition/)
-- [Simplified permissions for Amazon S3 Tables and Iceberg materialized views](https://aws.amazon.com/about-aws/whats-new/2026/03/gdc-simplified-permissions-s3tables-iceberg-views/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

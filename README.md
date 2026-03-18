@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect expands agentic speech-to-speech voice experiences to the London &lpar;Europe&rpar; region and adds three new voices](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-london-europe-region/)
+- [Amazon Connect voice AI agents now supports 13 new languages](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-voice-ai-agents-13-languages/)
 - [Amazon SageMaker Unified Studio supports aggregated view of data lineage](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sageMaker-unified-studio-aggregated-view -data-lineage/)
 - [SageMaker Training Plans now enables extending of existing capacity commitments without workload reconfiguration](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-training-plan-extension/)
 - [AWS Blu Insights is now AWS Transform for mainframe refactor](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-transform-mainframe-refactor/)
@@ -66,8 +68,6 @@
 - [Amazon Corretto 26 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-corretto-26-generally-available/)
 - [Amazon RDS enhancements for SQL Server Developer Edition](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-enhancements-for-sql-server-developer-edition/)
 - [Simplified permissions for Amazon S3 Tables and Iceberg materialized views](https://aws.amazon.com/about-aws/whats-new/2026/03/gdc-simplified-permissions-s3tables-iceberg-views/)
-- [Amazon Bedrock is now available in Asia Pacific &lpar;New Zealand&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-asia-pacific-new-zealand/)
-- [Amazon CloudWatch introduces organization-wide EC2 detailed monitoring enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-org-enablement-ec2-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

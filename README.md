@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory U7i-6TB instances now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-high-memory-u7i-6tb-asia-pacific/)
+- [Amazon ECR now supports pull through cache for Chainguard](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecr-pull-through-cache-chainguard/)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-access-grants-new-zealand/)
 - [Amazon EC2 C8a instances now available in the Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-asia-pacific-tokyo-regions/)
 - [Amazon Inspector expands agentless EC2 scanning and introduces Windows KB-based findings](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-inspector-agentless-ec2-scanning-windows/)
@@ -66,8 +68,6 @@
 - [Amazon OpenSearch Service now supports OpenSearch version 3.5](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-opensearch-service-version-3-5/)
 - [Amazon Connect expands agentic speech-to-speech voice experiences to the London &lpar;Europe&rpar; region and adds three new voices](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-london-europe-region/)
 - [AWS Elemental MediaConnect adds support for NDI® inputs](https://aws.amazon.com/about-aws/whats-new/2026/03/mediaconnect-ndi-inputs/)
-- [Amazon Connect voice AI agents now supports 13 new languages](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-voice-ai-agents-13-languages/)
-- [Amazon SageMaker Unified Studio supports aggregated view of data lineage](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-unified-studio-aggregated-lineage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

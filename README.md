@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Fleet now supports interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-fleet-interruptible-capacity-reservations/)
 - [AWS adds support for NIXL with EFA to accelerate LLM inference at scale](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8gn-instances-additional-regions/)
 - [AWS Lambda now supports Availability Zone metadata](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-availability-zone-metadata/)
@@ -67,7 +68,6 @@
 - [NVIDIA Nemotron 3 Super now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-nemotron-3-super/)
 - [Amazon ECR now supports pull through cache for Chainguard](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecr-pull-through-cache-chainguard/)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-access-grants-new-zealand/)
-- [Amazon EC2 M6in and M6idn instances are now available in Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m6in-m6idn-instances-london/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

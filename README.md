@@ -60,8 +60,8 @@
 <!-- AWS-NEWS:START -->
 - [Minimax M2.5 and GLM 5 models now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/)
 - [Amazon EC2 High Memory U7i-6TB instances now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-high-memory-u7i-6tb-asia-pacific/)
-- [NVIDIA Nemotron 3 Super now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-nemotron-3-super/)
 - [Amazon ECR now supports pull through cache for Chainguard](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecr-pull-through-cache-chainguard/)
+- [NVIDIA Nemotron 3 Super now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-nemotron-3-super/)
 - [Amazon S3 Access Grants are now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-s3-access-grants-new-zealand/)
 - [Amazon EC2 M6in and M6idn instances are now available in Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m6in-m6idn-instances-london/)
 - [Amazon EC2 C8a instances now available in the Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-asia-pacific-tokyo-regions/)

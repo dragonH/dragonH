@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS Custom for SQL Server adds ability to view and schedule new operating system updates](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-custom-sql-server-operating-system-updates/)
 - [Minimax M2.5 and GLM 5 models now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/)
 - [Amazon EC2 High Memory U7i-6TB instances now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-high-memory-u7i-6tb-asia-pacific/)
 - [NVIDIA Nemotron 3 Super now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-nemotron-3-super/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C8a instances now available in the Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8a-instances-asia-pacific-tokyo-regions/)
 - [Amazon Inspector expands agentless EC2 scanning and introduces Windows KB-based findings](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-inspector-agentless-ec2-scanning-windows/)
 - [AWS Config launches 75 new managed rules](https://aws.amazon.com/about-aws/whats-new/2026/02/aws-config-launches-new-rules/)
-- [Amazon Redshift increases performance for new queries in dashboards and ETL workloads by up to 7x](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-redshift-increases-performance-for-new-queries/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/)
 - [AWS DataSync now supports AWS Secrets Manager for all location types](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-datasync-secrets-manager/)
+- [AWS Firewall Manager launches in AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/)
 - [Amazon EC2 Fleet now supports interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-fleet-interruptible-capacity-reservations/)
 - [AWS adds support for NIXL with EFA to accelerate LLM inference at scale](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/)
 - [Amazon Redshift supports federated permissions with IAM Identity Center in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/redshift-federated-permissions-idc-mrr/)
@@ -67,7 +68,6 @@
 - [AWS Lambda now supports Availability Zone metadata](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-availability-zone-metadata/)
 - [AWS Direct Connect announces new location in Sydney, Australia](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-sydney-sy5/)
 - [Amazon RDS Custom for SQL Server adds ability to view and schedule new operating system updates](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-custom-sql-server-operating-system-updates/)
-- [Minimax M2.5 and GLM 5 models now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

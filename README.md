@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS announces 99.99% Service Level Agreement and new 8XL scaling tier for Provisioned Control Plane clusters](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-eks-announces-sla-8xl-scaling-tier/)
 - [AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/)
 - [AWS DataSync now supports AWS Secrets Manager for all location types](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-datasync-secrets-manager/)
 - [AWS Firewall Manager launches in AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8gn-instances-additional-regions/)
 - [AWS Lambda now supports Availability Zone metadata](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-availability-zone-metadata/)
 - [AWS Direct Connect announces new location in Sydney, Australia](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-sydney-sy5/)
-- [Amazon RDS Custom for SQL Server adds ability to view and schedule new operating system updates](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-custom-sql-server-operating-system-updates/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

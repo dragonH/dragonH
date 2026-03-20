@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/)
+- [AWS DataSync now supports AWS Secrets Manager for all location types](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-datasync-secrets-manager/)
 - [Amazon EC2 Fleet now supports interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-fleet-interruptible-capacity-reservations/)
 - [AWS adds support for NIXL with EFA to accelerate LLM inference at scale](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/)
 - [Amazon Redshift supports federated permissions with IAM Identity Center in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/redshift-federated-permissions-idc-mrr/)
@@ -66,8 +68,6 @@
 - [AWS Direct Connect announces new location in Sydney, Australia](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-sydney-sy5/)
 - [Amazon RDS Custom for SQL Server adds ability to view and schedule new operating system updates](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-custom-sql-server-operating-system-updates/)
 - [Minimax M2.5 and GLM 5 models now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-minimax-glm/)
-- [Amazon EC2 High Memory U7i-6TB instances now available in Asia Pacific &lpar;Malaysia&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-high-memory-u7i-6tb-asia-pacific/)
-- [NVIDIA Nemotron 3 Super now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-nemotron-3-super/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

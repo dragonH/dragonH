@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthImaging is now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-europe-london/)
 - [Amazon Bedrock AgentCore Runtime adds WebRTC support for real-time bidirectional streaming](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-webrtc/)
 - [Amazon EKS announces 99.99% Service Level Agreement and new 8XL scaling tier for Provisioned Control Plane clusters](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-eks-announces-sla-8xl-scaling-tier/)
 - [AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 Fleet now supports interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-fleet-interruptible-capacity-reservations/)
 - [AWS adds support for NIXL with EFA to accelerate LLM inference at scale](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-support-nixl-with-efa/)
 - [Amazon Redshift supports federated permissions with IAM Identity Center in multiple AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/redshift-federated-permissions-idc-mrr/)
-- [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-c8gn-instances-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

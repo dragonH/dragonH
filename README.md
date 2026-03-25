@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Batch now provides AMI status and supports AWS Health Planned Lifecycle Events](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/)
+- [Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/)
 - [AWS Batch now supports quota management and preemption for SageMaker Training jobs](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-quota-management-preemption-sagemaker/)
+- [Amazon Route 53 Profiles now supports granular IAM permissions for resource and VPC associations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-profiles-granular-iam/)
+- [Amazon SageMaker AI now supports serverless reinforcement fine-tuning for 12 additional models](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-ai-serverless-additional-models/)
 - [Amazon EC2 I7ie instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-i7ie-instances-additional-aws-regions/)
 - [AWS Backup expands support for Amazon DocumentDB to 12 Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-backup-amazon-documentdb-regions/)
 - [Amazon SageMaker HyperPod now supports continuous provisioning for Slurm-orchestrated clusters](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-hyperpod-continuous-provisioning/)
 - [Amazon Bedrock AgentCore Runtime now supports managed session storage for persistent agent filesystem state &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/bedrock-agentcore-runtime-session-storage/)
 - [Amazon Timestream for InfluxDB is now available in the Mexico &lpar;Central&rpar;, Japan &lpar;Osaka&rpar;, and Brazil &lpar;Sao Paulo&rpar; AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-influxdb-mexico-osaka-sao-paulo/)
-- [AWS HealthImaging is now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-europe-london/)
-- [AWS Neuron announces support for Dynamic Resource Allocation with Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/03/neuron-eks-dra-support/)
-- [Amazon Bedrock AgentCore Runtime adds WebRTC support for real-time bidirectional streaming](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-bedrock-webrtc/)
-- [Amazon EKS announces 99.99% Service Level Agreement and new 8XL scaling tier for Provisioned Control Plane clusters](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-eks-announces-sla-8xl-scaling-tier/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

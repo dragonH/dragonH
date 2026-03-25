@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [AWS Firewall Manager launches in AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/)
+- [Accelerate AI-assisted development with Agent Plugin for AWS Serverless](https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/)
 - [AWS Batch now provides AMI status and supports AWS Health Planned Lifecycle Events](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/)
 - [Amazon SageMaker Unified Studio launches support for remote connection from Cursor IDE](https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-cursor-ide/)
 - [Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora PostgreSQL now available with the AWS Free Tier](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-aws-free-tier/)
 - [Amazon Aurora PostgreSQL now supports creating and connecting to a database in seconds](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-database/)
 - [Amazon SageMaker AI now supports serverless reinforcement fine-tuning for 12 additional models](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-ai-serverless-additional-models/)
-- [Amazon EC2 I7ie instances now available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-i7ie-instances-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

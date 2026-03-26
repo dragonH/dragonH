@@ -65,9 +65,9 @@
 - [Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/)
 - [AWS Batch now supports quota management and preemption for SageMaker Training jobs](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-quota-management-preemption-sagemaker/)
 - [Amazon Route 53 Profiles now supports granular IAM permissions for resource and VPC associations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-profiles-granular-iam/)
+- [Amazon Quick Now Available in the AWS Tokyo Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-tokyo-region/)
 - [Amazon Aurora PostgreSQL now available with the AWS Free Tier](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-aws-free-tier/)
 - [Amazon Aurora PostgreSQL now supports creating and connecting to a database in seconds](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-database/)
-- [Amazon SageMaker AI now supports serverless reinforcement fine-tuning for 12 additional models](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-ai-serverless-additional-models/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio launches support for Kiro and Cursor IDEs as remote IDEs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-studio-kiro-cursor/)
 - [Aurora DSQL launches connector that simplifies building Ruby applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-connector-for-ruby/)
+- [AWS Lambda increases the file descriptor limit to 4,096 for functions running on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-Lambda-file-descriptors-increase-4096/)
 - [AWS AppConfig adds enhanced targeting during feature flag rollout](https://aws.amazon.com/about-aws/whats-new/2026/03/appconfig-enhanced-targeting-feature-flag-rollout/)
 - [The AWS Advanced JDBC Wrapper now supports automatic query caching with Valkey](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-jdbc-caching-with-valkey/)
 - [Amazon EC2 R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8gd-aws-regions/)
+- [Amazon EC2 M8a instances now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-europe-ireland-region/)
+- [Amazon EC2 M8a instances now available in AWS GovCloud &lpar;US-West&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-govcloud-us-west-region/)
+- [AWS Storage Gateway Terraform modules now support Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2026/03/storage-gateway-terraform-al2023/)
 - [AWS Firewall Manager launches in AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/)
-- [Accelerate AI-assisted development with Agent Plugin for AWS Serverless](https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/)
-- [AWS Batch now provides AMI status and supports AWS Health Planned Lifecycle Events](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/)
-- [Amazon SageMaker Unified Studio launches support for remote connection from Cursor IDE](https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-cursor-ide/)
-- [Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/)
-- [AWS Batch now supports quota management and preemption for SageMaker Training jobs](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-quota-management-preemption-sagemaker/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

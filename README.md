@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Aurora DSQL launches connector that simplifies building Ruby applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-connector-for-ruby/)
+- [AWS AppConfig adds enhanced targeting during feature flag rollout](https://aws.amazon.com/about-aws/whats-new/2026/03/appconfig-enhanced-targeting-feature-flag-rollout/)
+- [Amazon EC2 R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8gd-aws-regions/)
 - [AWS Firewall Manager launches in AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-firewall-manager-launches-ap-nz/)
 - [Accelerate AI-assisted development with Agent Plugin for AWS Serverless](https://aws.amazon.com/about-aws/whats-new/2026/03/agent-plugin-aws-serverless/)
 - [AWS Batch now provides AMI status and supports AWS Health Planned Lifecycle Events](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-ami-status-aws-health/)
@@ -65,9 +68,6 @@
 - [Amazon Bedrock AgentCore adds support for Chrome policies and custom root CA](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-browser-policies-root-ca/)
 - [AWS Batch now supports quota management and preemption for SageMaker Training jobs](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-batch-quota-management-preemption-sagemaker/)
 - [Amazon Route 53 Profiles now supports granular IAM permissions for resource and VPC associations](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-route-53-profiles-granular-iam/)
-- [Amazon Quick Now Available in the AWS Tokyo Region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-quick-now-available-in-the-aws-tokyo-region/)
-- [Amazon Aurora PostgreSQL now available with the AWS Free Tier](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-aws-free-tier/)
-- [Amazon Aurora PostgreSQL now supports creating and connecting to a database in seconds](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-aurora-postgresql-database/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda supports up to 32 GB of memory and 16 vCPUs for Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-32-gb-memory-16-vcpus/)
+- [AWS Management Console now supports settings to control service and Region visibility](https://aws.amazon.com/about-aws/whats-new/2026/03/account-customizations-console/)
 - [AWS HealthImaging announces study-level fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-study-level-access-control/)
 - [Amazon EC2 High Memory U7i instances now available in Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-u7i-europe-milan/)
+- [AWS Step Functions adds 28 new service integrations, including Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-step-functions-sdk-integrations/)
 - [Amazon SageMaker Studio launches support for Kiro and Cursor IDEs as remote IDEs](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-studio-kiro-cursor/)
 - [Amazon ECS Managed Instances now supports FIPS-certified workloads on Graviton and GPU accelerated instances in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-supports-fips-graviron-gpu/)
+- [Amazon EC2 I8ge instances are now generally available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-i8ge-available-new-regions/)
 - [Aurora DSQL launches connector that simplifies building Ruby applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-connector-for-ruby/)
 - [AWS Lambda increases the file descriptor limit to 4,096 for functions running on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-Lambda-file-descriptors-increase-4096/)
-- [AWS AppConfig adds enhanced targeting during feature flag rollout](https://aws.amazon.com/about-aws/whats-new/2026/03/appconfig-enhanced-targeting-feature-flag-rollout/)
-- [The AWS Advanced JDBC Wrapper now supports automatic query caching with Valkey](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-jdbc-caching-with-valkey/)
-- [Amazon EC2 R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-r8gd-aws-regions/)
-- [Amazon EC2 M8a instances now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ec2-m8a-instances-europe-ireland-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

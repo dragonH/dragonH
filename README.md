@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS Lambda supports up to 32 GB of memory and 16 vCPUs for Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/03/lambda-32-gb-memory-16-vcpus/)
 - [AWS Management Console now supports settings to control service and Region visibility](https://aws.amazon.com/about-aws/whats-new/2026/03/account-customizations-console/)
+- [Amazon GameLift Servers expands instance support with next-generation EC2 instance families](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-gamelift-servers-expands-instance-support/)
 - [AWS HealthImaging announces study-level fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-study-level-access-control/)
 - [Amazon EC2 High Memory U7i instances now available in Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-u7i-europe-milan/)
 - [AWS Step Functions adds 28 new service integrations, including Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-step-functions-sdk-integrations/)
@@ -67,7 +68,6 @@
 - [Amazon ECS Managed Instances now supports FIPS-certified workloads on Graviton and GPU accelerated instances in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-supports-fips-graviron-gpu/)
 - [Research and Engineering Studio on AWS 2026.03 is now available](https://aws.amazon.com/about-aws/whats-new/2026/03/res-2026-03-is-now-available/)
 - [AWS Parallel Computing Service supports slurmdbd and cgroups settings](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-pcs-manages-slurmdbd-cgroups-settings/)
-- [Amazon EC2 I8ge instances are now generally available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-i8ge-available-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

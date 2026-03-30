@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaTailor now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-elemental-mediatailor-london-region/)
 - [Access Cluster Insights through the Amazon OpenSearch Service Console and Amazon EventBridge events](https://aws.amazon.com/about-aws/whats-new/2026/03/access-cluster-insights-opensearch/)
 - [Amazon Timestream for InfluxDB Now Supports Advanced Metrics](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-advanced-metrics/)
 - [Amazon CloudWatch Logs now supports data protection,  OpenSearch PPL and OpenSearch SQL for the Infrequent Access ingestion class](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-infrequent-access-log-class/)
@@ -67,7 +68,6 @@
 - [AWS HealthImaging announces study-level fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthimaging-study-level-access-control/)
 - [Amazon EC2 High Memory U7i instances now available in Europe &lpar;Milan&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/ec2-u7i-europe-milan/)
 - [AWS Step Functions adds 28 new service integrations, including Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-step-functions-sdk-integrations/)
-- [Palmyra Vision 7B from Writer now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/03/palmyra-vision-7b-writer-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

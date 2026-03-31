@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now supports new fleet scaling configurations for render farms](https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/)
 - [Aurora DSQL launches new connectors that simplify building .NET and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/)
 - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
 - [Amazon ECS Managed Instances now supports Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/)
@@ -66,7 +67,6 @@
 - [AWS Private CA now publishes utilization metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-publishes-metrics/)
 - [Amazon CloudWatch Logs introduces lookup query command](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-lookup-query-command/)
 - [AWS Transform custom announces general availability of automated codebase analysis](https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-codebase-analysis/)
-- [Announcing Amazon RDS for Oracle on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-oracle-aws-outposts/)
 - [AWS Transform custom introduces new AWS-managed transformations to modernize code at scale](https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-transformations/)
 <!-- AWS-NEWS:END -->
 

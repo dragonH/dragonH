@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Managed Service for Apache Flink now supports Apache Flink 2.2](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-managed-service-flink-2-2/)
 - [AWS Deadline Cloud now supports new fleet scaling configurations for render farms](https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/)
+- [AWS Marketplace sellers can now self-serve refunds and agreement cancellations](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-marketplace-seller-self-service-refund-cancel/)
 - [Aurora DSQL launches new connectors that simplify building .NET and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/)
+- [Amazon S3 Vectors expands to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/s3-vectors-expands-17-regions/)
+- [AWS announces End User Messaging Notify](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-end-user-messaging-notify/)
 - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
 - [Amazon ECS Managed Instances now supports Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/)
 - [Amazon Bedrock AgentCore Evaluations is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-evaluations-generally-available/)
-- [AWS DevOps Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-devops-agent-generally-available/)
-- [Amazon Connect now expands testing and simulation capabilities to chats](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-expands-simulation-chat/)
-- [AWS Security Agent on-demand penetration testing is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/)
-- [AWS Private CA now publishes utilization metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-publishes-metrics/)
+- [AWS End User Messaging now supports RCS for Business](https://aws.amazon.com/about-aws/whats-new/2026/03/rcs-business-messaging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

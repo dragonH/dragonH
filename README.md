@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Apache Flink now supports Apache Flink 2.2](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-managed-service-flink-2-2/)
 - [AWS Deadline Cloud now supports new fleet scaling configurations for render farms](https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/)
 - [Aurora DSQL launches new connectors that simplify building .NET and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/)
 - [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
 - [Amazon ECS Managed Instances now supports Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/)
+- [Amazon Bedrock AgentCore Evaluations is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-evaluations-generally-available/)
 - [AWS DevOps Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-devops-agent-generally-available/)
+- [Amazon Connect now expands testing and simulation capabilities to chats](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-connect-expands-simulation-chat/)
 - [AWS Security Agent on-demand penetration testing is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/)
 - [AWS Private CA now publishes utilization metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-publishes-metrics/)
-- [Amazon CloudWatch Logs introduces lookup query command](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-lookup-query-command/)
-- [AWS Transform custom announces general availability of automated codebase analysis](https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-codebase-analysis/)
-- [AWS Transform custom introduces new AWS-managed transformations to modernize code at scale](https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-transformations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

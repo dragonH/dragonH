@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS launches Sustainability console for carbon emissions tracking](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-launches-sustainability-console/)
+- [AWS IAM Identity Center is now available in AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-iam-identity-center-european-sovereign-cloud-germany-region/)
 - [Amazon Managed Service for Apache Flink now supports Apache Flink 2.2](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-managed-service-flink-2-2/)
+- [Amazon SageMaker Unified Studio adds Observability for AWS Glue jobs via CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-metrics/)
+- [AWS Organizations now provides organization paths in API responses](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-organizations-paths-api-responses/)
 - [AWS Deadline Cloud now supports new fleet scaling configurations for render farms](https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/)
 - [AWS Marketplace sellers can now self-serve refunds and agreement cancellations](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-marketplace-seller-self-service-refund-cancel/)
 - [Aurora DSQL launches new connectors that simplify building .NET and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/)
 - [Amazon S3 Vectors expands to 17 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/s3-vectors-expands-17-regions/)
 - [AWS announces End User Messaging Notify](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-end-user-messaging-notify/)
-- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
-- [Amazon ECS Managed Instances now supports Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/)
-- [Amazon Bedrock AgentCore Evaluations is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/agentcore-evaluations-generally-available/)
-- [AWS End User Messaging now supports RCS for Business](https://aws.amazon.com/about-aws/whats-new/2026/03/rcs-business-messaging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

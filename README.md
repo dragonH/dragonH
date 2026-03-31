@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon CloudWatch now supports multi-account and region log centralization based on data source](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-centralization-datasource/)
-- [AWS Security Hub is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-hub-govcloud-us-regions/)
-- [AWS HealthOmics introduces VPC-connected workflows](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-healthomics-vpc-connected-workflows/)
-- [AWS Elemental MediaTailor now available in Europe &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-elemental-mediatailor-london-region/)
-- [Amazon Athena launches Capacity Reservations in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-athena-adding-cap-reservation-regions/)
-- [Access Cluster Insights through the Amazon OpenSearch Service Console and Amazon EventBridge events](https://aws.amazon.com/about-aws/whats-new/2026/03/access-cluster-insights-opensearch/)
-- [Amazon SageMaker Data Agent is now available in the Amazon SageMaker Unified Studio Query Editor](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sagemaker-data-agent-query-editor/)
-- [AWS Direct Connect adds CloudWatch metrics for BGP monitoring](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-direct-connect-cloudwatch-bgp-monitoring/)
-- [Amazon Timestream for InfluxDB Now Supports Advanced Metrics](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-timestream-for-influxdb-advanced-metrics/)
-- [Amazon CloudWatch Logs now supports data protection,  OpenSearch PPL and OpenSearch SQL for the Infrequent Access ingestion class](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-infrequent-access-log-class/)
+- [Aurora DSQL launches new connectors that simplify building .NET and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/)
+- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-service-availability/)
+- [Amazon ECS Managed Instances now supports Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-ecs-mi-local-storage/)
+- [AWS DevOps Agent is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-devops-agent-generally-available/)
+- [AWS Security Agent on-demand penetration testing is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-security-agent-ondemand-penetration/)
+- [AWS Private CA now publishes utilization metrics to Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-private-ca-publishes-metrics/)
+- [Amazon CloudWatch Logs introduces lookup query command](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-lookup-query-command/)
+- [AWS Transform custom announces general availability of automated codebase analysis](https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-codebase-analysis/)
+- [Announcing Amazon RDS for Oracle on AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-rds-oracle-aws-outposts/)
+- [AWS Transform custom introduces new AWS-managed transformations to modernize code at scale](https://aws.amazon.com/about-aws/whats-new/2026/03/transform-custom-new-transformations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS VPC Encryption Controls now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-vpc-encryption-controls/)
 - [Amazon CloudFront now supports SHA-256 for signed URLs and signed cookies](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudfront-sha-256-signed-urls/)
 - [Amazon RDS for Oracle now supports cross-account snapshot sharing with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/04/rds-oracle-cross-account-snapshot-sharing-additional-storage-volume/)
 - [Oracle Database@AWS launches sub-millisecond network latency for high performance applications](https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-launches-high-performance-networking/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Service introduces agentic AI for log analytics](https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-agentic-ai-log-analytics-observability/)
 - [AWS IAM Identity Center is now available in AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-iam-identity-center-european-sovereign-cloud-germany-region/)
 - [Amazon Managed Service for Apache Flink now supports Apache Flink 2.2](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-managed-service-flink-2-2/)
-- [Amazon SageMaker Unified Studio adds Observability for AWS Glue jobs via CloudWatch metrics](https://aws.amazon.com/about-aws/whats-new/2026/03/sagemaker-unified-studio-metrics/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

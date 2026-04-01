@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Managed Microsoft AD adds Multi-Region replication for Opt-In regions](https://aws.amazon.com/about-aws/whats-new/2026/04/multi-region-opt-in-aws-microsoft-ad/)
 - [Amazon CloudWatch now supports ingesting Security Hub CSPM findings with organization-wide enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-securityhub-findings/)
 - [AWS launches Sustainability console for carbon emissions tracking](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-launches-sustainability-console/)
 - [Amazon OpenSearch Service introduces agentic AI for log analytics](https://aws.amazon.com/about-aws/whats-new/2026/03/opensearch-agentic-ai-log-analytics-observability/)
@@ -67,7 +68,6 @@
 - [AWS Organizations now provides organization paths in API responses](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-organizations-paths-api-responses/)
 - [AWS Deadline Cloud now supports new fleet scaling configurations for render farms](https://aws.amazon.com/about-aws/whats-new/2026/03/deadline-cloud-fleet-scaling/)
 - [AWS Marketplace sellers can now self-serve refunds and agreement cancellations](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-marketplace-seller-self-service-refund-cancel/)
-- [Aurora DSQL launches new connectors that simplify building .NET and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/03/aurora-dsql-rust-npgsql-connectors/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

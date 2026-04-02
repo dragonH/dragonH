@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon SES Mail Manager adds new features for enhanced security and email processing](https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/)
+- [Amazon ECS announces Managed Daemons for ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-managed-daemons/)
 - [Amazon SageMaker Data Agent now supports geo-specific inference for Japan and Australia](https://aws.amazon.com/about-aws/whats-new/2026/03/sage-maker-da-infr-jp-au/)
 - [AWS VPC Encryption Controls now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-vpc-encryption-controls/)
 - [Amazon CloudFront now supports SHA-256 for signed URLs and signed cookies](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudfront-sha-256-signed-urls/)
@@ -67,7 +68,6 @@
 - [AWS Managed Microsoft AD adds Multi-Region replication for Opt-In regions](https://aws.amazon.com/about-aws/whats-new/2026/04/multi-region-opt-in-aws-microsoft-ad/)
 - [Oracle Database@AWS launches sub-millisecond network latency for high performance applications](https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-launches-high-performance-networking/)
 - [Amazon CloudWatch now supports ingesting Security Hub CSPM findings with organization-wide enablement](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-securityhub-findings/)
-- [AWS launches Sustainability console for carbon emissions tracking](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-launches-sustainability-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

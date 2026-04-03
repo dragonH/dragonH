@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv/)
+- [Amazon Bedrock Guardrails announces general availability of cross-account safeguards](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards/)
 - [Partner Revenue Measurement now supports User Agent string for certain AWS services](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/)
 - [Partner Revenue Measurement now supports AWS Marketplace Metering for certain AWS Marketplace products](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering/)
 - [AWS Secrets Manager console now supports custom input for AWS KMS keys](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-console-custom-kms-key-input/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch launches OTel Container Insights for Amazon EKS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/)
 - [AWS Deadline Cloud now supports configurable job scheduling modes for queues](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/)
 - [Announcing compute-optimized instance bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/)
-- [Amazon CloudWatch expands auto-enablement to Amazon CloudFront logs and 3 additional resource types](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cloudfront-enablement/)
-- [AWS Direct Connect announces 100G expansion in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-direct-connect-100g-auckland/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

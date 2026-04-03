@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Partner Revenue Measurement now supports User Agent string for certain AWS services](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/)
+- [Partner Revenue Measurement now supports AWS Marketplace Metering for certain AWS Marketplace products](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering/)
 - [Amazon CloudWatch introduces PromQL querying with Query Studio Preview](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-query-studio-preview/)
 - [Amazon ElastiCache Serverless now supports IPv6 and dual stack connectivity](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-elasticache-serverless-ipv6-dual-stack/)
 - [Amazon CloudWatch launches OTel Container Insights for Amazon EKS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch expands auto-enablement to Amazon CloudFront logs and 3 additional resource types](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cloudfront-enablement/)
 - [AWS Direct Connect announces 100G expansion in Auckland, New Zealand](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-direct-connect-100g-auckland/)
 - [Amazon CloudWatch now supports OpenTelemetry metrics in public preview](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-opentelemetry-metrics/)
-- [Amazon WorkSpaces Applications improves multi-session fleet management](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-applications-drain-mode/)
-- [Amazon SES Mail Manager adds new features for enhanced security and email processing](https://aws.amazon.com/about-aws/whats-new/2026/04/ses-mail-manager-introduces-new-features/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

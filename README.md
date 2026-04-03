@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Apache Spark troubleshooting and upgrade agents now available as Kiro powers](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power/)
+- [AWS Glue Schema Registry is now available in three more AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-gsr-3-more-regions/)
 - [Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv/)
 - [Amazon Bedrock Guardrails announces general availability of cross-account safeguards](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards/)
 - [Partner Revenue Measurement now supports User Agent string for certain AWS services](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/)
@@ -66,8 +68,6 @@
 - [Amazon CloudWatch introduces PromQL querying with Query Studio Preview](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-query-studio-preview/)
 - [Amazon ElastiCache Serverless now supports IPv6 and dual stack connectivity](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-elasticache-serverless-ipv6-dual-stack/)
 - [Amazon CloudWatch launches OTel Container Insights for Amazon EKS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-otel-container-insights-eks/)
-- [AWS Deadline Cloud now supports configurable job scheduling modes for queues](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-job-scheduling/)
-- [Announcing compute-optimized instance bundles for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/04/lightsail-compute-optimized-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

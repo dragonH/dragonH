@@ -62,12 +62,12 @@
 - [Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-privatelink/)
 - [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-melbourne-region/)
 - [AWS announces general availability of Smithy-Java client framework](https://aws.amazon.com/about-aws/whats-new/2026/03/smithy-java-client-framework/)
+- [AWS IoT Greengrass component SDK for C, C++, and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/04/iot-greengrass-component-sdk/)
 - [Amazon S3 starts rolling out new security best practice to new and existing buckets by default](https://aws.amazon.com/about-aws/whats-new/2026/04/s3-default-bucket-security-setting/)
 - [Amazon RDS for Oracle now supports Oracle Management Agent version 24.1.0.0.v1 for Oracle Enterprise Manager Cloud Control 24aiR1](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-oracle-supports-oracle-management-agent-version-for-oracle-enterprise-manager=cloud-control/)
 - [Apache Spark troubleshooting and upgrade agents now available as Kiro powers](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power/)
 - [AWS Glue Schema Registry is now available in three more AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-gsr-3-more-regions/)
 - [Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv/)
-- [Amazon Bedrock Guardrails announces general availability of cross-account safeguards](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

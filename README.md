@@ -62,12 +62,12 @@
 - [Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-privatelink/)
 - [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-melbourne-region/)
 - [AWS announces general availability of Smithy-Java client framework](https://aws.amazon.com/about-aws/whats-new/2026/03/smithy-java-client-framework/)
+- [Amazon RDS for Oracle now supports Oracle Management Agent version 24.1.0.0.v1 for Oracle Enterprise Manager Cloud Control 24aiR1](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-oracle-supports-oracle-management-agent-version-for-oracle-enterprise-manager=cloud-control/)
 - [Apache Spark troubleshooting and upgrade agents now available as Kiro powers](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-spark-troubleshooting-upgrade-kiro-power/)
 - [AWS Glue Schema Registry is now available in three more AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-gsr-3-more-regions/)
 - [Amazon SageMaker Data Agent introduces charting capabilities and support for materialized views](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-sgmkr-dataagent-chart-mv/)
 - [Amazon Bedrock Guardrails announces general availability of cross-account safeguards](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-guardrails-cross-account-safeguards/)
 - [Partner Revenue Measurement now supports User Agent string for certain AWS services](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-measurement-user-agent-support/)
-- [Partner Revenue Measurement now supports AWS Marketplace Metering for certain AWS Marketplace products](https://aws.amazon.com/about-aws/whats-new/2026/04/partner-revenue-supports-mp-metering/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

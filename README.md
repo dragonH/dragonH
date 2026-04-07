@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-explorer-natural-language-query/)
 - [Amazon Lightsail is now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-lightsail-malaysia/)
+- [Announcing Amazon S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/)
+- [AWS Certificate Manager now supports native certificate search](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-certificate-manager-search/)
 - [Amazon SageMaker Unified Studio adds notebook import/export and developer acceleration features](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-unified-studio/)
 - [Amazon Verified Permissions now supports policy store aliases and named policies and policy templates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-verified-permissions-policy-store/)
 - [Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-privatelink/)
 - [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-melbourne-region/)
 - [AWS announces general availability of Smithy-Java client framework](https://aws.amazon.com/about-aws/whats-new/2026/03/smithy-java-client-framework/)
 - [AWS IoT Greengrass component SDK for C, C++, and Rust applications](https://aws.amazon.com/about-aws/whats-new/2026/04/iot-greengrass-component-sdk/)
-- [Amazon S3 starts rolling out new security best practice to new and existing buckets by default](https://aws.amazon.com/about-aws/whats-new/2026/04/s3-default-bucket-security-setting/)
-- [Amazon RDS for Oracle now supports Oracle Management Agent version 24.1.0.0.v1 for Oracle Enterprise Manager Cloud Control 24aiR1](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-oracle-supports-oracle-management-agent-version-for-oracle-enterprise-manager=cloud-control/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

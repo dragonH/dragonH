@@ -61,13 +61,13 @@
 - [AWS Lambda expands response streaming support to all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-response-streaming/)
 - [AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-explorer-natural-language-query/)
 - [Amazon Lightsail is now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-lightsail-malaysia/)
+- [Amazon Bedrock now offers Claude Mythos Preview &lpar;Gated Research Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-claude-mythos/)
 - [Amazon SageMaker adds serverless workflows to Identity Center domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-serverless-workflows/)
 - [Announcing Amazon S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/)
+- [Amazon RDS for Oracle now supports M8i and R8i instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-oracle-8th-gen-instances/)
+- [AWS Transfer Family now supports IPv6 for connectors and web apps](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-ipv6-connectors-web-apps/)
 - [AWS Certificate Manager now supports native certificate search](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-certificate-manager-search/)
 - [Amazon SageMaker Unified Studio adds notebook import/export and developer acceleration features](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-unified-studio/)
-- [Amazon Verified Permissions now supports policy store aliases and named policies and policy templates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-verified-permissions-policy-store/)
-- [Amazon WorkSpaces Personal now supports unique DNS names for PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-privatelink/)
-- [Amazon FSx for OpenZFS is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-melbourne-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

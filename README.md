@@ -65,9 +65,9 @@
 - [Amazon SageMaker adds serverless workflows to Identity Center domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-serverless-workflows/)
 - [Announcing Amazon S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/)
 - [Amazon RDS for Oracle now supports M8i and R8i instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-oracle-8th-gen-instances/)
+- [Amazon Braket adds support for Rigetti&#39;s 108-qubit Cepheus QPU](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-braket-rigetti-cepheus/)
 - [AWS Transfer Family now supports IPv6 for connectors and web apps](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-ipv6-connectors-web-apps/)
-- [AWS Certificate Manager now supports native certificate search](https://aws.amazon.com/about-aws/whats-new/2026/03/aws-certificate-manager-search/)
-- [Amazon SageMaker Unified Studio adds notebook import/export and developer acceleration features](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-unified-studio/)
+- [Amazon Aurora now supports PostgreSQL 17.9, 16.13, 15.17, and 14.22](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-aurora-postgresql-17-9-16-13-15-17-14-22/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

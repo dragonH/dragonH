@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore Browser adds OS-level interaction capabilities](https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-browser-os-actions/)
 - [Amazon OpenSearch Service now supports Graviton4 based i8ge instances](https://aws.amazon.com/about-aws/whats-new/2026/4/amazon-opensearch-service-supports-i8ge/)
 - [Oracle Database@AWS is now available in twelve AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-available-twelve-regions/)
 - [AWS Lambda expands response streaming support to all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-response-streaming/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker adds serverless workflows to Identity Center domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-serverless-workflows/)
 - [Announcing Amazon S3 Files, making S3 buckets accessible as file systems](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-s3-files/)
 - [Amazon RDS for Oracle now supports M8i and R8i instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-oracle-8th-gen-instances/)
-- [Amazon Braket adds support for Rigetti&#39;s 108-qubit Cepheus QPU](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-braket-rigetti-cepheus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

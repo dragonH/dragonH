@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service supports Managed Prometheus and agent tracing](https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing/)
 - [Amazon S3 Lifecycle pauses actions on objects that are unable to replicate](https://aws.amazon.com/about-aws/whats-new/2026/03/s3-lifecycle-pauses-actions-on-objects/)
+- [Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy](https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green/)
+- [Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy](https://aws.amazon.com/about-aws/whats-new/2026/04/rds-blue-green-proxy/)
 - [AWS Marketplace announces the Discovery API for programmatic access to catalog data](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api/)
 - [AWS Agent Registry for centralized agent discovery and governance is now available in Preview](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview/)
 - [Amazon EC2 Capacity Manager now supports tag-based dimensions](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions/)
 - [SageMaker HyperPod now supports gang scheduling for distributed training workloads](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-gang-scheduling/)
 - [Amazon IVS Real-Time Streaming now supports redundant ingest](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-real-time-streaming-redundant-ingest/)
 - [Amazon EKS managed node groups now support EC2 Auto Scaling warm pools](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-managed-node-groups-ec2-warm-pools/)
-- [Amazon Bedrock AgentCore Browser adds OS-level interaction capabilities](https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-browser-os-actions/)
-- [Amazon WorkSpaces Advisor now available for AI-powered troubleshooting](https://aws.amazon.com/about-aws/whats-new/2026/04/workspaces-advisor-ai-troubleshooting/)
-- [Amazon OpenSearch Service now supports Graviton4 based i8ge instances](https://aws.amazon.com/about-aws/whats-new/2026/4/amazon-opensearch-service-supports-i8ge/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

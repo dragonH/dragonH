@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 Capacity Manager now supports tag-based dimensions](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions/)
 - [SageMaker HyperPod now supports gang scheduling for distributed training workloads](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-gang-scheduling/)
 - [Amazon IVS Real-Time Streaming now supports redundant ingest](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-real-time-streaming-redundant-ingest/)
 - [Amazon EKS managed node groups now support EC2 Auto Scaling warm pools](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-managed-node-groups-ec2-warm-pools/)
@@ -67,7 +68,6 @@
 - [Oracle Database@AWS is now available in twelve AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/oracle-database-aws-available-twelve-regions/)
 - [AWS Lambda expands response streaming support to all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-response-streaming/)
 - [AWS Cost Explorer launches Natural Language Query capabilities powered by Amazon Q](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-explorer-natural-language-query/)
-- [Amazon Lightsail is now available in the Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-lightsail-malaysia/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

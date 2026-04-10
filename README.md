@@ -67,7 +67,7 @@
 - [AWS Marketplace announces the Discovery API for programmatic access to catalog data](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api/)
 - [AWS Agent Registry for centralized agent discovery and governance is now available in Preview](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview/)
 - [Amazon OpenSearch Serverless now supports Zstandard &lpar;zstd&rpar; codec for index compression](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-zstandard-index-compression/)
-- [Amazon EC2 Capacity Manager now supports tag-based dimensions](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions/)
+- [AWS Private CA now supports customer managed permissions for cross-account sharing](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-private-ca-customer-managed-permissions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

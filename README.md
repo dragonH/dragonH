@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch pipelines now supports drop and conditional processing](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-conditional/)
+- [AWS Deadline Cloud supports monitor creation in multiple regions](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-monitor-creation/)
+- [Amazon CloudWatch pipelines introduces new compliance and governance capabilities](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudwatch-pipelines-compliance-governance/)
 - [Second-generation Amazon FSx for NetApp ONTAP is now available in four additional AWS commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/second-gen-amazon-fsx-ontap-regions/)
 - [AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/)
 - [AWS Backup extends Amazon FSx support to 5 additional AWS Regions and expands cross-Region and cross-account copy to 14 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/backup-extends-fsx-support/)
+- [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-supports-latest-cu-gdr-updates-microsoft-sq-server/)
 - [Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows/)
 - [Amazon Bedrock now supports cost allocation by IAM user and role](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation/)
 - [Amazon OpenSearch Service supports Managed Prometheus and agent tracing](https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing/)
-- [Amazon S3 Lifecycle pauses actions on objects that are unable to replicate](https://aws.amazon.com/about-aws/whats-new/2026/03/s3-lifecycle-pauses-actions-on-objects/)
-- [Amazon RDS Blue/Green Deployments now supports Amazon RDS Proxy](https://aws.amazon.com/about-aws/whats-new/2026/04/rds-proxy-blue-green/)
-- [AWS Marketplace announces the Discovery API for programmatic access to catalog data](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-discovery-api/)
-- [AWS Agent Registry for centralized agent discovery and governance is now available in Preview](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/)
 - [Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows/)
 - [Amazon Bedrock now supports cost allocation by IAM user and role](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-iam-cost-allocation/)
 - [Amazon OpenSearch Service supports Managed Prometheus and agent tracing](https://aws.amazon.com/about-aws/whats-new/2026/04/opensearch-managed-prometheus-agent-tracing/)
@@ -67,7 +68,6 @@
 - [AWS Agent Registry for centralized agent discovery and governance is now available in Preview](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-agent-registry-in-agentcore-preview/)
 - [Amazon OpenSearch Serverless now supports Zstandard &lpar;zstd&rpar; codec for index compression](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-zstandard-index-compression/)
 - [Amazon EC2 Capacity Manager now supports tag-based dimensions](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-capacity-manager-tag-based-dimensions/)
-- [SageMaker HyperPod now supports gang scheduling for distributed training workloads](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-gang-scheduling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

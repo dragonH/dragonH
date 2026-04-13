@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT is now available in Israel &lpar;Tel Aviv&rpar; and Europe &lpar;Milan&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-israel-tel-aviv-europe-milan/)
+- [AWS Elastic Disaster Recovery now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-elastic-disaster-recovery-ipv6/)
 - [Amazon EC2 X8i instances are now available in Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region/)
 - [Amazon CloudWatch pipelines now supports drop and conditional processing](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-conditional/)
 - [AWS Deadline Cloud supports monitor creation in multiple regions](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-monitor-creation/)
@@ -66,8 +68,6 @@
 - [AWS Billing and Cost Management Dashboards Now Supports Scheduled Email Delivery](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-and-cost-management-dashboards-scheduled-email-delivery/)
 - [AWS RTB Fabric supports health checks for real-time bidding workloads](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-rtb-fabric-health-checks/)
 - [AWS Backup extends Amazon FSx support to 5 additional AWS Regions and expands cross-Region and cross-account copy to 14 AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/backup-extends-fsx-support/)
-- [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-supports-latest-cu-gdr-updates-microsoft-sq-server/)
-- [Amazon Timestream for InfluxDB Now Supports Customer-Defined Maintenance Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/timestream-influxdb-maintenance-windows/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon OpenSearch Serverless now supports Derived Source for storage optimization](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-derived-source/)
 - [Amazon Redshift introduces key  performance  optimization for Top-K queries](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-topk-optimization/)
+- [Amazon Quick now supports document-level access controls for Google Drive knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-google-drive/)
 - [Aurora DSQL launches connector that simplifies building PHP applications](https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-dsql-connector-for-php/)
 - [Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-m8i-flex-govcloud-us-west/)
 - [Amazon CloudWatch Logs Insights now supports saved queries with parameters](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-logs-insights-query-params/)
@@ -67,7 +68,6 @@
 - [AWS IoT is now available in Israel &lpar;Tel Aviv&rpar; and Europe &lpar;Milan&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-israel-tel-aviv-europe-milan/)
 - [Amazon FSx now supports copying file system backups across AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-copying-backups-opt-in-regions/)
 - [AWS Elastic Disaster Recovery now supports IPv6](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-elastic-disaster-recovery-ipv6/)
-- [Amazon EC2 X8i instances are now available in Europe &lpar;Paris&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8i-instances-CDG-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

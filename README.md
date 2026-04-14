@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8gn, M8gn, and R8gn instances now support higher Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8gn-m8gn-r8gn-ebs/)
 - [NVIDIA Nemotron-3-Super-120B, Qwen3.5-9B, and Qwen3.5-27B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/nemotron3super-120b-qwen3.5-9b-qwen3.5-27b-on-sagemaker-jumpstart/)
 - [Amazon OpenSearch Serverless now supports Derived Source for storage optimization](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-serverless-supports-derived-source/)
 - [Amazon Redshift introduces key  performance  optimization for Top-K queries](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-topk-optimization/)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch Logs Insights now supports saved queries with parameters](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-logs-insights-query-params/)
 - [Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-r8i-instances-govcloud-us-west/)
 - [AWS IoT is now available in Israel &lpar;Tel Aviv&rpar; and Europe &lpar;Milan&rpar; AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-israel-tel-aviv-europe-milan/)
-- [Amazon FSx now supports copying file system backups across AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-copying-backups-opt-in-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

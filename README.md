@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 P6-B300 instances are now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-p6-b300-govcloud-us-east/)
 - [AWS Transform is now available in Kiro and VS Code](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-kiro-vscode/)
 - [AWS Secrets Manager now supports hybrid post-quantum TLS to protect secrets from quantum threats](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-post-quantum-tls/)
 - [Amazon EC2 C8gn, M8gn, and R8gn instances now support higher Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8gn-m8gn-r8gn-ebs/)
@@ -67,7 +68,6 @@
 - [Amazon Quick now supports document-level access controls for Google Drive knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-document-level-access-controls-google-drive/)
 - [Aurora DSQL launches connector that simplifies building PHP applications](https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-dsql-connector-for-php/)
 - [Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-m8i-flex-govcloud-us-west/)
-- [Amazon CloudWatch Logs Insights now supports saved queries with parameters](https://aws.amazon.com/about-aws/whats-new/2026/03/cloudwatch-logs-insights-query-params/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules/)
 - [AWS Elastic Disaster Recovery is now available in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/drs-thf/)
 - [Amazon Quick now supports multi-account sign-in within the same browser](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-multi-account-sign-in/)
 - [Claude Opus 4.7 is now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/04/claude-opus-4.7-amazon-bedrock/)
@@ -67,7 +68,6 @@
 - [AWS Transform is now available in Kiro and VS Code](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-kiro-vscode/)
 - [AWS Secrets Manager now supports hybrid post-quantum TLS to protect secrets from quantum threats](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-secrets-manager-post-quantum-tls/)
 - [AWS announces general availability of AWS Interconnect - multicloud](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-announces-ga-AWS-interconnect-multicloud/)
-- [Amazon EC2 C8gn, M8gn, and R8gn instances now support higher Amazon EBS-optimized performance](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8gn-m8gn-r8gn-ebs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

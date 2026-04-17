@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific &lpar;Singapore&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-high-memory-u7i-asia-pacific/)
 - [AWS Deadline Cloud announces AI-powered troubleshooting assistant for render jobs](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-ai-troubleshooting/)
 - [Amazon Managed Grafana now supports creating Grafana 12.4 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-managed-grafana-v12-create/)
 - [SageMaker JumpStart now offers optimized deployments for foundation models](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-jumpstart-optimized-deployments/)
@@ -67,7 +68,6 @@
 - [Amazon WorkSpaces Personal and Amazon WorkSpaces Core are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-available-two-new-regions/)
 - [Amazon FSx for Lustre Persistent-2 file systems are now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-lustre-persistent-2-aws/)
 - [Amazon EC2 X8aedz instances are now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-x8aedz-instances-stockholm/)
-- [Introducing Amazon EC2 C8in and C8ib instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8in-c8ib-instances-ga/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

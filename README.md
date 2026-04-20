@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports in-place upgrade from version 5.0 to 8.0](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0/)
+- [Amazon EKS enhances cluster governance with new IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-iam-condition-keys/)
+- [Amazon S3 Express One Zone now supports S3 Inventory](https://aws.amazon.com/about-aws/whats-new/2026/04/s3-express-one-zone-supports-s3-inventory/)
 - [Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific &lpar;Singapore&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-high-memory-u7i-asia-pacific/)
 - [Amazon SageMaker HyperPod now supports flexible instance groups](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-flexible-instance-groups/)
 - [Amazon ECR Pull Through Cache Now Supports Referrer Discovery and Sync](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecr-pull-through-cache-referrers/)
@@ -65,9 +68,6 @@
 - [Amazon Connect flow modules now work across all flow types and within other modules](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-flow-modules-enhancements/)
 - [Amazon Managed Grafana now supports creating Grafana 12.4 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-managed-grafana-v12-create/)
 - [AWS Clean Rooms now supports configurable Spark properties for PySpark](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-clean-rooms-configurable-properties-pyspark/)
-- [SageMaker JumpStart now offers optimized deployments for foundation models](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-jumpstart-optimized-deployments/)
-- [Amazon CloudWatch RUM now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/03/amazon-cloudwatch-rum-european-sovereign-cloud/)
-- [Amazon CloudWatch now supports cross-region telemetry auditing and enablement rules](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-cross-region-enablement-rules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

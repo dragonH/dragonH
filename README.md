@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EBS expands volume modification enhancement to AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ebs-four-volume-modifications-european-sovereign-region/)
+- [Amazon EVS now offers Microsoft Windows Server Licensing](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-windows-server-licensing/)
+- [AWS IoT Greengrass v2.17 now supports non-root installation and introduces new light weight components](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-greengrass-v217/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports in-place upgrade from version 5.0 to 8.0](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0/)
 - [Amazon EKS enhances cluster governance with new IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-iam-condition-keys/)
 - [Amazon S3 Express One Zone now supports S3 Inventory](https://aws.amazon.com/about-aws/whats-new/2026/04/s3-express-one-zone-supports-s3-inventory/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 High Memory U7i instances now available in AWS Asia Pacific &lpar;Singapore&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-high-memory-u7i-asia-pacific/)
 - [Amazon SageMaker HyperPod now supports flexible instance groups](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-hyperpod-flexible-instance-groups/)
 - [Amazon ECR Pull Through Cache Now Supports Referrer Discovery and Sync](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecr-pull-through-cache-referrers/)
-- [AWS Deadline Cloud announces AI-powered troubleshooting assistant for render jobs](https://aws.amazon.com/about-aws/whats-new/2026/04/deadline-cloud-ai-troubleshooting/)
-- [Amazon Connect flow modules now work across all flow types and within other modules](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-flow-modules-enhancements/)
-- [Amazon Managed Grafana now supports creating Grafana 12.4 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-managed-grafana-v12-create/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

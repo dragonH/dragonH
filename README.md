@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Outbound Campaigns now supports contact priority ordering](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/)
 - [Amazon EBS expands volume modification enhancement to AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ebs-four-volume-modifications-european-sovereign-region/)
 - [Amazon EVS now offers Microsoft Windows Server Licensing](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-windows-server-licensing/)
 - [AWS IoT Greengrass v2.17 now supports non-root installation and introduces new light weight components](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-iot-greengrass-v217/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports in-place upgrade from version 5.0 to 8.0](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-mongodb-in-place-version-upgrade-5-0-to-8-0/)
 - [Amazon EKS enhances cluster governance with new IAM condition keys](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-iam-condition-keys/)
+- [Amazon Connect outbound campaigns now supports hourly segment refresh](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-campaign-hourly-refresh/)
 - [Amazon MSK Replicator now supports log forwarding for replication visibility](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-logs/)
 - [Amazon MSK Replicator now supports enhanced consumer offset synchronization for bidirectional replication](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-enhanced-consumer-offset-synchronization/)
 - [MSK Replicator now supports replication from external Apache Kafka clusters to MSK Express Brokers](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-external-kafka-cluster-support/)
-- [Amazon S3 Express One Zone now supports S3 Inventory](https://aws.amazon.com/about-aws/whats-new/2026/04/s3-express-one-zone-supports-s3-inventory/)
-- [AWS Managed Microsoft AD is now available on Windows functional level 2016](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-managed-microsoft-ad-2016-functional-level/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

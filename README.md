@@ -62,12 +62,12 @@
 - [AWS Marketplace streamlines VAT payment for deemed supply transactions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/)
 - [Amazon Athena Spark adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink/)
 - [AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/)
+- [Amazon CloudWatch pipelines now supports configuration of processors via AI](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-ai-configuration/)
+- [AWS Glue now supports OAuth 2.0 for Snowflake connectivity](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-oauth-snowflake-connectivity/)
 - [AWS Transform custom is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions/)
 - [Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/)
 - [Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero](https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-serverless-smarter-scaling/)
 - [AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies](https://aws.amazon.com/about-aws/whats-new/2026/04/backup-policies-aurora-dsql-redshift-serverless/)
-- [AWS Lambda Durable Execution SDK for Java GA](https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-execution-java-ga/)
-- [Amazon Connect Outbound Campaigns now supports contact priority ordering](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

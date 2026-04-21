@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Aurora serverless: Up to 30% better performance, smarter scaling, and still scales to zero](https://aws.amazon.com/about-aws/whats-new/2026/04/aurora-serverless-smarter-scaling/)
 - [Amazon Connect Outbound Campaigns now supports contact priority ordering](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/)
 - [Amazon EBS expands volume modification enhancement to AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ebs-four-volume-modifications-european-sovereign-region/)
 - [Amazon EVS now offers Microsoft Windows Server Licensing](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-evs-windows-server-licensing/)
@@ -67,7 +68,6 @@
 - [Amazon Connect outbound campaigns now supports hourly segment refresh](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-campaign-hourly-refresh/)
 - [Amazon MSK Replicator now supports log forwarding for replication visibility](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-logs/)
 - [Amazon MSK Replicator now supports enhanced consumer offset synchronization for bidirectional replication](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-enhanced-consumer-offset-synchronization/)
-- [MSK Replicator now supports replication from external Apache Kafka clusters to MSK Express Brokers](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-msk-replicator-external-kafka-cluster-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

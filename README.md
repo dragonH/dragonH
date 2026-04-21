@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker now supports multi-region replication from IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/)
 - [AWS Marketplace streamlines VAT payment for deemed supply transactions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/)
 - [Amazon Athena Spark adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink/)
 - [AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/)
@@ -67,7 +68,6 @@
 - [AWS Backup adds Amazon Redshift Serverless and Aurora DSQL support for AWS Organizations backup policies](https://aws.amazon.com/about-aws/whats-new/2026/04/backup-policies-aurora-dsql-redshift-serverless/)
 - [AWS Lambda Durable Execution SDK for Java GA](https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-execution-java-ga/)
 - [Amazon Connect Outbound Campaigns now supports contact priority ordering](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-priority-dialing/)
-- [Amazon EBS expands volume modification enhancement to AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ebs-four-volume-modifications-european-sovereign-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

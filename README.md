@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Unified Studio now supports multiple code spaces within projects for IAM domains](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-code-spaces/)
 - [Amazon EC2 C8i-flex instances are now available in Europe &lpar;Ireland, London&rpar;, and Asia Pacific &lpar;New Zealand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-flex-instances-europe-ireland-europe-london-asia-pacific-new-zealand-regions/)
 - [Amazon EC2 C8i instances are now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;New Zealand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-instances-europe-ireland-asia-pacific-new-zealand-regions/)
 - [Enhancements to AWS Network Firewall Managed Rules from AWS Marketplace Partners](https://aws.amazon.com/about-aws/whats-new/2026/04/marketplace-managed-rules-enhancements/)
@@ -65,9 +66,8 @@
 - [Amazon EC2 announces Managed resource visibility settings](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility/)
 - [AWS Secrets Manager extends managed external secrets to MongoDB Atlas and Confluent Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/secrets-manager-managed-external-secrets-mongodb-confluent/)
 - [Amazon Bedrock AgentCore adds new features to help developers build agents faster](https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-new-features-to-build-agents-faster/)
+- [Amazon IVS Low-Latency Streaming now supports server-side ad insertion](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ivs-low-latency-streaming-server-side-ad-insertion/)
 - [Amazon EC2 for SQL Server HA now supports health notifications](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-sql-ha-health-notifications/)
-- [Amazon Corretto April 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-corretto-april-2026-quarterly-updates/)
-- [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-custom-sql-server-supports-latest-gdr-updates-for-microsoft-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

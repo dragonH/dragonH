@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon SageMaker now supports multi-region replication from IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/)
+- [Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart/)
 - [Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/)
 - [AWS Marketplace streamlines VAT payment for deemed supply transactions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/)
 - [Amazon Athena Spark adds support for AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena-spark-aws-privatelink/)
@@ -67,7 +68,6 @@
 - [AWS Glue now supports OAuth 2.0 for Snowflake connectivity](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-oauth-snowflake-connectivity/)
 - [AWS Transform custom is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions/)
 - [Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/)
-- [Amazon Location Service now offers bulk address validation for the United States, Canada, Australia, and the United Kingdom](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-location-service-bulk-address-validation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

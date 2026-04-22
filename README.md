@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Secrets Manager extends managed external secrets to MongoDB Atlas and Confluent Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/secrets-manager-managed-external-secrets-mongodb-confluent/)
+- [Amazon SageMaker AI launches optimized generative AI inference recommendations](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-ai-inference-rec/)
 - [Amazon SageMaker now supports multi-region replication from IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/)
 - [Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart/)
 - [Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/)
@@ -66,8 +68,6 @@
 - [AWS Lambda functions can now mount Amazon S3 buckets as file systems with S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-amazon-s3/)
 - [Amazon CloudWatch pipelines now supports configuration of processors via AI](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-pipelines-ai-configuration/)
 - [AWS Glue now supports OAuth 2.0 for Snowflake connectivity](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-oauth-snowflake-connectivity/)
-- [AWS Transform custom is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-atx-custom-additional-regions/)
-- [Amazon EC2 G7e instances now available in AWS Local Zones in Los Angeles](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-g7e-instances-local-zones/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

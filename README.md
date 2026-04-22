@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8i-flex instances are now available in Europe &lpar;Ireland, London&rpar;, and Asia Pacific &lpar;New Zealand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-flex-instances-europe-ireland-europe-london-asia-pacific-new-zealand-regions/)
+- [Amazon EC2 C8i instances are now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;New Zealand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-instances-europe-ireland-asia-pacific-new-zealand-regions/)
 - [Enhancements to AWS Network Firewall Managed Rules from AWS Marketplace Partners](https://aws.amazon.com/about-aws/whats-new/2026/04/marketplace-managed-rules-enhancements/)
 - [Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5/)
+- [Amazon EC2 announces Managed resource visibility settings](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility/)
 - [AWS Secrets Manager extends managed external secrets to MongoDB Atlas and Confluent Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/secrets-manager-managed-external-secrets-mongodb-confluent/)
 - [Amazon Bedrock AgentCore adds new features to help developers build agents faster](https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-new-features-to-build-agents-faster/)
 - [Amazon EC2 for SQL Server HA now supports health notifications](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-sql-ha-health-notifications/)
 - [Amazon Corretto April 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-corretto-april-2026-quarterly-updates/)
-- [Amazon OpenSearch Service now supports rollback for service software updates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-now-supports-rollback-for-service-software-updates/)
-- [Amazon SageMaker AI launches optimized generative AI inference recommendations](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-ai-inference-rec/)
-- [Amazon SageMaker now supports multi-region replication from IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/)
-- [Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart/)
+- [AWS Lambda durable functions are now available in 16 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/lambda-durable-functions-16-new-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

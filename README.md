@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Enhancements to AWS Network Firewall Managed Rules from AWS Marketplace Partners](https://aws.amazon.com/about-aws/whats-new/2026/04/marketplace-managed-rules-enhancements/)
+- [Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5/)
 - [AWS Secrets Manager extends managed external secrets to MongoDB Atlas and Confluent Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/secrets-manager-managed-external-secrets-mongodb-confluent/)
+- [Amazon Bedrock AgentCore adds new features to help developers build agents faster](https://aws.amazon.com/about-aws/whats-new/2026/04/agentcore-new-features-to-build-agents-faster/)
 - [Amazon EC2 for SQL Server HA now supports health notifications](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-sql-ha-health-notifications/)
 - [Amazon Corretto April 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-corretto-april-2026-quarterly-updates/)
 - [Amazon OpenSearch Service now supports rollback for service software updates](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-now-supports-rollback-for-service-software-updates/)
 - [Amazon SageMaker AI launches optimized generative AI inference recommendations](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-ai-inference-rec/)
 - [Amazon SageMaker now supports multi-region replication from IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/04/smus-identity-center/)
 - [Five new Qwen models for coding agents and efficient reasoning are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/qwen-models-on-sagemaker-jumpstart/)
-- [Introducing the Amazon EKS Hybrid Nodes gateway for hybrid Kubernetes networking](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-hybrid-nodes-gateway/)
-- [AWS Marketplace streamlines VAT payment for deemed supply transactions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-vat/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

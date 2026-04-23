@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Parallel Computing Service now supports Slurm 25.11](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-pcs-slurm-25-11/)
 - [Amazon SageMaker supports notebooks and data agent for IdC domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc/)
 - [Attributed Revenue Dashboard Now Available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch/)
 - [AWS Elastic Beanstalk AI-powered environment analysis now supports Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows/)
@@ -66,8 +67,7 @@
 - [Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/)
 - [Amazon Quick now supports permission verification for ACL-enabled knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/)
 - [Amazon S3 now supports five additional checksum algorithms](https://aws.amazon.com/about-aws/whats-new/2026/04/s3-five-additional-checksum-algorithms/)
-- [Amazon SageMaker Unified Studio now supports VPC for notebook kernels](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-unified-studio-vpc/)
-- [Amazon SageMaker Unified Studio now supports multiple code spaces within projects for IAM domains](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-code-spaces/)
+- [AWS Backup expands support for Amazon Aurora PITR to six Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-backup-amazon-aurora-pitr/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

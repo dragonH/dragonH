@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Athena simplifies federated queries with managed connectors](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena/)
 - [AWS Parallel Computing Service now supports Slurm 25.11](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-pcs-slurm-25-11/)
+- [Amazon SageMaker HyperPod now supports automatic Slurm topology management](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-automatic-slurm-topology/)
 - [Amazon SageMaker supports notebooks and data agent for IdC domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc/)
 - [Attributed Revenue Dashboard Now Available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch/)
 - [AWS Elastic Beanstalk AI-powered environment analysis now supports Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows/)
@@ -67,7 +68,6 @@
 - [Amazon Quick now supports multiple owners for admin-managed SharePoint and Google Drive knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint/)
 - [Amazon EC2 X8g instances now available in Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-x8g-instances-europe-ireland/)
 - [Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/)
-- [Amazon Quick now supports permission verification for ACL-enabled knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

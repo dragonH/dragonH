@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Attributed Revenue Dashboard Now Available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch/)
+- [AWS Elastic Beanstalk AI-powered environment analysis now supports Windows](https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-ai-analysis-windows/)
+- [Second-generation AWS Outposts racks now supported in the AWS Asia Pacific &lpar;Seoul, Sydney&rpar; and Europe &lpar;Paris&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/second-generation-aws-outposts-racks-sydney-seoul-paris/)
+- [Amazon Quick now supports multiple owners for admin-managed SharePoint and Google Drive knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-sharepoint/)
 - [Amazon Redshift supports UPDATE, DELETE, MERGE for Apache Iceberg tables](https://aws.amazon.com/about-aws/whats-new/2026/04/redshift-update-delete-merge-iceberg-tables/)
+- [Amazon Quick now supports permission verification for ACL-enabled knowledge bases](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-acl/)
+- [Amazon S3 now supports five additional checksum algorithms](https://aws.amazon.com/about-aws/whats-new/2026/04/s3-five-additional-checksum-algorithms/)
 - [Amazon SageMaker Unified Studio now supports VPC for notebook kernels](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-unified-studio-vpc/)
 - [Amazon SageMaker Unified Studio now supports multiple code spaces within projects for IAM domains](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-code-spaces/)
 - [Amazon EC2 C8i-flex instances are now available in Europe &lpar;Ireland, London&rpar;, and Asia Pacific &lpar;New Zealand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-flex-instances-europe-ireland-europe-london-asia-pacific-new-zealand-regions/)
-- [Amazon EC2 C8i instances are now available in Europe &lpar;Ireland&rpar; and Asia Pacific &lpar;New Zealand&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-c8i-instances-europe-ireland-asia-pacific-new-zealand-regions/)
-- [Enhancements to AWS Network Firewall Managed Rules from AWS Marketplace Partners](https://aws.amazon.com/about-aws/whats-new/2026/04/marketplace-managed-rules-enhancements/)
-- [Amazon SageMaker AI now supports serverless model customization for Qwen3.5 models](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-ft-qwen3-5/)
-- [Amazon EC2 announces Managed resource visibility settings](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-managed-resource-visibility/)
-- [Introducing GPU Health Monitoring and Auto Repair for Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-gpu-auto-repair/)
-- [AWS Secrets Manager extends managed external secrets to MongoDB Atlas and Confluent Cloud](https://aws.amazon.com/about-aws/whats-new/2026/04/secrets-manager-managed-external-secrets-mongodb-confluent/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

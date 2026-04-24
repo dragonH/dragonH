@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i/)
+- [Amazon Quick now integrates with Visier’s Vee agent for workforce intelligence](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-visier-vee/)
+- [Amazon Bedrock AgentCore Gateway and Identity support VPC egress](https://aws.amazon.com/about-aws/whats-new/2024/04/agentcore-gateway-identity-vpc/)
 - [Amazon Connect now provides eight new metrics to measure and improve AI agent performance](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-ai-agent-metrics/)
+- [Amazon EC2 High Memory U7i instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-high-memory-u7i/)
 - [AWS Marketplace Management Portal now supports bank account deletion](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-marketplace-management-portal/)
+- [AWS Deadline Cloud now supports custom scripting for job submission workflows](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-deadline-cloud/)
 - [Amazon Athena simplifies federated queries with managed connectors](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-athena/)
 - [AWS Client VPN now supports native AWS Transit Gateway integration](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-client-vpn-transit-gateway/)
 - [Amazon SageMaker HyperPod now supports automatic Slurm topology management](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-automatic-slurm-topology/)
 - [AWS Parallel Computing Service now supports Slurm 25.11](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-pcs-slurm-25-11/)
-- [Amazon SageMaker supports notebooks and data agent for IdC domains](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-idc/)
-- [AWS Compute Optimizer supports 162 new EC2 instance types and 32 new RDS DB instance classes](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-compute-optimizer-ec2-rds/)
-- [Attributed Revenue Dashboard Now Available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/04/attributed-revenue-dashboard-launch/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

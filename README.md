@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions/)
 - [AWS Cost Optimization Hub now supports CSV download](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-optimization-hub-csv-download/)
+- [Amazon WorkSpaces Personal enhances PCoIP to DCV protocol migration](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-pcoip/)
 - [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8gn-milan-hong-kong/)
 - [Amazon Connect Talent for AI-powered hiring &lpar;now available in Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered/)
 - [Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents &lpar;Limited Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents/)
@@ -67,7 +68,6 @@
 - [Build custom applications using natural language in Amazon Quick &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications/)
 - [Amazon Quick now available as a desktop application for macOS and Windows &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/)
 - [Amazon Quick now supports document and visual creation in chat](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick/)
-- [Start using Amazon Quick for free in minutes with Free and Plus pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

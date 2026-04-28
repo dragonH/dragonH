@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Talent for AI-powered hiring &lpar;now available in Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered/)
+- [Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents &lpar;Limited Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents/)
+- [AWS Announces Amazon Connect Decisions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/)
+- [Amazon Quick now available as a desktop application for macOS and Windows &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/)
+- [Amazon Quick now supports document and visual creation in chat](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick/)
+- [Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom/)
+- [Start using Amazon Quick for free in minutes with Free and Plus pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-free-plus/)
 - [Amazon Redshift Serverless AI-driven scaling is now the default for new workgroups](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-ai-driven-scaling-default/)
 - [AWS KMS now tracks last usage of all KMS keys](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-kms-tracks-last-usage-kms-keys/)
 - [Amazon Redshift Serverless is now available in the AWS Asia Pacific &lpar;Melbourne&rpar; and Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-redshift-serverless-melbourne-calgary-regions/)
-- [Amazon Connect increases attachment file sizes and adds custom file types](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-increases-attachment/)
-- [AWS Billing Conductor launches Passthrough Pricing Plan for Billing Transfer users](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-billing-conductor-launches-passthrough/)
-- [Amazon FSx for OpenZFS Single-AZ &lpar;HA&rpar; file systems are now available in 17 additional AWS commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-fsx-openzfs-single-az-ha/)
-- [Amazon SageMaker HyperPod now supports G7e and r5d.16xlarge instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-sagemaker-hyperpod-g7e-r5d/)
-- [Introducing Amazon EC2 M8in and M8ib instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-m8in-m8ib/)
-- [Introducing Amazon EC2 R8in and R8ib instances](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-r8in-r8ib/)
-- [Introducing Amazon EC2 C8ine and M8ine instances](https://aws.amazon.com/about-aws/whats-new/2026/04/ec2-c8ine-m8ine/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

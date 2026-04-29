@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/)
+- [Paraphrase-multilingual-MiniLM-L12-v2, Table Transformer Detection, and Bielik-11B-v3.0-Instruct are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/paraphrase-multilingual-table-transformer-bielik-on-sagemaker-jumpstart/)
+- [Gemma 4 models are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/gemma-4-models-on-sagemaker-jumpstart/)
 - [AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions/)
 - [AWS Cost Optimization Hub now supports CSV download](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-optimization-hub-csv-download/)
 - [Amazon WorkSpaces Personal enhances PCoIP to DCV protocol migration](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-pcoip/)
@@ -65,9 +68,6 @@
 - [Amazon Connect Talent for AI-powered hiring &lpar;now available in Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered/)
 - [Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents &lpar;Limited Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents/)
 - [AWS Announces Amazon Connect Decisions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/)
-- [Build custom applications using natural language in Amazon Quick &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications/)
-- [Amazon Quick now available as a desktop application for macOS and Windows &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/)
-- [Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

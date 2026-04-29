@@ -67,7 +67,7 @@
 - [OpenAI GPT OSS and NVIDIA Nemotron Models Available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/openai-gpt-oss-nvidia-nemotron-govcloud/)
 - [AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/)
 - [Amazon RDS for Db2 is now available in the AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-db2-available-aws-govcloud-us-east-us-west-regions/)
-- [Amazon OpenSearch Service now supports JWKS URL configuration for JWT authentication](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-jwks-url-jwt/)
+- [Amazon EMR 7.13 now available with Python 3.11](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-emr-713-python-311/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

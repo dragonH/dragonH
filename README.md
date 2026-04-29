@@ -67,7 +67,7 @@
 - [AWS Announces Amazon Connect Decisions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/)
 - [Build custom applications using natural language in Amazon Quick &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/custom-applications/)
 - [Amazon Quick now available as a desktop application for macOS and Windows &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-macos-windows-preview/)
-- [Amazon Quick now supports document and visual creation in chat](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick/)
+- [Amazon Quick expands integrations to include Google Workspace, Zoom, Airtable, and more](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-google-workspace-zoom/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

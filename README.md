@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/)
+- [Amazon CloudFront now supports invalidation by cache tag](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/)
 - [Paraphrase-multilingual-MiniLM-L12-v2, Table Transformer Detection, and Bielik-11B-v3.0-Instruct are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/paraphrase-multilingual-table-transformer-bielik-on-sagemaker-jumpstart/)
 - [Gemma 4 models are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/gemma-4-models-on-sagemaker-jumpstart/)
+- [Amazon CloudWatch adds visual agent configuration to the EC2 console](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-agent-ec2/)
+- [AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/)
+- [Amazon RDS for Db2 is now available in the AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-db2-available-aws-govcloud-us-east-us-west-regions/)
+- [Amazon OpenSearch Service now supports JWKS URL configuration for JWT authentication](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-jwks-url-jwt/)
 - [AWS Glue 5.1 is now available in all AWS Commercial and AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-glue-5-1-all-govcloud-commercial-regions/)
 - [AWS Cost Optimization Hub now supports CSV download](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-cost-optimization-hub-csv-download/)
-- [Amazon WorkSpaces Personal enhances PCoIP to DCV protocol migration](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-workspaces-personal-pcoip/)
-- [Amazon EC2 C8gn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ec2-c8gn-milan-hong-kong/)
-- [Amazon Connect Talent for AI-powered hiring &lpar;now available in Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-talent-ai-powered/)
-- [Amazon Bedrock now offers OpenAI models, Codex, and Managed Agents &lpar;Limited Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/bedrock-openai-models-codex-managed-agents/)
-- [AWS Announces Amazon Connect Decisions](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-connect-decisions-april/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

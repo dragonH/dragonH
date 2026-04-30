@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MQ for RabbitMQ now supports Prometheus metrics](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/)
+- [AWS Lambda adds support for Ruby 4.0](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/)
 - [Amazon OpenSearch Service now supports index-level encryption](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-supports-index-level-encryption/)
 - [Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/)
@@ -66,8 +68,6 @@
 - [Gemma 4 models are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/gemma-4-models-on-sagemaker-jumpstart/)
 - [Amazon CloudWatch adds visual agent configuration to the EC2 console](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-agent-ec2/)
 - [OpenAI GPT OSS and NVIDIA Nemotron Models Available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/openai-gpt-oss-nvidia-nemotron-govcloud/)
-- [Amazon Quick Adds Custom Sort for Filter Controls](https://aws.amazon.com/about-aws/whats-new/2026/04/quick-filter-control-sort/)
-- [AWS Transfer Family Terraform module now supports Okta and Microsoft Entra ID integration examples](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transfer-family-terraform-okta-microsoft-entra-id/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

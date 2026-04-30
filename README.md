@@ -60,14 +60,14 @@
 <!-- AWS-NEWS:START -->
 - [AWS Outposts racks now support LagStatus CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/)
 - [Amazon MQ for RabbitMQ now supports Prometheus metrics](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/)
+- [AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium](https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/)
 - [AWS Lambda adds support for Ruby 4.0](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/)
+- [Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/)
 - [Amazon OpenSearch Service now supports index-level encryption](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-supports-index-level-encryption/)
 - [Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is Now Available in the Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-documentdb-available-in-canada-west-region/)
 - [Amazon CloudFront now supports invalidation by cache tag](https://aws.amazon.com/about-aws/whats-new/2026/04/cloudfront-invalidation-cache-tag/)
 - [Paraphrase-multilingual-MiniLM-L12-v2, Table Transformer Detection, and Bielik-11B-v3.0-Instruct are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/paraphrase-multilingual-table-transformer-bielik-on-sagemaker-jumpstart/)
-- [Gemma 4 models are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/04/gemma-4-models-on-sagemaker-jumpstart/)
-- [Amazon CloudWatch adds visual agent configuration to the EC2 console](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-cloudwatch-agent-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter/)
 - [AWS Outposts racks now support LagStatus CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/)
 - [Amazon ECS Managed Instances now supports NVIDIA GPU metrics](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/)
 - [Amazon MQ for RabbitMQ now supports Prometheus metrics](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/)
@@ -67,7 +68,6 @@
 - [AWS Lambda adds support for Ruby 4.0](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/)
 - [Amazon Quick adds Microsoft Excel, PowerPoint extensions and updates the Word extension &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-quick-microsoft-excel/)
 - [Amazon OpenSearch Service now supports index-level encryption](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-opensearch-service-supports-index-level-encryption/)
-- [Amazon RDS for MySQL announces Innovation Release 9.6 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-rds-mysql-innovation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

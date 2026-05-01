@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore is now available in the South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/)
+- [FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0](https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/)
 - [OpenSearch UI supports cross-region data access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/)
 - [Amazon CloudFront Announces WebSocket Support for VPC Origins](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-websockets-vpc-origins/)
 - [IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/)
@@ -66,8 +68,6 @@
 - [Spatial Data Management on AWS adds custom transformations](https://aws.amazon.com/about-aws/whats-new/2026/05/spatial-data-management-aws/)
 - [Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter/)
 - [Amazon RDS for SQL Server supports cross-account snapshot sharing with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume/)
-- [Amazon RDS for SQL Server supports read replica with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-read-replica-for-asv/)
-- [AWS Payment Cryptography now supports paper-based key exchange](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

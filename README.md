@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [IAM Roles Anywhere now enforces VPC endpoint policies for the CreateSession API](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-roles-anywhere-vpc/)
+- [Concurrency Scaling Support for auto-copy and zero-ETL](https://aws.amazon.com/about-aws/whats-new/2026/03/concurrency-scaling-auto-copy-zero-ETL/)
 - [Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter/)
+- [Amazon RDS for SQL Server supports cross-account snapshot sharing with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume/)
 - [AWS Payment Cryptography now supports paper-based key exchange](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-payment-cryptography/)
 - [Amazon EKS now supports one-click cluster access through CloudShell](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-eks-one-click-cluster-access/)
 - [AWS Outposts racks now support LagStatus CloudWatch metric](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-outposts-lagstatus-cloudwatch/)
 - [Amazon ECS Managed Instances now supports NVIDIA GPU metrics](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-ecs-mi-gpu-metrics/)
 - [Amazon MQ for RabbitMQ now supports Prometheus metrics](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mq-rabbitmq-prometheus-metrics/)
 - [Amazon Bedrock AgentCore Identity now supports On-Behalf-Of &lpar;OBO&rpar; token exchange](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore/)
-- [AWS Neuron SDK now available with Neuron Agentic Development for NKI kernel development on Trainium](https://aws.amazon.com/about-aws/whats-new/2026/04/announcing-neuron-agentic-development/)
-- [Amazon Bedrock AgentCore launches capabilities for optimizing agent performance in preview](https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-optimization-preview/)
-- [AWS Lambda adds support for Ruby 4.0](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-lambda-adds-ruby/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

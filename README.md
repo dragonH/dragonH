@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker AI launches AI agent experience for model customization](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/)
 - [Amazon Bedrock AgentCore is now available in the South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/)
 - [FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0](https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/)
 - [OpenSearch UI supports cross-region data access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/)
@@ -67,7 +68,6 @@
 - [AWS Transform now offers BI migration agents for Power BI and Tableau to Amazon Quick](https://aws.amazon.com/about-aws/whats-new/2026/05/quick-bi-migration/)
 - [Spatial Data Management on AWS adds custom transformations](https://aws.amazon.com/about-aws/whats-new/2026/05/spatial-data-management-aws/)
 - [Announcing Kubernetes Dynamic Resource Allocation for Elastic Fabric Adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/kubernetes-dra-elastic-fabric-adapter/)
-- [Amazon RDS for SQL Server supports cross-account snapshot sharing with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-cross-account-snapshot-sharing-additional-storage-volume/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

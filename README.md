@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Entity Resolution launches support for incremental Machine Learning based matching workflows](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/)
 - [Amazon Quick generates dashboards from natural language prompts](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/)
 - [Amazon Quick introduces Dataset Q&amp;A for conversational analytics against enterprise data](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/)
 - [Amazon Quick now supports S3 tables bucket as a data source](https://aws.amazon.com/about-aws/whats-new/2026/05/quick-direct-query-s3-tables/)
+- [Amazon Quick upgrades the extension for Microsoft Outlook &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/)
 - [Amazon SageMaker AI launches AI agent experience for model customization](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-ai/)
 - [AWS Payment Cryptography announces support for cross account key sharing](https://aws.amazon.com/about-aws/whats-new/2026/05/payment-cryptography-resource/)
+- [Amazon RDS for SQL Server now supports M8i and R8i instances](https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-m8i-r8i-instances/)
+- [Amazon RDS for SQL Server supports read replica with additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/05/rds-sqlserver-supports-read-replica-for-asv/)
 - [Amazon Bedrock AgentCore is now available in the South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-sao-paulo-region/)
-- [FreeRTOS 202604 LTS now available with enhanced security and MQTT v5.0](https://aws.amazon.com/about-aws/whats-new/2026/04/freertos-lts/)
-- [OpenSearch UI supports cross-region data access to OpenSearch domains](https://aws.amazon.com/about-aws/whats-new/2026/05/opensearch-ui-cross-region-data-access-domains/)
-- [Amazon CloudFront Announces WebSocket Support for VPC Origins](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-websockets-vpc-origins/)
-- [General availability of AWS for SAP MCP Server in Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sap-mcp-amazon-bedrock/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

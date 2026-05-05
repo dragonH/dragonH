@@ -64,10 +64,10 @@
 - [Amazon FSx is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-aws-asia-pacific/)
 - [Amazon Quick generates dashboards from natural language prompts](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/)
 - [Amazon Aurora DSQL now supports the JSON data type with compression](https://aws.amazon.com/about-aws/whats-new/2026/05/aurora-dsql-json-support/)
+- [Amazon EC2 I8ge instances are now generally available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-i8ge-available-new-regions/)
 - [Amazon Quick introduces Dataset Q&amp;A for conversational analytics against enterprise data](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-dataset-qa/)
 - [Amazon Quick now supports S3 tables bucket as a data source](https://aws.amazon.com/about-aws/whats-new/2026/05/quick-direct-query-s3-tables/)
 - [Amazon EventBridge supports data plane logging to AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-data-aws-cloudtrail/)
-- [Amazon Quick upgrades the extension for Microsoft Outlook &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-microsoft-outlook/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

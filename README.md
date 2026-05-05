@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/)
+- [AWS SAM now supports WebSocket APIs for Amazon API Gateway](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/)
+- [Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/)
 - [Amazon WorkSpaces now lets AI agents operate desktop applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/)
+- [AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/)
+- [Amazon Quick now integrates with New Relic for observability-driven AI agents](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/)
+- [EC2 Instance Store CSI driver now generally available in EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-csi-eks/)
 - [Amazon Connect Cases now supports customer profile identity resolution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res/)
 - [Amazon OpenSearch Service expands Cluster Insights with a new insight](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-cluster-insights/)
 - [AWS IAM now provides higher maximum quotas for roles, role trust policies, instance profiles, managed policies, and identity providers](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iam-increased-quotas/)
-- [Amazon CloudWatch Logs Insights supports querying by log group tags](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudwatch-logs-query-by-tags/)
-- [Amazon WorkSpaces Applications now supports host-to-client URL redirection](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-url/)
-- [AWS Entity Resolution launches support for incremental Machine Learning based matching workflows](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-entity-resolution-ml/)
-- [Amazon FSx is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-aws-asia-pacific/)
-- [Amazon Quick generates dashboards from natural language prompts](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-generates-analyses-from-natural-language-prompts/)
-- [Amazon Aurora DSQL now supports the JSON data type with compression](https://aws.amazon.com/about-aws/whats-new/2026/05/aurora-dsql-json-support/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

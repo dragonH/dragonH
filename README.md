@@ -63,11 +63,11 @@
 - [Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/)
 - [Amazon WorkSpaces now lets AI agents operate desktop applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/)
 - [AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/)
+- [Amazon MQ now supports in-place major version upgrades for RabbitMQ 4](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-inplace-upgrades-rabbitmq4/)
 - [Amazon Quick now integrates with New Relic for observability-driven AI agents](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-quick-new-relic/)
 - [EC2 Instance Store CSI driver now generally available in EKS add-ons](https://aws.amazon.com/about-aws/whats-new/2026/05/ec2-csi-eks/)
 - [Amazon Connect Cases now supports customer profile identity resolution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-customer-profiles-id-res/)
-- [Amazon OpenSearch Service expands Cluster Insights with a new insight](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-cluster-insights/)
-- [AWS IAM now provides higher maximum quotas for roles, role trust policies, instance profiles, managed policies, and identity providers](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iam-increased-quotas/)
+- [Amazon Bedrock AgentCore is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/bedrock-agentcore-launch-aws-govcloud-us/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

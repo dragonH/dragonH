@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace now supports programmatic procurement with Agreements API](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/)
 - [Amazon Neptune now supports 1-click connect with CloudShell](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-neptune-cloudshell/)
+- [AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-tls-support/)
 - [AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding](https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization)
 - [Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/)
 - [The AWS MCP Server is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/)
+- [AWS Directory Service expands directory security settings with STIG-aligned controls for Managed AD](https://aws.amazon.com/about-aws/whats-new/2026/05/add-security-settings-stig-aws-microsoft-ad/)
 - [AWS Elemental MediaTailor now provides automatic secure server-to-server integration with Google&#39;s ad platforms](https://aws.amazon.com/about-aws/whats-new/2026/05/mediatailor-automatic-google-ad-platform-integration)
 - [AWS SAM CLI adds BuildKit support for AWS Lambda functions packaged as container images](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-buildkit-aws-lambda/)
 - [AWS SAM now supports WebSocket APIs for Amazon API Gateway](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-websocket-apis-api-gateway/)
-- [Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/)
-- [Amazon WorkSpaces now lets AI agents operate desktop applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/)
-- [AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

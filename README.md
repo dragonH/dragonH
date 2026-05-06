@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Neptune now supports 1-click connect with CloudShell](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-neptune-cloudshell/)
 - [AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding](https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization)
 - [Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/)
 - [The AWS MCP Server is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache adds thirteen new Amazon CloudWatch metrics for network capacity planning and engine diagnostics](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-cloudwatch-metrics-network-engine-diagnostics/)
 - [Amazon WorkSpaces now lets AI agents operate desktop applications &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-ai-agents/)
 - [AWS IoT Core for Device Location adds Confidence Level Configuration and Measurement Type support](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-device-location/)
-- [Amazon MQ now supports in-place major version upgrades for RabbitMQ 4](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-inplace-upgrades-rabbitmq4/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

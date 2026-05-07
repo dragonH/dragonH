@@ -61,13 +61,13 @@
 - [Amazon SageMaker Unified Studio adds identity and user management features](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/)
 - [AWS Capabilities by Region now supports availability notifications](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification)
 - [AWS Elemental MediaTailor launches Monetization Functions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-elemental-mediatailor-monetization-functions)
+- [AWS Advanced JDBC Wrapper now provides client-side encryption](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-advanced-jdbc-wrapper-encryption/)
 - [Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-ami-based-node/)
+- [Amazon EC2 M8gn and M8gb instances are now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8gn-m8gb-aws-europe/)
 - [AWS India customers can now use UPI Scan and Pay for sign-up and payments](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-india-upi-scanandpay/)
 - [Agents that transact: Amazon Bedrock AgentCore now includes Payments &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview)
 - [AWS Resource Explorer is now available in AWS GovCloud &lpar;US-East&rpar; and &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-resource-explorer-available-aws-govcloud/)
 - [Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc)
-- [AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/)
-- [Amazon EC2 P6-B200 instances are now available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b200-aws-govcloud)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

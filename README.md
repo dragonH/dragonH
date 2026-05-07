@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Capabilities by Region now supports availability notifications](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification)
 - [AWS India customers can now use UPI Scan and Pay for sign-up and payments](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-india-upi-scanandpay/)
 - [Agents that transact: Amazon Bedrock AgentCore now includes Payments &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview)
 - [Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache now supports real-time aggregations](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-aggregations/)
 - [Amazon ElastiCache now supports real-time hybrid search with vector and full-text](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-hybrid-search/)
 - [Amazon ElastiCache now supports real-time full-text, exact-match, and numeric range search](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-elasticache-enchanced-search/)
-- [AWS Marketplace now supports programmatic procurement with Agreements API](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

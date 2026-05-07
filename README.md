@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Agents that transact: Amazon Bedrock AgentCore now includes Payments &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-bedrock-agentcore-payments-preview)
+- [Amazon OpenSearch Service now supports VPC egress for private connectivity to resources in your VPC](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-service-vpc)
 - [AWS Site-to-Site VPN now supports modifying tunnel bandwidth on existing VPN connections](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-site-to-site-vpn-modify-bandwidth/)
 - [Amazon EC2 P6-B300 instances are now available in the US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-p6-b300-us-east)
 - [AWS Marketplace now supports programmatic procurement with Agreements API](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-agreements-api/)
@@ -66,8 +68,6 @@
 - [AWS Elastic Beanstalk now supports TLS listeners for Network Load Balancers](https://aws.amazon.com/about-aws/whats-new/2026/04/elastic-beanstalk-tls-support/)
 - [AWS Elemental MediaTailor now supports ad trickplay personalization and compact DASH manifest optimization via dynamic transcoding](https://aws.amazon.com/about-aws/whats-new/2026/05/mediatail-ad-trickplay-and-compact-dash-manifest-optimization)
 - [Announcing Agent Toolkit for AWS — help AI coding agents build effectively on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/agent-toolkit/)
-- [The AWS MCP Server is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/)
-- [AWS Transfer Family web apps are now available in the AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-asia-pacific/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/)
 - [Amazon EC2 G6 instances now available in AWS European Sovereign Cloud &lpar;Germany&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/)
 - [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/)
 - [Amazon SageMaker Unified Studio adds identity and user management features](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/)
@@ -67,7 +68,6 @@
 - [AWS Advanced JDBC Wrapper now provides client-side encryption](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-advanced-jdbc-wrapper-encryption/)
 - [Amazon Connect Outbound Campaigns adds multi-contact time zone detection](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-campaign-multitimezone)
 - [Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-ami-based-node/)
-- [Amazon EC2 M8gn and M8gb instances are now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8gn-m8gb-aws-europe/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

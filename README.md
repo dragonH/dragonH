@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws/)
 - [AWS Service Catalog is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; and Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-service-catalog-calgary-new-zealand-regions/)
+- [IAM Policy Autopilot adds Java support and Terraform-aware policy generation](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-policy-autopilot/)
 - [Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/)
 - [AWS Marketplace introduces Tax management portal for sellers](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-tax/)
 - [Amazon EC2 G6 instances now available in AWS European Sovereign Cloud &lpar;Germany&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Unified Studio adds identity and user management features](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/)
 - [Amazon EC2 G7e instances now available in Europe &lpar;London&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g7e-london-region/)
 - [AWS Capabilities by Region now supports availability notifications](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-regional-planning-tool-notification)
-- [AWS Elemental MediaTailor launches Monetization Functions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-elemental-mediatailor-monetization-functions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

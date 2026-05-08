@@ -66,8 +66,8 @@
 - [AWS Elemental MediaTailor launches Monetization Functions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-elemental-mediatailor-monetization-functions)
 - [AWS Advanced JDBC Wrapper now provides client-side encryption](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-advanced-jdbc-wrapper-encryption/)
 - [Amazon Connect Outbound Campaigns adds multi-contact time zone detection](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-campaign-multitimezone)
-- [Amazon EC2 M8gn and M8gb instances are now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8gn-m8gb-aws-europe/)
 - [Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-ami-based-node/)
+- [Amazon EC2 M8gn and M8gb instances are now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8gn-m8gb-aws-europe/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

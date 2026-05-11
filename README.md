@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now supports caching of cancelled workflow runs](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs/)
+- [Claude Platform on AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/)
 - [AWS Transform adds containerization capability during migrations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/)
 - [AWS Client VPN now supports Ubuntu OS version 26.04 LTS](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/)
 - [Amazon Connect adds default Step-by-Step Guides for After Contact Work](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work)
@@ -66,8 +68,6 @@
 - [IAM Policy Autopilot adds Java support and Terraform-aware policy generation](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-policy-autopilot/)
 - [Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/)
 - [AWS Marketplace introduces Tax management portal for sellers](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-tax/)
-- [Amazon EC2 G6 instances now available in AWS European Sovereign Cloud &lpar;Germany&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/)
-- [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

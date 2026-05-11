@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Region Expansion of G6e instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/)
+- [Announcing Region Expansion of G6 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/)
+- [Announcing Region Expansion of P4de instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/02/p4de-region-expansion-sagemaker-studio-notebooks/)
+- [Amazon Aurora DSQL is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions/)
 - [AWS HealthOmics now supports caching of cancelled workflow runs](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs/)
+- [AWS WAF introduces dynamic label interpolation for custom request and response handling](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-waf-dynamic-label-interpolation/)
 - [Claude Platform on AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/)
 - [AWS Transform adds containerization capability during migrations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/)
 - [AWS Client VPN now supports Ubuntu OS version 26.04 LTS](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/)
 - [Amazon Connect adds default Step-by-Step Guides for After Contact Work](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work)
-- [Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws/)
-- [AWS Service Catalog is now available in the AWS Asia Pacific &lpar;New Zealand&rpar; and Canada West &lpar;Calgary&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-service-catalog-calgary-new-zealand-regions/)
-- [IAM Policy Autopilot adds Java support and Terraform-aware policy generation](https://aws.amazon.com/about-aws/whats-new/2026/05/iam-policy-autopilot/)
-- [Amazon Route 53 Resolver endpoints now support additional capabilities for IPv6 query traffic](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-53-resolver-ipv6/)
-- [AWS Marketplace introduces Tax management portal for sellers](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-tax/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transform adds containerization capability during migrations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/)
 - [AWS Client VPN now supports Ubuntu OS version 26.04 LTS](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/)
 - [Amazon Connect adds default Step-by-Step Guides for After Contact Work](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-adds-default-step-by-step-guides-for-after-contact-work)
 - [Amazon Route 53 Global Resolver now lets you add and remove AWS Regions for anycast DNS resolution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-route-global-resolver-aws/)
@@ -67,7 +68,6 @@
 - [AWS Marketplace introduces Tax management portal for sellers](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-marketplace-tax/)
 - [Amazon EC2 G6 instances now available in AWS European Sovereign Cloud &lpar;Germany&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-g6-aws-european-sovereign-cloud/)
 - [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-BOM-DUB-region/)
-- [Amazon SageMaker Unified Studio adds identity and user management features](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-identity-user-management/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

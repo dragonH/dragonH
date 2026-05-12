@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks/)
 - [Announcing Region Expansion of G6e instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/)
 - [Announcing Region Expansion of G6 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/)
 - [ENA Express for Amazon EC2 instances now supports traffic between Availability Zones](https://aws.amazon.com/about-aws/whats-new/2026/05/ena-express-availability-zones/)
@@ -67,7 +68,6 @@
 - [AWS WAF introduces dynamic label interpolation for custom request and response handling](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-waf-dynamic-label-interpolation/)
 - [Claude Platform on AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/)
 - [AWS Transform adds containerization capability during migrations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/)
-- [AWS Client VPN now supports Ubuntu OS version 26.04 LTS](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-client-vpn-ubuntu-26/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Karpenter now supports Amazon Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift/)
+- [Amazon Redshift launches RG instances powered by AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton)
 - [Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks/)
 - [Announcing Region Expansion of G6e instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/)
 - [Announcing Region Expansion of G6 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/)
@@ -66,8 +68,6 @@
 - [Amazon Aurora DSQL is now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-dsql-five-additional-aws-regions/)
 - [AWS HealthOmics now supports caching of cancelled workflow runs](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-healthomics-caching-cancelled-runs/)
 - [AWS WAF introduces dynamic label interpolation for custom request and response handling](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-waf-dynamic-label-interpolation/)
-- [Claude Platform on AWS is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-platform-aws/)
-- [AWS Transform adds containerization capability during migrations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-containerization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

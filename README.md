@@ -64,10 +64,10 @@
 - [Karpenter now supports Amazon Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift/)
 - [Amazon Redshift launches RG instances powered by AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton)
 - [Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances](https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/)
+- [Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles/)
 - [Announcing Region Expansion of P6-B200 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/05/p6-b200-region-expansion-sagemaker-studio-notebooks/)
 - [Announcing Region Expansion of G6e instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/04/g6e-region-expansion-sagemaker-studio-notebooks/)
 - [Announcing Region Expansion of G6 instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/03/g6-region-expansion-sagemaker-studio-notebooks/)
-- [ENA Express for Amazon EC2 instances now supports traffic between Availability Zones](https://aws.amazon.com/about-aws/whats-new/2026/05/ena-express-availability-zones/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

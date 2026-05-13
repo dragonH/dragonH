@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs/)
+- [Amazon RDS for Oracle now supports M8i and R8i instances with Oracle SE2 License Included](https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included)
 - [AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/)
 - [Amazon EventBridge Scheduler adds 619 new SDK API actions, including Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-eventbridge-sdk-integrations/)
 - [AWS Security Agent now supports full repository code reviews](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/)
@@ -66,8 +68,6 @@
 - [Amazon Redshift launches RG instances powered by AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton)
 - [Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances](https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/)
 - [Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles/)
-- [Announcing Region Expansion of P5.48xl instances on SageMaker Studio notebooks](https://aws.amazon.com/about-aws/whats-new/2026/06/p5-48xl-region-expansion-sagemaker-studio-notebooks/)
-- [Announcing Region Expansion of G6 instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/01/g6-region-expansion-sagemaker-notebook-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Agent now available for IAM Identity Center domains](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc/)
 - [Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs/)
 - [Amazon RDS for Oracle now supports M8i and R8i instances with Oracle SE2 License Included](https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included)
 - [AWS Lambda supports scheduled scaling for functions on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-lambda-managed-instances/)
@@ -67,7 +68,6 @@
 - [Karpenter now supports Amazon Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift/)
 - [Amazon Redshift launches RG instances powered by AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton)
 - [Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances](https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/)
-- [Amazon Connect Customer now supports embedding Cases and Customer Profiles in custom agent applications](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-sdk-cases-customer-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

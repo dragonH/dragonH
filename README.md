@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [ARC Region switch adds Lambda event source mapping execution block for event handling during failover](https://aws.amazon.com/about-aws/whats-new/2026/05/region-switch-lambda-esm-execution-block/)
+- [Reference stack outputs across accounts and Regions with AWS CloudFormation and CDK](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-cloudformation-cdk-stack/)
 - [Amazon SageMaker Data Agent now available for IAM Identity Center domains](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-data-agent-idc/)
 - [Amazon FSx for OpenZFS now supports creating Multi-AZ file systems in shared VPCs](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-fsx-openzfs-multi-az-vpcs/)
 - [Amazon RDS for Oracle now supports M8i and R8i instances with Oracle SE2 License Included](https://aws.amazon.com/about-aws/whats-new/amazon-oracle-m8i-r8i-license-included)
@@ -66,8 +68,6 @@
 - [AWS Security Agent now supports full repository code reviews](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent-full-repository-code-review/)
 - [Amazon SageMaker Feature Store now supports SageMaker Python SDK V3](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-feature-store-pyv3/)
 - [Karpenter now supports Amazon Application Recovery Controller zonal shift](https://aws.amazon.com/about-aws/whats-new/2026/05/karpenter-arc-zonal-shift/)
-- [Amazon Redshift launches RG instances powered by AWS Graviton](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-rg-instances-powered-by-graviton)
-- [Amazon CloudFront Premium flat-rate plan now supports configurable usage allowances](https://aws.amazon.com/about-aws/whats-new/2026/05/cloudfront-configurable-premium-flat-rate-plans/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

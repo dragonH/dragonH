@@ -63,9 +63,9 @@
 - [Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/)
 - [Announcing general availability of Amazon EC2 M3 Ultra Mac instances](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m3-ultra-mac-instances-generally-available/)
 - [SageMaker AI now supports serverless model customization for Qwen3.6](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-qwen3-6/)
+- [AWS Transform agents now available in Kiro, Claude, Cursor, and Codex](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/)
 - [AWS Transform introduces the agent builder toolkit Kiro power for building customized transformation agents](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-agent-builder-toolkit/)
 - [AWS Transform now supports customer-owned artifact stores](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transform-customer-owned-artifact/)
-- [AWS Transform agents now available in Kiro, Claude, Cursor, and Codex](https://aws.amazon.com/about-aws/whats-new/2026/04/aws-transform-developer-tools/)
 - [New models for image generation and text embeddings are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/05/image-embeddings-models-on-sagemaker-jumpstart/)
 - [ARC Region switch adds Lambda event source mapping execution block for event handling during failover](https://aws.amazon.com/about-aws/whats-new/2026/05/region-switch-lambda-esm-execution-block/)
 <!-- AWS-NEWS:END -->

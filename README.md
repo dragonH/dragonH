@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon CloudWatch Logs announces increased query result limits](https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/)
 - [Amazon EMR Serverless is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/)
+- [AWS Partner Central agents now accelerates opportunity creation](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo)
 - [Amazon Connect Cases now lets you edit related items and delete cases from the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item/)
 - [Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/)
 - [Amazon Managed Grafana now supports in-place upgrade to Grafana version 12.4](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-v12-update/)
@@ -67,7 +68,6 @@
 - [AWS Organizations now supports higher quotas for service control policies &lpar;SCPs&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/)
 - [Amazon CloudFront announces support for OCSP Revocation for Mutual TLS &lpar;Viewer&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp/)
 - [Amazon CloudFront announces Passthrough Mode for mutual TLS &lpar;Viewer&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-passthrough/)
-- [Amazon Bedrock Introduces Advanced Prompt Optimization and Migration Tool](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-advanced-prompt-optimization-migration-tool/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EVS enables support for 32 hosts per environment](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts)
 - [AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/)
+- [Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/)
+- [Amazon SageMaker Studio now supports GPU capacity reservation through SageMaker Flexible Training Plans](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/)
 - [Amazon CloudWatch Logs announces increased query result limits](https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/)
 - [Amazon EMR Serverless is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/)
 - [AWS Partner Central agents now accelerates opportunity creation](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo)
 - [Amazon Connect Cases now lets you edit related items and delete cases from the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item/)
 - [Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/)
 - [Amazon Managed Grafana now supports in-place upgrade to Grafana version 12.4](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-v12-update/)
-- [AWS announces AWS Interconnect - multicloud connectivity with Oracle Cloud Infrastructure in preview](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-AWS-interconnect-multicloud-oci-preview/)
-- [AWS Organizations now supports higher quotas for service control policies &lpar;SCPs&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-increased-scp-quotas/)
-- [Amazon CloudFront announces support for OCSP Revocation for Mutual TLS &lpar;Viewer&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-cloudfront-mtls-ocsp/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

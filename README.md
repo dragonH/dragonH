@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Management Console now displays AWS Local Zones in the Region Selector](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/)
+- [AWS Glue zero-ETL is now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region)
+- [Amazon Lightsail CDN distributions now support IPv6-only instances as origins](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/)
 - [Amazon EVS enables support for 32 hosts per environment](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts)
 - [AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/)
 - [Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/)
@@ -65,9 +68,6 @@
 - [Amazon CloudWatch Logs announces increased query result limits](https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/)
 - [Amazon EMR Serverless is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/)
 - [AWS Partner Central agents now accelerates opportunity creation](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-agents-oppo)
-- [Amazon Connect Cases now lets you edit related items and delete cases from the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-cases-related-item/)
-- [Amazon RDS for PostgreSQL announces Extended Support minor versions 11.22-rds.20260224, 12.22-rds.20260224, and 13.23-rds.20260224](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-postgresql-extended-support/)
-- [Amazon Managed Grafana now supports in-place upgrade to Grafana version 12.4](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-v12-update/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

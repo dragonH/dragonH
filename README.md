@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Inspector is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/)
+- [Amazon ECS introduces pause and continue controls for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/)
 - [AWS Management Console now displays AWS Local Zones in the Region Selector](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/)
 - [AWS Glue zero-ETL is now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region)
 - [Amazon Lightsail CDN distributions now support IPv6-only instances as origins](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/)
@@ -66,8 +67,7 @@
 - [AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/)
 - [Amazon Redshift adds ALTER TABLE for Iceberg tables and writes via the AWS Glue Data Catalog mount](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-alter-table-iceberg/)
 - [Amazon SageMaker Studio now supports GPU capacity reservation through SageMaker Flexible Training Plans](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-training-plan-support-for-studio/)
-- [Amazon CloudWatch Logs announces increased query result limits](https://aws.amazon.com/about-aws/whats-new/2026/05/cloudwatch-logs-query-results/)
-- [Amazon EMR Serverless is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-aws-regions/)
+- [Introducing pre-fetching and IAM role assumption for AWS Secrets Manager Agent](https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-agent-prefetch-and-role-assumption/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Security Hub Extended expands to 21 curated partner solutions across 9 categories](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/)
+- [AWS announces ExtendDB, an open source DynamoDB-compatible adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/)
+- [AWS Billing Conductor Improves Account Visibility with Billing Transfer Inventory](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/)
+- [Announcing the general availability of a new AWS Local Zone in Istanbul, Türkiye](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-istanbul-turkiye/)
 - [Amazon SageMaker HyperPod now supports data capture for inference workloads](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture)
 - [Amazon MWAA now supports Apache Airflow 3.2](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/)
 - [Amazon Inspector is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/)
 - [Amazon ECS introduces pause and continue controls for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ecs-pause-continue-deployments/)
 - [Amazon Managed Grafana now supports dual-stack connectivity &lpar;IPv6 and IPv4&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-managed-grafana-ipv6/)
 - [AWS Management Console now displays AWS Local Zones in the Region Selector](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-region-selector/)
-- [AWS Glue zero-ETL is now available in Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-zero-etl-mumbai-region)
-- [Amazon Lightsail CDN distributions now support IPv6-only instances as origins](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-lightsail-cdn-ipv6/)
-- [Amazon EVS enables support for 32 hosts per environment](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-evs-32-hosts)
-- [AWS SAM CLI adds AWS CloudFormation Language Extensions support to accelerate local serverless development](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-sam-cli-cloudformation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

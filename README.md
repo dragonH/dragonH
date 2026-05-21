@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7i-flex, M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/)
 - [Amazon SageMaker AI now supports OpenAI-compatible APIs for inference endpoints](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/)
 - [Amazon Aurora MySQL 8.4  is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql/8-4/)
 - [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-custom-sql-server-latest-gdr-updates-microsoft-sql-server)
@@ -67,7 +68,6 @@
 - [Security Hub Extended expands to 21 curated partner solutions across 9 categories](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/)
 - [Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality)
 - [AWS announces ExtendDB, an open source DynamoDB-compatible adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/)
-- [AWS Billing Conductor Improves Account Visibility with Billing Transfer Inventory](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

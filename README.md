@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock expands support for request-level usage attribution](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-bedrock-request-level-usage-attribution/)
 - [AWS Security Hub now uncovers identity risks from unused access](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/)
 - [Security Hub Extended expands to 21 curated partner solutions across 9 categories](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/)
+- [Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality)
 - [AWS announces ExtendDB, an open source DynamoDB-compatible adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/)
 - [AWS Billing Conductor Improves Account Visibility with Billing Transfer Inventory](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-billing-conductor-billing-transfer/)
 - [ECS supports native integration with Amazon EBS volumes in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/ecs-amazon-ebs-govcloud/)
 - [Announcing the general availability of a new AWS Local Zone in Istanbul, Türkiye](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-local-zones-istanbul-turkiye/)
 - [AWS Transfer Family web apps now support federated permissions with IAM Identity Center across AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-transfer-family-federated-permissions-across-regions/)
 - [Amazon SageMaker HyperPod now supports data capture for inference workloads](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-data-capture)
-- [Amazon MWAA now supports Apache Airflow 3.2](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-mwaa-now-supports-apache-airflow-3-2/)
-- [Amazon Inspector is now available in the AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-inspector-taipei/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

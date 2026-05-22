@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs Insights adds new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/)
 - [Amazon EC2 C7i-flex, M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/)
+- [SageMaker Unified Studio automates Glue connector provisioning for cross-subnet job retries](https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-unified-studio-glue/)
 - [Amazon SageMaker AI now supports OpenAI-compatible APIs for inference endpoints](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ai-openai-apis/)
 - [Amazon Aurora MySQL 8.4  is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-aurora-mysql/8-4/)
 - [Amazon RDS Custom now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-custom-sql-server-latest-gdr-updates-microsoft-sql-server)
@@ -66,8 +68,6 @@
 - [AWS Security Hub now uncovers identity risks from unused access](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-unused-access/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; Serverless is now available on DocumentDB 8.0](https://aws.amazon.com/about-aws/whats-new/2026/5/docdb8-serverless)
 - [Security Hub Extended expands to 21 curated partner solutions across 9 categories](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-hub-extended/)
-- [Amazon SageMaker Unified Studio now supports data quality rule authoring and evaluation](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-quality)
-- [AWS announces ExtendDB, an open source DynamoDB-compatible adapter](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-extenddb-dynamodb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

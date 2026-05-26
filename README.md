@@ -62,12 +62,12 @@
 - [New agentic migration assessment capabilities now available with AWS Transform](https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform)
 - [Amazon SageMaker adds business metadata and governance in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/)
 - [AWS Security Agent adds verification scripts for pentest findings](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-security-agent/)
+- [Amazon GameLift Streams launches Generation 6e stream classes for high-fidelity game streaming](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-g6e-stream-class/)
 - [Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; expands to Asia Pacific &lpar;Malaysia&rpar; and Asia Pacific &lpar;Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/)
 - [AWS Clean Rooms now supports mutable payment configurations for collaborations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments)
 - [AWS Secrets Manager adds managed external secrets support for Datadog vended keys and Snowflake Programmatic Access Tokens](https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/)
 - [Amazon CloudWatch Logs Insights adds new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/)
-- [Amazon EC2 C7i-flex, M7i-flex &amp; M7i instances now available in Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-c7i-flex-m7i-flex-m7i-instances-HYD-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

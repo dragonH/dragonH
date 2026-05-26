@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now supports ENA Express for Multi-AZ replication](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/)
+- [Amazon VPC IPAM now supports tags on IPAM pool allocations](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags/)
+- [Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store/)
 - [Amazon SageMaker expands domain management across domain types](https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/)
 - [New agentic migration assessment capabilities now available with AWS Transform](https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform)
 - [Amazon SageMaker adds business metadata and governance in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/)
@@ -65,9 +68,6 @@
 - [Amazon GameLift Streams launches Generation 6e stream classes for high-fidelity game streaming](https://aws.amazon.com/about-aws/whats-new/2026/04/amazon-gamelift-streams-g6e-stream-class/)
 - [Amazon WorkSpaces Personal now supports WorkSpace Migration for Linux WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/05/workspaces-linux-migration)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; expands to Asia Pacific &lpar;Malaysia&rpar; and Asia Pacific &lpar;Thailand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-keyspaces-malaysia-thailand/)
-- [AWS Clean Rooms now supports mutable payment configurations for collaborations](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-clean-rooms-mutable-payments)
-- [AWS Secrets Manager adds managed external secrets support for Datadog vended keys and Snowflake Programmatic Access Tokens](https://aws.amazon.com/about-aws/whats-new/2026/05/secrets-manager-managed-external-secrets-datadog-snowflake/)
-- [Amazon CloudWatch Logs Insights adds new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/)
 - [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-SIN-SYD-PDT-region/)
 - [Amazon RDS now supports ENA Express for Multi-AZ replication](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-ena-express-multiAZ/)
-- [Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/)
 - [Amazon EC2 R8i and R8i-flex instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-r8i-r8i-flex-govcloud-east/)
+- [Amazon EC2 M8i and M8i-flex instances are now available in AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ec2-m8i-m8i-flex-govcloud-east/)
 - [Amazon VPC IPAM now supports tags on IPAM pool allocations](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-vpc-ipam-tags/)
 - [Amazon GuardDuty Malware Protection for AWS Backup supports Amazon S3 continuous backups](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-guardduty-aws-backup-s3-continuous/)
 - [Amazon SageMaker Unified Studio adds interactive interface for managing Feature Store in IAM Domains](https://aws.amazon.com/about-aws/whats-new/2026/04/sagemaker-feature-store/)
 - [Amazon SageMaker expands domain management across domain types](https://aws.amazon.com/about-aws/whats-new/2026/05/domain-management-iam-idc/)
 - [New agentic migration assessment capabilities now available with AWS Transform](https://aws.amazon.com/about-aws/whats-new/2026/05/assessment-capabilities-transform)
-- [Amazon SageMaker adds business metadata and governance in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/05/sagemaker-catalog-iam-domains/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

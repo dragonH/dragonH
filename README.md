@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Organizations emits CloudTrail events for account membership changes](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/)
+- [Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/)
+- [Claude Opus 4.8 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/)
 - [DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/)
+- [AWS Partner Central now supports deal sizing using total contract value &lpar;TCV&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-opportunity-deal-sizing-tcv/)
 - [Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/)
+- [Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/)
+- [Announcing Region Expansion of P4de instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/)
 - [Amazon Bedrock expands support for Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/)
 - [AWS Elemental Inference now supports Smart Subtitles for automated live captioning](https://aws.amazon.com/about-aws/whats-new/2026/05/elemental-inference-subtitles)
-- [SageMaker Notebook Instances now support P5en.48xl instance types](https://aws.amazon.com/about-aws/whats-new/2026/02/p5en-new-instance-launch-sagemaker-notebook-instances/)
-- [SageMaker Notebook Instances now support P5.4xl instance types](https://aws.amazon.com/about-aws/whats-new/2026/03/p5-4xl-new-instance-launch-sagemaker-notebook-instances/)
-- [Amazon EMR now supports Apache Spark 4.0.2 in general availability](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-apache-spark/)
-- [AWS Glue large and memory optimized workers now available in Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-glue-larger-memory-intensive-workers-spain)
-- [Amazon Connect Customer now uses generative AI to automatically evaluate self-service interactions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-gen-AI-evaluations-self-service)
-- [Amazon SageMaker HyperPod Slurm clusters now support specifying minimum capacity requirements with continuous provisioning](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-hyperpod-mincount/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

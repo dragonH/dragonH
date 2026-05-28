@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget](https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards)
 - [AWS Organizations emits CloudTrail events for account membership changes](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/)
 - [Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/)
 - [Claude Opus 4.8 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/)
 - [DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/)
+- [The next generation of Amazon OpenSearch Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-serverless-next-generation-generally-available/)
 - [AWS Partner Central now supports deal sizing using total contract value &lpar;TCV&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-opportunity-deal-sizing-tcv/)
 - [Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/)
 - [Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/)
 - [Announcing Region Expansion of P4de instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/)
-- [Amazon Bedrock expands support for Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/5/amazon-bedrock-service-quotas/)
-- [AWS Elemental Inference now supports Smart Subtitles for automated live captioning](https://aws.amazon.com/about-aws/whats-new/2026/05/elemental-inference-subtitles)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

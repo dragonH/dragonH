@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget](https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards)
+- [AWS IoT Core adds APIs for MQTT connection management](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-apis-mqtt/)
 - [AWS Organizations emits CloudTrail events for account membership changes](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-organizations-cloudtrail/)
+- [AWS announces general availability of the next generation of AWS Resilience Hub](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-announces-next-gen-aws-resilience-hub/)
 - [Amazon Connect Customer expands generative AI-powered post-contact summaries to eight new languages](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-summary-languages/)
 - [Claude Opus 4.8 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws/)
 - [DynamoDB Streams now supports AWS PrivateLink for FIPS endpoints in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-dynamodb-streams-privatelink-fips-govcloud/)
+- [Amazon WorkSpaces Applications adds support for Windows Desktop OS](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-workspaces-applications-windows-desktop-OS/)
 - [The next generation of Amazon OpenSearch Serverless is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-opensearch-serverless-next-generation-generally-available/)
-- [AWS Partner Central now supports deal sizing using total contract value &lpar;TCV&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-partner-central-opportunity-deal-sizing-tcv/)
-- [Announcing Region Expansion of P6-B200 instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/06/p6-b200-region-expansion-sagemaker-notebook-instances/)
-- [Announcing Region Expansion of P5.48xl instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/05/p5-48xl-region-expansion-sagemaker-notebook-instances/)
-- [Announcing Region Expansion of P4de instances on SageMaker Notebook Instances](https://aws.amazon.com/about-aws/whats-new/2026/04/p4de-region-expansion-sagemaker-notebook-instances/)
+- [AWS IoT Core now supports direct messaging for point-to-point communication](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-core-direct-messaging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

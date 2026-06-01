@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/)
+- [Amazon SageMaker HyperPod now supports EFA-only network interfaces](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only/)
+- [Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/)
+- [Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/)
+- [Amazon SES now supports tenant-level suppression lists](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ses-tenant-level-suppression-lists/)
 - [Amazon SES now offers inbox placement metrics and blocklist monitoring](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/)
 - [AWS End User Messaging RCS for Business now available in 20 additional countries](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries/)
 - [Amazon Connect Customer now supports scheduling tasks up to 90 days in advance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule)
 - [AWS Shield Advanced introduces DDoS attack flow logs](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/)
 - [Amazon Redshift Serverless now offers 4-RPU Minimum Capacity in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-serverless-4-rpu-seven-regions/)
-- [AWS Interconnect - multicloud now offers a free 500 Mbps tier](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-interconnect-multicloud-offers-free-500-mbps-tier)
-- [Amazon RDS for Oracle now supports April 2026 Release Update and Supplemental Patch Bundle](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-rds-oracle-supports-april-2026-release-update-supplemental-patch-bundle)
-- [Oracle Database@AWS is now available in twenty AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/oracle-database-aws-available-twenty-regions/)
-- [Amazon S3 Tables are now available in two additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-s3-tables-aws-regions/)
-- [Monitor AWS Budgets directly in Billing and Cost Management Dashboards with new Budgets widget](https://aws.amazon.com/about-aws/whats-new/2026/05/monitor-aws-budgets-using-dashboards)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

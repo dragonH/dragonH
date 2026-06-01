@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Quick Research now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys)
+- [Amazon Quick now supports VPC connectivity for MCP connections](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/)
+- [Amazon SageMaker adds permissions boundaries for SCP compliance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/)
 - [Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/)
+- [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/)
+- [Amazon EC2 M8azn instances are now available in Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland/)
 - [Amazon SageMaker HyperPod now supports EFA-only network interfaces](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only/)
 - [Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/)
+- [AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters/)
 - [Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/)
-- [Amazon SES now supports tenant-level suppression lists](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ses-tenant-level-suppression-lists/)
-- [Amazon SES now offers inbox placement metrics and blocklist monitoring](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-ses-global-deliverability/)
-- [AWS End User Messaging RCS for Business now available in 20 additional countries](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-rcs-countries/)
-- [Amazon Connect Customer now supports scheduling tasks up to 90 days in advance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-connect-customer-tasks-90day-schedule)
-- [AWS Shield Advanced introduces DDoS attack flow logs](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-shield-ddos/)
-- [Amazon Redshift Serverless now offers 4-RPU Minimum Capacity in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-redshift-serverless-4-rpu-seven-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

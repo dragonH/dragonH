@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now supports Nextflow version pinning at run time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/)
+- [AWS HealthOmics now supports Nextflow version 26.04](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/)
 - [Quick Research now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys)
 - [Amazon Quick now supports VPC connectivity for MCP connections](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/)
 - [Amazon SageMaker adds permissions boundaries for SCP compliance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 M8azn instances are now available in Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland/)
 - [Amazon SageMaker HyperPod now supports EFA-only network interfaces](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only/)
 - [Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/)
-- [AWS Direct Connect now supports VIF Rate Limiters to help prevent network congestion](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-direct-connect-now-supports-vif-rate-limiters/)
-- [Amazon Bedrock adds Amazon CloudWatch metrics for OpenAI- and Anthropic-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-supports-cloudwatch-metrics-bedrock-mantle-endpoint/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

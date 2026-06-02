@@ -63,9 +63,9 @@
 - [Quick Research now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-research-cm-keys)
 - [Amazon Quick now supports VPC connectivity for MCP connections](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-vpc-mcp/)
 - [Amazon SageMaker adds permissions boundaries for SCP compliance](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-scp/)
-- [Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/)
 - [Amazon EC2 M8i and M8i-flex instances are now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8i-m8i-flex-new-zealand/)
 - [Amazon EC2 M8azn instances are now available in Europe &lpar;Ireland&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8azn-europe-ireland/)
+- [Amazon Bedrock AgentCore Identity now allows you to bring your own secrets with AWS Secrets Manager](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-identity-secrets-manager/)
 - [Amazon SageMaker HyperPod now supports EFA-only network interfaces](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-efa-only/)
 - [Amazon SageMaker HyperPod now offers troubleshooting skills for AI coding assistants](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-hyperpod-troubleshooting-skills/)
 <!-- AWS-NEWS:END -->

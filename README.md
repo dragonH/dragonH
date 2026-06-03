@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now provides CDC iterator position](https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/)
+- [Amazon SageMaker Unified Studio now supports a localized experience in twelve languages](https://aws.amazon.com/about-aws/whats-new/2026/06/sagemaker-localization)
+- [Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization](https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/)
+- [AWS Config now supports 9 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types)
+- [Amazon RDS for Db2 launches support for IBM Db2 v12.1 and Db2 Community Edition](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-db2-v12-community-edition)
 - [Amazon EKS and Amazon EKS Distro now supports Kubernetes version 1.36](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-distro-kubernetes-version-1-36)
 - [AWS Config now supports internal service linked rules](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-supports-internal-service-linked-rules)
 - [AWS Deadline Cloud now supports persistent storage for Service Managed Fleets](https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/persistent-storage)
 - [Amazon SageMaker Studio now sets up in seconds with model customization ready from the start](https://aws.amazon.com/about-aws/whats-new/2026/01/quick-setup-model-customization-sagemaker-studio/)
 - [Amazon ElastiCache for Valkey now supports durability](https://aws.amazon.com/about-aws/whats-new/2026/06/durability-amazon-elasticache)
-- [Amazon Location Service announces public transit and intermodal routing](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-location-service/amazon-location-new-public-transit-intermodal-routing)
-- [AWS Cost and Usage Report 2.0 now supports Athena and Redshift integration](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cur2.0-athena-redshift/)
-- [Amazon RDS for SQL Server supports Bring Your Own Media](https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-bring-your-own-media/)
-- [AWS HealthOmics now supports Nextflow version pinning at run time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-pinning-at-runtime/)
-- [AWS HealthOmics now supports Nextflow version 26.04](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-version-26-04/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Device Management adds MQTT session data to connectivity status API](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/)
 - [Amazon SageMaker Data Agent now supports conversation history](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/)
 - [Amazon SageMaker Unified Studio now supports notebook scheduling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/)
 - [AWS Step Functions adds AgentCore-powered agentic reasoning step](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/)
 - [OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/)
+- [AWS Compute Optimizer now supports 32-day lookback for EBS volume and ECS service rightsizing recommendations](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-ebs-ecs-32-day-lookback/)
 - [ARC Region switch adds Amazon Aurora scaling and Amazon Neptune global database failover](https://aws.amazon.com/about-aws/whats-new/2026/06/region-switch-aurora-scaling-neptune-failover/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now provides CDC iterator position](https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/)
 - [Amazon SageMaker Unified Studio now supports a localized experience in twelve languages](https://aws.amazon.com/about-aws/whats-new/2026/06/sagemaker-localization)
 - [Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization](https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/)
-- [AWS Config now supports 9 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-config-new-resource-types)
-- [Amazon RDS for Db2 launches support for IBM Db2 v12.1 and Db2 Community Edition](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-db2-v12-community-edition)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
 - [AWS IoT Device Management adds MQTT session data to connectivity status API](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-iot-device-management-mqtt/)
 - [Amazon SageMaker Data Agent now supports conversation history](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/)
 - [Amazon SageMaker Unified Studio now supports notebook scheduling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/)
@@ -67,7 +68,6 @@
 - [ARC Region switch adds Amazon Aurora scaling and Amazon Neptune global database failover](https://aws.amazon.com/about-aws/whats-new/2026/06/region-switch-aurora-scaling-neptune-failover/)
 - [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; now provides CDC iterator position](https://aws.amazon.com/about-aws/whats-new/2026/06/keyspaces-cdc-iterator-position/)
 - [Amazon SageMaker Unified Studio now supports a localized experience in twelve languages](https://aws.amazon.com/about-aws/whats-new/2026/06/sagemaker-localization)
-- [Amazon SageMaker AI launches multi-turn reinforcement learning for AI agent model customization](https://aws.amazon.com/about-aws/whats-new/2026/06/multi-turn-reinforcement-learning-on-sagemaker-ai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

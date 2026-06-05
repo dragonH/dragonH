@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Data Agent integrates business context into conversations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/)
 - [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
 - [AWS Databases on Vercel now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/)
 - [Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Data Agent now supports conversation history](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent/)
 - [Amazon SageMaker Unified Studio now supports notebook scheduling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio/)
 - [AWS Step Functions adds AgentCore-powered agentic reasoning step](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-agentcore/)
-- [OpenAI GPT-5.4 generally available on Amazon Bedrock in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/GPT54-available-in-aws-govcloud-us-west/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

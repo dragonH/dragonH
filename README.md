@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/)
 - [Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud/)
+- [Amazon OpenSearch UI is now available in GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region)
 - [Amazon ECS with AWS Fargate now supports 32vCPU compute configurations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu)
 - [The AWS MCP Server now supports cross-account and cross-role access](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/)
 - [Amazon SageMaker Data Agent integrates business context into conversations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/)
-- [AWS Databases on Vercel now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/)
 - [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
+- [AWS Databases on Vercel now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/)
 - [Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging)
 - [AWS Deadline Cloud now supports plugin sync for service-managed fleets](https://aws.amazon.com/about-aws/whats-new/2026/06/deadline-cloud/plugin-sync)
-- [Amazon MQ is now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mq-eur-sov-cloud)
-- [Amazon Bedrock launches a redesigned console optimized for OpenAI- and Anthropic-compatible APIs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-redesigned-console-optimized-openai-anthropic-compatible-apis/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

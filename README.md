@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Compute Optimizer now supports idle recommendations for six additional resource types](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle)
+- [Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/)
+- [Amazon DocumentDB now supports engine minor version starting with 5.0.1](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-documentdb-engine-minor-version-5-0-1/)
 - [AWS Savings Plans Purchase Analyzer now supports target coverage analysis](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-savings-plans-coverage/)
+- [PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/)
 - [AWS Application Migration Service is now AWS Transform MGN](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/)
 - [Amazon Aurora DSQL now supports the JSONB data type with compression](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-dsql-supports-jsonb/)
+- [AWS now provides AI-powered cost investigations for cost anomalies](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-ai-powered-cost-investigations/)
+- [Amazon Connect Customer now offers AI agent trace details for self-service voice interactions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-ai-agent-traces/)
 - [Amazon Redshift reduces manual snapshot cost for Serverless and RG instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/)
-- [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/)
-- [Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud/)
-- [Amazon OpenSearch UI is now available in GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region)
-- [Amazon ECS with AWS Fargate now supports 32vCPU compute configurations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu)
-- [The AWS MCP Server now supports cross-account and cross-role access](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/)
-- [Amazon SageMaker Data Agent integrates business context into conversations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

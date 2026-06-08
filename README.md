@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon OpenSearch Serverless now supports Agentic Search](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-search/)
+- [AWS Savings Plans Purchase Analyzer now supports target coverage analysis](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-savings-plans-coverage/)
+- [AWS Application Migration Service is now AWS Transform MGN](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/)
+- [Amazon Aurora DSQL now supports the JSONB data type with compression](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-dsql-supports-jsonb/)
+- [Amazon Redshift reduces manual snapshot cost for Serverless and RG instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-incremental-manual-snapshots/)
 - [Amazon Bedrock AgentCore Runtime introduces interactive shells for terminal access into agent sessions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-runtime/)
 - [Simplified permissions for Amazon S3 Tables and Iceberg materialized views are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/gdc-s3tables-simplified-permissions-in-aws-govcloud/)
 - [Amazon OpenSearch UI is now available in GovCloud regions](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ui-govcloud-region)
 - [Amazon ECS with AWS Fargate now supports 32vCPU compute configurations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-fargate-32vcpu)
 - [The AWS MCP Server now supports cross-account and cross-role access](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-mcp-server/)
 - [Amazon SageMaker Data Agent integrates business context into conversations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-data-agent-bdc/)
-- [AWS Databases on Vercel now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-databases-vercel-aws-regions/)
-- [Amazon Cognito now supports multi-Region replication](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-multi-region/)
-- [Amazon EKS Capabilities now supports Amazon CloudWatch Vended Logs](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-capabilities-logging)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

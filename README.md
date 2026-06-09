@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS FinOps Agent is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/)
+- [AWS announces Claude Fable 5, the first generally available Mythos-class model](https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/)
+- [Run Interactive Workloads on Amazon EMR Serverless with Spark Connect](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-emr-serverless-spark-connect)
 - [AWS Cost Explorer launches intelligent cost explanations powered by Amazon Q](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer-intelligent-cost-explanations)
 - [AWS Compute Optimizer now supports idle recommendations for six additional resource types](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-six-new-idle)
 - [Amazon MSK Express Brokers now support automatic topic creation with Kafka Streams](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-msk-express-topic-support-kstreams/)
@@ -65,9 +68,6 @@
 - [Amazon CloudWatch Logs Insights adds 23 new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-insights-new/)
 - [AWS Savings Plans Purchase Analyzer now supports target coverage analysis](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-savings-plans-coverage/)
 - [PostgreSQL 19 Beta 1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/06/postgresql-19-beta-1-amazon-rds-database-preview-environment/)
-- [AWS Lambda Managed Instances expands to additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-region-expansion/)
-- [AWS Application Migration Service is now AWS Transform MGN](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mgn-rebrand/)
-- [Amazon Aurora DSQL now supports the JSONB data type with compression](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-dsql-supports-jsonb/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

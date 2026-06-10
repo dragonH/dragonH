@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Managed Daemons now support inter-task visibility and communication](https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/)
 - [Amazon EC2 M9g and M9gd general purpose instances are now available](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available)
 - [Amazon EC2 P6-B200 instances are now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud/)
 - [AWS Cost and Usage Report 2.0 now supports table configurations update](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-usage-report/)
@@ -67,7 +68,6 @@
 - [AWS FinOps Agent is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/)
 - [Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/)
 - [AWS announces Claude Fable 5, the first generally available Mythos-class model](https://aws.amazon.com/about-aws/whats-new/2026/06/claude-fable-5-aws/)
-- [AWS Backup support for Amazon EKS is now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-eks-aws-european-sovereign-cloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

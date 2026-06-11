@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [OpenAI GPT-5.4 and GPT-5.5 models now available in US East &lpar;N. Virginia&rpar; on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/)
+- [Amazon OpenSearch Service launches MCP Apps for agentic observability](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app)
 - [Amazon ECS Managed Daemons now support inter-task visibility and communication](https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/)
 - [Amazon EC2 M9g and M9gd general purpose instances are now available](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-m9g-m9gd-instances-graviton5-processors-available)
 - [Amazon EC2 P6-B200 instances are now available in the AWS GovCloud &lpar;US-East&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-p6-b200-aws-govcloud/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker Unified Studio Notebooks now support EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-sagemaker-unified-studio-emr/)
 - [Amazon S3 Access Grants are now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-access-grants-european-sovereign-cloud-germany-region)
 - [AWS FinOps Agent is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-finops-agent-preview/)
-- [Announcing metal-48xl and metal-96xl for Amazon EC2 network/EBS instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-metal-sizes-network-EBS/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

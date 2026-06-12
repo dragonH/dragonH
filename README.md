@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [SageMaker AI now supports serverless fine-tuning for Nvidia Nemotron models](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-sagemaker-ft-nemotron-3/)
 - [Amazon EC2 I7i instances now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/)
 - [Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-capacity-blocks-ml-govcloud/)
 - [Amazon EC2 High Memory U7i-8TB instances now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7i-8tb-europe-paris/)
@@ -67,7 +68,6 @@
 - [Amazon Aurora now supports PostgreSQL major version 18](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/)
 - [AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab](https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/)
 - [Amazon MWAA Serverless now supports Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/)
-- [AWS Lake Formation extends table permissions to access underlying data in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lake-formation-access-data-amazon-s3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

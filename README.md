@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick now integrates with Snowflake Cortex AI](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/)
 - [Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting](https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/)
 - [Amazon Aurora now supports PostgreSQL major version 18](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/)
 - [AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab](https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/)
@@ -67,7 +68,6 @@
 - [AWS announces AWS Workload Credentials Provider](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/)
 - [OpenAI GPT-5.4 and GPT-5.5 models now available in US East &lpar;N. Virginia&rpar; on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/)
 - [Amazon OpenSearch Service launches MCP Apps for agentic observability](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app)
-- [Amazon ECS Managed Daemons now support inter-task visibility and communication](https://aws.amazon.com/about-aws/whats-new/2026/06/ecs-managed-daemons-pid-ipc-modes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

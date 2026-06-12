@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 I7i instances now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-i7i-instances-europe-paris-region/)
+- [Amazon EC2 Capacity Blocks for ML is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-capacity-blocks-ml-govcloud/)
+- [Amazon EC2 High Memory U7i-8TB instances now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7i-8tb-europe-paris/)
 - [Amazon Quick now integrates with Snowflake Cortex AI](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick-snowflake-cortex-ai/)
+- [Amazon EKS now supports local clusters on AWS Outposts with Amazon EC2 instance store](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-eks-aws-outposts-ec2-instance-store/)
 - [Amazon CloudWatch Application Signals now supports infrastructure, logs, and traces context for faster troubleshooting](https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-application-signals-supports infrastructure-logs-traces-context-for-faster troubleshooting/)
 - [Amazon Aurora now supports PostgreSQL major version 18](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-aurora-postgresql-major-version-18/)
 - [AWS Elastic Beanstalk console now integrates CloudWatch Logs in the Logs tab](https://aws.amazon.com/about-aws/whats-new/2026/06/elastic-beanstalk-cloudwatch-logs/)
 - [Amazon MWAA Serverless now supports Amazon EventBridge notifications](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-eventbridge/)
-- [Amazon Managed Service for Prometheus now supports Native Histograms](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-native-histograms/)
-- [Amazon Managed Service for Prometheus now supports out of order sample ingestion](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-managed-service-prometheus-outoforder-ingestion/)
-- [AWS announces AWS Workload Credentials Provider](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-workload-credentials-provider/)
-- [OpenAI GPT-5.4 and GPT-5.5 models now available in US East &lpar;N. Virginia&rpar; on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/openai-gpt-us-east-virginia-amazon/)
-- [Amazon OpenSearch Service launches MCP Apps for agentic observability](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-agentic-observability-mcp-app)
+- [AWS Lake Formation extends table permissions to access underlying data in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lake-formation-access-data-amazon-s3)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

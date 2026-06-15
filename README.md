@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata)
+- [Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/)
 - [Amazon CloudWatch introduces Log Analytics for unified log analysis](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/)
 - [Amazon Route 53 Resolver DNS Firewall now supports Palo Alto Networks Advanced DNS Security &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-resolver-dns/)
 - [Amazon ECS Express Mode is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/)
@@ -67,7 +68,6 @@
 - [AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/)
 - [Amazon EC2 C7i instances are now available in the Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7i-instances-israel-tel-aviv-region/)
 - [Amazon EC2 C8i instances are now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/)
-- [AWS WAF announces AI traffic monetization](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-ai-traffic-monetization/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

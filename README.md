@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transform now supports Amazon FSx for NetApp ONTAP &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-vmware-fsx-for-ontap-preview)
 - [AWS Management Console Private Access now works without internet connectivity](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-management-console-private/)
+- [Grok 4.3 from xAI now available in Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/grok-amazon-bedrock/)
 - [Amazon Bedrock AgentCore Memory now supports strictly consistent metadata for long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/05/agentcore-memory-scmetadata)
 - [Amazon FSx for OpenZFS now supports on-demand data replication across AWS opt-in Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/on-demand-cross-region-replication/)
 - [Amazon CloudWatch introduces Log Analytics for unified log analysis](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-log-analytics/)
@@ -66,8 +68,6 @@
 - [Amazon ECS Express Mode is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-express-mode-govcloud/)
 - [AWS launches Cost Explorer historical data retention for accounts in billing groups](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cost-explorer/)
 - [AWS Lambda Managed Instances now supports Tag Propagation for Managed Resources](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-managed-instances-tag-propagation/)
-- [AWS DevOps Agent expands with custom SRE agents and MCP/A2A protocols](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-custom-agents/)
-- [Amazon EC2 C8i instances are now available in Europe &lpar;Stockholm&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c8i-instances-europe-stockholm-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

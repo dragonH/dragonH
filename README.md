@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai/)
-- [AWS Transform now supports model-to-model migration assessment for generative AI workloads](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-model-to-model-assessments)
-- [Amazon S3 Vectors now supports up to 10,000 similarity search results per query](https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query)
-- [AWS Transform for mainframe now delivers a traceable reimagine workflow](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow/)
-- [AWS Sign-in now supports resource-based policies and resource control policies](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/)
-- [Amazon Redshift RG instances powered by AWS Graviton now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-rg-instances-3-additional-regions/)
-- [AWS announces AWS Blocks, an open-source framework for composing application backends on AWS &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-blocks-preview)
-- [AWS Partner Central agents now accelerate co-selling on every deal](https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/)
-- [Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/)
-- [AWS Marketplace announces AI-assisted product listing](https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/)
+- [AWS HealthOmics now streams workflow engine logs to Amazon CloudWatch in real time](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-real-time-engine-log-streaming/)
+- [AWS DevOps Agent adds release management capability &lpar;preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-devops-agent-release-management/)
+- [Amazon Aurora and RDS for MySQL expand Extended Support for MySQL 5.7 through June 2029](https://aws.amazon.com/about-aws/whats-new/2026/06/rds-mysql-es-extension/)
+- [AWS Outposts racks now support bmn-cx3a instances, the first AMD-based instances with accelerated networking on Outposts](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-amd-bmn-cx3a/)
+- [Amazon Bedrock AgentCore now supports Bedrock Guardrails in policy](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-policy-guardrails-generally-available)
+- [AgentCore harness in now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available)
+- [Amazon Bedrock AgentCore introduces new optimization capabilities to continuously improve agents in production](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-new-optimization-capabilities)
+- [Introducing AWS Continuum for security at machine speed](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-continuum/)
+- [Amazon Bedrock Managed Knowledge Base is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-managed-knowledge-base/)
+- [AWS Security Agent announces support for Threat Modeling](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-agent-threat-modeling/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

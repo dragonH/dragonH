@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Guardrails announces a new API targeting agentic AI workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails-api-ai/)
+- [AWS Transform now supports model-to-model migration assessment for generative AI workloads](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-model-to-model-assessments)
+- [Amazon S3 Vectors now supports up to 10,000 similarity search results per query](https://aws.amazon.com/about-aws/whats-new/2026/06/s3-vectors-supports-10000-search-results-per-query)
 - [AWS Transform for mainframe now delivers a traceable reimagine workflow](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-mainframe-traceable-reimagine-workflow/)
 - [AWS Sign-in now supports resource-based policies and resource control policies](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-sign-in/)
 - [Amazon Redshift RG instances powered by AWS Graviton now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-rg-instances-3-additional-regions/)
@@ -65,9 +68,6 @@
 - [AWS Partner Central agents now accelerate co-selling on every deal](https://aws.amazon.com/about-aws/whats-new/2026/06/accelerate-co-selling-with-agents/)
 - [Amazon CloudWatch introduces native OpenTelemetry metrics with PromQL querying and per-GB pricing](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-metrics/)
 - [AWS Marketplace announces AI-assisted product listing](https://aws.amazon.com/about-aws/whats-new/2026/06/ai-assisted-product-listing/)
-- [AWS Partner Central now validates Foundational Technical Review in minutes](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-central-foundational-technical-review/)
-- [AWS Partner Central launches new funding benefits for Business Value Realization](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-partner-business-value-realization/)
-- [Amazon RDS for SQL Server now supports X2m instances](https://aws.amazon.com/about-aws/whats-new/2026/06/rds-sqlserver-supports-x2m/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/)
+- [Amazon CloudWatch Synthetics now supports multilocation canaries](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/)
 - [Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/)
 - [Amazon ECS announces faster service auto scaling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/)
 - [Amazon EC2 G7 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer launches the ability to interrupt an agent with an urgent contact](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect-interrupt-agent-with-urgent-contact/)
 - [all-MiniLM-L12-v2 for semantic search and sentence similarity is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/06/all-minilm-l12-v2-on-sagemaker-jumpstart/)
 - [AWS Compute Optimizer enhances EBS volume recommendations with additional performance metrics](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-compute-optimizer-enhances-ebs-recommendations/)
-- [Ministral-3-14B-Instruct for multimodal reasoning and agentic AI is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/06/ministral-3-14b-on-sagemaker-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

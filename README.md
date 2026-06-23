@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Logs supports managed syslog ingestion](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/)
 - [SageMaker Notebook Instances now support G6e instance types](https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/)
 - [Amazon Bedrock AgentCore Memory now supports cross-account access](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access)
 - [AWS HealthOmics now supports ephemeral storage for private workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/healthomics-scratch-storage/)
+- [Amazon Cognito now supports customer managed key for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-customer-managed-key)
 - [Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/)
+- [Amazon CloudWatch launches OTel Container Insights for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks/)
 - [Amazon OpenSearch Service now offers AI-assisted migrations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations)
 - [Amazon SageMaker Studio notebooks now support G7e instance types](https://aws.amazon.com/about-aws/whats-new/2026/02/g7e-new-launch-sagemaker-studio-notebooks/)
 - [AWS HealthOmics now supports Nextflow profiles](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/)
-- [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/)
-- [AWS Transform for migrations now supports all AWS commercial regions as migration targets](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/)
-- [AWS Network Firewall updates default drop action for improved connection reliability](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

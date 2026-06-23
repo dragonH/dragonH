@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [AWS HealthOmics now supports Nextflow profiles](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/)
 - [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/)
+- [AWS Transform for migrations now supports all AWS commercial regions as migration targets](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/)
 - [AWS Network Firewall updates default drop action for improved connection reliability](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action)
 - [AWS Batch now supports customer-ordered instance allocation strategies](https://aws.amazon.com/about-aws/whats-new/2026/06/batch-ordered-allocation-strategies/)
 - [AWS IAM Identity Center now supports separate quotas for AWS accounts and applications](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas/)
@@ -67,7 +68,6 @@
 - [Introducing self-service lifecycle management capabilities for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-self-service-lifecycle-management)
 - [Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/)
 - [Amazon CloudWatch Synthetics now supports multilocation canaries](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/)
-- [Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

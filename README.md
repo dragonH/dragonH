@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/)
 - [AWS HealthOmics now supports Nextflow profiles](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/)
 - [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/)
 - [AWS Transform for migrations now supports all AWS commercial regions as migration targets](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-transform-migrations-region-expansion/)
@@ -67,7 +68,6 @@
 - [Amazon MSK now offers AI Agent Skills to help developers operate MSK efficiently and accelerate migrations to MSK](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-ai-agent-skills)
 - [Introducing self-service lifecycle management capabilities for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-self-service-lifecycle-management)
 - [Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/)
-- [Amazon CloudWatch Synthetics now supports multilocation canaries](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

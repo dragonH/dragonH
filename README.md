@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS HealthOmics now supports Nextflow profiles](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/)
+- [AWS introduces Lambda MicroVMs for isolated execution of user and AI-generated code](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/)
 - [AWS Network Firewall updates default drop action for improved connection reliability](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-network-firewall-updates-default-drop-action)
 - [AWS Batch now supports customer-ordered instance allocation strategies](https://aws.amazon.com/about-aws/whats-new/2026/06/batch-ordered-allocation-strategies/)
 - [AWS IAM Identity Center now supports separate quotas for AWS accounts and applications](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-identity-center-separate-quotas/)
+- [Amazon MSK now offers AI Agent Skills to help developers operate MSK efficiently and accelerate migrations to MSK](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-ai-agent-skills)
 - [Introducing self-service lifecycle management capabilities for AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-outposts-self-service-lifecycle-management)
 - [Announcing the general availability of a new AWS Local Zone in Hanoi, Vietnam](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-local-zones-hanoi-vietnam/)
 - [Amazon CloudWatch Synthetics now supports multilocation canaries](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-synthetics-multilocation/)
 - [Amazon MSK Express brokers now support Intelligent Rebalancing on existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-msk-express-intelligent/)
-- [Amazon ECS announces faster service auto scaling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ecs-faster-autoscaling/)
-- [Amazon EC2 G7 instances are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-g7-generally-available)
-- [Amazon MQ for RabbitMQ now supports private networking connectivity](https://aws.amazon.com/about-aws/whats-new/2026/05/amazon-mq-private-network-connectivity/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

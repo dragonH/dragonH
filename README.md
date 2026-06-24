@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch now supports tags on dashboards](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards)
 - [Amazon CloudWatch Logs supports managed syslog ingestion](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/)
 - [SageMaker Notebook Instances now support G6e instance types](https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/)
 - [Amazon Bedrock AgentCore Memory now supports cross-account access](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access)
@@ -67,7 +68,6 @@
 - [Amazon CloudWatch launches OTel Container Insights for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks/)
 - [Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2026/06/claude-tag-aws-marketplace/)
 - [Amazon OpenSearch Service now offers AI-assisted migrations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations)
-- [Amazon SageMaker Studio notebooks now support G7e instance types](https://aws.amazon.com/about-aws/whats-new/2026/02/g7e-new-launch-sagemaker-studio-notebooks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

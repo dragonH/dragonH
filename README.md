@@ -65,9 +65,9 @@
 - [Amazon Cognito now supports customer managed key for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-customer-managed-key)
 - [Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/)
 - [Amazon CloudWatch launches OTel Container Insights for Amazon EKS](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-otel-amazon-eks/)
+- [Claude Tag is now available in beta via Claude Enterprise in AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2026/06/claude-tag-aws-marketplace/)
 - [Amazon OpenSearch Service now offers AI-assisted migrations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-opensearch-service-ai-migrations)
 - [Amazon SageMaker Studio notebooks now support G7e instance types](https://aws.amazon.com/about-aws/whats-new/2026/02/g7e-new-launch-sagemaker-studio-notebooks/)
-- [AWS HealthOmics now supports Nextflow profiles](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-healthomics-nextflow-profiles/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

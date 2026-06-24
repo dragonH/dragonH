@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 announces AMI Watermarks for improved AMI governance](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images)
+- [Amazon EMR Serverless now supports live configuration updates without application restarts](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/)
+- [AWS IoT Device SDK for Swift is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/)
 - [Amazon Neptune now supports AWS CloudFormation for global databases](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation/)
 - [Amazon CloudWatch now supports tags on dashboards](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards)
 - [Amazon EC2 High Memory U7in-24TB instances now available in AWS Asia Pacific &lpar;Seoul&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7in-24tb-aws-seoul/)
@@ -65,9 +68,6 @@
 - [Amazon GuardDuty AI-powered investigations accelerate threat response &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-guardduty/)
 - [SageMaker Notebook Instances now support G6e instance types](https://aws.amazon.com/about-aws/whats-new/2026/03/g6e-new-launch-sagemaker-notebook-instances/)
 - [Amazon Bedrock AgentCore Memory now supports cross-account access](https://aws.amazon.com/about-aws/whats-new/2026/06/agentcore-memory-cross-account-access)
-- [AWS HealthOmics now supports ephemeral storage for private workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/healthomics-scratch-storage/)
-- [Amazon Cognito now supports customer managed key for encryption at rest](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cognito-customer-managed-key)
-- [Automated Reasoning checks in Amazon Bedrock Guardrails add new policy refinement workflows](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-guardrails/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

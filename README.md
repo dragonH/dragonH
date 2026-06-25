@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Network Firewall now supports managed threat intelligence rules from VisionHeight](https://aws.amazon.com/about-aws/whats-new/2026/06/network-firewall-visionheight-managed-rules)
+- [Kiro achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-fedramp-high-dod-il-4-5-govcloud-us/)
 - [Amazon Redshift adds Reserved Instance upfront pricing options for RG instances](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-redshift-ri-upfront-pricing-rg-instances)
+- [AWS GovCloud &lpar;US&rpar; now offers US-based, US citizen 24/7 technical support for all customers by default](https://aws.amazon.com/about-aws/whats-new/2026/06/default-govcloud-us-based-support/)
+- [AWS Backup enhances Amazon S3 backup copy performance](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-backup-amazon-s3-copy-enhancement/)
+- [Amazon RDS now supports the latest GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-supports-latest-gdr-updates-microsoft-sql-server)
+- [Amazon OpenSearch Ingestion now available in AWS Europe &lpar;Paris&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/opensearch-ingestion-europe-paris-region-availability)
 - [Amazon EC2 announces AMI Watermarks for improved AMI governance](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-image-watermarks-allowed-images)
 - [Amazon EMR Serverless now supports live configuration updates without application restarts](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-emr-serverless/)
 - [AWS IoT Device SDK for Swift is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iot-device-sdk-swift/)
-- [Amazon Route 53 Global Resolver now supports sharing DNS Views between AWS Accounts](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-route-53-global-resolver/)
-- [Amazon Neptune now supports AWS CloudFormation for global databases](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-aws-cloudformation/)
-- [Amazon CloudWatch now supports tags on dashboards](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-tags-on-dashboards)
-- [Amazon EC2 High Memory U7in-24TB instances now available in AWS Asia Pacific &lpar;Seoul&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-u7in-24tb-aws-seoul/)
-- [Amazon CloudWatch Logs supports managed syslog ingestion](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-syslog-ingestion/)
-- [Amazon GuardDuty AI-powered investigations accelerate threat response &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-guardduty/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

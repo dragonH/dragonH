@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Claude Opus 4.8 is now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/05/claude-opus-4.8-aws-govcloud-us)
-- [OpenAI GPT-5.4 and NVIDIA Nemotron 3 Super 120B now available on Kiro in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/kiro-gpt-nemotron-launch-aws-govcloud-us/)
-- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-service-availability/)
-- [AWS WAF adds support for Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-waf-amazon-bedrock-agentcore/)
-- [Amazon MWAA Serverless now supports shared VPC configurations](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-mwaa-serverless-vpc/)
-- [Amazon S3 server access logs now deliver to Amazon CloudWatch Logs and Amazon S3 Tables](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-s3-cloudwatch-logs-tables/)
-- [Amazon EC2 R8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-r8g-instances-additional-regions/)
-- [Amazon EC2 C7a instances are now available in the Asia Pacific &lpar;Singapore&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-c7a-instances-asia-pacific-singapore-region/)
-- [Amazon EC2 M8a instances now available in the Asia Pacific &lpar;Mumbai&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-ec2-m8a-instances-asia-pacific-mumbai-region/)
-- [OpenAI GPT, OpenAI GPT OSS, and NVIDIA Nemotron models on Amazon Bedrock receive FedRAMP High and DoD IL-4/5 approval in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/06/addl-bedrock-model-fedramp-il-5-govcloud)
+- [AWS Parallel Computing Service supports in-place Slurm major version upgrades](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/)
+- [Amazon ElastiCache T4g nodes now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/)
+- [AWS End User Messaging RCS now supports rich media and interactive messaging](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs/)
+- [Amazon Time Sync Service adds support for Microsecond accurate time on 26 additional EC2 instance types in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-time-sync-precision-time-placement-group)
+- [Announcing general availability of Amazon WorkSpaces for AI agents](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/)
+- [Announcing Capability Insights for AWS, an open-source solution for regional capabilities](https://aws.amazon.com/about-aws/whats-new/2026/06/capability-insights-aws/)
+- [Amazon SageMaker AI cuts generative AI inference scale-out time by up to half with automatic container image caching](https://aws.amazon.com/about-aws/whats-new/2026/06/sagemakerai-inf-scale-out-time)
+- [AWS Security Hub CSPM launches AI Security Best Practices standard with 31 automated controls](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-cspm-ai-security/)
+- [IAM Identity Center now enables programmatic AWS account access for customer managed applications](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-iam-identity-center-account-access-customer-managed-apps/)
+- [Claude Sonnet 5 now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/06/claude-sonnet-5-now-available-on-aws)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Managed Service for Prometheus achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-fedramp-high/)
+- [AWS Security Agent now available in Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Singapore&rpar;, and South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-agent-asia-pacific/)
 - [Amazon CloudWatch Logs enriches log events with AWS resource tags](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/)
 - [AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/)
 - [AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/)
@@ -66,8 +68,6 @@
 - [Amazon ElastiCache T4g nodes now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/)
 - [Amazon Neptune announces dual stack support with IPv6](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-ipv6/)
 - [AWS End User Messaging RCS now supports rich media and interactive messaging](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs/)
-- [Amazon Time Sync Service adds support for Microsecond accurate time on 26 additional EC2 instance types in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/06/ec2-time-sync-precision-time-placement-group)
-- [Announcing general availability of Amazon WorkSpaces for AI agents](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-workspaces-ai/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

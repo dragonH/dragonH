@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Partner Central now supports AWS Marketplace listings for co-selling](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-co-selling-support/)
+- [Amazon Bedrock AgentCore now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions/)
+- [Amazon RDS announces Cross-Region Automated Backups in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-cross-region-automated-backups-additional-aws-regions/)
+- [AWS AppConfig launches managed experimentation tools for A/B testing](https://aws.amazon.com/about-aws/whats-new/2026/6/aws-appconfig-experimentation/)
+- [Amazon EKS now supports Kubernetes version rollback](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-version-rollback)
 - [Amazon Managed Service for Prometheus achieves FedRAMP High and DoD IL-4/5 authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-fedramp-high/)
 - [AWS Security Agent now available in Asia Pacific &lpar;Mumbai&rpar;, Asia Pacific &lpar;Singapore&rpar;, and South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-agent-asia-pacific/)
+- [Amazon OpenSearch Service optimized for log analytics](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-optimized-log-analytics)
 - [Amazon CloudWatch Logs enriches log events with AWS resource tags](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-cloudwatch-logs-resource-tags/)
 - [AWS CloudFormation and CDK accelerate development feedback loops with pre-deployment validation on all stack operations](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation/)
-- [AWS CloudFormation and CDK express mode speeds up infrastructure deployments by up to 4x](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-cloudformation-cdk/)
-- [Amazon RDS Enhances IAM Database Authentication with Connection Rate Scaling](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-rds-iam/)
-- [AWS Parallel Computing Service supports in-place Slurm major version upgrades](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-parallel-computing-service-upgrade/)
-- [Amazon ElastiCache T4g nodes now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-elasticache-t4g-additional-aws-regions/)
-- [Amazon Neptune announces dual stack support with IPv6](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-neptune-ipv6/)
-- [AWS End User Messaging RCS now supports rich media and interactive messaging](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-end-user-messaging-rcs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

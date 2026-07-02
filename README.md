@@ -60,7 +60,6 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Bedrock AgentCore increases default runtime quota limits](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/)
 - [Amazon CloudWatch supports creating alarms from log queries](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms/)
-- [ECS Service Connect now supports Zone-Aware routing](https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/)
 - [Amazon ECS now provides real-time deployment observability in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-aws-management-console/)
 - [AWS Artifact now includes Assurance Assistant for compliance inquiries](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-artifact-assurance-assistant/)
 - [AWS Partner Central now supports AWS Marketplace listings for co-selling](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-marketplace-co-selling-support/)
@@ -68,6 +67,7 @@
 - [Amazon Bedrock AgentCore now available in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-four-additional-regions/)
 - [Amazon ECS now supports configurable deployment circuit breaker settings](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-circuit-breaker-settings/)
 - [Amazon GuardDuty adds sensitive file modification threat detections](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-sfm/)
+- [AWS AppConfig launches managed experimentation tools for A/B testing](https://aws.amazon.com/about-aws/whats-new/2026/6/aws-appconfig-experimentation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

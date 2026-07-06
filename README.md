@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EVS VCF 9.0 and 9.1 support](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9)
 - [AWS Certificate Manager now supports the ACME protocol for public certificates](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/)
+- [CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events](https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/)
 - [AWS CodePipeline now available in Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/)
 - [AWS Secrets Manager adds managed external secrets support for Paddle and GitLab](https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab/)
 - [Amazon SageMaker Unified Studio now supports Terraform for provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 Dedicated Hosts now support AMD SEV-SNP](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts)
 - [Amazon SageMaker HyperPod now supports AMI versioning and auto-patching](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch)
 - [AWS Config now supports 8 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types)
-- [Amazon Bedrock AgentCore increases default runtime quota limits](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-increases-default-runtime-quota-limits/)
-- [Amazon CloudWatch supports creating alarms from log queries](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-log-alarms/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

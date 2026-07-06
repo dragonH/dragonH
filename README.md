@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker HyperPod now supports disaggregated prefill and decode](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/)
 - [Amazon EVS VCF 9.0 and 9.1 support](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9)
 - [AWS Certificate Manager now supports the ACME protocol for public certificates](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-certificate-manager-acme/)
 - [CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events](https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/)
@@ -67,7 +68,6 @@
 - [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/)
 - [Amazon EC2 Dedicated Hosts now support AMD SEV-SNP](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-amd-sev-snp-dedicated-hosts)
 - [Amazon SageMaker HyperPod now supports AMI versioning and auto-patching](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-hyperpod-ami-version-auto-patch)
-- [AWS Config now supports 8 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-config-new-resource-types)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

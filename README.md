@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C8ine instances are now available in AWS Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c8ine-aws-frankfurt/)
 - [AWS Security Hub adds impact analysis for exposure findings](https://aws.amazon.com/about-aws/whats-new/2026/07/impact-analysis-aws-security-hub/)
 - [Amazon SageMaker HyperPod now supports disaggregated prefill and decode](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/)
 - [Amazon Cognito now supports self-service provisioned API rate limits](https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits)
@@ -67,7 +68,6 @@
 - [CloudWatch Application Signals now automatically captures errors, performance anomalies, and deployment events](https://aws.amazon.com/about-aws/whats-new/2026/06/cloudwatch-service-events/)
 - [AWS CodePipeline now available in Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/)
 - [AWS Secrets Manager adds managed external secrets support for Paddle and GitLab](https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab/)
-- [Amazon SageMaker Unified Studio now supports Terraform for provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub adds impact analysis for exposure findings](https://aws.amazon.com/about-aws/whats-new/2026/07/impact-analysis-aws-security-hub/)
 - [Amazon SageMaker HyperPod now supports disaggregated prefill and decode](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/)
 - [Amazon Cognito now supports self-service provisioned API rate limits](https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits)
 - [Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization](https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/)
@@ -67,7 +68,6 @@
 - [AWS CodePipeline now available in Asia Pacific &lpar;New Zealand&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codepipeline-new-zealand/)
 - [AWS Secrets Manager adds managed external secrets support for Paddle and GitLab](https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-managed-external-secrets-paddle-gitlab/)
 - [Amazon SageMaker Unified Studio now supports Terraform for provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-terraform/)
-- [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/02/amazon-ec2-x8i-instances-ICN-KUL-NRT-region/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

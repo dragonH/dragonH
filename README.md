@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Streams introduces secure terminal access for stream sessions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/)
+- [Amazon S3 Vectors is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/)
+- [AWS Security Hub extends unified security management to Microsoft Azure](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-supports-monitoring-microsoft-azure/)
 - [Amazon ECS Managed Instances reduces GPU management fees by up to 60%](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-managed-instances-gpu-price/)
 - [Amazon EMR Serverless now supports larger worker sizes to run more compute and memory intensive workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-serverless/)
 - [Amazon EC2 C8ine instances are now available in AWS Europe &lpar;Frankfurt&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c8ine-aws-frankfurt/)
+- [Amazon SageMaker now supports data lineage in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-data-lineage-iam-domain)
+- [Amazon Redshift RG instances now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-instances-aws-govcloud)
+- [Amazon RDS for Oracle now supports Oracle Database 26ai](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-database-26ai/)
 - [Amazon EKS Auto Mode reduces GPU management fees by up to 60%](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-auto-mode-gpu-price)
-- [AWS Security Hub adds impact analysis for exposure findings](https://aws.amazon.com/about-aws/whats-new/2026/07/impact-analysis-aws-security-hub/)
-- [Amazon SageMaker HyperPod now supports disaggregated prefill and decode](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-sagemaker-hyperpod-dpd/)
-- [Amazon Cognito now supports self-service provisioned API rate limits](https://aws.amazon.com/about-aws/whats-new/2026/07/cognito-provisioned-limits)
-- [Amazon SageMaker Studio now integrates with Hugging Face for one-click model deployment and customization](https://aws.amazon.com/about-aws/whats-new/2026/07/sagemaker-studio-hugging-face-integration/)
-- [AWS introduces declarative controls for VPC Encryption Controls](https://aws.amazon.com/about-aws/whats-new/2026/07/vpc-encryption-controls-declarative-controls/)
-- [Amazon EVS VCF 9.0 and 9.1 support](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-vcf9)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

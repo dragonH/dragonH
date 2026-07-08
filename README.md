@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 High Memory U7i instances now available in AWS Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich/)
 - [Amazon GameLift Streams introduces secure terminal access for stream sessions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/)
 - [Amazon S3 Vectors is now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/s3-vectors-available-aws-govcloud-regions/)
 - [AWS Security Hub extends unified security management to Microsoft Azure](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-security-hub-supports-monitoring-microsoft-azure/)
@@ -67,7 +68,6 @@
 - [Amazon SageMaker now supports data lineage in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-data-lineage-iam-domain)
 - [Amazon Redshift RG instances now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-instances-aws-govcloud)
 - [Amazon RDS for Oracle now supports Oracle Database 26ai](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-database-26ai/)
-- [Amazon S3 Express One Zone is now available in the AWS Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/s3-express-one-zone-europe-frankfurt/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

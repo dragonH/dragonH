@@ -67,7 +67,7 @@
 - [Amazon SageMaker now supports data lineage in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-data-lineage-iam-domain)
 - [Amazon Redshift RG instances now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-instances-aws-govcloud)
 - [Amazon RDS for Oracle now supports Oracle Database 26ai](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-database-26ai/)
-- [Amazon EKS Auto Mode reduces GPU management fees by up to 60%](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-auto-mode-gpu-price)
+- [Amazon S3 Express One Zone is now available in the AWS Europe &lpar;Frankfurt&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/s3-express-one-zone-europe-frankfurt/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/)
 - [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/)
 - [Amazon SageMaker Unified Studio adds custom asset types to the catalog in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/07/smus-custom-asset-types-iam/)
+- [Amazon SageMaker Feature Store now supports batch feature writes and record listing](https://aws.amazon.com/about-aws/whats-new/2026/07/amzn-sgm-feature-store-batch-write-list/)
+- [Amazon MSK Replicator now supports replication from external Apache Kafka clusters to MSK Standard brokers](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-msk-replicator-external-kafka-standard-broker-support)
 - [AWS Builder Center Now Offers Free Sandbox Environments](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-builder-center-sandbox/)
 - [Amazon SageMaker Unified Studio Workflows now supports operators for Amazon Bedrock, S3 Tables, S3 Vectors, and Glue Catalog](https://aws.amazon.com/about-aws/whats-new/2026/07/apache-airflow-operators-amazon-sagemaker-unified-studio-workflows/)
 - [AWS Security Hub now offers Network Scanning to identify publicly reachable resources](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-network-scanning/)
 - [Amazon Redshift RG instances now available on the trailing track](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-graviton-rg-instances-trailing-track)
 - [Amazon Aurora DSQL change data capture &lpar;CDC&rpar; Is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-cdc-ga/)
-- [Amazon Connect Customer now supports forecasting, planning, and scheduling for Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-customer-agent-scheduling-tasks/)
-- [Amazon EC2 High Memory U7i instances now available in AWS Europe &lpar;Zurich&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-u7i-aws-europe-zurich/)
-- [Amazon GameLift Streams introduces secure terminal access for stream sessions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-terminal-access/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

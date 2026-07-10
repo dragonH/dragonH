@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR on EKS now supports Apache Spark troubleshooting agent](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-emr-eks-spark-troubleshooting/)
 - [Amazon Location Service enhances Places APIs with new address and search options](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search)
+- [Amazon EC2 G7 instances are now available in the AWS US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-g7-available-North-Virginia)
 - [AWS DMS Schema Conversion now supports offline SQL Server conversion](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/)
+- [Amazon EC2 I7ie instances now available in AWS Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i7ie-instances-aws-hyd-region/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports R8g.24xlarge and R8g.48xlarge instances](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-r8g-24xl-48xl/)
 - [AWS DMS Schema Conversion now supports AI agent automation](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-sc-ai-agent-automation-mcp-server/)
+- [AWS Organizations now applies account departure security controls by default for new organizations created via AWS Organizations console](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-security-controls-new-orgs-console)
 - [OAuth support for the AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/07/oauth-aws-mcp-server/)
-- [Amazon Timestream for InfluxDB now publishes database state change events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-eventbridge/)
-- [AWS Client VPN extends availability to four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-client-vpn-four-additional-regions/)
-- [Amazon SageMaker Unified Studio adds custom asset types to the catalog in IAM-based domains](https://aws.amazon.com/about-aws/whats-new/2026/07/smus-custom-asset-types-iam/)
-- [Amazon SageMaker HyperPod now supports deep health checks for Slurm clusters with continuous provisioning](https://aws.amazon.com/about-aws/whats-new/2026/07/deep-health-check-continuous-slurm/)
-- [Amazon SageMaker Feature Store now supports batch feature writes and record listing](https://aws.amazon.com/about-aws/whats-new/2026/07/amzn-sgm-feature-store-batch-write-list/)
+- [Amazon EC2 I8g instances now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8g-instances-aws-govcloud-us-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill)
 - [Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/)
 - [OpenAI privacy-filter for PII detection and masking is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart/)
 - [Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/)
@@ -67,7 +68,6 @@
 - [Amazon Location Service enhances Places APIs with new address and search options](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-enhanced-address-search)
 - [Amazon SageMaker HyperPod now supports AMI-based node lifecycle configuration for Slurm clusters using continuous provisioning](https://aws.amazon.com/about-aws/whats-new/2025/06/ami-configuration-continuous-slurm/)
 - [Amazon EC2 G7 instances are now available in the AWS US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-g7-available-North-Virginia)
-- [AWS DMS Schema Conversion now supports offline SQL Server conversion](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-dms-schema-conversion-offline-source/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

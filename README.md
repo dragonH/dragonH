@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Disaster Recovery now supports Amazon EBS volume initialization rate](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-hydration/)
+- [AWS Elastic Disaster Recovery reduces recovery time for AWS-to-AWS workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-fast-recovery/)
+- [AWS Lambda console provides a one-click setup prompt for coding agents](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-prompt-coding-agents/)
 - [AWS IAM Identity Center achieves FedRAMP Class C Certification](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-identity-center-fedramp/)
 - [Introducing Amazon GuardDuty AI Protection for AWS AI workloads](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-guardduty-ai-protection-aws/)
-- [Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/)
+- [Amazon Managed Service for Apache Flink now offers AI Agent Skills to simplify building and operating Flink applications](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-agent-skills/)
 - [AWS Security Hub now provides AI inventory for organization-wide visibility of AI assets](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-ai/)
+- [Amazon WorkSpaces Personal simplifies bulk PCoIP to DCV protocol migration](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-workspaces-personal-pcoip/)
 - [Amazon Aurora DSQL is now available in Europe &lpar;Spain&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-available-in-spain/)
 - [AWS Storage Gateway adds console support for copying file shares across gateways](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares/)
-- [Amazon CloudFront Functions now supports logging to CloudFront access logs](https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/)
-- [OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/)
-- [Amazon Managed Service for Prometheus is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Storage Gateway adds console support for copying file shares across gateways](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-storage-gateway-console-copy-file-shares/)
+- [Amazon CloudFront Functions now supports logging to CloudFront access logs](https://aws.amazon.com/about-aws/whats-new/2026/07/cloudfront-functions-access-logs/)
 - [OpenAI GPT-5.6 Sol, Terra, and Luna now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/07/openai-gpt-sol-terra/)
 - [Amazon Managed Service for Prometheus is now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-new-zealand/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-agent-skill)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for 46 new MongoDB operators in version 8.0.1](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-documentdb-mongodb-8-0-1-mongo-api)
 - [Gemma-4-E2B-it for is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-e2b-on-sagemaker-jumpstart/)
 - [OpenAI privacy-filter for PII detection and masking is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/privacy-filter-on-sagemaker-jumpstart/)
-- [Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/)
 - [Voxtral-Mini-4B-Realtime for real-time speech transcription is now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/voxtral-mini-realtime-on-sagemaker-jumpstart/)
-- [Amazon SageMaker HyperPod now supports custom AMIs &lpar;Amazon Machine Images&rpar; for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-custom-ami-slurm/)
-- [Amazon EC2 network/EBS instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8in-r8ib-r8idn-r8idb)
+- [Qwen3 embedding and reranking models for retrieval are now available in Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/07/qwen3-search-retrieval-on-sagemaker-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

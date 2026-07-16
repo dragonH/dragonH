@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon EC2 now surfaces the public SSM parameters associated with public AMIs](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-pulic-images-ssm-parameters)
+- [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/)
+- [Amazon EC2 now surfaces the public SSM parameters associated with public AMIs](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-public-images-ssm-parameters)
 - [Amazon S3 Event Notifications now include system-generated tags](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-event-notifications-system-generated-tags/)
 - [PostgreSQL 19 Beta 2 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/07/postgresql-19-beta-2-amazon-rds-database-preview-environment/)
+- [AWS Sustainability service now includes water withdrawals data](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-sustainability-water-withdrawals/)
 - [Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe/)
 - [Amazon Redshift adds rg.large and rg.12xlarge instance sizes](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes)
-- [AWS Control Tower Account Factory for Terraform now re-applies customizations when accounts move between OUs](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-control-tower-account/)
-- [Amazon CloudWatch Logs Insights adds 25 new query commands and functions](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-cloudwatch-logs-insights-ql/)
-- [Amazon CloudWatch Logs announces intelligent tiering for storage](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/)
-- [Amazon MQ now supports configurable storage for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/)
-- [Amazon EC2 G7e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/)
+- [Amazon S3 removes 30-day minimum for transitions to S3 Standard-IA and S3 One Zone-IA](https://aws.amazon.com/about-aws/whats-new/2026/07/s3-removes-30-day-transitions-standard-ia-one-zone-ia)
+- [AWS Backup extends logically air-gapped vault support to six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions/)
+- [AWS Backup extends restore testing support to six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-restore-testing-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

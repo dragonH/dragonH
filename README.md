@@ -60,6 +60,7 @@
 <!-- AWS-NEWS:START -->
 - [Amazon CloudWatch Logs announces intelligent tiering for storage](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-intelligent-tiering/)
 - [Amazon MQ now supports configurable storage for RabbitMQ brokers](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mq-rabbitmq-configurable-storage/)
+- [Amazon EC2 G7e instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-g7e-additional-regions/)
 - [Amazon RDS and Aurora now support R8g and M8g database instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/7/amazon-rds-aurora-r8g-m8g-regions/)
 - [Amazon RDS and Aurora expand R8gd and M8gd to additional Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-aurora-r8gd-m8gd-regions/)
 - [Amazon Cognito now supports importing users with password hashes](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cognito-password-hash-import/)
@@ -67,7 +68,6 @@
 - [Amazon RDS now supports up to four storage modifications in 24 hours](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-upto-four-storage-modifications-24-hours)
 - [AWS Glue SAP OData connector and zero-ETL integrations are now available in AWS GovCloud &lpar;US&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-sap-zero-etl-govcloud)
 - [Amazon OpenSearch Service now supports the Agent Toolkit for AWS with a curated skill](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-service-agent/)
-- [Amazon RDS for Db2 is now available in additional AWS Commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-db2-available-additional-aws-commercial-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

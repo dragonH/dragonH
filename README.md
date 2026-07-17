@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Streams now supports IAM role credentials for stream sessions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/)
 - [Amazon OpenSearch UI now supports one-click dashboard migration](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration)
 - [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/)
 - [Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget](https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards)
@@ -67,7 +68,6 @@
 - [AWS Sustainability service now includes water withdrawals data](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-sustainability-water-withdrawals/)
 - [Amazon Redshift adds rg.large and rg.12xlarge instance sizes](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes)
 - [Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe/)
-- [Amazon S3 removes 30-day minimum for transitions to S3 Standard-IA and S3 One Zone-IA](https://aws.amazon.com/about-aws/whats-new/2026/07/s3-removes-30-day-transitions-standard-ia-one-zone-ia)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

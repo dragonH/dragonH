@@ -67,7 +67,7 @@
 - [Amazon EC2 High Memory U7in-24TB instances now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-high-memory-europe/)
 - [Amazon Redshift adds rg.large and rg.12xlarge instance sizes](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-adds-rg-large-12xlarge-instance-sizes)
 - [Amazon S3 removes 30-day minimum for transitions to S3 Standard-IA and S3 One Zone-IA](https://aws.amazon.com/about-aws/whats-new/2026/07/s3-removes-30-day-transitions-standard-ia-one-zone-ia)
-- [AWS Backup extends logically air-gapped vault support to six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions/)
+- [AWS Backup extends logically air-gapped vault support to seven additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-backup-logically-air-gapped-vault-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

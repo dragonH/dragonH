@@ -61,13 +61,13 @@
 - [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/)
 - [Selectively log network activity events by identity in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/)
 - [Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice/)
+- [Amazon EC2 I8ge instances are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-i8ge-instances-aws-govcloud-us-regions/)
 - [Amazon Managed Service for Apache Flink now supports Apache Flink 2.3](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-2-3/)
-- [AWS Local Zone in Athens, Greece is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece/)
+- [Amazon WorkSpaces Applications now supports Microsoft OneDrive and Google Drive on Multi-Session fleets](https://aws.amazon.com/about-aws/whats-new/2026/07/storage-multi-session-fleets/)
+- [Announcing the general availability of a new AWS Local Zone in Athens, Greece](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece/)
 - [Amazon CloudWatch announces coding agent insights](https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-coding-agent-insights/)
 - [Introducing KNFSD File Cache - Now in Preview](https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache/)
 - [Amazon GameLift Streams now supports IAM role credentials for stream sessions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/)
-- [Amazon OpenSearch UI now supports one-click dashboard migration](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration)
-- [Amazon SageMaker HyperPod now supports partition-level topology for Slurm orchestrated clusters](https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-partition-topology-slurm/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r8i-r8i-flex-instances-in-stockholm-zurich-regions/)
 - [Selectively log network activity events by identity in AWS CloudTrail](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-cloudtrail-filter-useridentity-advance-selectors/)
 - [Amazon Connect delivers more natural agentic voice experiences with expanded language support and speech controls](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-connect-agentic-voice/)
+- [Amazon Managed Service for Apache Flink now supports Apache Flink 2.3](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-flink-2-3/)
+- [AWS Local Zone in Athens, Greece is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-local-zone-athens-greece/)
 - [Amazon CloudWatch announces coding agent insights](https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-coding-agent-insights/)
 - [Introducing KNFSD File Cache - Now in Preview](https://aws.amazon.com/about-aws/whats-new/2026/07/knfsd-file-cache/)
 - [Amazon GameLift Streams now supports IAM role credentials for stream sessions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams-iam/)
 - [Amazon OpenSearch UI now supports one-click dashboard migration](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-opensearch-ui-one-click-dashboard-migration)
 - [Amazon SageMaker HyperPod now supports partition-level topology for Slurm orchestrated clusters](https://aws.amazon.com/about-aws/whats-new/2026/07/hyperpod-partition-topology-slurm/)
-- [Amazon CloudWatch Synthetics now supports customer managed encryption keys](https://aws.amazon.com/about-aws/whats-new/2026/07/synthetics-customer-managed-keys/)
-- [Amazon Managed Grafana achieves FedRAMP High authorization in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-grafana-fedramp-high/)
-- [Track cost efficiency trends directly in Billing and Cost Management Dashboards with the new Cost Efficiency widget](https://aws.amazon.com/about-aws/whats-new/2026/07/monitor-cost-efficiency-using-dashboards)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

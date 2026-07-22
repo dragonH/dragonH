@@ -58,7 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Corretto July 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-corretto-july-2026-quarterly-updates)
 - [Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/)
+- [AWS Secrets Manager now publishes secret update notifications to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-update-notifications)
 - [AWS Direct Connect announces 100G expansion in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-100g-lima/)
 - [AWS Elastic Disaster Recovery is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/)
 - [Amazon EC2 R6in and R6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/)
@@ -66,8 +68,6 @@
 - [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/)
 - [Amazon ECS advanced deployment strategies now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-adv-deployments-eu-sovereign-cloud/)
 - [Amazon SES introduces pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-pricing-plans/)
-- [Amazon ECS now provides Action Logs for deployment and orchestration visibility](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs/)
-- [Amazon Managed Service for Prometheus supports 1.5B active metrics and 200K rules per workspace](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-1500m-metrics-workspace/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

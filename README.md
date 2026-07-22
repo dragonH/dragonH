@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 C7a instances are now available in the US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7a-instances-us-west-ncalifornia-region/)
+- [Amazon EC2 M8a instances now available in the Asia Pacific &lpar;Hyderabad&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m8a-instances-asia-pacific-hyderabad-region/)
 - [AWS Network Load Balancer now supports Listener Rules for custom traffic routing](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-network-load-balancer-supports-listener-rules/)
 - [AWS Entity Resolution now supports advanced real-time matching](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-entity-resolution/)
 - [AWS Lambda durable functions now supports customer managed key encryption](https://aws.amazon.com/about-aws/whats-new/2026/07/durablefunctions-cmk/)
 - [Amazon Corretto July 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-corretto-july-2026-quarterly-updates)
+- [AWS Organizations increases RCP quota to 2,000 per organization](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-organizations-resource-control-policy-limit-increase-2000)
 - [Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/)
+- [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server)
 - [AWS Secrets Manager now publishes secret update notifications to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/07/secrets-manager-update-notifications)
-- [AWS Direct Connect announces 100G expansion in Lima, Peru](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-100g-lima/)
-- [AWS Elastic Disaster Recovery is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/)
-- [Amazon EC2 R6in and R6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/)
-- [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

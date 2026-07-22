@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now supports EFA and placement groups on Amazon EKS Auto Mode and Karpenter](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-eks-efa-placement-groups/)
+- [AWS Elastic Disaster Recovery is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-drs-additional-regions/)
 - [Amazon EC2 R6in and R6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-r6in-r6idn/)
-- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/)
 - [Amazon EC2 M6in and M6idn instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-m6in-m6idn/)
+- [Amazon EC2 C6in instances are now available in Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c6in/)
 - [Amazon ECS advanced deployment strategies now available in AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-adv-deployments-eu-sovereign-cloud/)
 - [Amazon SES introduces pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-pricing-plans/)
 - [Amazon ECS now provides Action Logs for deployment and orchestration visibility](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ecs-action-logs/)
 - [Amazon Managed Service for Prometheus supports 1.5B active metrics and 200K rules per workspace](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-managed-service-prometheus-1500m-metrics-workspace/)
 - [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server)
-- [Amazon RDS for SQL Server now supports Microsoft SQL Server 2025](https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sqlserver-supports-sqlserver-2025)
-- [AWS Partner Central agents expand funding guidance to all programs](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-partner-central/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

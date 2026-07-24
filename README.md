@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SES simplifies sending emails over SMTP using Mail Manager](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-simplified-smtp-mail-manager)
 - [Claude Opus 5 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws/)
 - [Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us/)
 - [AWS announces aws-bench, an open-source benchmark for AI agents on AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/)
@@ -67,7 +68,6 @@
 - [AWS Lambda durable execution SDK for .NET is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/07/lambdadf-dotnet/)
 - [Amazon Bedrock AgentCore now delivers unified observability with traces and logs in a single log group](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-bedrock-agentcore-unified-observability-single-log-group/)
 - [Amazon CloudWatch Logs now supports Application Load Balancer logs](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-cloudwatch-logs/)
-- [Amazon EC2 I8ge instances are now generally available in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-i8ge-additional-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

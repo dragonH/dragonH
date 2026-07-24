@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces aws-bench, an open-source benchmark for AI agents on AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/)
 - [Amazon ECS Service Connect now supports Zone-Aware routing](https://aws.amazon.com/about-aws/whats-new/2026/07/ecs-service-connect-zone-aware/)
 - [AWS now supports automatic credit memo application preferences](https://aws.amazon.com/about-aws/whats-new/2026/07/credit-memo-applications/)
 - [Amazon RDS for MySQL supports MySQL 9.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-mysql-long-term-9-7-rds-database-preview/)
@@ -67,7 +68,6 @@
 - [Amazon EVS is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-evs-available-in-additional-regions/)
 - [Claude Sonnet 5 is now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-sonnet-5-govcloud/)
 - [Announcing region expansion of G7e instances on SageMaker AI inference](https://aws.amazon.com/about-aws/whats-new/2026/07/g7e-sagemaker-ai/)
-- [Announcing region expansion of G6 instances on SageMaker AI Inference](https://aws.amazon.com/about-aws/whats-new/2026/07/g6-sagemaker-ai-inference/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Streams now supports Custom Aspect Ratio and Dynamic Resolution](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-gamelift-streams/)
+- [AWS Security Hub MCP App brings exposure findings into your AI-assisted workflow &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-security-hub-mcp-app/)
 - [AWS Elemental MediaTailor adds configurable ad timeout and concurrency controls for improved ad fill and faster startup](https://aws.amazon.com/about-aws/whats-new/2026/07/mediatail-configurable-ad-timeout-and-concurrency)
 - [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/)
 - [Amazon MWAA now supports Apache Airflow version 2.11.2](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2)
@@ -66,8 +68,6 @@
 - [AWS Lambda now publishes logs for Lambda Managed Instances capacity providers](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-managed-instances-logs/)
 - [Amazon SES simplifies sending emails over SMTP using Mail Manager](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ses-simplified-smtp-mail-manager)
 - [Claude Opus 5 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws/)
-- [Opus 4.8, Sonnet 5, and User Activity Monitoring now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/kiro-opus-sonnet-monitoring-launch-aws-govcloud-us/)
-- [AWS announces aws-bench, an open-source benchmark for AI agents on AWS](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-bench/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

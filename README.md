@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon S3 Tables now support the Variant data type for Apache Iceberg V3](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-s3-tables-variant-iceberg-v3/)
 - [Amazon Neptune now supports tag-based access control for IAM](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-neptune-tbac/)
 - [AWS Glue Data Quality now supports anomaly detection and writing results to the AWS Glue Data Catalog](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-catalog-anomaly-detection-write-results)
 - [AWS Glue Data Quality now supports distribution statistics for data profiling](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-glue-data-quality-distribution-profiling)
@@ -67,7 +68,6 @@
 - [Amazon RDS for SQL Server now supports restoring TDE databases on Mult-AZ instances](https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-tde-for-maz/)
 - [Amazon Connect now supports audio optimization for Azure Virtual Desktop and Windows 365 Cloud PC](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-connect/)
 - [Amazon MWAA now supports Apache Airflow version 2.11.2](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-mwaa-now-supports-apache-airflow-version-2-11-2)
-- [Amazon EC2 Dedicated Hosts now support host resource groups without self-managed licenses](https://aws.amazon.com/about-aws/whats-new/2026/07/ec2-dedicated-hosts-hrg/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

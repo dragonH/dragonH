@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Unified Studio brings richer Git version control to all project tools](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-studio-git/)
 - [AWS Direct Connect now supports BGP route visibility on Virtual Interfaces](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-direct-connect-bgp-visibility/)
 - [Amazon Redshift RG large and 12xlarge instances now available on the trailing track](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-redshift-rg-large-12xlarge-trailing-track)
 - [IAM Policy Simulator moves to the IAM console and adds additional capabilities](https://aws.amazon.com/about-aws/whats-new/2026/07/iam-policy-simulator-iam-console/)
@@ -67,7 +68,6 @@
 - [Amazon MSK Express brokers now deliver data to streaming tables for Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-msk-streaming-tables-for-apache-iceberg)
 - [Grok 4.3 from xAI is now available on Amazon Bedrock in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/grok-4-3-bedrock-govcloud/)
 - [Gemma 4 models are now available on Amazon Bedrock in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/gemma-4-bedrock-govcloud/)
-- [AWS Managed Microsoft AD now supports Standard to Enterprise Edition upgrade](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-microsoft-ad-edition-upgrade/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

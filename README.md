@@ -60,8 +60,8 @@
 <!-- AWS-NEWS:START -->
 - [Amazon Aurora DSQL adds multi-Region cluster support in four more Regions](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-aurora-dsql-adds-multi-region-clusters-four-more-regions/)
 - [Amazon RDS for Oracle now offers Reserved Instances for R8i and M8i instances](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-rds-oracle-r8i-m8i/)
-- [AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/)
 - [Amazon Location Service adds Search Nearby support for GrabMaps in Southeast Asia](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-location-service-search-nearby-grabmaps)
+- [AWS Lambda now supports Java 8, 11, and 17 on Amazon Linux 2023](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-java-amazon-linux/)
 - [Amazon CloudWatch announces managed Prometheus collectors](https://aws.amazon.com/about-aws/whats-new/2026/07/cloudwatch-managed-collectors/)
 - [AWS CodeDeploy now available in five additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-codedeploy-five-additional-regions)
 - [Amazon EC2 C7i-flex instances now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-ec2-c7i-flex-instances-MXP-region/)

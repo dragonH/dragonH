@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Security Hub Extended adds supply chain security as its 10th category](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-hub-extended-adds-supply-chain-security)
+- [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions/)
+- [AWS Application and Network Load Balancers now support RFC 9151 compliant security policies](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network/)
 - [Amazon EC2 I8g instances now available in AWS Europe &lpar;Paris&rpar;, Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i8g-instances-aws-paris-jakarta-regions/)
 - [Amazon RDS for SQL Server now support BYOM in additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-byom-in-additional-aws-regions/)
 - [AWS Transform continuous modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available)
@@ -65,9 +68,6 @@
 - [Amazon GameLift Streams now supports sharing streams with stream URLs](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/)
 - [AWS Resilience Hub now provides recommended resilience tests](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/)
 - [AWS Organizations now provides maximum account quota visibility in Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/)
-- [AWS Lambda Provisioned Mode for Amazon SQS event source mappings now supports up to 10,000 event pollers](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-Lambda-provisioned-sqs-esm-max-pollers/)
-- [Amazon EC2 I7i instances now available in Asia Pacific &lpar;Thailand&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i7i-instances-in-additional-regions/)
-- [Amazon SageMaker AI serverless model customization now supports full fine-tuning](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

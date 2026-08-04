@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transform continuous modernization is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-continuous-general-available)
+- [OpenAI GPT-5.6 Sol, Terra, and Luna now support 1 million token context windows on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/gpt-sol-terra-luna-long-context-bedrock)
 - [Amazon GameLift Streams now supports sharing streams with stream URLs](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-gamelift-streams/)
-- [AWS HealthOmics now supports task-level timeout for WDL workflows](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-healthomics-wdl-task-level-timeout/)
 - [AWS Resilience Hub now provides recommended resilience tests](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-resilience-hub/)
+- [AWS Organizations now provides maximum account quota visibility in Service Quotas](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-organizations/)
+- [AWS Lambda Provisioned Mode for Amazon SQS event source mappings now supports up to 10,000 event pollers](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-Lambda-provisioned-sqs-esm-max-pollers/)
 - [Amazon EC2 I7i instances now available in Asia Pacific &lpar;Thailand&rpar; and Israel &lpar;Tel Aviv&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i7i-instances-in-additional-regions/)
 - [Amazon SageMaker AI serverless model customization now supports full fine-tuning](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-fft)
 - [AWS Transform for full-stack Windows modernization now supports offline schema transformation to Aurora PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/7/aws-transform-windows-sql-schema-aurora)
 - [AWS WAF now supports Miggo Security managed rule groups for emerging threats and AI/ML application protection](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-waf-miggo-managed-rule-groups)
-- [Amazon ECR now supports image layers up to 200 GB](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-image-layers/)
-- [AWS Config now supports 15 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-config-new-resource-types)
-- [Amazon SageMaker Unified Studio now supports Teradata Vantage](https://aws.amazon.com/about-aws/whats-new/2026/07/amazon-sagemaker-unified-teradata)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

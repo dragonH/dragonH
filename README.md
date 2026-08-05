@@ -65,9 +65,9 @@
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8g-instances-additional-regions/)
 - [AWS Application and Network Load Balancers now support RFC 9151 compliant security policies](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-application-network/)
 - [Amazon S3 Vectors is now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-s3-vectors-european-sovereign-cloud-germany/)
+- [Amazon Connect Customer now supports capacity planning in 15 or 30 minute intervals](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-interval-capacity-plan)
 - [Amazon EC2 I8g instances now available in AWS Europe &lpar;Paris&rpar;, Asia Pacific &lpar;Jakarta&rpar; regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-i8g-instances-aws-paris-jakarta-regions/)
 - [Amazon RDS for SQL Server now support BYOM in additional commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-byom-in-additional-aws-regions/)
-- [Amazon RDS for SQL Server supports Developer Edition in additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/07/rds-sql-server-supports-developer-edition-in-additional-aws-regions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

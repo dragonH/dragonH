@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 R8i and R8i-Flex instances are now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/)
 - [Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)
 - [Amazon Cognito now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/)
 - [AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)
 - [Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/)
 - [Amazon GameLift Servers now supports 21 new EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/)
 - [Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates)
+- [Amazon SES now helps identify automated open and click events in event notifications](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/)
 - [AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/)
 - [Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/)
-- [AWS Lambda console extends console-to-IDE integration to Kiro and Cursor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/)
-- [AWS WAF now supports a Salt Security managed rule group for API and MCP threat detection](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-waf-salt-security-managed-rules/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

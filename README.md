@@ -67,7 +67,7 @@
 - [AWS Transform for migrations automates post-launch actions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions)
 - [AWS Security Agent now supports email-based MFA for penetration testing](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa/)
 - [Amazon RDS now provides visibility into storage volume initialization status](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-storage-volume-initialization-visibility)
-- [Amazon WorkSpaces now publishes enhanced observability metrics](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics)
+- [Amazon WorkSpaces Applications now publishes enhanced observability metrics](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-observability-metrics)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

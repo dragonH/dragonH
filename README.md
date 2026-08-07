@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)
 - [AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/)
 - [Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/)
 - [AWS Lambda console extends console-to-IDE integration to Kiro and Cursor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-ide-kiro-cursor/)
@@ -67,7 +68,6 @@
 - [Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-elasticache-graviton4-m8g-r8g-c8gn/)
 - [AWS Glue Schema Registry is now available in ten more AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-gsr-10-more-regions)
 - [AWS Transform for migrations automates post-launch actions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions)
-- [AWS Security Agent now supports email-based MFA for penetration testing](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

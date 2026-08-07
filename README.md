@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Lambda announces scalable network bandwidth up to 3,000 Mbps for functions outside a VPC](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-network-bandwidth/)
-- [Amazon Keyspaces &lpar;for Apache Cassandra&rpar; is now available in the Canada West &lpar;Calgary&rpar; Region &lpar;ca-west-1&rpar;](https://aws.amazon.com/about-aws/whats-new/2025/11/amazon-keyspaces-apache-cassandra-canada-west/)
-- [AWS Glue Data Quality makes ETL anomaly detection free and improves anomaly predictions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-quality-anomaly-detection-free)
-- [AWS Marketplace adds AI Insights so buyers can understand pricing before they buy](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-ai-insights/)
-- [Amazon DynamoDB now supports real-time vector search](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-dynamodb-vector-search)
-- [AWS Glue Data Catalog now supports  metadata exports to S3 Tables &lpar;Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-data-catalog-s3-tables/)
-- [AWS IAM Identity Center makes management of AWS account access optional for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-identity-center-accounts-optional/)
-- [Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads](https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-12-acu-scaling)
-- [[Preview Announcement] Re-introducing Forward Proxy as AWS Network Firewall Functionality](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-forward-proxy-preview/)
-- [Amazon Connect Customer now lets you export cases to CSV from the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-export-cases/)
+- [Amazon ECS now supports fractional GPU scheduling with Amazon EC2 G6f instances](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-fractional-gpu/)
+- [Amazon EC2 G7 instances are now available in the AWS Europe &lpar;Spain&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-g7-available-spain)
+- [Amazon ElastiCache now supports Graviton4-based M8g, R8g, and C8gn nodes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-elasticache-graviton4-m8g-r8g-c8gn/)
+- [AWS Glue Schema Registry is now available in ten more AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-gsr-10-more-regions)
+- [AWS Transform for migrations automates post-launch actions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-for-migrations-automates-post-launch-actions)
+- [AWS Security Agent now supports email-based MFA for penetration testing](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-security-agent-mfa/)
+- [Amazon RDS now provides visibility into storage volume initialization status](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-storage-volume-initialization-visibility)
+- [Amazon WorkSpaces now publishes enhanced observability metrics](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-observability-metrics)
+- [Amazon WorkSpaces Applications now publishes enhanced observability metrics](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-observability-metrics)
+- [AWS Marketplace now lets sellers configure net payment terms on private offers](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-net-payment-terms-for-private-offers)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

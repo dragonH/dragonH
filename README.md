@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi)
 - [Amazon EC2 R8i and R8i-Flex instances are now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/)
 - [Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)
 - [Amazon Cognito now available as a skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-auth-agent-skill/)
@@ -67,7 +68,6 @@
 - [Amazon GameLift Servers now supports 21 new EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/)
 - [Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates)
 - [Amazon SES now helps identify automated open and click events in event notifications](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/)
-- [AWS Parallel Computing Service is now in scope for FedRAMP, SOC, ISO, CSA STAR, and PCI](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-pcs-august/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

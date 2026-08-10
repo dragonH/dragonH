@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon GameLift Streams Now Offers Service-managed Shader Caching](https://aws.amazon.com/about-aws/whats-new/2026/08/Amazon-GameLift-Streams-Shader-Caching/)
 - [Amazon EC2 introduces application status checks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks)
 - [Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/)
 - [AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi)
@@ -67,7 +68,6 @@
 - [AWS IAM Identity Center supports one-click multi-Region option for new organization instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-identity-center-supports-one-click-multi-region-option-new-organization-instances)
 - [Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/)
 - [Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/)
-- [Amazon GameLift Servers now supports 21 new EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

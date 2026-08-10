@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 introduces application status checks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-application-status-checks)
+- [Amazon OpenSearch Serverless now supports up to 10,000 collections per collection group](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-serverless-supports-10000-collections-per-collection-group/)
 - [AWS Elastic Disaster Recovery now preserves UEFI boot mode for Linux servers](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-drs-linux-uefi)
 - [Amazon EC2 R8i and R8i-Flex instances are now available in Europe &lpar;Milan&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex/)
 - [Amazon Timestream for InfluxDB now supports backup and restore](https://aws.amazon.com/about-aws/whats-new/2026/07/timestream-influxdb-backup-restore/)
@@ -66,8 +68,6 @@
 - [Amazon VPC IPAM now supports BGP route protection monitoring and delegated RPKI for BYOIP prefixes](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-vpc-ipam-bgp-rpki-byoip/)
 - [Amazon Bedrock AgentCore adds memory, policy, and harness in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcore-memory-policy-harness-govcloud/)
 - [Amazon GameLift Servers now supports 21 new EC2 instance types](https://aws.amazon.com/about-aws/whats-new/2026/08/gamelift-ec2-instance-expansion/)
-- [Amazon OpenSearch Service announces additional upgrade runway for existing domains and support dates for additional versions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-additional-upgrade-runway-support-dates)
-- [Amazon SES now helps identify automated open and click events in event notifications](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-automated-email-interactions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

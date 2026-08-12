@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick agentic AI capabilities are now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/)
 - [Amazon EC2 R8a instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/)
 - [Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/)
 - [LocateAnything-3B, Qwen-AgentWorld-35B-A3B, and Qwen3.5-122B-A10B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/locateAnything-3B-qwen-agentworld-35B-A3B-qwen3.5-122B-A10B-on-sagemaker-jumpstart/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer launches performance dashboard for Cases](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/)
 - [AWS Clean Rooms supports exporting privacy-enhanced analysis logs for SQL](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-export-analysis-log-sql)
 - [Amazon RDS for MariaDB now supports MariaDB 12.3](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mariadb-1232-available/)
-- [FLUX.2-small-decoder and gemma-4-12B-it models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/flux.2-small-decoder-gemma-4-12B-it-on-sagemaker-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

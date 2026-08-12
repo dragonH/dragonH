@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EKS now supports advanced Kubernetes control plane configuration parameters](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters)
+- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/)
 - [Amazon Quick agentic AI capabilities are now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/)
 - [Amazon EC2 R8a instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/)
 - [Amazon Bedrock expands IAM principal cost allocation to the bedrock-mantle endpoint](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-expands-iam-principal-cost-allocation-bedrock-mantle/)
@@ -66,8 +68,6 @@
 - [AWS Glue adds one-click access to SageMaker Unified Studio from the AWS console](https://aws.amazon.com/about-aws/whats-new/2026/08/smus-glue-access)
 - [AWS Secrets Manager adds managed external secrets support for Jenkins and SonarQube](https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-integration-jenkins-sonarqube/)
 - [Amazon Connect Customer launches performance dashboard for Cases](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-dashboard/)
-- [AWS Clean Rooms supports exporting privacy-enhanced analysis logs for SQL](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-export-analysis-log-sql)
-- [Amazon RDS for MariaDB now supports MariaDB 12.3](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mariadb-1232-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

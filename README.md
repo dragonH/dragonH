@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available)
 - [Spot Placement Score now includes Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones/)
 - [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/)
 - [Amazon S3 adds additional policy details to access denied error messages](https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/)
@@ -67,7 +68,6 @@
 - [Amazon Quick adds deny by default for custom permissions](https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/)
 - [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/)
 - [Amazon Quick now supports data loss prevention with Microsoft Purview](https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/)
-- [Amazon Quick agentic AI capabilities are now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

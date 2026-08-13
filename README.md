@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Client VPN now supports CLI, administration controls, and faster connections](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/)
 - [Claude Opus 5 is now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/)
 - [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available)
 - [Spot Placement Score now includes Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones/)
 - [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/)
+- [AWS Certificate Manager supports switching from e-mail to DNS validation](https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch)
 - [Amazon S3 adds additional policy details to access denied error messages](https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/)
+- [Amazon Quick now supports approval policies for sharing](https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/)
+- [Amazon Quick now supports per-user resource limits](https://aws.amazon.com/whats-new/2026/08/amazon-quick-per-user-resource-limits/)
 - [AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/)
-- [AWS IAM now provides role manager to set up IAM roles automatically](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-role-manager)
-- [Amazon EKS now supports advanced Kubernetes control plane configuration parameters](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-control-plane-configuration-parameters)
-- [Amazon Quick adds deny by default for custom permissions](https://aws.amazon.com/whats-new/2026/08/amazon-quick-deny-by-default-permissions/)
-- [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

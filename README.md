@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Spot Placement Score now includes Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones/)
 - [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/)
 - [Amazon S3 adds additional policy details to access denied error messages](https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/)
 - [AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer supports manual assignment of queued agent-first callbacks](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-agent-callbacks/)
 - [Amazon Quick now supports data loss prevention with Microsoft Purview](https://aws.amazon.com/whats-new/2026/08/amazon-quick-dlp-purview/)
 - [Amazon Quick agentic AI capabilities are now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-aws-govcloud-us-west/)
-- [Amazon EC2 R8a instances are now available in Canada &lpar;Central&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-instances-canada-central/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

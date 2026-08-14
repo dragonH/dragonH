@@ -65,9 +65,9 @@
 - [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/)
 - [AWS Certificate Manager supports switching from e-mail to DNS validation](https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch)
 - [Amazon S3 adds additional policy details to access denied error messages](https://aws.amazon.com/about-aws/whats-new/2026/08/s3-additional-policy-details-access-denied-error-messages/)
+- [AWS Clean Rooms supports minimum aggregation thresholds in custom analysis rules](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-clean-rooms-minimum-aggregation-custom-analysis-rules)
 - [Amazon Quick now supports approval policies for sharing](https://aws.amazon.com/whats-new/2026/08/amazon-quick-approval-policies-sharing/)
 - [Amazon Quick now supports per-user resource limits](https://aws.amazon.com/whats-new/2026/08/amazon-quick-per-user-resource-limits/)
-- [AWS Global View now offers an interactive map view for AWS Regions and AWS Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-global-view-map-view/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

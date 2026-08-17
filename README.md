@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/)
 - [Amazon EC2 Auto Scaling now supports batch instance termination](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination)
 - [Amazon EC2 R8i and R8i-Flex instances are now available in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-r8i-flex-calgary/)
 - [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available)
@@ -67,7 +68,6 @@
 - [Amazon Quick now supports data loss prevention with Microsoft Purview](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-dlp-purview/)
 - [Amazon Quick now supports approval policies for sharing](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-approval-policies-sharing/)
 - [Amazon RDS for Oracle now supports Oracle APEX version 26.1](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/)
-- [Amazon SES click tracking now supports custom URL paths for mobile app deep linking](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

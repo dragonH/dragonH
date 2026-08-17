@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available)
+- [Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc/)
+- [Amazon Quick now supports per-user resource limits](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-per-user-resource-limits/)
+- [Amazon Quick now supports data loss prevention with Microsoft Purview](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-dlp-purview/)
+- [Amazon Quick now supports approval policies for sharing](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-approval-policies-sharing/)
 - [Amazon RDS for Oracle now supports Oracle Application Express &lpar;APEX&rpar; version 26.1](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-apex-26-1/)
 - [Amazon SES click tracking now supports custom URL paths for mobile app deep linking](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-supports-customurl-deeplinking)
 - [AWS Billing and Cost Management introduces Managed Dashboards](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-billing-and-cost-management-managed-dashboards/)
 - [AWS Client VPN now supports CLI, administration controls, and faster connections](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-client-vpn-cli/)
 - [Amazon Redshift adds rg.large and rg.12xlarge instance sizes in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-adds-rg-large-12xlarge-aws-govcloud-regions/)
-- [Claude Opus 5 is now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/07/claude-opus-5-aws-govcloud/)
-- [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/amazon-quick-microsoft-365-extensions-generally-available)
-- [Spot Placement Score now includes Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/08/spot-placement-score-local-zones/)
-- [Daybreak Red and Daybreak Blue from OpenAI are now available to eligible customers on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-daybreak-red-and-blue-on-amazon-bedrock/)
-- [AWS Certificate Manager supports switching from e-mail to DNS validation](https://aws.amazon.com/about-aws/whats-new/2026/08/AWS-Certificate-Manager-Email-DNS-Switch)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

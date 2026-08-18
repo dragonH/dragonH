@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon MWAA Serverless now supports PythonOperator and BashOperator](https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator/)
+- [IAM Policy Autopilot now supports Terraform plan files](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files)
 - [Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/)
 - [Amazon ECR now supports 25 replication rules per registry](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit)
 - [Amazon EC2 Auto Scaling now supports batch instance termination](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-auto-scaling-batch-termination)
@@ -66,8 +68,6 @@
 - [Amazon Connect Customer dashboards now support reporting on routing steps and agent proficiencies](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-routing-steps/)
 - [AWS Network Firewall Now Supports Stateful Rule Hit Counts](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-stateful-rule-hit-counts/)
 - [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available)
-- [Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc/)
-- [AWS Console-to-Code adds 26 services and cross-region recording​](https://aws.amazon.com/about-aws/whats-new/2026/08/console-to-code-adds-26-services)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

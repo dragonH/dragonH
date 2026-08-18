@@ -67,7 +67,7 @@
 - [AWS Network Firewall Now Supports Stateful Rule Hit Counts](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-network-firewall-stateful-rule-hit-counts/)
 - [Amazon Quick Microsoft 365 extensions are now generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-microsoft-365-extensions-generally-available)
 - [Amazon OpenSearch Service now supports automatic semantic enrichment for VPC domains](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-opensearch-service-vpc/)
-- [AWS CloudShell now includes a built-in visual file editor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cloudshell-visual-file-editor/)
+- [AWS Console-to-Code adds 26 services and cross-region recording​](https://aws.amazon.com/about-aws/whats-new/2026/08/console-to-code-adds-26-services)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

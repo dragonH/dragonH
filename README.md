@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Quick adds deny by default for custom permissions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/)
 - [Amazon Bedrock now supports SpaceXAI Grok 4.6](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/)
 - [Amazon Bedrock now supports OpenAI models in India](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/)
 - [AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/)
@@ -67,7 +68,6 @@
 - [Amazon MWAA Serverless now supports PythonOperator and BashOperator](https://aws.amazon.com/about-aws/whats-new/2026/08/mwaa-serverless-pythonoperator-bashoperator/)
 - [Amazon EC2 R8i instances are now available in Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8i-israel-tel-aviv/)
 - [IAM Policy Autopilot now supports Terraform plan files](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files)
-- [PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

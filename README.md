@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker notebooks now support trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/)
 - [AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/)
 - [Amazon OpenSearch Ingestion is now available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions)
-- [AWS announces a new Availability Zone in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-increased-quota/)
+- [AWS announces a new Availability Zone in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/)
 - [Amazon Quick adds deny by default for custom permissions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/)
 - [Amazon WorkSpaces Applications now offers in-console monitoring capabilities](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-workspaces-applications-console-monitoring)
+- [AWS Storage Gateway now supports FIPS-compliant private connectivity for Tape and Volume Gateway](https://aws.amazon.com/about-aws/whats-new/2026/08/storage-gateway-fips-privatelink/)
 - [Amazon EC2 R8a instances are now available in Asia Pacific &lpar;Taipei&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8a-asia-pacific-taipei/)
 - [Amazon Bedrock now supports SpaceXAI Grok 4.6](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-grok-4-6/)
 - [Amazon Bedrock now supports OpenAI models in India](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/)
-- [AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/)
-- [Amazon Corretto August 2026 Critical Security Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock now supports OpenAI models in India](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-openai-india-v1/)
+- [AWS IAM identity federation to external services is now available in AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iam-european-sovereign-cloud/)
 - [Amazon Corretto August 2026 Critical Security Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-corretto-august-2026-security-updates)
 - [AgentCore payments is now generally available in Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-payments-ga/)
 - [Amazon SageMaker Unified Studio now supports data profiling and anomaly detection](https://aws.amazon.com/about-aws/whats-new/2026/05/smus-data-profiling)
@@ -66,8 +68,6 @@
 - [IAM Policy Autopilot now supports Terraform plan files](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-policy-autopilot-now-supports-terraform-plan-files)
 - [PostgreSQL 19 Beta 3 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/08/postgresql-19-beta-3-amazon-rds-database-preview-environment/)
 - [Amazon WorkSpaces now supports Nested Virtualization](https://aws.amazon.com/about-aws/whats-new/2026/08/nested-virtualization-workspaces/)
-- [Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI models](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-cross-region-openai-v2/)
-- [Amazon ECR now supports 25 replication rules per registry](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecr-increased-replication-rules-limit)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

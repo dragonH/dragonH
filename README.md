@@ -62,12 +62,12 @@
 - [Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific](https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/)
 - [Amazon CloudWatch log Centralization now supports log group tag propagation](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/)
 - [Amazon SageMaker notebooks now support trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/)
+- [Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors](https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/)
 - [AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/)
 - [Amazon OpenSearch Ingestion is now available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions)
 - [AWS Marketplace launches support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail)
 - [AWS announces a new Availability Zone in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/)
 - [AWS Lambda MicroVMs is now available in 5 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions)
-- [Amazon Quick adds deny by default for custom permissions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-quick-deny-by-default/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

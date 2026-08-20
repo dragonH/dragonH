@@ -64,10 +64,10 @@
 - [Amazon CloudWatch log Centralization now supports log group tag propagation](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/)
 - [Amazon SageMaker notebooks now support trusted identity propagation](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker/)
 - [Amazon CloudWatch pipelines adds GeoIP, RDS, and XML processors](https://aws.amazon.com/about-aws/whats-new/2026/08/cloudwatch-geoip-rds-xml/)
+- [AWS Elemental MediaConnect Router now supports configurable recovery latency modes](https://aws.amazon.com/about-aws/whats-new/2026/08/mediaconnect-router-latency-modes/)
 - [AWS Cost Anomaly Detection supports third-party models on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-cost-anomaly-detection-bedrock-3P/)
 - [Amazon OpenSearch Ingestion is now available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions)
 - [AWS Marketplace launches support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail)
-- [AWS announces a new Availability Zone in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

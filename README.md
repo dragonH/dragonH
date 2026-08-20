@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace now supports category-based notifications and multi-channel delivery for partners](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/)
 - [Launching External Web Access for Web Search on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/)
 - [Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific](https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/)
 - [Amazon CloudWatch log Centralization now supports log group tag propagation](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/)
@@ -67,7 +68,6 @@
 - [Amazon OpenSearch Ingestion is now available in GovCloud Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-ingestion-available-govcloud-regions)
 - [AWS Marketplace launches support for Amazon Lightsail](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace-launch-ami-amazon-lightsail)
 - [AWS announces a new Availability Zone in the Europe &lpar;London&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-new-availability-zone-europe/)
-- [AWS Lambda MicroVMs is now available in 5 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-5-additional-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

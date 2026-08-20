@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/)
+- [Amazon Timestream for InfluxDB now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/)
 - [Amazon EKS now supports certificate authority &lpar;CA&rpar; rotation with automated lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management)
 - [Amazon CloudFront now supports Origin Access Control &lpar;OAC&rpar; for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap)
 - [AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In](https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp/)
+- [ARC Region switch adds Amazon RDS Switchover Read Replica execution block](https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block/)
 - [Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio](https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio)
 - [AWS Direct Connect introduces inbound prefix controls and higher prefix scale](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls)
+- [Amazon Redshift introduces long-term system table retention with Amazon S3 Tables integration](https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-long-term-system-table-retention/)
 - [AWS Marketplace now supports category-based notifications and multi-channel delivery for partners](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-marketplace/)
-- [Launching External Web Access for Web Search on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-bedrock-web-access-web-search/)
-- [Web Search in Amazon Bedrock AgentCore adds domain and published date filtering, expands to Europe and Asia Pacific](https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/)
-- [Amazon EC2 enables AMI creation with local snapshots from instances on Outposts](https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-create-image-local-snapshot-outpost)
-- [Amazon CloudWatch log Centralization now supports log group tag propagation](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-centralization-tag-propogation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

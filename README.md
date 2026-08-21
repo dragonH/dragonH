@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/)
+- [AWS Glue 6.0 delivers 30% price reduction and Iceberg v3 support](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-6-0-price-reduction-iceberg-v3)
+- [Amazon SES now supports open and click tracking override parameters](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ses-adds-open-click-tracking-override/)
 - [AWS announces the general availability of a new AWS Local Zone in Las Vegas, Nevada](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-local-zones-las-vegas-nevada/)
 - [Amazon Timestream for InfluxDB now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/)
 - [Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/)
@@ -65,9 +68,6 @@
 - [Amazon EKS now supports certificate authority &lpar;CA&rpar; rotation with automated lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management)
 - [Amazon CloudFront now supports Origin Access Control &lpar;OAC&rpar; for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudfront-oac-s3-mrap)
 - [AWS Partner Central agents MCP Server now supports OAuth with AWS Sign-In](https://aws.amazon.com/about-aws/whats-new/2026/8/aws-partner-central-mcp/)
-- [ARC Region switch adds Amazon RDS Switchover Read Replica execution block](https://aws.amazon.com/about-aws/whats-new/2026/08/region-switch-rds-switchover-execution-block/)
-- [Generative AI Inference Recommendation for Amazon SageMaker now available in the SageMaker AI Studio](https://aws.amazon.com/about-aws/whats-new/2026/08/generative-ai-inference-recommendation-for-amazon-sagemaker-now-available-in-the-sagemaker-ai-studio)
-- [AWS Direct Connect introduces inbound prefix controls and higher prefix scale](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-direct-connect-new-prefix-controls)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

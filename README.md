@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol](https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/)
 - [Amazon Connect Customer now lets managers chat with their data](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-ai-data-analytics)
 - [AWS Deadline Cloud now tracks automatic download status in the Deadline Cloud Monitor](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-deadline-cloud-auto-download-status-tracking/)
 - [Amazon EKS Capability for Argo CD now supports custom configuration](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-argo-cd-configuration)
@@ -67,7 +68,6 @@
 - [Amazon Timestream for InfluxDB now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-cmk/)
 - [Amazon EC2 C8gd, M8gd and R8gd instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gd-m8gd/)
 - [Amazon EC2 P6-B300 instances are now available in the Asia Pacific &lpar;Seoul&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300/)
-- [Amazon EKS now supports certificate authority &lpar;CA&rpar; rotation with automated lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-certificate-authority-ca-rotation-automated-lifecycle-management)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

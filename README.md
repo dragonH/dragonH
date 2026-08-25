@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda functions now support full IAM resource-based policies](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/)
 - [Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health)
 - [SageMaker MLflow now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys)
 - [Amazon EKS now supports multiple external OIDC identity providers per cluster](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers)
@@ -67,7 +68,6 @@
 - [AWS ParallelCluster 3.16 adds an on-node diagnostics tool](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster/)
 - [OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/)
 - [Amazon RDS for MySQL now supports new minor version 8.4.11](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available/)
-- [AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

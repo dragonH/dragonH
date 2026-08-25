@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/)
+- [Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/)
 - [AWS Lambda functions now support full IAM resource-based policies](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/)
 - [Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health)
 - [SageMaker MLflow now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys)
 - [Amazon EKS now supports multiple external OIDC identity providers per cluster](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers)
 - [Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/)
+- [MSK Replicator now supports OAuth 2.0 &lpar;SASL/OAUTHBEARER&rpar; authentication for replication from external Apache Kafka clusters to Amazon MSK](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-msk-replicator-OAuth-support)
 - [Amazon SageMaker HyperPod enhances support for Ray](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-sagemaker-hyperpod-ray)
 - [Amazon Connect Customer now supports information extraction for agent voice and chat conversations](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-information/)
-- [AWS ParallelCluster 3.16 adds an on-node diagnostics tool](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-parallelcluster/)
-- [OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

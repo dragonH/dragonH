@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS IoT Core now supports native InfluxDB routing for time-series data](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/)
 - [AWS Batch now supports Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/)
-- [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/)
 - [Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/)
+- [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/)
 - [IAM Roles Anywhere now provides a Java plugin for the AWS SDK](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/)
 - [AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/)
+- [Amazon RDS now supports the latest CU for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/)
 - [Amazon RDS for Oracle now supports July 2026 Release Update](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update)
 - [AWS Secrets Manager adds managed external secrets support for Cisco Security Platform and Netskope](https://aws.amazon.com/about-aws/whats-new/2026/08/secrets-manager-cisco-netskope/)
 - [AWS Lambda functions now support full IAM resource-based policies](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-full-iam-resource-based-policies/)
-- [Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health)
-- [SageMaker MLflow now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

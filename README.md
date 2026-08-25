@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS now automatically detects and repairs container instances with impaired agent connectivity](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ecs-agent-connectivity-health)
 - [SageMaker MLflow now supports customer managed keys](https://aws.amazon.com/about-aws/whats-new/2026/08/sagemaker-mlflow-custom-keys)
 - [Amazon EKS now supports multiple external OIDC identity providers per cluster](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-eks-multiple-oidc-providers)
 - [Amazon Aurora now supports PostgreSQL 18.4, 17.10, 16.14, 15.18, and 14.23](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-postgresql-18-4-17-10-16-14-15-18-14-23/)
@@ -67,7 +68,6 @@
 - [OpenAI GPT-5.6 Terra and Luna now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/openai-gpt-terra-luna-govcloud/)
 - [Amazon RDS for MySQL now supports new minor version 8.4.11](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-mysql-8411-available/)
 - [AWS Neuron 2.32 introduces expanded NKI programming, MXFP8 training kernels, and variable-size collectives for Trn2 and Trn](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announce-neuron-2-32-0)
-- [Amazon Bedrock announces reduced pricing for OpenAI GPT-5.6 Sol](https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-openai-gpt-56-sol-reduced-pricing/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

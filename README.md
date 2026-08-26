@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer now supports unplanned shrinkage in agent schedules](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage/)
+- [Mountpoint for Amazon S3 adds memory usage controls](https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls)
+- [Amazon Connect Customer now supports points-based scoring in performance evaluations](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-points-based-scoring-evaluations/)
+- [AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb/)
 - [Amazon EC2 R8id instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8id/)
 - [Amazon EC2 C8id and M8id instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8id-m8id-aws-regions/)
 - [AWS IoT Core now supports native InfluxDB routing for time-series data](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/)
 - [AWS Batch now supports Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/)
 - [Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2)
 - [AWS Lambda MicroVMs now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink)
-- [Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/)
-- [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/)
-- [IAM Roles Anywhere now provides a Java plugin for the AWS SDK](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/)
-- [AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

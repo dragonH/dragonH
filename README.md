@@ -62,12 +62,12 @@
 - [AWS Batch now supports Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/)
 - [Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/08/capacity-reservation-resource-groups-ec2)
 - [AWS Lambda MicroVMs now supports AWS PrivateLink](https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-microvms-supports-privatelink)
-- [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/)
 - [Amazon RDS for PostgreSQL supports minor versions 18.6, 17.11, 16.15, 15.19, and 14.24](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-postgresql-18-6-17-11-16-15-15-19-14-24/)
+- [Amazon Connect Customer now lets you update the customer profile on a case or add a profile after a case is opened](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-cases-flexible-profiles/)
 - [IAM Roles Anywhere now provides a Java plugin for the AWS SDK](https://aws.amazon.com/about-aws/whats-new/2026/08/iam-roles-anywhere-java/)
 - [AWS Lambda introduces managed runtimes in public preview for Node.js 26 and Python 3.15](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-lambda-node-js-python-public-preview/)
+- [Amazon EC2 M8i and M8i-flex instances are now available in Canada West &lpar;Calgary&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/ec2-m8i-m8i-flex-canada-west/)
 - [Amazon RDS now supports the latest CU for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-microsoft-sql-server/)
-- [Amazon RDS for Oracle now supports July 2026 Release Update](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-oracle-july-2026-release-update)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

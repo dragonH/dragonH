@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon Cognito adds admin API operation to reset user TOTP configurations](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-totp-reset/)
-- [Amazon Connect Customer now supports unplanned shrinkage in agent schedules](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-unplanned-shrinkage/)
-- [Mountpoint for Amazon S3 adds memory usage controls](https://aws.amazon.com/about-aws/whats-new/2026/08/mountpoint-for-S3-adds-memory-usage-controls)
-- [Amazon Connect Customer now supports points-based scoring in performance evaluations](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-points-based-scoring-evaluations/)
-- [AWS Glue 5.1 is now available in AWS European Sovereign Cloud Region](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-glue-5-1-european-sovereign-cloud)
-- [AWS Backup adds cross-Region backup copy and logically air-gapped vault support for Amazon DocumentDB in nine additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-backup-cross-region-air-gapped-docdb/)
-- [Amazon EC2 R8id instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r8id/)
-- [Amazon EC2 C8id and M8id instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8id-m8id-aws-regions/)
-- [AWS IoT Core now supports native InfluxDB routing for time-series data](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-iot-core-influxdb/)
-- [AWS Batch now supports Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-batch-on-ecs-managed-instances/)
+- [Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/)
+- [Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/)
+- [Amazon Redshift streaming can now ingest 10MiB records from Amazon Kinesis Data Streams](https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-streaming-supports-kds-10mib-records)
+- [Amazon Redshift integrates with Agent Toolkit for AWS for AI-assisted data warehouse management](https://aws.amazon.com/about-aws/whats-new/2026/08/redshift-agenttoolkit-for-ai-assisted-datawarehouse-mgmt)
+- [Amazon EC2 X8i instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-x8i-europe-milan-spain/)
+- [AWS Elastic Disaster Recovery introduces Recovery Plans for orchestrated application recovery](https://aws.amazon.com/about-aws/whats-new/2026/08/elastic-disaster-recovery-plans/)
+- [Amazon Bedrock AgentCore expands to two new regions](https://aws.amazon.com/about-aws/whats-new/2026/08/bedrock-agentcore-two-new-regions/)
+- [Amazon Connect Customer expands conversational analytics capabilities in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/08/connect-customer-analytics-cape-town/)
+- [Amazon Connect Customer now automatically refreshes scheduling metrics](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-customer-scheduling-metrics/)
+- [Amazon FSx for NetApp ONTAP now supports copying backups across AWS Regions and accounts](https://aws.amazon.com/about-aws/whats-new/2026/08/fsx-ontap-cross-region-backup-copy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

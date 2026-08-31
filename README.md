@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status](https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/)
 - [Amazon EC2 C8gn instances are now available in AWS Europe &lpar;Paris&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-c8gn-europe-paris/)
 - [Amazon Bedrock AgentCore Memory now supports fine-grained access control](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-fine-grained-access-control)
 - [Amazon Bedrock AgentCore Memory now supports flexible namespace variables](https://aws.amazon.com/about-aws/whats-new/2026/08/agentcorememory-flexible-namespaces)
 - [AWS Transform now in scope for FedRAMP Class C](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-transform-fedramp-class-c/)
 - [Amazon EC2 P6-B300 instances are now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-p6-b300-instances-available-additional-regions)
-- [Amazon CloudWatch agent adds support for journald logs](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/)
 - [Amazon Aurora MySQL 3.13 &lpar;compatible with MySQL 8.0.45&rpar; is generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-mysql-313-available/)
+- [Amazon CloudWatch agent adds support for journald logs](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-agent-journald/)
 - [SpaceXAI Grok 4.6 now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/08/spacexai-grok-4-6-govcloud/)
 - [Cosmos3-Edge, Cosmos3-Nano, and Cosmos3-Super models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/cosmos3-edge-cosmos3-nano-cosmos3-super-on-sagemaker-jumpstart/)
-- [Muse-Glimmer-30B and Qwen 3.8-27B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/muse-glimmer-30b-qwen-3.8-27b-on-sagemaker-jumpstart/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

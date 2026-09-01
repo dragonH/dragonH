@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer dashboards now support compact mode](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-dashboards-compact-mode/)
+- [Amazon MWAA supports Apache Airflow version 3.3.1](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-apache-airflow-3-3-1/)
+- [Claude Fable 5.1, Anthropic&#39;s new frontier model is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/)
 - [Amazon CloudWatch now supports warm-up periods for alarms](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period)
 - [Amazon DocumentDB now supports direct major version upgrades to version 8.0](https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/)
 - [Partner Revenue Measurement expands service coverage for User Agent string capability](https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/)
@@ -65,9 +68,6 @@
 - [AWS Agent Registry agents and MCP servers now available in Amazon Quick](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/)
 - [Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr)
 - [Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/)
-- [Amazon Connect Global Resiliency now supports cross-region routing of contacts across two active AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-connect-global-resiliency-cross-region-routing/)
-- [Amazon Redshift now supports Apache Iceberg v3 tables](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3)
-- [Amazon EC2 R9g and R9gd memory optimized instances are now available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

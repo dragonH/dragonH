@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DocumentDB now supports direct major version upgrades to version 8.0](https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/)
+- [Partner Revenue Measurement expands service coverage for User Agent string capability](https://aws.amazon.com/about-aws/whats-new/2026/08/partner-revenue-measurement-user-agent-expansion/)
+- [AWS Agent Registry agents and MCP servers now available in Amazon Quick](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-agents-mcp-servers-quick/)
+- [Amazon Redshift now supports AWS IAM Identity Center authentication with enhanced VPC routing](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-idc-evr)
 - [Amazon Timestream for InfluxDB is now available in 8 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-timestream-influxdb-regions/)
 - [Amazon Redshift now supports Apache Iceberg v3 tables](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-redshift-supports-apache-iceberg-v3)
 - [Amazon EC2 R9g and R9gd memory optimized instances are now available](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-ec2-r9g-and-r9gd-memory-optimized-instances-are-now-available/)
 - [Amazon Cognito now supports machine-to-machine authorization without a user pool domain](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cognito-get-client-token/)
 - [AWS Lambda recursive loop detection is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/lambda-recursion-regions)
 - [Amazon Aurora serverless is now available with 30% better performance and smarter scaling in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-aurora-serverless-performance-improvement-additional-regions/)
-- [Amazon OpenSearch Service adds new Cluster Insights for faster diagnosis of cluster status](https://aws.amazon.com/about-aws/whats-new/2026/08/opensearch-cluster-status-insight/)
-- [AWS Agent Registry for centralized agent discovery and governance is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-agent-registry-generally-available)
-- [AWS announces AWS Interconnect - multicloud connectivity with Microsoft Azure in preview](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-announces-AWS-interconnect-multicloud-microsoft-azure-preview/)
-- [Automated Security Response on AWS adds AI Toolkit for custom remediations](https://aws.amazon.com/about-aws/whats-new/2026/08/automated-security-response-adds-AI-toolkit/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -59,6 +59,7 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Quick now lets you build custom apps with natural language  -](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/)
+- [AWS Deadline Cloud now supports sharing job bundles](https://aws.amazon.com/about-aws/whats-new/2026/09/deadline-cloud/job-bundle-sharing)
 - [Amazon CloudWatch Database Insights now supports self-managed PostgreSQL](https://aws.amazon.com/about-aws/whats-new/2026/08/database-insights-self-managed-postgresql/)
 - [Amazon Kinesis Data Streams now supports a dry run feature to validate API requests](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-kinesis-data-streams-api/)
 - [AWS Backup now supports protecting more than 1,000 Amazon S3 buckets per account](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-more-than-1000-s3-buckets/)
@@ -67,7 +68,6 @@
 - [Claude Fable 5.1, Anthropic&#39;s new frontier model is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-fable-5-1-aws/)
 - [Amazon CloudWatch now supports warm-up periods for alarms](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-cloudwatch-alarms-warmup-period)
 - [Amazon RDS Custom now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/)
-- [Amazon DocumentDB now supports direct major version upgrades to version 8.0](https://aws.amazon.com/about-aws/whats-new/2026/08/documentdb-major-version-upgrade-8-0/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -66,8 +66,8 @@
 - [AWS Config now supports 60 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/)
 - [AWS User Experience Customization &lpar;UXC&rpar; is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions)
 - [AWS Lambda now supports SnapStart for container image functions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/)
+- [Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation](https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/)
 - [Amazon RDS for SQL Server supports additional SQL trace flags](https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/)
-- [Amazon Quick now lets you build custom apps with natural language  -](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-custom-apps-natural-language/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

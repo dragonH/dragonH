@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Linux 2027 is now available in public preview](https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/)
+- [AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/)
 - [Web Search on Amazon Bedrock is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/)
 - [Amazon Connect Customer expands automated performance evaluations to Malay](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/)
 - [Amazon Quick adds new tool settings and Model Context Protocol &lpar;MCP&rpar; sync support for connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/)
@@ -66,8 +68,6 @@
 - [AWS Config now supports 60 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/)
 - [AWS User Experience Customization &lpar;UXC&rpar; is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions)
 - [AWS Lambda now supports SnapStart for container image functions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/)
-- [Amazon SageMaker Unified Studio CI/CD adds notebook promotion and AI-assisted manifest generation](https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-cicd-notebook-ai-manifest/)
-- [Amazon RDS for SQL Server supports additional SQL trace flags](https://aws.amazon.com/about-aws/whats-new/2026/09/rds-sqlserver-supports-additional-trace-flags/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

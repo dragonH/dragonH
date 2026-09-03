@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront announces API support for flat-rate pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/)
+- [Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/)
+- [Amazon WorkSpaces Applications adds support for NVIDIA Blackwell GPU instances](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-nvidia-blackwell-gpu-instances/)
+- [Amazon Redshift rg.large instances now support single-node clusters](https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node)
+- [Amazon Aurora MySQL now supports multi-source replication and delayed replication](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/)
+- [Amazon MWAA adds built-in monitoring with Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/)
 - [Amazon Linux 2027 is now available in public preview](https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/)
+- [Amazon SES now supports S/MIME email signing](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ses-supports-smime-signing)
+- [Amazon S3 now supports PrivateLink for FIPS endpoints](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-s3-privatelink-fips-endpoints)
 - [AWS Transform announces general availability of Amazon FSx for NetApp ONTAP support](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-fsx-netapp-ontap-support/)
-- [Web Search on Amazon Bedrock is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-web-aws-govcloud/)
-- [Amazon Connect Customer expands automated performance evaluations to Malay](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-automated-evaluations-malay/)
-- [Amazon Quick adds new tool settings and Model Context Protocol &lpar;MCP&rpar; sync support for connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-adds-tool-settings-mcp-sync/)
-- [Amazon Connect Customer announces general availability of agentic CX designer](https://aws.amazon.com/about-aws/whats-new/2026/09/agentic-cx-designer/)
-- [Second-generation AWS Outposts racks now in the AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-outposts-govcloud-us-regions/)
-- [AWS Config now supports 60 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-config-new-resource-types/)
-- [AWS User Experience Customization &lpar;UXC&rpar; is now available in all commercial AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/08/aws-uxc-aws-regions)
-- [AWS Lambda now supports SnapStart for container image functions](https://aws.amazon.com/about-aws/whats-new/2026/07/aws-lambda-snapstart-container/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS Managed Daemons now support non-critical daemons](https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/)
+- [Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad)
+- [Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta)
 - [Amazon CloudFront announces API support for flat-rate pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/)
 - [Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/)
 - [AWS Gateway Load Balancer now supports TCP Reset for faster failure recovery](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-gateway-load-balancer-tcp-reset/)
@@ -65,9 +68,6 @@
 - [Amazon Redshift rg.large instances now support single-node clusters](https://aws.amazon.com/about-aws/whats-new/2026/09/redshift-rg-large-single-node)
 - [Amazon Aurora MySQL 8.4.8 &lpar;compatible with MySQL 8.4.8&rpar; is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-848-available/)
 - [Amazon Aurora MySQL now supports multi-source replication and delayed replication](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-mysql-multisourcerep-delayedrep/)
-- [Amazon SageMaker Unified Studio Workflows support Python and Bash operators](https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-workflows-python-bash/)
-- [Amazon MWAA adds built-in monitoring with Amazon CloudWatch](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-cloudwatch-monitoring/)
-- [Amazon Linux 2027 is now available in public preview](https://aws.amazon.com/about-aws/whats-new/2026/09/announcing-amazon-linux-2027/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

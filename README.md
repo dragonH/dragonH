@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 now supports specifying compatible instance types on AMIs](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances)
+- [Amazon ECS introduces Early Success Criteria for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/)
 - [AWS MCP Server adds a serverless capability for AWS Lambda functions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-mcp-server-serverless/)
 - [Amazon EC2 C8g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-c8g-instances-additional-regions/)
 - [AWS Transfer Family SFTP Connectors now support continuing file transfers during credential rotation](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-credential-rotation/)
+- [Amazon SageMaker AI Batch Transform now supports G6e instances](https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-batch-transform-g6e-instances/)
 - [Amazon EC2 C9g and C9gd instances are now available in Asia Pacific &lpar;Tokyo&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-c9g-c9gd-asia-pacific-tokyo/)
 - [Amazon ECS Managed Daemons now support non-critical daemons](https://aws.amazon.com/about-aws/whats-new/2026/09/ecs-managed-daemons-non-critical/)
 - [Amazon EC2 M9g and M9gd instances are now available in four additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-m9g-m9gd-four-regions/)
 - [Amazon EC2 P6-B200 instances are now available in the AWS Asia Pacific &lpar;Hyderabad&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b200-instances-available-asia-pacific-hyderabad)
-- [Amazon EC2 P6-B300 instances are now available in the AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-p6-b300-instances-available-asia-pacific-jakarta)
-- [Amazon CloudFront announces API support for flat-rate pricing plans](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudfront-flat-rate-pricing-plans-api/)
-- [Introducing Amazon Quick Max: 5x the usage for power users who want the most out of Quick](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-quick-max-5x-usage-power-users/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

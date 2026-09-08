@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/)
+- [Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest)
+- [AWS HealthOmics introduces resource fallback order for WDL workflows](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/)
 - [Dynamic Image Transformation for Amazon CloudFront adds four new features](https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features/)
 - [AWS Builder ID adds recovery options and multi-factor authentication for third-party logins](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/)
+- [Amazon RDS now supports the latest CU and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/08/amazon-rds-supports-latest-cu-gdr-microsoft-sql-server/)
 - [Amazon MWAA Serverless is now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mwaa-serverless-aws-govcloud/)
 - [Amazon Bedrock Managed Knowledge Base introduces user-managed setup for SharePoint, OneDrive, and Confluence data sources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-user-managed-setup-sharepoint-onedrive-confluence/)
 - [Amazon Bedrock Managed Knowledge Base now supports ServiceNow as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-servicenow-native-data-source-connector/)
 - [Amazon Bedrock Managed Knowledge Base now supports automatic sync scheduling for data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-automatic-sync-scheduling-data-source-connectors/)
-- [Amazon EC2 now supports specifying compatible instance types on AMIs](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-images-supported-instances)
-- [Amazon GuardDuty adds optional threat detection rules](https://aws.amazon.com/about-aws/whats-new/2026/09/guardduty-optional-detection-rules/)
-- [Amazon ECS introduces Early Success Criteria for service deployments](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-deployments-early-success/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

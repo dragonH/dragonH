@@ -66,7 +66,7 @@
 - [Amazon RDS for MariaDB now supports community MariaDB minor versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, and 12.3.3](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mariadb-community-versions/)
 - [Amazon Bedrock AgentCore Memory now supports direct ingestion to long-term memory](https://aws.amazon.com/about-aws/whats-new/2026/09/agentcore-memory-direct-ingest)
 - [AWS HealthOmics introduces resource fallback order for WDL workflows](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-healthomics-resourcefallback-wdl/)
-- [Dynamic Image Transformation for Amazon CloudFront adds four new features](https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transfromation-adds-new-features/)
+- [Dynamic Image Transformation for Amazon CloudFront adds four new features](https://aws.amazon.com/about-aws/whats-new/2026/08/dynamic-image-transformation-adds-new-features/)
 - [AWS Builder ID adds recovery options and multi-factor authentication for third-party logins](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-id-recovery-mfa-third-party/)
 <!-- AWS-NEWS:END -->
 

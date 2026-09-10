@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [CloudWatch Network Monitor now provides NHI for Transit Gateway peering](https://aws.amazon.com/amazon-cloudwatch-network-monitor-nhi-transit-gateway-peering)
+- [AWS Elemental MediaLive adds support for A/B forensic watermarking](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/)
+- [AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand](https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/)
+- [AWS Elemental Inference now generates contextual metadata from live video in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/)
+- [AWS Elemental introduces Dynamic Multiview for live video](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/)
+- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion)
 - [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/)
 - [AWS Transform for .NET modernization is now generally available via CLI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli)
 - [AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/)
 - [AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/)
-- [Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/)
-- [Amazon Bedrock Managed Knowledge Base now supports Confluence Data Center as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-confluence-data-center-native-data-source-connector/)
-- [Amazon EBS Volume Clones now supports copying volumes across accounts](https://aws.amazon.com/about-aws/whats-new/2026/09/ebs-volume-clones-cross-account-copy/)
-- [AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud/)
-- [AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged](https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/)
-- [AWS Entity Resolution adds record-level confidence scores for ML matching](https://aws.amazon.com/about-aws/whats-new/2026/09/entity-resolution-record-confidence/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

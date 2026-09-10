@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [CloudWatch Network Monitor now provides NHI for Transit Gateway peering](https://aws.amazon.com/amazon-cloudwatch-network-monitor-nhi-transit-gateway-peering)
-- [AWS Elemental MediaLive adds support for A/B forensic watermarking](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/)
-- [AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand](https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/)
+- [AWS Lambda durable functions integrates with Pydantic AI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/)
+- [Amazon MQ now supports RabbitMQ 4.3](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/)
+- [Announcing second-generation single-rack AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/)
+- [Amazon OpenSearch Serverless is now available on v0 by Vercel](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/)
+- [Amazon Redshift RG instances now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich)
+- [Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/)
 - [AWS Elemental Inference now generates contextual metadata from live video in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/)
-- [AWS Elemental introduces Dynamic Multiview for live video](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-dynamic-multiview-video/)
+- [AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand](https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/)
+- [AWS Elemental MediaLive adds support for A/B forensic watermarking](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/)
 - [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion)
-- [Amazon Connect Customer now lets you set specific capacity limits for different types of Tasks and Emails](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-capacity-limits/)
-- [AWS Transform for .NET modernization is now generally available via CLI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-dotnet-cli)
-- [AWS Lambda now supports 90-minute function timeout on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-90-minute-function/)
-- [AWS Lambda now supports Graviton5-powered EC2 instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-graviton5-ec2/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

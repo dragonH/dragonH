@@ -65,9 +65,9 @@
 - [Amazon Bedrock Managed Knowledge Base adds APIs and console support for debugging document-level access control](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-knowledge-base-debugging-document-access-control/)
 - [Amazon Bedrock Managed Knowledge Base now supports Confluence Data Center as a native data source connector](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-confluence-data-center-native-data-source-connector/)
 - [Amazon EBS Volume Clones now supports copying volumes across accounts](https://aws.amazon.com/about-aws/whats-new/2026/09/ebs-volume-clones-cross-account-copy/)
-- [AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud/)
 - [AWS Systems Manager now diagnoses more issues that cause EC2 instances to be unmanaged](https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-diagnoses-ec2-unmanaged/)
-- [Amazon Connect Customer Profiles now sends events when customers enter or exit segments](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-profiles-segment-events/)
+- [AWS Private CA EKS add-on and Connector for AD now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/private-ca-eks-addon-ad-govcloud/)
+- [AWS Entity Resolution adds record-level confidence scores for ML matching](https://aws.amazon.com/about-aws/whats-new/2026/09/entity-resolution-record-confidence/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud)
+- [AWS Transform for .NET now generates unit tests for modernized code](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests)
+- [Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/)
 - [AWS Lambda durable functions integrates with Pydantic AI](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-durable-pydantic-ai/)
 - [Amazon MQ now supports RabbitMQ 4.3](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-mq-rabbitmq-43/)
 - [Announcing second-generation single-rack AWS Outposts](https://aws.amazon.com/about-aws/whats-new/2026/09/single-rack-aws-outposts/)
 - [Amazon OpenSearch Serverless is now available on v0 by Vercel](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-opensearch-serverless-available-V0-vercel/)
+- [Amazon ECS expands IAM condition key support for RunTask and StartTask APIs](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-expands-condition-key-support/)
 - [Amazon Redshift RG instances now available in Europe &lpar;Zurich&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-redshift-rg-available-zurich)
 - [Amazon CloudWatch now supports network health indicator for TGW inter-Region peering using synthetic monitors](https://aws.amazon.com/about-aws/whats-new/2026/09/cloudwatch-network-monitoring-tgw-support/)
-- [AWS Elemental Inference now generates contextual metadata from live video in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/elemental-inference-contextual-metadata/)
-- [AWS Elemental MediaTailor now offers Yield Optimization to automatically fill ad breaks with Amazon Ads demand](https://aws.amazon.com/about-aws/whats-new/2026/09/mediatailor-yield-optimization/)
-- [AWS Elemental MediaLive adds support for A/B forensic watermarking](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-ab-forensic-watermarking/)
-- [AWS Elemental MediaTailor now supports Low-Latency HLS ad insertion](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-low-latency-hls-ad-insertion)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

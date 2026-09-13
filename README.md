@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Elemental MediaLive enables frame-accurate pipeline locking for streams without timecode](https://aws.amazon.com/about-aws/whats-new/2026/09/medialive-pipeline-locking/)
 - [Amazon EC2 X2idn instances are now available in Asia Pacific &lpar;Hong Kong&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x2idn-asia-pacific-hong-kong/)
 - [Amazon SageMaker HyperPod now supports model caching for faster inference autoscaling and reduced cold starts](https://aws.amazon.com/about-aws/whats-new/2026/09/sgm-hyperpod-model-caching-inf/)
 - [AWS Lambda now supports direct read configuration for Amazon S3 Files](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-lambda-direct-read-s3files/)
@@ -67,7 +68,6 @@
 - [Amazon RDS for Oracle now supports Supplemental Patch Bundle for July 2026 Release Update](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-oracle-supports-spatial-patch-bundle-jul-2026-ru/)
 - [AWS Lambda recursive loop detection is now available in Europe Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/09/lambda-recursion-europe-sovereign-cloud)
 - [AWS Transform for .NET now generates unit tests for modernized code](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-transform-net-unit-tests)
-- [Amazon API Gateway now supports 1 MB execution logs with configurable delivery destinations](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-api-gateway-1-mb-execution-logs/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

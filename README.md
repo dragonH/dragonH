@@ -61,13 +61,13 @@
 - [AWS Client VPN is now supporting MacOS 27 Golden Gate](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/)
 - [New AWS experience helps builders get started and ship faster](https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience)
 - [Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/)
+- [Amazon Connect Customer custom metrics now supports tag-based access control](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-tag/)
+- [Amazon Connect Customer can now import evaluation form PDFs using AI](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-customer-import-evaluation-form-PDF/)
 - [AWS Elemental MediaTailor Monetization Functions adds ad response hooks](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-elemental-mediatailor-functions-ad-response-hooks)
 - [Amazon ECS extends Amazon S3 Files support to the Amazon EC2 compute type](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-s3-files-ec2/)
+- [Amazon Connect Customer now lets you create, manage, and search custom metrics through APIs](https://aws.amazon.com/about-aws/whats-new/2026/09/connect-customer-custom-metrics-apis/)
 - [AWS STS simplifies session token size limits and adds session token size monitoring](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts/)
 - [Monitor cost anomalies directly in Billing and Cost Management Dashboards with the new Detected Anomalies widget](https://aws.amazon.com/about-aws/whats-new/2026/09/monitor-detected-anomalies-using-dashboards)
-- [AWS Direct Connect announces flat-rate pricing for dedicated connections](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-direct-connect-announces-flat-rate-pricing/)
-- [AWS Billing Conductor now supports custom rates and usage tier pricing configurations](https://aws.amazon.com/about-aws/whats-new/2026/09/AWS-Billing-Conductor-custom-rates-usage-tier)
-- [AWS Step Functions adds new AWS service integrations automatically, starting with AWS Lambda MicroVMs](https://aws.amazon.com/about-aws/whats-new/2026/06/aws-step-functions-integrations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

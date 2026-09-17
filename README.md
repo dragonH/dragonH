@@ -61,13 +61,13 @@
 - [AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer &lpar;NLB&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/)
 - [AWS HealthOmics now supports IAM session policies](https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/)
 - [AWS Batch now supports bulk job cancellation and termination](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/)
+- [Introducing Amazon EC2 T8i instances](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/)
 - [AWS Elastic Beanstalk introduces Cluster Mode to run multiple applications on shared infrastructure](https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode/)
+- [AWS Builder Center now available as mobile app on iOS and Android](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app/)
+- [Amazon Quick now generates individual sheets and builds analyses from an image](https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/)
 - [Amazon Corretto 27 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/)
 - [Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/)
 - [Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/)
-- [AWS Client VPN is now supporting MacOS 27 Golden Gate](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-client-vpn-macos-golden-gate/)
-- [New AWS experience helps builders get started and ship faster](https://aws.amazon.com/about-aws/whats-new/2026/09/New-AWS-Builder-Experience)
-- [Amazon WorkSpaces adds support for NVIDIA Blackwell GPU instances](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-nvidia-blackwell-gpu-instances/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

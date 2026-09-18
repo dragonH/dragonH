@@ -63,11 +63,11 @@
 - [AWS Batch now supports bulk job cancellation and termination](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-batch-bulk-cancellation/)
 - [Introducing Amazon EC2 T8i instances](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-t8i-instances-ga/)
 - [AWS Elastic Beanstalk introduces Cluster Mode to run multiple applications on shared infrastructure](https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-beanstalk-cluster-mode/)
+- [Amazon S3 Express One Zone is now available in 7 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/09/s3-express-one-zone-7-regions/)
 - [AWS Builder Center now available as mobile app on iOS and Android](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-builder-center-now-available-as-mobile-app/)
 - [Amazon Quick now generates individual sheets and builds analyses from an image](https://aws.amazon.com/about-aws/whats-new/2026/09/generate-sheet-and-generate-analysis-from-an-image/)
 - [Amazon Corretto 27 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-27-generally-available/)
 - [Amazon SageMaker AI now supports serverless model customization for NVIDIA Nemotron 3.5 Lightning](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-sagemaker-ft-nemotron-3-5-lightning/)
-- [Amazon ECS deployment observability for Amazon ECS Managed Daemons in AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-daemon-deployment-console/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

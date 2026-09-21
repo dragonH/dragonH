@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 X8i instances are now available in the South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/)
 - [AWS Continuum now supports credential testing and accessible domain suggestions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/)
 - [Amazon ECS Express Mode now supports AWS Graviton &lpar;ARM64&rpar; workloads](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-express-mode-arm-architecture/)
 - [AWS Resilience Hub adds three new capabilities](https://aws.amazon.com/about-aws/whats-new/2026/09/resilience-hub-eks-dependency-policy/)
@@ -67,7 +68,6 @@
 - [The new AgentCore Runtime is now available in Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/09/new-agentcore-runtime-generally-available)
 - [AWS PrivateLink announces Tunnel Endpoints to access network segments](https://aws.amazon.com/about-aws/whats-new/2026/9/privatelink-tunnel-endpoint/)
 - [AWS Transfer Family now supports source IP preservation for SFTP servers behind a Network Load Balancer &lpar;NLB&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-sftp-source-ip-nlb/)
-- [AWS HealthOmics now supports IAM session policies](https://aws.amazon.com/about-aws/whats-new/2026/09/omics-iam-session-policy/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

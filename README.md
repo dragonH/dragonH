@@ -66,8 +66,8 @@
 - [Amazon EMR introduces Long Term Support with Apache Spark 4.1](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/)
 - [Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/)
 - [AWS Security Hub AI Inventory adds Azure self-hosted instance support](https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/)
-- [Amazon EMR 7.14 is now available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available/)
 - [AWS Glue Data Quality delivers context-specific rule recommendations in seconds](https://aws.amazon.com/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/)
+- [Amazon EMR 7.14 is now available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

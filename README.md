@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock Managed Knowledge Base now supports Salesforce and Zendesk as native data source connectors](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-managed-knowledge-base-salesforce-zendesk-native-data-source-connectors/)
+- [Amazon Connect Customer now provides routing step data in the analytics data lake](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-routing-step-data/)
 - [Amazon CloudWatch Omni: AI-first observability for agents and applications](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-cloudwatch-omni-ai/)
 - [Billing Transfer now supports automatic billing group creation for two-level transfers](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-transfer-supports-automatic-billing-group-creation/)
 - [OpenAI GPT-6 Sol and GPT-6 Luna are now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-sol-luna-on-amazon-bedrock/)
@@ -66,8 +68,6 @@
 - [Amazon EMR introduces Long Term Support with Apache Spark 4.1](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/)
 - [Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/)
 - [AWS Security Hub AI Inventory adds Azure self-hosted instance support](https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/)
-- [Amazon EMR 7.14 is now available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available/)
-- [AWS Glue Data Quality delivers context-specific rule recommendations in seconds](https://aws.amazon.com/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

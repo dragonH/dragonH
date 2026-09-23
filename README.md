@@ -63,11 +63,11 @@
 - [Claude Opus 5.5 is now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws-govcloud/)
 - [Claude Opus 5.5 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-opus-5-5-aws/)
 - [AWS Security Hub AI Inventory adds Azure self-hosted instance support](https://aws.amazon.com/about-aws/whats-new/2026/09/security-hub-ai-inventory-azure-support/)
+- [Amazon Route 53 Resolver is now generally available on second-generation AWS Outposts racks](https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-resolver-gen2-outposts/)
+- [Amazon EMR introduces Long Term Support with Apache Spark 4.1](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-long-term-support-spark-4-1/)
 - [AWS Glue Data Quality delivers context-specific rule recommendations in seconds](https://aws.amazon.com/about-aws/whats-new/2026/09/glue-data-quality-rule-recommendations/)
-- [Amazon ECS now provides real-time deployment observability in the AWS Management Console](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ecs-console-deployment-observability/)
-- [Amazon EVS now in scope for FedRAMP Class C](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-evs-fedramp-class-c/)
-- [Amazon EC2 X8i instances are now available in the South America &lpar;São Paulo&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-x8i-south-america-sao-paulo/)
-- [AWS Continuum now supports credential testing and accessible domain suggestions](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-security-agent/)
+- [Amazon EMR 7.14 is now available](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-emr-7-14-available/)
+- [Amazon RDS Custom now supports the latest CU for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-custom-supports-latest-cu-gdr-microsoft-sql-server/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

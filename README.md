@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS DataSync launches a monitoring dashboard for tracking task executions across your account](https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard)
+- [AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers](https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-disaster-recovery-graviton/)
 - [AWS Billing and Cost Management now provides billing context for your account through a new API](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/)
 - [Amazon EventBridge relaunches event buses for enterprise scale](https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/)
 - [AWS Lambda durable functions are now available in AWS European Sovereign Cloud region](https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/)
@@ -66,8 +68,6 @@
 - [Amazon RDS for PostgreSQL now supports post-quantum TLS key exchange](https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-post-quantum-tls-key-exchange/)
 - [AWS Network Security Manager is now generally available in US East &lpar;N. Virginia&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/09/network-security-manager-us-east-va/)
 - [Amazon SageMaker HyperPod Inference Gateway for scalable LLM inference](https://aws.amazon.com/about-aws/whats-new/2026/09/sagemaker-hyperpod-inference-gateway/)
-- [Run interactive workloads on Amazon EMR on EKS with Spark Connect](https://aws.amazon.com/about-aws/whats-new/2026/09/emr-eks-spark-connect-interactive/)
-- [Amazon GameLift Servers now available in 5 new regions and 8 Local Zones](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-gamelift-servers-region-expansion-2026)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

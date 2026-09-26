@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Transcribe adds customer-managed KMS keys for custom resources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/)
+- [Amazon EC2 M8i and M8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-ec2-m8i-m8i-flex-thf/)
+- [Amazon EC2 R8i and R8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-r8i-r8i-flex-thf/)
+- [Amazon EC2 C8i and C8i-flex instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/09/c8i-c8i-flex-thf-september-2026/)
 - [AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/)
 - [AWS DataSync launches a monitoring dashboard for tracking task executions across your account](https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard)
 - [AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers](https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-disaster-recovery-graviton/)
 - [AWS End User Messaging now supports voice calling on WhatsApp](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp)
+- [AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server/)
 - [AWS Billing and Cost Management now provides billing context for your account through a new API](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/)
-- [Amazon EventBridge relaunches event buses for enterprise scale](https://aws.amazon.com/about-aws/whats-new/2026/09/eventbridge-relaunches-custom-event-buses/)
-- [AWS Lambda durable functions are now available in AWS European Sovereign Cloud region](https://aws.amazon.com/about-aws/whats-new/2026/09/durablefunctions-european-sovereign-cloud/)
-- [Amazon RDS for MySQL announces Extended Support minor versions 5.7.44-rds.20260902 and 8.0.46-rds.20260908](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-mysql-extended-support-minor-5744-8046-rds/)
-- [Amazon RDS for PostgreSQL now supports PostgreSQL 19 Beta 4 in the Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/09/postgresql-19-beta-4-amazon-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -65,8 +65,8 @@
 - [AWS IAM outbound identity federation now supports interface VPC endpoints for OIDC discovery](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-sts-vpc-oidc/)
 - [AWS DataSync launches a monitoring dashboard for tracking task executions across your account](https://aws.amazon.com/about-aws/whats-new/2026/09/datasync-monitoring-dashboard)
 - [AWS Elastic Disaster Recovery now supports AWS Graviton-based source servers](https://aws.amazon.com/about-aws/whats-new/2026/09/elastic-disaster-recovery-graviton/)
-- [AWS End User Messaging now supports voice calling on WhatsApp](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp)
 - [AWS End User Messaging and Amazon SES now offer AI agent skills for the AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-messaging-ses-ai-skills-mcp-server/)
+- [AWS End User Messaging now supports voice calling on WhatsApp](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-end-user-messaging-voice-calling-whatsapp)
 - [AWS Billing and Cost Management now provides billing context for your account through a new API](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-billing-and-cost-management-billing-context-api/)
 <!-- AWS-NEWS:END -->
 

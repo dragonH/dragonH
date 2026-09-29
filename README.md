@@ -64,8 +64,8 @@
 - [Claude Sonnet 5.5 now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/)
 - [Claude Sonnet 5.5 now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/)
 - [Amazon Corretto September 2026 Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/)
-- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports retryable writes](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-retryable-writes/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; adds support for 5 MongoDB aggregation stages and change stream capabilities in version 8.0.2](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-8-0-2/)
+- [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; now supports retryable writes](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-documentdb-retryable-writes/)
 - [AWS Backup adds logically air-gapped vault support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-backup-air-gapped-vault-fsx-ontap/)
 - [Amazon Transcribe adds customer-managed KMS keys for custom resources](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-transcribe/)
 <!-- AWS-NEWS:END -->

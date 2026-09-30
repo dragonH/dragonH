@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/)
+- [Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search](https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/)
+- [Amazon Managed Grafana now supports creating Grafana 13.2 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces)
+- [OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/)
+- [Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads](https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/)
+- [Amazon Aurora and RDS now support AMD-based R8a instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/)
+- [Amazon RDS now supports AMD-based M8a instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/)
+- [Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/)
+- [Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/)
 - [Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/)
-- [Amazon Bedrock Managed Agents, powered by OpenAI, is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/09/bedrock-managed-agents-preview/)
-- [Amazon RDS now adds full snapshot size information to the Console and API](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/)
-- [OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/)
-- [Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/)
-- [Amazon WorkSpaces Applications introduces unified graphics images](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/)
-- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/)
-- [Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260514, 12.22-rds.20260514 and 11.22-rds.20260514](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-postgresql-extended-support/)
-- [Amazon Aurora now supports PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/)
-- [Amazon Bedrock expands Claude model availability to India, South Korea, and Singapore](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-in-sk/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

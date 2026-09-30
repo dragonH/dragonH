@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS now adds full snapshot size information to the Console and API](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-full-snapshot-size-available/)
+- [OpenAI GPT-6.1 Sol is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/)
 - [Amazon Connect Customer now lets business users manage more reference data to adjust contact center configurations in real time](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-connect-manage-data-tables/)
+- [Amazon WorkSpaces Applications introduces unified graphics images](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-applications-unified-graphics-images/)
+- [AWS Service Availability Updates](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-service-availability/)
 - [Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260514, 12.22-rds.20260514 and 11.22-rds.20260514](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-postgresql-extended-support/)
+- [Amazon Aurora now supports PostgreSQL 18.6, 17.11, 16.15, 15.19, 14.24](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-aurora-postgresql-18-6-17-11-16-15-15-19-14-24/)
 - [AWS Systems Manager now supports sharing documents through AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2026/09/systems-manager-sharing-documents-ram/)
-- [Amazon Route 53 Resolver DNS Firewall support for Palo Alto Networks Advanced DNS Security is now Generally Available &lpar;GA&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/route-53-dns-firewall-panw-dns-security-generally-available)
-- [Amazon EC2 Future-dated Capacity Reservations Now Supports Postponing Start Dates](https://aws.amazon.com/about-aws/whats-new/2026/09/ec2-fcr-postpone-start-date/)
-- [Amazon Rekognition Face Liveness now returns Feedback Codes](https://aws.amazon.com/about-aws/whats-new/2026/09/rekognition-liveness-feedback-codes/)
-- [Grok 4.7 is now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-bedrock-grok-4-7/)
-- [Claude Sonnet 5.5 now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws/)
-- [Claude Sonnet 5.5 now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-sonnet-5-5-aws-govcloud-us/)
-- [Amazon Corretto September 2026 Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-corretto-sept-2026-updates/)
+- [AWS DataSync now supports shared VPCs](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-datasync-shared-vpcs/)
+- [AWS Transfer Family now supports downloading multiple files and folders in web apps](https://aws.amazon.com/about-aws/whats-new/2026/09/transfer-family-web-apps-download-multiple-files-folders)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

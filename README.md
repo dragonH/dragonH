@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Core Managed Instances adds support for NVIDIA Blackwell GPU](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-workspaces-cmi-g7/)
 - [AWS CLI now supports bulk skill updates and version checks for the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cli-agent-toolkit-update-skill/)
 - [Amazon S3 Vectors introduces metadata pre-filtering for up to 5x higher recall on filtered search](https://aws.amazon.com/about-aws/whats-new/2026/09/s3-vectors-introduces-metadata-pre-filtering/)
 - [Amazon Managed Grafana now supports creating Grafana 13.2 workspaces](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-managed-grafana-now-supports-creating-grafana-13-2-workspaces)
 - [OpenAI GPT-6 Astra now supports UltraFast mode on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-astra-ultrafast-on-amazon-bedrock/)
+- [AWS Parallel Computing Service now supports scaling logs](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-pcs-scaling-logs/)
 - [Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads](https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/)
 - [Amazon Aurora and RDS now support AMD-based R8a instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/)
 - [Amazon RDS now supports AMD-based M8a instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/)
 - [Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/)
-- [Amazon RDS for MySQL supports MySQL 26.7 in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/09/rds-mysql-26-7-preview-environment/)
-- [Uncover blind spots in AWS data plane operations with CloudTrail Event Coverage](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-cloudtrail-event-coverage/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

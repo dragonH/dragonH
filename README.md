@@ -67,7 +67,7 @@
 - [Amazon Aurora serverless now scales faster to support agentic AI and other bursty workloads](https://aws.amazon.com/about-aws/whats-new/2026/08/aurora-serverless-instant-16-acu-scaling/)
 - [Amazon Aurora and RDS now support AMD-based R8a instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-r8a/)
 - [Amazon RDS now supports AMD-based M8a instances](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-rds-amd-m8a/)
-- [Aurora PostgreSQL now supports querying of Apache Iceberg and Parquet data](https://aws.amazon.com/about-aws/whats-new/2026/09/aurora-postgresql-query-apache-iceberg-and-parquet/)
+- [Amazon Bedrock expands Claude models in-region support in the UK &lpar;London&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/09/claude-region-expansion-lhr/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS adds Amazon VPC Lattice support for blue/green, linear, and canary deployments](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-vpc-lattice-blue-green-deployments)
 - [AWS Health introduces the version catalog for software lifecycle management](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-health-introduces-version-catalog-software-lifecycle-management)
+- [Amazon Aurora DSQL now supports partial indexes](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-dsql-partial-indexes/)
 - [Amazon EKS and Amazon EKS Distro now support Kubernetes version 1.37](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-distro-kubernetes-version-1-37)
 - [AWS Brazil automates distribution of non-Brazilian software product licenses to Brazilian customers](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-brazil-software-license-distribution/)
 - [The AWS MCP Server is now available in six additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-mcp-server-six-additional-regions/)
+- [AgentCore Gateway supports private TLS certificates for VPC endpoints](https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-private-tls-vpc/)
 - [Amazon ElastiCache for Valkey now supports OpenTelemetry metrics and detailed monitoring](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-opentelemetry-metrics-detailed-monitoring)
 - [GuardDuty Runtime Monitoring is now included in the AWS Security Hub Threat Analytics plan](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-security-hub-runtime-monitoring/)
 - [AWS Well-Architected Agent is now available in preview](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-well-architected-agent/)
-- [Amazon Redshift now supports cross-Region queries for your data lake](https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-cross-Region-queries-for-data-lake)
-- [Amazon DynamoDB introduces filtered export to Amazon S3](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-introduces-filtered-export/)
-- [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-dynamodb-accelerator/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -67,7 +67,7 @@
 - [AWS Control Tower AFT now supports plan-only customization runs](https://aws.amazon.com/about-aws/whats-new/2026/09/aws-control-tower-aft/)
 - [AWS Continuum for Penetration Testing now supports continuous penetration testing integrated directly into your CI/CD pipeline](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-penetration-testing/)
 - [Amazon EC2 introduces shared tags for Amazon Machine Images](https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-ami-shared-tags)
-- [AWS Client VPN now supports device posture assessment](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-client-vpn-device-posture/)
+- [AWS Advanced Ruby Driver Wrapper is generally available](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ruby-driver-wrapper-available/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

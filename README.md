@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in](https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-studio-social-sign-in/)
+- [Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/)
 - [Amazon CloudFront now supports AWS Lambda Web Functions as an origin](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/)
 - [Amazon EC2 G7 instances now available in Europe &lpar;Frankfurt&rpar; and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/)
 - [Amazon Connect Customer now prefills step-by-step guides for after contact work](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw)
@@ -66,8 +68,6 @@
 - [AWS Transfer Family supports custom ports for public SFTP servers](https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp/)
 - [Amazon S3 Express One Zone is now available in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/s3-express-one-zone-4-additional-regions/)
 - [AWS Secrets Manager adds managed external secrets support for Databricks and Twilio](https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio/)
-- [Amazon ElastiCache for Valkey introduces ElastiCache Insights](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-valkey-elasticache-insights/)
-- [Amazon EMR now supports native data quality checks in Apache Spark jobs](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-emr-data-quality-spark/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

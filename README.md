@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in](https://aws.amazon.com/about-aws/whats-new/2026/01/sagemaker-studio-social-sign-in/)
+- [AWS Agent Registry now supports custom metadata for registry records](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-agent-registry-custom-metadata-registry-records)
+- [Amazon DCV releases version 2026.0 with RHEL 10 support and new clients](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dcv-2026-0/)
+- [AWS Deadline Cloud now helps users find their accessible resources in the Deadline Cloud monitor](https://aws.amazon.com/about-aws/whats-new/2026/10/deadline-cloud/resources)
+- [Amazon Location Service launches an interactive API Playground featuring Places, Routes and Maps APIs](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-location-service-api-playground)
 - [Bring deep SageMaker AI expertise to your coding agent with the AWS AI/ML skill in the Agent Toolkit for AWS](https://aws.amazon.com/about-aws/whats-new/2026/10/bring-sagemaker-ai-expertise-to-your-coding-agent/)
+- [AWS DataSync Enhanced mode now supports FSx for OpenZFS, NFS 4.2, and object metadata controls](https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-openzfs-nfs42-metadata/)
+- [Amazon Route 53 now supports registrations, transfers, and renewals for Premium Domains](https://aws.amazon.com/about-aws/whats-new/2026/10/route-53-premium-domains/)
+- [Amazon RDS now supports the latest CU for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/09/amazon-rds-supports-latest-cu-microsoft-sql-server/)
 - [Amazon CloudFront now supports AWS Lambda Web Functions as an origin](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudfront-lambda-web-functions-origin/)
 - [Amazon EC2 G7 instances now available in Europe &lpar;Frankfurt&rpar; and Europe &lpar;Stockholm&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-g7-european-regions/)
-- [Amazon Connect Customer now prefills step-by-step guides for after contact work](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-prefills-guides-acw)
-- [AWS Lambda announces Lambda Web Functions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/)
-- [Announcing consumption-based pricing for short-term memory in Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-memory-consumption-based-pricing)
-- [AWS Transfer Family supports custom ports for public SFTP servers](https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-custom-ports-sftp/)
-- [Amazon S3 Express One Zone is now available in 4 additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/s3-express-one-zone-4-additional-regions/)
-- [AWS Secrets Manager adds managed external secrets support for Databricks and Twilio](https://aws.amazon.com/about-aws/whats-new/2026/10/secrets-manager-managed-external-secrets-databricks-twilio/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

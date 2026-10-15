@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/)
+- [Amazon EC2 T8i instances are now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/)
+- [Amazon DynamoDB Streams now supports timestamp-based stream processing](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing)
+- [AWS Lambda Durable Execution SDK for Go is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/)
+- [Muse Spark Open model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/)
+- [AWS HealthOmics now supports shared VPCs](https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/)
+- [Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions)
 - [AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region)
-- [Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/)
-- [AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/)
-- [Amazon Managed Service for Prometheus Collector now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz/)
-- [Amazon CloudWatch announces log routing and chained log parsers](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/)
-- [Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/)
-- [AWS HealthOmics expands container registry support for private workflows](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-expanded-container-registry-support/)
-- [ARC Region switch adds four new capabilities](https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/)
-- [AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/)
-- [AWS HealthOmics introduces resource fallback order for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/)
+- [Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-aws-gsr-additional-aws-regions)
+- [PostgreSQL 19 RC1 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/10/postgresql-19-rc1-amazon-rds-database-preview-environment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region)
+- [Amazon Redshift long-term system table retention with Amazon S3 Tables is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/redshift-long-term-system-table-retention-expansion/)
+- [AWS Security Hub CSPM now supports the Cyber Risk Institute profile version 2.2](https://aws.amazon.com/about-aws/whats-new/2026/10/security-hub-cspm-cri-profile-v22/)
+- [Amazon Managed Service for Prometheus Collector now available in Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/ams-prometheus-collector-apac-nz/)
 - [Amazon CloudWatch announces log routing and chained log parsers](https://aws.amazon.com/about-aws/whats-new/2026/10/cloudwatch-pipelines-log-routing/)
 - [Amazon SageMaker Studio simplifies getting started for new AI/ML builders with social sign-in](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-social-sign-in/)
+- [AWS HealthOmics expands container registry support for private workflows](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-expanded-container-registry-support/)
 - [ARC Region switch adds four new capabilities](https://aws.amazon.com/about-aws/whats-new/2026/10/region-switch-target-health-ssm-lambda/)
 - [AWS License Manager now supports license type conversions for Ubuntu Pro purchased through AWS Marketplace](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-license-manager-conversions-ubuntu-pro-marketplace/)
 - [AWS HealthOmics introduces resource fallback order for Nextflow workflows](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-healthomics-resource-fallback-for-Nextflow/)
-- [AWS Backup now supports Amazon FSx file systems in the Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-fsx-asia-pacific-new-zealand/)
-- [Announcing Blockchain Snapshots on AWS for node bootstrapping](https://aws.amazon.com/about-aws/whats-new/2026/10/blockchain-snapshots-node-bootstrapping/)
-- [AWS Transfer Family console supports SVG logos and ICO favicons for web apps](https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-svg-ico-favicons/)
-- [AWS Transfer Family now supports AWS Secrets Manager storage for SFTP server host keys](https://aws.amazon.com/about-aws/whats-new/2026/10/transfer-family-secrets-host-keys/)
-- [Amazon RDS Proxy now supports SQL Server 2022](https://aws.amazon.com/about-aws/whats-new/2026/10/rds-proxy-supports-sqlserver-2022)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

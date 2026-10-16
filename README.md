@@ -58,6 +58,8 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium](https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/)
+- [AWS Transform announces Azure-to-AWS cloud-native code conversion](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/)
 - [Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/)
 - [Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/)
 - [Amazon EC2 T8i instances are now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/)
@@ -66,8 +68,6 @@
 - [Muse Spark Open model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/)
 - [AWS HealthOmics now supports shared VPCs](https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/)
 - [Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions)
-- [AWS Transform for full-stack Windows modernization now supports Aurora PostgreSQL cross-region deployment in 7 more Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-full-stack-aurora-cross-region)
-- [Amazon MSK Connect and AWS Glue Schema Registry are now available in the AWS European Sovereign Cloud &lpar;Germany&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-aws-gsr-additional-aws-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda durable functions are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/)
+- [Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/)
 - [Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium](https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/)
 - [AWS Transform announces Azure-to-AWS cloud-native code conversion](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/)
+- [Second-generation AWS Outposts racks now supported in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/)
+- [AWS End User Messaging adds registration improvements for faster, higher-quality submissions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-registration-improvements-for-faster-higher-quality-submissions)
+- [AWS End User Messaging now supports Brand Profiles](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-now-supports-brand-profiles)
+- [AWS End User Messaging now offers managed OTP verification end-to-end](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-end-to-end-managed-OTP)
+- [AWS End User Messaging adds a guided wizard for RCS registration videos](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-guided-wizard-rcs-registration-videos)
 - [Web Search on Amazon Bedrock AgentCore expands to AWS GovCloud and 3 Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore/)
-- [Amazon SageMaker Studio simplifies getting started for new AI/ML builders with new sign-in options](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-studio-new-sign-in-options/)
-- [Amazon EC2 T8i instances are now available in South America &lpar;São Paulo&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-t8i-instances-south-america/)
-- [Amazon DynamoDB Streams now supports timestamp-based stream processing](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-dynamodb-streams-timestamp-processing)
-- [AWS Lambda Durable Execution SDK for Go is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-durable-go-sdk-support/)
-- [Muse Spark Open model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/muse-spark-open-on-sagemaker-jumpstart/)
-- [AWS HealthOmics now supports shared VPCs](https://aws.amazon.com/about-aws/whats-new/2026/10/omics-workflows-shared-vpcs/)
-- [Amazon Time Sync Service adds support for microsecond-accurate time on 135 additional EC2 instance types in all commercial regions](https://aws.amazon.com/about-aws/whats-new/2026/10/time-sync-additional-instances-all-regions)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

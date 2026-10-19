@@ -67,7 +67,7 @@
 - [Second-generation AWS Outposts racks now supported in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/)
 - [AWS End User Messaging adds registration improvements for faster, higher-quality submissions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-registration-improvements-for-faster-higher-quality-submissions)
 - [AWS End User Messaging now supports Brand Profiles](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-now-supports-brand-profiles)
-- [AWS End User Messaging now offers managed OTP verification end-to-end](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-end-to-end-managed-OTP)
+- [AWS End User Messaging adds a guided wizard for RCS registration videos](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-end-user-messaging-adds-guided-wizard-rcs-registration-videos)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

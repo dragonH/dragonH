@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview)
+- [Amazon CloudWatch Omni is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/)
 - [EC2 Image Builder now integrates with ASG for faster image builds](https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/)
 - [Amazon GuardDuty adds optional threat detection rules for Runtime Monitoring](https://aws.amazon.com/about-aws/whats-new/2026/10/guardduty-runtime-optional-detection-rules/)
+- [Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/)
+- [AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store](https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/)
+- [AWS Elemental MediaConnect Router now supports high bitrate mode](https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/)
+- [Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/)
+- [Amazon RDS for SQL Server now supports snapshots on read replicas](https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas)
 - [AWS Partner Central adds Solution Matching Engine performance insights](https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance)
-- [Amazon CloudWatch log centralization now available in AWS GovCloud and additional commercial Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-centralization-region-expansion)
-- [AWS Lambda durable functions are now available in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/durablefunctions-govcloud/)
-- [Nemotron 3.5 Super VL model now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/nvidia-nemotron-3.5-super-vl-on-sagemaker-jumpstart/)
-- [Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium](https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/)
-- [AWS Transform announces Azure-to-AWS cloud-native code conversion](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transform-azure-to-aws-code-conversion/)
-- [Amazon Braket now in scope for FedRAMP Class C](https://aws.amazon.com/about-aws/whats-new/2026/10/braket-fedramp-class-c/)
-- [Second-generation AWS Outposts racks now supported in the AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-outposts-racks-mexico-central/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Polly Generative engine upgraded with more natural speech, 14 new voices, and 2 new languages](https://aws.amazon.com/about-aws/whats-new/2026/10/polly-generative/)
+- [AWS announces TorchNeuron: Native PyTorch Support for AWS Trainium &lpar;Public Beta&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium)
+- [AWS IAM Identity Center simplifies identity source changes from Active Directory](https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/)
 - [Amazon Connect Customer Global Resiliency now provides business users visibility into resiliency readiness across linked Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-readiness-overview)
 - [Amazon CloudWatch Omni is now available in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-cloudwatch-omni-8-regions/)
 - [EC2 Image Builder now integrates with ASG for faster image builds](https://aws.amazon.com/about-aws/whats-new/2026/10/ec2-image-builder-asg-faster-builds/)
@@ -65,9 +68,6 @@
 - [Grok 4.7 is now available on Amazon Bedrock in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-grok-4-7-govcloud/)
 - [AWS IAM Identity Center now supports optimistic locking for users and groups in its identity store](https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-store-optimistic-locking/)
 - [AWS Elemental MediaConnect Router now supports high bitrate mode](https://aws.amazon.com/about-aws/whats-new/2026/10/mediaconnect-router-high-bitrate/)
-- [Amazon RDS Custom now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-custom-supports-latest-cumulative-update-gdr-microsoft-sql-server/)
-- [Amazon RDS for SQL Server now supports snapshots on read replicas](https://aws.amazon.com/about-aws/whats-new/2026/10/rds-sqlserver-supports-snapshots-on-read-replicas)
-- [AWS Partner Central adds Solution Matching Engine performance insights](https://aws.amazon.com/about-aws/whats-new/2026/10/solution-matching-engine-performance)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

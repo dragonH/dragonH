@@ -65,8 +65,8 @@
 - [Structured outputs for Claude models available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/claude-structured-outputs-bedrock/)
 - [AWS Clean Rooms now supports Databricks as a data source](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-clean-rooms-supports-databricks)
 - [AWS IAM Identity Center simplifies identity source changes from Active Directory](https://aws.amazon.com/about-aws/whats-new/2026/10/iam-identity-center-chg-id-src-from-ad/)
-- [Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/)
 - [AWS Partner Central launches Program Navigator, Case Study Generator, and streamlined specialization review](https://aws.amazon.com/about-aws/whats-new/2026/10/partner-central-program-navigator/)
+- [Amazon Bedrock Guardrails now supports Standard tier for contextual grounding checks](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-guardrails-grounding-standard/)
 - [Amazon Bedrock Advanced Prompt Optimization now supports prompt shortening](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-prompt-optimization-shortening/)
 <!-- AWS-NEWS:END -->
 

@@ -66,8 +66,8 @@
 - [AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0)
 - [Amazon Connect Customer launches two new layouts for agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace)
 - [Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/)
-- [Announcing Amazon ECS Gateway, a managed ingress solution for your ECS services](https://aws.amazon.com/about-aws/whats-new/2026/10/announcing-amazon-ecs-gateway/)
-- [Amazon DynamoDB global tables now support disassociating replicas](https://aws.amazon.com/about-aws/whats-new/2026/10/dynamodb-global-tables-disassociate/)
+- [Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/)
+- [AWS Network Firewall now supports Route 53 Resolved IP Validation](https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

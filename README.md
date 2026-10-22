@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS CloudFormation now simplifies stack update rollback operations](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/)
+- [Amazon SageMaker AI announces training session APIs for serverless model customization](https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai)
+- [AWS announces AWS Interconnect - last mile preview with Megaport](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/)
+- [Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/)
+- [AWS Lambda MicroVMs is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions)
+- [Amazon Quick Now Available in the AWS Singapore Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-quick-now-available-in-the-aws-singapore-region/)
 - [AWS Transform adds storage migration assessments for Amazon S3, EBS, EFS, and FSx](https://aws.amazon.com/about-aws/whats-new/2026/10/transform-assess-s3-ebs-efs-fsx/)
+- [AWS Service Reference Information now supports global condition keys, service names, and data plane classification](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-service-reference-information-global-condition-keys-service-names-data-plane/)
 - [AWS Direct Connect announces 100G expansion in Manchester, England](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-manchester/)
 - [Amazon Aurora and Amazon RDS now support On-Demand Capacity Reservations](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-aurora-rds-on-demand-capacity-reservations/)
-- [Amazon Cognito extends multi-Region replication to AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/cognito-multi-region-us-govcloud/)
-- [Beam model by Reflection is now available on Amazon SageMaker JumpStart and AWS Trainium](https://aws.amazon.com/about-aws/whats-new/2026/01/reflection-beam-on-sagemaker-jumpstart-and-aws-trainium/)
-- [AWS Neuron 2.33 adds native PyTorch support, Neuron Observer, and other new features](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announce-neuron-2-33-0)
-- [Amazon Connect Customer launches two new layouts for agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-new-layouts-agent-workspace)
-- [Amazon S3 server access log delivery to Amazon CloudWatch Logs now available in five additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-s3-server-access-logs-cloudwatch-logs-regions/)
-- [Amazon SageMaker AI now supports custom sequence lengths for serverless model customization jobs](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-custom-sequence-lengths/)
-- [AWS Network Firewall now supports Route 53 Resolved IP Validation](https://aws.amazon.com/about-aws/whats-new/2026/10/network-firewall-route-53-ip-validation/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/)
+- [Amazon EMR on EKS reduces EMR charge by 30 percent](https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/)
+- [Amazon MWAA now available in Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/)
 - [Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp)
 - [AWS Continuum for code vulnerabilities is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available)
 - [Amazon OpenSearch Serverless now supports a 5-second default refresh interval](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/)
 - [AWS CloudFormation now simplifies stack update rollback operations](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-cloudformation-cdk/)
 - [Amazon SageMaker AI announces training session APIs for serverless model customization](https://aws.amazon.com/about-aws/whats-new/2026/10/training-session-apis-on-sagemaker-ai)
 - [AWS Direct Connect announces 100G expansion in Bangalore, India](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-direct-connect-100g-bangalore/)
-- [AWS announces AWS Interconnect - last mile preview with Megaport](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-announces-AWS-interconnect-last-mile-megaport-preview/)
-- [Amazon SageMaker AI now supports serverless model customization for Muse Glimmer, Qwen 3.8 and Ministral 3 models](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-sagemaker-muse-qwen-ministral/)
-- [AgentCore Gateway now supports Bedrock InvokeModel APIs and model fallback](https://aws.amazon.com/about-aws/whats-new/2026/10/agentcore-gateway-invokemodel-fallback/)
-- [AWS Lambda MicroVMs is now available in 4 additional AWS regions](https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-microvms-4-additional-regions)
+- [Amazon MSK Connect now supports pausing and resuming connectors](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-pause-resume)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

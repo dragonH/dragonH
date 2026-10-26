@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Connect Customer now lets you view metrics by customer lifetime value and repeat-caller status](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-segment/)
+- [Amazon Connect Customer now measures the outcomes that drive retention and revenue](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-boma-metrics/)
 - [Web Search on Amazon Bedrock now supports domain filtering and user location controls](https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-web-search-domain-user-location/)
 - [Amazon Connect Customer Global Resiliency now supports persistent chat across linked AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-connect-global-resiliency-persistent-chat)
 - [AWS Transit Gateway and AWS Cloud WAN now support 1:1 NAT](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-transit-gateway-cloud-wan-1-1-nat/)
 - [Amazon Corretto October 2026 Quarterly Updates](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-october-2026-quarterly-updates)
-- [Amazon MWAA now available in Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/)
 - [Amazon EMR on EKS reduces EMR charge by 30 percent](https://aws.amazon.com/about-aws/whats-new/2026/10/emr-eks-reduces-emr-charge-30-percent/)
+- [Amazon MWAA now available in Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-mwaa-mexico-central/)
 - [Amazon Connect Customer now supports customizing the Customer Profiles app on the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-customize-cp)
 - [AWS Continuum for code vulnerabilities is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-continuum-for-code-vulnerabilities-is-now-generally-available)
-- [Amazon OpenSearch Service introduces intelligent ingestion for logs and documents in Amazon S3](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-intelligent-ingestion-logs-documents-s3)
-- [Amazon OpenSearch Serverless now supports a 5-second default refresh interval](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-opensearch-serverless-supports-5-second-refresh-interval/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

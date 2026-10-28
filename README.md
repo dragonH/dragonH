@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service &lpar;MPS&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/)
 - [SageMaker MLflow Apps now support MLflow 3.16](https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/)
 - [Amazon Aurora serverless now supports up to 384 ACUs](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/)
 - [Amazon ElastiCache for Valkey now supports changing durability on existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/)
 - [Amazon Corretto October 2026 Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates)
+- [Amazon Neptune now supports online index rebuild to reclaim storage](https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/)
 - [Amazon ECR now supports replication backfill for existing container images](https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr)
 - [OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/)
 - [Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/)
 - [Amazon IVS Low-Latency Streaming now provides a failover slate](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate)
-- [Amazon SageMaker Unified Studio adds light mode support for IDC-based domains](https://aws.amazon.com/about-aws/whats-new/2026/10/smus-light-mode)
-- [Amazon Connect Customer expands testing and simulation to validate flow action outcomes](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-customer-validate-flow-actions/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service &lpar;MPS&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/)
-- [SageMaker MLflow Apps now support MLflow 3.16](https://aws.amazon.com/about-aws/whats-new/2026/10/mflow-version-3-16/)
-- [Amazon Aurora serverless now supports up to 384 ACUs](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-serverless-supports-384-acu/)
-- [Amazon ElastiCache for Valkey now supports changing durability on existing clusters](https://aws.amazon.com/about-aws/whats-new/2026/10/elasticache-changing-durability/)
-- [Amazon Corretto October 2026 Patch Updates](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-corretto-oct-2026-patch-updates)
-- [Amazon Neptune now supports online index rebuild to reclaim storage](https://aws.amazon.com/about-aws/whats-new/2026/10/neptune-online-index-rebuild/)
-- [Amazon ECR now supports replication backfill for existing container images](https://aws.amazon.com/about-aws/whats-new/2026/10/replication-backfill-amazon-ecr)
-- [OpenAI GPT-6.1 Terra is now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/10/openai-gpt-6-1-terra-on-amazon-bedrock/)
-- [Amazon WorkSpaces Core Managed Instances now supports ModifyVolume API](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-workspaces-cmi-modifyvolume/)
-- [Amazon IVS Low-Latency Streaming now provides a failover slate](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ivs-low-latency-streaming-failover-slate)
+- [Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp)
+- [AWS Lambda supports Seekable OCI &lpar;SOCI&rpar; lazy loading for Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/)
+- [Introducing time series collections for the next generation of Amazon OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/)
+- [Quick now supports smart approvals for agentic actions](https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/)
+- [Amazon EKS Dashboard now provides fleet-wide visibility into certificate authority &lpar;CA&rpar; rotation](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-dashboard-fleet-wide-visibility-certificate-authority-ca-rotation/)
+- [AWS Lambda durable functions now exports live telemetry for execution insights](https://aws.amazon.com/about-aws/whats-new/2026/10/lambda-durable-telemetry/)
+- [Amazon ECS Managed Instances adds cross-instance and Spot consolidation](https://aws.amazon.com/about-aws/whats-new/2026/10/ecs-managed-instances-consolidation/)
+- [Amazon EKS Auto Mode now supports Kubernetes Gateway API](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-eks-auto-mode-kubernetes-gateway-api/)
+- [AWS Backup adds restore testing support for Amazon Redshift](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-backup-adds-redshift-restore-testing/)
+- [AWS IAM Identity Center&#39;s Identity Store now supports change notifications through Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-identity-store-change-notifications/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -64,9 +64,9 @@
 - [Amazon MSK Connect now supports updating connector plugins and worker configurations](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations)
 - [AWS Step Functions workflows now available as AI agent tools](https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/)
 - [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/)
-- [ACM now supports ACME for public certificates in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/)
-- [AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization](https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/)
 - [Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2](https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/)
+- [AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization](https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/)
+- [ACM now supports ACME for public certificates in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/)
 - [Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/)
 <!-- AWS-NEWS:END -->
 

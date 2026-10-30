@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Marketplace now enables partners to list once and sell through multiple subsidiary accounts](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-marketplace-subsidiary-account-authorization)
 - [Amazon RDS for Oracle and SQL Server now support storage autoscaling on additional storage volumes](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-sqlserver-autoscaling-additional-storage-volumes)
+- [Amazon Aurora now supports post-quantum TLS key exchange](https://aws.amazon.com/about-aws/whats-new/2026/10/aurora-postgresql-post-quantum-tls-key-exchange/)
+- [Amazon MSK Connect now supports updating connector plugins and worker configurations](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-connect-update-plugin-worker-configurations)
 - [AWS Step Functions workflows now available as AI agent tools](https://aws.amazon.com/about-aws/whats-new/2026/10/step-functions-workflows-ai-agent-tools/)
 - [Amazon DynamoDB Accelerator &lpar;DAX&rpar; is now available in additional Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/dax-additional-regions/)
 - [ACM now supports ACME for public certificates in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/acm-acme-support-govcloud-us/)
-- [Amazon RDS for Oracle now supports September 2026 Monthly Recommended Patch](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-rds-oracle-september-mrp)
-- [Amazon Bedrock AgentCore CLI version 1.0 is now available](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-agentcore-cli-version-1-0-available/)
-- [Public endpoints for Amazon ElastiCache Serverless now in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-elasticache-serverless-public-endpoints-govcloud/)
-- [AWS Lambda supports Seekable OCI &lpar;SOCI&rpar; lazy loading for Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-seekable-oci-soci/)
-- [Introducing time series collections for the next generation of Amazon OpenSearch Serverless](https://aws.amazon.com/about-aws/whats-new/2026/10/time-series-collection-next-generation-opensearch-serverless/)
-- [Quick now supports smart approvals for agentic actions](https://aws.amazon.com/about-aws/whats-new/2026/10/quick-smart-approvals-agentic-actions/)
+- [AWS DataSync Enhanced mode now supports Amazon FSx for Windows File Server, FSx for NetApp ONTAP, and Red Hat OpenShift Virtualization](https://aws.amazon.com/about-aws/whats-new/2026/10/datasync-enhanced-fsx-openshift/)
+- [Amazon Managed Grafana now supports in-place upgrade to Grafana version 13.2](https://aws.amazon.com/about-aws/whats-new/2026/10/managed-grafana-upgrade-version-13-2/)
+- [Amazon SageMaker AI now supports SOCI-indexed images to start training jobs in seconds](https://aws.amazon.com/about-aws/whats-new/2026/10/sagemaker-ai-soci-images-training/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

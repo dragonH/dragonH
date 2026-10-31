@@ -66,8 +66,8 @@
 - [Amazon MSK now supports TLS 1.3 for data in transit](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-tls/)
 - [Amazon RDS for Oracle no longer requires automatic minor version upgrades for JVM, Spatial, Locator, and OLAP options](https://aws.amazon.com/about-aws/whats-new/2026/10/oracle-jvm-spatial-locator-olap-options-amvu-optional/)
 - [AWS WAF announces automatic SDK integration for Amazon CloudFront distributions](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-waf-automatic-sdk-integration-amazon-cloudfront/)
+- [Amazon Connect Customer now supports versioning and aliasing for flows](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-versioning-aliasing/)
 - [Managed Prometheus collectors now support Amazon MSK consumer-group metrics](https://aws.amazon.com/about-aws/whats-new/2026/10/prometheus-collectors-msk-metrics/)
-- [AWS Glue Data Catalog now supports Apache Iceberg table optimization in the US West &lpar;N. California&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/10/glue-data-catalog-optimizers-us-west-1/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

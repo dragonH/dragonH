@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/)
 - [Haiku 5.5 now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/)
 - [Amazon RDS now supports per snapshot billing](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/)
 - [Amazon Quick on desktop now uses your organization&#39;s existing Amazon Quick sign-in](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/)
@@ -67,7 +68,6 @@
 - [Amazon Connect Customer now supports Model Context Protocol &lpar;MCP&rpar; tools in flows](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-flows-mcp-tools/)
 - [Amazon Connect Customer now supports Cases and External Tool events in the Wait block](https://aws.amazon.com/about-aws/whats-new/2026/10/connect-wait-block-cases-tool-events/)
 - [EC2 Amazon Machine Images can now be scanned for vulnerabilities through Amazon Inspector](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-amis-scanned-through-inspector/)
-- [Amazon Textract now available in Asia Pacific &lpar;Tokyo&rpar; and Europe &lpar;Zurich&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/textract-tokyo-zurich/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

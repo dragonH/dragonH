@@ -59,15 +59,15 @@
 
 <!-- AWS-NEWS:START -->
 - [Amazon Connect Customer lets agents pause and resume emails](https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/)
+- [Amazon Connect Customer prefills the email address for new threads started from cases](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-email-addresses/)
 - [AWS Config now supports 10 new resource types](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-new-resource-types)
+- [Amazon RDS now supports the latest Cumulative Update and GDR updates for Microsoft SQL Server](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-supports-latest-cumulative-update-gdr-microsoft-sql-server/)
 - [AWS Transform for mainframe improves the reimagine modernization workflow](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-mainframe-reimagine/)
 - [Amazon EKS Capabilities now supports Argo CD Notifications](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-argo-cd-notifications)
 - [Amazon RDS for Oracle now supports M8i and R8i instances in additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-m8i-r8i-instances-new-regions/)
 - [Haiku 5.5 now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-haiku-5-5-aws-govcloud-us/)
 - [Amazon RDS now supports per snapshot billing](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-per-snapshot-billing/)
 - [Amazon Quick on desktop now uses your organization&#39;s existing Amazon Quick sign-in](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-desktop-organization-sign-in/)
-- [Amazon Aurora MySQL 8.4.10 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8410-available/)
-- [AWS Lambda now supports queues for Apache Kafka in self-managed Kafka event sources](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-queue-kafka-esm/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

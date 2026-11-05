@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon DynamoDB now supports bulk put items](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/)
+- [Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/)
+- [IAM Roles Anywhere now supports automatic certificate revocation checking](https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/)
+- [AWS Security Hub Network Scanning now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/)
+- [Amazon SageMaker AI Studio Now Supports IAM Identity Center Multi-Region Replication](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sagemaker-ai-studio-iam/)
+- [AWS Systems Manager Parameter Store now allows organization and validation with built-in data types](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-ssm-parameter-store-allows-organization-validation-with-new-data-types/)
+- [Amazon MWAA now supports cost allocation tags](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-cost-allocation-tags/)
 - [Amazon ECS Managed Daemons can now collect json-file logs from application containers on Amazon ECS Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ecs-managed-instances-json-file-log-driver/)
 - [Amazon DocumentDB &lpar;with MongoDB compatibility&rpar; is now available in the Asia Pacific &lpar;Taipei&rpar; and Asia Pacific &lpar;New Zealand&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-documentdb-mongodb-compatibility-asia-pacific-taipei-new-zealand-regions/)
 - [Amazon RDS for Oracle now supports copying option groups during cross-Region snapshot copy](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-oracle-cross-region-snapshot-copy-option-group/)
-- [AWS announces AWS Interconnect - last mile preview with Equinix](https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-preview-equinix/)
-- [Amazon Connect Customer now shows associated cases in contact records](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/)
-- [Amazon EC2 and VPC now display related resources for all resource types](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/)
-- [AWS DataSync Enhanced mode supports OpenID Connect &lpar;OIDC&rpar; for Google Cloud and Microsoft Azure](https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/)
-- [Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/)
-- [RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/)
-- [New features for Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

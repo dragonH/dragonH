@@ -65,9 +65,9 @@
 - [Amazon Connect Customer now shows associated cases in contact records](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-contact-records/)
 - [Amazon EC2 and VPC now display related resources for all resource types](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-vpc-related-resources-all-types/)
 - [AWS DataSync Enhanced mode supports OpenID Connect &lpar;OIDC&rpar; for Google Cloud and Microsoft Azure](https://aws.amazon.com/about-aws/whats-new/2026/11/datasync-enhanced-oidc-google-azure/)
+- [Amazon S3 Tables now provide a simple, cost-effective path for data lake modernization](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-managed-migration-hive-to-iceberg/)
 - [RHEL 10, Rocky 10 and Ubuntu 26.04 Bundles for WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/11/rhel-10-rocky-10-ubuntu-26-04-workspaces/)
 - [New features for Amazon EC2 Capacity Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-capacity-manager-supportability-and-fulfillment/)
-- [Amazon Connect Customer lets agents pause and resume emails](https://aws.amazon.com/about-aws/whats-new/2026/11/connect-pause-resume-email/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

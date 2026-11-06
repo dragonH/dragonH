@@ -65,9 +65,9 @@
 - [Amazon DynamoDB now supports bulk put items](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-dynamodb-now-supports-bulk-put-items/)
 - [Amazon Cognito announces 99.99% Service Level Agreement for the Plus feature plan](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-sla-update/)
 - [IAM Roles Anywhere now supports automatic certificate revocation checking](https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/)
+- [Amazon OpenSearch Service optimized engine now supports agent traces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces)
 - [Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops)
 - [Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/)
-- [AWS Security Hub Network Scanning now available in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-network-scanning-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

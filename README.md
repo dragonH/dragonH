@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions)
 - [AWS Security Hub now provides an SBOM inventory for your compute resources](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/)
 - [AWS Interconnect - last mile announces new metro in Northern Virginia, USA](https://aws.amazon.com/about-aws/whats-new/2026/11/interconnect-last-mile-northern-virginia/)
 - [Announcing Web Answer on Amazon Bedrock AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/11/web-answer-amazon-bedrock/)
@@ -67,7 +68,6 @@
 - [IAM Roles Anywhere now supports automatic certificate revocation checking](https://aws.amazon.com/about-aws/whats-new/2026/11/iam-roles-anywhere-cdp/)
 - [Amazon OpenSearch Service optimized engine now supports agent traces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-support-traces)
 - [Amazon FSx for Lustre delivers 16x higher metadata IOPS on Intelligent-Tiering file systems](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-fsx-for-lustre-intelligent-tiering-16x-higher-metadata-iops)
-- [Amazon RDS for Oracle now supports Kerberos authentication with self-managed Active Directory](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-kerberos-self-managed-ad/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

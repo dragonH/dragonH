@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Kimi K3.1 Pro &lpar;Highspeed&rpar; now available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/11/moonshot-ai-kimi-k3-1-pro-on-amazon-bedrock)
-- [Agent Registry is now generally available in AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-agent-registry-govcloud-us-west/)
-- [Amazon MSK Replicator is now available in AWS GovCloud &lpar;US-East, US-West&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-msk-replicator-additional-aws-regions)
-- [Amazon Redshift expands SUPER data type to store strings up to 16 million bytes](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-redshift-expands-super-to-16-million-bytes/)
-- [AWS launches support for amortization of EC2 Capacity Blocks for ML](https://aws.amazon.com/about-aws/whats-new/2026/10/aws-ec2-capacity-blocks-ml/)
-- [Capacity Reservation Resource Groups now support Amazon EC2 Capacity Blocks and interruptible Capacity Reservations in AWS GovCloud &lpar;US&rpar; Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/capacity-reservation-resource-groups-support-in-aws-govcloud-regions)
-- [AWS Elemental MediaConvert adds a native integration with AWS Elemental Inference Smart Subtitles](https://aws.amazon.com/about-aws/whats-new/2026/11/mediaconvert-elemental-smart-subtitles/)
-- [AWS Glue Data Catalog now supports catalog-vended credentials with Apache Iceberg REST catalog federation](https://aws.amazon.com/about-aws/whats-new/2026/11/glue-catalog-vended-credentials-iceberg/)
-- [Amazon Simple Email Service is now available in six new AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-simple-email-service-new-aws-regions/)
-- [AWS Security Hub now provides an SBOM inventory for your compute resources](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-sbom-inventory/)
+- [AWS Glue adds 100 new native connectors for popular SaaS applications](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-glue-adds-100-new-native-connectors/)
+- [AWS STS now supports cross-partition federation for AWS identities](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition)
+- [Amazon Quick is now AWS Quick](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-aws-quick/)
+- [Claude Fable 5.2 is now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/)
+- [Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/)
+- [Amazon Connect Customer launches evaluation form templates](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-evaluation-form-templates/)
+- [Introducing an open-source UI for graph analytics over data lakes with Amazon Neptune Analytics](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-graphover-datalakes-generally-available)
+- [Amazon DocumentDB Serverless now provides up to 35% higher throughput](https://aws.amazon.com/about-aws/whats-new/2026/11/documentdb-serverless-platform-version-4/)
+- [Amazon Athena introduces system tables for observability, auditing, and usage analytics](https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/)
+- [Claude Fable 5.2 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

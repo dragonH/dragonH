@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Bedrock AgentCore now offers a Web Search API](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-web-search-api/)
+- [Amazon CloudWatch Logs announces account-level retention policies](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/)
 - [AWS Glue adds 100 new native connectors for popular SaaS applications](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-glue-adds-100-new-native-connectors/)
 - [AWS STS now supports cross-partition federation for AWS identities](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-sts-cross-partition)
 - [Amazon Quick is now AWS Quick](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-quick-aws-quick/)
 - [Claude Fable 5.2 is now available on AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws-govcloud/)
 - [Amazon Bedrock now offers Claude Mythos 5.2 to Eligible Customers in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-claude-mythos-5-2-govcloud/)
 - [Amazon Connect Customer launches evaluation form templates](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-evaluation-form-templates/)
+- [Amazon MWAA now supports DuckDB operators](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-mwaa-supports-duckdb-operators/)
 - [Introducing an open-source UI for graph analytics over data lakes with Amazon Neptune Analytics](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-graphover-datalakes-generally-available)
-- [Amazon DocumentDB Serverless now provides up to 35% higher throughput](https://aws.amazon.com/about-aws/whats-new/2026/11/documentdb-serverless-platform-version-4/)
-- [Amazon Athena introduces system tables for observability, auditing, and usage analytics](https://aws.amazon.com/about-aws/whats-new/2026/11/athena-system-tables/)
-- [Claude Fable 5.2 is now available on AWS](https://aws.amazon.com/about-aws/whats-new/2026/11/claude-fable-5-2-aws/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

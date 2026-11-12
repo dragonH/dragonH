@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Ornith-1.0-9B and Ornith-1.0-35B models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/ornith-1-0-9b-ornith-1-0-35b-on-sagemaker-jumpstart/)
+- [DeepSeek-V4-Pro, DeepSeek-V4-Flash, and DeepSeek-V4.1-Flash models now available on Amazon SageMaker JumpStart](https://aws.amazon.com/about-aws/whats-new/2026/01/deepseek-v4-pro-v4-flash-v4.1-flash-on-sagemaker-jumpstart/)
+- [AWS Network Security Manager now available in AWS European Sovereign Cloud and Additional New Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/network-security-mgr-eu-sovereign-cloud/)
+- [AWS Cloud WAN now supports Flow Logs](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-cloud-wan-flow-logs/)
+- [Amazon EKS Provisioned Control Plane now offers a 24 GB etcd database on 4XL and 8XL tiers](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-provisioned-control-plane-larger-etcd-database/)
+- [Amazon Cognito now supports user pool session management](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cognito-session-management/)
+- [AWS Lambda MicroVMs now supports the x86 CPU architecture](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-microvms-x86-architecture/)
+- [Amazon EKS Auto Mode now supports security groups for Pods](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eks-auto-mode-security-groups-for-pods/)
+- [AWS Emulator is now available for building and testing AWS applications locally](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-emulator-now-available/)
 - [AWS Quick apps are now available in Asia Pacific &lpar;Singapore&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-apps-available-in-asia-pacific-singapore/)
-- [AWS Billing and Cost Management now supports AWS Billing Conductor and AWS Billing Transfer views as source views for custom billing views](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-and-cost-management-multi-source-custom-billing-views)
-- [Amazon EC2 G7 instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-additional-regions/)
-- [Amazon OpenSearch Service announces managed cross-Region disaster recovery](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-service-managed-cross-region-disaster-recovery/)
-- [Amazon RDS for PostgreSQL announces Extended Support minor versions 13.23-rds.20260819, 12.22-rds.20260820 and 11.22-rds.20260822](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-extended-support/)
-- [Amazon RDS for MySQL 26.10 is now available in Amazon RDS Database Preview Environment](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-mysql-26-10-preview-environment/)
-- [AWS Partner Central now provides an improved business planning experience](https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-business-planning/)
-- [Amazon S3 Access Grants now support listing grants across multiple AWS accounts](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-access-grants-list-across-regions/)
-- [Amazon Bedrock adds bedrock-runtime endpoint support for Daybreak models](https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-daybreak-on-amazon-bedrock-runtime/)
-- [Amazon S3 Tables now support S3 server access logging](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-s3-tables-server-access-logging/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

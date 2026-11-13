@@ -67,7 +67,7 @@
 - [Amazon Route 53 Domains now supports self-service restore for expired and deleted domains](https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-domains-self-service-restore/)
 - [EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration)
 - [Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%](https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/)
-- [AWS Backup adds logically air-gapped vault support for Amazon EBS Snapshots Archive](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-backup-lag-vault-ebs-archive/)
+- [AWS Glue announces automatic version upgrades for Apache Spark jobs](https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

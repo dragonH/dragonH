@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Aurora PostgreSQL with express configuration now supported in CloudFormation](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/)
+- [Grok 4.7 now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/)
+- [Amazon RDS for Oracle reduces downtime for automatic minor version upgrades and scheduled maintenance](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/)
+- [AWS Security Hub CSPM now supports centralized configuration with AWS Organizations declarative policies](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/)
+- [Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs](https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/)
+- [AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/)
+- [AWS Secrets Manager now supports cross-account replication](https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/)
+- [Amazon SageMaker Unified Studio now supports layout customization for designations](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/)
 - [Amazon Cognito now supports OAuth 2.0 token exchange](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-token-exchange/)
 - [Amazon Aurora and RDS now support Graviton5-based R9g database instances](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-rds-postgresql-mysql-mariadb-r9g-instances/)
-- [Amazon MWAA now supports fine-grained access control with IAM Identity Center and multi-team environments](https://aws.amazon.com/about-aws/whats-new/2026/11/mwaa-fine-grained-access-control/)
-- [Amazon Connect Customer supports merging and linking related cases in the agent workspace](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-merge-link/)
-- [Amazon SNS now supports push notifications in four additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-sns-push-four-regions/)
-- [AWS Quick enhances granular governance with the ability to restrict structured data sources](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-structured-data-source-restrictions/)
-- [Amazon Route 53 Domains now supports self-service restore for expired and deleted domains](https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-domains-self-service-restore/)
-- [EC2 Image Builder console now integrates with the DevOps Agent for troubleshooting and resource creation](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-image-builder-devops-agent-integration)
-- [Amazon FSx for Lustre lowers the entry cost of Intelligent-Tiering file systems by 75%](https://aws.amazon.com/about-aws/whats-new/2026/11/fsx-lustre-intelligent-tiering-lower-throughput/)
-- [AWS Glue announces automatic version upgrades for Apache Spark jobs](https://aws.amazon.com/about-aws/whats-new/2026/11/glue-spark-auto-upgrades/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

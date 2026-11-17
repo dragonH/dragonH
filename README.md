@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS WAF advanced rate-based rules are now available in AWS GovCloud &lpar;US&rpar;, Thailand, and Mexico](https://aws.amazon.com/about-aws/whats-new/2026/11/waf-advanced-rate-rules-available/)
-- [AgentCore runtime instances are now available in six more AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-aws-regions/)
-- [Aurora PostgreSQL with express configuration now supported in CloudFormation](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-postgresql-cloudformation/)
-- [Grok 4.7 now available on Kiro in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/kiro-grok-4-7-aws-govcloud-us/)
-- [Amazon RDS for Oracle reduces downtime for automatic minor version upgrades and scheduled maintenance](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-reduces-maintenance-downtime-for-amvu-scheduled-upgrades/)
-- [AWS Security Hub CSPM now supports centralized configuration with AWS Organizations declarative policies](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-cspm-org-policies/)
-- [Amazon Bedrock AgentCore Identity now supports OAuth 2.0 discovery URLs](https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-oauth2-discovery/)
-- [AWS Secrets Manager now supports cross-account replication](https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-cross-account/)
-- [Amazon SageMaker Unified Studio now supports layout customization for designations](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-layout-customization/)
-- [AWS Batch on Amazon EKS adds Linux capabilities, seccomp, and pod-level settings](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-batch-eks-security-context/)
+- [Amazon ECR now replicates image deletions across regions and accounts](https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr)
+- [Amazon EBS now supports associating additional KMS keys with snapshots](https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/)
+- [Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results](https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/)
+- [Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement)
+- [AWS DevOps Agent is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-govcloud-west/)
+- [Amazon Connect Health medical coding is now available in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-health-medical-coding/)
+- [AWS KMS now supports key sharing with AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/)
+- [Set up, connect, and govern AI agents faster with Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern)
+- [AWS Marketplace Metering Service now supports decimal usage quantities](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/)
+- [AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks](https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

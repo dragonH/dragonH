@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Amazon ECR now replicates image deletions across regions and accounts](https://aws.amazon.com/about-aws/whats-new/2026/11/replication-deletes-amazon-ecr)
-- [Amazon EBS now supports associating additional KMS keys with snapshots](https://aws.amazon.com/about-aws/whats-new/2026/11/ebs-snapshots-associate-kms-keys/)
-- [Amazon S3 Vectors now supports hybrid search combining vector and full text for more relevant search results](https://aws.amazon.com/about-aws/whats-new/2026/11/s3-vectors-hybrid-search/)
-- [Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement)
-- [AWS DevOps Agent is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-govcloud-west/)
-- [Amazon Connect Health medical coding is now available in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-health-medical-coding/)
-- [Amazon Connect Customer agent assist now supports interactive responses](https://aws.amazon.com/about-aws/whats-new/2026/11/Connect-Custom-agent-interactive-responses)
-- [AWS KMS now supports key sharing with AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/)
-- [Set up, connect, and govern AI agents faster with Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern)
-- [AWS Marketplace Metering Service now supports decimal usage quantities](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/)
+- [AWS Security Hub now infers resource criticality from installed software and usage](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/)
+- [Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention)
+- [Amazon API Gateway REST APIs now support JWT authorizers](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/)
+- [Amazon Bedrock AgentCore Memory now provides full session summaries](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries)
+- [Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/)
+- [Amazon Bedrock AgentCore now offers free monthly web search queries](https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/)
+- [AWS Config announces managed conformance packs](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs)
+- [Amazon Aurora DSQL now offers SQL statement statistics in Database Insights](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/)
+- [OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/)
+- [Amazon WorkSpaces Advisor now helps you find issues before your users notice them &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

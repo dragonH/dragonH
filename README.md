@@ -64,10 +64,10 @@
 - [Amazon Redshift now supports multi-statement transactions, conflict resolution, and time travel for Apache Iceberg](https://aws.amazon.com/about-aws/whats-new/2026/11/redshift-time-travel-multi-statement)
 - [AWS DevOps Agent is now available in AWS GovCloud &lpar;US-West&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-govcloud-west/)
 - [Amazon Connect Health medical coding is now available in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-health-medical-coding/)
+- [Amazon Connect Customer agent assist now supports interactive responses](https://aws.amazon.com/about-aws/whats-new/2026/11/Connect-Custom-agent-interactive-responses)
 - [AWS KMS now supports key sharing with AWS Resource Access Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/kms-key-sharing-resource-access-manager/)
 - [Set up, connect, and govern AI agents faster with Amazon WorkSpaces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-AI-agents-connect-govern)
 - [AWS Marketplace Metering Service now supports decimal usage quantities](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace-metering-service-decimal-usage-quantities/)
-- [AWS Secrets Manager adds managed external secrets support for Auth0, Okta, and Palo Alto Networks](https://aws.amazon.com/about-aws/whats-new/2026/11/secrets-manager-managed-external-secrets-auth0-okta-palo-alto/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

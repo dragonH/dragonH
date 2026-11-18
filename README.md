@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon WorkSpaces Applications adds support for smart card redirection](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/)
 - [Amazon EMR 8.2 is now available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/)
 - [Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/)
 - [AWS Transform now accelerates migration deals for Migration Acceleration Program &lpar;MAP&rpar; benefits](https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/)
@@ -67,7 +68,6 @@
 - [Customize AWS Elemental Inference with custom models, prompts, and decisions](https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/)
 - [AWS Security Hub now infers resource criticality from installed software and usage](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/)
 - [Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention)
-- [Amazon API Gateway REST APIs now support JWT authorizers](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

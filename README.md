@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/)
+- [AWS Lambda adds support for GPU instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/)
+- [Amazon RDS for MySQL supports MySQL minor version 8.4.13](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/)
+- [Amazon Cognito now supports point-in-time recovery](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/)
+- [Amazon RDS for MySQL now supports MySQL major version 9.7](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-974-available/)
+- [Amazon CloudFront Functions now supports network calls](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-functions-network-calls/)
+- [Amazon RDS now supports fast storage volume initialization](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-fast-storage-volume-initialization/)
+- [AWS Lambda now supports customer-managed runtimes, giving platform teams centralized control over runtime contents and updates](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-customer-managed-runtimes/)
+- [AWS Control Tower now supports existing Amazon S3 bucket for log delivery](https://aws.amazon.com/about-aws/whats-new/2026/11/control-tower-existing-s3-log-bucket/)
 - [Amazon WorkSpaces Applications adds support for smart card redirection](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-smart-card-redirection/)
-- [Amazon EMR 8.2 is now available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/)
-- [Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/)
-- [AWS Transform now accelerates migration deals for Migration Acceleration Program &lpar;MAP&rpar; benefits](https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/)
-- [Amazon EC2 C8gn instances are now available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/)
-- [Amazon EC2 C8ine instances are now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine)
-- [Amazon ECR now supports global authentication tokens for private registries](https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr)
-- [Customize AWS Elemental Inference with custom models, prompts, and decisions](https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/)
-- [AWS Security Hub now infers resource criticality from installed software and usage](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/)
-- [Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

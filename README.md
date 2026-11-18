@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EMR 8.2 is now available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-emr-8.2/)
+- [Introducing the Apache Spark Optimization Agent for Amazon EMR Serverless](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-optimization-agent/)
+- [AWS Transform now accelerates migration deals for Migration Acceleration Program &lpar;MAP&rpar; benefits](https://aws.amazon.com/about-aws/whats-new/2026/11/map-integration-with-aws-transform/)
+- [Amazon EC2 C8gn instances are now available in AWS Israel &lpar;Tel Aviv&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8gn/)
+- [Amazon EC2 C8ine instances are now available in AWS Europe &lpar;Ireland&rpar; region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c8ine)
+- [Amazon ECR now supports global authentication tokens for private registries](https://aws.amazon.com/about-aws/whats-new/2026/11/global-authentication-amazon-ecr)
+- [Customize AWS Elemental Inference with custom models, prompts, and decisions](https://aws.amazon.com/about-aws/whats-new/2026/11/elemental-inference-functions-decisions/)
 - [AWS Security Hub now infers resource criticality from installed software and usage](https://aws.amazon.com/about-aws/whats-new/2026/11/security-hub-resource-criticality/)
 - [Amazon Bedrock AgentCore Memory now supports short-term memory retention of up to 10 years](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-10-year-retention)
 - [Amazon API Gateway REST APIs now support JWT authorizers](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-rest-authorizers-jwt/)
-- [Amazon Bedrock AgentCore Memory now provides full session summaries](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-bedrock-agentcore-memory-full-session-summaries)
-- [Amazon SageMaker now supports AI data preparation capabilities to build high-quality datasets for model development](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-ai-data-prep-capabilities/)
-- [Amazon Bedrock AgentCore now offers free monthly web search queries](https://aws.amazon.com/about-aws/whats-new/2026/11/bedrock-agentcore-free-web-search-queries/)
-- [AWS Config announces managed conformance packs](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-config-managed-conformance-packs)
-- [Amazon Aurora DSQL now offers SQL statement statistics in Database Insights](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-statement-statistics/)
-- [OpenAI GPT-6.2 Astra, and GPT-6.2 Sol are now generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/11/openai-gpt-6-2-astra-sol-amazon-bedrock/)
-- [Amazon WorkSpaces Advisor now helps you find issues before your users notice them &lpar;Public Preview&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/workspaces-advisor-proactive-troubleshooting-preview)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

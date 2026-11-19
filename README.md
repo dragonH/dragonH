@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Transform automates source and migration target actions to accelerate cutover](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/)
-- [Amazon OpenSearch Memory is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/)
-- [Introducing the Apache Spark Optimization Agent for AWS Glue ETL](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/)
-- [Amazon SageMaker AI now supports cross-Region inference routing](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/)
-- [AWS announces ExtendDB 1.0](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-extenddb-1-0/)
-- [AWS Transform custom now supports cross-account sharing of transformation definitions](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-custom-cross-account-td/)
-- [Amazon CloudFront standard logging now supports CMCD and additional log fields](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-standard-logging-cmcd-fields)
-- [Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/)
-- [AWS Lambda adds support for GPU instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/)
-- [Amazon RDS for MySQL supports MySQL minor version 8.4.13](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/)
+- [AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/)
+- [AWS Transform combines migration assessment and planning in one experience](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning)
+- [AWS Transform extends application-centric migration across the lifecycle](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration)
+- [Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk)
+- [AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls)
+- [AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions](https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/)
+- [Amazon MSK Connect now supports restarting existing connectors](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors)
+- [Amazon Aurora DSQL now supports multi-Region peering across continents](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/)
+- [AWS Marketplace now supports buyer contact sharing at subscription](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/)
+- [AWS Systems Manager Parameter Store raises API throughput limits](https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,7 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Transform automates source and migration target actions to accelerate cutover](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-automates-source-actions/)
 - [Amazon OpenSearch Memory is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-memory-generally-available/)
 - [Introducing the Apache Spark Optimization Agent for AWS Glue ETL](https://aws.amazon.com/about-aws/whats-new/2026/11/apache-spark-aws-glue-etl/)
 - [Amazon SageMaker AI now supports cross-Region inference routing](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-cross-region-routing/)
@@ -67,7 +68,6 @@
 - [Amazon CloudFront Announces WebSocket and gRPC Support for Origin Mutual TLS](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudfront-origin-mtls-websockets-grpc/)
 - [AWS Lambda adds support for GPU instances on Lambda Managed Instances](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-gpu-managed-instances/)
 - [Amazon RDS for MySQL supports MySQL minor version 8.4.13](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-mysql-8413-available/)
-- [Amazon Cognito now supports point-in-time recovery](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-point-in-time-recovery/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

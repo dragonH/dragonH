@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [Announcing the general availability of a new AWS Local Zone in Bogotá, Colombia](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-local-zone-bogota-colombia/)
-- [AWS DevOps Agent now supports Slack code channels and Microsoft Teams two-way conversations](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-devops-agent-slack-code-channels-teams-two-way/)
-- [AWS Marketplace now supports agentic payments with AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/)
-- [Amazon Cognito now supports client ID metadata documents](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/)
-- [Amazon Aurora DSQL now delivers up to 50% higher write throughput](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/)
-- [Amazon CloudFront adds IP based routing and connection logs to SaaS Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging)
-- [Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants)
-- [Amazon Connect launches Resolutions, an agentic solution for high-volume operational work](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/)
-- [AWS Lambda durable functions now supports OpenTelemetry tracing](https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/)
-- [AWS Marketplace agent mode now helps you assess, buy, and deploy solutions](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion)
+- [AWS Billing and Cost Management now offers APIs to track payment status](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/)
+- [Amazon EventBridge Scheduler adds 589 new API actions and event bus targets](https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/)
+- [AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support](https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/)
+- [Amazon EventBridge Custom event bus now supports Webhook Events](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events)
+- [Amazon EventBridge Custom event bus now supports Amazon MSK as a target](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/)
+- [Amazon Aurora MySQL 8.4.12 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/)
+- [Amazon Connect Customer expands how teams track and act on service level agreements for cases](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/)
+- [AWS Transform announces UI component modernization for Windows web applications](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/)
+- [AWS Transform announces support for .NET 11 and expanded project types](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/)
+- [Introducing Amazon EC2 T9g instances based on Graviton5](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

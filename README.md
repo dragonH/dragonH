@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Revenue Measurement now supports deal-level revenue attribution for AWS Marketplace offers and opportunities](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-revenue-measurement-deal-attribution/)
-- [AWS Transform combines migration assessment and planning in one experience](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-assessment-and-planning)
-- [AWS Transform extends application-centric migration across the lifecycle](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-application-centric-migration)
-- [Amazon IVS Real-Time Streaming now provides a Linux broadcast SDK](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ivs-real-time-streaming-linux-broadcast-sdk)
-- [AWS Elemental MediaTailor adds Dynamic Avail Sizing for live HLS](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-elemental-mediatailor-dynamic-avail-sizing-live-hls)
-- [AWS Partner Central now supports AI-assisted listing experience for product, services, and solutions](https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-ai-listing/)
-- [Amazon MSK Connect now supports restarting existing connectors](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-msk-connect-restart-existing-connectors)
-- [Amazon Aurora DSQL now supports multi-Region peering across continents](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-intercontinental-multi-region-clusters/)
-- [AWS Marketplace now supports buyer contact sharing at subscription](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-buyer-contact-sharing/)
-- [AWS Systems Manager Parameter Store raises API throughput limits](https://aws.amazon.com/about-aws/whats-new/2026/11/parameter-store-raises-api-throughput-limits/)
+- [AWS Marketplace now supports agentic payments with AgentCore](https://aws.amazon.com/about-aws/whats-new/2026/11/marketplace-agentic-payments-agentcore/)
+- [Amazon Cognito now supports client ID metadata documents](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-client-id-metadata-documents/)
+- [Amazon Aurora DSQL now delivers up to 50% higher write throughput](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-dsql-higher-write-throughput/)
+- [Amazon CloudFront adds IP based routing and connection logs to SaaS Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-ip-based-routing-connection-logging)
+- [Amazon CloudFront simplifies domain moves and onboarding for SaaS Manager](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-domain-moves-distribution-tenants)
+- [Amazon Connect launches Resolutions, an agentic solution for high-volume operational work](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-resolutions/)
+- [AWS Lambda durable functions now supports OpenTelemetry tracing](https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-otel/)
+- [AWS Marketplace agent mode now helps you assess, buy, and deploy solutions](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-marketplace/aws-marketplace-agent-mode-expansion)
+- [Amazon WorkSpaces Applications now supports WebAuthn redirection](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-workspaces-applications-webauthn-redirection/)
+- [Amazon Route 53 now supports health checks for private endpoints](https://aws.amazon.com/about-aws/whats-new/2026/11/route-53-private-endpoint-health-checks/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Billing and Cost Management now offers APIs to track payment status](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-billing-cost-management-apis-payment-status/)
-- [Amazon EventBridge Scheduler adds 589 new API actions and event bus targets](https://aws.amazon.com/about-aws/whats-new/2026/11/eventbridge-scheduler-new-api-actions/)
-- [AWS CloudFormation Service-Managed StackSets adds custom execution roles with nested stacks support](https://aws.amazon.com/about-aws/whats-new/2026/11/stacksets-custom-execution-roles/)
-- [Amazon EventBridge Custom event bus now supports Webhook Events](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-webhook-events)
-- [Amazon EventBridge Custom event bus now supports Amazon MSK as a target](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-eventbridge-msk-target/)
-- [Amazon Aurora MySQL 8.4.12 is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-aurora-mysql-8412-available/)
-- [Amazon Connect Customer expands how teams track and act on service level agreements for cases](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-cases-sla-enhancements/)
-- [AWS Transform announces UI component modernization for Windows web applications](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-ui-windows/)
-- [AWS Transform announces support for .NET 11 and expanded project types](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-transform-windows-dotnet-11/)
-- [Introducing Amazon EC2 T9g instances based on Graviton5](https://aws.amazon.com/about-aws/whats-new/2026/11/ec2-t9g-instances-ga/)
+- [Web Search on Amazon Bedrock expands language support and country-aware search](https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/)
+- [Amazon RDS for Oracle now supports Primary Endpoint](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/)
+- [AWS Network Firewall introduces automated Internet firewall in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/)
+- [Amazon RDS for Oracle now supports Replica First Patching for reduced downtime](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/)
+- [Amazon Cognito extends multi-Region replication to additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/)
+- [Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available)
+- [Amazon CloudWatch extends the PromQL query window to 30 days](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/)
+- [Demand Center now available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/)
+- [Account Mapping and Planning now available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/)
+- [Lead groups and channel recommendations now available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

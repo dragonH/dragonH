@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure)
 - [Web Search on Amazon Bedrock expands language support and country-aware search](https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/)
 - [Amazon RDS for Oracle now supports Primary Endpoint](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/)
+- [AWS Lambda now publishes Event Function state change events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/)
 - [AWS Network Firewall introduces automated Internet firewall in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/)
 - [Amazon RDS for Oracle now supports Replica First Patching for reduced downtime](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/)
 - [Amazon Cognito extends multi-Region replication to additional AWS Regions](https://aws.amazon.com/about-aws/whats-new/2026/11/cognito-mrr-opt-in-regions/)
 - [Amazon Neptune Serverless now delivers up to 30% better performance and smarter scaling](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-neptune-serverless-r8g-generally-available)
 - [Amazon CloudWatch extends the PromQL query window to 30 days](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudwatch-promql-query-30days/)
-- [Demand Center now available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/11/demand-center-partner-central/)
 - [Account Mapping and Planning now available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/11/account-mapping-and-planning/)
-- [Lead groups and channel recommendations now available in AWS Partner Central](https://aws.amazon.com/about-aws/whats-new/2026/11/partner-central-lead-groups/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

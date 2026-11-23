@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
-- [AWS Quick now supports plugins to bundle agents, skills, connectors and flows](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-plugins-bundle-agents-skills-connectors-flows/)
-- [Amazon CloudWatch Omni now supports Microsoft Azure platform logs, metrics and traces](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-microsoft-azure)
-- [AWS Quick launches a new web experience with updated browser extension and Microsoft 365 add-ins](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-launches-new-web-experience-updated-browser-extension-microsoft-365-add-ins/)
-- [Web Search on Amazon Bedrock expands language support and country-aware search](https://aws.amazon.com/about-aws/whats-new/2026/11/web-search-amazon-bedrock/)
-- [Build more capable automations through chat with Flows in AWS Quick](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-flows-automations-chat/)
-- [Amazon RDS for Oracle now supports Primary Endpoint](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-primary-endpoint-v2/)
-- [AWS Lambda now publishes Event Function state change events to Amazon EventBridge](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-lambda-function-state-events/)
-- [AWS Network Firewall introduces automated Internet firewall in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/network-firewall-automated-internet/)
-- [AWS Quick now supports Japanese, German, Vietnamese, and Chinese](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-quick-japanese-german-chinese-vietnamese/)
-- [Amazon RDS for Oracle now supports Replica First Patching for reduced downtime](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-oracle-replica-first-patching/)
+- [Amazon Connect Customer expands automated performance evaluations to 45 new languages](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/)
+- [AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions](https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/)
+- [AgentCore runtime instances are now generally available in the AWS GovCloud &lpar;US-West&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/11/agentcore-runtime-instances-govcloud)
+- [Amazon CloudFront Announces HTTP/2 Support for Connections to Origins](https://aws.amazon.com/about-aws/whats-new/2026/01/amazon-cloudfront-http2-origins/)
+- [AWS Global Accelerator now preserves client IPs for NLBs with TLS listeners](https://aws.amazon.com/about-aws/whats-new/2026/11/global-accelerator-client-ip-nlb-tls/)
+- [Announcing metal size for Amazon EC2 G7 instances](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-g7-metal-size/)
+- [Amazon Aurora serverless for MySQL now supports up to 384 ACUs](https://aws.amazon.com/about-aws/whats-new/2026/11/aurora-serverless-mysql-supports-384-acu/)
+- [Amazon SageMaker Studio now supports training job submission and model deployment for SageMaker HyperPod clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-studio-hyperpod/)
+- [Amazon Connect Customer AI agents now fill in step-by-step guides](https://aws.amazon.com/about-aws/whats-new/2026/11/connect-ai-agents-fill-guides/)
+- [AWS CodeDeploy now supports suspending Amazon EC2 Auto Scaling processes](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-codedeploy-suspend-asg-processes/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

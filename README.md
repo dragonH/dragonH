@@ -61,13 +61,13 @@
 - [Amazon EC2 X8i instances are now available in the Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/)
 - [AWS Sign-In introduces configurable Sign-in duration of up to 90 days](https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/)
 - [Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/)
+- [Amazon OpenSearch Service now supports OpenSearch version 3.9](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9)
 - [AWS WAF introduces simplified pricing](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-waf-introduces-simplified-pricing/)
 - [AWS WAF announces automated discovery and protection for LLM, MCP, and A2A endpoints using Amazon Bedrock Guardrails](https://aws.amazon.com/about-aws/whats-new/2026/11/waf-ai-endpoint-discovery-protection/)
 - [Amazon Connect Customer launches the ability to force logout agents directly from the analytics dashboard](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-force-logout/)
 - [Amazon Connect Customer now lets you test AI model version upgrades for automated evaluations](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-test-ai-model-version-upgrades-automated-evaluations)
 - [Amazon Connect Customer expands automated performance evaluations to 45 new languages](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-customer-expands-automated-performance-evaluations-new-languages/)
 - [Amazon CloudFront is now available in the AWS European Sovereign Cloud](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudfront-european-sovereign-cloud)
-- [AWS Partner Central expands analytics access with Partner Central Agents and Data Subscriptions](https://aws.amazon.com/about-aws/whats-new/2026/11/partner-analytics-agent-s3/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

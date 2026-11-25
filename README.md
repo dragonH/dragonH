@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon EC2 M8g instances are now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/)
+- [Amazon EC2 M9gd instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/)
+- [Amazon EC2 C9gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/)
+- [Amazon EC2 C9g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/)
+- [Amazon EC2 M9g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/)
+- [AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges/)
+- [AWS IoT Core quotas and usage are now visible in AWS Service Quotas console](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-quota-usage-monitoring/)
+- [AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/)
+- [AWS IoT Core now supports custom domain names for the AWS IoT credential provider](https://aws.amazon.com/aws-iot-core-custom-domains-credential-provider)
 - [Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/)
-- [Amazon OpenSearch Serverless is now available in the Africa &lpar;Cape Town&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-serverless-available-cape-town-region/)
-- [AWS CloudFormation makes resource coverage comprehensive with 206 new types](https://aws.amazon.com/about-aws/whats-new/2026/11/cloudformation-coverage-expansion/)
-- [Amazon Connect Customer dashboards now support grouping historical metrics by time interval](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-connect-time-interval/)
-- [Amazon RDS for SQL Server now supports up to 500 databases per instance](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance)
-- [Amazon EC2 X8i instances are now available in the Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/)
-- [AWS Sign-In introduces configurable Sign-in duration of up to 90 days](https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/)
-- [Amazon API Gateway announces API Portal](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/)
-- [Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/)
-- [Amazon OpenSearch Service now supports OpenSearch version 3.9](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

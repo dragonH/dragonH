@@ -65,8 +65,8 @@
 - [Amazon RDS for SQL Server now supports up to 500 databases per instance](https://aws.amazon.com/about-aws/whats-new/2026/11/rds-sqlserver-supports-500-databases-per-instance)
 - [Amazon EC2 X8i instances are now available in the Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-x8i-new-zealand/)
 - [AWS Sign-In introduces configurable Sign-in duration of up to 90 days](https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/)
-- [Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/)
 - [Amazon API Gateway announces API Portal](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-api-gateway-announces-api-portal/)
+- [Amazon SageMaker HyperPod now supports managed observability and user management extensions for Slurm clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/sagemaker-hyperpod-extensions/)
 - [Amazon OpenSearch Service now supports OpenSearch version 3.9](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-opensearch-opensearch-3-9)
 <!-- AWS-NEWS:END -->
 

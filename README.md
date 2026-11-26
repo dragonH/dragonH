@@ -65,9 +65,9 @@
 - [Amazon EC2 C9gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/)
 - [Amazon EC2 C9g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/)
 - [Amazon EC2 M9g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/)
+- [Elastic Load Balancing for Envoy is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/elastic-load-balancing-for-envoy-generally-available)
 - [Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/)
 - [AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges/)
-- [AWS IoT Core quotas and usage are now visible in AWS Service Quotas console](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-quota-usage-monitoring/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

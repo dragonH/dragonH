@@ -58,16 +58,16 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions](https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/)
+- [Amazon CloudWatch Omni now integrates with PagerDuty](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/)
 - [Amazon EC2 M8g instances are now available in Israel &lpar;Tel Aviv&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m8g-instances-telaviv-region/)
 - [Amazon EC2 M9gd instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/)
 - [Amazon EC2 C9gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/)
 - [Amazon EC2 C9g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/)
 - [Amazon EC2 M9g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/)
+- [Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/)
 - [AWS IoT Core now uses dedicated IPv6 address ranges for the HTTP rule action](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-dedicated-ipv6-ranges/)
 - [AWS IoT Core quotas and usage are now visible in AWS Service Quotas console](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iot-core-quota-usage-monitoring/)
-- [AWS IAM extends trusted identity propagation to IAM federation and IAM Roles Anywhere, and simplifies it in IAM Identity Center](https://aws.amazon.com/about-aws/whats-new/2026/11/aws-iam/)
-- [AWS IoT Core now supports custom domain names for the AWS IoT credential provider](https://aws.amazon.com/aws-iot-core-custom-domains-credential-provider)
-- [Amazon Bedrock adds bedrock-runtime endpoint support for OpenAI Daybreak Red in AWS GovCloud &lpar;US&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/gpt-daybreak-red-runtime-govcloud/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)

@@ -58,6 +58,9 @@
 ### 📺 Latest AWS News
 
 <!-- AWS-NEWS:START -->
+- [Amazon Timestream for InfluxDB 3 now supports heterogeneous clusters](https://aws.amazon.com/about-aws/whats-new/2026/11/influxdb-heterogeneous-cluster/)
+- [Amazon CloudWatch announces basic OpenTelemetry enrichment at no additional cost](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-opentelemetry-enrichment/)
+- [Amazon Neptune introduces Neptune Graph Sessions, smaller graphs designed for agents that scale to zero and resume automatically](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-neptune-graph-sessions-generally-available)
 - [Amazon RDS for PostgreSQL supports minor versions 18.7, 17.12, 16.16, 15.20, and 14.25](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-rds-postgresql-18-7-17-12-16-16-15-20-14-25/)
 - [AWS Lambda now supports orchestrating MicroVMs with Lambda durable functions](https://aws.amazon.com/about-aws/whats-new/2026/11/lambda-durable-microvm/)
 - [Amazon CloudWatch Omni now integrates with PagerDuty](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-omni-pagerduty/)
@@ -65,9 +68,6 @@
 - [Amazon EC2 M9gd instances are now available in Asia Pacific &lpar;Seoul&rpar;](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9gd-asiapacific-seoul/)
 - [Amazon EC2 C9gd instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9gd-instances-additional-regions/)
 - [Amazon EC2 C9g instances are now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-c9g-instances-additional-regions/)
-- [Amazon EC2 M9g instances now available in additional regions](https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-ec2-m9g-instances-additional-regions/)
-- [Elastic Load Balancing for Envoy is now generally available](https://aws.amazon.com/about-aws/whats-new/2026/11/elastic-load-balancing-for-envoy-generally-available)
-- [Amazon Transcribe Turbo: more accurate transcripts and natural turn-taking for voice agents, now in public preview](https://aws.amazon.com/about-aws/whats-new/2026/11/transcribe-turbo-preview/)
 <!-- AWS-NEWS:END -->
 
 ➡️ [more aws news...](https://aws.amazon.com/about-aws/whats-new/)
